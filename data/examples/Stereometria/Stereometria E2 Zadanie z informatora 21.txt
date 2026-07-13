@@ -1,0 +1,87 @@
+
+--- STRONA 1 ---
+W ostrosłupie prawidłowym czworokątnym ABCDE punkt O jest środkiem symetrii podstawy ostrosłupa. Stosunek obwodu podstawy ABCD do sumy długości wszystkich krawędzi ostrosłupa jest równy 1:5. Przez przekątną AC podstawy i środek S krawędzi bocznej BE poprowadzono płaszczyznę.
+
+Oblicz stosunek pola otrzymanego przekroju do pola podstawy ostrosłupa oraz miarę kąta BSO (w zaokrągleniu do 1°).
+
+1) sporządzamy rysunek pomocniczy
+   i wprowadzamy oznaczenia
+
+\[
+\frac{4a}{4a+4b} = \frac{1}{5}
+\]
+
+\[
+20a = 4a + 4b
+\]
+
+\[
+16a = 4b
+\]
+
+\[
+4a = b
+\]
+
+\[
+b = 4a
+\]
+
+\[
+|BS| = |ES| = 2a
+\]
+
+\[
+P_p = a^2
+\]
+
+\[
+P_{przekroju} = \frac{1}{2} |AC| \cdot |SO|
+\]
+
+\[
+|AC| - \text{przekątna} = a \sqrt{2}
+\]
+
+2) wyznaczamy długość |SO|
+   
+   S - środek okręgu opisanego na ΔOBE
+   |EB| -> średnica, |∠EOB| = 90° oparty na średnicy
+   
+   więc |SO| = R = 2a
+
+3) liczymy pole przekroju i stosunek
+
+\[
+P_{przekroju} = \frac{1}{2} \cdot a\sqrt{2} \cdot 2a = a^2 \sqrt{2}
+\]
+
+\[
+\frac{P_{przekroju}}{P_p} = \frac{a^2 \sqrt{2}}{a^2} = \sqrt{2}
+\]
+
+4) wyznaczamy miarę kąta α
+
+\[
+\left( \frac{1}{2} a \sqrt{2} \right)^2 = (2a)^2 + (2a)^2 - 2 \cdot 2a \cdot 2a \cdot \cos \alpha
+\]
+
+z tw. cosinusów w ΔOSB
+
+\[
+\frac{1}{2} a^2 = 8a^2 - 8a^2 \cos \alpha
+\]
+
+\[
+8a^2 \cos \alpha = \frac{15}{2} a^2
+\]
+
+\[
+\cos \alpha = \frac{15}{2} \cdot \frac{a^2}{8a^2} = \frac{15}{16} \approx 0,9375 \Rightarrow 20^\circ
+\]
+
+(z tablic)
+
+\[
+\text{odp: } \frac{P_{przekroju}}{P_p} = \sqrt{2}, \; \alpha \approx 20^\circ
+\]

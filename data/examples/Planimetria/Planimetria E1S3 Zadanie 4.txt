@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Zad. 4 W trójkąt równoramienny o podstawie o długości 4 cm i ramieniu o długości 6 cm wpisano okrąg. Oblicz promień tego okręgu oraz odległości środka okręgu od wierzchołków tego trójkąta.
+
+1) Tworzymy rysunek poglądowy:
+
+[rysunek trójkąta]
+
+2) Wyznaczamy wysokość trójkąta z tw. Pitagorasa:
+
+2^2 + H^2 = c^2  
+H^2 = 36 - 4 = 32  
+H = sqrt{32} = 4 sqrt{2}  
+
+3) Korzystamy ze wzorów na pole trójkąta i tworzymy równanie z promieniem:
+
+P_△ = 1/2 * 4 * 4 sqrt{2} = 8 sqrt{2}  
+p = (4+6+6)/2 = 8  
+
+P_△ = p * r = 8r  
+8r = 8 sqrt{2} /8  
+r = sqrt{2}  
+
+4) Ponownie używamy tw. Pitagorasa i wyznaczamy odległości środka okręgu od wierzchołków trójkąta:
+
+2^2 + r^2 = d^2  
+d^2 = 4 + 2 = 6  
+d = sqrt{6} cm  
+
+H - r = 4 sqrt{2} - sqrt{2} = 3 sqrt{2} cm  
+
+Odp. r = sqrt{2} cm, |AS| = |BS| = sqrt{6} cm, |CS| = 3 sqrt{2} cm.

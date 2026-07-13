@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Wykaż, że \(2x + \frac{4}{x} \geq -5\), gdy \(x > 0\).
+
+\(2x + \frac{4}{x} \geq -5\), \(x > 0\)
+
+① przekształcamy nierówność
+
+\(2x + \frac{4}{x} \geq -5 \quad / \cdot x \quad > 0\)
+
+\(2x^2 + 4 \geq -5x\)
+
+\(2x^2 + 5x + 4 \geq 0\)
+
+\(\Delta = 25 - 4 \cdot 4 \cdot 2 = 25 - 32 < 0\)
+
+\(2 > 0\), więc \(\cup\)
+
+② komentarz: wyrażenie \(2x^2 + 5x + 4\) jest wyrażeniem kwadratowym o ramionach skierowanych ku górze i bez miejsc zerowych, zatem wyrażenie jest \(> 0\) dla \(x > 0\), co równoważnie dowodzi prawdziwości wyjściowej nierówności c.k.d.

@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+z9 (tn)
+
+W trójkącie rozwartokątnym \(ABC\) \(\cos \angle BAC = \frac{2}{3}\) a \(\sin \angle ABC = \frac{4}{5}\) przy czym \(\angle ABC\) jest rozwarty. Oblicz \(\sin \angle ACB\). W poniższe kratki wpisz kolejno trzy pierwsze cyfry po przecinku rozwinięcia dziesiętnego otrzymanego wyniku.
+
+① Rysujemy rysunek pomocniczy.
+
+\( \angle BAC = \alpha \)
+\( \angle ABC = \beta \)
+
+\[
+\cos \alpha = \frac{2}{3} 
+\]
+
+\( \alpha \in (0°, 90°) \)
+
+\[
+\sin \beta = \frac{4}{5} 
+\]
+
+\( \beta \in (90°, 180°) \)
+
+② Obliczamy \(\sin \gamma\) korzystając ze wzorów redukcyjnych.
+
+\[
+\sin \gamma = \sin [180° - (\alpha + \beta)] = \sin (\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta 
+\]
+
+③ Obliczamy \(\sin \alpha\) korzystając z jedynki trygonometrycznej.
+
+\[
+\sin^2 \alpha + \cos^2 \alpha = 1 
+\]
+\[
+\sin^2 \alpha + \left(\frac{2}{3}\right)^2 = 1 
+\]
+\[
+\sin^2 \alpha = \frac{5}{9} 
+\]
+\[
+\sin \alpha = \frac{\sqrt{5}}{3} \quad \text{bo } \alpha \in (0°, 90°)
+\]
+
+④ Obliczamy \(\cos \beta\) korzystając z jedynki trygonometrycznej.
+
+\[
+\sin^2 \beta + \cos^2 \beta = 1 
+\]
+\[
+\left(\frac{4}{5}\right)^2 + \cos^2 \beta = 1 
+\]
+\[
+\cos^2 \beta = \frac{9}{25}
+\]
+\[
+\cos \beta = -\frac{3}{5} \quad \text{bo } \beta \in (90°, 180°)
+\]
+
+⑤ Obliczamy do końca \(\sin \gamma\).
+
+\[
+\sin \alpha \cos \beta + \cos \alpha \sin \beta = \frac{\sqrt{5}}{3} \cdot \left(-\frac{3}{5}\right) + \frac{2}{3} \cdot \frac{4}{5} = -\frac{\sqrt{5}}{5} + \frac{8}{15} = \frac{-3\sqrt{5} + 8}{15} \approx 0,086
+\]
+
+Odp. \(\boxed{0,086}\)

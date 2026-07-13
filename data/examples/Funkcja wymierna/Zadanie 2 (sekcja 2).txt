@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+**Zadanie 2**
+
+Wykres funkcji wykładniczej \( f(x) = (0,5)^x \) przekształcono przez symetrię osiową względem osi OY i otrzymano wykres funkcji \( g \).
+
+a) Napisz wzór funkcji \( g \).  
+b) Naszkicuj wykres funkcji \( g \).  
+c) Odczytaj z wykresu funkcji \( g \) argument, dla którego wartość funkcji wynosi 8.  
+d) Dla jakich argumentów wartości funkcji \( g \) są większe od 4?  
+
+a) \(\quad\) ① \textcolor{dodgerblue}{Wyznaczamy wzór funkcji \( g(x) \).}
+
+\[
+g(x) = \left(\frac{1}{2}\right)^{-x}
+\]
+
+b) \(\quad\) ② \textcolor{dodgerblue}{Szkicujemy wykres funkcji \( g(x) \).}
+
+[graficzny wykres funkcji]
+
+c) \(\quad\) ③ \textcolor{dodgerblue}{Odczytujemy argument, dla którego \( g(x) = 8 \).}
+
+\[
+x = 3
+\]
+
+d) \(\quad\) ④ \textcolor{dodgerblue}{Odczytujemy argumenty, dla których \( g(x) > 4 \).}
+
+\[
+x \in (2, +\infty)
+\]
+
+\textcolor{orangered}{Odp.: a) \( g(x) = \left(\frac{1}{2}\right)^{-x} \), c) \( x = 3 \), d) \( x \in (2, +\infty) \).}

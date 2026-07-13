@@ -1,0 +1,31 @@
+=== ARKUSZ: 2017p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0-2)
+Ze zbioru wszystkich liczb naturalnych dwucyfrowych losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia, że wylosujemy liczbę, która jest równocześnie mniejsza od 40 i podzielna przez 3. Wynik zapisz w postaci ułamka zwykłego nieskracalnego.
+Odpowiedź: ................................................................................................................................... .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 33. $0-2$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Przykładowe rozwiązanie Jest to model klasyczny i liczba wszystkich zdarzeń elementarnych jest równa $|Omega|=90$. Zbiór wszystkich zdarzeń elementarnych to zbiór wszystkich liczb naturalnych dwucyfrowych. Niech A oznacza zdarzenie polegające na tym, że wylosujemy liczbę, która jest równocześnie mniejsza od 40 i podzielna przez 3. Zdarzeniu A sprzyjają następujące zdarzenia elementarne
+
+$$A={12, 15, 18, 21, 24, 27, 30, 33, 36, 39}.$$
+Stąd $|A|=10$. Prawdopodobieństwo zdarzenia A jest równe
+
+$$P(A)=frac{|A|}{|Omega|}=frac{10}{90}=frac{1}{9}.$$
+Odpowiedź: Prawdopodobieństwo zdarzenia, polegającego na tym, że wylosujemy liczbę, która jest równocześnie mniejsza od 40 i podzielna przez 3, jest równe $frac{1}{9}$.
+Schemat punktowania Zdający otrzymuje 1 p., gdy:
+zapisze, że $|Omega|=90$ albo
+zapisze, że $|A|=10$ i nie wskazuje przy tym niepoprawnych zdarzeń elementarnych, albo
+wypisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu A: 12, 15, 18, 21, 24, 27, 30, 33, 36, 39 i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p., gdy obliczy prawdopodobieństwo zdarzenia A i wynik zapisze w postaci ułamka:
+
+$$P(A)=frac{|A|}{|Omega|}=frac{10}{90}=frac{1}{9}.$$
+
+Uwaga
+Jeżeli zdający błędnie zapisze wynik P(A) jako liczbę większą od 1 lub mniejszą od 0, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli w przedstawionym rozwiązaniu zdający interpretuje zdarzenie elementarne jako rezultat wylosowania więcej niż jednej liczby, to za całe rozwiązanie otrzymuje 0 punktów.
+Jeżeli zdający w rozwiązaniu zapisze tylko $frac{1}{9}$, to otrzymuje 0 punktów.
+Strona 22 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.

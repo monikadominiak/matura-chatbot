@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+z1 (tn)
+
+Podaj odpowiednie założenia i sprawdź, czy tożsamością jest równość
+
+(1 + sin α) ( \(\frac{1}{\cos α} - tgα\) ) = cos α
+
+Należy starać się jedną stronę potencjalnej tożsamości (tę, która 
+na pierwszy rzut oka jest bardziej rozbudowana) przekształcać tak długo, 
+aż wyjdzie druga strona.
+
+Można również próbować przekształcać obie strony po trochu, aż „spotkają się 
+w połowie drogi”.
+
+1️⃣ Wprowadzamy oznaczenia.
+
+L = (1 + sin α)( \(\frac{1}{\cos α}\) - tg α)
+
+P = cos α
+
+2️⃣ Określamy potrzebne oznaczenia.
+
+cos α ≠ 0    ∧    tg α istnieje
+⟹
+α ≠ \(\frac{π}{2}\) + kπ, k∈Z       α ≠ \(\frac{π}{2}\) + kπ, k∈Z
+
+
+3️⃣ Przekształcamy lewą stronę równania.
+
+L = (1 + sin α)( \(\frac{1}{\cos α}\) - \(\frac{sin α}{\cos α}\) ) = (1 + sin α)( \(\frac{1-sin α}{\cos α}\) ) = 
+
+= \(\frac{(1+sin α)(1-sin α)}{\cos α}\) = \(\frac{1-sin^2 α}{\cos α}\) = \(\frac{cos^2 α}{\cos α}\) = cos α = P
+
+Odp.: Jest to tożsamość przy założeniu α ≠ \(\frac{π}{2}\) + kπ, k∈Z.

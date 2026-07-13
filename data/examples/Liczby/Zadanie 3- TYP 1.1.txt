@@ -1,0 +1,24 @@
+
+--- STRONA 1 ---
+Zadanie 3 [3 pkt] - Typ 1.1  
+Usuń niewymierność z mianownika \(\frac{2}{\sqrt[3]{5}+\sqrt[3]{15}+\sqrt[3]{9}}\)
+
+Do usuwania niewymierności z mianownika możemy wykorzystać również inne wzory skróconego mnożenia.
+
+W tym zadaniu widzimy, że w mianowniku występują pierwiastki trzeciego stopnia, dlatego spodziewamy się, że będziemy musieli podnieść do trzeciej potęgi. 
+
+W karcie wzorów możemy odnaleźć wzory związane z trzecią potęgą np.:
+
+\(a^3 - b^3 = (a-b)(a^2 + ab + b^2)\)
+
+Zauważmy, że nasz mianownik przypomina jeden z elementów tego wzoru \((a^2 + ab + b^2)\). Aby pozbyć się niewymierności musimy przemnożyć przez to, czego nam brakuje aby móc przejść do postaci po lewej stronie - podniesienie do trzeciej potęgi. Zatem:
+
+\[
+\frac{2}{(\sqrt[3]{5})^2 + (\sqrt[3]{5})(\sqrt[3]{3}) + (\sqrt[3]{3})^2} \cdot \frac{\sqrt[3]{5} - \sqrt[3]{3}}{\sqrt[3]{5} - \sqrt[3]{3}} = \frac{2 \cdot (\sqrt[3]{5} - \sqrt[3]{3})}{(\sqrt[3]{5})^3 - (\sqrt[3]{3})^3} =
+\]
+
+\[
+= \frac{2 \cdot (\sqrt[3]{5} - \sqrt[3]{3})}{5 - 3} = \frac{2 \cdot (\sqrt[3]{5} - \sqrt[3]{3})}{2} = \sqrt[3]{5} - \sqrt[3]{3}
+\]
+
+Odp: \(\sqrt[3]{5} - \sqrt[3]{3}\).

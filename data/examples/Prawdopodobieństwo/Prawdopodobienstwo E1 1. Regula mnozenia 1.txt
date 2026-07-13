@@ -1,0 +1,22 @@
+
+--- STRONA 1 ---
+Ile jest możliwych kodów, w których na początku występują dwie litery, a następnie dwie cyfry (litery i cyfry mogą się powtarzać), jeśli wykorzystujemy litery:  
+A, B, C, D, E, F, G, H oraz cyfry: 1, 2, 3, 4, 5.
+
+➀ zapisujemy liczbę elementów poszczególnych zbiorów  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;litery: A, B, C, D, E, F, G, H → 8 możliwości  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyfry: 1, 2, 3, 4, 5 → 5 możliwości  
+
+➁ zapisujemy schematycznie kod z zadania  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ _ . _ _ będziemy korzystać z reguły mnożenia  
+
+➂ zapisujemy kolejno ile jest możliwości na dane miejsce  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; używane znaki mogą się powtarzać!  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\( \underline{8 \, . \, 8} \, . \, \underline{5 \, . \, 5} \)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;litary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyfry  
+
+= 1600  
+
+odp: 1600

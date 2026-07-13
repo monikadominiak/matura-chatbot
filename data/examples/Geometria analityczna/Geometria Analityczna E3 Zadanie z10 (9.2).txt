@@ -1,0 +1,132 @@
+
+--- STRONA 1 ---
+Zadanie z10 (9.2) Prosta l, na której leży punkt P = (-4, 6) tworzy z dodatnimi półosiami układu współrzędnych trójkąt o polu równym 2. Wyznacz równanie prostej l.
+
+1) Tworzymy rysunek poglądowy.
+
+
+
+
+2) Ustalaliśmy pole trójkąta od a i b.
+
+Trójkąt jest prostokątny więc możemy skorzystać ze wzoru:
+
+P = 1/2 * |AC| * |AO|
+
+Długość odcinka pomiędzy tą pierwszą mozesz zapisać jako moduł - mamy wyłącznie wartości poszczególnych współrzędnych. zgadzam się me wzorem dla odcincka np.
+dla AC
+
+|AC| = sqrt((x2 - x1)^2 + (y2 - y1)^2) = sqrt((a - 0)^2 + (0 - 0)^2) = |a|
+
+czyli
+
+|AO| = 1 - 0) = 1 = 1c i
+|BC| = |1 - 0) | = | - b | = b (ponieważ Pracujemy wyłącznie   dodatnie wartości) ale to nawet już muszę tej obliczenia)
+
+P = 1/2 * (-a) * (-b) = 1/2 * a * b = 2
+-b * (-a) = 0
+
+
+
+3). Podstawiamy punkt P pod równanie prostej i rozwiążujemy układ równań.
+
+
+
+
+P(-4, 6) leży na l
+b * (a - 0) 
+
+| | a = -a
+(b * a) - b = 0
+1/2
+
+- 
+[a * 0] 0
+
+a 
+For [(-a) {-b} -]/1
+
+0
+[a]
+
+rozwiązuje :
+-1=( -4 ) - (-2)
+
+(nx2) : system równań :
++ :
+
+* :
+Aty prosta   jeszcze warunki zadania 
+musi zachodzić. โ
+
+
+)
+
+Aby prosta  l  spełniała warunki zadania,
+musi zachodzić:
+
+a < 0, b < 0
+
+Dla prostej owszemnej / przez otwarcia można ustalić prostopiero pracując z indexxem :
+
+A(0,c) l - 0 z osi OY
+C(x, 0) l = 0 z osią OX
+ale
+
+(b
+**(i-1)xSł
+   
+a
+
+b * a (-a) (wel.|
+
+(A
+
+Ale
+
+stocia=/ ae- -
+czasem))
+troche]
+
+-|b|=(-2)
+:
+:
+
+(-2)
+(i
+b-
+S : -
+
+  énementwaneเป็น0 : 
+          
+           
+            
+            
+ażต่างi)
+
+:
+ciel
+  
+
+4 :P-l-b
+
+ao
+brty
+: 
+
+
+Podstawiałem punkt P pod równanie prostej i rozwiajączyrówie :
+
+6=(-1)(-4)-0
+6+4a=0
+a=-6/4=-3/2
+|b|- =( -4)(6-)(-3)
+
+a=(-7)
+b :
+:
+cesz
++ |( nnx4):
+zost.)
+
+Obw.j  -  : y=- xd .

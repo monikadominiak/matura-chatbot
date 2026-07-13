@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Dany jest kwadrat \(ABCD\), punkt \(P\) jest środkiem boku \(BC\). Prosta \(PD\) przecina prostą \(AB\) w punkcie \(E\). Przez punkt \(D\) poprowadzono prostą prostopadłą do prostej \(DE\) i przecinającą prostą \(AB\) w punkcie \(F\) (patrz rysunek). Wykaż, że \(|FD| = |PE|\).
+
+teza: \(|FD| = |PE|\)
+
+1️⃣ wprowadzamy oznaczenia na rysunku
+
+niech \(\angle DPC = \alpha\) wtedy \(\angle ABPC = \alpha\) (kąty wierzchołkowe)
+
+więc \(\angle PBE = \angle DPC = 90^\circ - \alpha\)
+
+ponadto z \(\triangle FED\) \(\angle EFD = 180^\circ - 90^\circ - 90^\circ + \alpha = \alpha\)
+
+2️⃣ na podstawie 1️⃣ i zaznaczonych na rysunku długości boków
+
+\(\triangle PCD \equiv \triangle PBE \equiv \triangle AFD\) z cechy kbk
+
+więc \(|FD| = |PE|\)
+
+c.k.d.

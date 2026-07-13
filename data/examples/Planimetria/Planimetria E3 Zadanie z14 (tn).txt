@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zadanie z14 (tm) W półkole o średnicy AB wpisano okrąg styczny do średnicy AB w jej środku. Znajdź promień okręgu stycznego jednocześnie do półokręgu AB, do wpisanego okręgu oraz do średnicy AB, jeśli |AB| = 2R.
+
+1) Oznaczamy i analizujemy rysunek:
+
+2) Używamy dwukrotnie tw. Pitagorasa i wyznaczamy r w zależności od R:
+
+z \triangle OF_1Q_2:
+
+|OF_1|^2 + r^2 = (R-r)^2
+
+|OF_1|^2 + r^2 = R^2 - 2Rr + r^2
+
+|OF_1|^2 = R^2 - 2Rr
+
+W związku z tym, że |OF_1| = |O_1D_1|, możemy ten wzór wstawić do drugiego tw. Pitagorasa.
+
+|O_2D_1|^2 + (\frac{R}{2} - r)^2 = (\frac{R}{2} + r)^2
+
+R^2 - 2Rr + \frac{1}{4}R^2 - Rr + r^2 = \frac{1}{4}R^2 + Rr + r^2
+
+R^2 - 4Rr = 0 /:R , R>0
+
+R - 4r -> r = \frac{1}{4}R
+
+Odp. r = \frac{1}{4}R.

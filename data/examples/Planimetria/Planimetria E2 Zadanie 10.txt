@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Zad.10 W trójkącie ABC poprowadzono środkową CD. Wierzchołek A połączono odcinkiem ze środkiem E środkowej CD i przedłużono go aż do przecięcia w punkcie F z bokiem CB. Oblicz \(\frac{|CF|}{|FB|}\).
+
+1) Tworzymy rysunek poglądowy:
+
+dzięki środkowej CD wiemy, że punkt D jest środkiem boku AB. Jeśli więc poprowadzimy odcinek DG w taki sposób, że G będzie środkiem odcinka BF, wówczas na mocy tw. o odcinku łączącym środki boków trójkąta (ABF), odcinek DG będzie równoległy do odcinka AF.
+
+stosunek boków najłatwiej będzie wyznaczyć przy pomocy tw. Talesa
+
+2) Korzystamy z tw. Talesa:
+
+\([FG]=\frac{1}{2}|FB|\), \(|CE|=\frac{1}{2}(|CD|)\), \(|CG|=|CF| + \frac{1}{2}|FB|\)
+
+AF\(\parallel\)DG, więc:
+
+\(\frac{|CE|}{|CD|}=\frac{|CF|}{|CG|} \Rightarrow \frac{\frac{1}{2}|CD|}{|CD|}=\frac{|CF|}{|CF|+\frac{1}{2}|FB|}\)
+
+\(\frac{1}{2}|CF|+\frac{1}{4}|FB|=|CF|\)
+
+\(\frac{1}{4}|FB|=\frac{1}{2}|CF| /:2\)
+
+\(\frac{1}{4}|FB|=\frac{1}{2}|CF| /:|FB|\)
+
+\(\frac{|CF|}{|FB|}=\frac{1}{2}\)
+
+tw. Talesa wywodzi się z podobieństwa trójkątów, więc alternatywnie można rozwiązać to zadanie na mocy podobieństwa \(\triangle CEF \sim \triangle DGC \) (kkk) i z niego wyznaczyć dokładnie tę samą zależność
+
+Odp. \(\frac{|CF|}{|FB|}=\frac{1}{2}\)

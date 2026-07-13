@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Najmniejsza wartość funkcji f w przedziale  jest równa
+A. 2
+B. 5
+C. 8
+D. 9
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 11. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający odczytuje z wykresu własności funkcji - punkty, w których funkcja przyjmuje w podanym przedziale wartość największą lub najmniejszą (4.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: A

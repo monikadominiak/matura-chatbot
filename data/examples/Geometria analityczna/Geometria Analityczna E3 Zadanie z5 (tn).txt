@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+**Zadanie z5 (tn)** Punkt M = (2, 1) jest środkiem boku AB, a punkt N = (8, 3) to środek boku BC kwadratu ABCD. Oblicz długość boku kwadratu ABCD.
+
+1) Tworzymy rysunek poglądowy:
+
+(N rysunek)
+
+W przypadku, gdy w zadaniu nie mamy podanych wierzchołków wielokąta, a tylko jego środki lub inne punkty, łatwo będzie zrobić poglądowy rysunek bez układu współrzędnych.
+
+Mając do dyspozycji środki boków wielokąta warto je połączyć linią prostą - to często prowadzi wręcz albo podobieństwa trójkątów albo twierdzenia o odcinku łączącym środki boków trójkąta.
+
+2) Wyznaczamy odcinek |MN|:
+
+|MN|^2 = c^2 + \frac{a^2}{4}
+
+|MN|^2 = 4 \sqrt{10}
+
+|MN| = \sqrt{40} = 2 \sqrt{10}
+
+lub po prostu ze wzoru na długość odcinka:
+
+|MN| = \sqrt{(8-2)^2 - (3-1)^2} = \sqrt{40} = 2 \sqrt{10}
+
+(N rysunek)
+
+3) Wyznaczamy przekątną |AC|, a następnie bok kwadratu:
+
+Δ ABC ~ Δ MBN (k=8KB), k = 2
+
+|AC| = 2|MN| = 4\sqrt{10}
+
+Trójkąty ABC i MBN są do siebie podobne w skali k = 2.
+
+Odcinek AC jest przekątną kwadratu. Przekątna kwadratu o boku a ma długość a\sqrt{2}.
+
+Więc:
+
+a \sqrt{2} = 4 \sqrt{10}
+
+a = \frac{4\sqrt{10}}{\sqrt{2}} = 4\sqrt{5}
+
+Odp. a = 4\sqrt{5}.

@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Wykaż, że dla \( a, b, c, d \geq 0 \) zachodzi nierówność:
+\(\sqrt[4]{a^2+b^2+c^2+d^2} \geq \frac{\sqrt{a+b+c+d}}{\sqrt{2}}.\)
+
+teza: \(\sqrt[4]{a^2+b^2+c^2+d^2} \geq \frac{\sqrt{a+b+c+d}}{\sqrt{2}}\)
+
+1️⃣ przekształcamy równoważnie tezę:
+\[
+\sqrt[4]{a^2+b^2+c^2+d^2} \geq \frac{\sqrt{a+b+c+d}}{\sqrt{2}} \quad /()^4
+\]
+\[
+a^2+b^2+c^2+d^2 \geq \frac{1}{4}(a+b+c+d)^2 \cdot 4 \quad \quad (a+b)^2 = a^2 + 2ab + b^2
+\]
+\[
+4a^2+4b^2+4c^2+4d^2 \geq (a+b)^2 + 2(a+b)(c+d) + (c+d)^2
+\]
+\[
+4a^2+4b^2+4c^2+4d^2 \geq a^2 + 2ab + b^2 + 2ac + 2ad + 2bc + 2bd + c^2 + 2cd + d^2
+\]
+\[
+3a^2+3b^2+3c^2+3d^2-2ab-2ac-2bc-2ad-2bd-2cd \geq 0
+\]
+\[
+(a-b)^2+(a-c)^2+(b-c)^2+(a-d)^2+(c-d)^2+(b-d)^2 \geq 0
+\]
+
+2️⃣ komentarz: kwadrat dowolnej liczby jest zawsze liczbą nieujemną, suma liczb nieujemnych również jest nieujemna \quad c.k.d.

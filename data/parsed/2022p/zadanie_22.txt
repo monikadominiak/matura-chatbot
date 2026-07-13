@@ -1,0 +1,18 @@
+=== ARKUSZ: 2022p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0–1)
+Dane są cztery proste 𝑘, 𝑙, 𝑚, 𝑛 o równaniach:
+𝑘: 𝑦 = −𝑥 + 1
+𝑙: 𝑦 = $frac{2}{3}$𝑥 + 1
+𝑚: 𝑦 = $-frac{3}{2}$𝑥 + 4
+𝑛: 𝑦 = $-frac{2}{3}$𝑥 − 1
+Wśród tych prostych prostopadłe są
+A. proste 𝑘 oraz 𝑙.
+B. proste 𝑘 oraz 𝑛.
+C. proste 𝑙 oraz 𝑚.
+D. proste 𝑚 oraz 𝑛.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

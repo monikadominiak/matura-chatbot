@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Liczby \( a, b, c \) oznaczają długości boków trójkąta, \( a > b > c > 0 \). Obwód trójkąta jest 2,3125 raza większy od długości najdłuższego boku. Wykaż, że jeśli ciąg \( (\log a, \log b, \log c) \) jest arytmetyczny, to trójkąt ten jest rozwartokątny.
+
+① założenia:
+
+\( a > b > c > 0 \quad a + b + c = 2,3125a \)
+
+\( (\log a, \log b, \log c) - \) ciąg arytmetyczny
+
+teza: \(\Delta - \) rozwartokątny
+
+② z warunku ciągu arytmetycznego
+
+\[
+a_n = \frac{a_{n-1} + a_{n+1}}{2} \quad \text{dla} \ n \geq 2
+\]
+
+\( \Rightarrow \ 2a_n = a_{n-1} + a_{n+1} \)
+
+\( 2\log b = \log a + \log c \)
+
+\( \log b^2 = \log(ac) \ \Leftrightarrow \ b^2 = ac \)
+
+czyli \( (a, b, c) \) jest ciągiem geometrycznym
+
+\( \Rightarrow \) dążymy do uzależnienia wszystkich boków od jednej zmiennej
+
+③ dzięki inf. o ciągu geo. możemy uzależnić boki od dwóch zmiennych
+
+niech \( a = a, \ b = aq, \ c = aq^2 \)
+
+④ posługując się informacją ① i nowymi oznaczeniami uzależnimy wszystko od \( a \)
+
+\[
+a + aq + aq^2 = 2,3125a \ /: a \neq 0
+\]
+
+\( 1 + q + q^2 = 2,3125 \)
+
+\( q^2 + q - 1,3125 = 0 \)
+
+\( \Delta = 6,25 \quad \sqrt{\Delta} = 2,5 \quad \Rightarrow \quad q_1 = -1,75 \notin D \) (boki muszą być \( > 0 \))
+
+\( q_2 = 0,75 = \frac{3}{4} \)
+
+\( b = \frac{3}{4}a, \ c = \frac{9}{16}a \)
+
+⑤ z tw. cosinusów wyznaczymy \( \cos \alpha \)
+
+\[ 
+a^2 = \frac{9}{16}a^2 + \frac{81}{256}a^2 - 2 \cdot \frac{9}{16}a \cdot \frac{3}{4}a \cdot \cos\alpha 
+\]
+
+\[ 
+\cos\alpha = \frac{\frac{31}{256}a^2}{-\frac{216}{256}a^2} = -\frac{31}{216} < 0 \ \text{, więc} \ \alpha \in (90^\circ, 180^\circ) 
+\]
+
+zatem \(\Delta \ \text{jest rozwartokątny} \ \ \text{c.k.d.}\)

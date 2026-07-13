@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Zadanie z1 (tn) Wyznacz współrzędne wszystkich punktów wspólnych prostych o równaniach
+\[ y = 2x + 4 \quad i \quad y = -x + 7. \]
+
+Rysunek poglądowy:
+
+\[ \begin{array}{c} \uparrow y \\ | \\ | \\ A \\ | \\ | \\ --------|-----------> x \\ y=2x+4 \\ \end{array} \]
+
+1) Rozwiązujemy układ równań złożony z równań prostych:
+
+\[
+\begin{cases}
+y = 2x + 4 \\
+y = -x + 7 \\
+\end{cases}
+\]
+
+\[
+-y = -(-x + 7)
+\]
+
+\[
+----- \\
+0 = 3x - 3 \\
+\]
+
+\[ 3x = 3 \Rightarrow x = 1 \Rightarrow y = -1 + 7 = 6 \quad A(1,6) \]
+
+Odp. (1,6).

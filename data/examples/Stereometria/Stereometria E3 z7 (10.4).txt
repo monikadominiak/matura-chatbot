@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+Pole przekroju osiowego stożka jest π√3 razy mniejsze od pola powierzchni całkowitej. Wyznacz miarę kąta zawartego między tworzącą, a wysokością tego stożka.
+
+1) sporządzamy rysunek pomocniczy
+
+(kąt α to kąt w ΔASC)
+
+2) staramy się wyznaczyć długości r, l i H tak, aby były wyrażone za pomocą tylko jednej niewiadomej
+
+(⇒ czyli potrzebujemy 2 równań (1), (2))
+
+niech P - pole przekroju ⇒ pole ΔABC
+
+P = 1/2 * 2r * H = rH
+
+Pc = πrl + πr^2
+
+z treści wiemy, iż Pc = π√3 P
+
+(1)
+
+podstawiamy: πrl + πr^2 = π√3 rH  / : πr ≠ 0
+
+l + r = √3 H
+
+(∗) l = H√3 - r
+
+2) z tw. Pitagorasa w ΔASC
+
+(2) r^2 + H^2 = l^2
+
+podstawiamy (∗): r^2 + H^2 = (H√3 - r)^2
+
+r^2 + H^2 = 3H^2 - 2√3 Hr + r^2
+
+2H^2 = 2√3 Hr  / : 2H ≠ 0
+
+H = r√3
+
+3) liczmy wartości funkcji trygonometrycznej kąta α
+
+tgα = r/H = r/r√3 = √3/3
+
+⇒ α = 30°, α∈(0°, 90°)
+
+odp: α = 30°

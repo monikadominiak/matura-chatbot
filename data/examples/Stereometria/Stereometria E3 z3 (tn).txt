@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+1) sporządzamy rysunek pomocniczy
+
+P_przekroju = ? = 1/2 * |AB| * h
+
+2) ΔABC - równoboczny,
+więc |EC| = 4√3/2 = 2√3
+
+3) wyznaczamy najpierw 105°
+
+sin(α + β) = sin α cos β + cos α sin β
+
+sin 105° = sin(60° + 45°) = sin 60° cos 45° + cos 60° sin 45°
+= √3/2 * √2/2 + 1/2 * √2/2 = √6 + √2/4 = sin 75°
+
+3) w ΔEDC mamy: 3 kąty i 1 bok + 1 szukany
+
+z tw. sinusów możemy zapisać:
+
+2√3/sin 105° = h/sin 45°
+
+4) podstawiamy do tw. sinusów
+
+2√3/√6 + √2/4 = h/√2/2 ⇒ h = 2√3 * √2/2 * 4/√6 + √2 = 4√6/√6 + √2
+
+5) obliczamy pole:
+
+P = 1/2 * 4 * 2/√6 + √2 * 4√6/√6 + √2 = 8√6/√6 + √2
+
+Odp: P = 8√6/√6 + √2

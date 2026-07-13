@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0–2)
+Rozwiąż równanie x^3 - 3x^2 - 4x + 12 = 0.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

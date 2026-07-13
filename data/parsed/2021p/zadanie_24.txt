@@ -1,0 +1,16 @@
+=== ARKUSZ: 2021p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Pole figury $F_{1}$ złożonej z dwóch stycznych zewnętrznie kół o promieniach 1 i 3 jest równe
+polu figury $F_{2}$ złożonej z dwóch stycznych zewnętrznie kół o promieniach długości r (zobacz rysunek).
+Długość r promienia jest równa
+A. $sqrt{3}$
+B. 2
+C. $sqrt{5}$
+D. 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

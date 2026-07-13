@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+Proste o równaniach 2x + y - 4m - 4 = 0 i x - 3y + 5m + 5 = 0 przecinają się w punkcie P o współrzędnych (x_p,y_p).
+
+Wyznacz wszystkie wartości parametru m, dla których współrzędne punktu P spełniają warunki:
+
+x_p > 0, y_p > 0, x_p ≥ y_p oraz y_p < \frac{-2}{x_p - 8}.
+
+Rysunek poglądowy:
+
+Znamy jedynie współczynniki kierunkowe dla prostych, więc są narysowane jedynie poglądowo. Ich wyrazy wolne zależą od parametru m, muszą być takie, aby punkt ich przecięcia spełnił warunki podane w zadaniu.
+
+1) Wyznaczamy punkt przecięcia z układu równań:
+
+\begin{cases}
+2x + y - 4m - 4 = 0 \\
+x - 3y + 5m + 5 = 0
+\end{cases}
+
+x = 6x - 12m - 15x = 5 = 0
+
+7x = 7m - 7 = 0
+
+x_p = m + 1 \Rightarrow y_p = -2m + 2 - 4m + 6 + 2m = 2
+
+P (m+1, 2m+2)
+
+2) Wyznaczamy m spełniające podane w treści warunki:
+
+1^{o} \quad x_p > 0 \Rightarrow m + 1 > 0 \Rightarrow m > -1
+
+2^{o} \quad y_p > 0 \Rightarrow 2m + 2 > 0 \Rightarrow m > -1
+
+3^{o} \quad x_p \ge y_p
+
+\frac{2m + 2}{m+1} \le 1
+
+2m + 2 \le m+1
+
+(m-1)(m-1) < 0
+
+m \in (-1,1>
+
+4^{o} \quad y_p < \frac{-2}{x_p-8}
+
+2m + 2 < \frac{-2}{m-7} \quad / \cdot (m-7)
+
+(2m+2)(m-7) < -2 \quad /-6m-44
+
+2m^2 + 2m - 14m -14 < -2
+
+2m^2 - 12m - 12 < 0
+
+4 > \Delta = b^2 - 4ac = 36
+
+\Delta = 4 - 4x3x(3) = 16
+
+m \in (-1, \frac{15}{4})
+
+m \in (-1, 4)
+
+P \in 2^{o}, 3^{o} \times x_p < 8 \Rightarrow m \in (-1, \frac{15}{4})
+
+Odp. m \in (-1, \frac{15}{4})

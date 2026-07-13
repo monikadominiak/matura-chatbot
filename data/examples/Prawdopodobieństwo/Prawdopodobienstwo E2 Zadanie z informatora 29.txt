@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Pan Nowak często gra z synem w szachy. Obliczył, że 60% rozegranych partii wygrywa jego syn.
+
+Oblicz, ile partii szachów musi rozegrać z synem pan Nowak, aby prawdopodobieństwo wygrania przez ojca przynajmniej jednej partii w całej rozgrywce było większe od 0,95.
+
+\( P_n(k) = \binom{n}{k} \cdot p^k \cdot q^{n-k} \)
+
+① analizujemy polecenie  
+0,4 - prawdopodobieństwo wygranej pana Nowaka  
+0,6 - prawdopodobieństwo porażki pana Nowaka  
+\[
+\begin{cases} 
+p = \frac{2}{5} \\ 
+q = \frac{3}{5} 
+\end{cases} 
+\Rightarrow \text{wygranie co najmniej 1} \Rightarrow \text{czyli nie może wszystkich przegrać}
+\]
+
+② zatem \( P_n(0) \) - prawd. o wygranych w \( n \) partiach  
+a więc \( 1 - P_n(0) \) - co najmniej 1 wygrana
+
+③ \( 1 - P_n(0) > 0,95 \)  
+\[ 
+1 - \binom{n}{0} \cdot \left(\frac{2}{5}\right)^0 \cdot \left(\frac{3}{5}\right)^n > 0,95 
+\]
+
+④ rozwiązujemy nierówność  
+\[ 
+\binom{n}{0} \cdot \left(\frac{2}{5}\right)^0 \cdot \left(\frac{3}{5}\right)^n \ < 1 - 0,95 
+\]  
+\( \Rightarrow 1 = 1 \)  
+\[ 
+\left( \frac{3}{5} \right)^n < 0,05 
+\]  
+sprawdzamy dla jakiego \( n \in \mathbb{N} \) spełniona jest nierówność  
+\[ 
+\left( \frac{3}{5} \right)^5 \approx 0,078 > 0,05 \qquad \left( \frac{3}{5} \right)^6 \approx 0,047 < 0,05 
+\]
+
+odp: co najmniej 6

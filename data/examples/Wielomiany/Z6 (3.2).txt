@@ -1,0 +1,24 @@
+
+--- STRONA 1 ---
+z6 (3.2)  
+Wszystkie współczynniki wielomianu W(x) = x^3 - 3x^2 + ax + b są liczbami całkowitymi. Znajdź współczynniki a i b wiedząc, że wielomian W(x) jest podzielny przez dwumian x - √5.  
+
+Z twierdzenia Bézouta:  
+Wielomian W(x) jest podzielny przez dwumian (x-a) wtedy i tylko wtedy, gdy liczba a jest pierwiastkiem tego wielomianu.  
+
+W(√5) = 0  
+
+(√5)^3 - 3·(√5)^2 + a·√5 + b = 0  
+
+5√5 - 15 + √5a + b = 0  
+
+√5a + b = -5√5 + 15  
+
+Wiemy, że a i b są liczbami całkowitymi, zatem a√5 musi dać -5√5, z kolei b musi dać 15. Gdyby było na odwrót, tzn. gdyby b dawało -5√5 oraz a√5 dawało 15, to oznaczałoby, że a i b nie są całkowite, i co stanowi sprzeczność z treścią zadania.  
+
+√5a = -5√5  
+a = -5  
+
+b = 15  
+
+Odp: a = -5, b = 15.

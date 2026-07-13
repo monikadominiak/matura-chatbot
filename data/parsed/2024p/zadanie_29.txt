@@ -1,0 +1,25 @@
+=== ARKUSZ: 2024p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0–1)
+Na diagramie przedstawiono wyniki sprawdzianu z matematyki w pewnej klasie maturalnej.
+Na osi poziomej podano oceny, które uzyskali uczniowie tej klasy, a na osi pionowej podano liczbę uczniów, którzy otrzymali daną ocenę.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+
+A. 4,5
+B. 4
+C. 3,5
+D. 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

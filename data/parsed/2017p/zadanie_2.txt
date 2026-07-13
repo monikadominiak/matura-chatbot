@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0-1)
+Liczba $sqrt[3]{54}-sqrt[3]{2}$ jest równa
+A. $sqrt[3]{52}$
+B. 3
+C. $2sqrt[3]{2}$
+D. 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 2. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający posługuje się w obliczeniach pierwiastkami dowolnego stopnia i stosuje prawa działań na pierwiastkach (1.3).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

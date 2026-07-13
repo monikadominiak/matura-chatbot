@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Zad. 3 Naszkicuj wykres funkcji \( f(x) = \frac{2}{|x|-2} \). Dla jakiej wartości parametru m równanie \( f(x) = m \) ma dwa rozwiązania?
+
+1) Wykonujemy etapowo przekształcenia funkcji i rysujemy ich wykres w układzie współrzędnych:
+
+- \( y = \frac{2}{x} \)
+- \( y = \frac{2}{x-2} \)
+- \( y = \frac{2}{|x|-2} \)
+
+2) Analizujemy wykres i wyznaczamy przedział parametrów \( m \) spełniający warunki zadania:
+
+Prosta pozioma m musi być na takiej wysokości, aby przecinała się z wykresem \( f(x) \) w dwóch punktach
+(poglądowo zaznaczony na szaro obszar).
+
+Odp. \( m \in (-\infty, -1) \cup (0, +\infty) \).

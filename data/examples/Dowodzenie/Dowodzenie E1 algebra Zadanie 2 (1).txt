@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Wykaż, że dla dowolnych liczb nierówność \(x^2 + 8x + y^2 - 16y + 80 \geq 0\) jest prawdziwa.
+
+\[x^2 + 8x + y^2 - 16y + 80 \geq 0 \quad x, y \in \mathbb{R} \]
+
+w dowodzeniu nierówności często dążymy do wyrażeń kwadratowych
+
+1️⃣ przekształcamy nierówność
+
+\[x^2 + 8x + y^2 - 16y + 80 \geq 0\]
+
+\[x^2 + 8x + y^2 - 16y + 16 + 64 \geq 0\]
+
+\((x+4)^2 + (y-8)^2 \geq 0 \)
+
+\((a+b)^2 = a^2 + 2ab + b^2\)
+
+2️⃣ komentarz: kwadrat dowolnej liczby jest zawsze liczbą nieujemną, a także suma liczb nieujemnych jest \(\geq 0\)
+
+c.k.d.

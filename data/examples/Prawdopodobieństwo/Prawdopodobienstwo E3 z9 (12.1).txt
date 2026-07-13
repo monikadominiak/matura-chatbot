@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Ze zbioru liczb naturalnych sześciocyfrowych, w których zapisie dziesiętnym występują tylko cyfry ze zbioru {0, 2, 3, 5, 8} losujemy jedną. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że suma cyfr wylosowanej liczby jest równa 5.
+
+➊ analizujemy polecenie
+
+zbiór: {0, 2, 3, 5, 8}, liczby 6-cyfrowe
+
+A - suma cyfr wylosowanej liczby = 5
+
+➋ liczymy moc \bar{\Omega}
+
+\bar{\Omega} - ile jest liczb 6-cyfrowych złożonych tylko z cyfr {0, 2, 3, 5, 8}
+
+\bar{\Omega} = \underline{4\text{ bez }0} \cdot 5 \cdot 5 \cdot 5 \cdot 5 \cdot 5 = 4 \cdot 5^5 = 12500
+
+➌ liczymy moc zdarzenia A, gdzie \bar{A} = \bar{A_1} + \bar{A_2}
+
+\bar{A_1}: 1x5^5 i 5 x11^0
+
+jedna liczba: 500000
+
+\bar{A_2}: 2, 3 i 4x11^0
+
+\left\{\left(\begin{array}{c}5\\4\end{array}\right)\cdot 2 = 10 \text{ liczb}\right\}
+
+\bar{A} = 1 + 10 = 11
+
+➃ P(A) = \frac{\bar{A}}{\bar{\Omega}} = \frac{11}{12500}
+
+Odp: \frac{11}{12500}

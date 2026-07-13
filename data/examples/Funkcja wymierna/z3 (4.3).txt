@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+z3 (4.3)
+
+Dziedziną funkcji \( f(x) = \frac{x+b}{x+d} \) jest zbiór \(\mathbb{R}\setminus\{2\}\). Funkcja \( f \) ma miejsce zerowe równe 4. 
+Określ zbiór wartości funkcji \( f \) i przedziały monotoniczności tej funkcji.
+
+① Wyznaczamy \( d \) korzystając z podanej dziedziny. 
+
+Ze wzoru \( f(x)=\frac{x+b}{x+d} \) wynika 
+
+\( x+d \neq 0 \)
+
+\( x \neq -d \)
+
+Zatem \(-d = 2\)
+
+\( d = -2 \)
+
+\[ f(x)=\frac{x+b}{x-2} \]
+
+② Wyznaczamy \( b \) korzystając z miejsca zerowego.
+
+Skoro miejsce zerowe funkcji jest równe 4, znaczy to, że jej wykres przechodzi przez punkt \( (4,0) \). Należy ten punkt podstawić do wzoru.
+
+\[ 0 = \frac{4+b}{4-2} \]
+
+\[ 0 = 4 + b \]
+
+\( b = -4 \)
+
+Zatem wzór funkcji ma postać : 
+\[ f(x)=\frac{x-4}{x-2} \]
+
+--- STRONA 2 ---
+3) Przekształcamy \( f(x) \) do postaci kanonicznej.
+
+\[
+f(x) = \frac{x - 4}{x - 2} = \frac{(x - 2) - 2}{x - 2} = \frac{-2}{x - 2} + 1
+\]
+
+4) Określamy zbiór wartości oraz przedziały monotoniczności.
+
+Mając postać \( f(x) = \frac{A}{x - \varrho} + q \).
+
+Dziedzina to \( x \in \mathbb{R} \backslash \{p\} \).
+
+Zbiór wartości to \(\mathbb{Z} W = \mathbb{R} \backslash \{q\} \).
+
+Dla \( A > 0 \) \( f \searrow w (-\infty, \varrho) \) i \( (\varrho, +\infty) \).
+
+Dla \( A < 0 \) \( f \nearrow w (-\infty, \varrho) \) i \( (\varrho, +\infty) \).
+
+\( 2W = \mathbb{R} \backslash \{ 1 \} \)
+
+\( f \nearrow : x \in (-\infty, 2) \) i \( x \in (2, +\infty) \)
+
+Odp.: p = -4, q = -2, 2W = \(\mathbb{R} \backslash \{1\}\), \( f \nearrow w (-\infty, 2) \) i \( (2, +\infty) \).

@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zadanie 18
+
+Rozwiąż równanie cos x + sin 2x = cos 3x.
+
+1️⃣ Przerzucamy cosinusy na jedną stronę, a sinusa na drugą.
+
+cos x + sin 2x = cos 3x
+
+cos x - cos 3x = -sin 2x
+
+2️⃣ Korzystamy ze wzoru na różnicę cosinusów.
+
+cos α - cos β = -2 sin (α+β/2) sin (α-β/2).
+
+-2 sin (x+3x/2) sin (x-3x/2) = -sin 2x
+
+-2 sin 2x sin (-x) = -sin 2x
+
+-2 sin 2x sin (-x) + sin 2x = 0
+
+3️⃣ Wyciągamy wspólny czynnik przed nawias.
+
+sin 2x (-2 sin (-x) + 1) = 0
+
+sin 2x (2 sin x + 1) = 0
+
+4️⃣ Rozwiązujemy równanie.
+
+sin 2x = 0 ∨ 2 sin x = -1
+
+2x = kπ     sin x = -1/2
+
+x = kπ/2     x = 7π/6 + 2kπ  ∨  x = 11π/6 + 2kπ
+
+Odp.: x = kπ/2, x = 7π/6 + 2kπ, x = 11π/6 + 2kπ, k ∈ ℤ.

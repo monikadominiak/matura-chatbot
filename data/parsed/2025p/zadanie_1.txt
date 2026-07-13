@@ -1,0 +1,35 @@
+=== ARKUSZ: 2025p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba (√32 − √2)^2 jest równa
+
+A. 16
+B. 18
+C. 30
+D. 34
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1)
+Wymagania określone w podstawie programowej¹
+Wymaganie ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: Zdający: 1.3) stosuje własności pierwiastków dowolnego stopnia [...]; 1.4) stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach i pierwiastkach.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: B; Wersja B: C
+
+¹ Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz.U. z 2024 r. poz. 1019).
+Strona 2 z 40
+
+--- PAGE 3 ---
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

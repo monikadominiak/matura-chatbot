@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+z2 (6.10)
+
+Suma wszystkich wyrazów nieskończonego ciągu geometrycznego jest równa 3, a suma sześcianów wszystkich jego wyrazów jest równa \(\frac{108}{13}\). Oblicz pierwszy wyraz tego ciągu i jego iloraz.
+
+Wskazówka: Suma sześcianów także utworzy ciąg geometryczny, ściślej mówiąc, szereg geometryczny zbieżny.
+
+Warunkiem zbieżności szeregu geometrycznego jest \(\mid q\mid<1 \Rightarrow -1<q<1\).
+
+Informacje z treści zadania możemy zapisać przy pomocy wzoru: \(S_n=\frac{a_1}{1-q}\).
+
+① Zapisujemy informacje z zadania.
+
+\(a_1 + a_2 + a_3 + ... + a_n = \frac{a_1}{1-q} = 3\)
+
+\(a_1^3 + a_2^3 + a_3^3 + ... + a_n^3 = \frac{a_1^3}{1-q^3} = \frac{108}{13}\)
+
+② Zapisujemy układ równań.
+
+\[
+\begin{cases} 
+\frac{a_1}{1-q}=3 \\ 
+\frac{a_1^3}{1-q^3}=\frac{108}{13} 
+\end{cases}
+\]
+
+③ Wyznaczamy \(a_1\) z pierwszego równania i rozwiązujemy układ równań.
+
+\(a_1=3(1-q)\) i \(q \in (-1,1)\)
+
+\[
+\begin{cases} 
+a_1 = 3(1-q) \\ 
+\frac{a_1^3}{1-q^3} = \frac{108}{13} 
+\end{cases}
+\]
+
+\(\frac{(3(1-q))^3}{1-q^3} = \frac{108}{13}\)
+
+\(\frac{27(1-q)^3}{1-q^3} = \frac{108}{13}\)
+
+\(27(1-q)^2\cdot 13 = 108(1+q+q^2) \div 27\)
+
+\(13q^2 - 26q + 13 = 4q^2 + 4q + 4\)
+
+\(9q^2 - 30q + 9 = 0 \div 3\)
+
+--- STRONA 2 ---
+3q^2 - 10q + 3 = 0
+
+\Delta = 100 - 36 = 64
+
+q_1 = \frac{10 - 8}{6} = \frac{1}{3} \in (-1,1)
+
+q_2 = \frac{10 + 8}{6} = 3 \  \cancel{\in (-1,1)}
+
+a_n = 3(1 - q_1) = 3(1 - \frac{1}{3}) = 2
+
+Odp.: a_n = 2 \ i \ q = \frac{1}{3}.

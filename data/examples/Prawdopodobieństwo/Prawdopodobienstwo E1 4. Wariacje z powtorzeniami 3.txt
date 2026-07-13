@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Rzucamy czterokrotnie sześcienną kostką. Wyrzucone liczby oczek są kolejnymi cyframi liczby czterocyfrowej. Podaj, ile spośród otrzymanych w ten sposób liczb jest podzielnych przez 25.
+
+① wypisujemy dane z polecenia
+
+4-krotny rzut sześcienną kostką (cyfry: 1,2,3,4,5,6)
+
+cyfry mogą się powtarzać
+
+② zapisujemy schematycznie liczbę 4-cyfrową
+
+\_\_ \* \_\_ \* \_\_ \* \_\_
+
+podzielność przez 25?
+
+⇒ 2 ostatnie cyfry: 00, 25, 75
+
+jedyna możliwość
+
+③ zapisujemy kolejno ile jest możliwości
+
+6 \* 6 \* \frac{1}{2} \* \frac{1}{5} = 36
+
+Odp: 36

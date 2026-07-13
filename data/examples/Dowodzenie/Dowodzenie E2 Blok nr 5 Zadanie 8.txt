@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Wykaż, że jeśli α, β są miarami kątów w trójkącie oraz cosβ + \(\frac{1}{tgα}\) · sinβ = 1, to ten trójkąt jest równoramienny.
+
+założenia:   cosβ + \(\frac{1}{tgα}\) · sinβ = 1
+
+α, β ∈ (0°,180°)
+
+teza: Δ jest równoramienny → czyli jakieś dwa kąty spośród α, β, γ są sobie równe
+
+1️⃣ przekształcamy równoważnie założenie:
+
+cosβ + \(\frac{1}{tgα}\) · sinβ = 1
+
+cosβ + \(\frac{cosα·sinβ}{sinα}\) = 1 / ·sinα
+
+sinαcosβ + sinβcosα = sinα
+
+\[ \underline{sinαcosβ + sinβcosα = sinα} \]
+
+sin(α+β) = sinα
+
+sin(α+β) − sinα = 0
+
+2cos\((α+\frac{β}{2})\)sin\(\frac{β}{2}\) = 0
+
+α + \(\frac{β}{2}\) = 90° ∨ sin\(\frac{β}{2}\) = 0
+
+\[ \text{słynne} \]
+
+2️⃣ mamy więc α+ \(\frac{β}{2}\) = 90°
+
+⇒ 2α+β = 180°
+
+kąty w Δ: α, β, γ
+
+α+β+γ=180°
+
+zatem: 2α+β = α+β+γ
+
+α = γ
+
+zatem Δ ten jest równoramienny
+
+c.k.d.

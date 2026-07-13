@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+z2 (4.2, 1.1)
+
+Skróć ułamek algebraiczny \(\frac{x^4-16}{x^4-4x^3+8x^2-16x+16}\) oraz podaj konieczne założenia.
+
+① Rozkładamy licznik.
+
+x^4-16 = (x^2)^2 - 4^2 = (x^2-4)(x^2+4)=(x+2)(x-2)(x^2+4)
+
+② Rozkładamy mianownik.
+
+x^4-4x^3+8x^2-16x+16=
+
+x^4-4x^3+4x^2+4x^2-16x+16=
+
+x^2(x^2-4x+4)+4(x^2-4x+4)=
+
+=(x^2+4)(x^2-4x+4)=(x^2+4)(x-2)^2
+
+③ Podajemy założenia.
+
+D: (x^2+4)(x-2)^2 \neq 0
+
+x^2+4 \neq 0 \quad (x-2)^3 \neq 0
+
+x \in \mathbb{R}
+
+x-2 \neq 0
+
+x \neq 2
+
+D= \mathbb{R} \backslash \{2\}
+
+④ Skracamy wyrażenie.
+
+\(\frac{(x-2)(x+2)(x^2+4)}{(x^2+4)(x-2)^2} = \frac{x+2}{x-2}\)
+
+Odp.: D=\mathbb{R} \backslash \{2\}, \quad \frac{x+2}{x-2}.

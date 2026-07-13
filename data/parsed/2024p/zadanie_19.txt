@@ -1,0 +1,20 @@
+=== ARKUSZ: 2024p | ZADANIE 19 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 19. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba sin^3 20° + cos^2 20° · sin 20° jest równa
+
+A. cos 20°
+B. sin 20°
+C. tg 20°
+D. sin 20° · cos 20°
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

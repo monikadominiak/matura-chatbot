@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Zbadaj ciągłość funkcji f(x) = \{ -x^2 \ dla \ x \ ∈<= -1, 1 > \\ \frac{x-1}{|x-1|} \ dla \ x \ ∈ \ (-∞,-1) ∪ (1,∞) 
+
+UWAGA: aby funkcja była ciągła w punkcie x_0 to:
+1. istnieje właściwa granica lim_{x→x_0}f(x)
+2. prawdziwa jest równość: lim_{x→x_0}f(x) = f(x_0)
+
+① określamy punkty 'podejrzane' o brak ciągłości
+
+f(x) = \begin{cases} 
+① -x^2 , \ x ∈<-1,1> \\
+② \frac{x-1}{|x-1|} , \ x ∈ (-∞,-1) ∪ (1,∞) 
+\end{cases}
+
+punkty na końcach przedziałów ⇒ x=1 \ i \ x=-1
+
+② sprawdzamy x=-1
+
+• f(-1) = -(-1)^2 = -1
+
+(1) (używam wzoru ①, bo tam znajduje się x=-1)
+
+• lim_{x→-1^-}f(x) = lim_{x→-1^-}\frac{x-1}{|x-1|} = lim_{x→-1^-}\frac{x-1}{-(x-1)} = -1
+
+• lim_{x→-1^+}f(x) = lim_{x→-1^+} -x^2 = -(-1)^2 = -1
+
+\{ wszystkie równe -1 więc w x=-1 funkcja jest ciągła \}
+
+③ sprawdzamy x=1
+
+• f(1) = -1^2 = -1
+
+• lim_{x→1^-}f(x) = lim_{x→1^-} -x^2 = -1^2 = -1
+
+• lim_{x→1^+}f(x) = lim_{x→1^+}\frac{x-1}{|x-1|} = lim_{x→1^+}\frac{x-1}{x-1} = 1
+
+\{ nie są sobie równe \}
+
+Odp: Funkcja f nie jest ciągła w punkcie 1, jest ciągła w każdym punkcie zbioru ℝ \ {1}.

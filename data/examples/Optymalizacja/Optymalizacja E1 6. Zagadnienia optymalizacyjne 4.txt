@@ -1,0 +1,76 @@
+
+--- STRONA 1 ---
+Wierzchołki trapezu należą do paraboli \(y = -x^2 + 4\), przy czym końce dłuższej podstawy są punktami, w których parabola przecina oś \(OX\). Wyznacz największe możliwe pole takiego trapezu.
+
+① uzależniamy od siebie zmienne
+
+\(y = -x^2 + 4\)
+
+\((-x, -x^2 + 4)\)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\(C(x, -x^2 + 4)\)
+
+\(n\)
+↕️
+⟷ \(2x\)
+
+\(A\)←⠀⠀⠀⠀⠀⠀⠀⠀⠀\(E\)⠀⠀⠀⠀⠀⠀⠀⠀⠀→\(F\)⠀⠀⠀⠀⠀⠀⠀⠀→\(B\)
+
+\-2⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀2
+
+②
+
+① punkty \(D, C\) należą do paraboli \(y = -x^2 + 4\) i są równoodległe od osi \(OY\)
+
+② pierwsze współrzędne \(A\) i \(B\) to miejsca zerowe paraboli
+
+\(y = -x^2 + 4 = 0\)
+
+\(x = 2 \vee x = -2\)
+
+② zapisujemy wzór funkcji \(P = \frac{1}{2}(|AB| + |CD|) \cdot h\)
+
+\(\Rightarrow P(x) = \frac{1}{2} (4 + 2x)(-x^2 + 4) = -x^3 - 2x^2 + 4x + 8\)
+
+③ wyznaczamy dziedzinę funkcji
+
+\(\left\{
+\begin{align*}
+& x > 0 \\
+& h > 0 \rightarrow -x^2 + 4 > 0 \rightarrow x \in (-2, 2)
+\end{align*}
+\right.\)
+
+\(\Rightarrow D_P = (0, 2)\)
+
+④ wyznaczamy pochodną
+
+\(P'(x) = -3x^2 - 4x + 4\)
+
+\(D_P' = D_P\)
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+\(P'(x) = 0 \Leftrightarrow -3x^2 - 4x + 4 = 0\)
+
+\(\Delta = -16 + 48 = 64\)
+
+\(x_1 = \frac{4 + 8}{-6} = -2 \not\in D_P\)
+
+\(x_2 = \frac{4 - 8}{-6} = \frac{2}{3}\)
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+\(-2\)⠀⠀⠀⠀⠀⠀⠀⠀\(\frac{2}{3}\)⠀⠀⠀⠀⠀⠀⠀⠀\(\frac{3}{2}\)
+
+\(-\)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀utter wolna⠀⠀⠀⠀⠀⠀⠀⠀\(\)
+
+\(\frac{3}{2}\)⠀⠀→⠀⠀
+
+\(P(x)\)⠀⠀⠀⠀⠀⠀\[ \lfree \ \]⠀⠀ever
+
+Funkcja \(P(x)\) osiąga w swojej dziedzinie wartość największą dla argumentu \(x = \frac{2}{3}\)
+
+⑦ obliczamy pole \(P\left(\frac{2}{3}\right) = - \left(\frac{2}{3}\right)^3 - 2\left(\frac{2}{3}\right)^2 + 4 \cdot \frac{2}{3} + 8 = \frac{256}{27}\)
+
+odp: \(\rho = \frac{256}{27} \ \left[j^2\right]\)

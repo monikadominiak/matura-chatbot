@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Wykazać, że jeśli długości boków trójkąta są trzema kolejnymi wyrazami ciągu arytmetycznego, to długość promienia okręgu wpisanego w ten trójkąt jest równa jednej trzeciej długości jednej z wysokości tego trójkąta.
+
+① tworzymy rysunek poglądowy
+
+\[ \text{(a, b, c) - ciąg arytmetyczny} \]
+
+\[ 2 \, \text{wzór ciągu arytm.} : 2b = a + c \quad \text{①} \]
+
+Wskazówka: promień \( r \) i wysokość występują we wzorach na pole \( \triangle \)
+
+② zapisujemy pole \( \triangle \) używając różnych wzorów
+
+1. \( P = \rho \cdot r \quad , \text{gdzie} \quad \rho = \frac{a + b + c}{2} \)
+
+\[ \Rightarrow \rho = \frac{3}{2} b \]
+
+2. \( P = \frac{1}{2} Q \cdot h_a = \frac{1}{2} b \cdot h_b \)
+
+③ przyrównujemy do siebie pola
+
+\[ \frac{1}{2} b \cdot h_b = \frac{3}{2} b \cdot r \quad / : b \neq 0 \]
+
+\[ \frac{1}{2} h_b = \frac{3}{2} r \quad / : \frac{3}{2} \]
+
+\[ r = \frac{1}{2} : \frac{3}{2} \cdot h_b = \frac{1}{3} h_b \]
+
+c.k.d.

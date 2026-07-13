@@ -1,0 +1,22 @@
+
+--- STRONA 1 ---
+Zad.1 Czy błąd względny przybliżenia liczby x liczbą a jest mniejszy od 2%, jeśli:
+a) x = 3,92, a = 4    b) x = 6,39, a = 6,5.
+
+1) Podstawiamy dane do wzoru na błąd względny i podajemy odpowiedź:
+
+a)  |x-a| = |3,92 - 4| = |-0,08| = 0,08
+
+BW = \(\frac{|x-a|}{|x|}\) · 100% = \(\frac{0,08}{3,92}\) · 100% ≈ 2,04%
+
+2,04% > 2%
+
+Odp. a) Nie.
+
+b)  |x-a| = |6,39 - 6,5| = |-0,11| = 0,11
+
+BW = \(\frac{|x-a|}{|x|}\) · 100% = \(\frac{0,11}{6,39}\) · 100% ≈ 1,72%
+
+1,72% < 2%
+
+Odp. b) Tak.

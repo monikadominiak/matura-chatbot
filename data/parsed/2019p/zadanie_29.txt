@@ -1,0 +1,15 @@
+=== ARKUSZ: 2019p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0–2)
+Dany jest okrąg o środku w punkcie S i promieniu r. Na przedłużeniu cięciwy AB poza punkt B odłożono odcinek BC równy promieniowi danego okręgu. Przez punkty C i S poprowadzono prostą. Prosta CS przecina dany okrąg w punktach D i E (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wykaż, że jeżeli miara kąta ACS jest równa alpha, to miara kąta ASD jest równa 3*alpha.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

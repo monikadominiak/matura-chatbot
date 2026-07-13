@@ -1,0 +1,106 @@
+
+--- STRONA 1 ---
+Zadanie z6 (B2.) W trójkącie ABC długości boków AC i BC są odpowiednio równe 2 i 4, zaś miara kąta ACB wynosi 120°. Oblicz długość odcinka, który jest częścią wspólną dwusiecznych kąt ACB i trójkąta ABC.
+
+1) Tworzymy pomocniczą prostą 'a'.
+
+Trójkąt ABC
+
+      2
+    -----
+   |\    \
+A | \    \ 4
+    \    \
+   B \-----
+      4
+
+Dwusieczne pokroi trójkąt ABC na 2 trójkąty, w ktorych znamy po 1 boku i kącie. Możemy znaleźć pozostałe boki trójkątów za pomocą równania na obliczanie wspólnej "w" oznaczonej na rysunku.
+
+2) Wyznaczamy odcinki 'a' i 'b' na prostej,
+     tzn. częściowi z tw. o dwusiecznej.
+
+Z tw. o dwusiecznej w ABC: 
+
+|AI|+|IB| = a^2 + b^2 + 2∛(ab(1+cos(120°))) = c
+
+         = - r = cos 60° = 1/2
+
+|AI|+|IB|=20.8
+|(AI|^2= 63
+    |AB|+63^2 = 447
+
+Z tw. o dwusiecznej:
+
+          (2/6)(4)+|AI|
+
+         =|AB|
+
+|IB|/4 = |AB| - 447
+|AI|+|IB|+45=(2/6)(4)|AB|
+
+3)  Wyznaczamy x na prostej 'w', częściowi.
+
+   Wyprowadzony już raz mamy do wyboru 2 trójkąty, AC i BC) i wyciągamy dwusieczną, za ich dotarciem na odcinkowych wspóln.
+
+   Jest to jednak specyficzny przypadek – w obu trójkątach długość znanej podsta i d. b. kąt jest nie znaną wastąc – to też oznacza, że mamy najrzedzie 1 punkt do wspólnego trójkąta, tzn. 1 trójkąt do tej p.
+
+   Jednocześnie trójkąt ABC jest zdefiniowany przez z boki i kąty mający jedynie inne miary płasnocie tylko 4 boki i twójchąt.
+
+   Zatem jeśli cząstowy sięać się w pełne, A(Q): i ten zetaw w warunkach, te wyciągamy też część wspólną.
+
+Z tw. o dwusiecznej w A(Q):
+
+                        (4(y)^2 + 4x^2+2xy)=cos60°
+   
+                           2
+
+                    y/2=4(x+2x)=cos60°
+   
+                           2
+   
+                           0
+
+                    x(x + 4 * x - 2x
+
+                  x^2+2x + 5 > 0
+
+   Δ = 16^4=cos20<xc, y'=a^2 
+
+   Δ = -2=-100/8  ; x = -(1/8) (−1/2=0
+    
+    X = 16 = 24+5=161 = 43
+
+          { (xV < 0), x^2 = x + x+ y}
+          {   xV = a                                                     }
+
+Z tw. o dwusiecznej w A(Q):
+
+                          (16√37) +(√18)+4x^2+4yx+4xy)
+   
+                         (14)(1+4y = 4/2)^3
+
+                           6
+
+            8 = y (3)/(x+1)
+
+            64x = 3 = (x+x )=16
+
+    x^2 - √ - x+ 16 > =1/9
+
+   Δ = 16±√x16, 0; x^2+cox60° <3/√
+
+   Δ= -4=3(3-17)
+
+           x^1= -(5/5) ± √8 # x √9 - 12
+
+          Δ -4 = -8 = 8√19; x^V + X = 12
+
+           0 + /x = y; ( = x(y,2) )
+
+          x^2 = |  | = 6/8
+
+          x/2, √x + 23, X = √7(x^20 - 5)
+
+Odp. x = 5/8.
+
+Uwaga! Alternatywne wartości są o innych warunkach, wartości na poniżej polegają na zdaniu: znane były światłośći oddzielne ilości i powłokę! NIH(AC), (ABC) i (ABC). Ze też wniosku ze stałego trójkąta jest niezrealizowana wartość liczba PJB. W trójkącie mamy tylko tyle wsporzenia. Możemy, na szczęście zgrinąć rozwiązania jednych zmienności, że istnieje w miarę X, z u a lub.

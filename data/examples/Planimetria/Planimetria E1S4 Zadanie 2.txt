@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zad.2 Bok rombu ma długość 4 cm, a suma długości jego przekątnych jest równa 10 cm. Oblicz pole i wysokość tego rombu.
+
+1) Tworzymy rysunek poglądowy: 
+
+Oznaczamy przekątne jako x oraz 10-x. W takim razie połowy przekątnych to \frac{x}{2} i 5-\frac{x}{2}.
+
+2) Wyznaczamy x za pomocą tw. Pitagorasa:
+
+\left( \frac{x}{2} \right)^2 + \left( 5-\frac{x}{2} \right)^2 = 4^2
+
+\frac{1}{4}x^2 + 25 - 5x + \frac{1}{4}x^2 = 16
+
+\frac{1}{2}x^2 - 5x + 9 = 0 | \cdot 2
+
+x^2 - 10x + 18 = 0
+
+Δ = 100 - 72 = 28, \sqrt{Δ} = 2 \sqrt{7}
+
+x_1 = \frac{10-2\sqrt{7}}{2} = 5-\sqrt{7} \ \Rightarrow \ 10-x_2 = 5+\sqrt{7}
+
+x_2 = 5+\sqrt{7} \ \Rightarrow \ 10-x_2 = 5-\sqrt{7}
+
+Uzyskaliśmy co prawda dwa dodatnie rozwiązania równania kwadratowego, ale okazuje się że dają one takie same długości - przekątne rombu: 5-\sqrt{7} \mathrm{cm} i 5+\sqrt{7} \mathrm{cm}.
+
+3) Ze wzorów na pole rombu wyznaczamy pole i wysokość:
+
+P_\mathrm{ROMBU} = \frac{(5-\sqrt{7})(5+\sqrt{7})}{2} = \frac{25-7}{2} = 9 \ \mathrm{cm}^2
+
+P_\mathrm{ROMBU} = a \cdot h
+
+9 = 4 \cdot h \ \Rightarrow \ h = \frac{9}{4} \mathrm{cm}
+
+Odp. P_\mathrm{ROMBU} = 9 \mathrm{cm}^2, \ h = \frac{9}{4} \mathrm{cm}.

@@ -1,0 +1,20 @@
+
+--- STRONA 1 ---
+Ciąg \( (a_n) \) określony jest wzorem \( a_n = \left( \frac{3-p}{3+p} \right)^{2n-3} \), gdzie \( p \in \mathbb{R} - \{-3,3\} \).
+
+Uzasadnij, że \( (a_n) \) jest ciągiem geometrycznym.
+
+\( a_n = \left( \frac{3-p}{3+p} \right)^{2n-3} \)
+\( p \in \mathbb{R} - \{-3,3\} \)
+
+teza: \( a_n \) - ciąg geometryczny
+
+\(\circled{1}\) aby ciąg \( a_n \) był geometryczny wyrażenie \( \frac{a_{n+1}}{a_n} \) musi być równe ilorazowi \( q \), który będzie stały \((niezależny \ od \ numeru \ wyrazu \ (n))\)
+
+\(\circled{2}\) zapisujemy wyraz \( a_{n+1} \)
+
+\( a_{n+1} = \left( \frac{3-p}{3+p} \right)^{2(n+1)-3} = \left( \frac{3-p}{3+p} \right)^{2n-1} \)
+
+\(\circled{3}\) wyznaczamy \( q = \frac{a_{n+1}}{a_n} = \frac{\left( \frac{3-p}{3+p} \right)^{2n-1}}{\left( \frac{3-p}{3+p} \right)^{2n-3}} = \left( \frac{3-p}{3+p} \right)^{2n-1-2n+3} = \left( \frac{3-p}{3+p} \right)^2 = \text{const. dla wybranego } p \)
+
+c.k.d.

@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Wykaż, że jeśli prosta o równaniu \( y = kx + l \) jest styczna do okręgu o równaniu \( (x-k)^2 + (y-l)^2 = m^2 \), gdzie \( k,l \in R \) oraz \( m > 0 \), to \( \frac{k^4}{k^2+1} = m^2 \).
+
+pr. \( y = kx+l \) styczna do okręgu o: \( (x-k)^2+(y-l)^2=m^2 \)
+
+teza: \( \frac{k^4}{k^2+1} = m^2 \)
+
+\(\circled{1}\) z równania okręgu wiemy:
+środek: \( S(k,l) \), \( r = m \)
+
+\(\circled{2}\) skoro pr. \( y=kx+l \) jest styczna to znaczy, że odległość środka okręgu od tej prostej jest równa długości promienia
+
+\(\circled{3}\) zapisujemy równanie prostej w postaci ogólnej: \( kx-y+l=0 \)
+
+\( d = \frac{|A \cdot x_0 + B \cdot y_0 + C|}{\sqrt{A^2 + B^2}} \)
+
+\(\circled{4}\) podstawiamy do wzoru:
+\[ m = \frac{|k^2-l+l|}{\sqrt{k^2+1}} \]
+
+\[ m = \frac{|k^2|}{\sqrt{k^2+1}} /()^2 \]
+
+\[ m^2 = \frac{k^4}{k^2+1} \]
+
+c.k.d.

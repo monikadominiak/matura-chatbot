@@ -1,0 +1,31 @@
+=== ARKUSZ: 2016p | ZADANIE 34 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 34. (0-4)
+Ze zbioru wszystkich liczb naturalnych dwucyfrowych losujemy kolejno dwa razy po jednej liczbie bez zwracania. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że suma wylosowanych liczb będzie równa 30. Wynik zapisz w postaci ułamka zwykłego nieskracalnego.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 34.  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Przykładowe rozwiązania I sposób Zdarzeniem elementarnym jest uporządkowana para $(x, y)$ dwóch różnych liczb ze zbioru $\{10, 11, 12, \dots, 99\}$, który zawiera 90 liczb.  Liczba wszystkich zdarzeń elementarnych jest równa $|\Omega|=90\cdot 89$. Wszystkie zdarzenia elementarne są równo prawdopodobne. Mamy więc do czynienia z modelem klasycznym. Niech A oznacza zdarzenie polegające na tym, że suma wylosowanych liczb jest 30. Zatem zdarzeniu A sprzyjają następujące zdarzenia elementarne: $(10, 20), (11, 19), (12, 18), (13, 17), (14, 16), (16, 14), (17, 13), (18, 12), (19, 11), (20, 10)$. Ich liczba jest równa $|A|=10$. Prawdopodobieństwo zdarzenia A jest równe $P(A)=\frac{|A|}{|\Omega|}=\frac{10}{90\cdot 89}=\frac{1}{9\cdot 89}=\frac{1}{801}$.
+Strona 17 z 20
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy dwie różne liczby dwucyfrowe, których suma jest równa 30 jest równe $\frac{1}{801}$
+II sposób Zdarzeniem elementarnym jest zbiór dwuelementowy $\{x, y\}$ dwóch różnych liczb ze zbioru $\{10, 11, 12, \dots, 99\}$, który zawiera 90 liczb.  Liczba wszystkich zdarzeń elementarnych jest równa $|\Omega|=\binom{90}{2}=\frac{90!}{88!\cdot 2!}=\frac{90\cdot 89}{2}=4005$. Wszystkie zdarzenia elementarne są równo prawdopodobne. Mamy więc do czynienia z modelem klasycznym. Niech A oznacza zdarzenie polegające na tym, że suma wylosowanych liczb jest 30. Zatem zdarzeniu A sprzyjają następujące zdarzenia elementarne: $\{10, 20\}, \{11, 19\}, \{12, 18\}, \{13, 17\}, \{14, 16\}$. Ich liczba jest równa $|A|=5$. Prawdopodobieństwo zdarzenia A jest równe $P(A)=\frac{|A|}{|\Omega|}=\frac{5}{45\cdot 89}=\frac{1}{9\cdot 89}=\frac{1}{801}$.
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy dwie różne liczby dwucyfrowe, których suma jest równa 30 jest równe $\frac{1}{801}$
+III sposób Rysujemy drzewo z uwzględnieniem wszystkich gałęzi, które prowadzą do sytuacji sprzyjających zdarzeniu A (polegającemu na tym, że suma wylosowanych liczb będzie równa 30). Zadanie zawiera obrazek ważny dla rozwiązania.
+Strona 18 z 20
+Prawdopodobieństwo zdarzenia A jest równe $P(A)=10\cdot\frac{1}{90}\cdot\frac{1}{89}=\frac{1}{9\cdot 89}=\frac{1}{801}$
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy dwie różne liczby dwucyfrowe, których suma jest równa 30 jest równe $\frac{1}{801}$
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania 1 p. Zdający zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90 albo wypisze zdarzenia elementarne sprzyjające zdarzeniu A: $(10, 20), (11, 19), (12, 18), (13, 17), (14, 16), (16, 14), (17, 13), (18, 12), (19, 11), (20, 10)$ lub $\{10, 20\}, \{11, 19\}, \{12, 18\}, \{13, 17\}, \{14, 16\}$, albo zapisze, że $|A|=10$ lub $|A|=5$, albo narysuje drzewo ilustrujące przebieg doświadczenia (na rysunku muszą wystąpić wszystkie istotne gałęzie) i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie, w którym jest istotny postęp 2 p. Zdający zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90 oraz wypisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu A: $(10, 20), (11, 19), (12, 18), (13, 17), (14, 16), (16, 14), (17, 13), (18, 12), (19, 11), (20, 10)$ lub $\{10, 20\}, \{11, 19\}, \{12, 18\}, \{13, 17\}, \{14, 16\}$ albo zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90 oraz zapisze, że $|A|=10$ lub $|A|=5$, albo obliczy liczbę wszystkich zdarzeń elementarnych: $|\Omega|=90\cdot 89$ lub $|\Omega|=\frac{90\cdot 89}{2}$, lub $|\Omega|=\binom{90}{2}$ lub $|\Omega|=4005$, albo narysuje drzewo ze wszystkimi istotnymi gałęziami i zapisze prawdopodobieństwa na wszystkich istotnych odcinkach jednego z etapów lub na jednej z istotnych gałęzi i na tym zakończy lub dalej popełni błędy.
+Strona 19 z 20
+Pokonanie zasadniczych trudności zadania.......... 3 p. Zdający obliczy liczbę wszystkich zdarzeń elementarnych: $|\Omega|=90\cdot 89$ oraz zapisze, że $|A|=10$ albo obliczy liczbę wszystkich zdarzeń elementarnych: $|\Omega|=\binom{90}{2}$ lub $|\Omega|=\frac{90\cdot 89}{2}$ lub $|\Omega|=4005$ oraz zapisze, że $|A|=5$, albo obliczy prawdopodobieństwo wzdłuż jednej istotnej gałęzi narysowanego drzewa: $\frac{1}{90}\cdot\frac{1}{89}$ i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie pełne............. 4 p. Zdający obliczy prawdopodobieństwo zdarzenia A: $P(A)=\frac{|A|}{|\Omega|}=\frac{1}{801}$
+Uwagi:
+Jeżeli zdający poprawnie wyznaczy moc zbioru wszystkich zdarzeń elementarnych, ale przy wyznaczaniu liczby zdarzeń sprzyjających zdarzeniu A pominie jedno zdarzenie elementarne lub popełni błąd przy zliczaniu poprawnie wypisanych zdarzeń elementarnych sprzyjających zdarzeniu A i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 3 punkty.
+Jeżeli zdający błędnie zapisze, że wszystkich liczb dwucyfrowych jest 89 i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 3 punkty.
+Jeżeli w rozwiązaniu występuje sprzeczność modeli probabilistycznych, to zdający może otrzymać, co najwyżej 2 punkty.
+Akceptujemy sytuacje, gdy zdający zamiast wypisywania zdarzeń elementarnych sprzyjających zdarzeniu A zapisze następujące sumy $10+20$, $11+19$, $12+18$, $13+17$, $14+16$, $16+14$, $17+13$, $18+12$, $19+11$, $20+10$ (lub tylko $10+20$, $11+19$, $12+18$, $13+17$, $14+16$).
+Jeżeli zdający zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90, ale przy wypisywaniu zdarzeń elementarnych sprzyjających zdarzeniu A, zapisuje sumę $15+15$ i na tym zakończy to otrzymuje 1 punkt.
+Jeżeli zdający bez żadnych obliczeń poda tylko wynik, np. $\frac{1}{801}$ to otrzymuje za całe rozwiązanie 1 punkt.
+Strona 20 z 20

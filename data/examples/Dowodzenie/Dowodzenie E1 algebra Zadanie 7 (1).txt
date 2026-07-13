@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Wykazać, że \( x + \frac{16}{x} \leq -8, \) gdy \( x < 0. \)
+
+\[ x + \frac{16}{x} \leq -8, \, x<0 \]
+
+\(\ 1 \) przekształcamy nierówność
+
+\[ x + \frac{16}{x} \leq -8 \ /\cdot x \ < 0 \]
+
+\[ x^2 + 16 \geq -8x \]
+
+\[ x^2 + 8x + 16 \geq 0 \quad (a+b)^2 = a^2 + 2ab + b^2 \]
+
+\[ (x+4)^2 \geq 0 \]
+
+\(\ 2 \) komentarz: kwadrat dowolnej liczby jest zawsze liczbą nieujemną, c.k.d.

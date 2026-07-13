@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+### W pierwszym pojemniku mamy 2 kule białe i 3 czarne, a w drugim pojemniku 1 kulę białą i 2 kule czarne. Wyciągamy jedną kulę z pierwszego pojemnika i nie oglądając jej przykładamy do drugiego pojemnika. Następnie z drugiego pojemnika losujemy dwie kule. Oblicz prawdopodobieństwo, że do drugiego pojemnika dołożyliśmy kulę białą, jeśli wiadomo, że kule wylosowane z drugiego pojemnika były w różnych kolorach.
+
+1. Wprowadzamy oznaczenia i tworzymy "drzewko"
+
+```
+I                         II
+   A - dwie różne kule z II pojemnika
+  B1 - dołożyliśmy do II białą
+  B2 - dołożyliśmy do II czarną
+```
+```
+            +-- 3/5 -- (B)
+          2/5
+          | +-- 2/3 -- (C)
+          |          
+(I) A +--  | +-- 1/3 -- (C)
+          |          
+          | +-- 2/5 -- (B)
+          | +-- 3/5 -- (C)
+          |          
+          | +-- 1/4 -- (C)
+          +-- 3/5
+```
+
+\[ P(A) =  \frac{3}{5} \cdot \frac{3}{5} + \frac{3}{5} \cdot \frac{2}{5} \cdot \frac{1}{4} + \frac{3}{5} \cdot \frac{1}{3} = \frac{4}{15} + \frac{6}{20} = \frac{34}{60} \]
+
+2. Musimy policzyć \( P(B_1|A) \) → dołożyliśmy do II białą, pod warunkiem, że wylosowano kule różnego koloru
+
+Wzór Bayesa: 
+
+\[ P(B_1|A) = \frac{P(A|B_1) \cdot P(B_1)}{P(A)} \]
+
+\[ P(B_1)=\frac{2}{5} \]
+
+3. Wyznaczamy potrzebne prawdopodobieństwa:
+
+\[ P(A|B_1) \] - określa prawd. dwóch różnych kul jeśli dołożyliśmy do II białą,
+
+czyli 
+
+\[ P(A|B_1)=\frac{1}{2} \cdot \frac{2}{3} + \frac{1}{2} \cdot \frac{2}{3} = \frac{2}{3} \]
+
+4. Liczymy docelowe \( P(B_1|A) \)
+
+\[ P(B_1|A) = \frac{\frac{2}{3} \cdot \frac{2}{5}}{\frac{34}{60}} = \frac{4}{15} \cdot \frac{60}{34} = \frac{8}{17} \]
+
+**Odp:** \( \frac{8}{17} \)
+
+Alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+\[ P(B_1|A) = \frac{P(A \cap B_1)}{P(A)} , P(A) \text{ policzyliśmy już wyżej} \]
+
+\[ P(A \cap B_1) \] – prawd. że dwie różne kule i dołożona biała 
+
+\[ P(A \cap B_1) = \frac{2}{5} \cdot \frac{2}{4} \cdot \frac{2}{3} + \frac{2}{5} \cdot \frac{2}{4} \cdot \frac{2}{3} = \frac{16}{60} \]
+
+\[ P(B_1|A) = \frac{16}{60} \cdot \frac{60}{34} = \frac{8}{17} \]

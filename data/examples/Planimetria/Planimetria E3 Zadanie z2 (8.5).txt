@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z2 (8.5) Czworokąt ABCD o obwodzie 20 cm opisany jest na okręgu. Oblicz długość boku AD wiedząc, że długości boków AB, BC, CD w podanej kolejności tworzą ciąg arytmetyczny.
+
+1) Zapisujemy boki jako kolejne wyrazy ciągu arytmetycznego i wyznaczamy |AD|:
+
+|AB| = a , |BC| = a + r , |CD| = a + 2r , |AD| = x
+
+|AB| + |CD| = |BC| + |AD|    Jeśli czworokąt można opisać na okręgu, to sumy jego przeciwległych boków są równe.
+
+a + a + 2r = a + r + x   ->   x = a + r = |AD|
+
+2) Podstawiamy boki czworokąta pod dany obwód i wyznaczamy |AD|:
+
+a + a + r + a + 2r + a + r = 20  
+4a + 4r = 20 | :4  
+a + r = 5 = |AD|  
+
+Odp. |AD| = 5 cm.
+
+UWAGA: zadanie jest tak dobrane, że da się obliczyć |AD| i tym samym |BC|, natomiast jest zbyt mało danych, aby móc policzyć |AB| lub |CD|.

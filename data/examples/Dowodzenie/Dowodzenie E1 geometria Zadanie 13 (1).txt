@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Punkt M jest środkiem boku AB trójkąta ABC oraz |∡ACM| = |∡ABC|. Wykazać, że |AB| = sqrt(2) * |AC|.
+
+1️⃣ tworzymy rysunek poglądowy
+
+Dane:
+|AM| = |MB|
+|∡ACM| = |∡ABC| = α
+
+Teza: |AB| = sqrt(2) * |AC|
+
+2️⃣ wyznaczamy kolejne kąty, szukając trójkątów podobnych
+
+niech |∡CAM| = β
+
+wtedy |∡CMA| = 180° - (α + β) => |∡CMB| = α + β
+
+i |∡MCB| = 180° - (α + β + α) = 180° - 2α - β
+
+|∡ACB| = α + 180° - 2α - β = 180° - (α + β) = |∡CMA|
+
+3️⃣ z cechy kkk △ABC ~ △AMC
+
+a wiemy, że |AB| = 2|AM|
+
+4️⃣ układamy stosunek z wykorzystaniem boków: |AB|, |AM| i |AC|
+
+(2△ABC)
+───────
+(2△AMC)
+        
+        |AB|         |AC|
+───────── = ───────── 
+        |AC|         |AM|
+
+|AC|^2 = |AB| * |AM| = 1/2 |AB|^2   / sqrt
+
+|AC| = 1/sqrt(2) |AB|
+
+|AB| = sqrt(2) * |AC|
+
+c.k.d.

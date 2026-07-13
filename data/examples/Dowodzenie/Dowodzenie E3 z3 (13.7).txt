@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Udowodnij, że jeżeli \( c \in R_+ - \{1\}, a, b \in R_+ \ i \ a^2 + b^2 = 7ab, \ to \ \log_c \frac{a+b}{3} = \frac{1}{2}(\log_c a + \log_c b).\)
+
+założenie: \( a^2 + b^2 = 7ab \ \ \ \ \ teza: \ \log_c \frac{a+b}{3} = \frac{1}{2}(\log_c a + \log_c b) \)
+
+⑴ przekształcamy równoważnie tezę:
+
+\(\log_c \frac{a+b}{3} = \frac{1}{2}(\log_c a + \log_c b) \)
+
+\( \Rightarrow \ \log_c \frac{a+b}{3} = \frac{1}{2} \log_c ab \)
+
+\( \Rightarrow \ \log_c \frac{a+b}{3} = \log_c \sqrt{ab} \ \) ✳
+
+\[\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ log_a (x \cdot y) = log_a x + log_a y \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ log_a x^r = r \cdot log_a x\ \]
+
+⑵ równanie ✳ będzie prawdziwe \(\iff \frac{a+b}{3} = \sqrt{ab} \)
+
+⑶ wracamy do założenia:
+
+\(a^2 + b^2 = 7ab\)
+
+\((a+b)^2 - 2ab = 7ab\)
+
+\((a+b)^2 = 9ab / \sqrt{}\ \ \ \ \ , \ a,b > 0\)
+
+\(a+b = 3\sqrt{ab} \ \ \ \ \ \Rightarrow \ \ \frac{a+b}{3} = \sqrt{ab} \)
+
+⑷ zatem z ⑶ punktu wiemy, że ⑵ jest prawdą,
+
+\(\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \frac{a+b}{3} = \sqrt{ab}\)
+
+\[\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ L = P \]
+
+\(\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ c.k.d.\)

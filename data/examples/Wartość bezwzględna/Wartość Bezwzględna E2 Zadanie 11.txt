@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+Zad.11 Dla jakich wartości parametru m równanie 2x^2 - m|x| + m - 2 ma 2 różne rozwiązania?
+
+1) Podstawimy zmienną pomocniczą t za |x| i sprowadzamy równanie do kwadratowego:
+   
+   x^2 = |x|^2 => 2(|x|^2) - m|x| + m - 2 = 0
+   
+   Niech:
+   
+   |x| = t , z.t. t >= 0
+   
+   Wówczas:
+   
+   2x^2 - mt + m - 2 = 0
+   
+2.) Określamy warunki istnienia 2 rozwiązań:
+   
+   1^o Δ < 0:                  2^o Δ > 0 
+   ⎧ t_1 < 0                 ⎧ t_1 = 0
+   ⎨                          ⎨
+   ⎩ t_2 < 0                 ⎩ t_2 < 0
+   
+   Należy pamiętać, że rozwiązujemy liczbę razy dla x. Dla równ. z t_1 < 0 zaznacza 1 rozwen., natomiast jeśli t_2 < 0 dla |x| - istnieją 2 rozwen.; t > 0 ona że.
+   
+   Normalnie Δ > 0 daje 2 rozw. dla x ktoś t |x| - dla której 0; tamtonsit
+   warunek t t_2 < 0 zapenia 2 rozw.
+   równania z te będą miały różne znaki.
+   Tym samym jedno z nich obligatoryjnie da nam 2 rozw. dla x, a drugie (ujemne) 0 rozw.
+   
+3) Określamy, dla jakich m warunki są spełnione:
+   
+   1^o Δ < 0:                ^ t_2 > 0
+   ^ t_0 > 0               ⎛ m - 2 < 0    
+   Δ = (m - 1)^2 - 4(2(m - t_2)     m - 2 < 0    
+   = m^2 - 8m + 16 - ( m - u)^2     m < 0
+   m =0
+   (m - u)^2 = 0
+   m = 4
+   
+   ⎛ m = 4                    ⎛ m = 4
+   ⎜ m > 0                    ⎜ m = 0
+   
+   2^o Δ > 0
+   Δ > 0                    ^ t_1, t_2 < 0
+   ⎧ m - u = 0        ⎛ t_2 < 0    
+   ⎨ m - 2 < 0          m < 2
+   ⎩ m < R \ {u}      m < 2
+   
+   ⎛ m ∈ R \ {4}        ⎛ m ∈ (-∞ ,2) ∪ (4, ∞)
+   ⎜ m < 2               ⎜
+   ⎜ m > 0               ⎜ m = 0
+   ⎜ m > 0               ⎜ m = 0
+   
+   1^o ∪ 2^o => m ∈ (-∞, 2) ∪ {4}
+
+Odp. m ∈ (-∞, 2) ∪ {4}.

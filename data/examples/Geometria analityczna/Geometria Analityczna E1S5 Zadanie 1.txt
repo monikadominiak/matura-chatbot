@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Zad.1 Pole rombu ABCD jest równe 32. Wyznacz współrzędne punktów B i D, jeśli A = (-4, -2), C = (4, 6).
+
+1) Tworzymy rysunek poglądowy:
+
+Na marginesie umieszczam punkty, prostych itp.
+
+W takiej sytuacji warto na osiach współrzędnych (tu mamy możliwość w linii siatce poglądowej) pozaznaczać „po parę sztuk”, w sposób możliwie jak najbardziej umowną skalę. Wówczas na podstawie takiego rysunku możemy śledzić kolejne etapy rozwiązania. Zauważ, że koordynaty które oznaczam są tylko dane oraz ich kierowanie. Cała reszta obszaru na rysunku jest oznaczona poglądowo.
+
+2) Wyznaczamy odcinek AC a danym nam punkcie i na jego podstawie odcinek DB o polu :
+
+|AC^2| = (4-(-4))^2 + (6-(-2))^2
+|AC^2| = 8^2 + 8^2 = 128 / √
+|AC|=8√2
+P = |AC| * |BD|
+32 = 8√2 * |BD|
+|BD| = 2√2
+
+3) Na podstawie danych punktów wyznaczamy środki, przekształcamy wzorki oraz proste AC (na rys. oznaczoną n), by następnie wyznaczyć prostej DB (na rys. oznaczoną k):
+
+S((4+(-4))/2, (6+(-2))/2)
+S(0, 2)
+
+A, C m = y - a/x-b, =>
+(6-2)/(4-0) = k => 2 - 4x k
+4 = 6 - 4 x k         =>  6a -4w 2
+4x = 6               knz,x
+k = 1                a = -2
+
+m = y = x + 2
+
+k: y = ax + b,       k, l)n <=> 
+a = -1               a,k <=> 
+S e y = kw + x,       b = 2 (b)
+b, 2
+
+k: y = -x + 2
+
+4) Wyznaczamy współrzędne punktów D i B ze wzoru na odległość punktu od prostej:
+
+Punkty D  B są równoważone od punktu S i prostej n... 
+
+d = | 10x-2 | + 6^2*√2-2 /2√2
+D, k b e k y=-x+2=0 / D(x, y)=m/x+md/
+2√2>= |√
+2√2 = |-k-x+2='2' /3(x, y+m))/√
+4 = |-2x/√
+      -2x = 4   v          b =x-6=4
+-x=2                 <
+y=-(-2)=x+4=0
+
+Ot: ▣ D(2,0)  Raz ...  ▣ B(0,2)
+B(C,2•)             / D(c,4)

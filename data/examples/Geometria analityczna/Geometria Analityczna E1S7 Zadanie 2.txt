@@ -1,0 +1,143 @@
+
+--- STRONA 1 ---
+Zad.2 Rozwiąż układ równań i podaj jego interpretację geometryczną:
+
+\[
+\begin{cases} 
+x^2 + y^2 = 25 \\ 
+x^2 + y^2 + 8y = -7 
+\end{cases}
+\]
+
+1) Rozwiązujemy układ równań:
+
+\[
+\begin{cases} 
+x^2 + y^2 = 25 \\ 
+x^2 + y^2 + 8y = -7 
+\end{cases} \Rightarrow 
+-\left( 
+\begin{cases} 
+x^2 + y^2 = 25 \\ 
+x^2 + y^2 + 8y = -7 
+\end{cases} \right)
+\]
+
+\[
+-8y = 32 \quad |(:-8)
+\]
+\[
+y = -4
+\]
+
+Podstawiamy \( y = -4 \do równań \left\{
+\begin{array}{l}
+x^2 + y^2 = 25 \\ 
+x^2 + y^2 + 8y = -7 
+\end{array}
+\right. 
+\]
+\[
+x^2 + (-4)^2 = 25 
+\]
+\[
+x^2 + 16 = 25 
+\]
+\[
+x^2 = 25 - 16 = 9 
+\]
+\[
+x \in \{ 3 , -3 \} 
+\]
+\[
+(y = -4, \, \, y = -4)
+\]
+
+2) Wyznaczymy środki i promienie obu okręgów:
+
+\[
+I \;\;\text{ sposób : podstawienie}
+\]
+
+\[
+x^2 + y^2 - 25 = 0
+\]
+\[
+x^2 + y^2 + 8y + 7 = 0
+\]
+\[
+x^2 + y^2 - 2ax - 2by + c = 0, \; \; r^2 = a^2 + b^2 - c
+\]
+
+\[
+-2ax = 0 \quad \quad -2by = 0 \quad \quad c = -25
+\]
+\[
+a = 0 \quad \quad b = 0
+\]
+
+\[
+r^2 = 25 
+\]
+\[
+r = 5 \quad \lor \quad -5 \quad \lor \quad r = 0
+\]
+\[
+O_1: \, x^2 + y^2 - 25 = 0 \Rightarrow S(0,0), \; \; r = 5 
+\]
+
+\[
+x^2 + y^2 + 8y + 7 = 0
+\]
+\[
+x^2 + y^2 - 2ax - 2by + c = 0, \; \; r^2 = a^2 + b^2 - c
+\]
+\[
+-2ax = 0 \quad \quad -2by = -8y \quad \quad c = 7
+\]
+\[
+a = 0 \quad \quad b = 4 
+\]
+
+\[
+r^2 = 0^2 + 4^2 - 7
+\]
+\[
+r^2 = 16 - 7 = 9
+\]
+\[
+r = 3 \quad \lor \quad -3 \quad \lor \quad r = 0 
+\]
+\[
+O_2: \, x^2 + (y+4)^2 - 9 = 0 \Rightarrow S(0,-4), \; \; r = 3 
+\]
+
+\[
+II \;\;\text{ sposób : sprowadzenie do wzorów okręgów}
+\]
+
+\[
+x^2 + y^2 = 25 
+\]
+\[
+S(0,0), \; \; r = 5 
+\]
+
+\[
+x^2 + y^2 + 8y - 7 = 0
+\]
+
+\[
+x^2 + (y^2 + 8y +16) - 16 - 7
+\]
+
+\[
+O_2: \, x^2 + (y+4)^2 = 9
+\]
+\[
+S(0,-4), \; \; r = 3 
+\]
+
+3) Tworzymy interpretację geometryczną w układzie współrzędnych.
+
+[Diagram of the geometric interpretation]

@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Rozpatrujemy wszystkie trapezy równoramienne, w których krótsza podstawa ma długość 5 i każde z ramion też ma długość 5. Oblicz długość dłuższej podstawy tego z rozpatrywanych trapezów, który ma największe pole. Oblicz to pole.
+
+① uzależniamy od siebie zmienne
+
+```
+  ________
+ /        \
+/__________\
+[x]     [x]
+
+h [5] h [5] h
+```
+
+h^2 + x^2 = 25\
+h = sqrt(25 - x^2)
+
+② wyznaczamy dziedzinę funkcji\
+x > 0 , 25 - x^2 > 0 => x ∈ (0,5)
+
+③ zapisujemy wzór funkcji\
+P(x) = 1/2 (2x + 10) sqrt(25 - x^2) = (x + 5) sqrt(25 - x^2)\
+= sqrt((x+5)^2 (25-x^2)) = sqrt(-x^4 - 10x^3 + 25x^2 + 625)
+
+④ wyznaczamy pochodną funkcji\
+
+I sposób pomijamy pierwiastek\
+funkcja f(a)=-a jest rosnąca w przedziale (0,+∞), więc funkcja f(a)=-a będzie osiągać wartość największą dla tego samego argumentu α co f(a)
+
+niech f(x) = -x^4 - 10x^3 + 25x^2 + 625\
+f'(x) = -4x^3 - 30x^2 + 250 = 2(-2x^3 - 15x^2 + 125)
+
+II sposób pochodna funkcji złożonej\
+f(x) = sqrt(x) => f'(x) = 1/(2 sqrt(x))\
+P'(x) = 1/sqrt(-x^4 - 10x^3 + 25x^2 + 625) * (-4x^3 - 30x^2 + 250)\
+= (-2x^3 - 15x^2 + 125) / sqrt(-x^4 - 10x^3 + 25x^2 + 625) 
+
+(zauważmy, że w II mianownik jest >0, więc będziemy analizować licznik, pod względem analizy miejsc zerowych da ten sam wynik co f'(x) z I)
+
+⑤ wyznaczamy miejsca zerowe pochodnej\
+-2x^3 - 15x^2 + 125 = 0 => -(x+5)^2 (2x-5) = 0\
+x = -5 ∨ x = 5/2
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+
+         +       0     
+        [→ . . → | . . ←]
+         x       x
+          ========== 
+P(x)     - . ._.+ ._.
+
+max     x
+
+Funkcja P(x) osiąga w swojej dziedzinie wartość największą dla argumentu x = 5/2
+
+II sposób:
+
+x | (0, 5/2) | 5/2 | (5/2, 5)
+---------------------------
+P'(x)        |  +  | 0  |   -
+
+P(x)         ↗︎ max.lok. ↘︎
+
+⑦ obliczamy pole\
+P(5/2) = (5/2 + 5) sqrt(25 - 25/4) = 15/2 * sqrt(75/4) = 75*sqrt(3)/4
+
+Odp: P = 75*sqrt(3)/4

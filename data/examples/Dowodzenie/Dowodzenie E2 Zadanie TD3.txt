@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Wykaż, korzystając z twierdzenia Darboux, że wykresy funkcji \( f(x) = -x^4 + 5x \), \( x \in \mathbb{R} \) i \( g(x) = 2x^3 - 4x + 4 \), \( x \in \mathbb{R} \), przecinają się w punkcie o odciętej należącej do przedziału (0, 1).
+
+1⃣
+
+\[
+\begin{cases} 
+f(x) = -x^4 + 5x \\ 
+g(x) = 2x^3 -4x + 4 
+\end{cases}
+\]
+teza: \( x \), będący rozwiązaniem układu 1⃣ \(\in (0,1)\)
+
+1⃣ punkt wspólny jest rozwiązaniem równania
+
+\( f(x) = g(x) \)
+
+\( f(x) - g(x) = 0 \)
+
+2⃣ tworzymy nową funkcję \( h(x) \),
+
+gdzie \( h(x) = f(x) - g(x) \)
+
+\( ( h(x) \) jest różnicą funkcji ciągłych, więc sama również jest ciągła \)
+
+3⃣ chcemy ,aby w przedziale \((0,1)\) funkcja
+
+\( h(x) \) przyjmowała wartość \( = 0 \)
+
+\( h(0) = 0 - 4 = -4 < 0 \)
+
+\( h(1) = 4 - 2 = 2 > 0 \)
+
+\[
+\begin{cases} 
+ZW = \langle -4, 2 \rangle
+\end{cases}
+\]
+\(\Rightarrow\) czyli istnieje takie \( c \in (0,1) \),
+
+że \( h(c) = 0 \)
+
+zatem na mocy tw. Darboux teza jest prawdziwa
+
+c.k.d.

@@ -1,0 +1,83 @@
+
+--- STRONA 1 ---
+W daną półkulę o promieniu \( R \) wpisano stożek, którego wierzchołek leży w środku kuli, a podstawa jest równoległa do podstawy półkuli. Oblicz maksymalną objętość stożka.
+
+1️⃣ uzależniamy od siebie zmienne
+
+\[
+h^2 + r^2 = R^2
+\]
+
+\[
+r^2 = R^2 - H^2
+\]
+
+\[
+r = \sqrt{R^2 - H^2}
+\]
+
+2️⃣ zapisujemy wzór funkcji
+
+\[
+V(H) = \frac{1}{3} \pi \cdot (R^2 - H^2) \cdot H = \frac{1}{3} \pi R^2 H - \frac{1}{3} \pi H^3
+\]
+
+3️⃣ wyznaczamy dziedzinę funkcji
+
+\[
+H > 0, \, r > 0
+\]
+
+\[
+R^2 - H^2 > 0 \quad \Rightarrow \quad H \in (0, R)
+\]
+
+4️⃣ wyznaczamy pochodną funkcji
+
+\[
+V'(H) = \frac{1}{3} \pi R^2 - \pi H^2 = \pi \left( \frac{1}{3} R^2 - H^2 \right)
+\]
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\[
+V'(H) = 0 \quad \Leftrightarrow \quad \frac{1}{3} R^2 - H^2 = 0 \quad \Rightarrow \quad H^2 = \frac{1}{3} R^2
+\]
+
+\[
+H = \frac{\sqrt{3}}{3} R \quad \lor \quad H = -\frac{\sqrt{3}}{3} R
+\]
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+\[
+\begin{array}{c}
+\includegraphics[width=40pt]{graph} \\
+(min)  \, -\frac{\sqrt{3}}{3} R \quad max \, \frac{\sqrt{3}}{3} R
+\end{array}
+\]
+
+II sposób:
+
+\[
+\begin{array}{c|c|c|c}
+H & (0, \frac{\sqrt{3}}{3} R) & (\frac{\sqrt{3}}{3} R, R) \\
+\hline
+V'(H) & + & 0 & - \\
+V(H) & \nearrow & \max.loc. & \searrow
+\end{array}
+\]
+
+Funkcja \( V(H) \) osiąga w swojej dziedzinie wartość największą dla argumentu \( H = \frac{\sqrt{3}}{3} R \)
+
+7️⃣ obliczamy objętość
+
+\[
+V(\frac{\sqrt{3}}{3} R) = \frac{1}{3} \pi \left( R^2 - \frac{1}{3} R^2 \right) \cdot \frac{\sqrt{3}}{3} R = \frac{\sqrt{3}}{9} \pi R \cdot \frac{2}{3} R^2 = \frac{2\sqrt{3} R^3 \pi}{27}
+\]
+
+\[
+\text{odp: } V = \frac{2\sqrt{3} R^3 \pi}{27}
+\]

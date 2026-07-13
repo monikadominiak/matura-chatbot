@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Ciąg $(b_{n})$ jest określony wzorem $b_{n}=3n^{2}-25n$ dla każdej liczby naturalnej $nge1$. Liczba
+niedodatnich wyrazów ciągu $(b_{n})$ jest równa
+A. 14
+B. 13
+C. 9
+D. 8
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

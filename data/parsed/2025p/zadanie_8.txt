@@ -1,0 +1,24 @@
+=== ARKUSZ: 2025p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Dla każdej liczby rzeczywistej x różnej od (−2) oraz różnej od 0 wartość wyrażenia
+
+((x^2 + x) / (x^2 + 4x + 4)) · ((x + 2) / x)
+
+jest równa wartości wyrażenia
+
+A. (x + 2) / (4x + 4)
+B. (x + 1) / (4x + 5)
+C. (x + 1) / (x + 2)
+D. 2x / (x + 2)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

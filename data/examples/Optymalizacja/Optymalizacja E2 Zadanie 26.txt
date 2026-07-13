@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Pewna wielkość fizyczna zmienia się zgodnie ze wzorem
+f(x) = 10x^6 - 276x^5 + 2895x^4 - 14260x^3 + 33060x^2 - 33600x + 18000
+
+a) jaka jest najmniejsza możliwa wartość tej wielkości fizycznej dla x ∈ [6, 9]?
+b) jaka jest najmniejsza możliwa wartość tej wielkości fizycznej dla x ∈ (6, 9)?
+c) jaka jest największa możliwa wartość tej wielkości fizycznej dla x ∈ [1, 17/2]?
+d) jaka jest największa możliwa wartość tej wielkości fizycznej dla x ∈ (1, 17/2)?
+
+① wyznaczamy pochodną funkcji f
+
+f'(x) = 60x^5 - 1380x^4 + 11580x^3 - 42780x^2 + 66020x - 33600 =
+
+= 60(x^5 - 23x^4 + 193x^3 - 713x^2 + 1102x - 560) =
+
+= 60(x-1)(x-2)(x-5)(x-7)(x-8)
+
+komentarz: rozkładamy wielomian kolejno szukając pierwiastków, sprawdzając od tyłu najprostszych jak 1 i dalej dzieląc np. schematem Hornera, na maturze mogą pojawić się trudniejsze liczby, ale raczej nie w połączeniu z wielomianem tak wysokiego stopnia, więc obliczenia pominęliśmy
+
+② wyznaczamy miejsca zerowe pochodnej
+
+f'(x) = 0 ⇔ x = 1 ∨ x = 2 ∨ x = 5 ∨ x = 7 ∨ x = 8
+
+③ badamy monotoniczność i ekstrema funkcji
+
+[obrazek pokazujący znaki funkcji przy miejscach zerowych pochodnej]
+
+f(1) = 5829  
+f(2) = 7088  
+f(5) = -2815  
+f(7) = 213  
+f(8) = -688  
+
+f(6) = -1296 = lim_{x→6^+} f(x)
+f(9) = 8901 = lim_{x→9^-} f(x)
+f(8.5) ≈ 8741.953 ≈ lim_{x→8.5} f(x)
+
+④ wykres poglądowy f(x)
+
+odpowiedzi: 
+a) f(6) = -1296
+b) brak (zw = (-1296, 8901))
+c) f(2) = 7088
+d) f(2) = 7088

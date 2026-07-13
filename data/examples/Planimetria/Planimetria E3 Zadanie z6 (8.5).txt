@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Zadanie z6 (8.5) W trapez o polu 168 i ramionach długości 13 i 15 można wpisać okrąg. Przekątne dzielą ten trapez na cztery trójkąty. Oblicz pole każdego z tych trójkątów.
+
+1) Tworzymy rysunek poglądowy:  
+Okrąg można wpisać w czworokąt, jeżeli sumy długości jego przeciwległych boków są sobie równe.  
+
+|AB|+|CD|=|AD|+|BC|=13+15=28  
+
+2) Wyznaczamy wysokość trapezu ze wzoru na pole oraz jego pozostałe boki korzystając z tw. Pitagorasa:  
+
+P_t = \frac{(|AB|+|CD|)\cdot h}{2}=14 \cdot h=168 \rightarrow h=12  
+  
+W \triangle AEB:  
+|AE|^2+|ED|^2=|AD|^2  
+
+|AE|^2=169-4 \cdot 25 \rightarrow |AE|=5  
+
+|EF|=|DC|=x  
+
+|AB|+|CD|=28  
+
+|AE|+x+|FD|=x=28  
+
+2x=41  
+
+x=7 \rightarrow |DC|  
+
+|AB|=|AE|+x+|FB|=5+7+9=21  
+
+3) Wyznaczamy zależności między polami trójkątów:  
+
+\triangle CDS \sim \triangle ABS (z cech kkk)  
+
+P_{ABD} = P_{ABC} \quad \leftarrow \text{trójkąty mają wspólną podstawę } AB  
+\text{oraz identyczną wysokość } h=12.  
+
+P_{ADC} \cdot P_{ABC} = P_{ABS} \cdot P_{DCS}  
+
+P_{ABD} = P_{ABCS}  
+
+k = \frac{|AB|}{|CD|} = \frac{21}{7} = 3  
+
+W takim razie wysokość trójkąta ABS jest 3 razy dłuższa niż wysokość trójkąta DCS. Stąd wynika, że:  
+
+h_{ABS}=9, \text{ i } h_{ACS}=3  
+
+P_{ABS}= \frac{21 \cdot 9}{2} = \frac{189}{2}  
+
+P_{ACS}= \frac{7 \cdot 3}{2} = \frac{21}{2}  
+
+P_{ABD} = P_{ABCS} = \frac{168-(\frac{189}{2}+\frac{21}{2})}{2} = \frac{63}{2}.  
+
+Odp. \, P_{ABS} = \frac{189}{2}, \, P_{ACS} = \frac{21}{2}, \, P_{ABD} = \frac{63}{2}, \, P_{ACD} = \frac{63}{2}.

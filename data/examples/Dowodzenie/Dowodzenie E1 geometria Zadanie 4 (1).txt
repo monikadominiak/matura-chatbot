@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Dany jest trójkąt prostokątny \(ABC\), w którym kąt \(ACB=90^\circ\) i kąt \(ABC=60^\circ\). Niech \(D\) oznacza punkt wspólny wysokości poprowadzonej z wierzchołka \(C\) kąta prostego i przeciwprostokątnej \(AB\) tego trójkąta. Wykaż, że iloczyn \(|AD| \cdot |DB|\) jest równy 12, jeśli wiadomo, że ramię \(BC\) ma długość 4.
+
+1️⃣ tworzymy rysunek poglądowy
+
+teza: \(|AD| \cdot |DB| = 12\)
+
+dane: \(|BC| = 4\)
+
+2️⃣ oznaczamy odpowiednie kąty
+
+\(\angle ABC = 30^\circ = \angle DCA\)
+
+\(\angle CBD = 60^\circ\)
+
+3️⃣ potrzebujemy długości \(|AD|\) i \(|DB|\)
+
+z \(\triangle\) charakterystycznego mamy
+
+\(\triangle CBD\) \hspace{3.2cm} \(\triangle ABC\)
+
+\(|BC| = 2a = 4\) \hspace{3cm} \(|BC| = a = 4\)
+
+\(|DB| = a = \underline{2}\) \hspace{3cm} \(|AB| = 2a = \underline{8}\)
+
+4️⃣ obliczamy \(|AD|\), a następnie szukany iloczyn
+
+\(|AD| = |AB| - |DB| = 8 - 2 = \underline{6}\)
+
+zatem: \(|AD| \cdot |DB| = 6 \cdot 2 = \underline{12}\)
+
+c.k.d.

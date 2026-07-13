@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Rzucamy siedem razy symetryczną sześcienną kostką. Oblicz prawdopodobieństwo tego, że:
+a) wypadną tylko parzyste liczby oczek
+b) pojawią się wszystkie liczby oczek
+
+① analizujemy polecenie  
+7 x rzut kostką,   
+1, 2, 3, 4, 5, 6  
+
+② liczymy moc Ω  
+|Ω| = 6^7  (siedem rzutów, w każdym sześć możliwości)  
+
+③ a) A - tylko parzyste  
+|A| = 3^7  
+
+P(A) = (3^7) / (6^7) = (3^7) / (3^7 * 2^7) =  
+= 1 / 2^7 = 1 / 128  
+
+④ b) B - wszystkie oczka  
+|B| = 6 * (7, 2) * 5!  
+
+P(B) = (6 * 21 * 5!) / 6^7 = 21 * 120 / 6^6 = 35 / 648  
+
+Odp: a) 1/128 ; b) 35/648  

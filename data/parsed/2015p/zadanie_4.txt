@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Równość m/(5 - sqrt(5)) = (5 + sqrt(5))/5 zachodzi dla
+A. m = 5
+B. m = 4
+C. m = 1
+D. m = -5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 4. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia na $(apm b)^2$ oraz $a^2-b^2$ (2.1).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

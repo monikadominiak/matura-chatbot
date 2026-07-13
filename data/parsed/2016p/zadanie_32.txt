@@ -1,0 +1,22 @@
+=== ARKUSZ: 2016p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0-4)
+Jeden z kątów trójkąta jest trzy razy większy od mniejszego z dwóch pozostałych kątów, które różnią się o 50°. Oblicz kąty tego trójkąta.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 32. $(0-4)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: SP9. Wielokąty, koła, okręgi. Zdający stosuje twierdzenie o sumie kątów trójkąta (SP9.3). G7. Równania. Zdający rozwiązuje równania stopnia pierwszego z jedną niewiadomą (G7.3).
+Przykładowe rozwiązania I sposób  Niech $\alpha$ oznacza najmniejszy kąt trójkąta. Zatem pozostałe dwa kąty tego trójkąta równe są $\alpha+50^{\circ}$ oraz $3\alpha$. Suma kątów trójkąta jest równa $180^{\circ}$, więc $\alpha+3\alpha+\alpha+50^{\circ}=180^{\circ}$, $5\alpha=130^{\circ}$, $\alpha=26^{\circ}$ Stąd $\alpha+50^{\circ}=76^{\circ}$ oraz $3\alpha=78^{\circ}$.
+II sposób  Niech $\alpha$ oznacza największy kąt trójkąta. Zatem pozostałe dwa kąty tego trójkąta równe są $\frac{\alpha}{3}+50^{\circ}$ oraz $\frac{\alpha}{3}$. Suma kątów trójkąta jest równa $180^{\circ}$, więc $\frac{\alpha}{3}+\frac{\alpha}{3}+50^{\circ}+\alpha=180^{\circ}$, $5\alpha=390^{\circ}$, $\alpha=78^{\circ}$ Stąd $\frac{\alpha}{3}=26^{\circ}$ oraz $\frac{\alpha}{3}+50^{\circ}=76^{\circ}$.
+Strona 13 z 20
+III sposób  Niech $\alpha$ oznacza ten kąt trójkąta, który nie jest ani największy, ani najmniejszy. Zatem pozostałe dwa kąty tego trójkąta równe są $\alpha-50^{\circ}$ oraz $3(\alpha-50^{\circ})$. Suma kątów trójkąta jest równa $180^{\circ}$, więc $\alpha-50^{\circ}+\alpha+3(\alpha-50^{\circ})=180^{\circ}$, $5\alpha=380^{\circ}$, $\alpha=76^{\circ}$ Stąd $\alpha-50^{\circ}=26^{\circ}$ oraz $3(\alpha-50^{\circ})=78^{\circ}$.
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania... 1 p. Zdający zapisze: kąty trójkąta w zależności od jednego kąta, np.: $\alpha$, $\alpha+50^{\circ}$, $3\alpha$ lub $\frac{\alpha}{3}$, $\frac{\alpha}{3}+50^{\circ}$, $\alpha$, lub $\alpha-50^{\circ}$, $\alpha$, $3(\alpha-50^{\circ})$ albo  układ dwóch równań, np. $\begin{cases}\alpha+\alpha+50^{\circ}+\beta=180^{\circ}\\ \beta=3\alpha\end{cases}$ albo  układ trzech równań, np. $\begin{cases}\alpha+\beta+\gamma=180^{\circ}\\ \gamma=3\alpha\\ \beta=\alpha+50^{\circ}\end{cases}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp........ 2 p. Zdający zapisze równanie z jedną niewiadomą, np.: $\frac{\alpha}{3}+\frac{\alpha}{3}+50^{\circ}+\alpha=180^{\circ}$ lub $\alpha+3\alpha+\alpha+50^{\circ}=180^{\circ}$, lub $\alpha-50^{\circ}+\alpha+3(\alpha-50^{\circ})=180^{\circ}$ i na tym zakończy lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania... 3 p. Zdający obliczy jeden z kątów trójkąta, np.: $\alpha=26^{\circ}$ lub $\alpha=78^{\circ}$, lub $\alpha=76^{\circ}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie pełne... 4 p. Zdający obliczy wszystkie kąty trójkąta.
+Uwagi:
+Jeżeli zdający tylko poda kąty $(26^{\circ}, 76^{\circ}, 78^{\circ})$, to otrzymuje 1 punkt.
+Jeżeli zdający tylko poda kąty i sprawdzi wszystkie warunki zadania, to otrzymuje 2 punkty.
+Strona 14 z 20
+Zadanie zawiera obrazek ważny dla rozwiązania. Na rysunku oznaczono ostrosłup o wierzchołkach podstawy A, B, C i wierzchołku S.

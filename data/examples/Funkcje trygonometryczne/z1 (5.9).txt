@@ -1,0 +1,111 @@
+
+--- STRONA 1 ---
+z1 (5.9)
+
+Oblicz:
+
+a) sin 15° b) tg 75° c) 22,5° d) cos 22,5° e) cos 105°
+
+Należy skorzystać w zależności od przypadku albo ze wzorów na funkcje trygonometryczne sumy lub różnicy:
+
+sin(α+β)=sinαcosβ+cosαsinβ
+
+sin(α-β)=sinαcosβ-cosαsinβ
+
+cos(α+β)=cosαcosβ-sinαsinβ
+
+cos(α-β)=cosαcosβ+sinαsinβ
+
+Ponadto mamy równości:
+
+tg(α+β)= (tgα+tgβ)/(1-tgαtgβ),  tg(α-β)= (tgα-tgβ)/(1+tgαtgβ)
+
+Albo ze wzorów na kąty podwojone:
+
+sin 2α = 2sinαcosα
+
+cos 2α = cos^2α - sin^2α = 2cos^2α - 1 = 1 - 2sin^2α
+
+tg 2α = (2tgα)/(1-tg^2α)
+
+a) Korzystamy ze wzoru na sinusa różnicy kątów.
+
+sin 15° = sin(45°-30°) = sin 45° cos 30° - cos 45° sin 30° =
+
+= sqrt(2)/2 * sqrt(3)/2 - sqrt(2)/2 * 1/2 = sqrt(6)/4 - sqrt(2)/4 = (sqrt(6)-sqrt(2))/4
+
+Odp.: sin 15° = (sqrt(6)-sqrt(2))/4.
+
+b) Korzystamy ze wzoru na tangens sumy kątów.
+
+tg 75° = tg(45°+30°) =
+
+(tg 45° + tg 30°)/(1 - tg 45° * tg 30°) =
+
+(1 + sqrt(3)/3)/(1 - 1*sqrt(3)/3) =
+
+= (3 + sqrt(3))/3/(3 - sqrt(3))/3 = (3 + sqrt(3))/(3 - sqrt(3)) * (3 + sqrt(3))/(3 + sqrt(3)) =
+
+= (3 + sqrt(3))^2 / (9 - 3) = (9 + 6sqrt(3) + 3) / 6 = 2 + sqrt(3)
+
+Odp.: tg 75° = 2 + sqrt(3).
+
+--- STRONA 2 ---
+c) Licząc sinus lub cosinus kąta, który jest połową kąta, należy użyć
+którejś wersji wzoru na cos 2α, nieużyteczne byłoby użycie wzoru na sin 2α.
+
+1️⃣ Korzystamy ze wzoru na cos 2α
+
+cos 2α = 1 - 2sin^2α
+
+Niech α = 22,5°. Wtedy :
+
+cos 45° = 1 - 2sin^2 22,5°
+
+√2/2 = 1 - 2sin^2 22,5°
+
+2sin^2 22,5° = 1 - √2/2
+
+2sin^2 22,5° = 2 - √2 / 2
+
+sin^2 22,5° = (2 - √2) / 4              /√2
+
+sin 22,5° = √(2 - √2) / 4 = √(2 - √2) / 2  v  sin 22,5° = - √(2 - √2) / 2
+
+sin 22,5° > 0  zatem  sin 22,5° = √(2 - √2) / 2
+
+Odp.: sin 22,5°= √2 - √2 / 2
+
+d) Licząc sinus lub cosinus kąta, który jest połową kąta, należy użyć
+którejś wersji wzoru na cos 2α, nieużyteczne byłoby użycie wzoru na sin 2α.
+
+1️⃣ Korzystamy ze wzoru na cos 2α
+
+cos 2α = 2cos^2 α - 1
+
+Niech α = 22,5°. Wtedy :
+
+cos 45° = 2cos^2 22,5° - 1
+
+√2/2 = 2cos^2 22,5° - 1
+
+√2/2 + 1 = 2cos^2 22,5°
+
+√2 + 2 / 2 = 2cos^2 22,5°
+
+--- STRONA 3 ---
+\(\frac{\sqrt{2} + 2}{4} = \cos^2 22,5^\circ\)
+
+\(\cos 22,5^\circ = \frac{\sqrt{2} + 2}{4} = \frac{\sqrt{\sqrt{2} + 2}}{2} \quad \vee \quad \cos 22,5^\circ = -\frac{\sqrt{2} + 2}{2}\)
+
+\(\cos 22,5^\circ > 0 \quad \therefore \quad \cos 22,5^\circ = \frac{\sqrt{2} + 2}{2}\)
+
+Odp.: \(\cos 22,5^\circ = \frac{-\sqrt{2} + 2}{2}\).
+
+e) \( \quad \textcircled{1} \quad\) Korzystamy ze wzoru na cosinus sumy kątów.
+
+\(\cos 105^\circ = \cos(60^\circ + 45^\circ) = \cos 60^\circ \cos 45^\circ - \sin 60^\circ \sin 45^\circ =\)
+
+\(= \frac{1}{2} \cdot \frac{\sqrt{2}}{2} - \frac{\sqrt{3}}{2} \cdot \frac{\sqrt{2}}{2} = \frac{\sqrt{2}}{4} - \frac{\sqrt{6}}{4} = \frac{\sqrt{2} - \sqrt{6}}{4}\)
+
+Odp.: \(\cos 105^\circ = \frac{\sqrt{2} - \sqrt{6}}{4}\)

@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+6. Wykres wielomianu 3  
+Naszkicuj wykres wielomianu w. Dla jakich argumentów wielomian ten przyjmuje wartości nieujemne?  
+
+a) w(x) = (x - 2)(x - 3)^3(x - 4)^4  
+
+w(x) = (x - 2)(x - 3)^3(x - 4)^4  
+x . x^3 . x^4 . x^8  
+(1-kv) (3-kv) (4-kv) <- x^8 dodatni czynnik  
+
+x - 2 = 0  
+x = 2  
+
+x - 3 = 0  
+x = 3  
+
+x - 4 = 0  
+x = 4  
+
+Wartości nieujemne dla x ∈ (-∞; 2) ∪ <3; ∞)  
+
+Odp: x ∈ (-∞; 2) ∪ <3; ∞).  
+
+b) w(x) = -7(x^2 + 3)(3 - x)^3(3 - x)^2  
+
+-7(x^2 + 3)(3 - x)(3 + x)(3 - x)^2 = 0  
+
+x^2 + 3 = 0  
+Δ < 0  
+
+√3 - x = 0  
+x = √3  
+
+√3 + x = 0  
+x = -√3  
+
+3 - x = 0  
+x = 3  
+
+Wartości nieujemne dla x ∈ (-∞; -√3) ∪ <√3; ∞).  
+
+- x . (-x) . x . x^2  
+(2-kv) (1-kv) (4-kv) (2-kv) = x^6 dodatni czynnik
+
+a^2 - b^2 = (a-b)(a+b)

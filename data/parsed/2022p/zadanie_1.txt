@@ -1,0 +1,15 @@
+=== ARKUSZ: 2022p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0-1)
+Liczba $(2sqrt{8}-3sqrt{2})^{2}$ jest równa
+A. 2
+B. 1
+C. 26
+D. 14
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: Zdający: 1.3) posługuje się w obliczeniach pierwiastkami dowolnego stopnia i stosuje prawa działań na pierwiastkach.

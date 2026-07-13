@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Który z prostokątów o polu 50 cm² ma najmniejszy obwód?
+
+① uzależniamy od siebie zmienne
+
+P = 50 = xy
+
+⇒ y = \(\frac{50}{x}\)
+
+② zapisujemy wzór funkcji
+
+Obw: 2x + 2y = 2x + 2 \(\cdot \frac{50}{x}\) = 2x + \(\frac{100}{x}\)
+
+f(x) = 2x + \(\frac{100}{x}\)
+
+③ wyznaczamy dziedzinę funkcji
+
+\(D_f\): x>0, y>0 ⇒ \(\frac{50}{x}\) >0 ⇒ x>0 
+
+(boki prostokąta)
+
+\(D_f = (0,+\infty)\)
+
+④ wyznaczamy pochodną funkcji
+
+\(f'(x) = 2 - \frac{100}{x^2} = \frac{2x^2 - 100}{x^2}\)
+
+\(D_{f'} = D_f\)
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+\(f'(x) = 0 \iff 2x^2 - 100 = 0\)
+
+\(x^2 = 50\)
+
+\(x = 5\sqrt{2} \vee x = -5\sqrt{2} \nsubseteq D_{f'}\)
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+(mianownik jest zawsze dodatni, więc to licznik decyduje o znaku wyrażenia)
+
+I sposób:
+
+\[
+\begin{align*}
+&+ \quad \quad \quad - \quad \quad \quad + \\
+-5\sqrt{2} &\quad \quad 5\sqrt{2} \\
+\max & \quad \quad \min \\
+& f(x)
+\end{align*}
+\]
+
+II sposób:
+
+\[
+\begin{array}{c|c|c|c}
+x & (0,5\sqrt{2}) & 5\sqrt{2} & (5\sqrt{2},+\infty) \\
+\hline
+f'(x) & - & 0 & + \\
+f(x) & \searrow & \min \text{ lok.} & \nearrow \\
+\end{array}
+\]
+
+Funkcja \(f(x)\) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu \(x = 5\sqrt{2} \text{ [cm]}\)
+
+⑦ obliczamy y
+
+\( y = \frac{50}{5\sqrt{2}} = \frac{10\sqrt{2}}{2} = 5\sqrt{2} \text{ [cm]} \)
+
+Odp: najmniejszy obwód ma kwadrat o boku \(5\sqrt{2} \text{ cm}\)

@@ -1,0 +1,18 @@
+=== ARKUSZ: 2023p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie $frac{(x+1)(x-1)^{2}}{(x-1){(x+1)}^{2}}=0$ w zbiorze liczb rzeczywistych
+A. nie ma rozwiązania.
+B. ma dokładnie jedno rozwiązanie: -1.
+C. ma dokładnie jedno rozwiązanie: 1.
+D. ma dokładnie dwa rozwiązania: 1 oraz 1.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

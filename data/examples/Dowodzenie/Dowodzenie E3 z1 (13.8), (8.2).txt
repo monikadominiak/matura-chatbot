@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Na płaszczyźnie dany jest trójkąt \(ABC\), w którym \(|\angle C| = 90^\circ\), \(|AC| = |BC| = 2\) oraz punkt \(P\) (patrz rysunek). Wiedząc, że odległości punktu \(P\) od wierzchołków \(A\), \(B\), \(C\) są odpowiednio równe \(a\), \(b\), \(c\), wykaż, że: \(\left(\frac{c^2-a^2+4}{4c}\right)^2 + \left(\frac{c^2-b^2+4}{4c}\right)^2 = 1\).
+
+**Wskazówka:**
+równanie z tezy przypomina formułę "1" trygonometryczną
+
+\[ (1) \quad \text{układamy równanie z tw. cosinusów w } \triangle BPC \]
+
+\[ b^2 = c^2 + 4 - 4c \cos \alpha \]
+
+\[ (2) \quad \text{układamy równanie z tw. cosinusów w } \triangle APC \]
+
+\[ a^2 = c^2 + 4 - 4c \cos (90^\circ + \alpha), \text{ ze wzorów redukcyjnych } = -\sin d \]
+
+\[ a^2 = c^2 + 4 + 4c \sin d \]
+
+\[ \text{Dane:} \]
+
+\[ \angle C = 90^\circ \]
+
+\[ |AC| = |BC| = 2 \]
+
+\[ \text{teza: } \left(\frac{c^2-a^2+4}{4c}\right)^2 + \left(\frac{c^2-b^2+4}{4c}\right)^2 = 1 \]
+
+\[ (3) \quad \text{wyznaczamy z równań } \sin d \text{ i } \cos d \]
+
+\[ \cos d = \frac{c^2+4-b^2}{4c} \]
+
+\[ \sin d = -\frac{(c^2+4-a^2)}{4c} \]
+
+\[ (4) \quad \sin^2 d + \cos^2 d = 1 \]
+
+\[ \text{zatem } \left(-\frac{(c^2+4-a^2)}{4c}\right)^2 + \left(\frac{c^2+4-b^2}{4c}\right)^2 = 1 \]
+
+\[ \text{i } \left(\frac{(c^2+4-a^2)}{4c}\right)^2 = \left(\frac{c^2+4-a^2}{4c}\right)^2 \]
+
+\[ \text{więc teza jest prawdziwa} \]
+
+c.k.d.

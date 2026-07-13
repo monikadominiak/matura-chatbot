@@ -1,0 +1,62 @@
+
+--- STRONA 1 ---
+z8 (tn)
+
+Funkcja g określona jest wzorem \( g(x) = x^2 + \cos \alpha \cdot x + \sin \alpha + 3 \). Wyznacz te wartości parametru \(\alpha\), dla których najmniejsza wartość funkcji \( g \) jest równa 2.
+
+W zadaniu to x jest zmienną, i nie alfa, więc funkcja g(x) to funkcja kwadratowa o ramionach skierowanych ku górze. Przyjmuje najmniejszą wartość w wierzchołku.
+
+① Obliczamy współrzędne wierzchołka \( W(p,q) \).
+
+\[ p = -\frac{b}{2a}, \quad q = g(p) \]
+
+\[ a = 1, \quad b = \cos \alpha, \quad c = \sin \alpha + 3 \]
+
+\[ p = -\frac{\cos \alpha}{2} \]
+
+\[ q = g \left( -\frac{\cos \alpha}{2} \right) = \left[ -\frac{\cos \alpha}{2} \right]^2 + \cos \alpha \cdot \left( -\frac{\cos \alpha}{2} \right) + \sin \alpha + 3 = \]
+
+\[ = \frac{1}{4} \cos^2 \alpha - \frac{1}{2} \cos^2 \alpha + \sin \alpha + 3 = \]
+
+\[ = -\frac{1}{4} \cos^2 \alpha + \sin \alpha + 3 \]
+
+② Rozwiązujemy równanie \[ q = 2. \]
+
+\[ q = 2 \]
+
+\[ -\frac{1}{4} \cos^2 \alpha + \sin \alpha + 3 = 2 \]
+
+W tego typu równaniu trygonometrycznym staramy się, aby została tylko jedna funkcja zamiast dwóch. Korzystamy zatem z jedynki trygonometrycznej.
+
+\[ -\frac{1}{4} (1 - \sin^2 \alpha) + \sin \alpha + \frac{1}{4} = 0 \]
+
+\[ \frac{1}{4} \sin^2 \alpha + \sin \alpha + \frac{3}{4} = 0 \]
+
+\[ \sin^2 \alpha + 4 \sin \alpha + 3 = 0 \]
+
+--- STRONA 2 ---
+\( \textcolor{#2CACE3}{3)} \) Podstawiamy pomocniczą zmienną,
+
+\( t = \sin \alpha, \quad t \in [-1,1] \)
+
+\( t^2 + 4t + 3 = 0 \)
+
+\[
+\Delta = 4^2 - 4 \cdot 1 \cdot 3 = 4 \quad \mid \sqrt{\Delta} = 2
+\]
+
+\[
+t_1 = \frac{-4 - 2}{2} = -3 \quad \cancel{\in} \ [-1,1]
+\]
+
+\[
+t_2 = \frac{-4 + 2}{2} = -1 \quad \in \ [-1,1]
+\]
+
+\( \textcolor{#60C6ED}{4)} \) Cofamy podstawienie i rozwiązujemy równanie.
+
+\( \sin \alpha = -1 \)
+
+\( \alpha = - \frac{\pi}{2} + 2k\pi, \quad k \in \mathbb{Z} \)
+
+\(\textcolor{#EA502D}{\text{Odp. }} \alpha = -\frac{\pi}{2} + 2k\pi, \ k \in \mathbb{Z}.\)

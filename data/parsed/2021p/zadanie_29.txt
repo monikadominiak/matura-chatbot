@@ -1,0 +1,10 @@
+=== ARKUSZ: 2021p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-2)
+Rozwiąż nierówność:
+$x^{2} - 5x le 14$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Dane są liczby \(a = \log(\sqrt{2} + 1)\), \(b = \log(3 + 2\sqrt{2})\), \(c = \log(17 + 12\sqrt{2})\).
+Wykaż, że ciąg \((a, b, c)\) jest geometryczny.
+
+\[ 
+a = \log(\sqrt{2} + 1), \quad b = \log(3 + 2\sqrt{2}), \quad c = \log(17 + 12\sqrt{2})
+\]
+teza: \((a, b, c)\) - ciąg geometryczny
+
+\[
+1️⃣ \quad \text{przekształcimy najpierw sumę} \quad 17 + 12\sqrt{2}
+\]
+
+\[
+(a + b)^2 = a^2 + 2ab + b^2 \implies (3 + 2\sqrt{2})^2
+\]
+
+\[
+12 = 2 \cdot ab \quad \text{     } \quad 17 = a^2 + b^2
+\]
+
+\[
+a = 3 \quad b = 2\sqrt{2}
+\]
+
+\[
+\text{warunek ciągu geometrycznego}
+\]
+
+\[
+(a_n)^2 = a_{n-1} \cdot a_{n+1} \quad \text{dla} \quad n \geq 2
+\]
+
+\[
+2️⃣ \quad \text{zapisujemy warunek dla naszego ciągu:} \quad b^2 = ac
+\]
+
+\[
+(\log(3 + 2\sqrt{2}))^2 = \log(\sqrt{2} + 1) \cdot 2\log(3 + 2\sqrt{2})
+\]
+
+\[
+\log(3 + 2\sqrt{2}) = 2\log(\sqrt{2} + 1)
+\]
+
+\[
+\log(3 + 2\sqrt{2}) = \log(2 + 2\sqrt{2} + 1)
+\]
+
+\[
+L = P
+\]
+
+c.k.d.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0–2)
+Wykaż, że dla dowolnych liczb rzeczywistych a i b prawdziwa jest nierówność a^2 + b^2 - 2ab + a^2 - 2a + 1 &gt;= 0   (lub w postaci pierwotnej z arkusza: 2a^2 - 2ab + b^2 - 2a + 1 &gt;= 0).
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

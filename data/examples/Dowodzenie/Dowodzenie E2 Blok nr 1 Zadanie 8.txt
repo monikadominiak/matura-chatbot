@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+Wykazać, że jeśli liczby \(a\) i \(b\) są dodatnie i \(a + b = 5\), to \(ab \leq 6\frac{1}{4}\).
+
+założenie: \(a, b > 0\), \(a + b = 5 \Rightarrow b = 5-a\)
+
+teza: \(ab \leq 6\frac{1}{4}\)
+
+\(\textcircled{1}\) wstawiamy wyznaczone z założenia \(b\) do tezy:
+
+\(ab \leq 6\frac{1}{4} \Rightarrow a(5-a) \leq \frac{25}{4}\)
+
+\(\textcircled{2}\) niech \(f(a) = a(5-a) \Rightarrow\) funkcja kwadratowa \(*\)
+o ramionach skierowanych w dół 
+
+\[
+\begin{array}{c}
+W(p,q) \hspace{1cm} f(a) \\
+\begin{tikzpicture}
+\draw[->] (-0.2,0) -- (5.2,0) node[right] {\(a\)};
+\draw (0,-0.1) -- (0,0.1) node[anchor=north] {0};
+\draw (5,-0.1) -- (5,0.1) node[anchor=north] {5};
+\draw plot [mark=*, smooth] coordinates {(0,0) (2.5,6.25) (5,0)};
+\end{tikzpicture}
+\end{array}
+\]
+
+\(\rho = \frac{0+5}{2} = \frac{5}{2}\)
+
+\(f(\rho) = q_{\max} = \frac{5}{2}(5-\frac{5}{2}) = \frac{25}{4}\)
+
+\(\Rightarrow W(\frac{5}{2}, \frac{25}{4}) \) \(*\) największą wartość \(f(a)\) osiąga w wierzchołku i jest równa \(f(\frac{5}{2})\)
+
+\(\textcircled{3}\) zatem mamy
+
+z.w. : \((-\infty, \frac{25}{4}>\)
+
+więc: \(f(a) \leq \frac{25}{4}\) jest prawdziwa,
+
+co równoważnie dowodzi \(a(5-a) \leq \frac{25}{4}\)
+
+c.k.d.

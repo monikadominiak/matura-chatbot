@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+z12 (tn)  
+Funkcja kwadratowa f jest określona dla wszystkich liczb rzeczywistych x wzorem  
+f(x) = ax^2 + bx + c. Największa wartość funkcji f jest równa 6 oraz f(-4) = f(2) = 5.  
+Oblicz współczynnik a.
+
+1️⃣ Druga współrzędna wierzchołka  
+
+Wiemy, że f(-4) = f(2) = 5, oraz największa wartość funkcji jest równa 6, zatem nasz wykres będzie wyglądać:  
+
+(Wykres, zaznaczone punkty: -4, 2 i -1 na osi x oraz punkty: f_max = 6, -4 = 5 i 2 = 5)  
+
+Zatem W(-1, 6)
+
+2️⃣ Postać kanoniczna
+
+Mając wyznaczone współrzędne wierzchołka możemy skorzystać z postaci kanonicznej funkcji kwadratowej:  
+
+f(x) = a(x - p)^2 + q  
+f(x) = a(x + 1)^2 + 6
+
+Podstawiamy jeden z punktów podanych w treści zadania (-4, 5) lub (2, 5)
+
+5 = a(-4 + 1)^2 + 6  
+5 = a * 9 + 6  | -6  
+-1 = 9a  =>  a = -1/9  
+
+Odp: a = -1/9.

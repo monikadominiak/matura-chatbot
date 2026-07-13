@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+Zadanie 8
+
+Rozwiązać równanie 4sin^3 x + 8 sin^2 x + sin x = 3.
+
+① Podstawiamy zmienną pomocniczą. 
+
+4sin^3 x + 8sin^2 x + sinx - 3 = 0
+
+t = sinx , t ∈ ⟨-1,1⟩
+
+4t^3 + 8t^2 + t - 3 = 0
+
+w(-2) = -32 + 32 - 2 - 3 ≠ 0
+
+w(-1) = -4 + 8 -1 - 3 = 0
+
+② Dzielimy wielomian 4t^3+8t^2+t-3 przez wielomian t+1 schematem Hornera.
+
+|   4   |   8   |   1   |  -3   |
+| -1   |  4   |  4   |  -3   |  0   |
+
+③ Rozwiązujemy dalej równanie wielomianowe.
+
+(t+1)(4t^2+4t-3)=0  
+   
+Δ = 4^2+4*3 = 16+48 = 64
+     
+√Δ = 8
+
+t_1 = \frac{-4-8}{8} = -\frac{3}{2} ∉ D
+
+t_2 = \frac{-4+8}{8} = \frac{1}{2} ∈ D
+
+④ Cofamy podstawienie.
+
+sinx = -1  ∨  sinx = \frac{1}{2}  ∨  sinx = -\frac{3}{2}
+
+x = \frac{3π}{2} + 2kπ   
+
+x = \frac{π}{6} + 2kπ  
+
+x = \frac{5π}{6} + 2kπ  
+
+x ∈ ∅  
+
+k ∈ ℤ
+
+Odp.:  x = \frac{3π}{2} + 2kπ, x = \frac{π}{6} + 2kπ, x = \frac{5π}{6} + 2kπ, k ∈ ℤ.

@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Zadanie 4
+
+Rozwiąż równanie 5 · 23^x + 8^x − 2 · 4^1.5x = 16.
+
+1️⃣ Zamienimy 8^x i 4^1.5x na potęgi o podstawie 2.
+
+5 · 2^3x + 2^3x - 2 · 2^2 = 2^4
+
+2️⃣ Wyciągamy 2^3x przed nawias.
+
+2^3x (5 + 1 - 2) = 2^4
+
+4 · 2^3x = 2^4 |:4
+
+2^3x = 2^2
+
+3x = 2
+
+x = 2/3
+
+Odp.: x = 2/3.

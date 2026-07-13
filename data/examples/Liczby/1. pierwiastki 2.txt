@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+1. pierwiastki 2
+
+Usuń niewymierność z mianownika:
+
+a) \(\frac{4}{\sqrt{10}}\) b) \(\frac{5}{3\sqrt{10}}\) c) \(\frac{3}{2\sqrt{6}}\)
+
+Usuwanie niewymierności z mianownika polega na przekształceniu ułamka tak, aby w mianowniku znajdowała się liczba wymierna. 
+
+Aby uniknąć zmiany wartości ułamka zarówni licznik i mianownik możemy pomnożyć przez tę samą liczbę.
+
+a) \(\frac{4}{\sqrt{10}} \cdot \frac{\sqrt{10}}{\sqrt{10}} = \frac{4\sqrt{10}}{10} = \frac{2\sqrt{10}}{5}\)
+
+Odp: \(\frac{2\sqrt{10}}{5}.\)
+
+b) \(\frac{5}{3\sqrt{10}} \cdot \frac{\sqrt{10}}{\sqrt{10}} = \frac{5\sqrt{10}}{3\cdot 10} = \frac{5\sqrt{10}}{30} = \frac{\sqrt{10}}{6}\)
+
+Odp: \(\frac{\sqrt{10}}{6}.\)
+
+c) \(\frac{3}{2\sqrt{6}} \cdot \frac{\sqrt{6}}{\sqrt{6}} = \frac{3\sqrt{6}}{2\cdot 6} = \frac{\sqrt{6}}{4}\)
+
+Odp: \(\frac{\sqrt{6}}{4}.\)

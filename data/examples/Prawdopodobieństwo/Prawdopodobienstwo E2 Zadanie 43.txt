@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Pewna firma produkuje zapalniczki. Badania wykazały, że 30% zapalniczek jest wadliwych. Jakie jest prawdopodobieństwo, że na 20 losowych zapalniczek co najmniej dwie będą wadliwe?
+
+1️⃣
+
+1️⃣ analizujemy polecenie
+
+{ 
+  próba 20 zapalniczek => n=20 
+  wadliwe lub nie 
+}
+
+⇒ schemat Bernoulliego
+
+P_n(k) = \binom{n}{k} \cdot p^k \cdot q^{n-k}
+
+2️⃣ określamy prawdopodobieństwa w pojedynczym zdarzeniu
+
+➊ p - sukces - wadliwa zapalniczka - 30% => p = 0,3
+
+q = 1-p = 0,7 - dobra zapalniczka
+
+3️⃣ co najmniej 2 wadliwe ⇒ nie 0 i nie 1 (mniej przypadków)
+
+wykorzystamy zd. przeciwne
+
+1 - [P_{20}(0) + P_{20}(1)] = 1 - [\binom{20}{0}(0,3)^0(0,7)^{20} + \binom{20}{1}(0,3)^1(0,7)^{19}] =
+
+= 1 - [(0,7)^{20} + 20 \cdot 0,3 \cdot (0,7)^{19}] = 1 - [(0,7)^{19} \cdot 6,7] \approx 0,9924
+
+Odp: ≈ 0,9924

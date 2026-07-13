@@ -1,0 +1,15 @@
+=== ARKUSZ: 2022p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0–1)
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 o krawędzi długości 𝑎. Punkty 𝐸, 𝐹, 𝐺, 𝐵 są wierzchołkami ostrosłupa 𝐸𝐹𝐺𝐵 (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Pole powierzchni całkowitej ostrosłupa 𝐸𝐹𝐺𝐵 jest równe
+A. $a^2$
+B. $frac{3sqrt{3}}{2}cdot a^2$
+C. $frac{3}{2}a^2$
+D. $frac{3+sqrt{3}}{2}cdot a^2$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

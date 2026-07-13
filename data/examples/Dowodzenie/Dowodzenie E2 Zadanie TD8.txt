@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Uzasadnij, że funkcja f ma co najmniej jedno miejsce zerowe w podanym przedziale:
+
+f(x) = 2^{-4x^2 - 6x},  \; x \in \langle  -\frac{1}{2}, \frac{1}{2} \rangle
+
+f(x) = 2^{-4x^2 - 6x}, \; x \in \langle -\frac{1}{2}, \frac{1}{2} \rangle 
+
+teza: w podanym przedziale funkcja f ma co najmniej jedno rozwiązanie
+
+funkcja f(x) jest różnicą dwóch funkcji ciągłych wykładniczej i liniowej, więc f jest ciągła
+
+1️⃣ liczymy wartości f(x) na krańcach podanego przedziału:
+
+f(-\frac{1}{2}) = 2^{-4 \cdot \frac{1}{4}} - 6 \cdot (-\frac{1}{2}) = \frac{1}{2} + 3 = 3 \frac{1}{2} > 0
+
+f(\frac{1}{2}) = 2^{-4 \cdot \frac{1}{4}} - 6 \cdot \frac{1}{2} = \frac{1}{2} - 3 = -2 \frac{1}{2} < 0 
+
+2️⃣  0 \in \langle -2 \frac{1}{2}, 3 \frac{1}{2} \rangle, zatem z tw. Darboux istnieje takie c \in (-\frac{1}{2}, \frac{1}{2})
+
+ że f(c) = 0 \in \langle -2 \frac{1}{2}, 3 \frac{1}{2} \rangle, zatem teza jest prawdziwa
+
+c.k.d.
+
+Twierdzenie Darboux:
+
+Jeśli funkcja f jest ciągła w przedziale domkniętym \langle a, b > oraz f(a) \neq f(b), natomiast k 
+
+jest dowolną liczbą pomiędzy liczbami f(a) i f(b), to istnieje taka liczba c, c \in (a, b), dla 
+
+której f(c) = k.

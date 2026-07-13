@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Zadanie 9
+
+Naszkicuj wykres funkcji \( f(x) = \log_3(-x) - 2 \).
+
+a) Podaj dziedzinę funkcji \( f \).
+b) Podaj współrzędne punktu wspólnego wykresu funkcji \( f \) i osi OX.
+c) Dla jakich argumentów funkcja \( f \) przyjmuje wartości ujemne?
+
+1️⃣ Szkicujemy wykres funkcji \( f(x) \).
+
+\[ \begin{align*}
+&y \\
+& \quad \diagdown \\
+& \quad \\
+& \quad \\
+& \quad \\
+& \quad \\
+&O \quad \quad \quad \quad x\\
+\end{align*} \]
+
+2️⃣ \( \begin{aligned}[t]
+a) \quad \text{Wyznaczamy dziedzinę funkcji } f(x). \\
+-x > 0 \\
+x < 0 \\
+D = (-\infty, 0)
+\end{aligned} \)
+
+3️⃣ \( \begin{aligned}[t]
+b) \quad \text{Wyznaczamy współrzędne punktu wspólnego } f(x) \text{ z OX.} \\
+\log_3(-x) - 2 = 0 \\
+\log_3(-x) = 2 \\
+-x = 3^2 \\
+x = -9 \\
+(-9,0)
+\end{aligned} \)
+
+4️⃣ \( \begin{aligned}[t]
+c) \quad \text{Wyznaczamy } f(x) < 0. \\
+x \in (-9, 0)
+\end{aligned} \)
+
+Odp.: \( a) D = (-\infty, 0) ; \quad b) (-9,0) ; \quad c) x \in (-9,0) \).

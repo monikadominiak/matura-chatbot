@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+Zad.21 Na okręgu opisano trapez równoramienny. Kąt rozwarty tego trapezu ma miarę 150°, a odcinek łączący środki ramion ma 12 cm długości. Oblicz długość promienia okręgu.
+
+1) Tworzymy rysunek poglądowy:
+
+a + b + c = a + b
+
+30°
+150°-90°=60°
+
+z własności czworokąta opisanego na okręgu:
+a + b = c + c => 2c = a + b
+
+z własności odcinka łączącego środki trapezu:
+a + b/2 = 12 => a + b = 24
+
+2c = a + b = 24 / :2
+c = 12
+
+okrąg wpisany w trapez musi mieć punkt styczności z każdym z jego boków, tym samym wysokość trapezu jest równa z promieniem okręgu wpisanego
+
+2) Wyznaczamy wysokość trapezu:
+
+I sposób:
+Z własności trójkąta 30°, 60°, 90° (trójkąt BCE):
+
+c = 12 => h = 1/2 c = 6
+
+h = 2r => 2r = 6 / :2
+r = 3
+
+II sposób:
+z trygonometrii kąta ostrego w trójkącie prostokątnym:
+
+sin 30° = h/c
+
+1/2 = h/12
+h = 6 => 2r = 6
+r = 3
+
+Odp. r = 3 cm

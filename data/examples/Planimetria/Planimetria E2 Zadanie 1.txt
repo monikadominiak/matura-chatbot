@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zad.1 W trójkącie ABC bok AC jest o 6 cm dłuższy od boku AB, a |BC| = 5√2 cm. Wiedząc, że kąt |∠ABC| = 135°, oblicz promień okręgu opisanego na trójkącie ABC.
+
+1) Tworzymy rysunek poglądowy:
+
+[Rysunek trójkąta z oznaczeniami]
+
+x+6
+5√2
+x
+135°
+
+[Opis zieloną czcionką]
+Mamy tutaj podany jeden kąt oraz informację o wszystkich bokach, zależnych tylko od jednej niewiadomej - idealnie pod tw. cosinusów
+
+2) Wykorzystujemy twierdzenie cosinusów:
+
+(x+6)^2 = x^2 + (5√2)^2 - 2 * x * 5√2 * cos 135°
+
+x^2 + 12x + 36 = x^2 + 50 - 2 * x * 5√2 * cos(180°-45°) ⤷ wzór redukcyjny: 
+                                                   cos(180°-x) = -cosx
+
+x^2+12x+36 = x^2+50-10√2x * (-cos 45°)
+x^2+12x+36 = x^2+50+10√2x * cos 45° ⤆ √2/2
+12x + 36 = 50 + 10√2x * √2/2
+12x + 36 = 50 + 10x
+12x + 36 - 50 = 10x
+
+2x = 14 |: 2
+
+x = 7  => |AB|=7cm , |AC|=13cm
+
+[Opis zieloną czcionką]
+Mamy teraz kąt i bok naprzeciwko tego kąta, więc do wyznaczenia promienia okręgu opisanego na trójkącie użyjemy tw. sinusów
+
+3) Wyznaczamy promień z twierdzenia sinusów:
+
+2R = 13/sin 135°
+
+2R = 13/sin 45°
+
+2R = 13/√2/2
+
+2R * (2/√2) = 13/ (√2/2) * (2/√2)
+R= 13/√2 * √2/2 = 13√2/2
+R= 13√2/2
+
+Odp. R = 13√2/2 cm.

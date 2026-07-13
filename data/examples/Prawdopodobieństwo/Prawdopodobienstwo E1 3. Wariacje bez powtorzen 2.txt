@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+W loterii fantowej wzięło udział 100 uczniów i każdy kupił jeden ze stu losów. Wygrane to: I nagroda - rakieta tenisowa, II nagroda - piłka do koszykówki i III nagroda - pluszowy miś. Na ile sposobów uczniowie mogą wylosować nagrody?
+
+① wypisujemy dane z polecenia
+
+100 uczniów, każdy kupił 1 los (ze 100)
+
+3 różne nagrody
+
+② przydzielamy uczniów do nagród
+
+\[
+\frac{100}{I \text{ nagroda}} \cdot \frac{99}{II \text{ nagroda}} \cdot \frac{98}{III \text{ nagroda}} = 970200
+\]
+
+99 bo 1 uczeń/los już wygrał
+
+odp: 970200

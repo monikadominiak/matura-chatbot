@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+**Zadanie z5 (7.1)** Rozwiąż nierówność |x^2 - |x| - 2| > 2.
+
+1) Rozbijamy nierówność na 2 przypadki za pomocą własności wart. bezwzgl.
+
+|x^2 - |x| - 2| > 2
+
+Własności: w przypadku bezwzględnej wartości bezwzględnej (jedna wewnątrz drugiej) można sprowadzić ją "od zewnętrz" korzystając z poniższych schematów: 
+
+|x|        =>  x=p  v  x=-p
+|x|<p     <=>  x<p  ^  x>-p
+|x|>p     <=>  x>p  v  x<-p
+(x≠-p,p)
+
+2) Korzystamy ze zmiennej pomocniczej t i rozwiążujemy powstałą nierówność kwadratową.
+
+Załóżmy, że t = x^2 - |x|.
+Dzięki temu, możemy zapisać obie nierówności w ten sposób:
+
+|x^2 - |x|| - 2 > 2      v      |x^2 - |x|| - 2 < -2
+
+Niech t = |x^2 - |x||, z zał. t ≥ 0:
+
+t+2 > 2            v      t+2 < -2
+t > 0              v      t < -4
+x < 0              v      x > 0
+
+-√t ≤ x ≤ √t      t < 0
+0 ≤ x ≤ √t        x < 0
+t ∈ (0,∞)         x > 0
+-√t ≤ x ≤ √t     t ≥ 0
+t < 0             x < 0
+-√t ≤ x ≤ √t     t ≥ 0
+t ∈ (0,∞)         x > 0
+
+t ∈ (0,∞)  v  t ∈ (0,4)
+     t ∈ (0,4)  v  (-∞,0)
+
+3) Zamieniamy przedziały t na x:
+
+t ∈ (0,4)  v  (-∞,√((4+√17)/2))   ∧  t ≤ |x|
+
+Z uwagi na własności wartości bezwzględnej wykluczamy "pustawy" zbiór rozwiązań o liczby przeciwne, przykładnie:
+
+t-2 ≤ |x|/2    =>  x ≥ 2  v  x ≤ x-2
+
+Zatem:
+
+x ∈ (-∞, -√((4+√17)/2))  ∪  (-∞,0) ∪ (0,4) ∪ (√((4+√17)/2), ∞)
+
+**Odp.** x ∈ (-∞, -√((4+√17)/2))  ∪  (-∞,0) ∪ (0,4) ∪ (√((4+√17)/2), ∞).

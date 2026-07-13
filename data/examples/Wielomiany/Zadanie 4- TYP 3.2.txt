@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Zadanie 4 [3pkt] - TYP 3.2  
+Nie wykonując dzielenia, sprawdź, który z podanych dwumianów jest dzielnikiem wielomianu W, gdy:  
+W(z) = z^5 - 3z^4 + 6z^3 - 18z^2 + 5z - 15; z + 2, z - 3, z - sqrt(3), z + 5  
+
+W(z) = z^5 - 3z^4 + 6z^3 - 18z^2 + 5z - 15
+
+Dwumian będzie dzielnikiem wielomianu, gdy jego miejsce zerowe, będzie również miejscem zerowym w(z).
+
+1) Sprawdzenie dwumianu (z + 2)
+
+z + 2 = 0  
+z = -2  
+
+W(-2) = (-2)^5 - 3·(-2)^4 + 6·(-2)^3 - 18·(-2)^2 + 5·(-2) - 15 =  
+= -32 - 48 - 48 - 72 - 10 - 15 = -225 ≠ 0  
+
+ten dwumian nie będzie dzielnikiem tego wielomianu.
+
+2) Sprawdzenie dwumianu (z - 3)
+
+z - 3 = 0  
+z = 3  
+
+W(3) = 3^5 - 3·3^4 + 6·3^3 - 18·3^2 + 5·3 - 15 =  
+= 243 - 243 + 162 - 162 + 15 - 15 = 0  
+
+ten dwumian jest dzielnikiem tego wielomianu.
+
+3) Sprawdzenie dwumianu (z - sqrt(3))
+
+z - sqrt(3) = 0  
+z = sqrt(3)  
+
+W(sqrt(3)) = (sqrt(3))^5 - 3·(sqrt(3))^4 + 6·(sqrt(3))^3 - 18·(sqrt(3))^2 + 5·sqrt(3) - 15 =  
+= 9sqrt(3) - 27 + 18sqrt(3) - 54 + 5sqrt(3) - 15 = 32sqrt(3) - 96  
+
+ten dwumian nie jest dzielnikiem tego wielomianu  
+
+4) Sprawdzenie dwumianu (z + 5)
+
+z + 5 = 0  
+z = -5  
+
+W(-5) = (-5)^5 - 3·(-5)^4 + 6·(-5)^3 - 18·(-5)^2 + 5·(-5) - 15 =  
+= -3125 - 1875 - 750 - 450 - 25 - 15 =  
+= -6240  
+
+ten dwumian nie jest dzielnikiem tego wielomianu.  
+
+Odp: jedynie dwumian (z - 3) jest dzielnikiem wielomianu.

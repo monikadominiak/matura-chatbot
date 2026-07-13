@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+FZ8
+
+f(x) = tgx ⋅ sinx , x ∈ \left( -\frac{\pi}{2}, \frac{\pi}{2} \right)
+
+(sinx)' = cosx
+
+(cosx)' = -sinx
+
+(tgx)' = \left( \frac{sinx}{cosx} \right)' \\
+= \frac{cosx ⋅ cosx - sinx ⋅ (-sinx)}{cos^2x} = \frac{cos^2x + sin^2x}{cos^2x} = \frac{1}{cos^2x}
+
+1️⃣ wyznaczamy wzór na f'(x), korzystając z pochodnej iloczynu
+
+[f(x) ⋅ g(x)]' = f'(x) ⋅ g(x) + f(x) ⋅ g'(x)
+
+f'(x) = \frac{1}{cos^2x} ⋅ sinx + cosx ⋅ \frac{sinx}{cosx} = \frac{sinx (1 + cos^2x)}{cos^2x}

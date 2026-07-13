@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Zad.3 Punkt D leży na boku BC trójkąta ABC oraz |AB|=14, |BD|=12, |CD|=239 i |AC|=4√15 : 1/4|AD|. Oblicz pole trójkąta ABC.
+
+1) Tworzymy rysunek poglądowy:
+(obrazek trójkąta z oznaczeniami boków i punktów)
+
+aby obliczyć pole trójkąta, na pewno będziemy potrzebować "x" albo kąt β lub α ∡ABC
+
+przy rysunku poglądowym musimy uwzględnić bardzo dużą wartość |CD|=239 i odpowiednio wyskalować trójkąt, żeby mieć o nim poprawne wyobrażenie
+
+2) Układamy 2 równania z tw. cosinusów:
+oznaczamy ∡CAB i ∡ABC jako β
+
+{
+x^2 = 14^2 + 12^2 - 2•14•12•cos β
+(4√15 x) = 14^2 + (239)^2 - 2•14•239•cos β
+}
+
+{
+x^2 = 340 - 336•cos β
+240x^2 = 63197 - 7028•cos β
+}
+
+240(340 - 336•cos β) = 63197 - 7028•cos β
+81600 - 80640•cos β = 63197 - 7028•cos β
+18403 = 73612•cos β / : 73612
+
+cos β = 18403 / 73612 • 4 / 4 ⇒ x^2 = 340 - 336 • 4 / 4 = 256 / x^2 = 256 / √ 16
+x = 16
+
+3) Obliczamy pole trójkąta:
+
+sin β = 5√3 / 4 ∨ sin β = √333 / 4
+(α
+
+kąty w trójkącie mieszczą się w przedziale (0;180°), tym samym sinusy kątów trójkąta są dodatnie
+
+P_Δ = 1/2 • |AB|•|BC|•sin β
+
+P_Δ = 1/2 • 14 • 239 • 5√3 / 4
+P_Δ = 7•239• 15 / 4 = 1757√15 / 4
+
+Odp. P_Δ = 1757√15 / 4.

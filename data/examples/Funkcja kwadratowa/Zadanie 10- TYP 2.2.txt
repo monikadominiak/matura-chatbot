@@ -1,0 +1,101 @@
+
+--- STRONA 1 ---
+Zadanie 10 [4 pkt]- TYP 2.2    
+Dla jakich wartości parametru m równanie x^2 - 3x + m^2 - 6m + 9 = 0 ma dwa różne rozwiązania, których suma sześcianów wynosi 27?
+
+x^2 - 3x + m^2 - 6m + 9 = 0    
+a = 1  
+b = -3  
+c = m^2 - 6m + 9   
+
+1. Zapisanie warunków wynikających z treści zadania.
+
+1° Δ > 0 ⬅︎ dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych.
+
+2° x_1^3 + x_2^3 = 27 ⬅︎ suma sześcianów wynosi 27  
+
+2. Rozwiązanie pierwszego z warunków:
+
+1° Δ > 0  
+Δ = b^2 - 4ac  
+
+(-3)^2 - 4 * 1 * (m^2 - 6m + 9) > 0  
+9 - 4m^2 + 24m - 36 > 0  
+-4m^2 + 24m - 27 > 0  
+
+Δ_m = 24^2 - 4 * (-4) * (-27)    
+Δ_m = 576 - 432 = 144  
+√Δ_m = 12   
+
+m_1 = \frac{-b - √Δ}{2a}  
+m_2 = \frac{-b + √Δ}{2a}  
+
+m_1 = \frac{-24 - 12}{-8} = \frac{9}{2}  
+
+m_2 = \frac{-24 + 12}{-8} = \frac{3}{2}  
+
+m ∈ \left(\frac{3}{2}, \frac{9}{2}\right)    
+
+3. Rozwiązanie drugiego z warunków:
+
+2° x_1^3 + x_2^3 = 27  
+
+Lewa strona równania:  
+
+a^3 + b^3 = (a + b)(a^2 - ab + b^2)  
+= (a + b)[(a + b)^2 - 3ab]  
+
+Wracając do równania:  
+
+(x_1 + x_2)[(x_1 + x_2)^2 - 3x_1 * x_2] = 27  
+
+Korzystamy ze wzorów Viete'a  
+x_1 + x_2 = -\frac{b}{a}    
+x_1 * x_2 = \frac{c}{a}  
+
+--- STRONA 2 ---
+\[
+(-\frac{1}{3})([-\frac{1}{3}]^2-3.\frac{m^2-6m+9}{1}])=27
+\]
+
+\[
+3.[9-3m^2+18m-27]=27 \quad /:3
+\]
+
+\[
+-3m^2+18m-18=9 \quad | -9
+\]
+
+\[
+-3m^2+18m-27=0 \quad |:(-3)
+\]
+
+\[
+m^2-6m+9=0
+\]
+
+\[
+(m-3)^2=0
+\]
+
+\[
+m=3
+\]
+
+możemy też klasycznie policzyć deltę, lub skorzystać ze wzoru skróconego mnożenia (a-b)^2=a^2-2ab+b^2
+
+\[
+\text{④ Wyznaczenie części wspólnej obu warunków:}
+\]
+
+\[
+1^\circ \ m \in (\frac{3}{2}, \frac{3}{2})
+\]
+
+\[
+2^\circ \ m=3
+\]
+
+Ostatecznie: \( m=3 \)
+
+Odp: \( m=3. \)

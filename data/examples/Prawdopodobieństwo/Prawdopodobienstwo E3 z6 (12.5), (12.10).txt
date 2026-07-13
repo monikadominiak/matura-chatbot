@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Z grupy, w której jest 6 kobiet i 4 mężczyzn, losujemy dwie osoby. Oblicz prawdopodobieństwo tego, że wylosowano dwie kobiety, jeśli wiadomo, że wśród wylosowanych była co najmniej jedna kobieta.
+
+1️⃣ analizujemy polecenie
+
+6K i 4M → 10 osób
+
+losujemy 2 osoby
+
+B - co najmniej 1 kobieta
+
+A - dokładnie 2 kobiety
+
+2️⃣ liczymy moc zdarzenia B
+
+1 lub 2  B̅ = C(6,1)C(4,1) + C(6,2) = 24 + 15 = 39
+
+3️⃣ liczymy moc zdarzenia A̅ ∩ B,
+
+ale zauważmy, że wylosowanie 2 kobiet możliwe jest tylko, jeśli wylosowano co najmniej 1.
+
+więc A ⊂ B, zatem A̅ ∩ B = A̅
+
+A̅ = C(6,2) = \(\frac{6!}{2!4!}\) = 15
+
+P(A ∩ B) = P(A)
+
+4️⃣ liczymy docelowe prawdopodobieństwo
+
+P(A|B) = \(\frac{15}{39}\) = \(\frac{5}{13}\)
+
+Odp: \(\frac{5}{13}\)

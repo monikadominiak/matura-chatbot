@@ -1,0 +1,19 @@
+=== ARKUSZ: 2024p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0–1)
+Ostrosłup F1 jest podobny do ostrosłupa F2.
+Objętość ostrosłupa F1 jest równa 64.
+Objętość ostrosłupa F2 jest równa 512.
+
+Uzupełnij poniższe zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu tak, aby zdanie było prawdziwe.
+
+Stosunek pola powierzchni całkowitej ostrosłupa F2 do pola powierzchni całkowitej ostrosłupa F1 jest równy ………. .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

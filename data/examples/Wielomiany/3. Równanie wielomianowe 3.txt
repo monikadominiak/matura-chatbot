@@ -1,0 +1,113 @@
+
+--- STRONA 1 ---
+3. Równania wielomianowe 3  
+Wyznacz punkty wspólne wykresu wielomianów w(x)=mx^3+x^2-4x, do którego należy punkt P(-3,-6), oraz:  
+a) osi 0X  
+b) prostej y=4
+
+\[ 
+w(x) = mx^3 + x^2 - 4x 
+\]
+\[ 
+P(-3;-6) 
+\]
+
+1️⃣ Wyznaczenie pełnego wzoru funkcji w(x), wykonując do podany punkt należący do wykresu tej funkcji.
+
+\[
+-6 = m \cdot (-3)^3 + (-3)^2 - 4 \cdot (-3) 
+\]
+\[
+-6 = -27m + 9 + 12 
+\]
+\[
+-6 = -27m + 21 / -21 
+\]
+\[
+-27 = -27m / : (-27) 
+\]
+\[
+m = 1
+\]
+
+Zatem: \( w(x) = x^3 + x^2 - 4x \)
+
+2️⃣ Wyznaczenie punktów wspólnych wykresu oraz osi 0X - podstawiamy y=0
+
+\[
+0 = x^3 + x^2 - 4x 
+\]
+\[
+0 = x (x^2 + x - 4) 
+\]
+
+\[
+x = 0 
+\]
+\[
+x^2 + x - 4 = 0 
+\]
+\[
+\Delta = 1 + 16 = 17 
+\]
+\[
+x_2 = \frac{-1-\sqrt{17}}{2} 
+\]
+\[
+x_3 = \frac{-1+\sqrt{17}}{2} 
+\]
+
+Zatem punkty wspólne to:  
+\( P_1(0;0) \ , \ P_2\left(\frac{-1-\sqrt{17}}{2} \ , 0 \right) \ , \ P_3\left(\frac{-1+\sqrt{17}}{2} \ , 0 \right) \)
+
+Odp: \( P_1(0;0) \ , \ P_2\left(\frac{-1-\sqrt{17}}{2} \ , 0 \right) \ , \ P_3\left(\frac{-1+\sqrt{17}}{2} \ , 0 \right) \)
+
+b) Wyznaczenie punktów wspólnych wykresu oraz prostej y=4 - podstawiamy y=4
+
+\[
+x^3 + x^2 - 4x = 4 \ | -4
+\]
+\[
+x^3 + x^2 - 4x - 4 = 0 
+\]
+
+\[ \Leftarrow \ \text{grupujemy} \]  
+\[
+x^2 (x + 1) - 4(x + 1) = 0 
+\]
+
+\[
+(x^2 - 4)(x + 1) = 0 
+\]
+
+\[ \ a^2 - b^2 = (a-b)(a+b) \]
+
+\[
+(x - 2)(x + 2)(x + 1) = 0 
+\]
+
+\[
+x - 2 = 0 
+\]
+\[
+x_4 = 2 
+\]
+
+\[
+x + 2 = 0 
+\]
+\[
+x_2 = -2 
+\]
+
+\[
+x + 1 = 0 
+\]
+\[
+x_3 = -1 
+\]
+
+Zatem punkty wspólne to:  
+\( P_1(2;4) \ , \ P_2(-2;4) \ , \ P_3(-1;4) \)
+
+Odp: \( P_1(2;4) \ , \ P_2(-2;4) \ , \ P_3(-1;4) \)

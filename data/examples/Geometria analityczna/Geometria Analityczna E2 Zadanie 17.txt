@@ -1,0 +1,89 @@
+
+--- STRONA 1 ---
+Zad.17 Dla jakich wartości parametru m (m ∈ R) okręgi opisane równaniami:
+
+o_1: (x - m)^2 + (y + 2)^2 = 20 oraz o_2: (x + 1)^2 + (y - 2m)^2 = 5 są wewnętrznie styczne? Oblicz współrzędne punktu styczności A.
+
+Rysunek poglądowy:
+
+Okręgi są ze sobą styczne wewnętrznie tylko i tylko wtedy, gdy odległość ich środków jest równa wartości bezwzględnej różnicy ich promieni:
+
+|r_2 - r_1| = |SS_1 S_2|
+
+1) Korzystamy ze wzorów na wzajemne położenie okręgów i wyznaczamy m :
+
+r_1 = sqrt(20)  = sqrt(4*5)  = 2sqrt(5) 
+
+r_2 = sqrt(5) 
+
+| S_1 S_2 | = | (m+1) i + (4m-2) j |
+
+| S_1 S_2 | = sqrt((m+1)^2 + (4m-2)^2) 
+
+| r_2 - r_1|  = | SS_1 S_2 |  ===>
+
+(5 - 2sqrt(5))^2 = [(m+1)^2+(4m-2)^2] / 2 
+
+5 + 4sqrt(5) = m^2 +4m + 1 + 16m^2 - 16m + 4
+
+5 + 4sqrt(5) + 0 = m^2
+
+m = 0  ⊕       m = 2
+
+UMAGA Tego wzoru nie ma w kartach wzorów!
+
+Odp: m=0 i A(2,2) lub m=2 i A(0,6) .
+
+2) Wyznaczamy punkt styczności dla obu wartości m :
+
+m = 0 :
+
+o_1: (x) + (y + 2)^2 = 20
+
+o_2: (x + 1)^2 + (y)^2 + 5
+
+| x_1 + x_2 | + 4y = -20
+
+- | x_2 - x_1 + 4y = -5
+
+2x = -24  y = -2
+
+x = -5  (6)
+
+(x_1 - 0)^2 + (y + 2)^2 = 20
+
+y = 5 + 2y'  - 0 + (y')^2 
+
+- y^2 + - 4y - 4y = 20
+
+(y')^4 +0
+
+A (x: 2,2)
+
+m = 2 :
+
+o_1: (x-2)^2 + (y + 2)^2 = 20
+
+o_2: (x^4+1)^2 + (y-4)^2 + 5
+
+| x_1 + x_2 | + 4y = -20
+
+- | x_2 - x_1 + 4y = -6
+
+2x = 2y + 2 + 6
+
+(x_1 - y^1)^2 + (y + .4)^2 = 20
+
+m | 12
+
+45y | 56y 180y  202  = 20 - 20
+
+- y^2 + 36 = 0
+
+y = 6
+
+x +26+6 = 2
+
+x = -26+12 - 0
+
+A (0, 6)

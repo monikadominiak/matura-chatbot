@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+
+Oblicz, ile jest liczb ośmiocyfrowych, w zapisie których każda z cyfr 1, 2, 3, 4 występuje dokładnie raz i cyfry te występują w porządku rosnącym.
+
+① analizujemy polecenie
+
+cyfry: {1, 2, 3, 4} - występują dokładnie raz, rosnąco
+
+reszta: 0, 5, 6, 7, 8, 9, 0 nie może być pierwsze
+
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+
+② mamy 2 przypadki:
+
+Ⅰ “1” - pierwsza
+
+1 ‗ ‗ ‗ ‗ ‗ ‗ ‗
+\[ \left(\binom{7}{3}\right) \cdot 6^4 = 1 \cdot 35 \cdot 6^4 \]
+
+\{2, 3, 4\}
+
+```
+\frac{7!}{3! \cdot 4!}
+```
+
+```
+4 miejsca do zapełnienia cyframi spośród \{0, 5, 6, 7, 8\}, które mogą się powtarzać
+```
+
+ⅠⅠ “1” nie jest pierwsza, więc żadna spośród {2, 3, 4} i “0” też nie jest
+
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+
+5 \[ \left(\binom{7}{4}\right) \cdot 6^3 = 5 \cdot 35 \cdot 6^3 \]
+\{1, 2, 3, 4\}
+
+③ sumujemy możliwości z dwóch przypadków
+
+35 \cdot 6^4 + 5 \cdot 35 \cdot 6^3 = 35 \cdot 6^3(6+5) = 35 \cdot 6^3 \cdot 11
+
+Odp: 35 \cdot 6^3 \cdot 11

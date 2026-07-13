@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+z7 (3.2), (3.4)
+
+Dany jest wielomian W(x) = -x^3 + 2ax^2 - 3x - b^2. Wyznacz wartości współczynników a i b wiedząc, że wielomian W(x) jest podzielny przez dwumian (x - 3) oraz daje resztę równą 25 przy dzieleniu przez (x+2). Rozwiąż nierówność W(x) ≥ 0.
+
+1️⃣ Wyznaczenie współczynnika a i b
+
+Skorzystamy z twierdzenia Bézouta oraz twierdzenia o reszcie.
+
+Z twierdzenia Bézouta wiemy, że jeśli W(x) jest podzielny przez (x-a), to W(a)=0.
+
+Jeśli r jest resztą z dzielenia wielomianu W(x) przez dwumian (x-a), to W(a)=r.
+
+{ 
+W(3)=0
+
+W(-2)=25 
+}
+
+-27 + 18a - 9 - b^2 = 0
+
+8 + 8a + 6 - b^2 = 25
+
+⊖
+
+-35 + 10a - 15 = -25
+
+10a = 25
+a = 5/2
+
+8 + 20 + 6 - b^2 = 25
+b^2 = 9
+
+b = 3 ∨ b = -3
+
+Zatem:
+
+W(x) = -x^3 + 5x^2 - 3x - 9
+
+2️⃣ Rozwiązanie nierówności W(x) ≥ 0
+
+Możemy tutaj wykorzystać informacje z treści zadania, że pierwiastkiem wielomianu W(x) jest 3. Przechodzimy bezpośrednio do dzielenia:
+
+Schemat Hornera: (można też dzielić w słupku)
+
+<table>
+<tr><td></td><td>x^3</td><td>x^2</td><td>x</td><td>R</td></tr>
+<tr><td>-1</td><td>1</td><td>5</td><td>-3</td><td>-9</td></tr>
+<tr><td></td><td></td><td>-3</td><td>6</td><td>9</td></tr>
+<tr><td></td><td>-1</td><td>2</td><td>3</td><td>=0</td></tr>
+</table>
+
+(-x^2 + 2x + 3)
+
+(x-3)(-x^2 + 2x + 3) ≥ 0
+
+x-3=0 
+x_1 = 3
+
+-x^2 + 2x + 3 = 0
+Δ = 4 + 12 = 16
+sqrt(Δ) = 4
+
+x_2 = (-2-4)/-2 = 3
+
+x_3 = (-2+4)/-2 = -1
+
+--- STRONA 2 ---
+Zatem wykres wielomianu:
+
+Odp: x ∈ (-∞, -1⟩ ∪ {3}.

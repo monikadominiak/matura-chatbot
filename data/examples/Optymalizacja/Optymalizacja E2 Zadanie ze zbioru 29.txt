@@ -1,0 +1,62 @@
+
+--- STRONA 1 ---
+Dom D stoi w odległości 5 km od prostoliniowego odcinka drogi. W chwili początkowej Janusz znajduje się na tej drodze w punkcie A oddalonym od domu D o 13 km (zobacz rysunek). Janusz może iść drogą z maksymalną prędkością 5 km/h, zaś poza nią może poruszać się z maksymalną prędkością 3 km/h.
+
+Oblicz najkrótszy czas potrzebny Januszowi na dojście do domu.
+
+droga 5km/h, 12km (Pitagoras), poza drogą, 3km/h
+
+1⃣ analizujemy przypadki skrajne:
+
+I 13 km, 3km/h
+t = \frac{5}{v}
+
+t_1 = \frac{13 \text{ km}}{3 \text{ km/h}} = 4,3 h \approx 4 h \ 20 min
+
+II 12 km \ / 5km/h + 5km, 3km/h
+
+t_2 = \frac{12}{5} + \frac{5}{3} = 4 \frac{1}{5} h \approx 4h \ 4min
+
+2⃣ uzależniamy od siebie zmienne
+
+y^2 = 5^2 + (12-x)^2 \implies y = \sqrt{25+(12-x)^2}
+
+3⃣ zapisujemy wzór funkcji
+
+t(x) = \frac{x}{5} + \frac{\sqrt{25+(12-x)^2}}{3} = \frac{x}{5} + \frac{\sqrt{x^2 - 24x + 169}}{3}
+
+4⃣ wyznaczamy dziedzinę:
+
+x \in \langle 0, 12 \rangle
+
+5⃣ wyznaczamy pochodną funkcji
+
+t'(x) = \frac{1}{5} + \frac{1}{3} \cdot \frac{1}{2} \cdot \frac{2x-24}{\sqrt{x^2-24x+169}} = 
+
+= \frac{1}{5} + \frac{x+12}{3\sqrt{x^2-24x+169}} = \frac{x+12}{3x^2-24x+169} + \frac{5x-60}{15\sqrt{x^2-24x+169}}
+
+6⃣ rozwiązujemy nierówność t'(x) > 0
+
+\frac{3x^2-24x+169 + 5x-60}{15\sqrt{x^2-24x+169}} > \frac{0}{1 \cdot 15\sqrt{x^2-24x+169}}
+
+3x^2-24x+169 > 60-5x \ \ \ \ \ \ \ \ / \cdot
+
+9(x^2-24x+169) > 25x^2-600x+3600
+
+-16x^2 + 384x - 2079 \geq 0
+
+- (4x-63)(4x-33) \geq 0
+
+x_1 = \frac{63}{4} \ \ 0 \ \vee \ x_3 = \frac{33}{4}
+
+x < 12, \ \ x \in \langle 0, 12 \rangle
+
+(dziedzina)
+
+7⃣ badamy monotoniczność
+
+Funkcja t(x) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu \ x = 8 \frac{1}{4} \text{ km}
+
+8⃣ obliczamy najkrótszy czas : t(\frac{33}{4}) = \frac{33}{20} + \frac{1}{3} \cdot \sqrt{25+ \frac{225}{16}} = \frac{33}{20} + \frac{1}{3} : \frac{25}{4} = \frac{224}{60} h
+
+odp: \frac{224}{60} h = 3h \ 44min

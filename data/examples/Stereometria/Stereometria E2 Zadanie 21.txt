@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Ostrosłup prawidłowy czworokątny przecięto płaszczyzną przechodzącą przez wierzchołek ostrosłupa i środki dwóch sąsiednich krawędzi podstawy. Oblicz pole otrzymanego przekroju, jeżeli krawędź podstawy ma 20 cm, a ściana boczna tworzy z płaszczyzną podstawy kąt 60°.
+
+1) sporządzamy rysunek pomocniczy i wprowadzamy oznaczenia
+
+|ES| i |SF| - wysokości ∆ASD i ∆DSC  
+|ES|=|SF|=|SG|  
+|AC|=20√2  
+|EF|=10√2  
+(z tw. o odcinku łączącym środki boków trójkąta)  
+|ES₂|=|SF₂|=5√2
+
+2) liczymy |OG|, a następnie wykorzystujemy kąt 60° do wyznaczenia |SG|
+
+|OG|=1/2|AB|=10  
+(z własności ∆ charakterystycznego 30°, 60°, 90°)  
+|SG|=2|OG|=20  
+
+3) liczymy |SS₂| z tw. Pitagorasa w ∆ES₂S
+
+|SS₂|²=20²-(5√2)²  
+|SS₂|²=400-50=350  
+|SS₂|=5√14  
+
+4) wyznaczamy pole przekroju - P∆EFS
+
+Pₚ=1/2 * 10√2 * 5√14=50√7 [cm²]
+
+odp: Pₚ=50√7 cm²

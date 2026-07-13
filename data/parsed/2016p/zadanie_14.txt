@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Czternasty wyraz ciągu arytmetycznego jest równy 8, a różnica tego ciągu jest równa -3/2. Siódmy wyraz tego ciągu jest równy
+A. 37/2
+B. -37/2
+C. -5/2
+D. 5/2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 14. $(0-1)$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

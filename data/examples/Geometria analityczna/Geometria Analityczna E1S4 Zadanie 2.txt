@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zad. 2 Wyznacz współrzędne punktów przecięcia prostych k i l (o ile istnieją).
+
+a) k: y = 3x - 4, l: 2x - 4y + 1 = 0   b) k: x = 5, l: y = 3 - x   c) k: y = (2/5)x, l: y = x - 6
+
+1) Rozwiązujemy układ równań:
+
+a) k: y = 3x - 4  
+   l: 2x - 4y + 1 = 0  
+   A(x,y)
+
+\{  
+   y = 3x - 4  
+   2x - 4y + 1 = 0  
+\}
+
+2x - 4(3x - 4) + 1 = 0  
+2x - 12x + 16 + 1 = 0  
+-10x = -17  
+
+x = 17/10, \; y = 3 \cdot 17/10 - 4 = 47/10
+
+Odp. a) A(\frac{17}{10}, \frac{47}{10}).
+
+b) k: x = 5  
+   l: y = 3 - x  
+   A(x,y)  
+
+\{  
+   x = 5  
+   y = 3 - x  
+\}
+
+y = 3 - 5  
+y = -2  
+
+Odp. b) A(5,-2).
+
+c) k: y = 2/5 x  
+   l: y = x - 6  
+   A(x,y)  
+
+\{  
+   y = 2/5 x  
+   y = x - 6  
+\}
+
+2/5 x = x - 6 \; / \cdot 5
+
+2x - 5x = -30  
+-3x = -30  
+x = 10  =>  y = 2/5 \cdot 10 = 4
+
+Odp. c) A(10, 4).

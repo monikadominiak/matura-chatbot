@@ -1,0 +1,25 @@
+=== ARKUSZ: 2024p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0–2)
+W kartezjańskim układzie współrzędnych (x, y) zaznaczono kąt o mierze α taki, że tg α = −3 oraz 90° &lt; α &lt; 180° (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami A–F i wpisz te litery w wykropkowanych miejscach.
+
+Prawdziwe są zależności: ............. oraz ............ .
+
+A. sin α &lt; 0
+B. sin α · cos α  0
+D. cos α &gt; 0
+E. sin α = −(1/3) cos α
+F. sin α = −3 cos α
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

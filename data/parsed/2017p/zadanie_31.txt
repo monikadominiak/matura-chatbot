@@ -1,0 +1,19 @@
+=== ARKUSZ: 2017p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-2)
+W ciągu arytmetycznym $(a_{n})$, określonym dla $nge1$, dane są: wyraz $a_{1}=8$ i suma trzech początkowych wyrazów tego ciągu $S_{3}=33$. Oblicz różnicę $a_{16}-a_{13}$.
+Odpowiedź: ................................................................................................................................... .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 31. $0-2$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).
+Przykładowe rozwiązanie Wyznaczamy różnicę r ciągu arytmetycznego. W tym celu stosujemy wzory na sumę częściową $S_3=3a_1+3r=33$ i $a_1=8$ lub zapisujemy równanie $a_1+a_1+r+a_1+2r=33$. Obliczamy r: $r=3$. Następnie obliczamy różnicę $a_{16}-a_{13}$, jako $3r$ lub po wyznaczeniu $a_{16}$ i $a_{13}$, czyli $a_{16}=8+15 cdot 3=53$, $a_{13}=8+12 cdot 3=44$. Zatem $a_{16}-a_{13}=3r=9$.
+Schemat punktowania Zdający otrzymuje 1 p., gdy obliczy różnicę ciągu $r=3$ (lub $3r=9$) lub obliczy wartość $a_1+r=11$, lub obliczy wartość $a_2=11$, lub zapisze, że $a_{16}-a_{13}=3r$, lub obliczy $a_3=14$ i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p., gdy obliczy różnicę $a_{16}-a_{13}=9$.
+Uwagi
+Jeśli zdający przyjmuje $n=33$ lub $a_3=33$ i nie przedstawia poprawnej metody obliczenia różnicy $a_{16}-a_{13}$, to otrzymuje 0 punktów.
+Jeżeli zdający poda wartość $r=3$ i zapisze $a_{16}-a_{13}=3r=9$, to otrzymuje 1 punkt.
+Jeżeli zdający zamiast ciągu arytmetycznego rozważa ciąg geometryczny, to otrzymuje 0 punktów za całe rozwiązanie.
+Strona 16 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.

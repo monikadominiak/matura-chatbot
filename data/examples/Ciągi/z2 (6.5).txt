@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+z4 (6.1)
+
+Trzywyrazowy ciąg (a, b, c) ma wyrazy dodatnie i jest arytmetyczny. Ciąg
+\[ \left( \frac{1}{a}, \frac{1}{b}, \frac{1}{3a-b+c} \right) \]
+jest geometryczny. Oblicz \(\frac{a}{b}\) oraz \(\frac{c}{a}\).
+
+1️⃣ Tworzymy układ równań.
+\[
+\begin{cases} 
+2b = a + c \\
+\left(\frac{1}{b}\right)^2 = \frac{1}{a} \cdot \frac{1}{3a-b+c} \\
+\end{cases}
+\]
+
+2️⃣ Rozwiązujemy układ równań.
+\[
+c = 2b-a 
+\]
+\[
+b^2 = a(3a-b+c)
+\]
+
+\[
+\begin{cases}
+c = 2b-a \\
+b^2 = a(3a-b+2b-a) 
+\end{cases} (1) (2)
+\]
+
+Z (2): \(b^2 = a(2a+b)\)
+
+\(b^2 = 2a^2 + ab \quad /: b^2 > 0\)
+
+\[
+\frac{2a^2}{b} + a - 1 = 0
+\]
+
+3️⃣ Podstawiamy pomocniczą zmienną.
+
+\(t = \frac{a}{b}, \quad t > 0\)
+
+\(2t^2 + t - 1 = 0\)
+
+\(\Delta = 1 + 8 = 9 \quad \sqrt{\Delta} = 3\)
+
+\(t_1 = \frac{-1 - 3}{4} = -1\)
+
+\(t_2 = \frac{-1 + 3}{4} = \frac{1}{2}\)
+
+Odrzucamy
+
+4️⃣ Cofamy podstawienie.
+
+\(\frac{a}{b} = \frac{1}{2}\)
+
+5️⃣ Obliczamy \(\frac{c}{a}\).
+
+\[
+\frac{c}{a} = \frac{2b-a}{a} = \frac{2}{t} - 1 = \frac{2}{\frac{1}{2}} - 1 = 3
+\]
+
+Odp.: \(\frac{a}{b} = \frac{1}{2}, \quad \frac{c}{a} = 3\)

@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+**Zadanie z1 (8.3)** W trójkącie równoramiennym kąt przy podstawie ma miarę α. Oblicz stosunek długości promienia okręgu wpisanego w ten trójkąt do długości promienia okręgu opisanego na nim.
+
+1.) Tworzymy rysunek poglądowy:
+
+Rysunek przedstawia trójkąt równoramienny ABC z zaznaczonym kątem przy podstawie α oraz promieniami okręgów wpisanego i opisanego.
+
+Zadanie jest nietypowe, a w takich zadaniach ciężko o konkretny algorytm rozwiązania.
+
+Można wprowadzić na rysunek promień okręgu wpisanego, skorzystać z trygonometrii trójkąta prostokątnego i tzw. sinusów w taki sposób, aby wszystkie oznaczenia literowe się skróciły.
+
+2.) Korelując z trygonometrii trójkąta prostokątnego i tzw. sinusów wyznaczamy szukane promienie w zależności od a i następnie wyznaczamy stosunek:
+
+Z Δ ADS:
+
+tg α = \(\frac{r}{a}\) = \(\frac{a}{2}\) -> r = a . tg \(\frac{α}{2}\)
+
+Z tu. sinusów w Δ ABC:
+
+\(\frac{2a}{sin(180°-2α)}\) = 2R -> R = \(\frac{a}{sin 2α}\)
+
+r/R = \(\frac{a . tg \frac{α}{2}}{\frac{a}{sin 2α}}\) = \(\frac{sin 2α}{2}\) . tg \(\frac{α}{2}\)
+
+Uwzgl. tu. sinusów względem boku 2a po to, aby licząc stosunek promieni skróciła się zmienna a.
+
+Odp. \(\frac{r}{R}\) = tg \(\frac{α}{2}\) . sin 2α.

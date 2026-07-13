@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Wykaż, że jeśli \( a i b \) są liczbami całkowitymi, to wyrażenie \( a^2b^2 - a^2b - ab^2 + ab \) jest podzielne przez 4.
+
+\( a, b \in \mathbb{Z} \)
+
+teza: \( a^2b^2 - a^2b - ab^2 + ab \) podzielne przez 4
+
+\( \textcolor{#0d72f0}{1} \) przekształcamy równoważnie tezę:
+
+\[
+a^2b^2 - a^2b - ab^2 + ab
+\]
+
+\[
+\Rightarrow \: a^2b(b-1) - ab(b-1)
+\]
+
+\[
+\Rightarrow \: (b-1)(a^2b-ab)
+\]
+
+\[
+\Rightarrow \: a(a-1) \cdot b(b-1)
+\]
+
+\(\textcolor{#ffc000}{iloczyn \: dwóch}\)
+\( \textcolor{#ffc000}{kolejnych} \)
+\( \textcolor{#ffc000}{liczb \: całkowitych} \)
+
+---
+
+\( \textcolor{#8dc609}{2}\) \(\textcolor{#8dc609}{komentarz}\):
+\( wyrażenie \: z \: tezy \: można \: zapisać \: jako \)
+\( iloczyn \: dwóch \: iloczynów \: kolejnych \: liczb \: całkowitych, \)
+\( z \: których \: każdy \: musi \: być \: podzielny \: przez \: 2, \)
+\( zatem \: całość \: jest \: na \: pewno \: podzielna \: przez \: 2 \cdot 2 = 4 \)
+
+c. k. d.

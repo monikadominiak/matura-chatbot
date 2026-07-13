@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Udowodnij tożsamość \(\frac{\sin 3\alpha - 3 \sin \alpha}{\cos 3\alpha + 3 \cos \alpha} = - \mathrm{tg}^3 \alpha\).
+
+\[
+\text{teza:} \quad \frac{\sin 3\alpha - 3 \sin \alpha}{\cos 3\alpha + 3 \cos \alpha} = -\mathrm{tg}^3 \alpha \quad \text{dla} \quad \alpha = \frac{\pi}{2} + k\pi, \, k \in \mathbb{Z} \, \text{dziedzina funkcji tg}
+\]
+
+1️⃣ przekształcamy \(\sin 3\alpha\):
+
+\[
+\sin 3\alpha = \sin(2\alpha + \alpha) = \sin 2\alpha \cos \alpha + \cos 2\alpha \sin \alpha = 2 \sin \alpha \cos^2 \alpha \cos \alpha + (1-2 \sin^2 \alpha) \sin \alpha = \sin \alpha (2 \cos^2 \alpha + 1 - 2 \sin^2 \alpha) = \sin \alpha (2 (1 - \sin^2 \alpha) + 1 - 2 \sin^2 \alpha) = \sin \alpha (3 - 4 \sin^2 \alpha)
+\]
+
+2️⃣ przekształcamy \(\cos 3\alpha\):
+
+\[
+\cos 3\alpha = \cos(2\alpha + \alpha) = \cos 2\alpha \cos \alpha - \sin 2\alpha \sin \alpha = \cos \alpha (2 \cos^2 \alpha - 1) - 2\sin^2 \alpha \cos \alpha = \cos \alpha (2 \cos^2 \alpha - 1 - 2 (1 - \cos^2 \alpha)) = \cos \alpha (4 \cos^2 \alpha - 3)
+\]
+
+3️⃣ przekształcamy lewą stronę równania
+
+\[
+L = \frac{\sin 3\alpha - 3 \sin \alpha}{\cos 3\alpha + 3 \cos \alpha} = \frac{\sin \alpha (3 - 4 \sin^2 \alpha) - 3 \sin \alpha}{\cos \alpha (4 \cos^2 \alpha - 3) + 3 \cos \alpha} = \frac{\sin \alpha (3 - 4 \sin^2 \alpha - 3)}{\cos \alpha (4 \cos^2 \alpha - 3 + 3)} = \frac{-4 \sin^3 \alpha}{4 \cos^3 \alpha} = -\mathrm{tg}^3 \alpha = P
+\]
+
+c.k.d.

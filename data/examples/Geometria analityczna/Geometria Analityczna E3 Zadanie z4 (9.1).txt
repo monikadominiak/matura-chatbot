@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+Zadanie 24 (9.1) Dla jakich wartości parametru m okręgi x^2 + y^2 - 4x + 2y + 4 = 0
+i x^2 + y^2 + 2x - 6y + 10 - \frac {m}{4} = 0 mają jeden punkt wspólny?
+
+1) Wyznaczmy środki i promienie obu okręgów:
+
+I sposób - podstawienie
+
+x^2+y^2-4x+2y+4=0
+x^2-4x+y^2+2y=-4
+(x-2)^2-4+(y+1)^2-1=-4
+(x-2)^2+(y+1)^2=1
+a=2  b=-1
+
+r^2=1  r=1
+
+NO  r=0
+
+O_1(x;y):(x-2)^2+(y+1)^2=1  śr. S_1=(2;-1)  r=1
+
+x^2+y^2+2x-6y+10-\frac{m}{4}=0
+x^2+2x+y^2-6y=-10+\frac{m}{4}
+(x+1)^2-1+(y-3)^2-9=-10+\frac{m}{4}
+(x+1)^2+(y-3)^2=-\frac{m}{4}+20
+a=-1  b=3
+
+(x+1)^2+(y-3)^2=r^2=-\frac{m}{4}+20=5 \quad \lightgreen{zależność \ m}
+
+O_2:(x+1)^2+(y-3)^2=\frac{-m+80}{4}  śr. S_2=(-1;3)  r=\sqrt{\frac{-m+80}{4}}
+
+II sposób: zróbmy do wzorca środkowego równania
+
+x^2+y^2-4x+2y+4=0
+(x-2)^2+(y+1)^2=1^2
+
+S_1(2;-1)  r=1
+
+x^2+y^2+2x-6y+10-\frac{m}{4}=0
+(x+1)^2+(y-3)^2=\frac{-m+80}{4}  śr. S_2=(-1;3)  r=\sqrt{\frac{-m+80}{4}}
+
+2) Tworzymy rysunek poglądowy:
+
+\[
+\begin{tikzpicture}
+\draw[very thin,color=gray] (-1.5,-1.5) grid (2.5,2.5);
+\draw[->] (-1.5,0) -- (2.5,0);
+\draw[->] (0,-1.5) -- (0,2.5);
+\draw[color=blue] (2,-1) circle(1);
+\draw[color=red] (-1,3) circle(2);
+\foreach \x in {-1,1,2} \draw (\x,-1.7) node[anchor=north] {\tiny \x};
+\foreach \y in {-1,1,2} \draw (-1.7,\y) node[anchor=east] {\tiny \y};
+\end{tikzpicture}
+\]
+
+Pominięcie okręgu jest zależny od parametru m, więc okręg już jest narysowany poglądowo dla maksymalnych wartości. Jak mamy narysować okręgi mają również wspólny promień, one również zaznaczone na schemacie. Musimy narysować obie te przypadki.
+
+3) Korzystamy ze wzoru na wzajemne położenie okręgów:
+
+|S_1S_2|-r_1-r_2
+
+|S_1S_2|=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}=5
+
+r_1=1  r_2=\sqrt{\frac{-m}{4}+20}=\sqrt{5-\frac{m}{4}}
+
+|S_1S_2|=r_1+r_2
+|S_1S_2|=|-r_1-r_2|
+
+|S_1S_2|=r_1+r_2 \
+|S_1S_2|=|\ r_1-r_2\ |
+
+1°  |5|=1+\sqrt{5-\frac{m}{4}}  \iff  5=1+\sqrt{5-\frac{m}{4}}
+\sqrt{5-\frac{m}{4}}=4
+5-\frac{m}{4}=16
+-m=-44
+
+\text{Odp.  m=[0,44]}  \lightred{\text{Odp. m=(6,16)}}

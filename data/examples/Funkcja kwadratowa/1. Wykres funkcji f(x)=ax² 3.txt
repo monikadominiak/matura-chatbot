@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+1. wykres funkcji \( f(x) = ax^2 \) \
+prosta \( y=4 \) przecina parabolę \( y = ax^2 \) w punktach \( A \) i \( B \). oblicz \( a \), jeżeli: \
+a) \(|AB| = 8\) \ b) \(|AB| = 0.5\) \ c) \(|AB| = 2\sqrt{2}\)
+
+Aby lepiej zrozumieć zadanie, nanieśmy wszystkie informację na wykres.
+
+Parabola \( y = ax^2 \) jest symetryczna względem osi \( y \). \(|AB| = 8\)
+
+Z wykresu odczytujemy informacje, że współrzędne punktów \( A \) i \( B \) wynoszą: \
+\( A = (-x_1, y) \ , \ B = (x_1, y) \)
+
+Łącząc to z informacją, jako że \(|AB|=8\) oraz punkt przecięcia występuje z \( y=4 \):
+
+\( A = (-4,4) \ , \ B = (4,4) \)
+
+Posiadając obu współrzędne dowolnego punktu należącego do danej paraboli możemy obliczyć wartość współczynnika kierunkowego.
+
+\( y = ax^2 \) \
+\( 4 = a(-4)^2 \) \
+\( 4 = 16a \ :16 \) \
+\( a = \frac{1}{4} \)
+
+Odp: \( a = \frac{1}{4} \)
+
+b) \(|AB| = 0,5\)
+
+Nadal mamy do czynienia z tym samym wzorem \( y = ax^2 \).
+
+\( A(-0,25 \ , 4) \ , \ B(0,25 \ , 4) \)
+
+\( y = ax^2 \) \ 
+\( 4 = a(-\frac{1}{4})^2 \rightarrow 4 = \frac{1}{16}a :16 \) \
+\( a = 64 \)
+
+Odp: \( a = 64 \)
+
+--- STRONA 2 ---
+c) |AB| = 2√2
+
+A(-√2; 4)   ,   B(√2, 4)
+
+y = ax^2
+
+4 = a·(√2)^2
+
+4 = 2a |:2  =>  a = 2
+
+Odp: a = 2

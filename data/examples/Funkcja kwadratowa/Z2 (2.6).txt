@@ -1,0 +1,97 @@
+
+--- STRONA 1 ---
+zZ (2.6)
+
+Dla jakich wartości parametru m wartości funkcji
+f(x) = (2m + 1)x^2 + (m - 1)x + 3m są dla każdego argumentu x
+mniejsze od odpowiednich wartości funkcji g(x)=(1-m)x+3?
+
+f(x) = (2m +1)x^2 + (m - 1)x + 3m
+
+g(x) = (1 - m)x + 3
+
+1️⃣ Wykorzystanie faktu, że f(x) ma osiągać zawsze mniejsze wartości od g(x)
+
+f(x) < g(x)
+
+(2m + 1)x^2 + (m - 1)x + 3m < (1 - m)x + 3
+
+(2m + 1)x^2 + (m - 1)x - (1 - m)x + 3m - 3 < 0
+
+(2m + 1)x^2 + [m - 1 - 1 + m]x + 3m - 3 < 0
+
+(2m + 1)x^2 + (2m - 2)x + 3m - 3 < 0
+
+Otrzymaliśmy nierówność, gdzie:
+a: 2m + 1
+b: 2m - 2
+c: 3m - 3
+
+Powyższa nierówność musi być spełniona zawsze, czyli dla x ∈ R, i wynika to 
+z faktu, że wartości z f(x) dla KAŻDEGO argumentu mają być mniejsze niż f(x).
+
+2️⃣ Rozważenie kiedy i w jaki sposób zachowa się ta funkcja gdy...
+a = 0 (f. liniowa)
+
+2m + 1 = 0 => 2m = -1 => m = -1/2
+
+dla m = -1/2:
+0x^2 + (2 ⋅ (-1/2) - 2)x + 3 ⋅ (-1/2) - 3 < 0
+
+-3x - 9/2 < 0 
+
+a ≠ 0
+
+2m + 1 ≠ 0  => m ≠ -1/2  
+
+3️⃣ Wyznaczenie warunków dla nierówności kwadratowej
+
+1° a < 0 
+
+2° Δ < 0 
+
+Wówczas będzie on rozwiązaniem dla x ∈ R
+
+--- STRONA 2 ---
+4) Rozwiązanie pierwszego z warunków  
+1° a < 0  
+   2m + 1 < 0  
+   m < -\frac{1}{2}  
+
+5) Rozwiązanie drugiego z warunków  
+2° \Delta < 0  
+   \Delta = b^2 - 4 \cdot a \cdot c  
+
+   (a-b)^2 = a^2 - 2ab + b^2  
+
+   (2m-2)^2 - 4 \cdot (2m+1) \cdot (3m-3) < 0  
+
+   (2m)^2 - 2 \cdot 2m \cdot 2 + 2^2 - 4(6m^2 - 6m + 3m - 3) < 0  
+
+   4m^2 - 8m + 4 - 4(6m^2 - 3m - 3) < 0 \quad |:4  
+
+   m^2 - 2m + 1 - 6m^2 + 3m + 3 < 0  
+
+          -\underline{5m^2} + \underline{m} + \underline{4} < 0  
+            a                     b                  c   
+
+   \Delta_m = 1^2 - 4 \cdot (-5) \cdot 4 = 1 + 80 = 81  
+
+   \sqrt{\Delta_m} = \sqrt{81} = 9  
+
+   m_1 = \frac{-b - \sqrt{\Delta}}{2a} \quad \quad m_2 = \frac{-b + \sqrt{\Delta}}{2a}  
+
+   m_1 = \frac{-1 - 9}{2 \cdot (-5)} = \frac{-10}{-10} = 1  
+
+   m_2 = \frac{-1 + 9}{2 \cdot (-5)} = -\frac{4}{5}  
+
+m_1 = 1  
+m_2 = -\frac{4}{5}  
+m \in (-\infty ; -\frac{4}{5}) \cup (1 ; \infty)  
+
+6) Wyznaczenie części wspólnej obu warunków  
+1° m < -\frac{1}{2}  
+2° m \in (-\infty ; -\frac{4}{5}) \cup (1 ; \infty)  
+Zatem m \in (-\infty ; -\frac{4}{5})  
+
+Odp: m \in (-\infty ; -\frac{4}{5}).

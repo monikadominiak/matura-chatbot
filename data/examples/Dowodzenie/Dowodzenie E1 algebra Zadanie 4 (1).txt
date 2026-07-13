@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+Wykaż, że wyrażenie \(16x^2 - 32xy + 17y^2\) przyjmuje nieujemne wartości dla dowolnego \( x \) i \( y \).
+
+\[
+16x^2 - 32xy + 17y^2 \geq 0 \quad x, y \in \mathbb{R}
+\]
+
+\[ 
+\text{W dowodzeniu nierówności często dążymy do wyrażeń kwadratowych}
+\]
+
+\[
+\begin{array}{l}
+\text{1)} \, \text{przekształcamy nierówność} \\
+16x^2 - 32xy + 17y^2 \geq 0 \\
+16x^2 - 32xy + \underline{16y^2} + y^2 \geq 0
+\end{array}
+\]
+
+\[ -2 \cdot 4 \cdot 4 \]
+
+\[
+(4x - 4y)^2 + y^2 \geq 0 
+\]
+
+\[
+(a + b)^2 = a^2 + 2ab + b^2
+\]
+
+\[
+\text{2) komentarz: kwadrat dowolnej liczby jest zawsze liczbą nieujemną,} \\
+\text{a także suma liczb nieujemnych jest} \geq 0
+\]
+
+c.k.d.

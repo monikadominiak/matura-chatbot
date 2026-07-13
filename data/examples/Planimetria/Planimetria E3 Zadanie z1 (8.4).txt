@@ -1,0 +1,13 @@
+
+--- STRONA 1 ---
+Zadanie z1 (8.4) Kąt ostry wyznaczony przez dwa promienie okręgu ma miarę 40°. Oblicz miarę kąta rozwartego, który tworzą styczne do okręgu poprowadzone przez końce tych promieni.
+
+1) Tworzymy rysunek poglądowy i analizujemy kąty:
+
+Kąt między styczną a promieniem poprowadzonym do punktu styczności zawsze ma miarę 90 stopni.
+
+Z sumy kątów w czworokącie:
+
+α + 90° + 90° + 40° = 360° -> α = 140°
+
+Odp. α = 140°.

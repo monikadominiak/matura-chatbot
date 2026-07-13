@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest romb o kącie ostrym α = 60°. Dłuższa przekątna graniastosłupa o długości 4 cm tworzy z płaszczyzną podstawy kąt β = 30°. Oblicz objętość i pole powierzchni całkowitej tego graniastosłupa.
+
+1) Sporządzamy rysunek pomocniczy, wprowadzamy oznaczenia i wykorzystujemy kąt β w zielonym Δ
+
+cos30° = d/4 = sqrt{3}/2
+
+d = 4 * sqrt{3}/2 = 2sqrt{3} cm
+
+2) Wyznaczamy wysokość graniastosłupa
+
+I sposób
+
+tw. Pitagorasa
+
+H^2 + (2sqrt{3})^2 = 4^2
+
+H^2 + 12 = 16
+
+H^2 = 4 => H = 2 cm
+
+II sposób
+
+z funkcji sinus
+
+sin30° = H/4 = 1/2
+
+H = 4 * 1/2 = 2 cm
+
+III sposób
+
+z Δ charakterystycznego 30°,60°,90°
+
+a = H, a*sqrt{3} = d, 2a = 4 => H = 2 cm
+
+3) Wyznaczamy wartość boku a
+
+(fragment podstawy)
+
+d/2 * a = cos30°
+
+a = 2sqrt{3}/sqrt{3}/2 = 2 cm
+
+4) Liczymy pole rombu ze wzoru z sinusem
+
+P_p = a^2 sin60° = 2^2 * sqrt{3}/2 = 2sqrt{3} cm^2
+
+5) Liczymy objętość graniastosłupa
+
+V = P_p * H = 2sqrt{3} * 2 = 4sqrt{3} cm^3
+
+6) Liczymy pole powierzchni całkowitej
+
+P_p = 2sqrt{3}
+
+P_b = 4 * aH = 4 * 2 * 2 = 16
+
+P_c = 2 * 2sqrt{3} + 16 = 4sqrt{3} + 16 = 4(sqrt{3} + 4) cm^2
+
+Odp: V = 4sqrt{3} cm^3, P_c = 4(sqrt{3} + 4) cm^2

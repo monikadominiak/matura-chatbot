@@ -1,0 +1,91 @@
+
+--- STRONA 1 ---
+Zad.1 Przedstawić podane ogólne równania okręgu w postaci kanonicznej, wyznaczyć środek okręgu i jego promień.
+
+a) x^2 + y^2 - 8x + 8y = 8
+b) x^2 + y^2 - 6x + 12y - 25 = 0
+c) x^2 + y^2 + 12x - y + 33 = 0
+d) x^2 + y^2 + y - x = -13
+
+1) Wyznaczyć postać kanoniczną i odczytując z niej środek i promień.
+
+Równanie okręgu o środku w punkcie S(a;b) i promieniu r to
+
+(x-a)^2 + (y-b)^2 = r^2    (r. kanoniczne)
+lub x^2 + y^2 + Ax + By + C = 0  (r. ogólne)
+
+gdzie A^2 + B^2 - 4C > 0
+
+a) I sposób: podstawienie
+
+x^2 + y^2 - 8x + 8y = 8
+x^2 - 8x + y^2 + 8y - 8 = 0,  r^2 = c - r = -8
+
+x^2 - 8x           x^2 - 8x + 16
+      - 8x + 16    - 16
+
+y^2 + 8y            y^2 + 8y + 16
+      + 8y + 16    - 16
+
+r^2 = (-8) + 16 + 16 = 24
+r = sqrt(24)
+r = 3 sqrt(3), sqrt(3) ~= 1,732  to r ~= 5,2
+
+o: (x-4)^2 + (y+4)^2 = 24  S(4,-4) r = sqrt(24)
+
+II sposób: zamiana do wzoru skończonego mnożenia
+
+x^2 + y^2 - 8x + 8y = 8,0
+(x-4)^2 - 16 + (y+4)^2 - 16 +8 = 0
+(x-4)^2 + (y+4)^2 = 24 - 8
+S(4, -4), r = 3
+
+Odp. a): o: (x-4)^2+(y+4)^2=24, r=3√3, S(4,-4)
+
+b) I sposób: podstawienie
+
+x^2 + y^2 - 6x + 12y = 25,0
+x^2 + y^2 - 6x + 12y - c = 0, r^2 = c-r = - c = 25
+
+x^2 - 6x               x^2 - 6x + 9
+      - 6x +  9    -  9
+
+y^2 + 12y              y^2 + 12y + 36
+      + 12y + 36    - 36
+
+r^2 = 25 - 9 - 36 = (50)
+r ~= 7,07 if 7,07 * 7,07 = 49,9849
+S(3, -6), r = sqrt(49)
+
+Odp. b): o: (x-3)^2+(y+6)^2=4, r=10, S(3,-6)
+
+c) I sposób: podstawienie
+
+x^2 + y^2 + 12x - y = 33
+x^2 + y^2 + 12x - y - c = 0, r^2 = c-r = - c = 33
+
+x^2 + 12x             x^2 + 12x + 36
+      + 12x + 36    - 36
+
+y^2 - y               y^2 - y + 0,25
+      - y + 0,25    - 0,25
+
+r^2 = 33 - 36 - 0,25 = -2.75
+if 2.75 ^ 2 = 7.5625
+r ~= 1,66
+S(-6, 0,5)
+
+Odp: c): o: (x+6)^2+(y-0.5)^2=18, r~=4.2, S(-6,0.5)
+
+d) I sposób: podstawienie
+
+x^2 + y^2 + y = -12
+x^2 + y^2 + y - c = 0, r^2 = c-r = c = -12
+
+        + y^2 
+  x^2 + y <1
+
+  2x = 0; x = 0
+  2y = 0; y = 0
+
+Odp. d): o: (x-0)^2+(y-0)^2=13, r=sqrt(50), S(0,0)

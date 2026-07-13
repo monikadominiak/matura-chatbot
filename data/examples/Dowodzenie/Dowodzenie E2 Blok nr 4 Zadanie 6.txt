@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+W trójkącie ostrokątnym \( ABC \) bok \( AB \) ma długość \( c \), długość boku \( AC \) jest równa \( b \) oraz \(|\angle BAC| = \alpha \). Dwusieczna kąta \( BAC \) przecina bok \( BC \) trójkąta w punkcie \( D \) i odcinek \( AD \) ma długość \( d \). Wykaż, że \( \cos \frac{\alpha}{2} = \frac{d}{2b} + \frac{d}{2c} \).
+
+1️⃣ tworzymy rysunek poglądowy
+
+teza: \(\cos \frac{\alpha}{2} = \frac{d}{2b} + \frac{d}{2c} \)
+
+2️⃣ wykorzystamy 3 razy wzór na pole \(\triangle\) z sinusem (mamy do niego wszystkie dane)
+
+\[
+P_{\triangle ABC} = P_{\triangle ACD} + P_{\triangle ADB}
+\]
+
+\[
+\begin{cases}
+P_{\triangle ABC} = \frac{1}{2}bc\sin \alpha \\
+P_{\triangle ACD} = \frac{1}{2}bd\sin\frac{\alpha}{2} \\
+P_{\triangle ADB} = \frac{1}{2}dc\sin\frac{\alpha}{2}
+\end{cases}
+\]
+
+3️⃣ ustawiami do \(*\)
+
+\[
+\frac{1}{2}bc\sin \alpha = \frac{1}{2}bd\sin\frac{\alpha}{2} + \frac{1}{2}dc\sin\frac{\alpha}{2}
+\]
+
+\[
+bc\cdot \sin \alpha = d \cdot \sin \frac{\alpha}{2} (b+c)
+\]
+
+4️⃣ potrzebujemy \(\cos\frac{\alpha}{2}\)
+
+\[
+\sin 2\alpha = 2 \sin \alpha \cos \alpha
+\]
+
+\[
+bc \cdot 2\sin \frac{\alpha}{2} \cos \frac{\alpha}{2} = d \cdot \sin \frac{\alpha}{2} (b+c) \quad /: 2bc
+\]
+
+\[
+\cos \frac{\alpha}{2} = \frac{db + dc}{2bc} = \frac{db}{2bc} + \frac{dc}{2bc} = \frac{d}{2c} + \frac{d}{2b} 
+\]
+
+c. k. d.

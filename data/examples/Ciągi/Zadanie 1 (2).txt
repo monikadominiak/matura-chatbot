@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+Zadanie 1
+
+Między liczby 3 i x wstawiono liczbę y tak, że liczby 3, y, x tworzą ciąg arytmetyczny. Jeżeli liczbę y pomniejszymy o 6, to liczby 3, y-6, x utworzą ciąg geometryczny. Oblicz liczby x i y.
+
+1️⃣ Tworzymy układ równań.
+
+\[
+\begin{cases} 
+y - 3 = x - y \\
+\frac{y - 6}{3} = \frac{x}{y - 6}
+\end{cases}
+\]
+
+2️⃣ Rozwiązujemy układ równań.
+
+\[
+\begin{cases} 
+2y - 3 = x \quad (1) \\
+(y - 6)^2 = 3x \quad (2)
+\end{cases}
+\]
+
+Z (1) do (2):
+
+(y - 6)^2 = 3/(2y - 3)
+
+y^2 - 12y + 36 = 6y - 9
+
+y^2 - 18y + 45 = 0
+
+Δ = (18)^2 - 4 * 45 = 324 - 180 = 144
+
+y_1 = \frac{18 - 12}{2} = 3 ; \quad y_2 = \frac{18 + 12}{2} = 15
+
+x_1 = 2y_1 - 3 = 2 * 3 - 3 = 3
+
+x_2 = 2y_2 - 3 = 2 * 15 - 3 = 27
+
+Odp.: \quad 
+\begin{cases} 
+x = 3 \\
+y = 3 
+\end{cases}
+\quad lub \quad 
+\begin{cases} 
+x = 27 \\
+y = 15 
+\end{cases}

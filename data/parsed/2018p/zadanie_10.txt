@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0-1)
+Liczba 1 jest miejscem zerowym funkcji liniowej f(x) = ax + b, a punkt M = (3, -2) należy do wykresu tej funkcji. Współczynnik a we wzorze tej funkcji jest równy A. 1 B. 3/2 C. -3/2 D. -1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 10. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji liniowej na podstawie informacji o funkcji lub o jej wykresie (4.6).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: A

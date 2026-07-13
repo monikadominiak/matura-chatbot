@@ -1,0 +1,15 @@
+=== ARKUSZ: 2017p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0-1)
+Na rysunku przedstawiona jest prosta k, przechodząca przez punkt A=(-2, 3) i przez początek układu współrzędnych, oraz zaznaczony jest kąt α nachylenia tej prostej do osi Ox.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zatem
+A. $2tg alpha = -3$
+B. $3tg alpha = -2$
+C. $2tg alpha = 3$
+D. $3tg alpha = 2$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 18. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 6. Trygonometria. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od $0^circ$ do $180^circ$ (6.1).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

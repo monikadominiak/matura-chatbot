@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+Zadanie 4
+
+Suma trzech liczb, które są kolejnymi wyrazami ciągu arytmetycznego, jest równa 15.
+Jeżeli liczby te powiększy się odpowiednio o 1, 4, 19, to otrzyma się trzy liczby, które są kolejnymi wyrazami ciągu geometrycznego. Jakie to są liczby?
+
+1️⃣ Tworzymy układ równań.
+
+(a,b,c) - ciąg arytmetyczny
+
+(a+1, b+4, c+19) - ciąg geometryczny
+
+\[
+\begin{cases} 
+a + b + c = 15 \quad (1) \\
+2b = a + c \quad (2) \\
+(b+4)^2 = (a+1)(c+19) \quad (3) 
+\end{cases}
+\]
+
+2️⃣ Rozwiązujemy układ równań.
+
+Z (1): \quad c = 15 - a - b
+
+Do (2): \quad 2b = a + 15 - a - b
+
+3b = 15
+
+b = 5
+
+\[
+\begin{cases}
+a + c = 2 \cdot 5 \\
+(5+4)^2 = (a+1)(c+19)
+\end{cases}
+\]
+
+\[
+\begin{cases}
+a + c = 10 \quad \Rightarrow \quad c = 10 - a \\
+(a+1)(c-19) = 81
+\end{cases}
+\]
+
+(a+1)(10-a+19)=81
+
+(a+1)(29-a)=81
+
+29a - a^2 + 29 - a = 81
+
+-a^2 + 28a - 52 = 0
+
+a^2 - 28a + 52 = 0
+
+\Delta = 784 - 208 = 576
+
+\sqrt{\Delta} = 24
+
+a_1 = \frac{28 - 24}{2} = 2 \quad ; \quad a_2 = \frac{28 + 24}{2} = 26
+
+c_1 = 10 - a_1 = 10 - 2 = 8 \quad ; \quad c_2 = 10 - a_2 = 10 - 26 = -16
+
+Odp.: (2, 5, 8) lub (26, 5, -16).

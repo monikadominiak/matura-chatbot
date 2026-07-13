@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0-1)
+Prosta o równaniu y = ax + b jest prostopadła do prostej o równaniu y = -4x + 1 i przechodzi przez punkt P = (1/2, 0), gdy A. a = -4 i b = -2 B. a = 1/4 i b = -1/8 C. a = -4 i b = 2 D. a = 1/4 i b = 1/2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

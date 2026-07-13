@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+**Zadanie z2 (8.6)** Dany jest czworokąt o kolejnych bokach długości 3, 4 i 5 oraz kącie α między bokami długości 3 i 4 takim, że cos α = - \frac{1}{11}. Wyznacz długość czwartego boku, jeśli wiadomo, że na czworokącie można opisać okrąg.
+
+1) Tworzymy rysunek poglądowy:  
+(obrazek)
+
+2) Wyznaczamy przekątną z tw. cosinusów dla lewego trójkąta:  
+y^2 = 3^2 + 4^2 - 2 * 3 * 4 * \left( -\frac{1}{11} \right)  
+y^2 = 9 + 16 + \frac{24}{11}  
+y^2 = \frac{299}{11}  
+y = \frac{\sqrt{299}}{\sqrt{11}}
+
+3) Wyznaczamy szukany bok z tw. cosinusów dla prawego trójkąta:  
+
+\cos(180^\circ - x) = -\cos α = \frac{1}{11}  
+
+\frac{299}{11} = x^2 + 25 - 2*5*x*\frac{1}{11}  
+
+11x^2 - 10x - 24 = 0  
+Δ = 100 + 4*11*(-24) = 1156, \sqrt{Δ} = 34
+
+x_1 = \frac{10 + 34}{22} = 2  
+x_2 = \frac{10 - 34}{22} < 0
+
+**Odp. 2.**

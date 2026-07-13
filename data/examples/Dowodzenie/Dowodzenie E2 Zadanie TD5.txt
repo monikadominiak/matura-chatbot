@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Dana jest funkcja \( f(x) = \cos\left(\frac{\pi x}{3}\right), x \in \mathbb{R} \). Wykazać, że równanie \( f(x) = f(x+1) \) ma w przedziale \( (2, 6) \) co najmniej dwa rozwiązania (nie rozwiązując tego równania).
+
+\( f(x) = \cos\left(\frac{\pi x}{3}\right) \), teza: równanie \( \circled{1} \) ma co najmniej dwa rozwiązania
+
+\( x \in \langle 2, 6 \rangle \)
+
+\(\circled{1}\) \( f(x) = f(x+1) \)
+
+\( f(x) - f(x+1) = 0 \)
+
+\(\circled{1}\) tworzymy nową funkcję \( h(x) \)
+
+\( h(x) = f(x) - f(x+1) \) \hspace{10px} ( \( h(x) \) jest różnicą funkcji ciągłych, więc sama również jest ciągła )
+
+\(\circled{2}\) chcemy, aby w przedziale \( (2, 6) \) funkcja \( h(x) \) przyjmowała wartości \( = 0 \)
+
+\( h(2) = \cos\frac{2\pi}{3} - \cos\pi = -\frac{1}{2} - (-1) = \frac{1}{2} \)
+
+\( h(6) = \cos 2\pi - \cos\frac{7\pi}{3} = 1 - \frac{1}{2} = \frac{1}{2} \)
+
+zatem na mocy tw. Darboux dla \( x \in \langle 2, 6 \rangle \)
+
+\(\circled{3}\) musimy wziąć kolejny przedział do sprawdzenia (mieszczący się w \( (2, 6) \))
+
+\( x \in \langle 2, 3 \rangle \hspace{10px} h(2) = \frac{1}{2} \)
+
+\( h(3) = \cos \pi - \cos\frac{4\pi}{3} = -1 - \left(-\frac{1}{2}\right) = -\frac{1}{2} \)
+
+czyli istnieje takie \( c \in (2, 3) \), że \( h(c) = 0 \)
+
+analogicznie dla \( x \in \langle 3, 6 \rangle \),
+
+\( h(6) = \frac{1}{2} , h(3) = -\frac{1}{2} \)
+
+czyli istnieje takie \( d \in (3, 6) \), że \( h(d) = 0 \)
+
+zatem na mocy tw. Darboux dla \( x \in \langle 2, 6 \rangle \) teza jest prawdziwa
+
+c.k.d.

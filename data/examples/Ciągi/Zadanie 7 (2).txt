@@ -1,0 +1,69 @@
+
+--- STRONA 1 ---
+Zadanie 7
+
+Pierwszy wyraz ciągu geometrycznego jest równy 2. Suma jego ośmiu początkowych wyrazów jest 5 razy większa od sumy czterech początkowych wyrazów. Oblicz dziewiąty wyraz tego ciągu.
+
+1️⃣ Zapiszemy informacje podane w zadaniu.
+
+\(a_n\) - ciąg geometryczny
+
+\(a_1 = 2\)
+
+\(S_8 = 5S_4\)
+
+Szukamy \(a_9\). Będziemy potrzebować \(q\).
+
+2️⃣ Rozwiążemy równanie.
+
+\[
+S_n = a_1 \cdot \frac{1-q^n}{1-q}, \quad q \neq 1.
+\]
+
+\[
+S_8 = 5S_4
+\]
+
+\[
+2 \cdot \frac{1-q^8}{1-q} = 5 \cdot 2 \cdot \frac{1-q^4}{1-q} \quad /\cdot(1-q)
+\]
+
+\[
+2 (1-q^8) = 10 (1-q^4)
+\]
+
+\[
+2 (1-q^4)(1+q^4)-10 (1-q^4) = 0
+\]
+
+\[
+2 (1-q^4)(1+q^4-5) = 0
+\]
+
+\[
+q^4 \neq 1 \quad q^4 = 4
+\]
+
+\[
+q = -4
+\]
+
+\[
+q = \pm \sqrt{2} \quad \vee \quad q = -\sqrt{2}
+\]
+
+3️⃣ Obliczamy \(a_9\).
+
+Dla \(q = -1\) :
+
+\[
+a_9 = 2 \cdot (-1)^8 = 2
+\]
+
+Dla \(q = \pm \sqrt{2}\) :
+
+\[
+a_9 = 2 \cdot (\pm \sqrt{2})^8 = 32
+\]
+
+Odp.: \(a_9 = 2 \; i \; q = -1 \quad \) lub \(\quad a_9 = 32 \; i \; q = \pm \sqrt{2}.\)

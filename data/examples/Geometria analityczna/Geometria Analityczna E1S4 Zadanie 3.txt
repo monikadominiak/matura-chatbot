@@ -1,0 +1,192 @@
+
+--- STRONA 1 ---
+Zad.3 Przedyskutuj liczbę rozwiązań układu równań w zależności od parametru m.
+
+a) 
+\[
+\begin{cases} 
+2x - my + 4 = 0 \\ 
+y = 3x - m 
+\end{cases}
+\]
+
+b) 
+\[
+\begin{cases} 
+y = (m^2 - 4)x + m^2 + 3m \\ 
+y = (m + 2)x + m 
+\end{cases}
+\]
+
+1) Zapisujemy odpowiednie warunki w zależności od liczby rozwiązań i wyznaczamy dla jakich m obowiązują:
+
+**Własności:**
+
+\[
+\begin{cases} 
+y = a_1x + b_1 \\ 
+y = a_2x + b_2 
+\end{cases}
+\]
+
+Liczba rozwiązań (punktów przecięcia) zależy od położenia prostych względem siebie:
+
+Jeden punkt przecięcia, gdy proste nie są równoległe, czyli \( a_1 \neq a_2 \), i \( b_1, b_2 \) dowolne.
+
+Nieskończenie wiele punktów przecięcia, gdy proste mają taka samą wersję (pokrywają się), czyli \( a_1 = a_2, \; b_1 = b_2 \).
+
+Brak punktów przecięcia, gdy proste są równoległe, ale mają różne punkty przecięcia \( y \) z osią \( y \), czyli \( a_1 = a_2, \; b_1 \neq b_2 \).
+
+a) 
+\[
+\begin{cases}
+2x - my + 4 = 0 \\ 
+y = 3x - m 
+\end{cases} 
+\]
+⟹ 
+\[
+\begin{cases}
+y = \frac{2}{m}x + \frac{4}{m} \\ 
+y = 3x - m 
+\end{cases} 
+\]
+
+prosta k_1, prosta m
+
+1 roz. \( (a_1 \neq a_2): \)
+
+\[
+\frac{2}{m} \neq 3 \rightarrow m \neq \frac{2}{3}
+\]
+
+m ∈ R \ { \(\frac{2}{3}\)}
+
+Nieskończenie wiele roz. \( (a_1 = a_2, \; b_1 = b_2): \)
+
+\[
+m \neq 0 \quad a_k = a_m \rightarrow \frac{2}{m} = 3 \rightarrow m = \frac{2}{3}
+\]
+
+i 
+
+\[
+b_k = b_m \rightarrow \frac{4}{m} = -m \rightarrow m^2 = -4 
+\]
+
+FAŁSZ
+
+m ∉ Ø
+
+\[
+[m \neq 0] \cap m ∈ \{ \frac{2}{3} \} = m ∉ Ø
+\]
+
+Brak roz. \( (a_1 = a_2 \; i \; b_k \neq b_m): \)
+
+m ≠ 0 
+
+\[
+a_k = a_m \rightarrow \frac{2}{m} = 3 \rightarrow m = \frac{2}{3}
+\]
+
+b_k ≠ b_m
+
+\[
+\frac{4}{m} \neq -m \rightarrow m^2 ≠ -4 
+\]
+
+m ∈ R
+
+\[
+[m ∈ R] \cap m ∈ \{ \frac{2}{3} \} = m ∈ \{ \frac{2}{3} \}
+\]
+
+Odp. a) 1 roz. dla m ∈ R \ { \(\frac{2}{3}\) }, nieskończenie wiele roz. dla m ∉ Ø oraz 0 roz. dla m ∈ \{ \(\frac{2}{3}\) }.
+
+b) 
+\[
+\begin{cases} 
+y = (m^2-4)x + m^2 + 3m \\ 
+y = (m+2)x + m 
+\end{cases} 
+\]
+
+prosta k, prosta m
+
+1 roz. \( (a_1 \neq a_2): \)
+\[
+a_k \neq a_m \rightarrow m^2 - 4 \neq m + 2 \rightarrow m^2 - m - 6 \neq 0 
+\]
+
+\(\Delta = 1+4 \times 6 = 25 \)
+
+\[
+m_1 = \frac{-1-5}{2} = -3 \quad , \quad m_2 = \frac{-1+5}{2} = 2
+\]
+
+m ∈ R \ { -2, 3 }
+
+Nieskończenie wiele roz. \( (a_1 = a_2, \; b_1 = b_2): \)
+
+\[
+a_k = a_m \rightarrow m^2 - 4 = m + 2 
+\]
+
+m^2 - m - 6 = 0
+
+\[
+m = 3 \quad \vee \quad m = -2 
+\]
+
+b_k = b_m
+
+\[
+m^2 + 3m = m 
+\]
+
+\[
+m^2 + 2m = 0 
+\]
+
+m(m + 2) = 0
+
+\[
+m = 0 \quad \vee \quad m = -2 
+\]
+
+m ∈ { -2, 0 }
+
+\[ 
+[m ∈ \{ -2, 3 \}] \cap [m ∈ \{ -2, 0 \}] = m ∈ \{ -2 \} 
+\]
+
+Brak roz. \( (a_k = a_m \; i \; b_k \neq b_m): \)
+
+\[
+a_k = a_m \rightarrow m^2 - 4 = m + 2 
+\]
+
+m^2 - m - 6 = 0 
+
+\[ 
+m = 3 \quad \vee \quad m = -2 
+\]
+
+b_k ≠ b_m
+
+m^2 + 3m ≠ m 
+
+\[ 
+m^2 + 2m ≠ 0 
+\]
+
+\[ 
+m ≠ 0 \quad \vee \quad m ≠ -2 
+\]
+
+\[ 
+m ∈ \{ -2, 3 \}
+\]
+
+Odp. b) 1 roz. dla m ∈ R \ { -2, 3 }, nieskończenie wiele roz. dla m ∈ \{ -2 \} oraz 0 roz. dla m ∈ \{ 3 \}.

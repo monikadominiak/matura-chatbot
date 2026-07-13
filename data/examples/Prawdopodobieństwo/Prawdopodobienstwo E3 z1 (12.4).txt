@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Oblicz, ile jest liczb czternastocyfrowych podzielnych przez 9, których cyframi są tylko 1 lub 2.
+
+① analizujemy polecenie
+
+liczby 14-cyfrowe podzielne przez 9, cyfry tylko 1 lub 2 ⇒ suma cyfr ∈ <14,28>
+
+② aby więc spełnić warunek podzielności mamy dwie możliwe sumy cyfr
+
+I suma = 18
+
+10x_11^1 i 4x_11^2
+
+\({{14}\choose{4}}\) = \(\frac{14!}{4! \cdot 10!}\) = \(\frac{11 \cdot 12 \cdot 13 \cdot 14}{1 \cdot 2 \cdot 3 \cdot 4}\) = 1001 liczb
+
+II suma = 27
+
+13x_11^2 i 1x_11^1
+
+\({{14}\choose{1}}\) = 14 liczb
+
+③ sumujemy możliwości z dwóch przypadków: 1001 + 14 = 1015 liczb
+
+Odp: 1015

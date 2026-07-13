@@ -1,0 +1,37 @@
+=== ARKUSZ: 2020p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0-2)
+Rzucamy dwa razy symetryczną sześcienną kostką do gry, która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek. Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że co najmniej jeden raz wypadnie ścianka z pięcioma oczkami.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 30. (0-2)
+Wymaganie ogólne: III. Modelowanie matematyczne.
+Wymaganie szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+zapisze liczbę wszystkich zdarzeń elementarnych $|Omega|=6^2=36$ lub opisze zbiór zdarzeń elementarnych za pomocą tabeli
+albo
+wypisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu A:
+$A={(1,5), (2,5), (3,5), (4,5), (5,6), (5,1), (5,2), (5,3), (5,4), (6,5)}$
+lub zaznaczy je wszystkie w tabeli lub zaznaczy wszystkie istotne gałęzie na pełnym drzewie składającym się z 36 gałęzi,
+albo
+obliczy liczbę zdarzeń elementarnych sprzyjających zdarzeniu A, np.: $|A|=2 cdot 6-1=11$, $|A|=5+5+1=11$ i nie wskaże przy tym niepoprawnych zdarzeń elementarnych sprzyjających zdarzeniu A,
+albo
+zapisze prawdopodobieństwa potrzebne do wyznaczenia końcowego wyniku na dwóch etapach (przy stosowaniu metody drzewa probabilistycznego składającego się z czterech gałęzi) oraz wskaże wszystkie istotne gałęzie (dla zdarzenia A lub zdarzenia $A^{prime}$)
+i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+obliczy prawdopodobieństwo zdarzenia A: $P(A)=frac{|A|}{|Omega|}=frac{11}{36}$.
+Uwagi
+Jeżeli zdający zapisze tylko: $|A|=11$, $|Omega|=36$, lub zapisze tylko: $P(A)=frac{11}{36}$ lub $frac{11}{36}$, to otrzymuje 2 punkty.
+Jeżeli zdający zapisze prawdopodobieństwo $P(A)=frac{1}{6} cdot frac{1}{6} + 2 cdot frac{1}{6} cdot frac{5}{6}$, to otrzymuje 2 punkty.
+Jeżeli zdający zapisze tylko $|A|=11$, to otrzymuje 1 punkt.
+Jeżeli zdający popełni błąd przy wypisywaniu zdarzeń elementarnych i wypisze o jedno za mało lub jedno powtórzy, ale nie wypisze żadnego niewłaściwego i konsekwentnie do popełnionego błędu obliczy prawdopodobieństwo, to otrzymuje 1 punkt.
+Jeżeli zdający stosuje drzewo probabilistyczne o 36 gałęziach, w którym przynajmniej 7 gałęzi odpowiada sytuacjom sprzyjającym rozważanemu zdarzeniu A (lub przynajmniej 13, gdy rozpatruje zdarzenie $A^{prime}$), ale nie wskaże gałęzi niewłaściwej, i konsekwentnie do popełnionego błędu obliczy prawdopodobieństwo, to otrzymuje 1 punkt.
+Jeżeli zdający narysuje tylko drzewko i nie zaznaczy oraz nie opisze żadnej gałęzi, to otrzymuje 0 punków.
+Jeżeli zdający zapisze tylko liczby 36 lub 11 lub 25 i z rozwiązania zadania nie wynika znaczenie tych liczb, to otrzymuje 0 punktów.
+Jeśli zdający rozwiąże zadanie do końca i otrzyma $P(A)&gt;1$ lub $P(A) 0$.
+Zatem rozwiązaniami równania są $b_1=frac{5a-a}{2}=2a$ lub $b_2=frac{5a+a}{2}=3a$.
+Obliczamy iloraz q ciągu $(a_n)$: $q=frac{b}{a}=frac{2a}{a}=2$ lub $q=frac{b}{a}=frac{3a}{a}=3$.
+Ponieważ $q in langle2sqrt{2}, 3sqrt{2}rangle$, więc iloraz ciągu $(a_n)$ jest równy: $q=3$.

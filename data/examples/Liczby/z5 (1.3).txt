@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+z5 (1.3)  
+Liczby x, y, z są dodatnie i różne od 1. Oblicz wartość wyrażenia log_z x, jeśli wiadomo że log_x y = 2 i log_y z^2 = 3.
+
+1⃣ Przekształcenie wiadomych wyrażeń za pomocą wzoru:  
+log_a b = c  <=>  a^c = b  
+
+log_x y = 2  <=>  x^2 = y  
+log_y z^2 = 3  <=>  y^3 = z^2  
+
+2⃣ Wykorzystanie wspólnego czynnika "y"   
+{  
+   x^2 = y    |^3  
+   y^3 = z^2  
+
+{  
+   x^6 = y^3  
+   y^3 = z^2  =>  x^6 = z^2  
+
+3⃣ Przekształcenie równania w taki sposób aby pasowało do szukanego parametru z polecenia  
+
+Kiedy podobnie jak w kroku 1⃣ przekształcimy szukane równanie, otrzymamy:  
+
+log_z x = ?  =>  z^? = x  
+
+Potrzebujemy znać przede wszystkim x w pierwszej potędze, dlatego spierwiastkujmy  
+
+x^6 = z^2  ⎪√6  
+
+⎷x^6 = ⎷z^2  
+
+|x| = |z|^{1/3}  
+
+x = z^{1/3}  
+
+log_z x = 1/3  
+
+Odp: 1/3 .

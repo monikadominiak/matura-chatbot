@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+W ciągu arytmetycznym $(a_{n})$, określonym dla każdej liczby naturalnej $nge1,$ $a_{5}=-31$ oraz $a_{10}=-66$. Różnica tego ciągu jest równa
+A. (-7)
+B. (-19,4)
+C. 7
+D. 19,4
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

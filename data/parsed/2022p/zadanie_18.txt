@@ -1,0 +1,15 @@
+=== ARKUSZ: 2022p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0-1)
+Punkty A, B, P leżą na okręgu o środku S i promieniu 6. Czworokąt ASBP jest rombem, w którym kąt ostry PAS ma miarę $60^{circ}$ (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Pole zakreskowanej na rysunku figury jest równe
+A. 6π
+B. 9π
+C. 10π
+D. 12π
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

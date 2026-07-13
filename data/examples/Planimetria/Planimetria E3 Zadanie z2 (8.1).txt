@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zadanie z2 (8.1) Jeden z kątów trójkąta o obwodzie 6 ma miarę 60°, a stosunek długości boków zawartych w ramionach tego kąta jest równy 1 : 2. Oblicz pole tego trójkąta.
+
+1) Tworzymy rysunek poglądowy:
+
+Pb = \frac{1}{2} \cdot x \cdot 2x \cdot sin 60° = \frac{\sqrt{3}}{2} x^2
+
+Do uzależnienia pola trójkąta od jednej niewiadomej idealnie nada się ten wzór: Pb = \frac{1}{2} \cdot a \cdot b \cdot sin(k) 
+Gdzie kąt k to kąt pomiędzy bokami a, b
+
+2) Tworzymy układ równań z tw. cosinusów i informacji o obwodzie, aby wyznaczyć x:
+
+2x + x + y = 6 => 3x + y = 6 \ | 
+y^2 = x^2 + (2x)^2 - 2 \cdot x \cdot 2x \cdot cos 60°
+y^2 = 5x^2 - 2x^2 => y^2 = 3x^2 => y = \sqrt{3}x 
+x > 0, y > 0
+
+3x + y = 6 
+3x + \sqrt{3}x = 6 
+(3 + \sqrt{3})x = 6 
+x = \frac{6}{3 + \sqrt{3}} = \frac{6}{3 - \sqrt{3}} \cdot \frac{3 - \sqrt{3}}{3 - \sqrt{3}} = \frac{6(3 - \sqrt{3})}{9 - 3} = 3 - \sqrt{3}
+
+Uwaga: ogólnie rzecz biorąc zachodzi:
+y^2 = 3x \ /_
+|y| = |\sqrt{3}x| 
+y = \sqrt{3}x \ v \ y = -\sqrt{3}x
+
+W tym zadaniu jednak, x i y stanowią długości boków, więc są dodatnie, zatem tylko jeden z tych dwóch wariantów jest poprawny.
+
+3) Podstawiamy x pod wzór na pole trójkąta:
+
+P_b = \frac{\sqrt{3}}{2} x^2 = \frac{\sqrt{3}}{2} (3 - \sqrt{3})^2 = \frac{\sqrt{3}}{2} (9 - 6\sqrt{3} + 3) = 6\sqrt{3} - 9
+
+Odp. Pb = 6\sqrt{3} - 9.

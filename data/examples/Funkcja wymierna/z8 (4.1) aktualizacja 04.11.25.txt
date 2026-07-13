@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+z8 (4.1)
+
+Wiadomo, że \(4a^2 + 7ab = -3b^2\).
+
+Oblicz \(\frac{a}{b}\) wiedząc, że \(a \neq 0\) i \(b \neq 0\).
+
+1️⃣ Dzielimy przez \(b^2\). 
+
+\[
+\frac{4a^2}{b^2} + \frac{7a}{b} + 3 = 0
+\]
+
+2️⃣ Korzystamy z pomocniczej zmiennej. 
+
+\(t = \frac{a}{b}\)
+
+\[
+4t^2 + 7t + 3 = 0 
+\]
+
+\(\Delta = 49 - 48 = 1 \quad \sqrt{\Delta} = 1\)
+
+\(t_1 = \frac{-7 - 1}{8} = -1 \)
+
+\(t_2 = \frac{-7 + 1}{8} = -\frac{3}{4} \)
+
+3️⃣ Cofamy podstawienie.
+
+\[
+\frac{a}{b} = -1 \quad \frac{a}{b} = -\frac{3}{4} 
+\]
+
+Odp.: \(\frac{a}{b} \in \{-1, -\frac{3}{4}\}\)

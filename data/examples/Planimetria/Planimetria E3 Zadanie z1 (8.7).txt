@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z1 (8.7) W trapezie ABCD, w którym AB||CD i |AB| > |CD|, przedłużono boki BC i AD do przecięcia w punkcie O. Oblicz długość odcinka OC, jeżeli |AD| = 12, |OD| = 15, |BC| = 13.
+
+1) Wykazujemy podobieństwo trójkątów ABO i CDO oraz wyznaczamy |OC|.
+
+Trójkąty ABO i CDO są podobne z cechy kąt-kąt-kąt.
+
+ΔABO~ΔCDO (kkkk)
+
+Trójkąty są podobne w skali k:
+
+k = ΔCDO / ΔABO = |OC| / |OD| = |OC| / 15
+               
+15 / 27 = x / (15 + x)
+               
+27x = 15(15 + x)
+               
+x = 195 / 12 = 65 / 4 = |OC|
+
+Odp. |OC| = 65 / 4.

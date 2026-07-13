@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0-1)
+Z odcinków o długościach: 5, 2a+1, a-1 można zbudować trójkąt równoramienny. Wynika stąd, że
+A. a=6
+B. a=4
+C. a=3
+D. a=2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 18. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: SP9. Wielokąty, koła, okręgi. Zdający ustala możliwość zbudowania trójkąta (SP9.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

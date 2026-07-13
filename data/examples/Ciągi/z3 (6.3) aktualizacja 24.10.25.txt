@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+z3 (6.3)
+
+Skończony ciąg arytmetyczny \( a_n \) ma nieparzystą liczbę wyrazów. Suma wszystkich wyrazów tego ciągu jest równa 165, a suma wyrazów o nieparzystych numerach równa jest 88. Z ilu wyrazów składa się ciąg \( a_n \)?
+
+Liczbę nieparzystą można zapisać jako \( 2n+1 \), gdzie \( n \in \mathbb{Z} \).
+
+Zauważmy, że dysponując nieparzystą liczbą liczb zawsze wśród tych liczb będzie o 1 więcej liczb nieparzystych niż parzystych.
+
+Mamy w związku z tym:
+\( 2n+1 \) - liczba wszystkich wyrazów,
+\( n \) - liczba wyrazów o numerach parzystych,
+\( n+1 \) - liczba wyrazów o numerach nieparzystych.
+
+Możemy teraz dwukrotnie skorzystać ze wzoru na sumę ciągu arytmetycznego.
+
+1️⃣ Zapisujemy układ równań.
+
+W poniższym układzie równań w dolnym równaniu jest razem \( n+1 \) wyrazów (tylko numery nieparzyste), a ostatni ma numer \( 2n+1 \), stąd inny indeks przy \( a_n \) i inny mnożnik we wzorze.
+
+\[
+\begin{cases} 
+\frac{a_1 + a_{2n+1}}{2} \cdot (2n+1) = 165 & (1) \\ 
+\frac{a_1 + a_{2n+1}}{2} \cdot (n+1) = 88 & (2)
+\end{cases}
+\]
+
+Z powstałego układu równań musimy wyznaczyć zmienną \( n \), a potem \( 2n+1 \).
+
+2️⃣ Rozwiązujemy układ równań.
+
+Można z jednego z równań wyznaczyć wyrażenie \(\frac{a_1 + a_{2n+1}}{2}\) i podstawić do drugiego równania.
+
+Z (1):
+
+\[
+\frac{a_1 + a_{2n+1}}{2} = \frac{165}{2n+1} 
+\]
+
+Do (2):
+
+\[
+\frac{165}{2n+1} \cdot (n+1) = 88 /: (2n+1)
+\]
+
+--- STRONA 2 ---
+165(n+1) = 88(2n+1)  
+165n + 165 = 176n + 88  
+11n = 77  
+n = 7  
+2n+1 = 15  
+
+Odp.: Ciąg (a_n) ma 15 wyrazów.

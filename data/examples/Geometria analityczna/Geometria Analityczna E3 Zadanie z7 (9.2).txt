@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+**Zadanie 27 (9.2)** Przekątna kwadratu opisanego na okręgu o równaniu \( x^2 + y^2 - 2x - 4 = 0 \) zawiera się w prostej o równaniu \( 2x - y - 2 = 0 \). Wyznacz współrzędne wierzchołków tego kwadratu.
+
+1) Tworzymy rysunek poglądowy:
+
+Dla okręgu o równaniu \( x^2+y^2-2x-4=0 \) mamy:
+
+\( (x-1)^2+y^2=5 \), \( S(1,0),\ r=\sqrt{5} \)
+
+2) Wyznaczamy wierzchołki \( A \) i \( C \):
+
+Niech \( a \) będzie długością boku kwadratu. Wówczas:
+
+\( r\sqrt{2} = a \) oraz \( x-1 = a\frac{\sqrt{2}}{2} = \pm\sqrt{5}\cdot \frac{\sqrt{2}}{2} = \pm\sqrt{5} \)
+
+\( AC = \sqrt{2}a = 2\sqrt{5} \) \( \Rightarrow \) \( A(x_1,x_2) \)
+
+\( |AC| = |AD| = |AB|=|BC|=|CD| \)
+
+\( (x_1-x_S)^2 \cdot (x_1-x_S)^2=5 \cdot 1^2 \)
+
+\( (x_1-1)^2+x_2^2 = 5 \)
+
+\( S(-1,0)-3=0-1=5 \)
+
+\( a^2 = 4+4a \cdot 4 \cdot \sqrt{5}=x-\sqrt{5} \)
+
+\( x_1 = \frac{2+1-2}{\sqrt{5}\cdot(2-\sqrt{5})}-x_1-\sqrt{5} \)
+
+\( x_1 = \frac{4+\sqrt{5}\pm2\cdot(4-\sqrt{2})-\frac{1}{4\sqrt{5}}}{\frac{2-\sqrt{5}}{2}+\frac{2+2}{2}-2\cdot\sqrt{5}} = 2 \cdot 2\sqrt{5} \)
+
+\( x_2 = \frac{2-4}{2} \)
+
+\( A(-1+\sqrt{2}, x_3) \)
+
+\( C(r+\sqrt{2}, -x\sqrt{5}) \)
+
+3) Wyznaczamy proste zawierające drugą przekątną:
+
+\( k: y=2x-1 \)
+
+Wyznaczamy teraz prostą, prostopadłą do \( 2x-y=0 \) przechodzącą przez środek \( S \).
+
+Wyznacz \( B,D \) wyznaczamy analogicznie jak \( A,C \).
+
+\[ k \parallel L \quad a \frac{2-a}{4} \]
+
+\[ a=r-4 \]
+
+\[ L: y=r-\frac{1}{4}x \]
+
+\[ l: \quad y=-\frac{1}{2}x+\frac{1}{4} \]
+
+4) Wyznaczamy wierzchołki \( B \) i \( D \):
+
+\[ B(0,y) \quad y=x_1+x_2 = bQ= C(x_1^*+x,x+4) \]
+
+\[ |BS|=|AB|\sqrt{(x-y-x_1)^2+(x-x_2)^2\quad(0) \]
+
+\[ x^2-\sqrt{32x}+b^2-3\sqrt{15x}+60 \]
+
+\[ x=2x_3 + \frac{x_2-4}{1} \]
+
+\[ 5<-\frac{x}{6} = 2-0\frac{2}{3} \]
+
+\[ x^2-1x-7=0 \]
+
+\[ a+\frac{1}{4}(x^4-x)+8x-f\sqrt{5} \]
+
+\[ x_y^* \neq 0 \quad y_n = x_p(x^2y)[\frac{1}{64}]x_p \]
+
+\[ x_x^4=0f\sqrt{7} \quad \Rightarrow y_n.-e(x-y^2(-\sqrt{2})-(-\sqrt{1} \]
+
+\[ B(<1,\sqrt{32}) \quad D(x\sqrt{27}, -x^2) \]
+
+**Odp.** \( (-1,0,0,2), (\sqrt{5},2), (x,y), (-\sqrt{40},2), (-h,\sqrt{-1}) \)

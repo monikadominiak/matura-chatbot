@@ -1,0 +1,86 @@
+
+--- STRONA 1 ---
+Zadanie 20 [5 pkt]- TYP 2.6  
+Wyznacz wszystkie wartości parametru m, dla których funkcja  
+f(x) = (m^2 - 1)x^2 - 2(1 - m)x + 2 przyjmuje wartości dodatnie dla każdej liczby rzeczywistej.
+
+f(x) = (m^2 - 1)x^2 - 2(1 - m)x + 2  
+a = m^2 - 1  
+b = -2(1 - m)  
+c = 2  
+
+Ze względu na to, że funkcja ma przyjmować wartości dodatnie dla KAŻDEJ liczby rzeczywistej, to nasza funkcja nie może mieć miejsc zerowych.  
+
+1️⃣ Wyznaczenie warunków wynikających z treści zadania:  
+
+1° a > 0 ← ramiona paraboli skierowane ku górze, i wartości dodatnie.  
+
+2° Δ < 0 ← brak miejsc zerowych  
+
+2️⃣ Rozwiązanie pierwszego z warunków:
+
+1° a > 0  
+m^2 - 1 > 0 ⇐ możemy obliczyć deltę lub sformułować ze wzoru:  
+(m - 1)(m + 1) > 0 ⟺ a^2 - b^2 = (a - b)(a + b)  
+
+m - 1 = 0  
+m = 1  
+
+m + 1 = 0  
+m = -1  
+
+m ∈ (-∞; -1) ∪ (1; ∞)  
+
+Uwaga!  
+Musimy sprawdzić co się stanie, gdyby nasz współczynnik przy x^2 się wyzerował.  
+Wyzeruje się on dla m = 1, tym samym wyzeruje się nam współczynnik przy x, wówczas:
+
+dla m = 1 ← warunek * (funkcja stała nie łączy się z innymi warunkami rozpatrywanymi w tym zadaniu)  
+f(x) = 0·x^2 + 0·x + 2  
+f(x) = 2 ← otrzymaliśmy funkcję stałą, która przyjmuje wartości dodatnie dla każdej liczby rzeczywistej.  
+
+Zatem m ≠ 1 spełnia warunki naszego zadania, to rozwiązanie nie łączy się z warunkiem z Δ.  
+
+3️⃣ Rozwiązanie drugiego z warunków:
+
+2° Δ < 0  
+Δ = b^2 - 4·a·c  
+
+[-2(1-m)]^2 - 4(m^2-1)·2 < 0  
+(a-b)^2 = a^2 - 2ab + b^2  
+
+(2m - 2)^2 - 8m^2 + 8 < 0  
+
+4m^2 - 8m + 4 - 8m^2 + 8 < 0  
+-4m^2 - 8m + 12 < 0  
+4 > 4
+
+--- STRONA 2 ---
+\-m^2 - 2m + 3 < 0
+
+\Delta_m = (-2)^2 - 4 \cdot (-1) \cdot 3 = 4 + 12 = 16
+
+\sqrt{\Delta_m} = 4
+
+x_1 = \frac{-b-\sqrt{\Delta}}{2a}
+
+x_2 = \frac{-b+\sqrt{\Delta}}{2a}
+
+m_1 = \frac{-(-2) - 4}{-1 \cdot 2} = \frac{-2}{-2} = 1
+
+m_2 = \frac{-(-2) + 4}{-1 \cdot 2} = \frac{6}{-2} = -3
+
+m \in (-\infty ; -3) \cup (1 ; \infty)
+
+4. Wyznaczenie części wspólnej rozwiązań
+wszystkich warunków:
+
+1^o \  m \in (-\infty ; -1) \cup (1 ; \infty)
+
+2^o \  m \in (-\infty ; -3) \cup (1 ; \infty)
+
+* m = 1
+
+Ostatecznie \ m \in (-\infty ; -3) \cup \langle 1 ; \infty)
+
+Odp: \ m \in (-\infty ; -3) \cup \langle 1 ; \infty).

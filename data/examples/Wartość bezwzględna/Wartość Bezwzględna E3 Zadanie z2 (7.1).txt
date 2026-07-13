@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Zadanie z2 (7.1) Rozwiąż nierówność |(x - 1)(x + 1)(x + 2)| ≤ 0. 
+
+|(x-1)(x+1)(x+2)| ≤ 0  <=>  (x-1)(x+1)(x+2) = 0
+                      x=1  v  x=-1  v  x=-2
+
+Odp. x∈{-2,-1,1}. 
+
+Wartość bezwzględna dowolnego wyrażenia nigdy nie będzie mniejsza od zera, może być co najwyżej równa zeru. Wobec tego możemy wyjątkowo zamienić tę nierówność na równanie.
+
+W zależności od kierunku i typu nierówności otrzymalibyśmy zupełnie inne wyniki:
+
+|(x-1)(x+1)(x+2)| < 0  =>  x∈∅
+|(x-1)(x+1)(x+2)| > 0  =>  x∈ℝ\{-2,-1,1}
+|(x-1)(x+1)(x+2)| ≥ 0  =>  x∈ℝ

@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Mamy do dyspozycji cyfry 1, 2, 3, 4, 5, 6.
+
+a) ile liczb 3-cyfrowych można utworzyć z tych cyfr, jeśli cyfry mogą się powtarzać?
+b) ile liczb 6-cyfrowych można utworzyć z tych cyfr, jeśli cyfry mogą się powtarzać?
+c) ile liczb 4-cyfrowych można utworzyć z tych cyfr, jeśli cyfry nie mogą się powtarzać?
+d) ile liczb 6-cyfrowych można utworzyć z tych cyfr, jeśli cyfry nie mogą się powtarzać?
+
+1,2,3,4,5,6 → 6 elementów
+
+1️⃣ a) zapisujemy schematycznie liczbę 3-cyfrową,
+   → cyfry mogą się powtarzać
+
+\[ \text{wpisujemy możliwości} \]
+
+\[ 6 \cdot 6 \cdot 6 = 6^3 = 216 \]
+
+\[ \text{I cyfra} \quad \text{II cyfra} \quad \text{III cyfra} \]
+
+\[ \text{Odp: } 216 \]
+
+2️⃣ b) tym razem mamy liczbę 6-cyfrową,
+   → cyfry mogą się powtarzać
+
+\[ 6 \cdot 6 \cdot 6 \cdot 6 \cdot 6 \cdot 6 = 6^6 = 46656 \]
+
+\[ \quad \text{I} \quad \quad \text{II} \quad \quad \text{III} \quad \quad \text{IV} \quad \quad \text{V} \quad \quad \text{VI} \]
+
+\[ \text{Odp: } 46656 \]
+
+3️⃣ c) liczba 4-cyfrowa, ale liczby nie mogą się powtarzać
+
+\[ 6 \cdot 5 \cdot 4 \cdot 3 = 360 \]
+
+\[ \quad \text{I} \quad \quad \text{II} \quad \quad \text{III} \quad \quad \text{IV} \]
+
+\[ \text{wybraliśmy pierwszą cyfrę z 6 i nie możemy już jej powtórzyć} \]
+
+\[ = \frac{6!}{(6-4)!} \quad \text{wariacja bez powtórzeń} \]
+
+\[ \text{Odp: } 360 \]
+
+4️⃣ d) liczba 6-cyfrowa i 6 cyfr do użycia
+
+\[ 6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 \]
+
+\[ \quad \text{I} \quad \quad \text{II} \quad \quad \text{III} \quad \quad \text{IV} \quad \quad \text{V} \quad \quad \text{VI} \]
+
+\[ = 6! = 720 \quad \text{permutacja} \]
+
+\[ \text{Odp: } 720 \]

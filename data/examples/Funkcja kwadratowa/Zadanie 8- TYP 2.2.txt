@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Zadanie 8 [3 pkt]- TYP 2.2  
+Suma dwóch różnych miejsc zerowych funkcji kwadratowej jest równa 4,  
+a suma ich odwrotności jest równa -\(\frac{1}{3}\). Wyznacz wzór tej funkcji jeśli  
+f(0)=-12.  
+  
+\(f(x) = ax^2 + bx + c\) ← \(wzór\ ogólny\ funkcji\ kwadratowej\)  
+  
+① Wykorzystanie danych z treści zadania, jako, iż f(0)=-12  
+\(f(0) = a \cdot 0^2 + b \cdot 0 + c\)  
+  
+\(-12 = c\)  
+  
+② Zapisanie pozostałych danych z treści zadania za pomocą wzorów Vieté'a  
+\(\left\{\begin{array}{l}x_{1} + x_{2} = 4 \\ \frac{1}{x_1} + \frac{1}{x_2} = -\frac{1}{3}\end{array}\right.\)  
+  
+→ suma dwóch różnych miejsc zerowych jest równa 4  
+→ suma odwrotności dwóch różnych miejsc zerowych jest równa \(-\frac{1}{3}\)  
+  
+\(\left\{\begin{array}{l}x_{1} + x_{2} = 4 \\ \frac{x_2 + x_1}{x_1 \cdot x_2} = -\frac{1}{3}\end{array}\right.\)  
+  
+→ sprowadzono do wspólnego mianownika  
+  
+Korzystamy ze wzorów Vieté'a  
+\(x_1+x_2=-\frac{b}{a}\)  
+\(x_1 \cdot x_2 = \frac{c}{a}\)  
+  
+① \(-\frac{b}{a} = 4\)  
+② \(-\frac{b}{a \cdot x_2} = -\frac{1}{3}\) ← mnożymy "na krzyż"  
+  
+\(\left\{\begin{array}{l}-\frac{b}{a} = 4 \\ -\frac{b}{a} = 4\ \Rightarrow\ 3\cdot 4 = -\frac{c}{a} \cdots /:a\end{array}\right.\)  
+  
+\(12a = -(-12)\)  
+\(12a = 12\ \cdots /:12\)  
+\(a = 1\)  
+  
+① \(-\frac{b}{a} = 4\ \cdots | \cdot a\)  
+\(-b = 4 \cdot a\)  
+\(-b = 4 \cdot 1\ \cdots | \cdot (-1)\)  
+\(b = -4\)  
+  
+③ Podstawienie wyznaczonych liczb do wzoru ogólnego funkcji kwadratowej  
+\(f(x) = 1x^2 - 4x - 12\)  
+  
+Odp: \(f(x) = x^2 - 4x - 12\).

@@ -1,0 +1,15 @@
+=== ARKUSZ: 2018p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Podstawą graniastosłupa prostego jest prostokąt o bokach długości 3 i 4. Kąt alpha, jaki przekątna tego graniastosłupa tworzy z jego podstawą, jest równy 45° (zobacz rysunek). Wysokość graniastosłupa jest równa A. 5 B. 3sqrt{2} C. 5sqrt{2} D. (5sqrt{3}) / 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 21. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąt między odcinkami i płaszczyznami (między krawędziami i ścianami, przekątnymi i ścianami), oblicza miary tych kątów (9.2).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C

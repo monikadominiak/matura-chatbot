@@ -1,0 +1,22 @@
+=== ARKUSZ: 2024p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0–1)
+Funkcje liniowe f oraz g, określone wzorami f(x) = 3x + 6 oraz g(x) = ax + 7, mają to samo miejsce zerowe.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Współczynnik a we wzorze funkcji g jest równy
+
+A. (−7/2)
+B. (−2/7)
+C. 2/7
+D. 7/2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

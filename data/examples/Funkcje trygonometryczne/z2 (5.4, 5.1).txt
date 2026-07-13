@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+z2 (5.4, 5.1)
+
+Wiedząc, że sin(6π + α) > 0 i cos(π + α) = 5/13, oblicz tgα.
+
+① Korzystamy z okresowości funkcji sinus.
+
+sin (6π + α) = sinα
+
+czyli sinα > 0
+
+② Korzystamy ze wzoru redukcyjnego
+
+cos(π + α) = cos(180° + α) = -cosα
+
+czyli -cosα = 5/13
+
+cosα = -5/13
+
+Wiemy, że sinα > 0 oraz cosα < 0. To oznacza, że kąt α znajduje się w drugiej ćwiartce układu współrzędnych.
+
+Dysponując wartością jednej funkcji trygonometrycznej oraz ćwiartką, można obliczyć pozostałe funkcje trygonometryczne ze związku między funkcjami.
+
+③ Korzystamy z jedynki trygonometrycznej.
+
+sin^2α + cos^2α = 1
+
+sin^2α + (-5/13)^2 = 1
+
+sin^2α = 144/169
+
+{ sinα = 12/13 v sinα = -12/13 => sinα = 12/13
+
+|sinα| > 0
+
+④ Obliczamy tgα
+
+tgα = sinα/cosα = 12/13 / -5/13 = -12/5
+
+Odp.: tgα = -12/5.

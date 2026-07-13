@@ -1,0 +1,24 @@
+=== ARKUSZ: 2024p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0–1)
+Dany jest trójkąt KLM, w którym |KM| = a, |LM| = b oraz a ≠ b. Dwusieczna kąta KML przecina bok KL w punkcie N takim, że |KN| = c, |NL| = d oraz |MN| = e (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+W trójkącie KLM prawdziwa jest równość
+
+A. a · b = c · d
+B. a · d = b · c
+C. a · c = b · d
+D. a · b = e · e
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

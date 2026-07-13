@@ -1,0 +1,15 @@
+=== ARKUSZ: 2022p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0-1)
+Punkty A, B, C leżą na okręgu o środku S. Punkt D jest punktem przecięcia cięciwy AC i średnicy okręgu poprowadzonej z punktu B. Miara kąta BSC jest równa a, a miara kąta ADB jest równa y (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wtedy kąt ABD ma miarę
+A. $frac{alpha}{2}+y-180^{circ}$
+B. $180^{circ}-frac{alpha}{2}-gamma$
+C. $180^{circ}-alpha-gamma$
+D. $alpha+gamma-180^{circ}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

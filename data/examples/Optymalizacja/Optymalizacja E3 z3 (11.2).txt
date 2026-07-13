@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Oblicz granicę
+
+\(\lim_{x \to -\infty} \frac{\sqrt{x^6+x^4+1}}{4x^3+2x^2+1}\)
+
+1️⃣ zaczynamy od wyciągnięcia przed nawias \(x\) we wspólnej potędze z licznika i mianownika
+
+\(\lim_{x \to -\infty} \frac{\sqrt{x^6+x^4+1}}{4x^3+2x^2+1} = \lim_{x \to -\infty} \frac{\sqrt{x^6(1+\frac{1}{x^2}+\frac{1}{x^6})}}{x^3(4+\frac{2}{x}+\frac{1}{x^3})}\)
+
+\(\sqrt[n]{ab} = \sqrt[n]{a} \cdot \sqrt[n]{b} \Rightarrow\)
+
+\(\sqrt{a^2} = |a|\)
+
+\(\lim_{x \to -\infty} \frac{|x^3|\sqrt{(1+\frac{1}{x^2}+\frac{1}{x^6})}}{x^3(4+\frac{2}{x}+\frac{1}{x^3})} = \lim_{x \to -\infty} \frac{|x^3| \cdot 1}{x^3 \cdot 4}\)
+
+2️⃣ opuszczamy wartość bezwzględną
+
+\(\lim_{x \to -\infty} \frac{|x^3| \cdot 1}{x^3 \cdot 4} = \lim_{x \to -\infty} \frac{-x^3 \cdot 1}{x^3 \cdot 4} = -\frac{1}{4}\)
+
+\(x^3 \to (-\infty)^3 = -\frac{\infty}{<0} \text{ zmieniamy znak}\)
+
+Odp: \(-\frac{1}{4}\)

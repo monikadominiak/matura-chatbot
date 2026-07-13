@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Oblicz granicę jednostronną \(\lim_{x \to 0^+} \frac{\sqrt{x} + x}{\sqrt{x} - x}\)
+
+① podstawiamy \(0\) do wzoru
+
+\[
+\lim_{x \to 0^+} \frac{\sqrt{x} + x}{\sqrt{x} - x} = [\frac{0}{0}]
+\]
+
+② usuwamy niewymierność
+
+\[
+\lim_{x \to 0^+} \frac{\sqrt{x} + x}{\sqrt{x} - x} \cdot \frac{\left(\sqrt{x} + x\right)}{\left(\sqrt{x} + x\right)} = \lim_{x \to 0^+} \frac{\left(\sqrt{x} + x\right)^2}{(\sqrt{x})^2 - x^2} =
+\]
+
+\[
+= \lim_{x \to 0^+} \frac{x + 2x\sqrt{x} + x^2}{x - x^2} =
+\]
+
+\[
+= \lim_{x \to 0^+} \frac{x(1 + 2\sqrt{x} + x)}{x(1 - x)} = \lim_{x \to 0^+} \frac{1 + 2\sqrt{x} + x}{1 - x} =
+\]
+
+\[
+= \frac{1 + 2\sqrt{0} + 0}{1 - 0} = 1
+\]
+
+\(\text{odp: } 1\)

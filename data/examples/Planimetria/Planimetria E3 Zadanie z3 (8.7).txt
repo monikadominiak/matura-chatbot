@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Zadanie z3 (8.7) Odległości środków dwóch okręgów od wierzchołka kąta α są równe odpowiednio 8 i 12. Okręgi te są styczne zewnętrznie i każdy z nich jest styczny do obu ramion kąta α. Oblicz długości ich promieni.
+
+1) Wyznaczamy zależność między promieniami obu okręgów za pomocą podobieństwa trójkątów:
+
+Trójkąty ABO_1 i ACO_2 są podobne.
+
+ΔABO_1 ~ ΔACO_2 (kkk)
+
+\[
+\frac{r_1}{|AO_1|} = \frac{r_2}{|AO_2|}
+\]
+
+\[
+\frac{r_1}{8} = \frac{r_2}{12} \implies r_2 = \frac{3}{2}r_1
+\]
+
+|O_2O_1| = 12 - 8 = 4
+
+oraz
+
+|O_2O_1| = r_2 + r_1 = \frac{5}{2}r_1
+
+\[
+\frac{5}{2}r_1 = 4 \implies r_1 = \frac{8}{5} \implies r_2 = \frac{12}{5}
+\]
+
+Odp. r_1 = \frac{8}{5}, r_2 = \frac{12}{5}.

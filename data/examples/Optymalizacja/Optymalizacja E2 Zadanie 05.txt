@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Napisz równanie stycznej m do wykresu funkcji f, która jest prostopadła do prostej k, gdy: f(x) = \frac{1}{x^4} \quad k: y = -\frac{1}{4}x + 10.
+
+1️⃣ zauważamy, że współczynnik kierunkowy stycznej m musi być równy 4, bo m \perp k
+
+-\frac{1}{4} \cdot 4 = -1 \quad (ak: am = -1)
+
+f'(x_0) = am = 4
+
+2️⃣ liczymy pochodną funkcji f
+
+f(x) = \frac{1}{x^4} = x^{-4}
+
+f'(x) = -4x^{-5} = -\frac{4}{x^5}
+
+UWAGA:
+nie stosujemy bezpośrednio wzoru na f' dla f(x) = \frac{a}{x}, działa on na tej samej zasadzie co rozwiązanie po lewej 
+
+\frac{a}{x} = a \cdot x^{-1} \Rightarrow a \cdot (-1) \cdot x^{-1-1} = -a \cdot x^{-2} = -\frac{a}{x^2}
+
+3️⃣ korzystamy z faktu, że f'(x_0)=4
+
+\frac{-4}{x_0^5} = 4
+
+-4 = 4x_0^5
+
+x_0^5 = -1 \Rightarrow x_0 = -1
+
+4️⃣ wyznaczamy y_0 i równanie stycznej
+
+y_0 = f(-1) = \frac{1}{(-1)^4} = 1 \quad P(-1,1)
+
+m: y = 4x + b, więc 
+
+1 = -4 + b \Rightarrow b = 5
+
+odp: m: y = 4x + 5

@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Zad. 24 W trapez prostokątny wpisano okrąg. Punkt styczności okręgu z dłuższym ramieniem dzieli to ramię na odcinki długości 6 i 24. Oblicz obwód trapezu.
+
+1) Tworzymy rysunek poglądowy:
+
+korzystając z tw. o odcinkach stycznych możemy od razu wyznaczyć odcinki AE, EB, DF, FC, DG oraz AG.
+
+2) Korzystamy z tw. Talesa:
+
+dorysowujemy do końca trójkąt prostokątny EBH.
+
+z tw. Talesa dla ΔEBH i ΔCFH:
+
+|EB| |HB|   24  x+30
+---- ---- = -- = ---- 
+|FC| |HC|    6   x    
+
+24x = 6x + 180  
+18x = 180  
+x = 10
+
+z tw. Pitagorasa:
+
+y^2 + 6^2 = 10^2  
+y = sqrt(100-36) = sqrt(64) = 8
+
+Takie samo równanie uzyskamy stosując podobieństwo tych trójkątów, ponieważ tw. Talesa jest właściwie szczególnym przypadkiem podobieństwa trójkątów.
+
+3) Korzystamy z Tw. Talesa ponownie, żeby wyznaczyć r:
+
+|EB| |FC|
+---- ----
+|EH| |FH|
+
+24
+-- = 6  
+2x+8 8  
+
+4xr + 48 = 192  
+4xr = 144 / : 4r = 12   
+r = 12
+
+4) Wyznaczamy obwód:
+
+Ob = r + r + r + r + 6 + 6 + 24 + 24 = 4r + 60 = 108
+
+Odp. 108.

@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Udowodnij, że w trapezie, który ma dwa kąty ostre przy jednej z podstaw, suma kwadratów przekątnych równa jest sumie podwojonego iloczynu dwóch boków równoległych i kwadratów pozostałych boków.
+
+① tworzymy rysunek poglądowy
+
+|AC| = e
+
+|DB| = f
+
+② zapisujemy tezę za pomocą wprowadzonych oznaczeń
+
+e^2 + f^2 = 2⋅b(a+b+c) + x^2 + y^2
+
+③ zapisujemy dwa równania z tw. Pitagorasa
+
+w ΔACE e^2 = h^2 + (a+b)^2
+
+w ΔDFB f^2 = h^2 + (b+c)^2
+
+④ z tw. Pitagorasa możemy również uzyskać h^2
+
+h^2 = x^2 - a^2 = y^2 - c^2
+
+⑤ podstawiamy odpowiednie h^2 do równań ③
+
+e^2 = x^2 - a^2 + a^2 + 2ab + b^2
+
++ f^2 = y^2 - c^2 + b^2 + 2ac + c^2 
+
+e^2 + f^2 = x^2 + 2ab + b^2 + y^2 + b^2 + 2ac 
+
+= 2b(a+b+c) + x^2 + y^2
+
+c.k.d.

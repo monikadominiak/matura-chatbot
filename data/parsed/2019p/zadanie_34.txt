@@ -1,0 +1,14 @@
+=== ARKUSZ: 2019p | ZADANIE 34 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 34. (0–5)
+Długość krawędzi podstawy ostrosłupa prawidłowego czworokątnego jest równa 6. Pole powierzchni całkowitej tego ostrosłupa jest cztery razy większe od pola jego podstawy. Kąt alpha jest kątem nachylenia krawędzi bocznej tego ostrosłupa do płaszczyzny podstawy (zobacz rysunek). Oblicz cosinus kąta alpha. 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

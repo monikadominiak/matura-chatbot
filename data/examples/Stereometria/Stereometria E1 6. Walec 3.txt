@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Przekątna przekroju osiowego walca ma długość 20 cm i tworzy z jego podstawą kąt α. 
+Oblicz pole powierzchni całkowitej tego walca, jeśli tgα = \(\frac{4}{5}\).
+
+1) sporządzamy rysunek pomocniczy
+
+2) wykorzystujemy informacje, że tgα = \(\frac{4}{5}\)
+
+\(tgα = \frac{H}{d} = \frac{4}{5}\)
+
+\(5H = 4d \Rightarrow H = \frac{4}{5}d\)
+
+3) układamy równanie z tw. Pitagorasa, żeby policzyć d,
+a następnie H i r
+
+\(d^2 + H^2 = 20^2\)
+
+\(d^2 + \frac{16}{25}d^2 = 400\)
+
+\(\frac{41}{25}d^2 = 400\)
+
+\(d^2 = \frac{10000}{41} \Rightarrow d = \frac{100\sqrt{41}}{41}\)
+
+podstawiamy wyliczone d
+
+\(2r = d\) so \(r = \frac{100\sqrt{41}}{41} \cdot \frac{1}{2} = \frac{50\sqrt{41}}{41}\)
+
+\(H = \frac{4}{5}d = \frac{4}{5} \cdot \frac{100\sqrt{41}}{41} = \frac{80\sqrt{41}}{41}\)
+
+4) obliczamy pole powierzchni całkowitej
+
+\(P_c = 2P_o + P_b = 2\pi r^2 + 2\pi r \cdot H =\)
+
+\(= 2\pi \left(\frac{50\sqrt{41}}{41}\right)^2 + 2\pi \left(\frac{50\sqrt{41}}{41}\right)\left(\frac{80\sqrt{41}}{41}\right) =\)
+
+\(= \frac{5000}{41}\pi + \frac{8000}{41}\pi = \frac{13000}{41}\pi\ [cm^2]\)
+
+Odp: \(P_c = \frac{13000}{41} \pi\ cm^2\)

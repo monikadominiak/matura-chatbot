@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+2. Przesuwanie wykresu f. wymiernej 3
+
+Podaj równania osi symetrii i współrzędne środka symetrii hiperboli o równaniu:
+
+a) \( y = \frac{5}{x+1} + 3 \)
+b) \( y = \frac{-1}{x-7} + 8 \)
+
+Środek symetrii to punkt przecięcia się asympot. Przez ten punkt przechodzą obie osie symetrii. Osie symetrii hiperboli to funkcje liniowe o współczynnikach kierunkowych a=1 oraz a=-1.
+
+a) ① Wyznaczamy asymptoty \( y = \frac{5}{x+1} + 3 \).
+
+Asymptota pionowa: \( x = -1 \)
+
+Asymptota pozioma: \( y = 3 \)
+
+Zatem środek symetrii to punkt \( S(-1, 3) \)
+
+② Wyznaczamy pierwszą oś symetrii.
+
+\( y = x + b_1 \)
+
+\( 3 = -1 + b_1 \)
+
+\( b_1 = 4 \)
+
+\( y = x + 4 \)
+
+③ Wyznaczamy drugą oś symetrii.
+
+\( y = -x + b_2 \)
+
+\( 3 = 1 + b_2 \)
+
+\( b_2 = 2 \)
+
+\( y = -x + 2 \)
+
+Odp.: Punkt środka symetrii: \( S(-1, 3) \); równania osi symetrii:
+\( y = x + 4 \), \( y = -x + 2 \).
+
+--- STRONA 2 ---
+b) ① Wyznaczamy asymptoty y = -1/(x-7) + 8,  
+Asymptota pionowa : x = 7  
+Asymptota pozioma: y = 8  
+
+Zatem środek symetrii to punkt S(7,8)  
+
+② Wyznaczamy pierwszą oś symetrii.  
+
+y = x + b₁  
+8 = 7 + b₁  
+b₁ = 1  
+y = x + 1  
+
+③ Wyznaczamy drugą oś symetrii.  
+
+y = -x + b₂  
+8 = -7 + b₂  
+b₂ = 15  
+y = -x + 15  
+
+Odp.: Punkt środka symetrii : S(7,8) ; równania osi symetrii:  
+
+y = x + 1 , y = -x + 15.

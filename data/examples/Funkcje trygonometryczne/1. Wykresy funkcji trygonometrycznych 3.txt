@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+1. Wykresy funkcji sinus i cosinus 3  
+Zbadaj parzystość funkcji f.  
+
+a) \( f(x) = \sin x \cos x \)  
+b) \( f(x) = \frac{\sin x + 1}{x} \)  
+c) \( f(x) = -x^2 \cos x \)  
+
+Funkcja jest nieparzysta gdy \( f(-x) = -f(x) \).  
+Funkcja jest parzysta gdy \( f(x) = f(-x) \).  
+
+a) ① Sprawdzamy parzystość funkcji \( f(x) \).  
+
+\( f(x) = \sin x \cos x \)  
+
+\( f(-x) = \sin(-x) \cos(-x) = -\sin x \cos x \)  
+
+\(-f(x) = -\sin x \cos x\)  
+
+Zachodzi \( f(-x) = -f(x) \), więc funkcja jest nieparzysta.  
+Nie zachodzi \( f(x) = f(-x) \), więc funkcja nie jest parzysta.  
+
+Odp.: Funkcja \( f(x) = \sin x \cos x \) jest nieparzysta.  
+
+b) ① Sprawdzamy parzystość funkcji \( f(x) \).  
+
+\( f(x) = \frac{\sin x + 1}{x} \)  
+
+\( f(-x) = \frac{\sin(-x) + 1}{-x} = \frac{-\sin x + 1}{-x} = \frac{\sin x - 1}{x} \)  
+
+\(-f(x) = \frac{-\sin x - 1}{x} \)  
+
+Nie zachodzi \( f(-x) = -f(x) \), więc funkcja nie jest nieparzysta.  
+Nie zachodzi \( f(x) = f(-x) \), więc funkcja nie jest parzysta.  
+
+Odp.: Funkcja \( f(x) = \frac{\sin x + 1}{x} \) nie jest ani parzysta ani nieparzysta.
+
+--- STRONA 2 ---
+c) ➊ Sprawdzamy parzystość funkcji f(x).
+
+f(x) = -x^2 \cos x
+
+f(-x) = (-x)^2 \cos (-x) = -x^2 \cos x
+
+-f(x) = -(-x^2 \cos x) = x^2 \cos x
+
+Nie zachodzi f(-x) = -f(x), więc funkcja nie jest nieparzysta.
+
+Zachodzi f(x) = f(-x), więc funkcja jest parzysta.
+
+Odp. Funkcja f(x) = -x^2 \cos x jest parzysta.

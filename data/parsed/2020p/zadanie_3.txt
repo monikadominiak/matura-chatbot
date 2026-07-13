@@ -1,0 +1,16 @@
+=== ARKUSZ: 2020p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Liczba $log_{5}sqrt{125}$ jest równa
+A. $frac{2}{3}$
+B. 2
+C. 3
+D. $frac{3}{2}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 3. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).
+Poprawna odpowiedź: Wersja X: D; Wersja Y: B

@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Zadanie 21
+
+W chwili początkowej (t = 0) zainicjowano pewną reakcję chemiczną, w której brał udział związek Z.
+
+W wyniku tej reakcji masa m związku Z zmieniała się w czasie zgodnie z zależnością
+
+m(t) = c · 5^{-0,02t} + d dla t ≥ 0
+
+gdzie:
+
+m – masa związku Z wyrażona w gramach,
+
+t – czas wyrażony w sekundach (liczony w chwili t=0)
+
+c, d – współczynniki liczbowe
+
+Masa początkowa Z (tj. masa w chwili t=0) była równa m_0 gramów.
+
+Po osiągnięciu stanu równowagi (tj. gdy t → ∞) masa tego związku była równa \(\frac{1}{6}\) jego masy początkowej.
+
+Oblicz, po ilu sekundach (licząc od chwili zainicjowania tej reakcji) przereagowało 80% masy początkowej tego związku. Zapisz obliczenia.
+
+① Obliczamy granicę, gdy t → ∞.
+
+lim_{t→∞} c · 5^{-0,02t} + d = \(\frac{1}{6}\) m_0
+
+lim_{t→∞} c · \(\left(\frac{1}{5}\right)^{0,02t}\) + d = \(\frac{1}{6}\) m_0
+
+d = \(\frac{1}{6}\) m_0
+
+② Wykorzystujemy informacje m(0) = m_0.
+
+m(0) = c · 5^{-0,02·0} + \(\frac{1}{6}\) m_0
+
+m_0 = c + \(\frac{1}{6}\) m_0
+
+c = \(\frac{5}{6}\) m_0
+
+--- STRONA 2 ---
+\( 3) \) Obliczymy po ilu sekundach przereagowało \( 80\% \) masy początkowej.
+
+Czyli zostało \( 20\% \ m_o = \frac{1}{5} \ m_o \).
+
+\[
+\frac{1}{5} \ m_o = \frac{5}{6} \ m_o \cdot 5^{-0,02t} + \frac{1}{6} \ m_o 
+\]
+
+\[
+\frac{6}{30} \ m_o - \frac{5}{30} \ m_o = \frac{5}{6} \ m_o \cdot 5^{-0,02t}
+\]
+
+\[
+\frac{1}{30} \ m_o \cdot \frac{6}{5} = m_o \cdot 5^{-0,02t} \ / : m_o
+\]
+
+\[
+\frac{1}{25} = \left(\frac{1}{5}\right)^{0,02t}
+\]
+
+\[
+\left(\frac{1}{5}\right)^2 = \left(\frac{1}{5}\right)^{0,02t}
+\]
+
+\[
+2 = 0,02t
+\]
+
+\( t = 100 \)
+
+Odp.: \( 80\% \) masy początkowej przereagowało po \( 100 \) sekundach.

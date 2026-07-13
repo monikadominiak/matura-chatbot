@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+Zawodnikom przydzielono kolejne numery od 1 do n. Najpierw rozdano numery parzyste, po czym okazało się, że numery nieparzyste można przydzielić na 720 sposobów. Ilu jest zawodników?
+
+numery od 1 do n
+
+(1) 720 sposobów przydziału numerów nieparzystych
+
+zastanowimy się nad przydziałem numerów nieparzystych od końca
+
+korzystamy z reguły mnożenia
+
+zawodnik 1 od końca ma 1 możliwość
+
+1
+
+1 · 2 drugi od końca ma 2 możliwości
+
+1 · 2 · 3 = 6 trzeci ma 3 możliwości
+
+...
+
+1 · 2 · 3 · 4 · 5 · 6 = 720,
+
+więc numerów nieparzystych było 6
+
+(2) Ile było numerów parzystych?
+Ile zawodników?
+
+szóstą liczbą nieparzystą jest 11,
+
+parzystych musi być tyle samo, co nieparzystych (6), lub o 1 mniej (5)
+
+Odp: 11 lub 12 zawodników

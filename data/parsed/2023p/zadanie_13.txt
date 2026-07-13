@@ -1,0 +1,33 @@
+=== ARKUSZ: 2023p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0–1)
+Funkcja liniowa $f$ jest określona wzorem $f(x) = ax + b$, gdzie $a$ i $b$ są pewnymi liczbami rzeczywistymi. Na rysunku obok przedstawiono fragment wykresu funkcji $f$ w kartezjańskim układzie współrzędnych (x, y).
+[Zadanie zawiera obrazek ważny dla rozwiązania.]
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba $a$ oraz liczba $b$ we wzorze funkcji $f$ spełniają warunki:
+A. $a &gt; 0$ i $b &gt; 0$.
+B. $a &gt; 0$ i $b &lt; 0$.
+C. $a  0$.
+D. $a &lt; 0$ i $b 0$ i $H&gt;0$.
+Ponieważ O jest punktem przecięcia przekątnych kwadratu, to $|OE|=frac{1}{2}a$.
+W trójkącie prostokątnym SOE mamy
+$$sin 30^circ = frac{|SO|}{|SE|} = frac{H}{6}$$
+Zatem
+$$H = 6 cdot sin 30^circ = 6 cdot frac{1}{2} = 3$$
+Ponadto
+$$cos 30^circ = frac{|OE|}{|SE|} = frac{frac{1}{2}a}{6} = frac{a}{12}$$
+Stąd
+$$a = 12 cdot cos 30^circ = 12 cdot frac{sqrt{3}}{2} = 6sqrt{3}$$
+Obliczamy objętość $V$ ostrosłupa:
+$$V = frac{1}{3} cdot (6sqrt{3})^2 cdot 3 = 108$$
+Obliczamy pole powierzchni całkowitej $P_c$ ostrosłupa:
+$$P_c = (6sqrt{3})^2 + 4 cdot frac{1}{2} cdot 6sqrt{3} cdot 6 = 108+72sqrt{3}$$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

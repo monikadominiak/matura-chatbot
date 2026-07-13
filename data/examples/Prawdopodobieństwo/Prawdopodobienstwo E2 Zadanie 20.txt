@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Ze zbioru {1,2,3,4,5,6,7} losujemy jednocześnie trzy liczby. Oblicz prawdopodobieństwo zdarzenia, że iloczyn wylosowanych liczb będzie liczbą parzystą
+
+① analizujemy polecenie
+
+zbiór {1,2,3,4,5,6,7} → 7-elementowy
+
+losujemy 3 liczby jednocześnie
+
+iloczyn parzysty ⇒ co najmniej 1 parzysta - A
+
+A' - trzy nieparzyste
+
+② \(|\overline{\Omega}| = \binom{7}{3} = \frac{7!}{3! \cdot 4!} = 35\)
+
+③ \(|A'| = \binom{4}{3} = 4\)
+
+④ liczymy P(A) poprzez zdarzenie przeciwne
+
+\(P(A) = 1 - P(A') = 1 - \frac{4}{35} = \frac{31}{35}\)
+
+Odp: \(\frac{31}{35}\)

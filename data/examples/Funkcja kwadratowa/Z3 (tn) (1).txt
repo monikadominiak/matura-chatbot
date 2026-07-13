@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+z3 (tn)
+
+Funkcja kwadratowa h, której miejscami zerowymi są liczby -1 i 2, dla argumentu 1 przyjmuje wartość 6, wyznacz wzór funkcji h.
+
+Aby wyznaczyć wzór funkcji h, wykorzystamy informacje o miejscach zerowych. Skorzystamy z postaci iloczynowej funkcji kwadratowej.
+
+f(x) = a(x-x_1)(x-x_2)
+
+tutaj: x_1 = -1 x_2 = 2
+
+h(x) = a(x-(-1))(x-2)
+
+h(x) = a(x+1)(x-2)
+
+W treści zadania występuje informacja, że „dla argumentu 1 przyjmuje wartość 6”, dzięki temu obliczymy brakującą wartość „a”.
+
+P(1, 6)
+  x   y
+6 = a(1+1)(1-2)
+6 = a * 2 * (-1)
+6 = -2a |:(-2)
+a = -3
+
+Ostatecznie: h(x) = -3(x+1)(x-2)
+
+Odp: h(x) = -3(x+1)(x-2)

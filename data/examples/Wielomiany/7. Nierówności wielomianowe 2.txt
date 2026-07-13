@@ -1,0 +1,84 @@
+
+--- STRONA 1 ---
+7. Nierówności wielomianowe 2  
+Wyznacz dziedzinę funkcji f.  
+a) \( f(x) = \sqrt{x^4 - 2x^2 + 1} \)  
+b) \( f(x) = \sqrt{x^4 - 8x} + \sqrt{x - x^3} \)  
+c) \( f(x) = \frac{1}{\sqrt{x^4 - 4x^2 + 1}} + \sqrt{x^3 - 4x^2 - 5x} \)  
+
+a) \( f(x) = \sqrt{x^4 - 2x^2 + 1} \)  
+\[ \leftarrow \text{Pierwiastek kwadratowy wyrażenia nie może być liczbą ujemną} \]
+
+Zatem:  
+\( x^4 - 2x^2 + 1 \geq 0 \)  
+\( (x^2 - 1)^2 \geq 0 \)  
+\[ \leftarrow (a-b)^2 = a^2 - 2ab + b^2 \]  
+\[ \leftarrow \text{Możemy też podstawiać parametr pomocniczy 't', lub korzystać z twierdzenia o pierwiastkach wymiernych.} \]
+
+Kwadrat dowolnego wyrażenia jest zawsze nieujemny  
+Nierówność jest spełniona dla \( x \in \mathbb{R} \)  
+
+Odp: \( x \in \mathbb{R} \).
+
+b) \( f(x) = \sqrt{x^4 - 8x} + \sqrt{x - x^3} \)  
+Założenia:  
+1) \( x^4 - 8x \geq 0 \)  
+\( x(x^3 - 8) \geq 0 \)  
+
+2) \( x - x^3 \geq 0 \)  
+\( x(1-x^2) \geq 0 \)  
+\[ \text{oba pierwiastki nie mogą być liczbą ujemną - dla założenia} \]
+
+\( x(x^3 - 8) \geq 0 \)  
+\( x_1 = 0 \quad x^3 - 8 = 0 \)  
+\( x^3 = 8 \)  
+\( x_2 = 2 \)  
+
+\( x \in (-\infty;0\rangle \cup \langle 2;\infty) \)  
+
+\( x(1-x^2) \geq 0 \)  
+\( x = 0 \quad 1-x^2 = 0 \)  
+\( x^2 = 1 \)  
+\( x = 1 \vee x = -1 \)  
+
+\( x \in (-\infty;-1\rangle \cup \langle 0;1\rangle \)  
+
+część wspólna obu założeń:  
+\( x \in (-\infty;-1\rangle \cup \{0\} \)  
+
+Odp: \( x \in (-\infty;-1\rangle \cup \{0\} \).
+
+c) \( f(x) = \frac{1}{\sqrt{x^4 - 4x^2 + 1}} + \sqrt{x^3 - 4x^2 - 5x} \)  
+\[ \leftarrow \text{pierwiastek w mianowniku nie może być równy zero !} \]
+\[ \leftarrow (a-b)^2 = a^2 - 2ab + b^2 \]
+
+1)  
+\( 4x^4 - 4x^2 + 1 > 0 \)  
+\( (2x^2 - 1)^2 > 0 \)  
+\( 2x^2 - 1 \neq 0 \)  
+\( x^2 \neq \frac{1}{2} \)  
+
+\[ x \ne \pm \frac{\sqrt{2}}{2} \Rightarrow x \in \mathbb{R} \setminus \left\{ -\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2} \right\} \]
+
+--- STRONA 2 ---
+2) x^3 - 4x^2 - 5x > 0  
+x(x^2 - 4x - 5) ≥ 0  
+
+x_1 = 0  
+
+x^2 - 4x - 5 = 0  
+Δ = b^2 - 4ac  
+x_1 = \frac{-b - \sqrt{Δ}}{2a}  
+x_2 = \frac{-b + \sqrt{Δ}}{2a}  
+
+Δ = 16 + 20 = 36  
+\sqrt{Δ} = 6  
+x_2 = \frac{4 - 6}{2} = -1  
+x_2 = \frac{4 + 6}{2} = 5  
+
+x ∈ <-1; 0) ∪ <5; ∞)  
+
+część wspólna obu warunków:  
+x ∈ <-1; -\frac{\sqrt{2}}{2}) ∪ (-\frac{\sqrt{2}}{2}; 0> ∪ <5; ∞)  
+
+Odp: x ∈ <-1; -\frac{\sqrt{2}}{2}) ∪ (-\frac{\sqrt{2}}{2}; 0> ∪ <5; ∞).

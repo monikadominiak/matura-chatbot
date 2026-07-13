@@ -1,0 +1,14 @@
+=== ARKUSZ: 2015p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0-1)
+Pole rombu o obwodzie 8 jest równe 1. Kąt ostry tego rombu ma miarę alfa. Wtedy
+A. 14 stopni &lt; alfa &lt; 15 stopni
+B. 29 stopni &lt; alfa &lt; 30 stopni
+C. 60 stopni &lt; alfa &lt; 61 stopni
+D. 75 stopni &lt; alfa  (x + 3)(x - 2).
+Odpowiedź: ................................................................................................................................ .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 17. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych, w tym ze wzoru na pole trójkąta ostrokątnego o danych dwóch bokach i kącie między nimi (7.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

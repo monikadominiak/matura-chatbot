@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+2. Wykresy funkcji tangens 2
+
+Oblicz sumę pierwiastków równania należących do przedziału \([0, 4\pi]\).
+
+a) \(\operatorname{tg}x = 0\) \hspace{5mm} b) \(\operatorname{tg}x = -\frac{\sqrt{3}}{3}\) \hspace{5mm} c) \(\operatorname{tg}x = 1\)
+
+a) \(\operatorname{tg}x = 0\), \(x \epsilon [0, 4\pi]\)
+
+① Szkicujemy wykres funkcji \(\operatorname{tg}x\).
+
+(Wykres)
+
+② Odczytujemy rozwiązania \(\operatorname{tg}x = 0\) korzystając z wykresu.
+
+\(x = k\pi, \hspace{5mm} k \epsilon \mathbb{Z} \land x \epsilon [0, 4\pi]\)
+
+czyli \(x \epsilon \{0, \pi, 2\pi, 3\pi, 4\pi\}\)
+
+③ Obliczamy sumę rozwiązań.
+
+\(0 + \pi + 2\pi + 3\pi + 4\pi = 10\pi\)
+
+\(\text{Odp.: Suma: } 10\pi.\)
+
+--- STRONA 2 ---
+b) \[ \text{tg}x = -\frac{\sqrt{3}}{3}, \, x \in [0, 4\pi] \]
+
+1️⃣ Szkicujemy wykres funkcji tgx.
+
+\[ y = \text{tg}x \]
+
+2️⃣ Odczytujemy rozwiązania \[ \text{tg}x = \frac{\sqrt{3}}{3} \] korzystając z wykresu.
+
+\[ x = -\frac{\pi}{6} + k\pi \quad k \in \mathbb{Z} \land x \in [0, 4\pi] \]
+
+czyli \[ x \in \left \{ \frac{5\pi}{6}, \frac{11\pi}{6}, \frac{17\pi}{6}, \frac{23\pi}{6} \right \} \]
+
+3️⃣ Obliczamy sumę rozwiązań.
+
+\[ \frac{5\pi}{6} + \frac{11\pi}{6} + \frac{17\pi}{6} + \frac{23\pi}{6} = \frac{56\pi}{6} = \frac{28\pi}{3} \]
+
+Odp.: \[ \text{Suma: } \frac{28\pi}{3}. \]
+
+--- STRONA 3 ---
+c) tgx = 1, x ∈ (0, 4π]
+
+① Szkicujemy wykres funkcji tgx.
+
+② Odczytujemy rozwiązania tgx = 1 korzystając z wykresu.
+
+x = π/4 + kπ, k ∈ Z ∧ x ∈ (0, 4π]
+
+czyli x ∈ {π/4, 5π/4, 9π/4, 13π/4}
+
+③ Obliczamy sumę rozwiązań.
+
+π/4 + 5π/4 + 9π/4 + 13π/4 = 28π/4 = 7π
+
+Odp.: Suma: 7π.

@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Zadanie 13
+
+Rozwiąż równanie sin 3x + cos 3x = sqrt{2}.
+
+Będziemy korzystać ze wzorów na funkcje sumy i różnicy kątów.
+sin(α+β) = sinαcosβ + cosαsinβ
+cos(α+β) = cosαcosβ - sinαsinβ
+sin(α-β) = sinαcosβ - cosαsinβ
+cos(α-β) = cosαcosβ + sinαsinβ
+
+① Mnożymy obie strony przez sqrt{2} / 2.
+
+Ponieważ sin x = cos x = sqrt{2} / 2 dla x = π / 4.
+
+sin 3x + cos 3x = sqrt{2}  |⋅ sqrt{2} / 2
+
+sqrt{2} / 2 sin 3x + sqrt{2} / 2 cos 3x = 1 
+
+cos π / 4 sin 3x + sin π / 4 cos 3x = 1
+
+② Korzystamy ze wzoru sin(α+β) = sinαcosβ + cosαsinβ.
+
+sin 3x cos π / 4 + sin π / 4 cos 3x = 1
+
+sin (3x + π / 4) = 1
+
+③ Rozwiązujemy równanie.
+
+3x + π / 4 = π / 2 + 2kπ
+
+3x = π / 4 + 2kπ  / :3
+
+x = π / 12 + 2kπ / 3 , k ∈ Z
+
+Odp.: x = π / 12 + 2kπ / 3 , k ∈ Z.
+
+--- STRONA 2 ---
+II sposób
+
+\(\sin 3x + \cos 3x = \sqrt{2}\)
+
+1️⃣ Zamieniamy \(\cos 3x\) na sinusa.
+
+Korzystamy ze wzoru redukcyjnego \(\cos \alpha = \sin \left(\frac{\pi}{2} + \alpha \right)\).
+
+\(\sin 3x + \cos 3x = \sqrt{2}\)
+
+\(\sin 3x + \sin \left(\frac{\pi}{2} + 3x\right) = \sqrt{2}\)
+
+2️⃣ Korzystamy ze wzoru na sumę sinusów.
+
+\(\sin \alpha + \sin \beta = 2 \sin \frac{\alpha + \beta}{2} \cos \frac{\alpha - \beta}{2}\).
+
+\(2 \sin \frac{3x + \frac{\pi}{2} + 3x}{2} \cos \frac{3x - \frac{\pi}{2} - 3x}{2} = \sqrt{2}\)
+
+\(2 \sin \left(3x + \frac{\pi}{4}\right) \cos \left(- \frac{\pi}{4}\right) = \sqrt{2}\)
+
+\(2 \sin \left(3x + \frac{\pi}{4}\right) \cdot \frac{\sqrt{2}}{2} = \sqrt{2} \quad /:\sqrt{2}\)
+
+\(\sin \left(3x + \frac{\pi}{4}\right) = 1\)
+
+3️⃣ Rozwiązujemy równanie.
+
+\(3x + \frac{\pi}{4} = \frac{\pi}{2} + 2k\pi\)
+
+\(3x = \frac{\pi}{4} + 2k\pi /:3\)
+
+\(x = \frac{\pi}{12} + \frac{2k\pi}{3}, \, k \in \mathbb{Z}\)
+
+Odp.: \(x = \frac{\pi}{12} + \frac{2k\pi}{3}, \, k \in \mathbb{Z}\)

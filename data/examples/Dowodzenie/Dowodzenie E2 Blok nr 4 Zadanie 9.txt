@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Na bokach \( AC \) i \( BC \) trójkąta \( ABC \) zaznaczono odpowiednio punkt \( D \) i punkt \( E \) tak, że \(|AD| = 2|DC| \) oraz \(|CE| : |EB| = 1 : 2 \). Wiadomo, że \(|AE| = 16\), \(|BD| = 12\) i \(|DE| = 5\). Wykaż, że odcinki \(AE\) i \(BD\) są do siebie prostopadłe.
+
+\( \bigcirc \) tworzymy rysunek poglądowy
+
+\(|AE| = 16\)
+
+\(|BD| = 12\)
+
+\(|DE| = 5\)
+
+\( \bigcirc \) wprowadzamy oznaczenia na rysunku
+
+\( \bigcirc \) z tw. odwrotnego do tw. Talesa:
+
+\(|DE| \parallel |AB| \)
+
+wtedy \(\triangle CDE \sim \triangle ACB \ \ w \ \ skali \ \ k=\dfrac{x}{3x} = \dfrac{1}{3} \)
+
+\(\Rightarrow |AB| = 15\)
+
+odcinki równoległe \(|AB|\) i \(|DE|\) tworzą kąty naprzemianległe
+
+\( \bigcirc \) z cechy kkk \ \ \(\triangle DEP \sim \triangle APB \ \ w \ \ skali = \dfrac{1}{3} \)
+
+więc \(|DP|=3 \ \ i \ \ |PB|=9 \)
+
+oraz \(|PE|=4 \ \ i \ \ |PA|=12 \)
+
+\( \bigcirc \) w \ \ \(\triangle DEP\)
+
+\[
+\begin{array}{ccc}
+   & & E \\
+   & s & \\
+   D & \longrightarrow & P \\
+   & 3 & 4 \\
+\end{array}
+\]
+
+tw. Pitagorasa:
+
+\(3^2 + 4^2 = 9 + 16 = 25 = 5^2 \)
+
+zatem \(\angle DPE = 90^\circ \)
+
+c.k.d.

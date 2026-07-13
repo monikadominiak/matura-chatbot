@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+5. Sumy początkowych wyrazów 2  
+Oblicz sumę wszystkich liczb dwucyfrowych nieparzystych.
+
+Te liczby to: {11, 13, 15, ..., 97, 99}.  
+Tworzą ciąg arytmetyczny.  
+Aby obliczyć sumę należy najpierw dowiedzieć się, ile ten ciąg ma wyrazów - ze wzoru na n-ty wyraz.  
+a_n = a_1 + (n-1)r  
+
+1️⃣ Obliczamy n.  
+
+99 = 11 + (n-1)⋅2  
+88 = (n-1)⋅2  ⟹ :2  
+n-1 = 44  
+n = 45  
+
+2️⃣ Obliczamy S_{45}.  
+S_n = (a_1 + a_n)/2 ⋅ n  
+
+S_{45} = (11+99)/2 ⋅ 45 = 2475  
+
+Odp.: S_{45} = 2475.

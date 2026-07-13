@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Suma wszystkich pierwiastków równania (x + 3)(x + 7)(x - 11) = 0 jest równa
+A. -1
+B. 21
+C. 1
+D. -21
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 6. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

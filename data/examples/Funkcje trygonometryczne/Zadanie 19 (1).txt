@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Zadanie 19
+
+Rozwiąż równanie sin^4 x - cos^4 x = sin 4x.
+
+1️⃣ Korzystamy ze wzoru skróconego mnożenia.
+
+a^2 - b^2 = (a+b)(a-b).
+
+sin^4 x - cos^4 x = sin 4x
+
+(sin^2 x - cos^2 x)(sin^2 x + cos^2 x) = sin 4x
+
+2️⃣ Korzystamy z tożsamości trygonometrycznej.
+
+sin^2 x - cos^2 x = sin 4x
+
+3️⃣ Korzystamy ze wzoru na cosinusa podwojonego kąta.
+
+cos 2α = cos^2 α - sin^2 α,
+
+− cos 2x = sin 4x
+
+sin 4x + cos 2x = 0
+
+4️⃣ Korzystamy ze wzoru na sin 2x.
+
+sin 2α = 2 sin α cos α.
+
+2 sin 2x cos 2x + cos 2x = 0
+
+5️⃣ Wyciągamy wspólny czynnik przed nawias.
+
+cos 2x (2 sin 2x + 1) = 0
+
+6️⃣ Rozwiązujemy równanie.
+
+cos 2x = 0 ∨ sin 2x = -\frac{1}{2} \quad k ∈ ℤ
+
+2x = \frac{π}{2} + kπ /:2 \quad 2x = -\frac{π}{6} + 2kπ \quad 2x = -\frac{5π}{6} + 2kπ
+
+x = \frac{π}{4} + \frac{kπ}{2} \quad x = -\frac{π}{12} + kπ \quad x = -\frac{5π}{12} + kπ
+
+Odp.: x = \frac{π}{4} + \frac{kπ}{2}, x = -\frac{π}{12} + kπ, x = -\frac{5π}{12} + kπ, k ∈ ℤ.

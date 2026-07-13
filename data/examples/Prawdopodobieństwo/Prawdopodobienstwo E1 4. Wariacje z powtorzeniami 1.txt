@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Ile jest wszystkich liczb trzycyfrowych, w których zapisie nie ma cyfr 4 i 5?
+
+0,1,2,3,6,7,8,9 -> z powtórzeniami, 8 cyfr
+
+zapisujemy schematycznie liczbę 3-cyfrową
+
+będziemy korzystać z reguły mnożenia
+
+7 * 8 * 8 = 448
+
+na pierwszym miejscu nie może stać 0, bo nie będzie to już liczba 3-cyfrowa
+
+Odp: 448

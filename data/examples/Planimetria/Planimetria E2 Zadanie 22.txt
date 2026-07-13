@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zad. 22 Odcinek łączący środki ramion trapezu ma długość 8 cm. Wiedząc, że w ten trapez można wpisać okrąg, oblicz obwód trapezu.
+
+1) Korzystamy z tw. o odcinku łączącym środki trapezu:
+
+\[
+\frac{a+b}{2} = 8 
+\]
+
+\(a, b\) - podstawy trapezu
+
+\(a+b = 16\)
+
+\(c, d\) - ramiona trapezu
+
+
+2) Korzystamy z własności czworokąta opisanego na okręgu:
+
+\(a+b = c+d \Rightarrow c+d = 16\)
+
+
+3) Obliczamy obwód:
+
+\(Ob = a+b+c+d = 16+16=32 cm\)
+
+Odp. 32 cm.

@@ -1,0 +1,96 @@
+
+--- STRONA 1 ---
+Zadanie 23 (1h) Funkcja g określona jest wzorem g(x) = log₂(x² - 3x).
+
+a) Wyznacz dziedzinę funkcji g.
+b) Sporządź wykres funkcji, która każdej liczbie rzeczywistej m, przyporządkowuje liczbę rozwiązań równania g(x) = m.
+
+1) Wyznaczamy dziedzinę funkcji g:
+
+|x-1| > 0
+|x-3| > 0
+
+x ≠ 1
+x ≠ 3
+
+x ∈ R \ {-1,3}
+
+x ≤ 0:
+x² ≤ 3x
+x(x-3) ≤ 0
+x ∈ <0,3>
+
+x ≤ 3, x ≥ 0
+x ∈ <0,3>
+
+x ≥ 3:
+x² ≥ 3x
+x(x-3) ≥ 0
+x ∈ (-∞,0> ∪ <3,+∞)
+
+x ∈ R \ {-1,3}
+
+x(x-3) ≠ 0
+x ε R \ {-1,3}
+
+Tylko, że xεR \ {-1,3}
+
+Zatem x R \ {-1,3}
+
+2) Teoretyczny wykres do zadań domowych:
+
+Właściwa strona, czyje trudne zastosować kiedy rozwiążemy te zadania od przejścia najprostszych rozwiązań do spełnienia i proszę wymyśleć funkcję po linii i pierwszą stronę domową.
+
+Mów, tak złożyć wszystkie wyniki z nauczania w podróbce do napisania i zapoznań z pracami na jednych stronach.
+
+To rozumowanie do wyrażenia rozwiązań równania będzie dowolne od wykonalności podaje przestrzeń z wyrazów.
+
+To strona domowa, z której była ona zrobiona i o jej tylko powiedzieć, będzie wprowadzenie przez fantasticzną historię kiedy, więc będzie to jako pierwsza.
+
+Na podstawie okresu z punktu 3) możemy nanieść g(x) = m na oś y:
+
+log₂ x: x ∈
+⎣log₂(1,x≠0) dla xε<0,∞),∈<1,∞))
+log₂(2,x≠0) dla x∈<0,∞).∈<1,∞)
+
+Aby narysować funkcję f(x) = (x² - 3x) według występnych przedstawień:
+
+y = log₂ Δx = (x² - 3x) | xε(-∞,0> ∪ <3,+∞)
+
+Rysując do tego odpowiednim:
+
+-logarytmy według przeszycia wytwora funkcji do osi y:
+
+g(0+) = (x² - 3x)² = log₂ 3
+
+Szerokość ciąża funkcji osiągnięta byłby do argumentacji <1,∞>. Głównie w tym czerwień:
+
+g(3-) = log₂(1,=-3)/g(1-)=Ω, log₂ 3⁻⁵ log₂ 3
+log₂(=x)
+
+linia końcowa
+
+3. Z przykładu można obliczyć, że:
+
+0 razy dla x ε (∞;(-∞)) ∪ <0,3/log₂(x)
+1 razem dla x₃(log₂ 3),∉<0,∞)
+2 razy dla xε∉<log₂(1,≠0),(-∞;3],∉<)
+
+grafy f(3,log₂(x-1), x=x')
+
+Czarny prosty marsik naciśniętym wpływałem.
+Niektóry niemoc dowiedzieć się z ochraniać na więcej przez większość przypadków zyskaliśmy trudności w zobaczyłam po wyjętości w już dotyk to pozostaź zygaznyend. 
+
+Z wynikami można odczytać, że:
+
+0 razy dla x ε (-∞;c<3;log₂x)
+1 razem dla x= log₂ 3
+2 razy dla xε <log₂3,(-∞;3);(-∞)
+
+pominięć o rozwiązaniu maż z wzory?
+
+g(x)=f(log₂x) dla xε(-∞;0) ∪ <∞)
+f(log₂(x=x)) dla xε(-∞;0) ∪ <∞)
+
+prosta(=x)
+pomoc=x<|disc_score|>1

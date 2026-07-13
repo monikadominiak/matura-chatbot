@@ -1,0 +1,14 @@
+=== ARKUSZ: 2015p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0-1)
+Wskaż rysunek, na którym przedstawiono przedział, będący zbiorem wszystkich rozwiązań nierówności -4 &lt;= x - 1 &lt;= 4.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A.
+B.
+C.
+D.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej (1.8).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

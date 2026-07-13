@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+1️⃣ DANE:  
+\[
+\begin{cases} 
+P(A) = P(B) \\ 
+P(A-B) = \frac{1}{4} \\ 
+P(A \cup B) = \frac{2}{3} 
+\end{cases}
+\]  
+
+DO OBLICZENIA:  
+\[P(A \cap B) = ?\]  
+
+✌️ sposób rozwiązania przy pomocy diagramu Venna  
+
+\[P(A \cup B) = \frac{2}{3} \]
+
+\[
+\frac{2}{3} = \frac{1}{4} + x + \frac{1}{4}
+\]
+
+\[
+x = \frac{2}{3} - \frac{1}{2} = \frac{4}{6} - \frac{3}{6} = \frac{1}{6}
+\]
+
+2️⃣ z własności prawdopodobieństwa wiemy, że:  
+
+1️⃣ \(P(A-B) = P(A) - P(A \cap B) = P(A \cup B) - P(B)\) 
+
+2️⃣ \(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)  
+
+3️⃣ 2️⃣ 1️⃣ \(P(A-B) = \frac{1}{4} = \frac{2}{3} - P(B) \Rightarrow P(B) = \frac{2}{3} - \frac{1}{4} = \frac{8-3}{12} = \frac{5}{12} = P(A)\)  
+
+4️⃣ 2️⃣ \( \frac{2}{3} = \frac{5}{12} + \frac{5}{12} - P(A \cap B) \Rightarrow P(A \cap B) = \frac{10}{12} - \frac{2}{3} = \frac{10-8}{12} = \frac{1}{6} \)  
+
+\[ \text{odp: } P(A \cap B) = \frac{1}{6} \]

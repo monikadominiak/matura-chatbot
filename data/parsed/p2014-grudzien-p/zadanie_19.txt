@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 19 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 19. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 7.1. Zdający stosuje zależności między kątem środkowym i kątem wpisanym.
+Poprawna odpowiedź: D
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

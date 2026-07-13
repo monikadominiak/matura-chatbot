@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zadanie z2 (9.3) Wyznacz te wartości parametru m, dla których prosta o równaniu 4x + 3y + m = 0 ma z okręgiem, który określony jest równaniem (x - 2)^2 + (y + 5)^2 = 9, dwa punkty wspólne.
+
+Przed: 3x + 4y + m = 0 jest zależna od parametru m, więc kalko. jego możliwych wariantów zaznaczono pogrubioną.
+Zauważono, iż aby prosta i okrąg miały dwa punkty wspólne musi zajść warunek, iż odległość środka okręgu od prostej jest mniejsza niż jego promień.
+
+Rysunek poglądowy.
+(okrąg: x=2, y=-5) (prosta: 4x+3y+m=0) (punkt: xy=0)
+
+1) Wyznaczamy parametry m, dla których odległość środka okręgu od prostej jest mniejsza niż jego promień.
+
+S(2, -5) r=3 ( 4x+3y+m=0 A:4, B:3, C:m )
+
+d(S,l) < 3
+
+|4 * 2 + 3 * (-5) + m| / sqrt(4^2+3^2) < 3
+
+|m - 7| / 5 < 3
+
+m - 7 < 15 lub m - 7 > -15
+
+m < 22 lub m > -8
+
+m ∈ (-8, 22)
+
+Odp. m∈(-8, 22).

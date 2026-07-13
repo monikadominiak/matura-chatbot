@@ -1,0 +1,15 @@
+=== ARKUSZ: 2021p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+W równoległoboku ABCD, przedstawionym na rysunku, kąt α ma miarę 70°.
+Wtedy kąt β ma miarę
+A. 80°
+B. 70°
+C. 60°
+D. 50°
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

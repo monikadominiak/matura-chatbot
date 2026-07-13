@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+z4 (tn)
+
+Wyznacz te wartości parametru k, dla których równanie cos 3x = \frac{2k+3}{k-3} ma rozwiązania.
+
+Zbiór wartości funkcji cos 3x to [-1,1], niezależnie od użytego kąta. Równanie postaci cos 3x = a będzie posiadać rozwiązania wówczas i gdy a zawiera się w przedziale [-1,1].
+
+1️⃣ Zapisujemy nierówność
+
+-1 \le a \le 1
+
+-1 \le \frac{2k+3}{k-3} \le 1
+
+Aby rozwiązać taką ,,podwójną" nierówność można potraktować ją jako dwie osobne nierówności oraz wyznaczyć część wspólną ich zbiorów rozwiązań.
+
+-1 \le \frac{2k+3}{k-3} \land \frac{2k+3}{k-3} \le 1
+
+2️⃣ Wyznaczamy dziedzinę obu nierówności
+
+D: k-3 \neq 0
+
+k \neq 3
+
+D=\mathbb{R}\backslash\{3\}
+
+Nierówności wymiernych nie wolno mnożyć przez mianownik, ponieważ z reguły jest on nieznanego znaku. Można mnożyć nierówności przez kwadrat mianownika.
+
+--- STRONA 2 ---
+3⃣ Rozwiązujemy nierówności.
+
+\[ -1 \leq \frac{2k + 3}{k - 3} \]
+
+\[\wedge\]
+
+\[ \frac{2k + 3}{k - 3} < 1 \quad | \cdot (k - 3)^2 \]
+
+\[ (2k + 3)(k - 3) \geq -(k - 3)^2 \]
+
+\[ (2k + 3)(k - 3) + (k - 3)^2 \geq 0 \]
+
+\[ (k - 3)[2k + 3 + k - 3] \geq 0 \]
+
+\[ (k - 3) 3k \geq 0 \]
+
+\[ \begin{aligned} k = 3 & \\ 3k = 0 & \end{aligned} \]
+
+\[ k \in (-\infty, 0] \cup [3, +\infty) \]
+
+\[\wedge\]
+
+\[ (2k + 3)(k - 3) - (k - 3)^2 < 0 \]
+
+\[ (k - 3)[2k + 3 - (k - 3)] < 0 \]
+
+\[ (k - 3)(k + 6) < 0 \]
+
+\[ \begin{aligned} k = 3 & \\ k = -6 & \end{aligned} \]
+
+\[ k \in [-6, 3] \]
+
+---
+
+4⃣ Wyznaczamy część wspólną rozwiązań
+
+\[ \begin{cases} 
+k \in (-\infty, 0] \cup [3, +\infty) \\ 
+k \in [-6, 3] \\ 
+k \neq 3 
+\end{cases} \Rightarrow k \in [-6, 0] \]
+
+Odp.: \( k \in [-6, 0] \)

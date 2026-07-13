@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Oblicz \( P(A|B) \), jeśli wiadomo, że \( P(A \cup B) = \frac{3}{4}, P(B) = \frac{2}{3}, P(A) = \frac{1}{4} \)
+
+1️ \( \textcolor{blue}{\text{DANE:}} \)
+
+\[
+\begin{cases}
+P(A) = \frac{1}{4} \\
+P(B) = \frac{2}{3} \\
+P(A \cup B) = \frac{3}{4}
+\end{cases}
+\]
+
+\(\textcolor{lime}{\text{wzór na prawdopodobieństwo warunkowe}}\) \\
+\[
+P(A|B) = \frac{P(A \cap B)}{P(B)}
+\]
+
+2️ \(\text{liczymy } P(A \cap B)\)
+
+\[
+P(A \cup B) = P(A) + P(B) - P(A \cap B)
+\]
+
+\[
+\Rightarrow P(A \cap B) = P(A) + P(B) - P(A \cup B) =
+\]
+
+\[
+= \frac{1}{4} + \frac{2}{3} - \frac{3}{4} = \frac{3+8-9}{12} = \frac{1}{6}
+\]
+
+3️ \(\text{podstawiamy wyliczone } P(A \cap B) \text{ do wzoru}\)
+
+\[
+P(A|B) = \frac{\frac{1}{6}}{\frac{2}{3}} = \frac{1}{6} \cdot \frac{3}{2} = \frac{1}{4}
+\]
+
+\(\textcolor{red}{\text{Odp:} \frac{1}{4}}\)

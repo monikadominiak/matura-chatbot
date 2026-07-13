@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zad.18 Rozwiąż równanie |2 - x| = \(\frac{1}{\log_x 2 \cdot \log_2 x}\).
+
+1\) Wyznaczamy dziedzinę równania:
+
+zał. x>0 , x≠1
+
+x ∈ (0,1) ∪ (1,+∞)
+
+2\) Przekształcamy równanie wzorem na zamianę podstawy logarytmów:
+
+\(\log_x 2 \cdot \log_2 x = \log_x x\)
+
+\(\frac{\log_x x}{\log_x x}\) = \(\log_x x\) = 1
+
+czyli:
+
+|2-x|=\(\frac{1}{\log_x 2\cdot\log_2 x}\) => |2-x|=1
+
+3\) Rozwiązujemy równanie za pomocą własności wartości bezwgl.:
+
+|2-x|=1
+
+2-x = 1 ∨ 2-x = -1
+
+x = 1 ∨ x = 3
+
+\(x \notin D\)
+
+x = 3
+
+Odp. x=3.

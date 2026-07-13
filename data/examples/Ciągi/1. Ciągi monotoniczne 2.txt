@@ -1,0 +1,103 @@
+
+--- STRONA 1 ---
+1. Ciągi monotoniczne 2
+
+Oblicz pięć początkowych wyrazów ciągu \( a_n \):
+
+a) \( a_n = 4 - \frac{(-1)^n}{n} \)
+
+b) \( a_n = (n-1)(n-3) \)
+
+c) \( a_n = 8n - n^2 \)
+
+a) ① Obliczamy pierwszy wyraz ciągu \( a_n \).
+
+Zamiast \( n \) wstawiamy 1.
+
+\( a_1 = 4 - \frac{(-1)^1}{1} \)
+
+\( a_1 = 4 - \frac{-1}{1} = 4 + 1 = 5 \)
+
+② Obliczamy drugi wyraz ciągu \( a_n \).
+
+\( a_2 = 4 - \frac{(-1)^2}{2} = 4 - \frac{1}{2} = \frac{7}{2} \)
+
+③ Obliczamy trzeci wyraz ciągu \( a_n \).
+
+\( a_3 = 4 - \frac{(-1)^3}{3} = 4 + \frac{1}{3} = \frac{13}{3} \)
+
+④ Obliczamy czwarty wyraz ciągu \( a_n \).
+
+\( a_4 = 4 - \frac{(-1)^4}{4} = 4 - \frac{1}{4} = \frac{15}{4} \)
+
+⑤ Obliczamy piąty wyraz ciągu \( a_n \).
+
+\( a_5 = 4 - \frac{(-1)^5}{5} = 4 + \frac{1}{5} = \frac{21}{5} \)
+
+Odp.: \( a_1 = 5, \ a_2 = \frac{7}{2}, \ a_3 = \frac{13}{3}, \ a_4 = \frac{15}{4}, \ a_5 = \frac{21}{5}. \)
+
+--- STRONA 2 ---
+b) ➊ Obliczamy pierwszy wyraz ciągu a_n.
+
+Zamiast n wstawiamy 1.
+
+a_n = (n-1)(n-3)
+
+a_1 = (1-1)(1-3) = 0∙(-2) = 0
+
+➋ Obliczamy drugi wyraz ciągu a_n.
+
+a_2 = (2-1)(2-3) = 1∙(-1) = -1
+
+➌ Obliczamy trzeci wyraz ciągu a_n.
+
+a_3 = (3-1)(3-3) = 2∙0 = 0
+
+➍ Obliczamy czwarty wyraz ciągu a_n.
+
+a_4 = (4-1)(4-3) = 3∙1 = 3
+
+➎ Obliczamy piąty wyraz ciągu a_n.
+
+a_5 = (5-1)(5-3) = 4∙2 = 8
+
+Odp.: a_1 = 0, a_2 = -1, a_3 = 0, a_4 = 3, a_5 = 8.
+
+--- STRONA 3 ---
+c) ① Obliczamy pierwszy wyraz ciągu \( a_n \).
+
+Zamiast \( n \) wstawiamy 1.
+
+\[ 
+a_n = 8n - n^2 
+\]
+
+\[ 
+a_1 = 8 \cdot 1 - 1^2 = 8 - 1 = 7 
+\]
+
+② Obliczamy drugi wyraz ciągu \( a_n \).
+
+\[ 
+a_2 = 8 \cdot 2 - 2^2 = 16 - 4 = 12 
+\]
+
+③ Obliczamy trzeci wyraz ciągu \( a_n \).
+
+\[ 
+a_3 = 8 \cdot 3 - 3^2 = 24 - 9 = 15 
+\]
+
+④ Obliczamy czwarty wyraz ciągu \( a_n \).
+
+\[ 
+a_4 = 8 \cdot 4 - 4^2 = 32 - 16 = 16 
+\]
+
+⑤ Obliczamy piąty wyraz ciągu \( a_n \).
+
+\[ 
+a_5 = 8 \cdot 5 - 5^2 = 40 - 25 = 15 
+\]
+
+Odp.: \( a_1 = 7, \; a_2 = 12, \; a_3 = 15, \; a_4 = 16, \; a_5 = 15. \)

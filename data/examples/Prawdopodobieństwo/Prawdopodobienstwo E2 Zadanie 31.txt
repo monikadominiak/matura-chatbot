@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+W pierwszej urnie jest 6 kul: 2 białe, 2 czarne, 1 zielona i 1 niebieska, a w drugiej urnie jest 8 kul: 3 białe i 5 czarnych. Wybieramy losowo jedną kulę z pierwszej urny i nie oglądając jej, wkładamy do urny drugiej. Następnie z drugiej urny losujemy jedną kulę. Oblicz prawdopodobieństwo, że będzie to kula biała.
+
+➊ analizujemy polecenie
+
+I II
+
+B A – 2 II wylosujemy białą
+
+B1 – z I wylosowano białą
+
+B2 – z I wylosowano inną niż białą
+
+➋ liczymy kolejne prawdopodobieństwa potrzebne do wzoru na prawdopodobieństwo całkowite
+
+P(A) = P(A|B1) · P(B1) + P(A|B2) · P(B2) + … + P(A|Bn) · P(Bn)
+
+P(B1) = 1/3
+
+P(A|B1) = 4/9 (prawd. wylosowania z II białej, pod warunkiem że z I dołożyliśmy białą)
+
+P(B2) = 2/3
+
+P(A|B2) = 3/9
+
+➌ P(A) = 4/9 · 1/3 + 3/9 · 2/3 = 4/27 + 6/27 = 10/27 odp: 10/27
+
+zadanie można rozwiązać również metodą 'drzewka':
+
+I urna
+
+P(B1) = 1/3
+
+P(A|B1) = 4/9
+
+biała
+
+II urna
+
+biała
+
+P(B2) = 2/3
+
+inna niż biała
+
+P(A|B2) = 3/9
+
+biała
+
+* rysujemy tylko istotne gałęzie
+
+P(A) = 4/9 · 1/3 + 3/9 · 2/3 = 10/27

@@ -1,0 +1,20 @@
+=== ARKUSZ: 2023p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0–2)
+Dany jest prostokąt o bokach długości $a$ i $b$, gdzie $a &gt; b$. Obwód tego prostokąta jest równy 30. Jeden z boków prostokąta jest o 5 krótszy od drugiego. Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami A–F i wpisz te litery w wykropkowanych miejscach.
+Zależności między długościami boków tego prostokąta zapisano w układach równań oznaczonych literami: ……… oraz ……… .
+A. $begin{cases}2ab=30\ a-b=5end{cases}$
+B. $begin{cases}2a+b=30\ a=5bend{cases}$
+C. $begin{cases}2(a+b)=30\ b=a-5end{cases}$
+D. $begin{cases}2a+2b=30\ b=5aend{cases}$
+E. $begin{cases}2a+2b=30\ a-b=5end{cases}$
+F. $begin{cases}a+b=30\ a=b+5end{cases}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

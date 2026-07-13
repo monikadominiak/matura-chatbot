@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+Zad.2 W kole o środku O i promieniu równym 4, poprowadzono cięciwę AB. Oblicz pola figur, na które cięciwa podzieliła koło, jeśli pole trójkąta AOB jest równe \(4\sqrt{2}\).
+
+\[
+\text{1)} \text{Tworzymy rysunek poglądowy:}
+\]
+
+Diagram: koło z zaznaczonymi punktami A, B, O oraz kątem \(\alpha\). Promień koła = 4. Trójkąt AOB oraz obszary \(P_1\), \(P_2\).
+
+\[
+\text{2)} \text{Wyznaczamy kąt } \alpha \text{ ze wzoru na pole trójkąta:}
+\]
+
+\[
+4\sqrt{2} = \frac{1}{2} \cdot 4 \cdot 4 \cdot \sin \alpha
+\]
+
+\[
+\sin \alpha = \frac{\sqrt{2}}{2} \quad \land \quad \alpha \in (0^\circ, 180^\circ)
+\]
+
+\[
+\alpha = 45^\circ \quad \vee \quad \alpha = 135^\circ
+\]
+
+\[
+\text{Używamy wzór na pole trójkąta} \ P = \frac{1}{2}ab \sin \alpha, \text{ gdzie } a,b \text{ to sąsiednie boki trójkąta (tutaj w zadaniu promienie okręgu) oraz } \alpha \text{ to kąt pomiędzy nimi.}
+\]
+
+\[
+\text{3)} \text{Wyznaczamy pola wycinków:}
+\]
+
+\[
+\text{I przypadek } (\alpha=45^\circ):
+\]
+
+\[
+P_1 = \frac{45^\circ}{360^\circ} \cdot \pi \cdot 4^2 - 4\sqrt{2}
+\]
+
+\[
+P_1 = 2\pi - 4\sqrt{2}
+\]
+
+\[
+P_3 = \pi \cdot 4^2 - (2\pi - 4\sqrt{2})
+\]
+
+\[
+P_3 = 14\pi + 4\sqrt{2}
+\]
+
+\[
+\text{II przypadek } (\alpha=135^\circ):
+\]
+
+\[
+P_1 = \frac{135^\circ}{360^\circ} \cdot \pi \cdot 4^2 - 4\sqrt{2}
+\]
+
+\[
+P_1 = 6\pi - 4\sqrt{2}
+\]
+
+\[
+P_3 = \pi \cdot 4^2 - (6\pi - 4\sqrt{2})
+\]
+
+\[
+P_3 = 10\pi + 4\sqrt{2}
+\]
+
+\[
+\text{Odp. Pola figur podzielonych przez cięciwę są równe } 2\pi-4\sqrt{2} \text{ oraz } 14\pi+4\sqrt{2} \text{ (jeśli } \alpha=45^\circ\text{ ) lub } 6\pi-4\sqrt{2} \text{ oraz } 10\pi+4\sqrt{2} \text{ (jeśli } \alpha=135^\circ\text{ ).}
+\]

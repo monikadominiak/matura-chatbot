@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0-1)
+Kąt alfa jest ostry i tg(alfa) = 2/3. Wtedy
+A. sin(alfa) = (3*sqrt(13)) / 26
+B. sin(alfa) = sqrt(13) / 13
+C. sin(alfa) = (2*sqrt(13)) / 13
+D. sin(alfa) = (3*sqrt(13)) / 13
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 17. $(0-1)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 6. Trygonometria. Zdający, znając wartość jednej z funkcji: sinus lub cosinus, wyznacza wartości pozostałych funkcji tego samego kąta ostrego (6.5).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: B

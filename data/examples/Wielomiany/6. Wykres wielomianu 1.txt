@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+6. Wykres wielomianu 1  
+Narysuj wykres wielomianu w.  
+a) w(x) = (3 - x)^2(4 - x^2)  
+b) w(x) = -3(x - 4)(x + 2)^2(x + 3)  
+
+a) w(x) = (3 - x)^2(4 - x^2)  
+II - kwotne  
+x * (-x^2) = -x^3 ← wykres będziemy zaczynać rysować od prawej strony od dołu  
+
+3 - x = 0  
+x_1 = 3  
+
+4 - x^2 = 0  
+x_2 = 2  
+x_3 = -2  
+
+podwójne miejsce zerowe  
+
+wykres będziemy zaczynać rysować od prawej strony od dołu  
+
+
+b) w(x) = -3(x - 4)(x + 2)^2(x + 3)  
+V - kwotne  
+-1 * x * x^2 * x = -x^4 ← wykres będziemy zaczynać rysować od prawej strony od dołu  
+
+x - 4 = 0  
+x = 4  
+
+x + 2 = 0  
+x = -2  
+
+x + 3 = 0  
+x = -3  

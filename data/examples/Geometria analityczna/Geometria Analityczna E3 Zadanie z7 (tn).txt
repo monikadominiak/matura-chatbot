@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+**Zadanie z7 (tn)** Dane są punkty \( A = (3, -2) \) i \( B(11, 4) \) i prosta k o równaniu \( y = 8x + 10 \). Oblicz współrzędne punktu \( P \) leżącego na prostej k, dla którego suma \( |AP|^2 + |BP|^2 \) jest najmniejsza.
+
+*Rysunek poglądowy* 
+
+1) *Wyrażamy* \( |AP|^2 + |BP|^2 \) *ze wzoru na długość odcinka:*
+
+\( P(x,y) \in y = 8x + 10 \Rightarrow P(x,8x+10) \)
+
+\[ |AP| = \sqrt{(x-3)^2 + (8x+10+2)^2} \]
+\[ |AP|^2 = (x-3)^2 + (8x+12)^2 = 65x^2 + 168x + 153 \]
+
+\[ |BP| = \sqrt{(x-11)^2 + (8x+10-4)^2} \]
+\[ |BP|^2 = (x-11)^2 + (8x+6)^2 = 65x^2 + 174x + 157 \]
+
+\[ |AP|^2 + |BP|^2 = 130x^2 + 260x + 310 \]
+
+2) *Wyznaczamy najmniejszą wartość* \( |AP|^2 + |BP|^2 \).
+
+*Wyrażenie* \( |AP|^2 + |BP|^2 \) *zapisáliśmy jako funkcję kwadratowym, więc jego najmniejsza wartość jest osiągana w wierzchołku* \( (p,q) \).
+
+\[ p = \frac{-b}{2a} = \frac{-260}{2 \times 130} = -1 \]
+
+\[ P = (x, 8x+10) = (-1, 8 \cdot (-1) + 10) = (-1, 2) \]
+
+*Odp. \( P(-1,2) \)*
+
+*UWAGA: gdyby zadanie wymagało wyznaczenia najmniejszej możliwej wartości wyrażenia, to należałoby policzyć* \( q \) *i to byłaby odpowiedź.*

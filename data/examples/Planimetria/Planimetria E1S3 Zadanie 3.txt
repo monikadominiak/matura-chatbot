@@ -1,0 +1,70 @@
+
+--- STRONA 1 ---
+Zad.3 W trójkąt równoramienny o podstawie o długości 6 cm i wysokości 4 cm wpisano koło oraz w trójkąt równoramienny o podstawie o długości 8 cm i wysokości 3 cm wpisano koło. Oblicz różnicę pól tych kół.
+
+1\) Tworzymy rysunki poglądowe dla obu trójkątów:
+
+\( \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \)
+
+Trójkąt 1: długość 6, wysokość 4: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trójkąt 2: długość 8, wysokość 3:
+
+\( \begin{array}{|c|} 
+\hline
+    \\ 
+   x \\
+   \\ \hline
+\end{array} \)
+
+\( 3 \text{cm} \) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \( 4 \text{cm} \)
+
+\( \begin{array}{|c|} 
+\hline 
+    \\ 
+   x \\ 
+   \\ \hline
+\end{array} \)
+
+\( 3 \text{cm} \)
+
+
+\( \ \ \ \)
+
+
+2\) Wyznaczamy pola trójkątów i kół, korzystając z różnych wzorów na pole trójkąta:
+
+Trójkąt 1:
+
+\( P_{Δ}= \frac{1}{2} \cdot 6 \cdot 4 = 12 \)
+
+\( 3^2 + 4^2 = x^2 \Rightarrow x=5 \)
+
+\( \frac{6 \cdot 5 \cdot 5}{2} = 8 \)
+
+\( P = P_r - 8r \)
+
+\( 8r = 42 \Rightarrow r = \frac{3}{2} \)
+
+
+\( P_{KOLA(A_1)} = \pi (\frac{3}{2})^2 = \frac{9}{4}\pi \, cm^2 \)
+
+Trójkąt 2:
+
+\( P_{Δ}= \frac{1}{2} \cdot 8 \cdot 3 = 12 \)
+
+\( 3^2 + 4^2 = x^2 \Rightarrow x=5 \)
+
+\( \frac{8 \cdot 5 \cdot 5}{2} = 9 \)
+
+\( P = P_r - 9r \)
+
+\( 9r = 12 \Rightarrow r = \frac{4}{3} \)
+
+
+\( P_{KOLA(A_2)} = \pi (\frac{4}{3})^2 = \frac{16}{9}\pi \, cm^2 \)
+
+
+3\) Obliczamy różnicę pól:
+
+\( P_{KOLA(A_1)} - P_{KOLA(A_2)} = \frac{9}{4}\pi - \frac{16}{9}\pi = \frac{47}{36}\pi \, cm^2\)
+
+Odp. \(\frac{47}{36}\pi \, cm^2 \)

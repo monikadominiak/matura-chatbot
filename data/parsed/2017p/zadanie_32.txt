@@ -1,0 +1,103 @@
+=== ARKUSZ: 2017p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0-5)
+Dane są punkty A=(-4, 0) i M=(2, 9) oraz prosta k o równaniu $y=-2x+10$. Wierzchołek B trójkąta ABC to punkt przecięcia prostej k z osią Ox układu współrzędnych, a wierzchołek C jest punktem przecięcia prostej k z prostą AM. Oblicz pole trójkąta ABC.
+Odpowiedź: ................................................................................................................................... .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 32. $0-5$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (w postaci kierunkowej lub ogólnej) (8.1). Zdający oblicza współrzędne punktu przecięcia dwóch prostych (8.4).
+Przykładowe rozwiązania I sposób Prosta AM przechodzi przez punkty $A=(-4,0)$ i $M=(2,9)$, więc jej równanie ma postać $y=frac{9}{2+4}(x+4)$ czyli $y=frac{3}{2}x+6$. Prosta k o równaniu $y=-2x+10$ przecina oś Ox w punkcie B, więc $B=(5,0)$. Zatem $|AB|=|5-(-4)|=9$. Współrzędne punktu C obliczymy, rozwiązując układ równań:
+
+$$y=frac{3}{2}x+6 text{ i } y=-2x+10.$$
+Stąd
+
+$$frac{3}{2}x+6=-2x+10,$$
+
+
+$$frac{7}{2}x=4,$$
+
+
+$$x=frac{8}{7},  y=frac{3}{2} cdot frac{8}{7}+6=frac{12}{7}+6=frac{54}{7}.$$
+Zatem
+
+$$C=left(frac{8}{7}, frac{54}{7}right).$$
+Wynika stąd, że wysokość h trójkąta ABC opuszczona z wierzchołka C na podstawę AB jest równa $h=y_c=frac{54}{7}$. Zatem pole trójkąta ABC jest równe
+
+$$P_{ABC}=frac{1}{2} cdot |AB| [cite_start]cdot h=frac{1}{2} cdot 9 cdot frac{54}{7}=frac{243}{7}=34frac{5}{7}.$$
+
+Strona 17 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+II sposób Wyznaczamy równanie prostej l równoległej do prostej k i przechodzącej przez punkt $M=(2,9)$:
+
+$$y=-2(x-2)+9,$$
+
+
+$$y=-2x+13.$$
+Niech N będzie punktem przecięcia prostej l z osią Ox, więc $N=left(frac{13}{2}, 0right)$. Zatem
+
+$$|AN|=left|frac{13}{2}-(-4)right|=frac{21}{2}.$$
+Prosta k o równaniu $y=-2x+10$ przecina oś Ox w punkcie B, więc $B=(5,0)$. Zatem $|AB|=|5-(-4)|=9$. Z równoległości prostych k i l wynika, że trójkąt ABC jest podobny do trójkąta ANM, a skala tego podobieństwa jest równa
+
+$$s=frac{|AB|}{|AN|}=frac{9}{frac{21}{2}}=frac{18}{21}=frac{6}{7}.$$
+Pole trójkąta ANM jest równe
+
+$$P_{ANM}=frac{1}{2}|AN| [cite_start]cdot 9=frac{1}{2} cdot frac{21}{2} cdot 9=frac{21 cdot 9}{4},$$
+więc pole trójkąta ABC jest równe
+
+$$P_{ABC}=s^2 cdot P_{ANM}=left(frac{6}{7}right)^2 cdot frac{21 cdot 9}{4}=frac{243}{7}=34frac{5}{7}.$$
+
+Uwaga Mając obliczone współrzędne wierzchołków trójkąta, możemy obliczyć jego pole, korzystając ze wzoru $P_{ABC}=frac{1}{2} cdot |(x_B-x_A)(y_C-y_A)-(y_B-y_A)(x_C-x_A)|$:
+
+$$P_{ABC}=frac{1}{2} cdot left|(5+4)left(frac{54}{7}-0right)-0 cdot left(frac{8}{7}+4right)right|=frac{1}{2} cdot left|9 cdot frac{54}{7}right|=frac{243}{7}=34frac{5}{7}.$$
+
+Strona 18 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+III sposób Prosta k o równaniu $y=-2x+10$ przecina oś Ox w punkcie B, więc $B=(5,0)$. Zatem $|AB|=|5-(-4)|=9$.  Niech $h=|CD|$. Ponieważ współczynnik kierunkowy prostej k jest równy -2, więc
+
+$$|DA|=frac{1}{2}h.$$
+Zatem $|AD|=9-frac{1}{2}h$. Współczynnik kierunkowy prostej AM jest równy $a_{AM}=frac{9-0}{2-(-4)}=frac{3}{2}$, ale $a_{AM}=frac{|CD|}{|AD|}$
+
+$$frac{|CD|}{|AD|}=frac{3}{2}.$$
+
+
+$$frac{h}{9-frac{1}{2}h}=frac{3}{2}.$$
+
+
+$$2h=27-frac{3}{2}h,$$
+
+
+$$frac{7}{2}h=27,$$
+
+
+$$h=frac{54}{7}.$$
+Pole trójkąta ABC jest równe
+
+$$P_{ABC}=frac{1}{2} cdot |AB| [cite_start]cdot h=frac{1}{2} cdot 9 cdot frac{54}{7}=frac{243}{7}=34frac{5}{7}.$$
+
+Strona 19 z 24
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania Zdający otrzymuje 1 p., gdy:
+wyznaczy współczynnik kierunkowy prostej AM: $a=frac{3}{2}$ albo
+wyznaczy współrzędne punktu B: $B=(5,0)$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie, w którym postęp jest istotny Zdający otrzymuje 2 p., gdy:
+zapisze równanie prostej AM: $y=frac{3}{2}x+6$ albo
+wyznaczy równanie prostej MN: $y=-2x+13$ i zapisze, że trójkąty ABC i ANM są podobne, albo
+zapisze zależność między długościami odcinków CD i DA:
+$$frac{|CD|}{|AD|}=frac{3}{2}$$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania Zdający otrzymuje 3 p., gdy:
+obliczy długość podstawy AB trójkąta: $|AB|=9$ oraz zapisze równanie, z którego można wyznaczyć jedną ze współrzędnych punktu C albo
+obliczy współrzędne wierzchołka C: $C=left(frac{8}{7}, frac{54}{7}right)$ (lub drugą współrzędną tego punktu) i nie zapisze współrzędnych punktu B, albo
+obliczy skalę podobieństwa trójkąta ABC do trójkąta ANM: $s=frac{6}{7}$ (lub skalę podobieństwa trójkąta ANM do trójkąta ABC: $s_1=frac{7}{6}$), albo
+obliczy pole trójkąta ANM: $P_{ANM}=frac{1}{2} cdot frac{21}{2} cdot 9$ i zapisze, że $P_{ABC}=s^2 cdot P_{ANM}$, gdzie s oznacza skalę podobieństwa trójkąta ABC do trójkąta ANM, albo
+zapisze równanie z jedną niewiadomą, z którego można obliczyć wysokość trójkąta ABC, np.: $frac{h}{9-frac{1}{2}h}=frac{3}{2}$ i na tym poprzestanie lub dalej popełnia błędy.
+Strona 20 z 24
+Rozwiązanie prawie pełne Zdający otrzymuje 4 p., gdy:
+obliczy drugą współrzędną wierzchołka C oraz długość podstawy AB trójkąta ABC: $y_c=frac{54}{7}$, $|AB|=9$ albo
+obliczy współrzędne wierzchołków B i C: $B=(5,0)$, $C=left(frac{8}{7}, frac{54}{7}right)$, albo
+obliczy skalę podobieństwa trójkąta ABC do trójkąta ANM: $s=frac{6}{7}$ (lub skalę podobieństwa trójkąta ANM do trójkąta ABC: $s_1=frac{7}{6}$) oraz pole trójkąta ANM: $P_{ANM}=frac{1}{2} cdot frac{21}{2} cdot 9$ i zapisze, że $P_{ABC}=s^2 cdot P_{ANM}$, albo
+obliczy wysokość CD trójkąta ABC: $h=frac{54}{7}$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie pełne Zdający otrzymuje 5 p., gdy obliczy pole trójkąta ABC: $P_{ABC}=frac{243}{7}$.
+Uwaga  Akceptujemy, jeżeli zdający poda pole trójkąta w przybliżeniu, np. 34,714.
+Strona 21 z 24

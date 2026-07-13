@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Udowodnij, że dla każdej liczby rzeczywistej x prawdziwa jest nierówność: x^4 + x^2 > 6x - 13.
+
+założenie: x ∈ ℝ
+
+teza: x^4 + x^2 > 6x - 13
+
+1. niech f(x) = x^4 + x^2 - 6x + 13
+
+(chcemy wykazać, że taka funkcja przyjmuje tylko wartości dodatnie)
+
+2. liczymy pochodną funkcji f(x)
+
+f'(x) = 4x^3 + 2x - 6
+
+3. szukamy pierwiastków wielomianu 4x^3 + 2x - 6
+
+f'(1) = 4 + 2 - 6 = 0
+
+|1|4|0|4|2|-6|
+|  |4|4|6|  |0|
+
+⇒ f'(x) = (x-1)(4x^2 + 4x + 6)
+△ < 0
+
+4. analizujemy znak pochodnej i monotoniczność funkcji f
+
+[wykres]
+
+Funkcja f w swojej dziedzinie przyjmuje wartość minimalną dla argumentu x=1
+
+f_min = f(1) = 1^4 + 1^2 - 6*1 + 13 = 9 > 0
+
+co równoważnie dowodzi prawdziwości tezy c.k.d.

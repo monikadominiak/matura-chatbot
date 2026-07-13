@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+z4 (3.3), (3.4)  
+Dwie ujemne liczby wymierne są miejscami zerowymi funkcji  
+f(x) = 2x^3 + bx^2 + cx + 1, gdzie b, c ∈ C. Znajdź wszystkie argumenty, dla których funkcja f przyjmuje wartości nieujemne.
+
+f(x) = 2x^3 + 6x^2 + cx + 1
+
+1️⃣ Wyznaczenie pierwiastków funkcji
+
+Wykorzystując twierdzenie o pierwiastkach wymiernych wyznaczamy miejsca zerowe:
+
+{±1, ±1/2}
+
+tutaj są tylko dwie liczby ujemne, z treści zadania wynika, że będą one pierwiastkami wielomianu:
+
+ω(-1) = 0  
+ω(-1/2) = 0
+
+Mamy wyznaczone dwa pierwiastki, aby wyznaczyć ostatni pierwiastek ? musimy podstawić wyrazy wolne w postaci ogólnej i iloczynowej.
+
+2x^3 + 6x^2 + cx + 1 = 2(x + 1)(x + 1/2)(x - x_3)
+
+1 = 2∙(-1)∙(-1/2)∙(-x_3)  
+1 = -x_3  
+x_3 = -1
+
+2(x + 1)(x + 1/2)(x + 1) = 0
+
+2(x + 1)^2(x + 1/2) = 0
+
+2️⃣ Wyznaczenie argumentów, dla których funkcja przyjmuje wartości nieujemne
+
+2(x + 1)^2(x + 1/2) ≥ 0
+
+x = -1  
+(2-kv)
+
+x = -1/2  
+(1-kv)
+
+x ∈ ⟨-1⟩ ∪ ⟨-1/2, ∞)
+
+Odp: x ∈ ⟨-1⟩ ∪ ⟨-1/2, ∞).

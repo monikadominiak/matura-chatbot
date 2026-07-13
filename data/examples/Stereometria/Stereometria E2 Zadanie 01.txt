@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Krawędź boczna graniastosłupa prawidłowego trójkątnego ma długość √8, a krawędź podstawy ma długość 2. Oblicz:
+
+a) cosinus kąta nachylenia przekątnej ściany bocznej do płaszczyzny podstawy,
+
+b) sinus kąta między przekątną jednej ściany bocznej a krawędzią podstawy zawartą w sąsiedztwie ściany bocznej, wychodzącymi z tego samego wierzchołka,
+
+c) miarę kąta nachylenia przekątnej ściany bocznej do sąsiedniej ściany bocznej.
+
+a) 1) sporządzamy rysunek pomocniczy i zaznaczamy na nim kąt z a)
+
+α - kąt nachylenia przekątnej do płaszczyzny podstawy ⇒ krawędzi podstawy
+
+cos α = 2/x
+
+2) wyznaczamy x
+
+(tw. Pitagorasa)
+
+2^2 + (√8)^2 = x^2
+
+4 + 8 = x^2
+
+12 = x^2 ⇒ x = 2√3
+
+więc cos α = 2/2√3 ⋅ √3/√3 = √3/3
+
+b) 3) zaznaczamy na rysunku kolejny kąt - β i dorysowujemy drugą przekątną
+
+4) korzystamy z powstałego ∆ równoramiennego
+
+sin β = h/2√3
+
+(wysokość h w ∆ równoramiennym dzieli jego podstawę na pół)
+
+wyznaczamy h (tw. Pitagorasa)
+
+h^2 + 1^2 = (2√3)^2
+
+h^2 + 1 = 12 ⇒ h = √11
+
+sin β = √11/2√3 ⋅ √3/√3 = √33/6
+
+c) 3) zaznaczamy ostatni kąt γ
+
+Jak zaznaczyć kąt γ?
+
+1) unieruchamiamy punkt A na (fioletową) ścianę
+
+2) łączymy punkt A' ze wspólnym wierzchołkiem przekątnej i ściany bocznej
+
+sin γ = h_p/2√3
+
+5) liczymy h_p, a następnie sin γ
+
+h_p = √8/√3
+
+(wysokość ∆ równobocznego)
+
+sin γ = √8/2√3 = 1/2 ⇒ γ = 30°
+
+(γ - ostry)
+
+Odp.: a) cos α = √3/3, b) sin β = √33/6, c) γ = 30°

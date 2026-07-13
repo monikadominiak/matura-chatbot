@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+Zad.4 Punkty A(0, -5) oraz D(-3, -1) są kolejnymi wierzchołkami trapezu równoramiennego ABCD, którego osią symetrii jest prosta o równaniu x + 2y = 0. Oblicz współrzędne pozostałych wierzchołków oraz długość odcinka łączącego środki ramion tego trapezu.
+
+1) Tworzymy rysunek poglądowy:
+x+2y=0  <=>  k: y=-1/2 x
+
+2) Wyznaczamy proste prostopadłe do symetralnej przechodzące przez punkty A i D:
+
+pr. AB: y=ax+b  pr. DC: y=ax+b
+
+pr. AB ⊥ k <=> a_AB = -2  p_AB <=> A(0,-5) ∈ p_AB <=> -5 = a_AB * 0 + b
+b = -5
+=> p_AB: y= -2x-5
+
+pr. DC ⊥ k <=> a_DC = -2  a_DC = 2
+
+pr. DC: y=2x+c
+D(-3,-1) ∈ p_DC <=> -1 = 2*(-3) + c
+c = -6+1=5
+b = 5
+
+pr. DC: y=2x+5
+
+3) Wyznaczamy punkty przecięcia prostych AB i DC z prostą symetralną:
+
+{ y = -2x -5
+{ x + 2y = 0
+
+-1/2 x -5
+5=-1/2 x
+10 = 5x
+x=2  => y= -5+2*-1 => -4
+
+S_AB (2,-4)
+
+{ y = 2x + 5
+{ x + 2y = 0
+
+-1/2x + 2x=5
+x=2 ->  y=4
+
+x=-2 + 4y=1
+S_DC (2,4)
+
+4) Wyznaczamy punkty B i C na pomocy środkowych punktów łączących AB i DC:
+
+S_AB (x_A+x_B /2 \ , \ y_A+y_B /2 \ )  S(2,-4)   S(2,4)
+       =>
+
+0+x_B  / 2 = -5+ y_C /2 = 4
+
+0+x_B  / 2 = -4+y_C /2 = 4
+X_B=4  y_B=3 x_C=4  y_C=3
+
+B(4,3)  C(4,3)
+
+5) Wyznaczamy środki ramion trapezu oraz długość odcinka łączącego:
+
+S_AB (x_A+x_C / 2 \ , \ y_A+y_C / 2 \ )  S_AB(x_A+x_C /2 \ , \ y_A+y_C /2 \ )
+S_CB (-3 \ \ +3/2 , -1+3/2)  S_CB (-3+3/2, -1+3/2)
+
+d=|\ \ _{S_{DC},S_{CB}} = sqrt((-\3 - (-6))}²+(3-1)²)
+=> | sqrt(((-6)-4)² -4.9²)= sqrt(16)=4√5=2^2 $\sqrt4$ = 3√5
+
+Odp. B(4,3), C(4,3), d=√3√5.

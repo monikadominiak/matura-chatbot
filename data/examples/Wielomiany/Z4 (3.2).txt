@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+z4 (3.2)  
+Znajdź współczynnik x wiedząc, że reszta z dzielenia wielomianu W(x) = x^4 + 2x^3 + cx^2 + 7x + 5 przez wielomian P(x) = x + 1 jest równa 5.
+
+W(x) = x^4 + 2x^3 + cx^2 + 7x + 5
+
+P(x) = x + 1
+
+Skorzystamy z twierdzenia o reszcie:  
+Jeśli r jest resztą z dzielenia wielomianu w(x) przez dwumian (x-a), to w(a)=r.
+
+W(-1)=5
+
+1 - 2 + c - 7 + 5 = 5
+
+c - 3 = 5 | +3
+
+c = 8  
+
+Odp: c = 8.

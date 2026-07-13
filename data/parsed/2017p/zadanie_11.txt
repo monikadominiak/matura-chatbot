@@ -1,0 +1,15 @@
+=== ARKUSZ: 2017p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji wykładniczej f określonej wzorem $f(x)=a^{x}$. Punkt $A=(1,2)$ należy do tego wykresu funkcji.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Podstawa a potęgi jest równa
+A. $-frac{1}{2}$
+B. $frac{1}{2}$
+C. -2
+D. 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 11. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający szkicuje wykresy funkcji wykładniczych dla różnych podstaw (4.14).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B

@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+z3 (tn)
+
+Sprowadź do najprostszej postaci wyrażenie \[\frac{a^{\pi - \sqrt{3}} \cdot a^{\sqrt{3}}}{b^{-\pi} \cdot b^{\sqrt{3}}}\] gdzie a ≥ 0 i b > 0.
+
+W tym zadaniu korzystamy z mnożenia i dzielenia potęg o tych samych wykładnikach.
+
+a^r \cdot a^s = a^{r+s}
+
+\[\frac{a^{\pi} \cdot a^{\sqrt{3}}}{b^{\pi} \cdot b^{\sqrt{3}}}\] = \(\frac{a^{\pi+\sqrt{3}}}{(b^{-1})^{\pi+\sqrt{3}}}\) = \(\left(\frac{a}{b^{-1}}\right)^{\pi+\sqrt{3}}\) = (a \cdot \frac{1}{b^{-1}})^{\pi+\sqrt{3}} = 
+
+\[\frac{a^r}{a^s} = a^{r-s}\] \,\,\,\,\, \[\frac{a^r}{b^{-r}} = \left(\frac{a}{b}\right)^r\] \,\,\,\,\, a^{-n} = \frac{1}{a^n}
+
+= (a \cdot \frac{b}{1})^{\pi+\sqrt{3}} = (a \cdot b)^{\pi+\sqrt{3}}
+
+Odp: (a \cdot b)^{\pi+\sqrt{3}}.

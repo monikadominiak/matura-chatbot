@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+Odległość środka podstawy ostrosłupa prawidłowego czworokątnego od ściany bocznej jest równa \(d\), a kąt ściany bocznej przy wierzchołku ostrosłupa ma miarę \(\alpha\). Oblicz objętość ostrosłupa.
+
+**UWAGA**:
+odległość punktu od prostej to zawsze najkrótsza możliwa droga 
+\(\Rightarrow\) odcinek poprowadzony pod kątem prostym
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+\( \triangle EDC \ \frac{\alpha}{2} \ (bo \ \triangle DEC \ jest \ równoramienny)\)
+
+2️⃣ najpierw wykorzystujemy kąt \(\alpha\)
+
+\[
+\tan \frac{\alpha}{2} = \frac{a}{2h} \Rightarrow h = \frac{a}{2 \tan \frac{\alpha}{2}}
+\]
+
+(tg bo mamy oznaczone boki \(|EF| \ i \ |FC|\))
+
+3️⃣ wyznaczamy \(H\) z tw. Pitagorasa 
+
+\( \triangle SEF \quad H^2 = h^2 - \frac{a^2}{4} \)
+
+\[
+H^2 = \frac{a^2}{4 + \tan^2 \frac{\alpha}{2}} - \frac{a^2}{4}
+\]
+
+\[
+H^2 = \frac{a^2}{4 + \tan^2 \frac{\alpha}{2}} \left(1 - \tan^2 \frac{\alpha}{2}\right) \Rightarrow H = a \frac{\sqrt{1 - \tan^2 \frac{\alpha}{2}}}{2\tan \frac{\alpha}{2}}
+\]
+
+4️⃣ uzależniamy \(a\) od danych
+
+\[
+P_{\triangle ESF} = \frac{1}{2}|ES| \cdot |SF| = \frac{1}{2} d \cdot |EF|
+\]
+
+\[
+\frac{a}{2} \cdot \frac{\sqrt{1 - \tan^2 \frac{\alpha}{2}} \cdot a}{2 \tan \frac{\alpha}{2}} = d \cdot \frac{a}{2 \tan \frac{\alpha}{2}}
+\]
+
+/: \(a \neq 0\)
+
+\[
+\frac{a \sqrt{1 - \tan^2 \frac{\alpha}{2}}}{4 \cdot \tan \frac{\alpha}{2}} = \frac{d}{2 \tan \frac{\alpha}{2}} / \cdot \frac{4 \cdot \tan \frac{\alpha}{2}}{\sqrt{1 - \tan^2 \frac{\alpha}{2}}}
+\]
+
+\(a = \frac{2d}{\sqrt{1 - \tan^2 \frac{\alpha}{2}}}\)
+
+5️⃣ uzależniamy \(H\) od danych
+
+\[
+H = \frac{xd}{\sqrt{1 - \tan^2 \frac{\alpha}{2}}} \cdot \frac{\sqrt{1 - \tan^2 \frac{\alpha}{2}}}{2 \tan \frac{\alpha}{2}} = \frac{d}{\tan \frac{\alpha}{2}}
+\]
+
+6️⃣ wyznaczamy objętość
+
+\[
+V = \frac{1}{3} \cdot \left( \frac{2d}{\sqrt{1 - \tan^2 \frac{\alpha}{2}}} \right)^2 \cdot \frac{d}{\tan \frac{\alpha}{2}}
+\]
+
+\(p_p = a^2\)
+
+\(H\)
+
+Odp: \( V = \frac{4d^3}{3 \tan \frac{\alpha}{2} (1 - \tan^2 \frac{\alpha}{2})} \)

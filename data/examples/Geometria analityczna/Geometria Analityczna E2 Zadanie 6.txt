@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Zad.6 Wyznacz równania prostych przechodzących przez początek układu współrzędnych, które tworzą z prostą k: sqrt(3)x - y + 2 = 0 kąt o mierze 60°.
+
+1) Wyznaczamy podział kierunkowy prostej k, a na jej podstawie współrzędną kierunkową szukanej prostej:
+
+    k: sqrt(3)x - y + 2 = 0
+
+    k' y = sqrt(3)x + 2, więc a = sqrt(3)
+
+I sposób: Wzór na kąt między prostymi:
+
+    tg 60° = |a-a1/1+aa1| 
+
+    |(a - sqrt(3))/(1 + a*sqrt(3))| = sqrt(3)
+
+    UNAGA: Tego wzoru nie ma w karcie wzorów na formatę 2023. 
+
+    a - sqrt(3) = 3a + 3sqrt(3)       v       a - sqrt(3) = -3a - 3sqrt(3)
+
+    a = -3sqrt(3)
+
+    a1 = 0                       a      a2 = -sqrt(3)     a2 = 0
+
+II sposób: ze wzoru na różnicę kątów w tangensie:
+
+    tg (x-y) = tgx - tany/1+ tgx*tany  gdzie        [tgx = a, tany = sqrt(3)]       lub   [tgx = sqrt(3), tany = a]
+
+    tg 60° = (a-sqrt(3))/(1+a*sqrt(3))    v     tg 60° = (sqrt(3)-a)/(1+sqrt(3)*a)
+
+    3a = a - sqrt(3)              3a + sqrt(3)a = sqrt(3)
+ 
+    3a = -sqrt(3)
+
+    a1 = -sqrt(3)                   a1 = 0   
+
+    a2 = 0
+
+3) Podstawiamy punkt A i wyznaczamy dla przypadki szukanej prostej (podst. a):
+
+    P(0,0) ∈ m1'y = -sqrt(3)x+b 
+
+    0 = 0* + b
+
+    b = 0
+
+    P(0,0) ∈ m2'y = b 
+
+    b = 0
+
+    Odp: m1'y = -sqrt(3)x  lub  m2'y = 0 

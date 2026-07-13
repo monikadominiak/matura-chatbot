@@ -1,0 +1,116 @@
+
+--- STRONA 1 ---
+1️⃣ uzależniamy od siebie zmienne
+
+\[
+(3\sqrt{2})^2 + |OC|^2 = (3\sqrt{3})^2
+\]
+\[
+|OC|^2 = 27 - 18 = 9
+\]
+\[
+|OC| = 3
+\]
+
+\[
+a^2 + (3+h)^2 = (3\sqrt{3})^2
+\]
+\[
+a^2 + 9 + 6h + h^2 = 27
+\]
+\[
+a^2 = -h^2 - 6h + 18
+\]
+\[
+a = \sqrt{-h^2 - 6h + 18}
+\]
+
+2️⃣ zapisujemy wzór funkcji
+
+\[
+P_{\Delta} = \frac{1}{2} \cdot 2a \cdot h = ah \quad \Rightarrow \quad P(h) = h \cdot \sqrt{-h^2 - 6h + 18} = \sqrt{-h^4 - 6h^3 + 18h^2}
+\]
+
+3️⃣ wyznaczamy dziedzinę funkcji 
+
+\[
+\begin{cases}
+h > 0 \\
+h < 3\sqrt{3} - 3 \\
+a > 0 \Rightarrow -h^2 - 6h + 18 > 0
+\end{cases} \quad \Rightarrow \quad \Delta = 108 \quad \Rightarrow \quad \Delta m = 6\sqrt{3}
+\]
+\[
+h_1 = 3\sqrt{3} - 3 ,\quad h_2 = 3\sqrt{3} + 3
+\]
+\[
+\Rightarrow \quad h \in (0, 3\sqrt{3} - 3)
+\]
+
+4️⃣ wyznaczamy pochodną funkcji
+
+I sposób:
+
+wprowadzamy funkcję pomocniczą,
+niech \( h(h) = -h^4 - 6h^3 + 18h^2 \)
+
+\[
+j'(h) = -4h^3 - 18h^2 + 36h 
+\]
+
+II sposób:
+
+pochodna funkcji złożonej
+
+\[
+P'(h) = \frac{1}{2 \sqrt{-h^4 - 6h^3 + 18h^2}} = \frac{-4h^3 - 18h^2 + 36h}{2 \sqrt{-h^4 - 6h^3 + 18h^2}}
+\]
+
+\[
+\text{zauważmy, że skoro w } II \text{ mianownik jest zawsze } > 0, \text{ to analizowanie wyrażenia w obu sposobach są równe}
+\]
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\[
+j'(h) = 0 \Leftrightarrow -2h(2h^2 + 9h - 18) = 0
+\]
+\[
+-2h(h+6)(2h-3) = 0
+\]
+\[
+h = 0 \quad \lor \quad h = -6 \quad \lor \quad h = \frac{3}{2}
+\]
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+\[
+\begin{array}{c|c|c|c|c}
+ & (0, \frac{3}{2}) & | & (\frac{3}{2}, 3\sqrt{3} - 3) \\
+\hline
+j'(h) & + & 0 & - \\
+\hline
+j(h) & \nearrow & \max \text{ lok.} & \searrow \\
+\hline
+\end{array}
+\]
+
+II sposób:
+
+Funkcja \( h(h) \), a więc również \( P(h) \) osiąga w swojej dziedzinie wartość największą dla argumentu \( h = \frac{3}{2} \)
+
+7️⃣ obliczamy \( a \) i ramię \( \Delta \) (z tw. Pitagoreasa)
+
+\[
+a = \sqrt{-\frac{9}{4} - \frac{6 \cdot \frac{3}{2}}{2} + 18} = 3\sqrt{2}
+\]
+\[
+2a = 3\sqrt{3}
+\]
+\[
+\text{ramię:} \quad \left( \frac{3\sqrt{2}}{2} \right)^2 + \left( \frac{3\sqrt{3}}{2} \right)^2 = \frac{9}{4} + \frac{27}{4} = \frac{36}{4} \Rightarrow \text{ ramię} = 3
+\]
+
+Odp: \( 3\sqrt{3}, 3, 3 \)

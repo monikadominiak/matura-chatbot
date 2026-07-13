@@ -1,0 +1,62 @@
+
+--- STRONA 1 ---
+1️⃣: odległość
+
+1️⃣ zapisujemy wzór funkcji i jej dziedzinę
+
+x(t) = -t^3 + 16,5t^2 + 180t    t ∈ ⟨0,24⟩
+
+(x(t) - oznacza przebytą drogę, więc będziemy oczekiwać, że najmniejsza odległość od szczytu odpowiada maksymalnej przebytej drodze)
+
+2️⃣ wyznaczamy pochodną funkcji
+
+x'(t) = -3t^2 + 33t + 180
+
+Dx' = Dx
+
+3️⃣ wyznaczamy miejsca zerowe pochodnej
+
+x'(t) = 0 ⇔ -3t^2 + 33t + 180 = 0 / :3  
+-t^2 + 11t + 60 = 0  
+-(t-15)(t+4) = 0  
+t = 15  ∨  t = -4
+
+4️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+(min)  -4        15        24
+      ↙︎            ↘︎
+          x'(t)    ➘︎
+
+II sposób:
+
+ t      ⟨0,15⟩     ⟨15,24⟩
+ x'(t)      +          -
+ x(t)       ↗︎         ↘︎
+
+Funkcja x(t) osiąga w swojej dziedzinie wartość największą, dla argumentu t = 15.
+
+5️⃣ obliczamy najmniejszą odległość
+
+x(15) = -15^3 + 16,5 * 15^2 + 180 * 15 = 3037,5 m
+
+odległość od szczytu: 4000 - 3037,5 = 862,5 m
+
+2️⃣: prędkość
+
+❗ pochodna z definicji określa szybkość zmian wartości danej funkcji
+
+6️⃣ zapisujemy wzór funkcji
+
+V(t) = x'(t) = -3t^2 + 33t + 180
+
+, t ∈ ⟨0,24⟩
+
+funkcja v(t) jest funkcją kwadratową, o ramionach skierowanych w dół, zatem wartość maksymalną osiąga w wierzchołku P(p,q)
+
+p = \(-\frac{b}{2a} = \frac{-33}{-6} = 5,5 ∈ D\)
+
+V(5,5) = -3 * (5,5)^2 + 33 * 5,5 + 180 = 270,75 m/h
+
+Odp: odległość 862,5 m, prędkość 270,75 m/h

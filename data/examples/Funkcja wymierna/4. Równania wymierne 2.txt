@@ -1,0 +1,73 @@
+
+--- STRONA 1 ---
+4. Równania wymierne 2
+
+Podaj liczbę rozwiązań równania:
+
+a) \(\frac{3-x}{2x-1} = \frac{2x-6}{2-4x}\)  
+b) \(x + \frac{3x}{x-1} = \frac{6x-3}{x-1}\)
+
+a)
+
+\[
+\frac{3-x}{2x-1} = \frac{2x-6}{2-4x}
+\]
+
+\(\textcircled{1}\) Wyznaczamy dziedzinę.
+
+\(D: \ 2x-1 \neq 0 \quad \wedge \quad 2-4x \neq 0\)
+
+\(2x \neq 1\)  \\
+\(x \neq \frac{1}{2}\)
+
+\(-4x \neq -2\)  \\
+\(x = \frac{1}{2}\)
+
+\(D = \mathbb{R} \setminus \left\{ \frac{1}{2} \right\}\)
+
+\(\textcircled{2}\) Rozwiązujemy równanie.
+
+\[
+\frac{3-x}{2x-1} = \frac{2x-6}{2-4x}
+\]
+
+\[
+(3-x)(2-4x) = (2x-6)(2x-1)
+\]
+
+\[
+6 - 12x -2x + 4x^2 = 4x^2 - 2x - 12x + 6
+\]
+
+\[
+0 = 0
+\]
+
+Odp.: Równanie ma nieskończenie wiele rozwiązań (spełniają wszystkie liczby oprócz \(\frac{1}{2}\)).
+
+--- STRONA 2 ---
+b) \( x + \frac{3x}{x-1} = \frac{6x-3}{x-1} \)
+
+\(\circled{1}\) Wyznaczamy dziedzinę.
+
+\( D: x-1 \neq 0 \)
+
+\( x \neq 1 \)
+
+\( D = \mathbb{R} \setminus \{ 1 \} \)
+
+\(\circled{2}\) Rozwiązujemy równanie.
+
+\[ x + \frac{3x}{x-1} = \frac{6x-3}{x-1} \quad | \cdot (x-1) \]
+
+\( x(x-1) + 3x = 6x-3 \)
+
+\( x^2 - x + 3x = 6x - 3 \)
+
+\( x^2 - 4x + 3 = 0 \)
+
+\[ \Delta = (-4)^2 - 4 \cdot 1 \cdot 3 = 16 - 12 = 4 \]
+
+\( x_1 = \frac{4-2}{2} = 1 \notin D \quad x_2 = \frac{4+2}{2} = 3 \in D \)
+
+Odp.: Równanie ma jedno rozwiązanie (jest nim \( x = 3 \)).

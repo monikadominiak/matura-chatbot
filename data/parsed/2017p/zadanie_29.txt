@@ -1,0 +1,57 @@
+=== ARKUSZ: 2017p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-4)
+Funkcja kwadratowa f jest określona dla wszystkich liczb rzeczywistych x wzorem $f(x)=ax^{2}+bx+c$. Największa wartość funkcji f jest równa 6 oraz $f(3)=f(0)=2$. Oblicz wartość współczynnika a.
+Odpowiedź: ................................................................................................................................... .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 29. $0-4$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji kwadratowej na podstawie pewnych informacji o tej funkcji lub o jej wykresie (4.9).
+Przykładowe rozwiązania I sposób Ponieważ $f(-6)=f(0)=frac{3}{2}$, stąd wartość $p=frac{-6+0}{2}=-3$. Zatem $f(x)=a(x-p)^2+q$ dla $p=-3$ i $q=6$.  Obliczamy współczynnik a. Wiemy, że $f(0)=frac{3}{2}$, zatem
+
+$$a(0+3)^2+6=frac{3}{2},$$
+
+
+$$9a=-frac{9}{2},$$
+
+
+$$a=-frac{1}{2}.$$
+Odpowiedź: $a=-frac{1}{2}$.
+II sposób Z treści zadania wynika, że $f(-6)=f(0)=frac{3}{2}$:
+
+$$begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} end{cases}$$
+
+
+$$begin{cases} 36a-6b+c=frac{3}{2} \ c=frac{3}{2} end{cases}$$
+
+
+$$begin{cases} b=6a \ c=frac{3}{2} end{cases}$$
+Obliczamy pierwszą współrzędną wierzchołka:
+
+$$p=-frac{b}{2a}=-frac{6a}{2a}=-3.$$
+Stąd wynika, że $f(-3)=6$ i $f(x)=ax^2+6ax+frac{3}{2}$. Obliczamy współczynnik a
+
+$$a(-3)^2+6a cdot (-3)+frac{3}{2}=6,$$
+
+
+$$-9a=frac{9}{2},$$
+
+
+$$a=-frac{1}{2}.$$
+
+Schemat punktowania Rozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do pełnego rozwiązania Zdający otrzymuje 1 p., gdy:  obliczy pierwszą współrzędną wierzchołka: np. $p=frac{-6+0}{2}=-3$ albo zapisze układ dwóch równań, np.: $begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} end{cases}$ albo zapisze wzór funkcji f w postaci kanonicznej $f(x)=a(x-p)^2+q$ oraz zapisze $q=6$, albo zapisze równanie $-frac{Delta}{4a}=6$ i na tym poprzestanie lub dalej popełnia błędy.
+Strona 13 z 24
+Rozwiązanie, w którym postęp jest istotny Zdający otrzymuje 2 p., gdy: zapisze wzór funkcji f w postaci: $f(x)=a(x+3)^2+6$ albo zapisze układ trzech równań z niewiadomymi a, b, c, np.:
+
+$$begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} \ -frac{b^2-4ac}{4a}=6 end{cases}$$
+lub
+
+$$begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} \ a(-3)^2+b(-3)+c=6 end{cases}$$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania Zdający otrzymuje 3 p., gdy: zapisze równanie z jedną niewiadomą a, np.: $a(0+3)^2+6=frac{3}{2}$ lub $a(-3)^2+6a cdot (-3)+frac{3}{2}=6$, lub $36a^2+18a=0$ albo obliczy wartości b i c: $b=-3$, $c=frac{3}{2}$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie pełne  Zdający obliczy wartość współczynnika a: $a=-frac{1}{2}$. Otrzymuje 4 p.
+Uwagi
+Jeżeli zdający w przedstawionym rozwiązaniu traktuje liczby -6 i 0 jako miejsca zerowe rozważanej przez siebie funkcji i przyjmuje, że druga współrzędna wierzchołka paraboli jest równa $4frac{1}{2}$, to może otrzymać 4 punkty, o ile w rozwiązaniu nie występują błędy.
+Jeżeli zdający w przedstawionym rozwiązaniu traktuje liczby -6 i 0 jako miejsca zerowe rozważanej przez siebie funkcji i przyjmuje, że druga współrzędna wierzchołka paraboli jest równa 6, to może otrzymać 1 punkt, o ile poprawnie wyznaczy pierwszą współrzędną wierzchołka paraboli.
+Strona 14 z 24

@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zadanie 10
+
+Wyznacz dziedzinę funkcji \( f(x) = \frac{3x}{2x-1} + \sqrt{\frac{x}{2-4x}} \).
+
+Wyrażenie \( \frac{a}{b}, \sqrt{\frac{a}{b}} \) mają różne dziedziny.
+
+Dziedzinę \( \frac{a}{b} \) obliczamy: \( b \neq 0 \). 
+
+Natomiast dziedzinę \( \sqrt{\frac{a}{b}} \) obliczamy : \( b > 0 \), \( a \geq 0 \). 
+
+1️⃣ Wyznaczamy dziedzinę funkcji \( f(x) \).
+
+\( D: 2x-1 \neq 0 \land \frac{3x}{2x-1} \geq 0 : (2x-1) \land 2-4x \neq 0 \)
+\[2x \neq 1\]
+\[x \neq \frac{1}{2}\]
+
+\[ \frac{3x}{2x-1} \geq 0 \]
+
+\[3x (2x - 1) \geq 0\]
+\[x=0 \quad x=\frac{1}{2}\]
+
+\[x : (2-4x) \geq 0\]
+\[x=0 \quad x=\frac{1}{2}\]
+
+\[x \in (-\infty,0] \cup [\frac{1}{2},+\infty)\]
+
+\[x \in [0, \frac{1}{2}]\]
+
+2️⃣ Wyznaczamy część wspólną rozwiązań.
+
+Odp.: \( D = \langle 0; \frac{1}{2} \rangle \).

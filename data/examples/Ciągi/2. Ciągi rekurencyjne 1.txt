@@ -1,0 +1,90 @@
+
+--- STRONA 1 ---
+2. Ciągi rekurencyjne 1
+
+Oblicz wyrazy: \(a_2, a_3, a_4, a_5\) ciągu \(a_n\). Ile liczb dodatnich jest wśród dziesięciu początkowych wyrazów ciągu \(a_n\)?
+
+a) \(\begin{cases} a_1 = 0 \\ a_{n+1} = a_n + (n-1)^2 \text{ dla } n \geq 1 \end{cases}\)
+
+b) \(\begin{cases} a_1 = -0,5 \\ a_{n+1} = (a_n + 0,5)^2 \text{ dla } n \geq 1 \end{cases}\)
+
+a)
+
+① Obliczamy \(a_2\).
+
+\(a_2 = a_1 + (1-1)^2\)
+
+\(a_2 = 0 + 0 = 0\)
+
+② Obliczamy \(a_3\).
+
+\(a_3 = a_2 + (2-1)^2\)
+
+\(a_3 = 0 + 1^2 = 1\)
+
+③ Obliczamy \(a_4\).
+
+\(a_4 = a_3 + (3-1)^2\)
+
+\(a_4 = 1 + 2^2 = 1 + 4 = 5\)
+
+④ Obliczamy \(a_5\).
+
+\(a_5 = a_4 + (4-1)^2\)
+
+\(a_5 = 5 + 3^2 = 14\)
+
+Aby ocenić, które wyrazy ciągu są dodatnie można sprawdzić jego monotoniczność.
+
+⑤ Sprawdzamy znak wyrażenia. \(a_{n+1} - a_n\).
+
+\(a_{n+1} - a_n = a_n + (n-1)^2 - a_n = (n-1)^2 > 0 \text{ dla } n \neq 1\)
+
+Pokazaliśmy, że ciąg jest rosnący (z wyjątkiem przejścia między 1. i 2. wyrazem), więc wszystkie wyrazy od 3. włącznie będą dodatnie.
+
+Czyli wśród 10 początkowych wyrazów jest 8 wyrazów dodatnich. 
+
+Odp.: \(a_2 = 0, a_3 = 1, a_4 = 5, a_5 = 14,\) i wśród 10 początkowych wyrazów jest 8 wyrazów dodatnich.
+
+--- STRONA 2 ---
+b) \[ \begin{cases} a_1 = -0,5 \\ a_{n+1} = (a_n + 0,5)^2 \end{cases} \]
+
+① Obliczamy \( a_2 \).
+
+\( a_2 = (a_1 + 0,5)^2 \)
+
+\( a_2 = (-0,5 + 0,5)^2 = 0 \)
+
+② Obliczamy \( a_3 \).
+
+\( a_3 = (a_2 + 0,5)^2 \)
+
+\( a_3 = (0 + 0,5)^2 = \frac{1}{4} \)
+
+③ Obliczamy \( a_4 \).
+
+\( a_4 = (a_3 + 0,5)^2 \)
+
+\( a_4 = \left(\frac{1}{4} + 0,5\right)^2 = \frac{9}{16} \)
+
+④ Obliczamy \( a_5 \).
+
+\( a_5 = (a_4 + 0,5)^2 \)
+
+\( a_5 = \left(\frac{9}{16} + 0,5\right)^2 = \frac{289}{256} \)
+
+Aby ocenić, które wyrazy ciągu są dodatnie można sprawdzić jego monotoniczność.
+
+⑤ Sprawdzamy znak wyrażenia \( a_{n+1} - a_n \).
+
+\( a_{n+1} - a_n = (a_n + 0,5)^2 - a_n = a_n^2 - a_n + \frac{1}{4} \)
+
+Nie trzeba traktować tego wyrażenia jako funkcji kwadratowej, ponieważ to jest suma liczby nieujemnej i dodatniej, więc wystarczy wniosek, że całość jest zawsze dodatnia. 
+
+\( f(a_n) > 0 \) dla dowolnych \( n \), więc \( a_{n+1} - a_n > 0 \)
+
+Wyrażenie zmiennej \( a_n \) opisujące różnicę między dwoma sąsiednimi wyrazami ciągu jest zawsze dodatnie, czyli ciąg jest rosnący.
+
+Oznacza to, że wszystkie wyrazy od 3. (włącznie) są dodatnie. Czyli wśród początkowych 10 wyrazów jest 8 wyrazów dodatnich.
+
+Odp: \( a_2 = 0, a_3 = \frac{1}{4}, a_4 = \frac{9}{16}, a_5 = \frac{289}{256} \) i wśród 10 początkowych wyrazów jest 8 wyrazów dodatnich.

@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Wyznacz najmniejszą i największą wartość funkcji \( f \) w podanym przedziale. Podaj zbiór wartości funkcji \( f \) w tym przedziale. \( f(x) = \frac{1-x^2}{x-3} , x \in \langle -5, 3) \)
+
+\( f(x) = \frac{1-x^2}{x-3} \quad D_f = \mathbb{R}\setminus\{3\} \quad \text{w przedziale} \; \langle -5, 3) \)
+przedział lewostronnie domknięty
+
+\((1)\) \(\text{wyznaczamy pochodną}\)
+
+\( f'(x) = \frac{-2x(x-3)-(1-x^2)}{(x-3)^2} = \frac{-x^2+6x-1}{(x-3)^2} \)
+
+\( D_{f'} = D_f \)
+
+\((2)\) \(\text{wyznaczamy miejsca zerowe pochodnej}\)
+
+\( f'(x) = 0 \; \Leftrightarrow \; -x^2+6x-1 = 0 \)
+
+\(\Delta = 36-4 = 32 \quad \sqrt{\Delta} = 4\sqrt{2}\)
+
+\( x_1 = \frac{-6+4\sqrt{2}}{-2} = 3-2\sqrt{2} \)
+
+\( x_2 = 3+2\sqrt{2} \notin \langle -5, 3) \)
+
+\((3)\) \(\text{badamy monotoniczność i ekstrema funkcji}\)
+
+\( \; \; \; \; \; \; \; \; \; \; \; \; \; + \quad \downarrow \quad \; + \quad \; \uparrow \ \quad \ \downarrow \ \)
+
+\(-5 \;\;\; \; \; 3-2\sqrt{2} \; \; \; \; \; \; \; \; \; \; \; \; \; \; \; \ \ \ \ \ \ \ \ \ 3 \; x \)
+
+\(\; \; \; \; \; f'(x) \; \; \; \; \; \; \; \; \; \; \; (f'(x) \; \text{(licznik)}) \quad \quad \quad \quad\ \)
+
+\((4)\) \(\text{liczymy wartość ekstrema i analizujemy krańce przedziału}\)
+
+\( f_{min} = f(3-2\sqrt{2}) = \frac{1-(9-12\sqrt{2}+8)}{3-2\sqrt{2}-3} = \frac{-16+12\sqrt{2}}{-2\sqrt{2}} = 4\sqrt{2} - 6 \)
+
+\( f(-5) = \frac{1-25}{-5-3} = 3 \)
+
+\( 3 \; \text{jest poza przedziałem, więc zamiast} \; f(3) \)
+
+\(\text{liczymy} \quad \lim_{x \to 3^-} f(x)\)
+
+\( \lim_{x \to 3^-} \frac{1-x^2}{x-3} = \frac{-8}{0^-} = +\infty \quad (\text{bardzo mała liczba ujemna}) \)
+
+odp: w badanym przedziale najmniejsza wartość jest równa \( 4\sqrt{2}-6 \), a największa nie istnieje , \(ZW=\langle 4\sqrt{2}-6 ; +\infty \))

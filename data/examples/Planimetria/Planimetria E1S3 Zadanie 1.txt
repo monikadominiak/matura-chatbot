@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zad.1 Jakie największe pole może mieć trójkąt prostokątny wpisany w okrąg o promieniu 3?
+
+1) Tworzymy rysunek poglądowy:
+
+|AS|=|BS|=3
+
+P_max=\frac{1}{2}|AB| \cdot h_{MAX} = \frac{1}{2} \cdot 6 \cdot 3 = 9
+
+Kąt wpisany w okrąg jest prosty tylko wtedy, gdy jest oparty na średnicy okręgu. Średnica będzie zatem naszą przeciwprostokątną.
+
+Niedość, że w naszym przypadku przeciwprostokątna zawsze jest równa średnicy, największe pole osiągnie taki trójkąt, którego wysokość będzie najdłuższa.
+
+Najdłuższą możliwą wysokością trójkąta prostokątnego wpisanego w okrąg będzie promień tego okręgu.
+
+Odp. P_max=9.

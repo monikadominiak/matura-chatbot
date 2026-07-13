@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Liczby dodatnie \( a \) i \( b \) spełniają równość \( 4a^2 + 12a = b^2 + 6b \).
+Wykaż, że \( b = 2a \).
+
+założenie: \( 4a^2 + 12a = b^2 + 6b \quad, \, a, b > 0 \)
+
+teza: \( b = 2a \Rightarrow 2a - b = 0 \)
+
+\(\Uparrow\) przekształcamy równoważnie założenie:
+
+I sposób
+
+\( 4a^2 + 12a - b^2 - 6b = 0 \)
+
+\( 4a^2 - b^2 + 12a - 6b = 0 \)
+
+\( (2a - b)(2a + b) + 6(2a - b) = 0 \)
+
+\( (2a - b)(2a + b + 6) = 0 \)
+\( \, \, \, >0 \, \, >0 \, >0 \)
+
+suma liczb \( > 0 \)
+
+jest zawsze \( > 0 \)
+
+zatem \( \, \, 2a - b = 0 \)
+
+\( 2a = b \quad \text{c.k.d.} \)
+
+II sposób
+
+\( (a + b)^2 = a^2 + 2ab + b^2 \)
+
+\( 4a^2 + 12a + 9 \, = \, b^2 + 6b + 9 \)
+
+\( \, \, \, 2 \cdot 2 \cdot 3 \quad \, \, \, \, 2 \cdot 3 \)
+
+\( (2a + 3)^2 \, = \, (b + 3)^2 \quad / \sqrt{} \)
+
+\( \mid 2a + 3 \mid \, = \, \mid b + 3 \mid \)
+
+dla \( a > 0 , \, b > 0 \)
+
+\( \, \, \, \, \, \, > 0 \quad \, \, \, \, \, \, > 0 \)
+
+opuszczamy moduly
+
+\( \, \, \, \, \, \, \, \, \, \, \, \, \, 2a + 3 \, = \, b + 3 \)
+
+\( \, \, \, \, \, \, \, \, \, \, \, \, \, 2a = b \)
+
+\( \text{c.k.d.} \)
+
+UWAGA: jeśli w zadaniu dowodowym przekształcamy (równoważnie) założenie i dochodzimy do tezy, to komentarz nie jest konieczny.

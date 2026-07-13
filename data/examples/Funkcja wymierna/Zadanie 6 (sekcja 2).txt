@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Zadanie 6
+
+Rozwiąż nierówność 5^{3x} - 2 \cdot 5^{2x} - 5^{x+1} - 50 > 0.
+
+1️⃣ Wprowadzimy pomocniczą zmienną t.
+
+5^x = t, \, t > 0 \quad Przedział \, t \in (0, +\infty) \, jest \, równy \, zbiorowi \, wartości \, 5^x.
+
+t^3 - 2t - 5t - 50 > 0
+
+w(5)=125-50-25-50=0
+
+2️⃣ Dzielimy schematem Hornera.
+
+\begin{array}{c|cccc}
+ & 1 & -2 & -5 & -50 \\
+5 & 1 & 3 & 10 & 0 \\
+\end{array}
+
+(t-5)(t^2+3t+10)>0
+
+\Delta = 9-40<0
+
+\quad
+
+t \in (5, +\infty)
+
+3️⃣ Cofamy podstawienie.
+
+5^x > 5
+
+5^x > 5^1
+
+x > 1
+
+Odp.: \, x \in (1, +\infty).

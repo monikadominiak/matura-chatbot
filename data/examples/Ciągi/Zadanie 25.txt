@@ -1,0 +1,12 @@
+
+--- STRONA 1 ---
+Zadanie 25  
+Oblicz granicę lim_{n \to \infty}(n - \sqrt{n+3}).
+
+📝 Obliczamy granicę.
+
+lim_{n \to \infty}(n - \sqrt{n+3}) = lim_{n \to \infty} n \left(1 - \sqrt{1 + \frac{3}{n}}\right) = lim_{n \to \infty} n(1 - 0) = lim_{n \to \infty} n = \infty
+
+\lim_{n \to \infty} \sqrt{n+3} = \lim_{n \to \infty} \sqrt{n} \cdot \sqrt{1+\frac{3}{n}} = \lim_{n \to \infty} n^{\frac{1}{2}} \sqrt{1+\frac{3}{n}} = 0,
+
+Odp.: \lim_{n \to \infty} (n - \sqrt{n+3}) = \infty.

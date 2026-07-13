@@ -1,0 +1,125 @@
+
+--- STRONA 1 ---
+x1 (2.4)
+
+Wyznacz wszystkie takie wartości parametru k∈ℝ, aby liczba 2 znajdowała się między miejscami zerowymi f(x)=x^2 + 4x + k.
+
+f(x) = x^2 + 4x + k
+
+a = 1
+b = 4
+c = k
+
+1. Zapisanie warunków wynikających z treści zadania
+
+Zacznijmy od naszkicowania poglądowego wykresu funkcji, który chcemy otrzymać:
+
+(druk rysunku)
+ 
+Zatem:
+
+1° Δ > 0 ← chcemy uzyskać dwa miejsca zerowe
+
+2° f(2) < 0 ← wartość funkcji dla x = 2 musi być mniejsza od zera (pomiędzy miejscami zerowymi)
+
+Drugi warunek można rozwiązać również za pomocą wzorów Viet'a. Pokażę oba sposoby.
+
+2. Rozwiązanie pierwszego z warunków:
+
+1° Δ > 0
+
+Δ = b^2 - 4·a·c
+
+4^2 - 4·1·k > 0
+
+16 - 4k > 0 | +4k
+
+4k < 16 | :4
+
+k < 4
+
+3. Rozwiązanie drugiego z warunków:
+
+Sposób I:
+
+f(2) < 0
+
+2^2 + 4·2 + k < 0
+
+4 + 8 + k < 0
+
+12 + k < 0 | -12
+
+k < -12
+
+Sposób II - Wykorzystanie wzoru Viete'a:
+
+Z treści oraz rysunku wynika, że:
+
+x1 < 2 < x2 lub x2 < 2 < x1
+
+--- STRONA 2 ---
+Wzory Viète'a
+
+x_1 + x_2 = -\frac{b}{a}
+\hspace{2cm}
+x_1 \cdot x_2 = \frac{c}{a}
+
+x_1 + x_2 = -\frac{4}{1} = -4
+
+\hspace{2cm}
+x_1 \cdot x_2 = k
+
+x_2 = -4 - x_1
+
+Podstawiając do warunku:
+
+x_1 < 2 < x_2
+
+otrzymujemy:
+
+x_1 < 2 < -4 - x_1
+
+x_1 < 2
+\hspace{2cm}
+2 < -4 - x_1 \ / +4
+
+6 < -x_1 \ / \cdot (-1)
+\hspace{2cm}
+x_1 < -6
+
+Z tego wynika, że:
+
+x_2 = -4 - x_1 > 2
+
+Zatem
+
+x_1 \cdot x_2 = k
+
+k = x_1 \cdot x_2 = x_1 \cdot (-4 - x_1) = -4x_1 - x_1^2
+
+x_1 = t
+\hspace{2cm}
+x_1 < 6 \Rightarrow t < 6
+
+k = -4t - t^2 = -t(4+t)
+
+t = 0
+\hspace{2cm}
+t = -4
+
+Wyznaczamy maksimum tej funkcji uwzględniając dziedzinę
+
+dla t = -6
+
+k = -(-6)^2 - 4 \cdot (-6) = -36 + 24 = -12
+
+Ponieważ t < -6 to \boxed{k < -12}
+
+4. Wyznaczenie odpowiedzi końcowej.
+
+1^\circ \ k < 4
+
+2^\circ \ k < -12 \Rightarrow k \in (-\infty, -12)
+
+\hspace{7cm} \text{Odp: } k \in (-\infty, -12).

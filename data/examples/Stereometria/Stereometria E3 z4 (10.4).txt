@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa jest kwadrat o boku a. Dwie ściany boczne ostrosłupa są prostopadłe do płaszczyzny podstawy, a dwie pozostałą ściany boczne tworzą z podstawą kąt α. Oblicz pole powierzchni bocznej ostrosłupa.
+
+1) sporządzamy rysunek pomocniczy
+
+AE ⊥ AD oraz BE ⊥ AD, więc BE ⊥ AE, 
+zatem BC ⊥ BE ⇒ ∡CBE = 90°, 
+analogicznie da się wykazać, 
+że ∡CDE = 90°.
+
+(w takim ostrosłupie wszystkie ściany boczne są trójkątami prostokątnymi)
+
+oraz cosα = a / |BE| ⇒ |BE| = a / cosα
+
+2) wyznaczamy wysokości ścian bocznych: |AE|, |BE| = |ED|
+
+w ΔABE: 
+tgα = |EA| / a ⇒ |EA| = tgα * a
+
+3) liczymy pole powierzchni bocznej
+
+Pb = 2 * 1/2 * a * |AE| + 2 * 1/2 * a * |DE| = 
+
+= a^2 * tgα + a^2 / cosα = 
+
+= a^2 (sinα / cosα + 1 / cosα) = a^2 / cosα (sinα + 1)
+
+Odp: Pb = a^2 / cosα (sinα + 1)

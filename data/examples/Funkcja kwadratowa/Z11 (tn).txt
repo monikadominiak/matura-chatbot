@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+z.11 (tn)
+
+Wykres funkcji kwadratowej
+f(x) = ax^2 + bx + c ma z prostą o równaniu y = 8 dokładnie jeden punkt wspólny. Punkty A = (-4,0) i B = (2,0) należą do wykresu funkcji f. Oblicz wartości współczynników a, b, oraz c.
+
+① Pierwsza współrzędna wierzchołka
+
+Skoro miejscami zerowymi są x₁ = -4 oraz x₂ = 2 to:
+
+p = \(\frac{x₁ + x₂}{2}\) = \(\frac{-4 + 2}{2}\) = \(\frac{-2}{2}\) = -1
+
+② Druga współrzędna wierzchołka
+
+W poleceniu mamy podane, że parabola ma dokładnie jeden punkt wspólny z prostą y = 8, co oznacza, że wierzchołek paraboli leży dokładnie na tej prostej.
+
+f(-1) = 8
+q = 8  =>  W(-1, 8)
+
+③ Postać iloczynowa
+
+Ze względu na to, że mamy podane oba miejsca zerowe funkcji oraz wyznaczyliśmy współrzędne wierzchołka, możemy skorzystać z postaci iloczynowej funkcji kwadratowej:
+
+f(x) = a(x - x₁)(x - x₂)
+
+f(x) = a(x - (-4))(x - 2)
+
+Podstawiając W(-1, 8):
+
+8 = a(-1 + 4)(-1 - 2)
+
+8 = a · 3 · (-3)
+
+8 = -9a  =>  a = -\(\frac{8}{9}\)
+
+④ Wyznaczenie b i c
+
+f(x) = -\(\frac{8}{9}\)(x + 4)(x - 2)
+
+f(x) = -\(\frac{8}{9}\)(x^2 - 2x + 4x - 8)
+
+f(x) = -\(\frac{8}{9}\)(x^2 + 2x - 8)
+
+f(x) = -\(\frac{8}{9}\)x^2 - \(\frac{16}{9}\)x + \(\frac{64}{9}\)
+
+Zatem: a = -\(\frac{8}{9}\), b = -\(\frac{16}{9}\), c = \(\frac{64}{9}\)
+
+Odp: a = -\(\frac{8}{9}\), b = -\(\frac{16}{9}\), c = \(\frac{64}{9}\).

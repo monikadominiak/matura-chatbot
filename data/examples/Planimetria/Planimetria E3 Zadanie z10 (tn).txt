@@ -1,0 +1,9 @@
+
+--- STRONA 1 ---
+Zadanie z10 (tn) Która z tych figur: równoległobok, prosta, trójkąt równoboczny, jest figurą środkowosymetryczną?
+
+Figura środkowosymetryczna to taka, która posiada środek symetrii (nie musi posiadać osi symetrii). Środek symetrii to taki punkt, że gdyby obrócić wokół niego figurę o 180 stopni, to figura powstała po obrocie pokryje się z figurą przed obrotem.
+
+Spośród wymienionych figur środkowosymetryczne są równoległobok i prosta.
+
+Odp. Równoległobok i prosta.

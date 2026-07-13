@@ -1,0 +1,16 @@
+=== ARKUSZ: 2019p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Punkty D i E leżą na okręgu opisanym na trójkącie równobocznym ABC (zobacz rysunek). Odcinek CD jest średnicą tego okręgu. 
+Kąt wpisany DEB ma miarę alpha. Zatem 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. alpha = 30° B. alpha  45° D. alpha = 45°
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

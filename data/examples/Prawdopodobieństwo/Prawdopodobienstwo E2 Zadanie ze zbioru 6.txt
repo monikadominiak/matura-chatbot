@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+W rozwinięciu wyrażenia \( (a + b)^n \) dla pewnego \( n \in \mathbb{N} \) suma współczynników przy wyrazach \( a^{n-2}b^2 \) oraz \( a^{n-1}b \) jest równa 66.
+
+Oblicz \( n \). Zapisz obliczenia.
+
+1️⃣ rozpiszemy fragment wyrażenia \( (a+b)^n \) według wzoru:
+
+\( (a+b)^n = \binom{n}{0} a^n + \binom{n}{1} a^{n-1}b + \binom{n}{2} a^{n-2}b^2 + \ldots \)
+
+2️⃣ zapisujemy równanie z polecenia
+\[
+\binom{n}{1} + \binom{n}{2} = 66, \quad \binom{n}{1} = n
+\]
+
+3️⃣ rozwiązujemy równanie
+\[
+n + \frac{n(n-1)}{2} = 66 \quad / \cdot 2
+\]
+\[
+2n + n(n-1) = 132
+\]
+\[
+2n + n^2 - n = 132
+\]
+\[
+n^2 + n - 132 = 0
+\]
+\[
+\Delta = 529 \quad \sqrt{\Delta} = 23
+\]
+\[
+n_1 = \frac{-1 - 23}{2} = -12 \, \cancel{\in \mathbb{N}}
+\]
+\[
+n_2 = \frac{-1 + 23}{2} = 11
+\]
+
+Odp: \( n = 11 \)

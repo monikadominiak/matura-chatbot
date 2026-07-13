@@ -1,0 +1,863 @@
+
+--- STRONA 1 ---
+Wygląda na to, że obraz jest pusty. Czy możesz spróbować przesłać go ponownie?
+
+--- STRONA 2 ---
+Etap 1
+
+--- STRONA 3 ---
+1. Wykresy funkcji sinus i cosinus 1
+
+Ile miejsc zerowych ma funkcja f w podanym przedziale jeśli:
+
+a) f(x) = sin x dla x ∈ [0, 2π] 
+
+b) f(x) = cos x dla x ∈ \left( -\frac{5\pi}{2}, \frac{5\pi}{2} \right]
+
+a) ➊ Szkicujemy wykres funkcji sinus.
+
+\( y = \sin x \)
+
+➋ Odczytujemy miejsca zerowe.
+
+\( x = k\pi \), \( k \in \mathbb{Z} \) ∧ \( x \in [0, 2\pi] \)
+
+czyli \( x \in \{ 0, \pi, 2\pi \} \)
+
+Odp.: Funkcja \( f(x) = \sin x \) w przedziale \([0, 2\pi]\) ma 3 miejsca zerowe.
+
+b) ➊ Szkicujemy wykres funkcji cosinus.
+
+\( y = \cos x \)
+
+➋ Odczytujemy miejsca zerowe.
+
+\( x = \frac{\pi}{2} + k\pi \), \( k \in \mathbb{Z} \) ∧ \( x \in \left( -\frac{5\pi}{2}, \frac{5\pi}{2} \right] \)
+
+czyli \( x \in \left\{-\frac{3\pi}{2}, -\frac{\pi}{2}, \frac{\pi}{2}, \frac{3\pi}{2}, \frac{5\pi}{2} \right\} \)
+
+Odp.: Funkcja \( f(x) = \cos x \) w przedziale \((- \frac{5\pi}{2}, \frac{5\pi}{2}]\) ma 5 miejsc zerowych.
+
+--- STRONA 4 ---
+1. Wykresy funkcji sinus i cosinus 2
+
+Ile rozwiązań w podanym przedziale ma poniższe równanie w zależności od parametru m?
+
+a) sin x = m, [0, 4π]
+
+b) cos x = m, (-π, 3π)
+
+Uwaga: w równaniach postaci f(x)=m traktujemy prawą stronę jako funkcję stałą, y=m. Od wartości parametru m zależy, na jakiej wysokości znajduje się ta funkcja stała. Rozwiązaniami równania f(x)=m są x-owe współrzędne punktów przecięcia wykresów funkcji f(x) oraz funkcji stałej y=m.
+
+a) Szkicujemy wykres funkcji sinus.
+
+(Wykres sinusoidy)
+
+2. Odczytujemy liczbę rozwiązań w przedziale [0, 4π] zależnie od wartości m.
+
+5 rozwiązań dla m=0,
+
+2 rozwiązania dla m ∈ {-1, 1}
+
+4 rozwiązania dla m ∈ (-1,0) ∪ (0,1)
+
+Brak rozwiązań dla m ∈ (-∞,-1) ∪ (1,+∞)
+
+Odp: W przedziale [0, 4π]: 5 rozwiązań dla m=0, 4 rozwiązania dla m ∈ (-1,0) ∪ (0,1), 2 rozwiązania dla m ∈ {-1, 1}, brak rozwiązań dla m ∈ (-∞,-1) ∪ (1,+∞).
+
+--- STRONA 5 ---
+b) ① Szkicujemy wykres funkcji cosinus.
+
+② Odczytujemy liczbę rozwiązań w przedziale \((- \pi, 3 \pi)\) w zależności od wartości \(m\).
+
+4 rozwiązania dla \(m \in (-1, 1)\)
+
+2 rozwiązania dla \(m = 1\)
+
+1 rozwiązanie dla \(m = -1\)
+
+Brak rozwiązań dla \(m \in (-\infty, -1) \cup (1, +\infty)\)
+
+Odp.: W przedziale \((- \pi, 3 \pi)\): 4 rozwiązania dla \(m \in (-1, 1)\), 2 rozwiązania dla \(m = 1\), 1 rozwiązanie dla \(m = -1\), brak rozwiązań dla \(m \in (-\infty, -1) \cup (1, +\infty)\).
+
+--- STRONA 6 ---
+1. Wykresy funkcji sinus i cosinus 3  
+Zbadaj parzystość funkcji f.
+
+a) \( f(x) = \sin x \cos x \)  
+b) \( f(x) = \frac{\sin x + 1}{x} \)  
+c) \( f(x) = -x^2 \cos x \)
+
+Funkcja jest nieparzysta gdy \( f(-x) = -f(x) \).  
+Funkcja jest parzysta gdy \( f(x) = f(-x) \).
+
+a) \textcircled{1} Sprawdzamy parzystość funkcji \( f(x) \).
+
+\( f(x) = \sin x \cos x \)
+
+\( f(-x) = \sin (-x) \cos (-x) = -\sin x \cos x \)
+
+\(-f(x) = -\sin x \cos x \)
+
+Zachodzi \( f(-x) = -f(x) \), więc funkcja jest nieparzysta.  
+Nie zachodzi \( f(x) = f(-x) \), więc funkcja nie jest parzysta.
+
+Odp.: Funkcja \( f(x) = \sin x \cos x \) jest nieparzysta.
+
+b) \textcircled{1} Sprawdzamy parzystość funkcji \( f(x) \).
+
+\( f(x) = \frac{\sin x + 1}{x} \)
+
+\( f(-x) = \frac{\sin (-x) + 1}{-x} = \frac{-\sin x + 1}{-x} = \frac{\sin x - 1}{x} \)
+
+\(-f(x) = \frac{-\sin x - 1}{x} \)
+
+Nie zachodzi \( f(-x) = -f(x) \), więc funkcja nie jest nieparzysta.  
+Nie zachodzi \( f(x) = f(-x) \), więc funkcja nie jest parzysta.
+
+Odp.: Funkcja \( f(x) = \frac{\sin x + 1}{x} \) nie jest ani parzysta ani nieparzysta.
+
+--- STRONA 7 ---
+c) ① Sprawdzamy parzystość funkcji f(x).  
+f(x) = -x^2 \cos x  
+f(-x) = (-x)^2 \cos (-x) = -x^2 \cos x  
+-f(x) = -(-x^2 \cos x) = x^2 \cos x  
+
+Nie zachodzi f(-x) = -f(x), więc funkcja nie jest nieparzysta.  
+Zachodzi f(x) = f(-x), więc funkcja jest parzysta.  
+
+Odp. Funkcja f(x) = -x^2 \cos x jest parzysta.
+
+--- STRONA 8 ---
+2. Wykresy funkcji tangens 1
+
+Wyznacz x takie, że:
+a) tgx = √3 i x ∈ [2π, 3π]  b) tgx = -1 i x ∈ [4π, 5π]
+
+a) tgx = √3, x ∈ [2π, 3π]
+
+1️⃣ Szkicujemy wykres funkcji tgx.
+
+[Wykres przedstawiający funkcję tgx, pokazuje okresy oraz wartości π/2, -π/2, π, -π, itd.]
+
+2️⃣ Wyznaczamy rozwiązanie tgx = √3 korzystając z wykresu.
+
+x = π/3 + kπ,  k ∈ Z  ∧  x ∈ [2π, 3π]
+czyli  x = 7π/3
+
+Odp.: x = 7π/3.
+
+--- STRONA 9 ---
+b) ① Szkicujemy wykres funkcji tgx.
+
+② Wyznaczamy rozwiązania tgx=-1 korzystając z wykresu.
+
+x = -\frac{\pi}{4} + k\pi \ , \ k \in \mathbb{Z} \ \ \ \wedge \ \ \ x \in \left[ 4\pi, 5\pi \right] 
+
+czyli \ \ x = 4\frac{3}{4}\pi 
+
+Odp.: \ x = 4\frac{3}{4}\pi.
+
+--- STRONA 10 ---
+2. Wykresy funkcji tangens 2
+
+Oblicz sumę pierwiastków równania należących do przedziału [0,4π].
+
+a) tgx = 0              b) tgx = -\sqrt{3}/3             c) tgx = 1
+
+a) \,\,\,\,\, tgx = 0, \, x \in [0,4\pi]
+
+① Szkicujemy wykres funkcji tgnx.
+
+② Odczytujemy rozwiązania tgx = 0 korzystając z wykresu.
+
+x = k\pi, \,\, k \in \mathbb{Z} \,\, \land \,\, x \in [0,4\pi]
+
+czyli \,\, x \in \{0, \pi, 2\pi, 3\pi, 4\pi\}
+
+③ Obliczamy sumę rozwiązań.
+
+0 + \pi + 2\pi + 3\pi + 4\pi = 10\pi
+
+Odp.: \,\, Suma: \, 10\pi.
+
+--- STRONA 11 ---
+b) \(\text{tg}x = -\frac{\sqrt{3}}{3}, \, x \in [0,4\pi]\)
+
+\(\large{\circled{1}}\) Szkicujemy wykres funkcji \(\, \text{tg}x.\)
+
+\[ \begin{array}{c}
+| \\
+| \\
+\hline
+| \, \, \, \, \, \, \, \, \, \, \,\, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \,  \\
+| \\
+| 
+\end{array} \]
+\[ \, \, -\frac{\pi}{2} \, \, \, \, \, \, \, 0 \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \frac{\pi}{2} \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \pi \]
+
+\[ \begin{array}{c}
+| \\
+| \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \  \\
+| \\
+| 
+\end{array} \]
+\[ \, \, \, \, \, \, \, \, \, \, \, \]
+
+\[ y = \text{tg}x \]
+
+\(\large{\circled{2}}\) Odczytujemy rozwiązania \(\text{tg}x=-\frac{\sqrt{3}}{3}\) korzystając z wykresu.
+
+\[ x = -\frac{\pi}{6}+k\pi, \, k \in \mathbb{Z} \, \land \, x \in \left[0,4\pi\right] \]
+
+\[ \text{czyli} \, x \in \left \{ \frac{5\pi}{6}, \frac{11\pi}{6}, \frac{17\pi}{6}, \frac{23\pi}{6} \right \} \]
+
+\(\large{\circled{3}}\) Obliczamy sumę rozwiązań.
+
+\[ \frac{5\pi}{6} + \frac{11\pi}{6} + \frac{17\pi}{6} + \frac{23\pi}{6} = \frac{56\pi}{6} = \frac{28\pi}{3} \]
+
+\(\text{Odp.: Suma: }\frac{28\pi}{3}.\)
+
+--- STRONA 12 ---
+c) tgx = 1, x ∈ [0,4π]
+
+① Szkicujemy wykres funkcji tgx.
+
+② Odczytujemy rozwiązania tgx = 1 korzystając z wykresu.
+
+x = π/4 + kπ, k ∈ ℤ ∧ x ∈ [0,4π]
+
+czyli x ∈ {π/4, 5π/4, 9π/4, 13π/4}
+
+③ Obliczamy sumę rozwiązań.
+
+π/4 + 5π/4 + 9π/4 + 13π/4 = 28π/4 = 7π
+
+Odp.: Suma: 7π.
+
+--- STRONA 13 ---
+3. Przekształcenia wykresów funkcji tryg 1
+
+Naszkicuj wykres funkcji f i podaj jej miejsca zerowe.
+
+a) f(x) = sin(x - π/6)  b) f(x) = cos(x + π)  c) f(x) = -cos(x + π/2)
+
+a) ① Przesuwamy wykres funkcji g(x) = sin x o wektor v̅ = [π/6, 0].
+
+g(x) = sin x
+
+\[ \vec{v} = \left[ \frac{\pi}{6}, 0 \right] \]
+
+f(x) = sin(x - π/6)
+
+② Szkicujemy wykresy
+
+\[ y \] \( x \) 
+
+w kształcie sinusoidy przesuniętej o π/6 w prawo. 
+
+③ Odczytujemy miejsca zerowe f(x).
+
+x = π/6 + kπ,  k ∈ ℤ
+
+Odp.: Miejsca zerowe : x = π/6 + kπ,  k ∈ ℤ.
+
+b) ① Przesuwamy wykres funkcji g(x) = cos x o wektor v̅ = [-π, 0].
+
+g(x) = cos x
+
+\[ \vec{v} = \left[ -\pi, 0 \right] \]
+
+f(x) = cos(x + π)
+
+② Szkicujemy wykresy
+
+\[ y \] \( x \) 
+
+w kształcie sinusoidy przesuniętej o π w lewo.
+
+③ Odczytujemy miejsca zerowe f(x).
+
+x = π/2 + kπ,  k ∈ ℤ
+
+Odp.: Miejsca zerowe : x = π/2 + kπ,  k ∈ ℤ.
+
+--- STRONA 14 ---
+b) ① Przesuwamy wykres funkcji g(x)=\cos x o wektor \(\vec{v}=[-\frac{\pi}{2},0]\) oraz odbijamy względem osi OX.
+
+g(x) = \cos x \quad \xrightarrow{Sox} \quad y = -\cos x \quad \xrightarrow{\vec{v}=[-\frac{\pi}{2},0]} \quad f(x) = -\cos(x+\frac{\pi}{2})
+
+② Szkicujemy wykresy.
+
+(Oś Y, wykresy sinusoidy):
+
+g(x) = \cos x 
+
+f(x) = -\cos(x+\frac{\pi}{2})
+
+(Wykres w układzie współrzędnych: -\frac{\pi}{2}, 0, \frac{\pi}{2}, \pi, \frac{3\pi}{2}, 2\pi, (oś X))
+
+③ Odczytujemy miejsca zerowe f(x).
+
+x = k\pi, \quad k \in \mathbb{Z}
+
+
+Odp.: Miejsca zerowe: x = k\pi, \quad k \in \mathbb{Z}.
+
+--- STRONA 15 ---
+3. Przekształcenia wykresów funkcji tryg 2
+
+Podaj zbiór wartości funkcji f.
+
+a) f(x) = sin x + 4     b) f(x) = 1 - cos^2 x     c) f(x) = -1 - sin x
+
+a) ① Obliczamy zbiór wartości funkcji f(x).
+
+Zbiorem wartości funkcji y = sin x jest zbiór [-1, 1].
+
+-1 ≤ sin x ≤ 1   | +4
+
+3 ≤ sin x + 4 ≤ 5
+
+𝑍𝑊_f = [3, 5]
+
+Odp.: 𝑍𝑊_f = [3, 5].
+
+b) ① Obliczamy zbiór wartości funkcji f(x).
+
+Zbiorem wartości funkcji y = cos x jest zbiór [-1, 1].
+
+-1 ≤ cos x ≤ 1
+
+0 ≤ cos^2 x ≤ 1   /:(-1)
+
+-1 ≤ -cos^2 x ≤ 0   /+1
+
+0 ≤ 1 - cos^2 x ≤ 1
+
+𝑍𝑊_f = [0, 1]
+
+Odp.: 𝑍𝑊_f = [0, 1].
+
+c) ① Obliczamy zbiór wartości funkcji f(x).
+
+Zbiorem wartości funkcji y = sin x jest zbiór [-1, 1].
+
+-1 ≤ sin x ≤ 1   |:(-1)
+
+-1 ≤ -sin x ≤ 1   | -1
+
+-2 ≤ -1 - sin x ≤ 0
+
+𝑍𝑊_f = [-2, 0]
+
+Odp.: 𝑍𝑊_f = [-2, 0].
+
+--- STRONA 16 ---
+4. Równania trygonometryczne 1
+
+Rozwiąż równanie.
+
+a) sin 4x = 1
+
+b) 2cos(\frac{\pi}{4} - x) = -\sqrt{2}
+
+c) 3tg(x/2 + \pi/6) = -\sqrt{3}
+
+a) ① Szkicujemy wykres funkcji sinx oraz prostą y = 1.
+
+[Wykres funkcji]
+
+② Odczytujemy rozwiązania.
+
+4x = \frac{\pi}{2} + 2k\pi, \quad k \in \mathbb{Z}
+
+x = \frac{\pi}{8} + k\frac{\pi}{2}
+
+Odp.: \; x = \frac{\pi}{8} + k\frac{\pi}{2}.
+
+b) ① Szkicujemy wykres funkcji cosx oraz prostą y = -\sqrt{2}.
+
+[Wykres funkcji]
+
+② Odczytujemy rozwiązania.
+
+\frac{\pi}{4} - x = \frac{3\pi}{4} + 2k\pi \quad \vee \quad \frac{\pi}{4} - x = \frac{5\pi}{4} + 2k\pi
+
+-x = \frac{\pi}{2} + 2k\pi \quad \vee \quad -x = \pi + 2k\pi
+
+x = -\frac{\pi}{2} - 2k\pi \quad \vee \quad x = -\pi - 2k\pi \quad , \quad k \in \mathbb{Z}
+
+Można zapisać rozwiązania bez mnożenia k\pi przez minus.
+
+Odp.: x = -\frac{\pi}{2} + 2k\pi \quad \vee \quad x = -\pi + 2k\pi \quad , \quad k \in \mathbb{Z}.
+
+--- STRONA 17 ---
+c) ➊ Przekształcamy równanie .
+
+3 \tg \left( \frac{x}{2} + \frac{\pi}{6} \right) = -\sqrt{3}
+
+\tg \left( \frac{x}{2} + \frac{\pi}{6} \right) = -\frac{\sqrt{3}}{3}
+
+
+➋ Szkicujemy wykres funkcji \tg x oraz prostą y = -\frac{\sqrt{3}}{3} .
+
+➌ Odczytujemy rozwiązania.
+
+\frac{x}{2} + \frac{\pi}{6} = -\frac{\pi}{6} + k\pi
+
+\frac{x}{2} = -\frac{\pi}{3} + k\pi
+
+x = -\frac{2\pi}{3} + 2k\pi , k \in \mathbb{Z} 
+
+Odp.: x = -\frac{2\pi}{3} + 2k\pi , k \in \mathbb{Z} .
+
+--- STRONA 18 ---
+4. Równania trygonometryczne 2
+
+Rozwiąż równanie.
+
+a) sin^2 x = -sin x
+
+b) 2 cos^3 x - cos x = 0
+
+c) tg^3 x = tg x
+
+a) 1️⃣ Przekształcamy równanie.
+
+sin^2 x = -sin x
+
+sin^2 x + sin x = 0
+
+sin x (sin x + 1) = 0
+
+sin x = 0 ∨ sin x + 1 = 0
+
+sin x = -1
+
+2️⃣ Szkicujemy wykres funkcji sinus oraz proste y = 0 i y = -1.
+
+y = sin x
+
+y = 0
+
+y = -1
+
+3️⃣ Odczytujemy rozwiązania.
+
+sin x = 0 ∨ sin x = -1
+
+x = kπ ∨ x = 3π/2 + 2kπ   k ∈ 𝕫
+
+Odp.: x = kπ ∨ x = 3π/2 + 2kπ, k ∈ 𝕫.
+
+--- STRONA 19 ---
+b) ① Przekształcamy równanie.
+
+2cos^3 x - cosx = 0
+
+cosx (2cos^2 x - 1) = 0
+
+cosx = 0  v  2cos^2 x = 1
+
+cos^2 x = 1/2
+
+cosx = -√2/2  v  cosx = √2/2
+
+② Szkicujemy wykres funkcji cosinus oraz proste  y=0, y=-√2/2 i y=√2/2.
+
+③ Odczytujemy rozwiązanie.
+
+cosx = 0
+
+x = π/2 + kπ
+
+cosx = -√2/2
+
+x = 3π/4 + 2kπ
+
+x = -3π/4 + 2kπ
+
+cosx = √2/2
+
+x = π/4 + 2kπ
+
+x = -π/4 + 2kπ
+
+,  k ∈ ℤ
+
+Można zapisać jako x = π/4 + kπ/2 ale nie jest to obowiązkowe.
+
+Odp.: x = π/2 + kπ , x = π/4 + kπ/2 ,  k ∈ ℤ.
+
+--- STRONA 20 ---
+c) ❶ Przekształcamy równanie.
+
+\[
+\text{tg}^3 x = \text{tg} x
+\]
+\[
+\text{tg}^3 x - \text{tg} x = 0
+\]
+\[
+\text{tg} x (\text{tg}^2 x - 1) = 0
+\]
+
+\[
+\text{tg} x = 0 \quad \text{tg}^2 x - 1 = 0
+\]
+\[
+\text{tg}^2 x = 1
+\]
+\[
+\text{tg} x = -1 \quad \text{tg} x = 1
+\]
+
+❷ Szkicujemy wykres funkcji tangens oraz proste \(y=0, y=-1\) i \(y=1\).
+
+❸ Odczytujemy rozwiązanie.
+
+\[
+\text{tg} x = 0 \quad x = k\pi
+\]
+\[
+\text{tg} x = -1 \quad x = -\frac{\pi}{4} + k\pi
+\]
+\[
+\text{tg} x = 1 \quad x = \frac{\pi}{4} + k\pi \quad , \, k \in \mathbb{Z}
+\]
+
+Odp.: \(x = k\pi, \, x = -\frac{\pi}{4} + k\pi, \, x = \frac{\pi}{4} + k\pi \, , \, k \in \mathbb{Z}\).
+
+--- STRONA 21 ---
+4. Równania trygonometryczne 3
+
+Rozwiąż równanie.
+
+a) cos^2 x + 2 sin x = 1
+
+a) ① Przekształcamy równanie.
+cos^2 x + 2 sin x = 1
+1 - sin^2 x + 2 sin x = 1
+   -sin^2 x + 2 sin x = 0
+sin x (-sin x + 2) = 0
+
+sin x = 0       -sin x + 2 = 0
+               sin x = 2
+
+② Szkicujemy wykres funkcji sinus.
+
+            y = sin x
+     y  |   
+     1  |         -----
+        |       /         \
+        |     /             \
+-1  |---/-----------\--------
+        |/                       \
+
+        -π  -π/2    0  π/2  π  3π/2  2π
+                      x
+ 
+③ Odczytujemy rozwiązanie.
+
+sin x = 0        sin x = 2
+x = kπ, k ∈ Z   brak rozwiązań
+
+Odp.: x = kπ, k ∈ Z.
+
+--- STRONA 22 ---
+b) 1️⃣ Przekształcamy równanie.
+
+\(-\cos^2x - 3\cos x - 2 = 0 \ \ \vert \cdot(-1)\)
+
+\(\cos^2x + 3\cos x + 2 = 0\)
+
+2️⃣ Podstawiamy zmienną pomocniczą \(t\).
+
+\(t = \cos x\), \(t \in [-1, \ 1]\)
+
+\(t^2 + 3t + 2 = 0\)
+
+\(\Delta_t = 9-4\cdot1\cdot2 = 1\), \(\sqrt{\Delta_t} = 1\)
+
+\(t_1 = \frac{-3-1}{2} = -2 \ \ \vee \ \ t_2 = \frac{-3+1}{2} = -1\)
+
+3️⃣ Cofamy podstawienie.
+
+\(\cos x = -2 \ \ \vee \ \ \cos x = -1\)
+
+4️⃣ Szkicujemy wykres funkcji cosinus.
+
+[wykres]
+
+5️⃣ Odczytujemy rozwiązanie.
+
+\(\cos x = -2\) \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \(\cos x = -1\)
+
+brak rozwiązań \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \(x = \pi + 2k\pi, \ \ k \in \mathbb{Z}\)
+
+Odp: \(x = \pi + 2k\pi, \ \ k \in \mathbb{Z}.\)
+
+--- STRONA 23 ---
+c) \ \ \ \ \ \ \ \ \tg^4x - 4\tg^2x + 3 = 0
+
+\textcircled{1} \ \text{Podstawiamy zmienną pomocniczą.}
+
+\quad \quad \ \ t = \tg^2x \ \ \ \ , \ \ t \in [0, +\infty)
+
+\quad \quad \ t^2 - 4t + 3 = 0
+
+\quad \ \ \ \ \ \ \Delta_t = (-4)^2 - 4 \cdot 1 \cdot 3 = 4 \ \ , \ \sqrt{\Delta_t} = 2 
+
+\quad \quad \ \ t_1 = \frac{4 - 2}{2} = 1 \quad \ \ t_2 = \frac{4 + 2}{2} = 3
+
+\textcircled{2} \ \text{Cofamy podstawienie.}
+
+\quad \quad \ \ \tg^2x = 1 \quad \quad \quad \ \ \ \ \ \tg^2x = 3
+
+\quad \quad \ \ \tg x = 1 \ \ \ \ \ \vee \ \tg x = -1 \quad \ \ \tg x = \sqrt{3} \ \ \vee \ \tg x = -\sqrt{3}
+
+\textcircled{3} \ \text{Szkicujemy wykres funkcji tangens.}
+
+\quad \quad \ \ \ \ \ \ \ \ \ \quad y = \tg x
+
+\textcircled{4} \ \text{Odczytujemy rozwiązania.}
+
+\quad \quad \ \ \tg x = 1 \quad \quad \ \ \tg x = -1 \quad \quad \ \ \tg x = \sqrt{3} \ \quad \ \ \tg x = -\sqrt{3}
+
+\quad \ \ \ \ x = \frac{\pi}{4} + k\pi \quad \ x = -\frac{\pi}{4} + k\pi \quad \ \ x = \frac{\pi}{3} + k\pi \quad \ x = -\frac{\pi}{3} + k\pi \ , \ \ k \in \mathbb{Z}
+
+\text{Odp.:} \ x = \frac{\pi}{4} + k\pi \ , \ x = -\frac{\pi}{4} + k\pi \ , \ x = \frac{\pi}{3} + k\pi \ , \ x = -\frac{\pi}{3} + k\pi \ , \ k \in \mathbb{Z}.
+
+--- STRONA 24 ---
+5. Nierówności trygonometryczne 1
+
+Rozwiąż nierówność
+
+a) 2 \sin x < \sqrt{2} \quad b) \ 2 \cos x \geq -\sqrt{3} \quad c) \ \sqrt{3} \tan x \leq -1
+
+a) 
+
+➊ Przekształcamy nierówność. 
+
+2 \sin x < \sqrt{2}
+
+\sin x < \frac{\sqrt{2}}{2}
+
+➋ Szkicujemy wykres funkcji sinus oraz \ y = \frac{\sqrt{2}}{2} .
+
+(rysunek wykresu)
+
+➌ Odczytujemy rozwiązanie.
+
+x \in \left( \frac{3\pi}{4} + 2k\pi, \ \frac{9\pi}{4} + 2k\pi \right) , \ k \in \mathbb{Z}
+
+Odp.: \ x \in \left( \frac{3\pi}{4} + 2k\pi, \ \frac{9\pi}{4} + 2k\pi \right) , \ k \in \mathbb{Z}.
+
+--- STRONA 25 ---
+b) ➊ Przekształcamy nierówność.
+
+    2 \cos x \geq -\sqrt{3}
+
+    \cos x \geq -\frac{\sqrt{3}}{2}
+
+➋ Szkicujemy wykres funkcji sinus oraz \( y = -\frac{\sqrt{3}}{2} \).
+
+\( y \)
+
+\( 2\sqrt{3}\pi \)
+
+\( x \)
+
+\( y = \cos x \)
+
+\( -\frac{\pi}{2} \)
+
+\( \frac{\pi}{2} \)
+
+\( \frac{5\pi}{6} \)
+
+\( \frac{\pi}{6} \)
+
+\( \pi \)
+
+\( \frac{3\pi}{2} \)
+
+\( 2\pi \)
+
+\( y = -\frac{\sqrt{3}}{2} \) 
+
+➌ Odczytujemy rozwiązanie.
+
+    x \in \left[-\frac{5\pi}{6}+2k\pi, \frac{5\pi}{6}+2k\pi\right], \, k \in \mathbb{Z} 
+
+Odp.: x \in \left[-\frac{5\pi}{6} + 2k\pi, \frac{5\pi}{6} + 2k\pi\right], \, k \in \mathbb{Z}.
+
+--- STRONA 26 ---
+c) ① Przekształcamy nierówność.
+
+\[\sqrt{3} \tg x \le -1\]
+
+\[\tg x \le -\frac{1}{\sqrt{3}}\]
+
+\[\tg x \le -\frac{\sqrt{3}}{3}\]
+
+② Szkicujemy wykres funkcji tangens oraz \(y = -\frac{\sqrt{3}}{3}\).
+
+③ Odczytujemy rozwiązanie.
+
+\[x \in \left(-\frac{\pi}{2} + k\pi, -\frac{\pi}{6} + k\pi \right], \, k \in \mathbb{Z}\]
+
+\[\text{Odp.: } x \in \left(-\frac{\pi}{2} + k\pi, -\frac{\pi}{6} + k\pi \right], \, k \in \mathbb{Z}.\]
+
+--- STRONA 27 ---
+5. Nierówności trygonometryczne 2
+
+Rozwiąż nierówność.
+
+a) sin^2 x < 1
+
+a) 1. Podstawiamy zmienną pomocniczą.
+
+t = sin x, \; t \in [-1, 1]
+
+t^2 < 1
+
+t^2 - 1 < 0
+
+-1 < t < 1
+
+2. Cofamy podstawienie.
+
+-1 < \sin x < 1
+
+3. Szkicujemy wykres funkcji sinus.
+
+4. Odczytujemy rozwiązanie.
+
+x \in \mathbb{R} \setminus \left\{ \frac{\pi}{2} + k\pi, \; k \in \mathbb{Z} \right\}
+
+Odp.: x \in \mathbb{R} \setminus \left\{ \frac{\pi}{2} + k\pi, \; k \in \mathbb{Z} \right\}.
+
+--- STRONA 28 ---
+b) ① Podstawiamy zmienną pomocniczą.
+
+cos^2 x > \frac{1}{2}
+
+t = cos x, \ t \in [-1, 1]
+
+t^2 > \frac{1}{2}
+
+t^2 - \frac{1}{2} > 0
+
+t = \pm \frac{1}{\sqrt{2}} = \pm \frac{\sqrt{2}}{2},
+
+t = -\frac{\sqrt{2}}{2} \ \lor \ \frac{\sqrt{2}}{2}
+
+t > \frac{\sqrt{2}}{2} \ \lor \ t < -\frac{\sqrt{2}}{2}
+
+\begin{array}{c}
+\text{(wykres)} \\ 
+\text{y = t}^2 - \frac{1}{2}
+\end{array}
+
+② Cofamy podstawienie.
+
+cos x > \frac{\sqrt{2}}{2} \ \lor \ cos x > \frac{\sqrt{2}}{2}
+
+③ Szkicujemy wykres funkcji cosinus.
+
+\begin{array}{c}
+-\frac{\pi}{4} \\ 
+\frac{\pi}{4}
+\end{array}
+
+\begin{array}{c}
+\frac{-\pi}{2} \\ 
+0 \\ 
+\frac{\pi}{2} \\ 
+\frac{3\pi}{2} \\ 
+\frac{5\pi}{4} 
+\end{array}
+
+\begin{array}{c}
+x \\ 
+y
+\end{array}
+
+④ Odczytujemy rozwiązanie.
+
+x \in \left( -\frac{\pi}{4} + 2k\pi, \ \frac{\pi}{4} + 2k\pi \right) \cup \left( \frac{3\pi}{4} + 2k\pi, \ \frac{5\pi}{4} + 2k\pi \right), \ k \in \mathbb{Z}
+
+Można zapisać jako: \ x \in \left( -\frac{\pi}{4} + k\pi, \ \frac{\pi}{4} + k\pi \right), \ k \in \mathbb{Z}.
+
+Odp.: x \in \left( -\frac{\pi}{4} + k\pi, \ \frac{\pi}{4} + k\pi \right), \ k \in \mathbb{Z}.
+
+--- STRONA 29 ---
+c) ① Przekształcamy nierówności.
+
+\[
+4 \sin^2 2x - 3 \geq 1 
+\]
+\[
+4 \sin^2 2x \geq 4
+\]
+\[
+\sin^2 2x \geq 1
+\]
+
+② Podstawiamy zmienną pomocniczą.
+
+\[
+t = \sin 2x, \quad t \in [-1, 1]
+\]
+\[
+t^2 \geq 1 
+\]
+\[
+t^2 - 1 \geq 0
+\]
+
+Wykres:
+\[ 
+\text{(Grafika wykresu: y = t^2 - 1)}
+\]
+
+\[
+t \leq -1 \quad \lor \quad t \geq 1
+\]
+
+③ Cofamy podstawienie.
+
+\[
+\sin 2x \leq -1 \quad \quad \sin 2x \geq 1
+\]
+\[
+\sin 2x = -1 \quad \quad \sin 2x = 1
+\]
+
+④ Szkicujemy wykres funkcji sinus.
+
+\[
+\text{(Grafika wykresu sinusoidalnego)}
+\]
+
+⑤ Odczytujemy rozwiązania.
+
+\[
+\sin 2x = -1 \quad \quad \sin 2x = 1
+\]
+\[
+2x = -\frac{\pi}{2} + 2k\pi \quad \quad 2x = \frac{\pi}{2} + 2k\pi
+\]
+\[
+x = -\frac{\pi}{4} + k\pi \quad \quad x = \frac{\pi}{4} + k\pi, \quad k \in \mathbb{Z}
+\]
+
+\[
+\text{Można zapisać jako: } x = \frac{\pi}{4} + \frac{k\pi}{2}, \, k \in \mathbb{Z}.
+\]
+
+\[
+\text{Odp.: } x = \frac{\pi}{4} + \frac{k\pi}{2}, \, k \in \mathbb{Z}.
+\]

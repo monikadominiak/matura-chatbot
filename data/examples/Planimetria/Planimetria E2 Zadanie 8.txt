@@ -1,0 +1,87 @@
+
+--- STRONA 1 ---
+Zad.8 W trójkącie stosunek długości boków wynosi 4 : 5 : 6. Oblicz pole trójkąta oraz promień koła opisanego na tym trójkącie wiedząc, że pole koła wpisanego w ten trójkąt wynosi 7π.
+
+1) Wypisujemy informacje z zadania:
+\[ 
+P_o = 7\pi \quad \Rightarrow \quad \pi r^2 = 7\pi \ /:\pi 
+\]
+\[ 
+r^2 = 7 \quad \\
+r = \sqrt{7} 
+\]
+\[ 
+\text{wyznaczamy promień koła wpisanego poprzez wzór na pole koła} 
+\]
+\[ 
+|AB| = 4x 
+\]
+\[ 
+|BC| = 5x 
+\]
+\[ 
+|AC| = 6x 
+\]
+\[ 
+\text{zapisujemy stosunek między bokami trójkąta w zależności od zmiennej } x 
+\]
+
+2) Wykorzystujemy wzory na pole trójkąta do wyznaczenia \( x \):
+
+\[ 
+P_o = p \cdot r 
+\]
+\[ 
+p = \frac{4x+5x+6x}{2} = 7,5x 
+\]
+\[ 
+P_o = \sqrt{p(p-a)(p-b)(p-c)} = \sqrt{7,5x \cdot 3,5x \cdot 2,5x \cdot 1,5x} = \sqrt{\frac{15}{2} \cdot \frac{7}{2} \cdot \frac{5}{2} \cdot \frac{3}{2} \cdot x^4} = 
+\]
+\[ 
+= \sqrt{\frac{1575}{16} \cdot x^4} = \frac{45}{4} \cdot \sqrt{7} \cdot x^2 
+\]
+\[ 
+\frac{45}{4} \cdot \sqrt{7} \cdot x^2 = 7,5x \cdot \sqrt{7} \ /:\sqrt{7} 
+\]
+\[ 
+\frac{45}{4} \cdot x^2 = 7,5x \ /:4 
+\]
+\[ 
+\frac{15x^2}{4} = 7,5x \ /:x 
+\quad \text{możemy, ponieważ } x>0 \quad \text{(bok musi być dodatni)} 
+\]
+\[ 
+15x = 30 \ /:15 
+\]
+\[ 
+x = 2 
+\]
+
+3) Obliczamy pole trójkąta i promień koła opisanego:
+
+\[ 
+P_{\triangle} = p \cdot r = 7,5 \cdot 2 \cdot \sqrt{7} = 15\sqrt{7} 
+\]
+\[ 
+|AB| = 4 \cdot 2 = 8 
+\]
+\[ 
+|BC| = 5 \cdot 2 = 10 
+\]
+\[ 
+|AC| = 6 \cdot 2 = 12 
+\]
+\[ 
+P_{\triangle} = \frac{|AB|\cdot|BC|\cdot|AC|}{4R} 
+\]
+\[ 
+15\sqrt{7} = \frac{8 \cdot 10 \cdot 12}{4R} 
+\]
+\[ 
+60\sqrt{7} \cdot R = 960 
+\]
+\[ 
+R = \frac{960\sqrt{7}}{60\sqrt{7}} = \frac{16\sqrt{7}}{7} 
+\]
+
+Odp. \( P_{\triangle} = 15\sqrt{7} \), \( R = \frac{16\sqrt{7}}{7} \)

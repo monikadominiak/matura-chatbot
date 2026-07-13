@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Grupa przedszkolaków składająca się z dziesięciu dziewcząt i dziesięciu chłopców uczestniczyła w pieszej wycieczce do lasu. W grupie tej byli Ala, Ania, Rafał i Tomek.
+Przed wyjściem na wycieczkę przedszkolanka ustawiła dzieci w pary w taki sposób, aby każdy chłopiec szedł w parze z dziewczynką. Oblicz prawdopodobieństwo zdarzenia:
+A - Tomek szedł w parze z Alą, a Rafał w parze z Anią
+B - żaden z wymienionych chłopców nie szedł w parze ani z Alą, ani z Anią.
+
+1️⃣ analizujemy polecenie
+
+10D, 10CH, Ala, Ania, Rafał, Tomek
+
+2️⃣ liczymy moc Ω
+
+\[\bar{\Omega} = 10 \cdot 9\]  -  wszystkie możliwości doboru w pary chłopiec-dziewczynka TYLKO dla Tomka i Rafała
+↖️ 1 z 10 dziewczynek w parze z Tomkiem
+↗️ 1 z 9 w parze z Rafałem
+
+3️⃣ A - Tomek z Alą, i Rafał z Anią - 1 możliwość
+
+\[P(A) = \frac{1}{90}\]
+
+4️⃣ B - Ala i Ania w parze z innymi niż Tomek i Rafał
+
+\[\bar{B} = 8 \cdot 7 = 56\]
+↖️ 1 z 8 dziewczynek w parze z Tomkiem
+↗️ 1 z 7 w parze z Rafałem
+
+\[P(B) = \frac{56}{90} = \frac{28}{45}\]
+
+Odp: 
+
+\[P(A) = \frac{1}{90}, P(B) = \frac{28}{45}\]

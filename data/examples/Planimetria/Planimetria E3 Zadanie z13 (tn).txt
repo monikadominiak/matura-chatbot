@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zadanie z13 (tn) Trzy okręgi o promieniach 2, 4 i 6 są parami zewnętrznie styczne. Oblicz długość promienia okręgu, do którego należą punkty styczności tych okręgów.
+
+1) Tworzymy i analizujemy rysunek poglądowy:
+
+Można zauważyć że punkty A, B, C są położone w taki sposób, że:
+|AQ₀₁|=|BQ₀₁| i |BQ₀₂|=|CQ₀₂| i |CQ₀₃|=|AQ₀₃|
+
+Wobec tego punkty A, B, C na pewno leżą na okręgu wpisanym w trójkąt O₁O₂O₃.
+
+Ponadto, trójkąt ten ma długości 6, 8, 10. Jest to zatem trójkąt prostokątny (6²+8²=10²), no mocy tw. odwrotnego do Pitagorasa.
+
+W przypadku trójkąta prostokątnego promień okręgu wpisanego można policzyć ze wzoru: r = a+b-c / 2.
+
+r = 6+8-10 / 2 = 2
+
+Odp. r = 2.
+
+UWAGA: Bardziej uniwersalnym sposobem, działającym nie tylko dla trójkąta prostokątnego, byłoby posłużenie się wzorami na pole trójkąta:
+
+Pₐ = pr, gdzie p = a+b+c / 2
+oraz Pₐ = sqrt(p(p-a)(p-b)(p-c))
+
+p = 6+8+10 / 2 = 12
+Pₐ = sqrt(12-6)(12-8)(12-10) = sqrt(6×4×2) = sqrt(6×6×2×2×4)
+Pₐ = pr = 2×2 → 4r = 24 → r = 2

@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zadanie z8 (8.2) W trójkącie ABC boki mają odpowiednio długość 4cm, 5cm i 6cm. Oblicz sinus najmniejszego kąta trójkąta ABC.
+
+1) Tworzymy rysunek poglądowy:
+
+Kwadrat najdłuższego boku jest mniejszy od sumy kwadratów pozostałych boków (6^2<5^2+4^2) więc trójkąt jest ostrokątny. Gdyby suma kwadratów była mniejsza, otrzymalibyśmy trójkąt rozwartokątny, a dla równych — prostokątny.
+
+Najmniejszy kąt w trójkącie znajduje się zawsze naprzeciwko najdłuższego boku.
+
+2) Wyznaczamy cos α z tw. cosinusów:
+
+4^2 = 6^2 + 5^2 - 2 * 6 * 5 * cos α
+
+16 = 36 + 25 - 60 * cos α
+
+-60 * cos α = - 45 |:(-60)
+
+cos α = 3/4
+
+3) Podstawiamy cos α po jedynkę trygonometryczną i wyznaczamy sin α:
+
+sin^2 α + cos^2 α = 1
+
+sin^2 α = 1 - 9/16 = 7/16 |√
+
+sin α = ±√(7/16)
+
+sin α = ±√(7)/4
+
+v   sin α = -√(7)/4
+
+(Tylko + jest ostrokątny)
+
+Odp. sin α = √(7)/4.

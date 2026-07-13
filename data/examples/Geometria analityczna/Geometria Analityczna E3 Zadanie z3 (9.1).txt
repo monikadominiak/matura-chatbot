@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zadanie z3 (9.1) Określ wzajemne położenie okręgów o równaniach (x - 1)^2 + (y - 1)^2 = 16 i x^2 + y^2 + 2x + 2y - 8 = 0.
+
+1) Wyznaczamy środki i promienie obu okręgów:
+
+Pierwszy okrąg (z kanonicznego):
+
+(x - x_1)^2 + (y - y_1)^2 = 16
+
+S_1(1,1), r_1 = sqrt(16) = 4
+
+Drugi okrąg (z ogólnego):
+
+I sposób: podstawienie
+
+x^2 + y^2 + 2x + 2y - 8 = 0
+
+X^2 + y^2 - 2ax - 2by + c = 0, r^2 = a^2 + b^2 - c
+
+-2ax = 2 x = 1
+-2by = 2 y = 1
+c = -8
+a = -1
+b = -1
+
+r^2 = (-1)^2 + (-1)^2 +8
+r^2 = 10
+r = sqrt(10), v = sqrt(10) ≠ b bo r ≠ 0
+
+o_2: (x - x_1)^2 + (y - y_1)^2 + 10 = 5(1),(1), r = sqrt(10)
+
+II sposób: zunięcie do wzoru skróconego mnożenia
+
+x^2 + y^2 + 2x + 2y - 8 = 0
+(x^2 + 2x + 1) + (y^2 + 2y + 1) = 8 + 1 + 1
+o_2: (x+1)^2 + (y+1)^2 = 10
+o_2: S(-1,-1), r_2 = sqrt(10)
+
+2) Określamy wzajemne położenie okręgów:
+
+|S_1S_2| = sqrt((a-a)^2 + (b-c)^2) = sqrt(8) = 2sqrt(2)
+
+|r_1-r_2| = 4 - sqrt(10)
+
+4 - sqrt(10) < S1S2 < 4 + sqrt(10)
+|r_1 - r_2| < |S_1S_2| < |r_1 + r_2| => okręgi się przecinają
+
+Odp. Okręgi się przecinają się.
+
+Rysunek poglądowy:
+
+Z rysunku widać już co prawda, że okręgi się przecinają się, jednak w zadaniach na maturze potrzebujemy zwykle uzyskać algebraiczne rozwiązanie, aby uzyskać komplet punktów.
+
+Warto skonfiskować sobie wzory na wzajemne położenie okręgów. Nie ma ich na karcie wzorów maturalnych, można je znaleźć w teorii do etapu 4 tego modelu.

@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Zadanie 2 [2pkt]- Typ 1.1  
+Usuń niewymierność z mianownika \( \frac{12}{\sqrt{15} - 6 + \sqrt{35} - \sqrt{14}} \)
+
+W tym zadaniu sposób z zadania poprzedniego nie zadziałał.  
+Aby usunąć niewymierność z mianownika musimy doprowadzić go do postaci iloczynowej:  
+(tzn. grupowanie wyrazów).  
+
+\[
+\frac{12}{\sqrt{15} - 6 + \sqrt{35} - \sqrt{14}}
+\]
+
+1️⃣ \(\sqrt{15} - 6 = \sqrt{3} (\sqrt{5} - \sqrt{2})\)  
+   \(\sqrt{35} - \sqrt{14} = \sqrt{7} (\sqrt{5} - \sqrt{2})\)  
+   \( \} \ \text{Ważne jest aby iloczyny były takie same} \)
+
+\[
+\frac{12}{\sqrt{15} - 6 + \sqrt{35} - \sqrt{14}} = \frac{12}{\sqrt{3} (\sqrt{5} - \sqrt{2}) + \sqrt{7} (\sqrt{5} - \sqrt{2})} =
+\]
+
+\[
+= \frac{12}{(\sqrt{5} - \sqrt{2})(\sqrt{3} + \sqrt{7})}
+\]
+
+Możemy teraz skorzystać ze sposobu z poprzedniego zadania.  
+Tym razem musimy "obłupywać" dwa wzory skróconego mnożenia
+
+\[
+= \frac{12((\sqrt{5} + \sqrt{2})(\sqrt{3} - \sqrt{7}))}{(\sqrt{5} + \sqrt{2})(\sqrt{3}-\sqrt{7})} = 
+\frac{12((\sqrt{5} + \sqrt{2})(\sqrt{3} - \sqrt{7}))}{(5 - 2)(3 - 7)} =
+\]
+
+\[
+= \frac{12((\sqrt{5} + \sqrt{2})(\sqrt{3} - \sqrt{7}))}{3 \cdot (-4)} = \frac{12((\sqrt{5} + \sqrt{2})(\sqrt{3} - \sqrt{7}))}{-12} =
+\]
+
+\[
+= -((\sqrt{5} + \sqrt{2})(\sqrt{3} - \sqrt{7}))
+\]
+
+Możemy minusa "wrzucić" do jednego z nawiasów  
+\[-((\sqrt{5}+\sqrt{2})(\sqrt{3}-\sqrt{7}) = ((\sqrt{5}+\sqrt{2})(\sqrt{7}-\sqrt{3})\]
+
+Odp: \((\sqrt{5}+\sqrt{2})(\sqrt{7}-\sqrt{3})\).

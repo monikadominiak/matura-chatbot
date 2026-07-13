@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+z5 (tn)  
+Wyznacz zbiór wartości funkcji f(x) = 25^x - 10 · 5^x + 9  
+
+f(x) = 25^x - 10 · 5^x + 9  
+f(x) = (5^x)^2 - 10 · 5^x + 9  
+f(x) = (5^x)^2 - 10 · 5^x + 9  
+
+Każda liczba dodatnia podniesiona do dowolnej potęgi, będzie większa od zera  
+
+Podstawiamy t = 5^x, t > 0  
+
+f(x) = t^2 - 10t + 9 ; t ∈ (0; ∞)  
+
+Aby wyznaczyć pierwszą współrzędną wierzchołka paraboli ρ, aby zobaczyć, czy mieści się w przedziale J(0; ∞).  
+
+ρ = -b/2a  
+q = -Δ/4a = f(ρ)  
+
+ρ = -(-10)/2·1 = 5 ∈ (0; ∞)  
+q = f(ρ) = f(5) = 5^2 - 10·5 + 9 = -16  
+
+Zatem wykres funkcji będzie mieć postać:  
+
+Żw = <-16; ∞)  
+
+Odp: Żw = <-16; ∞).

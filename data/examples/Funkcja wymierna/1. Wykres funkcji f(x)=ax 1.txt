@@ -1,0 +1,75 @@
+
+--- STRONA 1 ---
+1. Wykres funkcji \( f(x) = ax \)
+Narysuj wykres funkcji \( f \). Podaj jej wartość najmniejszą i wartość największą w przedziale \([1; 2]\).
+
+a) \( f(x) = -\frac{4}{x} \)
+
+b) \( f(x) = \frac{2}{x} \)
+
+c) \( f(x) = -\frac{5}{x} \)
+
+a) 
+
+1. Szkicujemy wykres funkcji \( f(x) = -\frac{4}{x} \) wykorzystując tabelkę.
+\[
+\begin{array}{c|cccc}
+x & -4 & -1 & 1 & 4 \\
+\hline
+y & 1 & 4 & -4 & -1 \\
+\end{array}
+\]
+
+2. Szukamy najmniejszej i największej wartości funkcji w przedziale \([1; 2]\).
+
+Oznacza to, że musimy policzyć wartości funkcji na końcach podanego przedziału.
+
+\[ f(1) = -\frac{4}{1} = -4 \]
+
+\[ f(2) = -\frac{4}{2} = -2 \]
+
+Odp.: Największą wartością funkcji jest \( y_{\text{max}}=-2 \), a najmniejszą wartością funkcji jest \( y_{\text{min}}=-4 \).
+
+--- STRONA 2 ---
+b)  1⃣ Szkicujemy wykres funkcji \( f(x) = \frac{1}{2x} \) wykorzystując tabelkę.
+
+\[
+\begin{array}{c|c|c|c|c}
+x & -\frac{1}{4} & -\frac{1}{2} & \frac{1}{2} & \frac{1}{4} \\
+\hline
+y & -2 & -1 & 1 & 2 \\
+\end{array}
+\]
+
+2⃣ Szukamy najmniejszej i największej wartości funkcji w przedziale \([1;2]\).
+
+Oznacza to, że musimy policzyć wartości funkcji na końcach podanego przedziału.
+
+\( f(1) = \frac{1}{2 \cdot 1} = \frac{1}{2} \)
+
+\( f(2) = \frac{1}{2 \cdot 2} = \frac{1}{4} \)
+
+Odp.: Największą wartością funkcji jest \( y_{max} = \frac{1}{2} \), a najmniejszą wartością funkcji jest \( y_{min} = \frac{1}{4} \).
+
+--- STRONA 3 ---
+c)
+
+① Szkicujemy wykres funkcji f(x) = -\frac{5}{x} wykorzystując tabelkę.
+
+\[
+\begin{array}{c|c|c|c|c|c}
+x & -5 & -1 & 1 & 5 \\
+\hline
+y & 1 & 5 & -5 & -1 \\
+\end{array}
+\]
+
+② Szukamy najmniejszej i największej wartości funkcji w przedziale [1;2].
+
+Oznacza to, że musimy policzyć wartości funkcji na końcach podanego przedziału.
+
+f(1) = -\frac{5}{1} = -5
+
+f(2) = -\frac{5}{2} = -2{,}5
+
+Odp.: Największą wartością funkcji jest y_{max} = -2{,}5, a najmniejszą wartością funkcji jest y_{min} = -5.

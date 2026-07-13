@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Wykazać, że równanie \( x^2 + (2a - 3)x - 2a = 0 \) ma przynajmniej 1 rozwiązanie.
+
+\( x^2 + (2a - 3)x - 2a = 0 \)
+
+\( \textcircled{1} \) jest to równanie kwadratowe, więc aby określić liczbę rozwiązań wyznaczmy wartość \( \Delta \) (uzależnionej od \( a \))
+
+\[
+\Delta = b^2 - 4ac 
+\]
+
+\[
+(2a - 3)^2 - 4(-2a) = 4a^2 - 12a + 9 + 8a = 
+\]
+
+\[
+= 4a^2 - 4a + 9 \quad (\text{również wyrażenie kwadratowe})
+\]
+
+\( \textcircled{2} \) 
+\[
+\Delta_a = (-4)^2 - 4 \cdot 4 \cdot 9 = 16 - 144 < 0
+\]
+
+\[
+4a^2 - 4a + 9 \quad \text{wyrażenie kwadratowe o ramionach skierowanych w górę i } \Delta < 0 - \text{nie ma rozwiązań}
+\]
+
+\[
+\Rightarrow \text{czyli } 4a^2 - 4a + 9 > 0 \quad \text{dla każdego } a
+\]
+
+\( \textcircled{3} \)
+\[
+4a^2 - 4a + 9 > 0
+\]
+
+\[
+\Leftrightarrow \Delta > 0 \quad \text{dla każdego } a
+\]
+
+zatem równanie \( x^2 + (2a - 3)x - 2a = 0 \) ma przynajmniej 1 rozwiązanie
+
+c.k.d.

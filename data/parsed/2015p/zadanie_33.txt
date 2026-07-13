@@ -1,0 +1,35 @@
+=== ARKUSZ: 2015p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0-4)
+Wśród 115 osób przeprowadzono badania ankietowe, związane z zakupami w pewnym kiosku. W poniższej tabeli przedstawiono informacje o tym, ile osób kupiło bilety tramwajowe ulgowe oraz ile osób kupiło bilety tramwajowe normalne.
+
+Rodzaj kupionych biletów | Liczba osób
+ulgowe                   | 76
+normalne                 | 41
+
+Uwaga! 27 osób spośród ankietowanych kupiło oba rodzaje biletów.
+
+Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że osoba losowo wybrana spośród ankietowanych nie kupiła żadnego biletu. Wynik przedstaw w formie nieskracalnego ułamka.
+Odpowiedź: ................................................................................................................................ .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 33. (0-4) Wśród 115 osób przeprowadzono badania ankietowe, związane z zakupami w pewnym kiosku. W poniższej tabeli przedstawiono informacje o tym, ile osób kupiło bilety tramwajowe ulgowe oraz ile osób kupiło bilety tramwajowe normalne.
+Rodzaj kupionych biletów: ulgowe — 76; normalne — 41.
+Uwaga! 27 osób spośród ankietowanych kupiło oba rodzaje biletów. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że osoba losowo wybrana spośród ankietowanych nie kupiła żadnego biletu. Wynik przedstaw w formie nieskracalnego ułamka.  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+I sposób rozwiązania Oznaczmy: A - zdarzenie polegające na wylosowaniu osoby, która kupiła bilet ulgowy, B - zdarzenie polegające na wylosowaniu osoby, która kupiła bilet normalny, C - zdarzenie polegające na wylosowaniu osoby, która nie kupiła żadnego z wymienionych biletów. Ankietę przeprowadzono wśród 115 osób, zatem $|Omega|=115$. Ponieważ wśród badanych występują osoby, które kupiły bilety obu rodzajów, więc $|Acup B|=|A|+|B|-|Acap B|$. Stąd $|Acup B|=76+41-27=90$. Zatem $|C|=|Omega|-|Acup B|=25$, więc $P(C)=frac{25}{115}=frac{5}{23}$.  Odp. Prawdopodobieństwo zdarzenia, polegającego na tym, że losowo wybrana spośród badanych osoba nie zakupiła żadnego z wymienionych biletów jest równe $frac{5}{23}$.
+II sposób rozwiązania Oznaczmy: C - zdarzenie polegające na wylosowaniu osoby, która nie kupiła żadnego biletu.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Liczba wszystkich zdarzeń elementarnych jest równa $|Omega|=115$. Liczba wszystkich osób, które kupiły co najmniej jeden bilet jest równa $49+27+14=90$. Zatem $|C|=115-90=25$. Stąd $P(C)=frac{25}{115}=frac{5}{23}$.  Odp. Prawdopodobieństwo zdarzenia, polegającego na tym, że losowo wybrana spośród badanych osoba nie zakupiła żadnego z wymienionych biletów jest równe $frac{5}{23}$.
+Schemat oceniania I i II sposobu rozwiązania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania 1 p. Zdający: zapisze liczbę wszystkich zdarzeń elementarnych: $|Omega|=115$ albo obliczy, ile jest wszystkich osób, które kupiły tylko bilety ulgowe: 49 albo obliczy, ile jest wszystkich osób, które kupiły tylko bilety normalne: 14 albo obliczy, ile jest wszystkich osób, które kupiły co najmniej jeden bilet: 90.
+Rozwiązanie, w którym jest istotny postęp 2 p. Zdający: zapisze liczbę wszystkich zdarzeń elementarnych oraz obliczy, ile jest wszystkich osób, które kupiły tylko bilety ulgowe: $|Omega|=115, 49$ albo zapisze liczbę wszystkich zdarzeń elementarnych oraz obliczy, ile jest wszystkich osób, które kupiły tylko bilety normalne: $|Omega|=115, 14$ albo zapisze liczbę wszystkich zdarzeń elementarnych oraz obliczy, ile jest wszystkich osób, które kupiły co najmniej jeden bilet: $|Omega|=115, 90$ albo obliczy, ile jest wszystkich osób, które nie kupiły żadnego biletu: 25.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Pokonanie zasadniczych trudności zadania 3 p. Zdający zapisze liczbę wszystkich zdarzeń elementarnych oraz obliczy, ile jest wszystkich osób, które nie kupiły żadnego biletu: $|Omega|=115, 25$.
+Rozwiązanie pełne 4 p. Zdający obliczy prawdopodobieństwo wylosowania osoby, która nie kupiła żadnego biletu i zapisze je w postaci ułamka nieskracalnego: $frac{5}{23}$.
+Uwagi
+Jeśli zdający rozwiąże zadanie do końca i otrzyma $P(C)&gt;1$ lub $P(C)&lt;0$, to za całe rozwiązanie otrzymuje 0 punktów.
+Jeżeli zdający poda tylko wynik końcowy, to otrzymuje 1 punkt.
+Jeżeli zdający obliczy $P(C)=frac{25}{115}$ i nie przedstawi wyniku w postaci ułamka nieskracalnego, to otrzymuje 3 punkty.
+Jeżeli zdający popełni błąd rachunkowy przy wyznaczaniu $|Acup B|$ lub $|C|$, i konsekwentnie do popełnionego błędu rozwiąże zadanie do końca, to otrzymuje co najwyżej 3 punkty.
+Jeżeli zdający sporządził diagram, na którym zapisał liczby 49, 27, 14 i 25, i na tym zakończył, to otrzymuje 2 punkty.

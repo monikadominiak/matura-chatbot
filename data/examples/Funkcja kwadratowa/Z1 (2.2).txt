@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+z1 (2.2)  
+Znajdź zbiór tych wartości parametru k, dla których dane równanie (k + 2)x^2 + 4x + 1 = 0 ma dwa różne pierwiastki.
+
+\[(k+2)x^2 + 4x + 1 = 0\]
+
+\(a = k + 2\)  
+\(b = 4\)  
+\(c = 1\)  
+
+1️⃣ Zbadanie przypadku liniowego
+
+\(a = 0\) - równanie liniowe  
+
+k + 2 = 0 \, | -2  
+k = -2  
+
+Wówczas równanie ma postać:  
+
+\(4x + 1 = 0\) < nie spełnia ono warunków zadania  
+
+\(a \neq 0\) - równanie kwadratowe  
+k ≠ -2  
+
+2️⃣ Wyznaczenie i rozwiązanie warunku, dzięki któremu równanie będzie mieć dwa różne pierwiastki
+
+\(\Delta > 0\)  
+\(\Delta = b^2 - 4 \cdot a \cdot c\)  
+
+\(4^2 - 4 \cdot (k+2) \cdot 1 > 0\)  
+
+\(16 - 4k - 8 > 0\)  
+\(-4k + 8 > 0 \, | +4k\)  
+\(4k < 8 \, | :4\)  
+\(k < 2\)  
+
+Ostatecznie, uwzględniając dziedzinę k ≠ -2:  
+
+\[k \in (-\infty; 2) \setminus \{-2\}\]  
+
+Odp: \(k \in (-\infty; 2) \setminus \{-2\}\).

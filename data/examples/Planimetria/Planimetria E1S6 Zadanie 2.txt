@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zad. 2 Jeden z boków trójkąta jest trzykrotnie dłuższy od drugiego boku, a kąt między nimi zawarty jest równy 60°. Oblicz długości tych boków jeśli trzeci bok tego trójkąta ma długość 7. Oblicz sinus najmniejszego kąta tego trójkąta oraz promień okręgu opisanego na tym trójkącie.
+
+1) Tworzymy rysunek poglądowy:
+
+(rysunek trójkąta z bokami 3x, x oraz 7)
+
+2) Wyznaczamy \( x \) za pomocą tw. cosinusów:
+
+\[ 7^2 = x^2 + (3x)^2 - 2 \cdot x \cdot 3x \cdot \cos 60° \]
+
+\[ 49 = 10x^2 - 6x^2 \cdot \frac{1}{2} = 10x^2 - 3x^2 = 7x^2 \]
+
+\[ 7x^2 = 49 /:7 \]
+
+\[ x^2 = 7 / 1 \]
+
+\[ x = \sqrt{7} \text{ (bo boki nie mogą być ujemnej długości)} \]
+
+\[ 3x = 3\sqrt{7} \]
+
+3) Wyznaczamy sinus najmniejszego kąta oraz promień z tw. sinusów:
+
+\[ \frac{x}{\sin \alpha} = \frac{7}{\sin 60°} \Rightarrow \sin \alpha = \frac{x \cdot \sin 60°}{7} = \frac{\sqrt{7} \cdot \frac{\sqrt{3}}{2}}{7} = \frac{\sqrt{21}}{14} \]
+
+\[ 2R = \frac{7}{\sin 60°} = \frac{7}{\frac{\sqrt{3}}{2}} = \frac{14\sqrt{3}}{3} \Rightarrow R = \frac{7\sqrt{3}}{3} \]
+
+Odp. \(\sin \alpha = \frac{\sqrt{21}}{14} , R = \frac{7\sqrt{3}}{3}.\)
+
+Najmniejszy kąt wewnętrzny trójkąta znajduje się naprzeciwko najkrótszego boku. W naszym przypadku jest to bok \(x = \sqrt{7}\).

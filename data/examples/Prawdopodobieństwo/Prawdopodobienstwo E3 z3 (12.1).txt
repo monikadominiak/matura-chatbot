@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Ile jest liczb naturalnych dziewięciocyfrowych, w których zapisie występują dokładnie dwie szóstki, dokładnie cztery jedynki oraz nie występuje zero?
+
+1️⃣ analizujemy polecenie
+
+liczby 9-cyfrowe , dokładnie dwie "6", dokładnie cztery "1", nie ma cyfry "0" 
+
+_ _ _ _ _ _ _ _ _ 
+
+pozostałe cyfry: 2,3,4,5,7,8,9
+
+7 cyfr
+
+2️⃣ wypisujemy możliwości:
+
+(9/2) . (7/4) . 7^3
+
+2 z 9 miejsc dla cyfry "6"
+
+4 z 7 (już) miejsc dla cyfry "1"
+
+na pozostałe 3 miejsca mamy 7 możliwości
+
+= (9*8/2*1) . (7*6*5*7/3*2*1) . 7^3
+
+= 36 . 35 . 7^3 = 432180
+
+odp: 432180

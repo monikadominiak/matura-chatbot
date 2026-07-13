@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+FZ11
+
+f(x) = \frac{1}{2} cos 2x + 1, \; x_0 = \frac{\pi}{4}
+
+wzór na styczną: \; y = f'(x_0)(x-x_0) + f(x_0)
+
+① wyznaczamy wzór na f'(x), korzystając z \; (cosx)' = -sinx
+
+f'(x) = -\frac{1}{2} sin 2x \cdot 2 \quad \leftarrow \text{pochodna funkcji złożonej g(h(x))}, \newline
+gdzie: \; g(x) = cosx \newline
+\quad \quad \;\; \, h(x) = 2x
+
+= -sin 2x
+
+② liczymy kolejno \; f'(x_0) \; i \; f(x_0)
+
+f'(\frac{\pi}{4}) = -sin \frac{\pi}{2} = -1
+
+f(\frac{\pi}{4}) = \frac{1}{2} cos \frac{\pi}{2} + 1 = 1
+
+③ wstawiamy wyliczone wartości do wzoru na styczną
+
+y = -1(x-\frac{\pi}{4}) + 1 = -x + \frac{\pi}{4} + 1
+
+odp: \; y = -x + \frac{\pi}{4} + 1

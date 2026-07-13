@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0-1)
+Dla każdego kąta ostrego α iloczyn $frac{cos alpha}{1-sin^{2}alpha}cdotfrac{1-cos^{2}alpha}{sin alpha}$ jest równy
+A. $sin alpha$
+B. tg α
+C. $cos alpha$
+D. $sin^{2}alpha$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

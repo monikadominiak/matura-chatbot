@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zadanie 18
+
+Wyznacz wzór ogólny nieskończonego ciągu geometrycznego, jeśli suma jego wyrazów jest równa \(\frac{16}{3}\), a suma kwadratów jego wyrazów jest równa \(\frac{256}{15}\).
+
+\( \begin{array}{cl}
+    \circled{1} & \text{Zapisujemy informacje podane w zadaniu.} \\
+    & S_1 = \frac{16}{3} = \frac{a_1}{1-q}, \quad a_1 = \frac{16 - 16q}{3} \\
+    & S_2 = \frac{256}{15} = \frac{a_1^2}{1-q^2} \\
+    \circled{2} & \text{Rozwiązujemy układ równań.} \\
+    & \frac{256}{15} = \frac{\left(\frac{16-16q}{3}\right)^2}{1-q^2} \\
+    & 256 - 256q^2 = 15 \cdot \frac{256 - 512q + 256q^2}{9} \\
+    & 3(256 - 256q^2) = 5(256 - 512q + 256q^2) \\
+    & 768 - 768q^2 - 1280 + 2560q - 1280q^2 = 0 \\
+    & -2048q^2 + 2560q - 512 = 0 \\
+    & -4q^2 + 5q - 1 = 0 \\
+    & \Delta = 25 - 16 = 9 \\
+    & q_1 = \frac{-5 - 3}{-8} = 1 \\
+    & q_2 = \frac{-5 + 3}{-8} = \frac{1}{4} \quad , \quad q \in (-1,1) \\
+    & a_1 = \frac{16 - 16q_2}{3} = \frac{16 - 16 \cdot \frac{1}{4}}{3} = 4 \\
+    \circled{3} & \text{Wyznaczamy wzór ogólny ciągu.} \\
+    & a_n = 4 \cdot \left(\frac{1}{4}\right)^{n-1} = 4 \cdot 4^{-n} = 4^{2-n} \\
+    & \text{Odp.: } a_n = 4^{2-n} .
+\end{array} \)

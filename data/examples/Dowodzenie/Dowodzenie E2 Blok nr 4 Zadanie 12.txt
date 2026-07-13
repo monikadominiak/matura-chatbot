@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Przez środek okręgu wpisanego w trójkąt równoboczny \(ABC\) poprowadzono prostą równoległą do boku \(BC\) i przecinającą bok \(AB\) w punkcie \(D\). Wykaż, że \(\frac{|DC|}{|DB|} = \sqrt{7}\).
+
+1️⃣ tworzymy rysunek poglądowy
+
+\[ \text{teza: } \frac{|DC|}{|DB|} = \sqrt{7} \]
+
+2️⃣ środek okręgu wpisanego w \(\Delta\) równoboczny leży na przecięciu wysokości
+
+\(\Delta ADE \sim \Delta ABC\) i też równoboczny
+
+w skali \(k = \frac{2\sqrt{3}}{3\sqrt{3}} = \frac{2}{3}\)
+
+oznaczamy długości boków zgodnie ze skalą
+
+3️⃣ musimy uzależnić od \(x\) odcinek \(|DC|\) z tw. cosinusów w \(\Delta ADC\)
+
+\[ |DC|^2 = 4x^2 + 9x^2 - 2 \cdot 2x \cdot 3x \cdot \cos60^\circ \]
+
+\[ |DC|^2 = 13x^2 - 2 \cdot 6x^2 \cdot \frac{1}{2} = 7x^2 \]
+
+\[ |DC| = x \sqrt{7} \]
+
+4️⃣ \(\frac{|DC|}{|DB|} = \frac{x\sqrt{7}}{x} = \sqrt{7} \quad c.k.d.\)

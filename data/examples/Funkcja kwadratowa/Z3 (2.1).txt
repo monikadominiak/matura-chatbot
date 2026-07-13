@@ -1,0 +1,91 @@
+
+--- STRONA 1 ---
+z3 (2.1)
+
+Wyznacz te wartości parametru m, dla których równanie 
+(2m^2 + m - 1)x^2 + (5 - m)x - 6 = 0 ma dwa różne pierwiastki tego samego znaku.
+
+(2m^2 + m - 1)x^2 + (5 - m)x - 6 = 0
+
+a = 2m^2 + m - 1
+b = 5 - m
+c = -6
+
+Nie musimy rozważać przypadku, gdy funkcja jest liniowa, i ze względu na to, że równanie liniowe nie może mieć 2 rozwiązań, więc ten przypadek nie będzie spełniać warunków zadania.
+
+a ≠ 0 = równanie kwadratowe
+
+2m^2 + m - 1 ≠ 0 
+Δ = b^2 - 4⋅a⋅c
+
+Δ = 1^2 - 4⋅2⋅(-1) = 9
+
+√Δ = 3
+m_1 = (-b - √Δ) / 2⋅a
+m_2 = (-b + √Δ) / 2⋅a
+
+m_1 = (-1 - 3) / 2⋅2 = -4/4 = -1
+m_2 = (-1 + 3) / 2⋅2 = 1/2
+
+m ∈ ℝ \ {-1, 1/2}
+
+1° Zapisanie warunków wynikających z treści zadania
+
+1° Δ > 0 
+< dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych >
+
+2° x_1, x_2 > 0 
+< dwa rozwiązania tego samego znaku, iloczyn musi być dodatni >
+
+2° Rozwiązanie pierwszego z warunków
+
+1° Δ > 0 
+Δ = b^2 - 4⋅a⋅c (a - b)^2 = a^2 - 2ab + b^2
+
+(5 - m)^2 - 4⋅(2m^2 + m - 1)⋅(-6) > 0
+
+5^2 - 2⋅5⋅m + m^2 + 48m + 24m - 24 > 0 
+25 - 10m + m + 48m + 24m - 24 > 0 
+49m^2 + 14m + 7 > 0 
+
+(f_m + 1)^2 > 0
+
+f_m + 1 + 0 | -1 
+f_m + -1 | : 
+
+m + 1/7 ⇒ m ∈ ℝ \ {-1/7}
+
+--- STRONA 2 ---
+3) Rozwiązanie drugiego warunku
+
+2^0 x_1, x_2 > 0
+ 
+Korzystamy ze wzoru Viète'a:
+
+x_1, x_2 = \frac{c}{a}
+
+\frac{-6}{2m^2+m-1} > 0
+
+|:(-6)(2m^2+m-1)<0
+
+|-6|(|2m^2+m-1|)^2
+
+\ \ 2m^2+m-1 < 0
+
+ \Delta m = 3
+
+m_1 = -1
+
+m_2 = \frac{1}{2}
+
+\ m \in (-1, \frac{1}{2})
+
+4) Wyznaczenie części wspólnej rozwiązań obu warunków
+
+1^\circ \ m \in \mathbb{R} \left\{ - \frac{4}{7} \right\}
+
+2^\circ \ m \in (-1, \frac{1}{2})
+
+Zatem \ m \in (-1, \frac{1}{2}) \left( \left\{ - \frac{4}{7} \right\} \right.
+
+Odp: \ m \in (-1, \frac{1}{2}) \left( \left\{ - \frac{4}{7} \right\} \right.

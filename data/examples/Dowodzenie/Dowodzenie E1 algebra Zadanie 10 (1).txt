@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+**Wykazać, że liczba (a + 2b)^2 - (a - 2b)^2 jest podzielna przez 16, jeśli wiadomo, że liczby a i b są kolejnymi liczbami naturalnymi.**
+
+(a + 2b)^2 - (a - 2b)^2 podzielna przez 16, a, b - kolejne liczby naturalne
+
+1️⃣ przekształcamy równanie
+
+(a + 2b)^2 - (a - 2b)^2 =
+
+(a + b)^2 = a^2 + 2ab + b^2
+
+= a^2 + 4ab + 4b^2 - (a^2 - 4ab + 4b^2) =
+
+= 8ab
+
+2️⃣ komentarz: liczbę (a + 2b)^2 - (a - 2b)^2 można zapisać jako iloczyn 8 · a · b, który jest podzielny przez 8, ale a i b to kolejne liczby naturalne, więc jedna z nich jest na pewno parzysta - podzielna przez 2, więc całe wyrażenie jest podzielne przez 8 · 2 = 16
+
+c.k.d.

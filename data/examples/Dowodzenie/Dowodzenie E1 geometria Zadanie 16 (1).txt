@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Trójkąt równoramienny \( ABC \), w którym \( AC = BC \), przecięto odcinkiem \( AD \) na dwa trójkąty równoramienne \( DAB \) i \( CAD \) tak, że \( AB = DB \) oraz \( CD = AD \). Udowodnij, że kąt \( ACB = \frac{180^\circ}{7} \).
+
+\((1)\) tworzymy rysunek poglądowy
+
+Dane:
+
+\( |ACI| = |BCI| = x \)
+
+\( \triangle DAB, \triangle CAD \) - równoramienne
+
+\( |ABI| = |DBI| = y \)
+
+\( |CDI| = |ADI| = z \)
+
+teza: \( | \angle ACB| = \frac{180^\circ}{7} \)
+
+\[ w \ \triangle ADC \]
+
+\( | \angle ADC |- \) kąt przyległy do \( \alpha \ \ = 180^\circ - \alpha \)
+
+więc \( | \angle ACD| = | \angle CAD| = \frac{180^\circ - 180^\circ + \alpha}{2} = \frac{\alpha}{2} \)
+
+\((2)\) oznaczamy kolejno kąty:
+
+\[ w \ \triangle ABD \]
+
+niech \( | \angle DAB| = \alpha = | \angle ADB| \)
+
+wtedy \( | \angle ABD| = 180^\circ - 2\alpha \)
+
+\((3)\) wyznaczamy miarę \( \alpha \)
+
+\( | \angle CAB| = | \angle ABC| \Rightarrow \ \frac{\alpha}{2} + \alpha = 180^\circ - 2\alpha \)
+
+\(\frac{7}{2} \alpha = 180^\circ \ / : 7 \)
+
+\( | \angle ACB| = \frac{\alpha}{2} = \frac{180^\circ}{7} \ \ \ \ \ \ c.k.d. \)

@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zad.1 Rozwiąż równanie |x| - 2|x - 4| = 8 - x.
+
+1) Tworzymy siatkę znaków :
+
+1⁰ x∈(-∞,0)
+2⁰ x∈⟨0,4⟩
+3⁰ x∈⟨4,∞)
+
+UWAGA! nie ma znaczenia w którym przypadku dokonujemy podziału, a w którym nie, ponieważ tak czy inaczej - rozważamy całą dziedzinę równania (tzn. zbiór liczb rzeczywistych).
+
+Siatka znaków to szybki, graficzny sposób na określenie rozważanych przedziałów. Zaznaczamy na osi liczbowej, jak zmienia się znak wewnątrz modułu na podstawie punktów krytycznych (liczb w których następuje zmiana znaku wewnątrz modułów). W naszym przypadku powstają wówczas 3 przedziały, w których rozważamy wszystkie możliwe warianty opuszczenia modułu (z minusem, lub bez, tak aby wyrażenie opuszczające moduł miało w swoim przedziale wartość dodatnią).
+
+2) Rozważamy wyznaczone przypadki :
+
+1⁰ x∈(-∞,0) 
+oba moduły mają ujemne 
+ostrzewże więc : 
+|x|=-x
+|x-4|=-(x-4)=-x+4
+-x-2(-x+4)-8+x=0
+-x+2x-8-8+x=0
+2x=16
+x=8  ∧  x∈(-∞,0)
+⟹
+x∉∅
+
+2⁰ x∈⟨0,4⟩
+|x|=x
+|x-4|=-(x-4)=-x+4
+x-2(-x+4)-8+x=0
+x+2x-8-8+x=0
+4x=16 : 4
+x=4  ∧  x∈⟨0,4⟩
+⟹
+x∈∅
+
+3⁰ x∈⟨4,∞)
+|x|=x
+|x-4|=x-4
+x-2(x-4)-8+x=0
+x-2x+8-8+x=0
+0=0
+x∈ℝ  ∧  x∈⟨4,∞) 
+⟹
+x∈⟨4,∞)
+
+Zastosowane opuszczenie modułu w każdym przypadku jest poprawne tylko dla danego przedziału, więc rozwiązaniem w danym przypadku mogą być tylko liczby zawarte w przedziale.
+
+3) Wyznaczamy sumę rozwiązań ze wszystkich przypadków:
+
+1⁰ ∨ 2⁰ ∨ 3⁰ ⇒ x∈⟨4,∞)
+
+Odp. x∈⟨4,∞).

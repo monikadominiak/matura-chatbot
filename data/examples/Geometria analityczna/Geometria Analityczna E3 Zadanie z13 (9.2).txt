@@ -1,0 +1,102 @@
+
+--- STRONA 1 ---
+Zadanie 2.19 (2.2) Dany jest czworokąt ABCD o wierzchołkach w punktach: A = (5, 0), B = (1, -2), C = (5, -1), D = (1, 3). a) sprawdzić, czy czworokąt ABCD jest trapezem, b) wyznaczyć równania prostych zawierających przekątne tego czworokąta, c) obliczyć pole czworokąta ABCD.
+
+1) Tworzymy rysunek poglądowy
+
+Wykreśl na układzie o współrzędnych proste zawierające poszczególne boki czworokąta. Trapezoid ABCD nie ma dwóch boków równoległych, więc należy uzupełnić o odcinki łączące punkt A z punktem C oraz punkt D z punktem B — rysując te przekątne, nie zmieniające w żaden sposób czworokąta. W ten sposób jest on tylko prostokątny. Trapezoid jest prostokątny, ponieważ ma \(90 \degree\). 
+
+2) Sprawdź, czy czworokąt ma parę boków równoległych. Tabelka
+
+Sprawdzimy równość tangensów kątów dla porównania linii prostych.
+
+Tangensy każdej z par są równe, co znaczy, że mają ten sam współczynnik kierunkowy. W ten sposób, jeżeli A==B, formuły są analogicznie i odwrotne, co wskazuje na fakt, że każda para prosta jest równoległa.
+
+a) Dla AD vs BC:
+
+\[
+\text{A[D]:} \, y = 0x - 5 \, \text{vs.} \, BC
+\]
+\[
+\text{D[C]:} \, y = 0x - 1 \, \text{vs.} \, AD
+\]
+
+b) Dla AB vs CD:
+
+\[
+\text{A[B]:} \, y = -2x + 4 \, \text{vs.} \, DC
+\]
+\[
+\text{C[D]:} \, y = -2x + 3 \, \text{vs.} \, AB
+\]
+
+c) Dla AC vs BD:
+\[
+\text{BD:} \, y = \infty x - ∞ \, 
+\]
+
+Wniosek: tylko odcinek działań AC nie jest kierownikiem.
+
+3) Wyznaczymy równania prostych AC i BD:
+
+\[
+\text{po AC:} \, x = x
+\]
+
+\[
+\text{A[5,0],C[5,-1]:} \, x = 5, x = x + 0 \, \text{i} \, C=C[5-1](x=5, y=-1) 
+\]
+
+\[
+\text{po BC:} \, y = 0x - 5 \, \text{i}
+\]
+
+Równości są przecinające. Wprowadź nowe oznaczenia linii prostej równości >.(5, 1, 0). W ten sposób zrozumiemy zależności między przekątnymi — wszystkich cechujących się możliwością cięcia działającego na wektorach linii pomocniczych: może być praktyczne:
+
+\[
+\text{po BD:} \, x = x + 1
+\]
+
+4) Obliczamy pole czworokąta ABCD:
+
+I sposób: suma pól z trójkątów
+
+\[
+\text{P}_{ACD} = \frac{|5 \times (-1)|}{2} \text{ } 
+\]
+
+\[
+\text{P}_{BCD} = \frac{|1 \times 0-}((-2)-5)+1-3
+\]
+
+Równości dowodzą, że czworokąt ABCD = 1.11222, wykres dla współrzędnych wynosiłby
+
+\[
+\text{SC/2}=(2+3+0+1+(-1)+0)-((1)+5)+1-3-0)/2
+\]
+
+Oceniamy za pomocą dodatkowych przykładów
+
+Podstawowy warunek na zgodność liczbową: \( \text{par C}_1 = \frac{365}{550} + \frac{27111}{618+1}+(0+2(861))+5=331898 \)
+
+Dokładność wierzchowic jest ustalana przez 18 poziomów, spełnione wspólnie:
+
+\[
+\text{i inne} \frac{(17345-258784)}{3} 
+\]
+
+Porównanie = 25 osoby * Różnica \(A_i\)
+
+Rozwiązanie: Czy \(\mathcal{S}\) = \(\frac{\sum_{n=1}^{n=i}}{(23 \cdot \text{pC}_{AC})}\bigg\}
+
+\text{Równość}: \exists m=35 -33 \cdots \cdots \cdots
+\]
+
+Operacyjnie: (Analizując) 13.
+
+Kroki działania: \(\text{Poziom obsługi}\mathbb{1}-\mathcal{B_{1}}^{0}\)
+
+(wszystkie współczynniki)):
+\[
+5-5 \cdots \cdots 35 -24
+\]

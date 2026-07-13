@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zad.17 Wyznacz miejsca zerowe funkcji f(x) = 2 - log_x|6x - 5|.
+
+1) Wyznaczamy dziedzinę funkcji:
+
+zał. x > 0 , x ≠ 1
+
+x ∈ (0,1) ∪ (1,∞)
+
+2) Przyrównujemy funkcję do zera i sprowadzamy do zwykłego równania z wart. bezwgl.:
+
+2 - log_x |6x-5| = 0
+
+log_x |6x-5| = 2   ⇒   x^2 = |6x-5|
+
+(log_a b=c  ⟺  a^c = b)   x^2 - 16x - 5 = 0
+
+3) Rozwiązujemy równanie na 2 przypadki:
+
+siatka znaków:  - - - 5   + + + + x
+
+1° x ∈ (-∞, 5/6⟩
+
+   x^2 - (-6x+5) = 0
+
+   x^2 + 6x - 5 = 0
+
+   Δ = 36 + 20 = 56, sqrt(Δ) = 2sqrt(14)
+
+   x_1 = (-6-sqrt(Δ))/2 = -3-sqrt(14) < 0  ∉ D
+
+   x_2 = -3 + sqrt(14)  ^  x ∈ (-∞, 5/6⟩
+
+x = sqrt(14)-3
+
+Trzeba pamiętać o sprawdzeniu zarówno przedziału dla danego przypadku, jak i ogólnej dziedziny funkcji.
+
+2° x ∈ ⟨5/6, +∞)
+
+    x^2 - (6x-5) = 0
+
+    x^2 - 6x + 5 = 0
+
+    x^2 - x - 5x + 5 = 0
+
+    x(x-1) -5(x-1) = 0
+
+    (x-1)(x-5) = 0
+
+    x = 1 ∧ x ∉ D  ∨  x = 5  ^ x ∈ ⟨5/6, +∞)
+
+x = 5
+
+Odp. x ∈ {sqrt(14)-3 , 5}.

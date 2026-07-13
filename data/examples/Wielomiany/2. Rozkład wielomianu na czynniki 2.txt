@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+2. Rozkład wielomianu na czynniki 2
+
+Wielomian 
+w(x)=(x^2-1)(2x+3)-(1-x)(x+1)^2-(x^3-x)(3x+2) zapisano 
+w postaci w(x)=(x^2-1)∙p(x). Wskaż wielomian p(x).
+
+w(x) = (x^2-1)(2x+3) - (1-x)(x+1)^2 - (x^3-x)(3x+2)= 
+= (x^2-1)(2x+3) + (x-1)(x+1)(x+4) - x(x^2-1)(3x+2)= 
+= (x^2-1)(2x+3) + (x^2-1)(x+4) - x(x^2-1)(3x+2)= 
+= (x^2-1)[(2x+3) + (x+4) - x(3x+2)] = 
+= (x^2-1)∙(-3x^2+x+4)
+
+p(x) 
+
+Odp: p(x) = -3x^2+x+4.

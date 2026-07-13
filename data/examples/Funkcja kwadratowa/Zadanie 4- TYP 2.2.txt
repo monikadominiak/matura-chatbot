@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Zadanie 4 [5 pkt]- TYP 2.2  
+Wyznacz wszystkie wartości parametru m, dla których równanie  
+x^2 + mx + 2 = 0 ma dwa różne rozwiązania takie, że suma ich kwadratów jest większa od 2m^2 - 13  
+
+a = 1  
+b = m  
+c = 2  
+
+\(X^2 + mx + 2 = 0\)  
+
+1° Zapisanie warunków wynikających z treści zadania.  
+
+1° \(\Delta > 0 \leftarrow\) dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych.  
+
+2° \(x_1^2 + x_2^2 > 2m^2 - 13 \leftarrow\) suma kwadratów większa od \(2m^2 -13\)
+
+2° Rozwiązanie pierwszego z warunków  
+
+1°  
+\(\Delta > 0 \)  
+\(\Delta = b^2 - 4ac\)  
+
+\(m^2 - 4 \cdot 1 \cdot 2 > 0\)  
+\(m^2 - 8 > 0\)  
+\((m - \sqrt{8})(m + \sqrt{8}) > 0\)  
+
+m_1 = \(\sqrt{8}\)  
+m_2 = -\(\sqrt{8}\)  
+
+\(m \in (- \infty; -\sqrt{8}) \cup (\sqrt{8}; \infty)\)
+
+3° Rozwiązanie drugiego z warunków
+
+2° \(x_1^2 + x_2^2 > 2m^2 - 13\)
+
+Lewa strona równania:  
+\((a+b)^2 = a^2 + 2ab + b^2 \mid -2ab\)  
+\(a^2 + b^2 = (a+b)^2 - 2ab\)  
+
+\(x_1^2 + x_2^2 = (x_1 + x_2)^2 - 2 \cdot x_1 \cdot x_2\)
+
+Wracając do 2°  
+\((x_1 + x_2)^2 - 2x_1 \cdot x_2 > 2m^2 - 13 \mid -2m^2 +13\)  
+
+\((x_1 + x_2)^2 - 2x_1 \cdot x_2 - 2m^2 +13 > 0\)
+
+Korzystamy ze wzorów Viète'a  
+\(x_1 + x_2 = -\frac{b}{a}\)  
+\(x_1 \cdot x_2 = \frac{c}{a}\)
+
+\((-m)^2 - 2 \cdot 2 \cdot 2 - 2m^2 +13 > 0\)  
+\(m^2 - 4 - 2m^2 +13 > 0\)  
+\(-m^2 + 9 > 0 \mid \ m^2 - 9 < 0\)
+
+\(m^2 - 9 < 0 \leftrightarrow\) \((m-3)(m+3)<0\)  
+
+\(m = 3 \ \ m = -3\)  
+
+\(m \in (-3, 3)\)
+
+--- STRONA 2 ---
+1) Wyznaczenie części wspólnej rozwiązań obu warunków:
+
+1^o m ∈ (-∞; -√8) ∪ (√8; ∞)
+
+2^o m ∈ (-3, 3)
+
+Ostatecznie: m ∈ (-3; -√8) ∪ (√8; 3)
+
+Odp: m ∈ (-3; -√8) ∪ (√8; 3).

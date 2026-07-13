@@ -1,0 +1,49 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0-4)
+Tworząca stożka ma długość 17, a wysokość stożka jest krótsza od średnicy jego podstawy o 22. Oblicz pole powierzchni całkowitej i objętość tego stożka.
+Wymagania: V. Rozumowanie i argumentacja
+Wymagania szczegółowe: 3.4., G11.2. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą, oblicza pole powierzchni i objętość graniastosłupa prostego, ostrosłupa, walca, stożka, kuli (także w zadaniach osadzonych w kontekście praktycznym).
+
+Rozwiązanie:
+Narysujmy przekrój osiowy stożka i oznaczmy promień podstawy stożka przez r.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku oznaczono: przekrój osiowy stożka, ramię o długości 17, wysokość o długości 2r-22, promień podstawy r.
+
+Zauważamy, że (2r-22) musi być liczbą dodatnią, jako długość odcinka. Zatem r jest większe niż 11.
+Z twierdzenia Pitagorasa otrzymujemy następującą zależność:
+((2r-22)^2+r^2=289)
+(4r^2-88r+484+r^2=289)
+(5r^2-88r+195=0)
+(Delta=7744-3900=3844)
+(sqrt{Delta}=62)
+(r_1=frac{88-62}{10}=2,6) - odrzucamy, bo jest liczbą mniejszą od 11.
+(r_2=frac{88+62}{10}=15)
+Dalsze obliczenia prowadzimy dla przypadku (r=15).
+Obliczamy wysokość stożka: (2cdot 15-22=8).
+Obliczamy objętość stożka: (V=frac{1}{3}cdotpicdot 15^2cdot 8=600pi)
+Obliczamy powierzchnię całkowitą stożka: (P=picdot 15(15+17)=480pi)
+
+Schemat oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania - 1 pkt
+Zapisanie równania z jedną niewiadomą, pozwalającego na wyliczenie długości promienia podstawy stożka lub wysokości stożka, np. ((2r-22)^2+r^2=289)
+
+Rozwiązanie, w którym jest istotny postęp - 2 pkt
+Rozwiązanie równania kwadratowego w zbiorze liczb rzeczywistych.
+
+Pokonanie zasadniczych trudności zadania - 3 pkt
+Wyznaczenie jedynej możliwej długości promienia podstawy stożka i odrzucenie wartości sprzecznej z warunkami zadania oraz wyznaczenie wysokości stożka: (r=15) i (h=8)
+
+Rozwiązanie pełne - 4 pkt
+Poprawne obliczenie objętości i pola powierzchni całkowitej bryły.
+(V=frac{1}{3}cdotpicdot 15^2cdot 8=600pi)
+(P=picdot 15(15+17)=480pi)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

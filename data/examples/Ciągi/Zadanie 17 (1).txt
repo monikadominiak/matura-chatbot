@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+Zadanie 17
+
+Rozwiąż nierówność log x + log^2 x + log^3 x + ... ≥ -\frac{1}{2} gdzie lewa strona równania jest sumą zbieżnego szeregu geometrycznego.
+
+① Badamy zbieżność szeregu geometrycznego.
+
+|q|<1 ⇔ -1<q<1
+
+q = \frac{a_2}{a_1} = \frac{log^2 x}{log x} = log x
+
+-1<log x<1
+
+log x > -1 ∧ log x < 1
+
+x > \frac{1}{10} ∧ x < 10
+
+x ∈ \left(\frac{1}{10}, 10\right)
+
+② Przekształcamy lewą stronę nierówności.
+
+S = \frac{a_1}{1-q}.
+
+S = \frac{log x}{1-log x}
+
+③ Rozwiązujemy nierówność.
+
+\frac{log x}{1-log x} > \frac{1}{2}
+
+log x = t, \ t ∈ \mathbb{R}
+
+\frac{-t}{1-t} ≥ \frac{1}{2} \ / \cdot 2(1-t)^2
+
+2t(1-t)≥-(1-t)^2
+2t(1-t)+ (1-t)^2≥0
+(1-t)[2t+(1-t)]≥0
+(1-t)(t+1)≥0
+t≠1
+t=-1
+
+t ∈ [-1,1]
+
+-1≤ log x ≤1
+
+log \frac{1}{10} ≤ log x ≤ log 10
+x ∈ \left[\frac{1}{10},10\right)
+
+--- STRONA 2 ---
+4️⃣ Wyznaczamy część wspólną.
+
+\[
+\begin{cases} 
+x \in \left( \frac{1}{10},10 \right) \\ 
+x \in \left[ \frac{1}{10},10 \right] 
+\end{cases} 
+\Rightarrow x \in \left( \frac{1}{10},10 \right)
+\]
+
+Odp. : \( x \in \left( \frac{1}{10},10 \right) \)

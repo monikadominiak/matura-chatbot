@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+W trapezie ABCD punkt P jest środkiem ramienia AD. Uzasadnij, że pole trójkąta BPC jest dwa razy mniejsze od pola trapezu ABCD.
+
+⓵ tworzymy rysunek poglądowy 
+
+oznaczamy boki jako a,b,c,d
+
+i pole trzech powstałych trójkątów jako P_1, P_2, P_3
+
+teza: 2P_3 = P_{ABCD} = P_1 + P_2 + P_3
+
+⓶ zapiszemy kolejno pole trapezu i pole P
+
+P_{▱} = \frac{(a+b)}{2} \cdot h
+
+P_1 = \frac{1}{2} \cdot \frac{1}{2} h \cdot b = \frac{bh}{4}
+
+P_2 = \frac{1}{2} \cdot \frac{1}{2} h \cdot a = \frac{ah}{4}
+
+\begin{cases}
+\Rightarrow P_3 = \frac{(a+b)}{2} \cdot h - (\frac{ah}{4} + \frac{bh}{4}) =\\
+= \frac{1}{2}(a+b)h - \frac{1}{4}(a+b)h = \frac{1}{4}(a+b)h
+\end{cases}
+
+⓷ więc faktycznie 2 \cdot \frac{1}{4}(a+b)h = 2 \cdot P_3 = P_{▱} \quad c.k.d.

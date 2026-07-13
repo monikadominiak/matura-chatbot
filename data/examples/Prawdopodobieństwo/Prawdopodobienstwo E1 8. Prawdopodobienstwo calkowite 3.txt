@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+W pewnej grupie, liczącej m dziewcząt i n chłopców, 25% dziewcząt i 60% chłopców interesuje się hokejem. Prawdopodobieństwo tego, że losowo wybrana osoba z tej grupy interesuje się hokejem wynosi \(\frac{3}{7}\). Oblicz stosunek liczby dziewcząt do liczby chłopców w tej grupie.
+
+\( \circled{1} \) rysujemy schemat zdarzenia (drzewko)
+
+A - losowo wybrana osoba interesuje się hokejem
+
+P(A) = \(\frac{3}{7}\)
+
+\[
+\begin{array}{c|c|c}
+        & \frac{m}{m+n} & \frac{n}{m+n} \\
+ D\     & 25\% & 75\% \\
+ \text{TAK} & & \\
+\end{array}
+\]
+
+\[ m+n = \text{liczba wszystkich osób w grupie} \]
+
+\[
+\begin{array}{c|c|c}
+CH      & 60\% & 40\% \\
+\text{TAK} & & \\
+\end{array}
+\]
+
+P(A) = \(\frac{m}{m+n} \cdot \frac{1}{4} + \frac{n}{m+n} \cdot \frac{6}{10}\)
+
+\( \circled{2} \) rozwiązujemy równanie, dążąc do \(\frac{m}{n}\)
+
+\(\frac{m}{m+n} \cdot \frac{1}{4} + \frac{n}{m+n} \cdot \frac{3}{5} = \frac{3}{7} / \cdot 7 \cdot 20 (m+n)\)
+
+35m + 84n = 60(m+n)
+
+84n - 60n = 60m - 35m
+
+24n = 25m  / \cdot \frac{1}{25n}
+
+\(\frac{m}{n} = \frac{24}{25}\)
+
+Odp: \(\frac{24}{25}\)

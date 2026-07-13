@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+Zadanie 22 [4 pkt]- TYP 2.6
+
+Znajdź te wartości parametru m, dla których liczba 2 nie należy do zbioru rozwiązań nierówności x^2 + (m^3 + 3) - 6m^2 - 18m + 44 > 0.
+
+x^2 + (m^3 + 3)x - 6m^2 - 18m + 44 > 0
+
+Jako że a>0 zatem nasza parabola będzie mieć ramiona skierowane ku górze:
+
+Liczba 2 ma nie należeć do rozwiązań, zatem musi mieścić się w przedziale <x_1 i x_2>
+
+Zatem:
+f(2)<0
+
+2^2 + (m^3 + 3) * 2 - 6m^2 - 18m + 44 < 0
+
+4 + 2m^3 + 6 - 6m^2 - 18m + 44 ≤ 0 | -2
+m^3 - 3m^2 - 3m + 2f ≤ 0  < --- grupujemy
+
+m^2 (m - 3) - 3 (m - 3) ≤ 0
+(m - 3) (m^2 - 3) ≤ 0
+
+m - 3 = 0 | +3
+m = 3
+
+m^2 - 3 = 0 | +3
+m^2 = 3
+m = 3 ∨ m = -3
+
+Otrzymaliśmy podwójne miejsce zerowe
+Nasz wykres się "odbije"
+
+Odp: m ∈ (-∞, -3) ∪ {3}.

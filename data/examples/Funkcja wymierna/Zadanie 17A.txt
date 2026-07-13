@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Zadanie 17A
+
+Dla jakich całkowitych argumentów \( x \) wyrażenie \(\frac{2x-4}{x+7}\) przyjmuje całkowite wartości?
+
+① Przekształcamy wyrażenie do postaci \(\frac{a}{x-p} + q\).
+
+\[
+\frac{2x-4}{x+7} = \frac{2(x+7)-18}{x+7} = \frac{-18}{x+7} + 2
+\]
+
+② Wypisujemy dzielniki -18 .
+
+Dzielniki: \(-18, -9, -6, -3, -2, -1, 1, 2, 3, 6, 9, 18\)
+
+③ Obliczamy \(x+7 =\) Dzielniki .
+
+Odp.: \(x \in \{-25, -16, -13, -10, -9, -8, -6, -5, -4, -1, 2, 11\}\)

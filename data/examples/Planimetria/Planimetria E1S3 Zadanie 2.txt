@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zad.2 W okrąg o promieniu 5 cm wpisany jest trójkąt równoramienny o podstawie o długości 8 cm. Oblicz długości ramion tego trójkąta ( rozpatrz dwa przypadki )
+
+1) Tworzymy rysunki poglądowe obu przypadków:
+
+Przypadek I: trójkąt rozwartokątny
+
+Przypadek II: trójkąt ostrokątny
+
+2) Wyznaczamy x oraz y korzystając z tw. Pitagorasa:
+
+Przypadek I:
+
+x^2 + 4^2 = 5^2
+
+x = 3
+
+4^2 + z^2 = y^2
+
+y = sqrt(20) = 2sqrt(5)
+
+Przypadek II:
+
+x^2 + 4^2 = 5^2
+
+x = 3
+
+4^2 + z^2 = y^2
+
+y = sqrt(80) = 4sqrt(5)
+
+Odp. Dla trójkąta rozwartokątnego 2sqrt(5), dla trójkąta ostrokątnego 4sqrt(5).

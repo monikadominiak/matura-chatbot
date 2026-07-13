@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 3.7., 3.6. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu (x(x+1)(x-7)=0); korzysta z definicji pierwiastka do rozwiązywania równań typu (x^3=-8).
+Poprawna odpowiedź: C
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

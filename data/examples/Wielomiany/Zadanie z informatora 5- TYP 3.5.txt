@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Zadanie 5- TYP 3.5  
+Wielomian W jest określony wzorem W(x) = (x-1)(x^2 - mx + m - 1)  
+dla każdego x ∈ ℝ.  
+Wyznacz wszystkie wartości parametru m, dla których wielomian W ma  
+dokładnie jeden pierwiastek rzeczywisty.
+
+(x-1)(x^2 - mx + m - 1) = 0  
+x - 1 = 0  
+x = 1
+
+x^2 - mx + m - 1 = 0
+
+1° Δ < 0
+
+2° { Δ = 0  
+     f(1) = 0
+
+① Rozwiązanie pierwszego warunku:  
+
+1° Δ < 0  
+Δ = b^2 - 4ac
+
+m^2 - 4m + 4 < 0
+
+Δm = 16 - 16 = 0  
+m₀ = 4/2 = 2
+
+x₀ = -b/2a
+
+m ∈ ∅
+
+② Rozwiązanie drugiego z warunków:
+
+2° Δ = 0  
+m = 2
+
+f(1) = 0
+
+1 - m + m - 1 = 0
+
+0 = 0  
+m ∈ ℝ
+
+(m = 2)
+
+③ Wyznaczenie części wspólnej obu warunków  
+Część wspólne m = 2.
+
+Odp: m = 2.

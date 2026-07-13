@@ -1,0 +1,24 @@
+=== ARKUSZ: 2024p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0–1)
+W trójkącie ABC, wpisanym w okrąg o środku w punkcie S, kąt ACB ma miarę 42° (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Miara kąta ostrego BAS jest równa
+
+A. 42°
+B. 45°
+C. 48°
+D. 69°
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

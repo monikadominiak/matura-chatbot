@@ -1,0 +1,110 @@
+
+--- STRONA 1 ---
+Zadanie 15 [4 pkt]- TYP 2.4 
+
+Dla jakich wartości parametru m każde z dwóch różnych rozwiązań równania x^2 + mx + 4 = 0 jest mniejsze od 4?
+
+x^2 + mx + 4 = 0
+
+a = 1  
+b = m  
+c = 4  
+
+1️⃣ Zapisanie warunków wynikających z treści zadania:
+
+1° Δ>0 ⇐ dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych.
+
+2° x₁<4  
+    x₂<4  ⇐ każde z rozwiązań jest mniejsze od 4 
+
+2️⃣ Rozwiązanie pierwszego z warunków
+
+1° Δ>0  
+Δ = b^2-4ac  
+m^2 - 4·1·4 > 0  
+m^2 - 16 > 0  
+(m-4)(m+4) > 0  
+
+Można policzyć deltę m lub skorzystać z wzoru skróconego mnożenia:  
+a²-b² = (a-b)(a+b)
+
+m-4 = 0  
+m = 4  
+
+m+4 = 0  
+m = -4  
+
+m ∈ (-∞;-4)∪(4;∞)
+
+3️⃣ Rozwiązanie drugiego z warunków:
+
+Sposób I
+
+2° x₁<4  
+    x₂<4  
+
+Suma, dwóch liczb mniejszych od 4 musi być mniejsze od 8:  
+
+x₁ + x₂ < 8  
+-m/1 < 8  
+-m < 8 | ∙(-1)  
+m > -8  
+
+Teraz warunek związany z iloczynem rozwiązań:  
+
+x₁<4 | -4  
+x₂<4 | -4  =>  x₁-4 < 0  
+                 x₂-4 < 0  
+
+(x₁-4)(x₂-4) > 0  
+x₁·x₂ - 4x₁ - 4x₂ + 16 > 0  
+x₁·x₂ - 4(x₁+x₂) + 16 > 0  
+
+4/1 - 4∙ -m/1 + 16 > 0  
+4 + 4m + 16 > 0  
+4m + 20 > 0 | :4  
+m + 5 > 0 | -5  
+m > -5  
+
+x₁+x₂ = -b/a  
+x₁·x₂ = c/a
+
+m ∈ (-5;∞)
+
+--- STRONA 2 ---
+Sposób II
+
+Spójrzmy jak powinna wyglądać nasza funkcja:
+
+Musimy zwrócić uwagę na dwa elementy:
+\[
+\begin{cases} 
+f(4) > 0 & \Rightarrow 16+4m+4 > 0 \\
+& 4m + 20 > 0 \mid :4 \\
+& m + 5 > 0 \\
+& m > -5 \\
+x_w < 4
+\end{cases}
+\]
+
+\[ W(p,q) \]
+\[ \rho = \frac{-b}{2a} \Rightarrow x_w = \frac{-m}{2} < 4 \mid \cdot 2 \]
+\[ -m < 8 \mid (-1) \]
+\[ m > 8 \]
+
+1° \( m \in (-\infty; -4) \cup (4; \infty) \)
+
+2° \( m \in (-5; \infty) \)
+
+\[
+\begin{array}{r}
+\underline{8} & \\
+\underline{-5} & \\
+\underline{-4} & \\
+\\
+\end{array}
+\]
+
+\( m \in (-5; -4) \cup (4; \infty) \)
+
+Odp: \( m \in (-5; -4) \cup (4; \infty) \).

@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Zadanie z4 (8.1) Z punktu P należącego do boku AB trójkąta równobocznego ABC poprowadzono półprostą dzielącą trójkąt na dwie figury o równych polach. Oblicz tangens kąta, jaki tworzy ta półprosta z odcinkiem AP, jeśli |AP| : |PB| = 3.
+
+1) Analizujemy i oznaczamy rysunek:
+
+UNAGA: zadanie nie precyzuje, czy chodzi o tangens kąta ostrego czy rozwartgo. W takiej sytuacji mamy dowolność, wybieramy łatwiejszy wariant, czyli kąt ostry.
+
+Równość pól zapiszemy przy pomocy równania, a stosunek boków wymierz oznaczyć 3x i x.
+
+P_{ABC} = (4x)^2 \cdot \frac{\sqrt{3}}{4} = 4 \cdot \sqrt{3}x^2
+P_{APD} = \frac{4}{2} = \frac{5}{4}x^2 = 2 \cdot \sqrt{3}x^2
+P_{APD} = \frac{1}{2}(AD \cdot PD \cdot \sin60^\circ) = \frac{25}{4}x^2
+
+Półprosta PD podzieliła trójkąt ABC na trójkąt APD i czworokąt BCP.
+
+Czworokąt BCP jest trójkątny o wartości kąta, pomimo to nie tnię (nie mied mieć) ani jednej pary boków równoległych, więc nie jest to trapez ani inny regularny czworokąt.
+
+Należy zatem skupić się na trójkącie APD. Znamy jego bok (oznaczymy co prawda jako 3x, ale zmiana stosunku tego boku do inny tj. 0 nie wpływa), kąt oraz pole. Zastosujemy wzór, który wiąże ze sobą te parametry.
+
+2) Wyznaczamy bok AD w zależności od x za pomocą womu na pole trójkąta:
+
+P_{APD} = \frac{25}{4}x^2 = \frac{1}{2}3x \cdot |AD| \cdot \sin60^\circ
+\frac{\sqrt{3}}{2} = \frac{\sqrt{3}}{2}
+25x^2 = \frac{\sqrt{3}}{4} \cdot |AD| \cdot 1/\frac{1}{x}(x>0)
+25x^2 = \frac{9}{12}x \frac{|AD|}
+|AD| = \frac{40}{3}x
+
+3) Uważania długość boku PD od x za pomocą tw. cosinusów:
+
+|PD|^2 = (3x)^2 + \left(\frac{40}{3}x\right)^2 - 2 \cdot 3x \cdot \frac{4}{3}x \cdot \cos60^\circ
+|PD| = 9x^2 + \sqrt{1600} \cdot x^2 - 4x^2 \cdot \cos60^\circ
+|PD| = \frac{768}{9}x^2
+|PD| = \frac{8}{3}x \sqrt{x}, x > 0 i (|PD| > 0
+
+4) Wynaczamy sinus kąta alfa za pomocą tw. sinusa:
+
+\frac{|PD|}{sin\alpha}=\frac{|AD|}{sin60^\circ}
+sin\alpha=x \cdot \frac{40}{3}
+sin\alpha= \frac{\sqrt{3}}{3}
+
+5) Wynaczamy tangens kąta alfa, korzystając ze związku między funkcjami trygonometrycznymi:
+
+\sin^2\alpha = \cos^2 \alpha  = 1
+\cos^2\alpha - 1 = \left(\frac{\sqrt{3}}{3}\right)^2 = 1 .= \alpha \frac{2 \pi}{3}x
+tg\alpha = \frac{\sin\alpha}{\cos\alpha} = \frac{40}{3} \cdot \frac{5}{3}
+ = \frac{\sqrt{48}}{3}
+cos\alpha in \frac{3\cdot{2}x}{\sqrt{}\frac{3} \ldots \hline {\frac{-25}{3x}}}
+
+Na początek zadania przyjętego ze, albo to kąta ostro zacz， więc cos\alpha > 0
+
+Odp. tg\alpha = \frac{40\sqrt{3}}{5}.

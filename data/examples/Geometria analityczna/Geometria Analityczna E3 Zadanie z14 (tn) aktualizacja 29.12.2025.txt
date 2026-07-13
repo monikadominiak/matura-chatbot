@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+**Zadanie z1 (9.7)** Dane jest równoległobok, którego boki zawierają się w prostych o równaniach y = 2x + a, y = 2x + 2, y = a, y = 1. Wyznacz wszystkie wartości parametru a, dla których pole tego równoległoboku jest równe 1.
+
+1) Tworzymy rysunek poglądowy:
+
+(Zał. a ≠ 1 (proste nie mogą się pokrywać, bo wówczas równoległobok nie ma)]
+a ≠ 2
+
+2) Wyznaczmy wysokość i podstawę równoległoboku:
+
+Wysokość równoległoboku to odległość między prostymi y=a i y=a, więc:
+
+h=|1-a|=|a-1|
+
+Do wyznaczenia podstawy równoległoboku 
+ją 2 środkami punktw-mozemy to 
+uzysłać z przęecią prostych:
+
+A(x,y): { y=a 
+         { y=2x+2  => A(-a-2/a,0) 
+   a Wo=2<=a 
+   x= -a-2/2 
+   
+B(x,y): { y=a => B(0,a) 
+         { y=2x+2 
+         
+|AB|=√(0--a-2/a)^2+a-a=√(-a-2/a)^2 
+
+3) Podstawiamy obliczone długości do wzoru na pole 
+i rozwiązujemy równanie:
+
+P= a*h
+1= |u -a2/a|*|1-a| 
+(a-1)(a-2)/2 = 4 /2 
+
+|a^2 - 3a + 2| = 2 
+
+a^2 - 3a + 2 = 2  
+a^2 - 3a + 2 = -2  
+a^2 - 3a = 0 
+a^2 - 3a = 4 
+a(a-3)=0
+a-3=0+4=0 
+a = 0  v  a = 3  
+a ε Ø 
+ 
+Odp: a ε{0,3}.

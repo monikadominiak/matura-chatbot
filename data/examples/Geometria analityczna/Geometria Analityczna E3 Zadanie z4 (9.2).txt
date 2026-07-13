@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zadanie z4 (9.2) Dany jest punkt C = (2, 3) i prosta o równaniu y = 2x - 8 będąca symetralną odcinka BC. Wyznacz współrzędne punktu B. 
+
+1) Tworzymy rysunek poglądowy:
+
+Wskazówka 1: symetralna odcinka to prosta przechodząca przez jego środek pod kątem prostym.
+
+Wskazówka 2: niektóre zadania z geometrii analitycznej składają się z wielu kroków obliczeniowych do wykonania. Zrobienie dodatkowego rysunku w układzie współrzędnych warto zaznaczyć sobie, co po kolei należy obliczać, aby dojść do końcowego wyniku i potem to obliczenie zrealizować.
+
+2) Wyznaczamy równanie prostej BC:
+
+pr. BC y = ax+b         k: y = 2x-8
+
+pr. BC ⊥ k ⇔ a ⋅ 2 = -4 
+                                 a = -2 
+pr. BC: y = -2x+b
+
+C(2, 3) ∈ pr. BC ⇒ 
+3 = -4 + b 
+b = 4
+
+pr. BC: y = -2x + 4
+
+3) Wyznaczamy współrzędne punktu S:
+
+Punkt S jest punktem przecięcia prostych k i BC.
+
+{ y = 2x - 8
+{ y = -2x + 4
+
+2x - 8 = -2x + 4
+ 4x = 12 |:4
+ x = 3, y = 2 ⋅3 - 8 = 6 - 8
+ S = (3, -2)
+
+4) Wyznaczamy punkt B ze środka odcinka BC:
+
+2x_B + 2
+_____   = 3   => 4 = 10, 5x_B => x_B = 39
+  5                                   5
+
+3 + y_B 
+______  = 2  => 6 = 15 - 5y_B => y_B = 3
+  2
+
+B(39/5, 3)
+
+Odp. B(39/5, 3).

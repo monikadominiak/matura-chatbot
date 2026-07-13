@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 6.1. Zdający wykorzystanie definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od 0 do 180.
+Poprawna odpowiedź: A
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

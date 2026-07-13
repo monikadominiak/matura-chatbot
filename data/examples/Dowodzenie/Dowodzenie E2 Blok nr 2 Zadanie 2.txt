@@ -1,0 +1,24 @@
+
+--- STRONA 1 ---
+Trójkąt ABC wpisano w okrąg i przez punkt A poprowadzono styczną do okręgu.
+Następnie poprowadzono sieczną do okręgu równoległą do stycznej, która przecięła boki AC i AB odpowiednio w punktach D i E. Wykaż, że na czworokącie CDEB można opisać okrąg.
+
+1) tworzymy rysunek poglądowy
+
+teza: na CDEB można opisać okrąg
+
+2) na 4-kącie można opisać okrąg <=> sumy miar jego przeciwległych kątów wewnętrznych są równe 180°
+
+3) oznaczamy kąty w Δ: α, β, γ
+wiemy, że α + β + γ = 180°
+
+4) tw. o kącie między styczną a cięciwą
+mamy kąty β i γ przy wierzchołku A
+
+5) wtedy |∠KEI| (na zewnątrz 4-kąta) = β
+   i |∠KDI| (na zewnątrz 4-kąta) = γ 
+
+|∠CEDI| = 180° - β
+|∠BDEI| = 180° - γ } -> kąty przyległe
+
+zatem: |∠CEDI| + |∠CBDI| = |∠BDEI| + |∠CEB| = 180°  c.k.d.

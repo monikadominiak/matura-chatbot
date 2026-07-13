@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest romb o kącie ostrym α. Krótsza przekątna graniastosłupa ma długość d i tworzy ze ścianą boczną kąt β. Wyznacz objętość tego graniastosłupa.
+
+1️⃣ sporządzamy rysunek pomocniczy i wprowadzamy oznaczenia
+
+\(IDEI = ID'E'I = h\)
+
+\(\alpha\) - kąt ostry rombu
+
+\(d\) - krótsza przekątna graniastosłupa
+
+\(a\) - długość boku podstawy
+
+\(e\) - krótsza przekątna podstawy
+
+2️⃣ uzależniamy \(h\) i \(a\) od danych: \(d, \alpha \, i \, \beta\)
+
+w \(\triangle\) prostokątnym \(BD'E'\)
+
+\(\sin\beta = \frac{h}{d} \implies h = d \sin\beta\)
+
+zatem: \(P_p = a \cdot h = \frac{d \cdot \sin\beta}{\sin\alpha} \cdot d \sin\beta = \frac{d^2 \sin^2\beta}{\sin\alpha}\)
+
+w \(\triangle\) prostokątnym \(ADE\)
+
+\(\sin\alpha = \frac{h}{a} \implies a = \frac{h}{\sin\alpha} \implies a = \frac{d \cdot \sin\beta}{\sin\alpha}\)
+
+3️⃣ uzależniamy \(H\) od danych: \(d, \alpha \, i \, \beta\)
+
+w \(\triangle\) prostokątnym \(BOD'\) \((tw. \, Pitagorasa)\)
+
+\(H^2 + e^2 = d^2 \,\,\, \, (1)\)
+
+z \(\triangle\) \(ABD \, z \, tw. \, cosinusów\)
+
+\(e^2 = a^2 + a^2 - 2a^2 \cos \alpha \,\,\, (2)\)
+
+podstawiamy \(e^2 \, (2) \, do \, (1)\)
+
+\(H^2 + 2a^2 - 2a^2 \cos \alpha = d^2\)
+
+\(H^2 = d^2 - 2a^2 (1 - \cos \alpha)\)
+
+\(H^2 = d^2 - 2 \left(\frac{d \cdot \sin\beta}{\sin\alpha}\right)^2 (1 - \cos \alpha)\)
+
+\(H^2 = \frac{d^2 \sin^2\alpha - 2d^2 \sin^2\beta (1 - \cos \alpha)}{\sin^2 \alpha}\)
+
+\(H = \frac{d}{\sin\alpha} \sqrt{\sin^2\alpha - 2 \sin^2\beta (1 - \cos \alpha)}\)
+
+wcześniej wyliczone
+
+\(a = \frac{d \sin\beta}{\sin\alpha}\)
+
+4️⃣ liczymy objętość graniastosłupa
+
+\(V = \frac{d^2 \sin^2\beta}{\sin\alpha} \cdot \frac{d}{\sin\alpha} \cdot \sqrt{\sin^2\alpha - 2\sin^2\beta(1-\cos\alpha)} = \)
+
+\(= \frac{d^3 \sin^2 \beta}{\sin^2 \alpha} \cdot \sqrt{\sin^2 \alpha - 2 \sin^2 \beta (1 - \cos \alpha)}\)
+
+Odp: \(V = \frac{d^3 \sin^2 \beta}{\sin^2 \alpha} \cdot \sqrt{\sin^2 \alpha - 2 \sin^2 \beta (1 - \cos \alpha)} \)

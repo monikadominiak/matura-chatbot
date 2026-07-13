@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+W trójkącie o bokach \( a, b, c \) kąt \( \alpha \) leży naprzeciwko boku \( a \), a kąt \( \beta \) - naprzeciwko boku \( b \). Wykaż, że jeśli \( bc = a^2 - b^2 \), to \(\alpha = 2\beta\).
+
+\( \textcircled{1} \) tworzymy rysunek poglądowy
+
+\( \triangle ABC \) 
+
+(z rysunkiem trójkąta i oznaczeniami kątów oraz boków)
+
+założenie:
+\( bc = a^2-b^2 \)
+
+teza:
+\( \alpha = 2\beta \)
+
+(UWAGA: na rysunku są domyślne oznaczenia dla \( \triangle ABC \), gdy nie mamy danych)
+
+\( \textcircled{2} \) zapiszmy dwa razy tw. cosinusów
+
+\[
+\begin{cases}
+a^2 = b^2 + c^2 - 2bc \cdot \cos \alpha \\
+b^2 = a^2 + c^2 - 2ac \cdot \cos \beta 
+\end{cases}
+\]
+
+\[
+a^2-b^2 = b^2-a^2-2bc \cos \alpha + 2ac \cos \beta 
+\]
+
+\[
+\Rightarrow bc = ac \cdot \cos \beta - bc \cdot \cos \alpha
+\]
+
+\(\textcircled{3}\) z tw. sinusów mamy:
+\[
+\frac{a}{\sin \alpha} = \frac{b}{\sin \beta} \Rightarrow \frac{\sin \alpha}{\sin \beta} = \frac{a}{b}
+\] dla \(a, b, c \neq 0\)
+
+\[
+bc = ac \cdot \cos \beta - bc \cdot \cos \alpha \quad / : a \cdot c
+\]
+
+\[
+\frac{b}{a} = \cos \beta - \frac{b}{a} \cdot \cos \alpha
+\]
+
+\[
+\frac{b}{a}(1+\cos \alpha) = \cos \beta
+\]
+
+\[
+\frac{\sin \beta}{\sin \alpha}(1+\cos \alpha) = \cos \beta \quad / : \sin \alpha
+\]
+
+\[
+\sin \beta = \cos \beta \sin \alpha - \sin \beta \cos \alpha
+\]
+
+\[
+\sin \beta = \sin (\alpha - \beta)
+\]
+
+\[
+\beta = \alpha - \beta + 2k\pi \quad \vee \quad \beta = 180^{\circ} - (\alpha - \beta) + 2k\pi, \, k \in \mathbb{Z}
+\]
+
+\[
+2\beta = \alpha + 2k\pi \quad, \quad k=0
+\]
+
+\( c.k.d. \)
+
+\( \alpha, \beta \in (0^{\circ}, 180^{\circ}) \)
+
+(u dołu obrazu w ramce)
+\[
+\sin(\alpha-\beta) = \sin \alpha \cos \beta - \cos \alpha \sin \beta
+\]

@@ -1,0 +1,18 @@
+=== ARKUSZ: 2023p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba $sqrt[3]{-frac{27}{16}}cdotsqrt[3]{2}$ jest równa
+A. $(-frac{3}{2})$
+B. $frac{3}{2}$
+C. $frac{2}{3}$
+D. $(-frac{2}{3})$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

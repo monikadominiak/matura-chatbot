@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+FZ10
+
+f(x) = sinx - \(\frac{\sqrt{3}}{2}\), x₀ = \(\frac{\pi}{3}\)
+
+wzór na styczną: y = f'(x₀)(x-x₀) + f(x₀)
+
+❶ wyznaczamy wzór na f'(x), korzystając z (sinx)' = cosx
+
+f'(x) = cosx
+
+❷ liczymy kolejno f'(x₀) i f(x₀)
+
+f'(\(\frac{\pi}{3}\)) = cos\(\frac{\pi}{3}\) = \(\frac{1}{2}\)
+
+f(\(\frac{\pi}{3}\)) = sin\(\frac{\pi}{3}\) - \(\frac{\sqrt{3}}{2}\) = \(\frac{\sqrt{3}}{2}\) - \(\frac{\sqrt{3}}{2}\) = 0
+
+❸ wstawiamy wyliczone wartości do wzoru na styczną
+
+y = \(\frac{1}{2}\)(x-\(\frac{\pi}{3}\)) + 0 = \(\frac{1}{2}\)x - \(\frac{\pi}{6}\)
+
+odp: y = \(\frac{1}{2}\)x - \(\frac{\pi}{6}\)

@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zad.1 Dane są koła K_1: x^2 + y^2 \leq 16, K_2: (x-2)^2 + y^2 \leq 4, K_3: (x-2)^2 + (y+3)^2 \leq 9. Do którego z tych kół należy punkt P = (2, -1)?
+
+1) Podstawiamy punkt P pod kolejne koła i sprawdzamy prawdziwość nierówności:
+
+P(2,-1) \in K_1 \Leftrightarrow (2)^2 + (-1)^2 \leq 16 \\
+4+1 \leq 16 \\
+5 \leq 16 \quad \text{PRAWDA}
+
+PUNKT \; P(2,-1) \; NALEŻY \; DO \; KOŁA \; K_1
+
+P(2,-1) \in K_2 \Leftrightarrow (2-2)^2 + (-1)^2 \leq 4 \\
+0+1 \leq 4 \\
+1 \leq 4 \quad \text{PRAWDA}
+
+PUNKT \; P(2,-1) \; NALEŻY \; DO \; KOŁA \; K_2
+
+P(2,-1) \in K_3 \Leftrightarrow (2-2)^2 + (-1+3)^2 \leq 9 \\
+0+4 \leq 9 \\
+4 \leq 9 \quad \text{PRAWDA}
+
+PUNKT \; P(2,-1) \; NALEŻY \; DO \; KOŁA \; K_3
+
+Odp. Punkt P należy do wszystkich 3 kół.

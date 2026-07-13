@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Dany jest równoległobok ABCD. Okrąg wpisany w trójkąt BCD jest styczny do przekątnej BD w punkcie L, a okrąg wpisany w trójkąt ABD ma środek S i jest styczny do boku AD w punkcie K. Wykaż, że jeżeli odcinek SL jest równoległy do prostej AB, to |KD| = |SL|.
+
+⑴ tworzymy rysunek poglądowy
+
+SL || AB
+
+teza: |KD| = |SL|
+
+Δ ABD ≡ Δ BCD
+
+⑵ na podstawie tw. o odcinkach stycznych możemy znaleźć odcinki o równej długości
+
+niech |KD| = x = |DN|
+
+również |BO| = |BL|, a z przystawienia = x
+
+⑶ musimy zatem pokazać, że |SL| = x
+
+czyli |SL| = |BL|
+
+czyli Δ SBL ma być równoramienny
+
+skoro AB || SL to |∠ABS| = |∠LSB| (kąty naprzemianległe)
+
+a odcinek |SBL| jest dwusieczną ∠ ABD (przechodzi przez środek okręgu wpisanego)
+
+więc |∠ABS| = |∠SBL| = α
+
+czyli Δ SBL - równoramienny i |SL| = |BL| = x
+
+zatem |SL| = |KD|
+
+c.k.d.

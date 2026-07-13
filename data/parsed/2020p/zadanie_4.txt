@@ -1,0 +1,17 @@
+=== ARKUSZ: 2020p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Cenę x pewnego towaru obniżono o 20% i otrzymano cenę y.
+Aby przywrócić cenę x, nową cenę y należy podnieść o
+A. 25%
+B. 20%
+C. 15%
+D. 12%
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 4. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D

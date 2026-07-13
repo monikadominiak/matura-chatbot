@@ -1,0 +1,23 @@
+=== ARKUSZ: 2016p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0-5)
+Podstawą ostrosłupa prawidłowego trójkątnego ABCS jest trójkąt równoboczny ABC. Wysokość SO tego ostrosłupa jest równa wysokości jego podstawy. Objętość tego ostrosłupa jest równa 27. Oblicz pole powierzchni bocznej ostrosłupa ABCS oraz cosinus kąta, jaki tworzą wysokość ściany bocznej i płaszczyzna podstawy ostrosłupa.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 33. $(0-5)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 9. Stereometria. Zdający stosuje trygonometrię do obliczeń długości odcinków, miar kątów, pól powierzchni i objętości (9.6). G10. Figury płaskie. Zdający stosuje twierdzenie Pitagorasa (G10.7).
+Przykładowe rozwiązanie Wprowadzamy oznaczenia jak na rysunku. Ponieważ wysokość tego ostrosłupa jest równa wysokości jego podstawy, to $H=\frac{a\sqrt{3}}{2}$. Objętość ostrosłupa jest równa 27, więc otrzymujemy równanie $\frac{1}{3}\cdot\frac{a^{2}\sqrt{3}}{4}\cdot\frac{a\sqrt{3}}{2}=27$, skąd otrzymujemy $a=6$. Wysokość ostrosłupa jest równa $H=\frac{6\sqrt{3}}{2}=3\sqrt{3}$. Punkt O jest środkiem okręgu opisanego na trójkącie równobocznym ABC, zatem długość odcinka PO stanowi $\frac{1}{3}$ wysokości trójkąta ABC, czyli $|OP|=\frac{1}{3}H=\frac{1}{3}\cdot 3\sqrt{3}=\sqrt{3}$. Z twierdzenia Pitagorasa zastosowanego dla trójkąta POS otrzymujemy $h^{2}=|OP|^{2}+H^{2}$, $h^{2}=(\sqrt{3})^{2}+(3\sqrt{3})^{2}$, $h^{2}=30$. Stąd $h=\sqrt{30}$.
+Strona 15 z 20
+Pole powierzchni bocznej ostrosłupa jest zatem równe $P_{b}=3\cdot\frac{1}{2}ah=3\cdot\frac{1}{2}\cdot 6\sqrt{30}=9\sqrt{30}$. Cosinus kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy jest równy $\cos\alpha=\frac{|OP|}{h}=\frac{\sqrt{3}}{\sqrt{30}}=\frac{\sqrt{10}}{10}$.
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania.......... 1 p. Zdający: zapisze równanie, z którego można obliczyć długość krawędzi podstawy ostrosłupa: $\frac{1}{3}\cdot\frac{a^{2}\sqrt{3}}{4}\cdot\frac{a\sqrt{3}}{2}=27$ albo zapisze równanie, z którego można obliczyć wysokość ostrosłupa: $\frac{1}{3}\cdot\frac{\left(\frac{2H}{\sqrt{3}}\right)^{2}\sqrt{3}}{4}\cdot H=27$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp... 2 p. Zdający obliczy długość krawędzi podstawy ostrosłupa $a=6$ lub wysokość ostrosłupa $H=3\sqrt{3}$ i na tym zakończy lub dalej popełnia błędy.
+Uwaga: Zdający może obliczyć od razu tangens kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy ostrosłupa: $\tg\alpha=\frac{H}{\frac{1}{3}H}=3$  a następnie obliczyć szukaną wartość cosinusa tego kąta: $\cos\alpha=\frac{\sqrt{10}}{10}$. Otrzymuje wtedy 2 punkty.
+Pokonanie zasadniczych trudności zadania... 3 p. Zdający obliczy wysokość ściany bocznej ostrosłupa: $\sqrt{30}$ albo długość krawędzi bocznej ostrosłupa: $\sqrt{39}$ i na tym zakończy lub dalej popełnia błędy.
+Strona 16 z 20
+Rozwiązanie prawie pełne.... 4 p. Zdający obliczy: pole powierzchni bocznej ostrosłupa ABCS: $9\sqrt{30}$ albo cosinus kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy: $\cos\alpha=\frac{\sqrt{10}}{10}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie pełne ........5 p. Zdający obliczy pole powierzchni bocznej ostrosłupa ABCS: $9\sqrt{30}$ i cosinus kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy: $\cos\alpha=\frac{\sqrt{10}}{10}$
+Uwagi:
+Jeżeli zdający rozważa inną bryłę niż podana w zadaniu, to za całe rozwiązanie otrzymuje 0 punktów.
+Jeżeli zdający popełni błąd merytoryczny np. w zastosowaniu twierdzenia Pitagorasa przy obliczaniu wysokości ściany bocznej lub w interpretacji własności trójkąta równobocznego, to otrzymuje za całe rozwiązanie otrzymuje co najwyżej 2 punkty.
+Akceptujemy poprawne przybliżenia dziesiętne liczb rzeczywistych.

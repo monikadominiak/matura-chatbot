@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Ze zbioru A = {1, 2, 3, ..., 4n + 5} losujemy dwie różne liczby. Prawdopodobieństwo wylosowania dwóch liczb nieparzystych jest równe \(\frac{15}{58}\). Ile liczb należy do zbioru A?
+
+\(\bigcirc\) analizujemy polecenie
+
+\[ A = \{1, 2, 3, \ldots, 4n + 5\} \quad n \in \mathbb{N} \]
+
+losujemy dwie różne liczby
+
+A - wylosowanie dwóch liczb nieparzystych, \( P(A) = \frac{15}{58} \)
+
+\(\bigcirc\) zapiszemy moc \(\Omega\)
+
+\[
+\overline{A} = \binom{4n+5}{2} \rightarrow \text{wylosowanie 2 liczb z } 4n+5 \text{ liczb}
+\]
+
+\(\bigcirc\) aby zapisać \(\overline{A}\), a następnie \(P(A)\) musimy wiedzieć ile jest liczb nieparzystych w zbiorze A
+
+4n+5 jest na pewno liczbą nieparzystą, więc w zbiorze A mamy o 1 więcej liczb nieparzystych niż parzystych
+
+\[
+\Rightarrow 2n+3 \text{ liczb nieparzystych}
+\]
+
+\(\bigcirc\) \(\overline{A} = \binom{2n+3}{2}\), \(P(A) = \frac{\binom{2n+3}{2}}{\binom{4n+5}{2}}\)
+
+\(\bigcirc\) rozwiązujemy \(P(A) = \frac{15}{58}\)
+
+\[
+\frac{15}{58} = \frac{(2n+3)!}{2!(2n+1)!} / \frac{(4n+5)!}{2!(4n+3)!} = \frac{(2n+3)(2n+2)}{(4n+5)(4n+4)} = \frac{2 \cancel{(2n+3)} \cancel{(2n+2)}}{2 \cancel{(4n+5)} \cancel{(4n+4)}}
+\]
+
+\[
+\frac{2n+3}{2(4n+5)} = \frac{15}{58}
+\]
+
+\[
+116n + 174 = 120n + 150
+\]
+
+\[
+4n = 24
+\]
+
+\[
+n = 6
+\]
+
+\[
+4n+5 = 4 \cdot 6 + 5 = 29
+\]
+
+Odp: 29 liczb

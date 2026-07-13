@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0–4)
+Ciąg arytmetyczny (a_n) jest określony dla każdej liczby naturalnej n &gt;= 1. Różnicą tego ciągu jest liczba r = -4, a średnia arytmetyczna początkowych sześciu wyrazów tego ciągu: a_1, a_2, a_3, a_4, a_5, a_6, jest równa 16. a) Oblicz pierwszy wyraz tego ciągu. b) Oblicz liczbę k, dla której a_k = -78.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+z2 (5.1)
+
+Oblicz sin α i cos α, jeżeli tg α = -2 i α ∈ (π/2, π).
+
+Trzeba uwzględnić znak funkcji trygonometrycznych w poszczególnych ćwiartkach
+
+Związki między funkcjami trygonometrycznymi, które można zastosować, to:
+sin^2 α + cos^2 α = 1 oraz tg α = sin α/cos α
+
+1️⃣ Zmieniamy tg α na sinus i cosinus.
+
+tg α = -2
+
+sin α/cos α = -2
+
+sin α = -2 cos α
+
+2️⃣ Korzystamy z jedynki trygonometrycznej
+
+sin^2 α + cos^2 α = 1
+
+(-2 cos α)^2 + cos^2 α = 1
+
+4 cos^2 α + cos^2 α = 1
+
+5 cos^2 α = 1
+
+cos^2 α = 1/5
+
+cos α = √5/5 ∨ cos α = -√5/5
+
+W drugiej ćwiartce cosinus jest ujemny, więc wybieramy ujemne rozwiązanie równania.
+
+3️⃣ Obliczamy sin α.
+
+cos α = -√5/5, α ∈ (π/2, π)
+
+sin α = -2 cos α = 2√5/5
+
+Odp.: sin α = 2√5/5, cos α = -√5/5.

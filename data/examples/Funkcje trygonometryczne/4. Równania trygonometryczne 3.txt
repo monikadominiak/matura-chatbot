@@ -1,0 +1,125 @@
+
+--- STRONA 1 ---
+4. Równania trygonometryczne 3
+
+Rozwiąż równanie.
+
+a) cos^2x + 2 sinx = 1 b) sin^2x - 3 cos x - 3 = 0 c) tg^4x - 4tg^2x + 3 = 0
+
+a) ➊ Przekształcamy równanie.
+
+cos^2x + 2sinx = 1
+
+sin^2x + cos^2x = 1 => cos^2x = 1 - sin^2x
+
+1 - sin^2x + 2sinx = 1
+
+-sin^2x + 2sinx = 0
+
+sinx(-sinx + 2) = 0
+
+sinx = 0
+
+-sinx + 2 = 0
+
+sinx = 2
+
+➋ Szkicujemy wykres funkcji sinus.
+
+y = sinx
+
+(rysunek wykresu funkcji sinus)
+
+➌ Odczytujemy rozwiązanie.
+
+sinx = 0          sinx = 2
+
+x = kπ, k ∈ ℤ     brak rozwiązań
+
+Odp.: x = kπ, k ∈ ℤ.
+
+--- STRONA 2 ---
+b) 1️⃣ Przekształcamy równanie.
+
+\(-\cos^2x - 3\cos x -2 = 0 \ \mid \cdot (-1)\)  
+\(\cos^2x + 3\cos x + 2 = 0\)
+
+2️⃣ Podstawiamy zmienną pomocniczą \(t\).
+
+\(t = \cos x, \ t \in [-1, 1]\)  
+\(t^2 + 3t + 2 = 0\)
+
+\(\Delta_t = 9 - 4 \cdot 1 \cdot 2 = 1\), \ \(\sqrt{\Delta_t} = 1\)  
+\(t_1 = \frac{-3 - 1}{2} = -2 \ \vee \ t_2 = \frac{-3 + 1}{2} = -1\)
+
+3️⃣ Cofamy podstawienie.
+
+\(\cos x = -2 \ \vee \ \cos x = -1\)
+
+4️⃣ Szkicujemy wykres funkcji cosinus.
+
+(wykres funkcji)
+
+5️⃣ Odczytujemy rozwiązanie.
+
+\(\cos x = -2\) \quad \(\cos x = -1\)  
+brak rozwiązań \quad \ \(x = \pi + 2k\pi, \ k \in \mathbb{Z}\)
+
+Odp: \(x = \pi + 2k\pi, \ k \in \mathbb{Z}.\)
+
+--- STRONA 3 ---
+c) \(\operatorname{tg}^4 x - 4 \operatorname{tg}^2 x + 3 = 0\)
+
+\(\large{\circled{1}}\) Podstawiamy zmienną pomocniczą. 
+
+\[ t = \operatorname{tg}^2 x, \quad t \in [0, +\infty) \]
+
+\[ t^2 - 4t + 3 = 0 \]
+
+\[ \Delta_t = (-4)^2 - 4 \cdot 1 \cdot 3 = 4, \; \sqrt{\Delta_t} = 2 \]
+
+\[ t_1 = \frac{4 - 2}{2} = 1 \qquad t_2 = \frac{4 + 2}{2} = 3 \]
+
+\(\large{\circled{2}}\) Cofamy podstawienie.
+
+\[ \operatorname{tg}^2 x = 1 \qquad \operatorname{tg}^2 x = 3 \]
+
+\[ \operatorname{tg} x = 1 \quad \lor \quad \operatorname{tg} x = -1 \]
+
+\[ \operatorname{tg} x = \sqrt{3} \quad \lor \quad \operatorname{tg} x = -\sqrt{3} \]
+
+\(\large{\circled{3}}\) Szkicujemy wykres funkcji tangens.
+
+\[
+\begin{tikzpicture}
+\draw[->] (-2,0) -- (2,0) node[right] {$x$};
+\draw[->] (0,-2) -- (0,2) node[above] {$y$};
+\draw plot[domain=-1.5:1.5,smooth] (\x, {tan(\x r)});
+\foreach \x in {-1.57, -0.52, 0, 0.52, 1.57}
+  \draw[dotted] (\x,-2.5) -- (\x,2.5);
+\end{tikzpicture}
+\]
+
+\(y = \operatorname{tg} x\)
+
+\(\large{\circled{4}}\) Odczytujemy rozwiązania.
+
+\[ \operatorname{tg} x = 1 \]
+
+\[ x = \frac{\pi}{4} + k\pi \]
+
+\[ \operatorname{tg} x = -1 \]
+
+\[ x = -\frac{\pi}{4} + k\pi \]
+
+\[ \operatorname{tg} x = \sqrt{3} \]
+
+\[ x = \frac{\pi}{3} + k\pi \]
+
+\[ \operatorname{tg} x = -\sqrt{3} \]
+
+\[ x = -\frac{\pi}{3} + k\pi \]
+
+\[ , \quad k \in \mathbb{Z} \]
+
+**Odp.:** \( x = \frac{\pi}{4} + k\pi , \, x = -\frac{\pi}{4} + k\pi , \, x = \frac{\pi}{3} + k\pi , \, x = -\frac{\pi}{3} + k\pi , \, k \in \mathbb{Z}. \)

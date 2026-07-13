@@ -1,0 +1,11 @@
+
+--- STRONA 1 ---
+z8 (tn)
+
+Uzasadnij, że dany wielomian nie ma pierwiastków. Następnie rozłóż ten wielomian na czynniki stopnia drugiego.
+a) x^4 + 1
+b) x^4 - 3x^2 + 9
+
+a) x^4 + 4 = (x^4 + 2x^2 + 1) - 2x^2 = (x^2 +1)^2 - (sqrt(2)x)^2 = (x^2 + sqrt(x+1))(x^2 - sqrt(x+1))
+
+b) x^4 - 3x^2 + 9 = (x^2 + 3)^2 - 3x^2 = (x^2 + 3)^2 - (3x)^2 = (x^2 - 3x + 3)(x^2 + 3x + 3)

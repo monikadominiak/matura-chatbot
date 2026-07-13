@@ -1,0 +1,15 @@
+=== ARKUSZ: 2015p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-2)
+Oblicz najmniejszą i największą wartość funkcji kwadratowej f(x) = x^2 - 6x + 3 w przedziale .
+Odpowiedź: ................................................................................................................................ .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 29. (0-2) Oblicz najmniejszą i największą wartość funkcji kwadratowej $f(x)=x^2-6x+3$ w przedziale $langle0, 4rangle$.  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wartość najmniejszą i wartość największą funkcji kwadratowej w przedziale domkniętym (4.11).
+Rozwiązanie  Obliczamy pierwszą współrzędną wierzchołka paraboli o równaniu $y=x^2-6x+3$: $x_w=frac{6}{2}=3$. Argument $x_w=3$ należy do przedziału $langle0, 4rangle$, więc najmniejszą wartością funkcji f w przedziale $langle0, 4rangle$ jest $f(3)=-6$. Obliczamy wartości funkcji na końcach przedziału $langle0, 4rangle$: $f(0)=3$ oraz $f(4)=-5$. Największą wartością jaką przyjmuje funkcja f w przedziale $langle0, 4rangle$ jest $f(0)=3$.
+Schemat oceniania Zdający otrzymuje 1 p. gdy obliczy pierwszą współrzędną wierzchołka paraboli $x_w=3$ i stwierdzi, że $x_winlangle0,4rangle$, albo obliczy wartości funkcji na końcach przedziału $langle0, 4rangle$: $f(0)=3$ oraz $f(4)=-5$. Zdający otrzymuje 2 p. gdy zapisze odpowiedź: najmniejsza wartość funkcji w przedziale $langle0, 4rangle$ jest równa $f(3)=-6$, a największa wartość funkcji w tym przedziale jest równa $f(0)=3$.
+Uwagi
+Jeżeli zdający obliczy jedynie trzy wartości funkcji: $f(0)=3$, $f(3)=-6$ i $f(4)=-5$ oraz sformułuje odpowiedź: największa wartość funkcji w przedziale $langle0, 4rangle$ jest równa 3, a najmniejsza wartość funkcji jest równa -6, to otrzymuje 2 punkty.
+Jeżeli zdający obliczy tylko współrzędne wierzchołka paraboli $x_w=3$, $f(3)=-6$, ale nie zapisze, że $x_winlangle0,4rangle$, to otrzymuje 0 punktów.

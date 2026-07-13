@@ -1,0 +1,20 @@
+=== ARKUSZ: 2023p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0-1)
+Na rysunku przedstawiono interpretację geometryczną w kartezjańskim układzie współrzędnych (x, y) jednego z niżej zapisanych układów równań A-D.
+[Zadanie zawiera obrazek ważny dla rozwiązania.]
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Układem równań, którego interpretację geometryczną przedstawiono na rysunku, jest
+A. $begin{cases}y=-x+2\ y=-2x+1end{cases}$
+B. $begin{cases}y=x-2\ y=-2x-1end{cases}$
+C. $begin{cases}y=x-2\ y=2x+1end{cases}$
+D. $begin{cases}y=-x+2\ y=2x-1end{cases}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,82 @@
+
+--- STRONA 1 ---
+Zadanie 9 [4 pkt]- TYP 2.2  
+Wyznacz wszystkie wartości parametru m, dla których dwa różne pierwiastki rzeczywiste \( x_1, x_2 \) równania \( x^2 + 2x + m = 0 \) spełniają nierówność \( x_1^3 + x_2^3 > m^2 - 24 \).
+
+\( x^2 + 2x + m = 0 \)
+
+\( a = 1 \)  
+\( b = 2 \)  
+\( c = m \)
+
+1°  Zapisanie warunków wynikających z treści zadania.
+
+1°  \(\Delta > 0\) <- dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych.
+
+2°  \( x_1^3 + x_2^3 > m^2 - 24 \)
+
+2°  Rozwiązanie pierwszego z warunków  
+
+1°  \(\Delta > 0\)  
+\(\Delta = b^2 - 4ac\)  
+\(4 - 4 \cdot 1 \cdot m > 0\)  
+\(4 - 4m > 0 | +4m \)  
+\(4m < 4 | :4\)  
+\(m < 1\)
+
+\[
+\begin{array}{c}
+\Rightarrow \ m \in (-\infty; 1)
+\end{array}
+\]
+
+3°  Rozwiązanie drugiego z warunków  
+
+\( x_1^3 + x_2^3 > m^2 - 24 \)
+
+Przekształcenie lewej strony nierówności:  
+
+\( x_1^3 + x_2^3 = (x_1 + x_2) (x_1^2 - x_1x_2 + x_2^2) \)
+
+\((x_1 + x_2) \left[ (x_1 + x_2)^2 - 3x_1 x_2 \right] \)
+
+\((a+b)^2 = a^2 + 2ab + b^2 \ \Rightarrow \ a^2 + b^2 = (a+b)^2 - 2ab \)
+
+\((x_1 + x_2)\left[(x_1 + x_2)^2 - 3x_1 x_2\right] \)
+
+\((x_1 + x_2)\left[(x_1 + x_2)^2 - 3x_1 x_2\right] > m^2 - 24\)
+
+Korzystamy ze wzorów Viete'a  
+\( x_1 + x_2 = -\frac{b}{a} \)  
+\( x_1 \cdot x_2 = \frac{c}{a} \)
+
+\((-2)\left[(-2)^2 - 3 \cdot m\right] > m^2 - 24\)  
+\(-2[4 - 3m] > m^2 - 24\)  
+\(-8 + 6m > m^2 - 24 | \ +m^2 + 24 \)  
+\(-m^2 + 6m + 16 > 0\)  
+
+\(\Delta_m = (6)^2 - 4 \cdot (-1) \cdot 16 = 36 + 64 = 100\)  
+\(\sqrt{\Delta_m} = 10\)  
+
+\( m_1 = \frac{-b - \sqrt{\Delta_m}}{2a} \)  
+\( m_2 = \frac{-b + \sqrt{\Delta_m}}{2a} \)
+
+\( m_1 = \frac{-6 - 10}{-2} = 8 \)  
+\( m_2 = \frac{-6 + 10}{-2} = -2 \)
+
+--- STRONA 2 ---
+m_1 = 8
+
+m_2 = -2
+
+m ∈ (-2; 8]
+
+4) Wyznaczenie części wspólnej obu warunków:
+
+1° m ∈ (-∞; 1)
+
+2° m ∈ (-2; 8)
+
+Ostatecznie: m ∈ (-2; 1)
+
+Odp: m ∈ (-2; 1).

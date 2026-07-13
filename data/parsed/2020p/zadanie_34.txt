@@ -1,0 +1,82 @@
+=== ARKUSZ: 2020p | ZADANIE 34 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 34. (0-5)
+Dany jest ostrosłup prawidłowy czworokątny ABCDS, którego krawędź boczna ma długość 6 (zobacz rysunek). Ściana boczna tego ostrosłupa jest nachylona do płaszczyzny podstawy pod kątem, którego tangens jest równy 7 (uwaga: w oryginalnym pliku prawdopodobnie błąd w wartości tangensa lub brakuje pierwiastka, przepisano zgodnie z dokumentem). Oblicz objętość tego ostrosłupa.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 34. (0-5)
+Wymaganie ogólne: IV. Użycie i tworzenie strategii.
+Wymaganie szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąt między odcinkami i płaszczyznami (między krawędziami i ścianami, przekątnymi i ścianami), oblicza miary tych kątów (9.2). 6. Trygonometria. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od $0^{circ}$ do $180^{circ}$ (6.1).
+Zasady oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania:
+Zdający otrzymuje 1 p. gdy:
+zaznaczy na rysunku kąt $alpha$ nachylenia ściany bocznej do płaszczyzny podstawy
+albo
+zapisze równanie wynikające z definicji tangensa kąta $alpha$: $frac{h}{frac{1}{2}a}=sqrt{7}$
+albo
+zapisze równanie wynikające z twierdzenia Pitagorasa w trójkącie SOE: $h^2+(frac{a}{2})^2=h_b^2$
+albo
+zapisze równanie wynikające z twierdzenia Pitagorasa w trójkącie SEC: $h_b^2+(frac{a}{2})^2=6^2$
+albo
+zapisze równanie wynikające z twierdzenia Pitagorasa w trójkącie SOC: $h^2+(frac{asqrt{2}}{2})^2=6^2$
+albo
+zapisze równanie wynikające z definicji sinusa kąta $alpha$: $frac{h}{h_b}=frac{sqrt{14}}{4}$
+albo
+zapisze równanie wynikające z definicji cosinusa kąta $alpha$: $frac{frac{a}{2}}{h_b}=frac{sqrt{2}}{4}$
+i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie, w którym jest istotny postęp:
+Zdający otrzymuje 2 p. gdy zapisze:
+układ dwóch równań z dwiema niewiadomymi, np.: $frac{h}{frac{1}{2}a}=sqrt{7}$ i $h^2+(frac{asqrt{2}}{2})^2=6^2$
+lub
+układ trzech równań z trzema niewiadomymi, np.: $frac{h}{h_b}=frac{sqrt{14}}{4}$ i $h^2+(frac{a}{2})^2=h_b^2$ i $h^2+(frac{asqrt{2}}{2})^2=6^2$
+i na tym zakończy lub dalej popełni błędy.
+Pokonanie zasadniczych trudności zadania:
+Zdający otrzymuje 3 p. gdy zapisze równanie z jedną niewiadomą, np.:
+$(frac{sqrt{7}}{2}a)^2+(frac{asqrt{2}}{2})^2=6^2$
+lub
+$h^2+(frac{frac{2}{sqrt{7}}h cdot sqrt{2}}{2})^2=6^2$
+lub
+$frac{1}{4}h_b^2+(frac{sqrt{14}}{4}h_b)^2=6^2$
+i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie prawie pełne:
+Zdający otrzymuje 4 p. gdy:
+obliczy długość krawędzi podstawy ostrosłupa lub wysokość ostrosłupa: $a=4$, $h=2sqrt{7}$
+albo
+obliczy wysokość $h_b$ ściany bocznej ostrosłupa oraz wyznaczy objętość ostrosłupa w zależności od tej wysokości: $h_b=4sqrt{2}$, $V=frac{1}{3} cdot frac{1}{2}h_b^2 cdot frac{sqrt{14}}{4}h_b$
+i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie pełne:
+Zdający otrzymuje 5 p. gdy:
+obliczy objętość ostrosłupa: $V=frac{32sqrt{7}}{3}$.
+Przykładowe rozwiązanie
+I sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zaznaczmy na rysunku kąt $alpha$ - kąt nachylenia ściany bocznej do płaszczyzny podstawy i wprowadzamy następujące oznaczenia: $a$ - krawędź podstawy ostrosłupa, $h$ - wysokość ostrosłupa.
+Korzystając z definicji tangensa kąta ostrego w trójkącie prostokątnym SOE otrzymujemy związek:
+$frac{h}{frac{1}{2}a}=sqrt{7}$,
+czyli $h=frac{sqrt{7}}{2}a$.
+Z twierdzenia Pitagorasa w trójkącie SOC wynika równanie:
+$h^2+(frac{asqrt{2}}{2})^2=6^2$.
+Wykorzystując wcześniejszą zależność otrzymujemy:
+$(frac{sqrt{7}}{2}a)^2+(frac{asqrt{2}}{2})^2=6^2$.
+Stąd $frac{7}{4}a^2+frac{2}{4}a^2=36$, $frac{9}{4}a^2=36$, stąd $a^2=16$, czyli $a=4$.
+$h=4 cdot frac{sqrt{7}}{2}=2sqrt{7}$.
+Obliczamy objętość ostrosłupa: $V=frac{1}{3} cdot 4^2 cdot 2sqrt{7}=frac{32sqrt{7}}{3}$.
+II sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zaznaczmy na rysunku kąt $alpha$ - kąt nachylenia ściany bocznej do płaszczyzny podstawy i wprowadzamy następujące oznaczenia: $a$ - krawędź podstawy ostrosłupa, $h$ - wysokość ostrosłupa, $h_b$ - wysokość ściany bocznej ostrosłupa.
+Korzystając z definicji tangensa kąta ostrego w trójkącie prostokątnym SOE otrzymujemy:
+$frac{h}{frac{1}{2}a}=sqrt{7}$, czyli $h=frac{sqrt{7}}{2}a$.
+Z twierdzenia Pitagorasa w trójkącie prostokątnym SEC otrzymujemy:
+$h_b^2=6^2-(frac{a}{2})^2$, $h_b^2=frac{144-a^2}{4}$.
+Z twierdzenia Pitagorasa w trójkącie prostokątnym SOE otrzymujemy:
+$h^2+(frac{a}{2})^2=h_b^2$.
+Zatem $h^2+frac{a^2}{4}=frac{144-a^2}{4}$.
+$frac{7}{4}a^2+frac{a^2}{4}=frac{144-a^2}{4}$.
+$a^2=16$.
+Stąd $a=4$, więc $h=2sqrt{7}$.
+Uwaga
+Zależności między wielkościami h, a i hb, możemy też otrzymać, wykorzystując definicje funkcji sinus lub cosinus kąta α. Jeżeli tgα = √7, to sinα = √14 / 4 i cosα = √2 / 4.
+Stąd h / hb = √14 / 4 oraz (1/2 * a) / hb = √2 / 4.

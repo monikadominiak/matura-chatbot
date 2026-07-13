@@ -1,0 +1,98 @@
+
+--- STRONA 1 ---
+Zadanie 29 (7m) Wierzchołek C trójkąta ostrokątnego ABC ma współrzędne (2, 7). Prosta o równaniu 2x + y − 1 = 0 jest symetralną wysokości CD, a prosta o równaniu x + 3y − 8 = 0 zawiera środkową trójkąta poprowadzoną z wierzchołka A. Oblicz współrzędne punktów A, B i D. 
+
+1) Wyznaczamy równanie prostej nośnej wysokości CD:
+Mamy znaleźć p.w. na prostej CD postać C oraz prostą symetralną do CD, więc są one prostopadłe i się
+
+CD: y=ax+2
+
+pCD*lCD=-1
+
+lCD=2
+
+pCD=(-1)/2
+
+CDy=pCD*C
+
+y=-1/2x+6
+
+Na rysie oś prosta wysokość i symetralne
+
+2) Wyznaczamy punkt (środek symetrii S) przecięcia się prostej z symetralną:
+
+S(x, y)
+
+{x=6 - 2a
+
+y=1/2x-1:2|x=*-1/2x+6
+
+(1-2a-1/2(-6)-2+1)==x-3
+
+{x=+-2
+
+y=1/2x+5
+
+S(x, y)
+
+1/2x+5
+
+x=2
+
+S(x, y)
+
+3) Wyznaczamy punkt D:
+
+S(2, 5)
+
+{x=2
+
+y=-1/2y+6
+
+{7=4
+
+x0=-2
+
+y0=5=y-1
+
+=> D(-6, 3)
+
+4) Wyznaczamy prostą AB oraz punkt A:
+
+prosta AB jest prostopadła do CD i w punkcie symetralnych AB jest prostą symetralną CD i przechodzi przez punkt D:
+
+lAB=a*b=-1
+
+p *lAB=(-1)/y)=(7）, (3）
+
+M na AB
+
+(5, 5) ≠ M0
+
+=> √2a+b+4=-1
+
+(a+c+2)-1/2+(-1/2)(ja-b0==0)
+
+{x+C=8
+
+pAB=(-1)/2
+
+M0=symA
+
+5) Wyznaczamy środek odcinka BC, a A, znajedinię punkt D:
+
+Znamy już formułę proste AB na odcinku: x:(9x+2 + x + (-2/x +20 prowadzenie, prosta szczelelko=9p BCMie jest prostołów w sposób 3 obecniestrumie z wierzchołka A. A dolnki możesz nie prawidłowo ściągnąć formułęi sychódołekh trajectel λsoszę otrezać ułożnie dreijaje wspólnej poboru prostego. Supery strzełwą należy toffletować. Moggo man;
+
+T=(x, y)  odczy przycz na 3x2 - max
+
+x: cy栴=cw-4=>{#3c=7-m/(o-8/o)
+
+(x | x cs x+0 ==> -b-c = 5 <=
+
+=>{x+5=1
+
+{y=2(-x2)= x-5=2
+
+⟹A(-5)
+
+Odp. A(5, 3), B(-4, -1), D(-6, 3).

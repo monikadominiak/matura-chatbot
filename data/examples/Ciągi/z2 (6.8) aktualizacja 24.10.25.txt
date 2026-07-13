@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+z5 (6.8)
+
+Drugi wyraz nieskończonego ciągu arytmetycznego (a_n) równy jest 1. Oblicz pierwszy wyraz tego ciągu wiedząc, że lim
+n→∞ (a_1+a_2+a_3+...+a_n) / (1−2n−3n^2) = 1/3
+
+Wskazówka: Suma n wyrazów ciągu arytmetycznego będzie funkcją kwadratową zmiennej n.
+
+Dysponujemy dwoma wzorami na sumę, ale jako że nie mamy żadnej informacji o wyrazie a_n, skorzystamy z wersji wykorzystującej różnicę.
+
+① Korzystamy ze wzoru na sumę.
+
+a_1+a_2+...+a_n = S_n = (2a_1+(n−1)r)/2 * n
+
+Ale a_2−r = 1−r
+
+czyli S_n = (2(1−r)+(n−1)r)/2 * n = (2−3r+n*r)n/2 = n(2−3r+n*r)/2 =
+
+= r/2 * n^2 + (2−3r)/2 * n
+
+② Podstawiamy S_n do granicy i obliczamy r.
+
+lim
+n→∞ (r/2 * n^2 + (2−3r)/2 * n) / (1−2n−3n^2) = 1/3
+
+Najwyższa potęga n w liczniku i w mianowniku musi być taka sama.
+
+Wynikiem takiej granicy jest iloraz współczynników stojących przy najwyższych potęgach n.
+
+r/2 / −3 = 1/3 / 2/3
+
+3 * r/2 = −3
+
+r = −2
+
+--- STRONA 2 ---
+Znając różnicę, można obliczyć pierwszy wyraz ciągu.
+
+3️⃣ Obliczamy \(a_1\).
+
+\(a_1 = a_2 - r = 1 - (-2) = 3\)
+
+Odp.: \(a_1 = 3\)

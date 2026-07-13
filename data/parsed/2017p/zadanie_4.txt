@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Liczba osobników pewnego zagrożonego wyginięciem gatunku zwierząt wzrosła w stosunku do liczby tych zwierząt z 31 grudnia 2011 r. o 120% i obecnie jest równa 8910. Ile zwierząt liczyła populacja tego gatunku w ostatnim dniu 2011 roku?
+A. 4050
+B. 1782
+C. 7425
+D. 7128
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 4. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

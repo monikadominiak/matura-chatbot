@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zadanie 31
+
+Oblicz granicę lim_{n \to \infty} \frac{n \sin(n+3)}{(3n-1)^2}.
+
+1️⃣ Korzystamy z twierdzenia o trzech ciągach.
+
+-1 \leq \sin(n+3) \leq 1
+
+c_n = \frac{n}{(3n-1)^2} > 0 \quad a_n = \frac{-n}{(3n-1)^2} < 0 \quad b_n = \frac{n \sin(n+3)}{(3n-1)^2}
+
+\frac{-n}{(3n-1)^2} \leq \frac{n \sin(n+3)}{(3n-1)^2} \leq \frac{n}{(3n-1)^2}
+
+Zatem \lim_{n \to \infty} b_n = 0
+
+Odp.: \lim_{n \to \infty} \frac{n \sin(n+3)}{(3n-1)^2} = 0.

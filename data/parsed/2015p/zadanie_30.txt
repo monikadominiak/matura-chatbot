@@ -1,0 +1,19 @@
+=== ARKUSZ: 2015p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0-2)
+W układzie współrzędnych są dane punkty A = (-43, -12), B = (50, 19). Prosta AB przecina oś Ox w punkcie P. Oblicz pierwszą współrzędną punktu P.
+Odpowiedź: ................................................................................................................................ .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 30. (0-2)  W układzie współrzędnych są dane punkty $A=(-43,-12)$, $B=(50,19)$. Prosta AB przecina oś Ox w punkcie P. Oblicz pierwszą współrzędną punktu P.  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty. (8.1).
+I sposób rozwiązania Wyznaczamy równanie prostej AB $y=frac{1}{3}x+frac{7}{3}$ lub $x-3y+7=0$. Pierwsza współrzędna punktu P jest miejscem zerowym funkcji liniowej określonej wzorem $y=frac{1}{3}x+frac{7}{3}$. Rozwiązujemy zatem równanie $frac{1}{3}x+frac{7}{3}=0$. Stąd $x=-7$.
+Schemat oceniania I sposobu rozwiązania Zdający otrzymuje 1 p. gdy wyznaczy równanie prostej AB, np. w postaci $y=frac{1}{3}x+frac{7}{3}$ i na tym poprzestanie lub dalej popełnia błędy. Zdający otrzymuje 2 p. gdy obliczy pierwszą współrzędną punktu P: $x=-7$.
+Uwagi
+Jeżeli zdający przy wyznaczaniu równania prostej AB, popełni błąd rzeczowy, to otrzymuje 0 punktów.
+Jeżeli zdający wyznaczy równanie prostej AB, popełniając błędy rachunkowe (np. zapisze $(19-12)(x-50)-(50-43)(y-19)=0$) i konsekwentnie obliczy pierwszą współrzędną punktu P, to otrzymuje 1 punkt.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+II sposób rozwiązania Niech $P=(p,0)$ będzie punktem przecięcia prostej AB z osią Ox układu współrzędnych, a punkty C i D będą rzutami prostokątnymi punktów odpowiednio A i B na tę oś.  Wtedy $C=(-43,0)$ i $D=(50,0)$. Trójkąty PAC i PBD są podobne (oba są prostokątne, a ich kąty ostre przy wierzchołku P są równe). Zatem $frac{|PD|}{|BD|}=frac{|PC|}{|AC|}$, czyli $frac{50-p}{19}=frac{p-(-43)}{12}$. Stąd $12(50-p)=19(p+43)$, $600-12p=19p+817$, $-31p=217$, $p=-7$.
+Schemat oceniania II sposobu rozwiązania Zdający otrzymuje 1 p. gdy zapisze równanie, w którym niewiadomą jest pierwsza współrzędna punktu P, np.: $frac{50-p}{19}=frac{p-(-43)}{12}$ i na tym poprzestanie lub dalej popełnia błędy. Zdający otrzymuje 2 p. gdy obliczy pierwszą współrzędną punktu P: $p=-7$.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki  Jeżeli zdający obliczy pierwszą współrzędną punktu P, zapisując np. $x=-7$ ale popełni błąd formułując odpowiedź, np. $P=(7,0)$, $P=(0,-7)$, to otrzymuje 2 punkty.

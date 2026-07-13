@@ -1,0 +1,23 @@
+=== ARKUSZ: 2025p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) punkt P = (0, 0) leży na okręgu O
+o środku w punkcie S = (2, 4).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Okrąg O jest określony równaniem
+
+A. (x − 2)^2 + (y − 4)^2 = 2√5
+B. (x − 2)^2 + (y − 4)^2 = 20
+C. (x + 2)^2 + (y + 4)^2 = 2√5
+D. (x + 2)^2 + (y + 4)^2 = 20
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

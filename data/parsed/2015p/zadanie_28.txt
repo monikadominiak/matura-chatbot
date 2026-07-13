@@ -1,0 +1,30 @@
+=== ARKUSZ: 2015p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0-2)
+Dany jest kwadrat ABCD. Przekątne AC i BD przecinają się w punkcie E. Punkty K i M są środkami odcinków - odpowiednio - AE i EC. Punkty L i N leżą na przekątnej BD tak, że |BL| = (1/3)|BE| i |DN| = (1/3)|DE| (zobacz rysunek). Wykaż, że stosunek pola czworokąta KLMN do pola kwadratu ABCD jest równy 1 : 3.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 28. (0-2)  Dany jest kwadrat ABCD. Przekątne AC i BD przecinają się w punkcie E. Punkty K i M są środkami odcinków odpowiednio AE i EC.  Punkty L i N leżą na przekątnej BD tak, że $|BL|=frac{1}{3}|BE|$ i $|DN|=frac{1}{3}|DE|$ (zobacz rysunek). Wykaż, że stosunek pola czworokąta KLMN do pola kwadratu ABCD jest równy 1:3.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: G10. Figury płaskie. Zdający oblicza pola i obwody trójkątów i czworokątów. (G10.9).
+I sposób rozwiązania
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przekątne w kwadracie ABCD są równe, więc $|AC|=|BD|=d=asqrt{2}$.  Pole kwadratu ABCD jest równe $P_{ABCD}=a^2$. Czworokąt KLMN składa się z czterech trójkątów prostokątnych przystających do trójkąta KEN. Pole każdego z nich jest równe $P=frac{1}{2}cdot(frac{1}{4}d)cdot(frac{2}{6}d)=frac{1}{24}d^2=frac{1}{24}(asqrt{2})^2=frac{1}{24}cdot2a^2=frac{1}{12}a^2$. Zatem pole czworokąta KLMN jest równe $P_{KLMN}=4cdotfrac{1}{12}a^2=frac{1}{3}a^2$. Stąd $frac{P_{KLMN}}{P_{ABCD}}=frac{frac{1}{3}a^2}{a^2}=frac{1}{3}$.
+II sposób rozwiązania
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przekątne w kwadracie ABCD są równe, więc $|AC|=|BD|=d=asqrt{2}$.  Pole kwadratu ABCD jest równe $P_{ABCD}=a^2$. Czworokąt KLMN składa się z dwóch trójkątów przystających do trójkąta KLN. Pole każdego z nich jest równe $P=frac{1}{2}cdot(frac{4}{6}d)cdot(frac{1}{4}d)=frac{1}{12}d^2=frac{1}{12}(asqrt{2})^2=frac{1}{12}cdot2a^2=frac{1}{6}a^2$. Zatem pole czworokąta KLMN jest równe $P_{KLMN}=2cdotfrac{1}{6}a^2=frac{1}{3}a^2$. Stąd $frac{P_{KLMN}}{P_{ABCD}}=frac{frac{1}{3}a^2}{a^2}=frac{1}{3}$.
+III sposób rozwiązania
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przekątne w kwadracie ABCD są równe, więc $|AC|=|BD|=d=asqrt{2}$.  Pole kwadratu ABCD jest równe $P_{ABCD}=a^2$. Czworokąt KLMN składa się z dwóch trójkątów przystających do trójkąta KMN. Pole każdego z nich jest równe $P=frac{1}{2}cdot(frac{1}{2}d)cdot(frac{2}{6}d)=frac{1}{12}d^2=frac{1}{12}(asqrt{2})^2=frac{1}{12}cdot2a^2=frac{1}{6}a^2$. Zatem pole czworokąta KLMN jest równe $P_{KLMN}=2cdotfrac{1}{6}a^2=frac{1}{3}a^2$. Stąd $frac{P_{KLMN}}{P_{ABCD}}=frac{frac{1}{3}a^2}{a^2}=frac{1}{3}$.
+IV sposób rozwiązania
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Ponieważ przekątne w kwadracie są równe, więc $|AE|=|ED|$. Niech $|AE|=|ED|=6x$. Wtedy $|AK|=|KE|=|EM|=|MC|=3x$, $|DN|=|LB|=2x$ oraz $|NE|=|EL|=4x$. Stąd $|KM|=|KE|+|EM|=6x$ oraz $|NL|=|NE|+|EL|=8x$. Pole kwadratu ABCD jest równe $P_{ABCD}=frac{1}{2}|AC|cdot|BD|=frac{1}{2}cdot12xcdot12x=72x^2$. Pole czworokąta KLMN jest równe $P_{KLMN}=frac{1}{2}|KM|cdot|NL|=frac{1}{2}cdot6xcdot8x=24x^2$. Stąd $frac{P_{KLMN}}{P_{ABCD}}=frac{24x^2}{72x^2}=frac{1}{3}$.
+Schemat oceniania Zdający otrzymuje 1 p. gdy wyznaczy pole jednego z trójkątów: KLE, LME, MNE, NKE ($P=frac{1}{12}a^2$) albo gdy wyznaczy pole jednego z trójkątów: NLM, LNK ($P=frac{1}{6}a^2$) albo gdy wyznaczy pole jednego z trójkątów: KMN, KLM ($P=frac{1}{6}a^2$) albo gdy wyznaczy pole czworokąta KLMN w zależności od jego przekątnych, np. $P_{KLMN}=frac{1}{2}|KM|cdot|LN|=frac{1}{2}cdot6xcdot8x=24x^2$ i na tym poprzestanie lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy wykaże, że $frac{P_{KLMN}}{P_{ABCD}}=frac{1}{3}$.
+Uwagi
+Jeżeli zdający przy wyznaczaniu pola kwadratu i pola czworokąta KLMN przyjmuje konkretne wartości liczbowe bez stosownego komentarza i rozwiązuje zadanie do końca, to otrzymuje 1 punkt.
+Jeżeli zdający przy wyznaczaniu pól trójkątów lub pól czworokątów o prostopadłych przekątnych pomija współczynnik $frac{1}{2}$, otrzymując poprawny stosunek pola czworokąta KLMN do pola kwadratu ABCD, to otrzymuje 1 punkt.
+Jeżeli zdający w swoim rozumowaniu wykorzystuje tezę, to za całe rozwiązanie otrzymuje 0 punktów.

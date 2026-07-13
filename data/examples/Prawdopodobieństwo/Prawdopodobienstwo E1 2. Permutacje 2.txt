@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Na ile sposobów można ustawić 3 dziewczyny i 6 chłopców w kolejce, jeśli dziewczęta stoją na końcu kolejki?
+
+1️⃣ zapisujemy liczbę elementów poszczególnych zbiorów  
+
+\( \begin{cases} 
+3 \text{ dziewczyny} \\
+6 \text{ chłopców}
+\end{cases} \Rightarrow
+\text{kolejka 9 osób} \)
+
+2️⃣ zapisujemy schematycznie kolejkę,  
+będziemy korzystać z reguły mnożenia  
+
+\_  \_  \_  \_  \_  \_  \_  \_  \_  
+.  .  .  .  .  .  .  .  .  
+chłopcy  dziewczyny
+
+3️⃣ zapisujemy kolejno ile jest możliwości na dane miejsce  
+
+\(\frac{6 \quad \cdot \quad 5 \quad \cdot \quad 4 \quad \cdot \quad 3 \quad \cdot \quad 2 \quad \cdot \quad 1}{chłopcy} \)
+
+\(\frac{\quad \cdot \quad 3 \quad \cdot \quad 2 \quad \cdot \quad 1}{dziewczyny} = 4320\)
+
+(zgodnie ze wzorem na permutacje)  
+lub \( 6! \cdot 3! \)
+
+(żadna osoba nie zajmuje więcej niż 1 miejsca ⇒ 'nie powtarzają się')  
+
+Odp: 4320

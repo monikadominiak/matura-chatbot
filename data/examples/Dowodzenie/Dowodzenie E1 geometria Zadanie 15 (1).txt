@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Punkty \( D \) i \( E \) leżą odpowiednio wewnątrz boków \( BC \) i \( AC \) trójkąta \( ABC \). Punkt \( F \) jest punktem przecięcia dwusiecznych kątów \( CAD \) i \( CBE \). Udowodnij, że \(|\angle AEB| + |\angle ADB| = 2 \cdot |\angle AFB| \)
+
+1️⃣ tworzymy rysunek poglądowy   
+
+teza: \(|\angle AEB| + |\angle ADB| = 2 \cdot |\angle AFB| \)
+
+1. oznaczamy kąty przy dwusiecznych
+
+2. zapisujemy kąty z tezy przy użyciu wprowadzonych oznaczeń
+\[
+|\angle AEB| = 180^\circ - 2\alpha - a - b
+\]
+\[
+|\angle ADB| = 180^\circ - a - b - 2\beta
+\]
+
+\[
+\Rightarrow |\angle AEB| + |\angle ADB| = 360^\circ - 2\alpha - 2b - 2\alpha - 2\beta
+\]
+
+2️⃣ zapisujemy sumę zgodnie z tezą:
+\[
+\begin{cases}
+|\angle AEB| = 180^\circ - 2\alpha - a - b \\
+|\angle ADB| = 180^\circ - a - b - 2\beta
+\end{cases}
+\]
+
+3️⃣ wyłączamy 2 przed nawias sumy:
+\[
+2(180^\circ - a - b - \alpha - \beta) = 2 \cdot |\angle AFB|
+\]
+zatem: \(|\angle AEB| + |\angle ADB| = 2 \cdot |\angle AFB|\)
+
+c. k. d.

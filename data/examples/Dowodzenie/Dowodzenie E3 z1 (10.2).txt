@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Dany jest sześcian o krawędzi długości a. Przekrój płaszczyzną przechodzącą przez przekątną podstawy i odcinek łączący środki dwóch sąsiednich boków przeciwległej podstawy jest trapezem równoramiennym. Wykaż, że pole tego trapezu jest równe \(\frac{9}{8}a^2\).
+
+1️⃣ tworzymy rysunek poglądowy
+
+𝑡𝑒𝑧𝑎: \(P_{\Delta}=\frac{9}{8}a^2 = \frac{|KL|+|BO|}{2} \cdot |MN|\)
+
+2️⃣ policzymy najpierw dwie podstawy
+
+\(|OB|=a\sqrt{2} \quad \rightarrow \text{przekątna kwadratu}\)
+
+\[|KL|^2=\frac{a^2}{4}+\frac{a^2}{4}=\frac{a^2}{2} \Rightarrow |KL|=\frac{a\sqrt{2}}{2}\]
+
+3️⃣ długość |MN| policzymy z podobieństwa
+
+\(\Delta ANS \sim \Delta EMS \quad kkk\)
+
+\(k=2\)
+
+więc \(|SE|=a , |SA|=2a\)
+
+\[|SN|^2=(2a)^2+\left(\frac{a\sqrt{2}}{2}\right)^2=\frac{9}{2}a^2 \Rightarrow |SN|=\frac{3\sqrt{2}a}{2}\]
+
+\[|MN|=\frac{1}{2}|SN|=\frac{3\sqrt{2}a}{4}\]
+
+4️⃣ wyznaczamy pole \(\Delta\)
+
+\[P=\frac{\left(a\sqrt{2}+\frac{a\sqrt{2}}{2}\right)\cdot\frac{3\sqrt{2}a}{4}}{2}=\frac{3}{4}a\sqrt{2}\cdot\frac{3}{4}a\sqrt{2}=\frac{9}{16}a^2\cdot2=\frac{9}{8}a^2\]
+
+c. k. d.

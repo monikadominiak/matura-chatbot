@@ -1,0 +1,134 @@
+
+--- STRONA 1 ---
+**Zadanie z3 (9.3)** Wyznacz równania prostych zawierających dwusieczne kątów utworzonych przez proste 3x + 4y - 2 = 0 i 4x - 3y + 5 = 0.
+
+Rysunek poglądowy:
+- Kolorowe oznaczenia rysunku z prostymi i zaznaczeniem kątów.
+- Zauważamy, że dwusieczna to zbiór punktów jednakowo odległych od obu prostych. Możemy zatem skorzystać ze wzoru na odległość punktu od prostej.
+
+1) Wyznaczamy równania prostych zawierających dwusieczne kątów utworzonych przez dane proste:
+
+I sposób: Odległość punktu od prostej:
+
+\[
+\frac{|3x+4y-2|}{\sqrt{3^2+4^2}} = \frac{|4x-3y+5|}{\sqrt{4^2+(-3)^2}}
+\]
+
+\[
+|3x+4y-2| = |4x-3y+5|
+\]
+
+\[
+3x+4y-2 = 4x-3y+5 \quad \vee \quad 3x+4y-2 = -(4x-3y+5)
+\]
+
+\[
+-x+7y-7=0 \quad \vee \quad 7x+y-3=0
+\]
+
+II sposób: wzór na tangens kąta między prostymi:
+
+\[
+\tan \alpha = \frac{|a_1b_2-a_2b_1|}{a_1a_2+b_1b_2}
+\]
+
+UWAGA: Tego wzoru nie ma w kartach wzorów na Tomek 2023.
+
+3x+4y-2=0 => y=-\frac{3}{4}x+\frac{1}{2}
+
+4x-3y+5=0 => y=\frac{4}{3}x+\frac{5}{3}
+
+m₁ * m₂ = -1
+
+\[
+\begin{cases}
+y = -\frac{3}{4}x+\frac{1}{2} \\
+y = bx+a
+\end{cases}
+\quad \vee \quad
+\begin{cases}
+y = \frac{4}{3}x+\frac{5}{3} \\
+y = bx+a
+\end{cases}
+\]
+
+a₁z² + b₁z + c₁ = 0 \quad \quad \quad \frac{3}{4} = \frac{a-c}{b}
+
+\[
+0.7 = \frac{a-c}{b-a} 
+\]
+
+a₁ = 1 \quad b₁ = \frac{3}{4}-a
+
+a₁ = -a
+
+b₁ = 1
+
+\[
+\left(\begin{array}{c|c}
+a & 1 \\
+b & \frac{3}{4}-a
+\end{array}\right) = 0 \quad \mid
+\]
+
+\[
+\begin{array}{c}
+1.7 = 2 \\
+\frac{a+b}{a-c} = 0
+\end{array}
+\]
+
+\[
+\begin{cases}
+\frac{-b}{1} = \frac{3}{4}-a 
+\end{cases}
+\]
+
+\[
+\begin{cases}
+x = \frac{3z-z^{2}-2(a-b)z}{2(x^{2} + 4x + 3)}=0 
+\end{cases}
+\]
+
+(liczba podwójna do parzystej; przyjęta nie może być ujemna).
+
+Potrzebujemy jeszcze punktu na prostej m... do wyznaczenia wzoru: wolnego tym punktem jest przecięcie prostych danym w zadaniu (patrz rysunek).
+
+\[
+\begin{cases}
+3x+4y-2=0 \\
+4x-3y+5=0
+\end{cases}
+\quad \to \quad \begin{cases}
+3x+4y=2 \\
+x=\frac{7y}{3}+\frac{1}{6}
+\end{cases}
+\]
+
+\[
+\left( \frac{-23}{33}, \frac{22}{33} \right) \approx \left( \frac{-3}{4}, \frac{1}{6} \right)
+\]
+
+\[
+m₁: y = 7x+1, \quad \Leftrightarrow \quad b = \left( \frac{2}{3} + \frac{7}{11} \right)
+\]
+
+\[
+m₂: 7x+y=3
+\]
+
+\[
+-m₁: \quad 7x+y=0
+\]
+
+\[
+\left( \frac{43}{33}, \frac{21}{33} \right) \to \left( \frac{21}{33}x+\frac{11}{33}a \right)
+\]
+
+m₁, y = \frac{7}{4}x+1
+
+\[
+m₁: -7x+y=0
+\]
+
+Odp. -x+7y-7=0 oraz 7x+y=0.

@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+z1 (5.3)
+
+Rozwiąż równanie 2 \sin x + \sqrt{3} \tg x = 0.
+
+Tangens ma ograniczoną dziedzinę, w takim razie równanie także ma ograniczoną dziedzinę.
+
+1️⃣ Wyznaczamy dziedzinę równania.
+
+D: x \neq \frac{\pi}{2} + k\pi, \ k \in \mathbb{Z}
+
+Jeśli tangens w równaniu występuje w połączeniu funkcji sinus lub cosinus, zwykle należy użyć wzoru: \ \tg x = \frac{\sin x}{\cos x} .
+
+Zwykle należy też pozbyć się powstałego mianownika.
+
+2️⃣ Przekształcamy równanie
+
+2 \sin x + \sqrt{3} \tg x = 0
+
+2 \sin x + \sqrt{3} \cdot \frac{\sin x}{\cos x} = 0 \ / \cdot \cos x
+
+2 \sin x \cos x + \sqrt{3} \sin x = 0
+
+\sin x (2 \cos x + \sqrt{3}) = 0
+
+\sin x = 0 \ \lor \ 2 \cos x = -\sqrt{3}
+
+\cos x = -\frac{\sqrt{3}}{2}
+
+Rozwiązania obu powstałych równań trygonometrycznych można odczytać z wykresów funkcji trygonometrycznych.
+
+y = \sin x
+
+y = \cos x
+
+\sin x = 0
+
+x = k\pi
+
+\cos x = -\frac{\sqrt{3}}{2}
+
+x = \frac{5\pi}{6} + 2k\pi \ \lor \ x = \frac{7\pi}{6} + 2k\pi, \ k \in \mathbb{Z}
+
+Można też zapisać jako x = -\frac{5\pi}{6} + 2k\pi
+
+Odp.: \ x = k\pi, \ x = \frac{5\pi}{6} + 2k\pi, \ x = \frac{7\pi}{6} + 2k\pi, \ k \in \mathbb{Z}.

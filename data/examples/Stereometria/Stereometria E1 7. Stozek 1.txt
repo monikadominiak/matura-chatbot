@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Powierzchnią boczną stożka po rozwinięciu jest wycinek koła o kącie α i promieniu 12 cm. Oblicz pole podstawy tego stożka, jeśli α = 270°.
+
+1️⃣ sporządzamy rysunki pomocnicze
+\[ AB \] = L = obwód podstawy stożka
+
+\[ \alpha = 270^{\circ} \]  
+12 = d
+
+2️⃣ liczymy wartość L  
+korzystamy ze wzoru na długość łuku: L = \[ \frac{\alpha}{360^{\circ}} \cdot 2 \pi r \]
+
+L = \[ \frac{270^{\circ}}{360^{\circ}} \cdot 2\pi \cdot 12 = 24\pi \cdot \frac{3}{4} = 18\pi \]
+
+3️⃣ obliczamy wartość x  
+18π = l (obwód podstawy)
+
+więc 2πx = 2πx (ze wzoru na obwód okręgu)
+
+x = 9
+
+4️⃣ obliczamy pole podstawy  
+\[ p_p = \pi x^2 = 9^2\pi = 81\pi \ \text{[cm²]} \]
+
+Odp: \[ p_p = 81\pi \ \text{cm²} \]

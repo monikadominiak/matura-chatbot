@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0-1)
+Punkt K = (2, 2) jest wierzchołkiem trójkąta równoramiennego KLM, w którym |KM| = |LM|. Odcinek MN jest wysokością trójkąta i N = (4, 3). Zatem A. L = (5, 3) B. L = (6, 4) C. L = (3, 5) D. L = (4, 6)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 18. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza współrzędne środka odcinka (8.5).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: A

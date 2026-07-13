@@ -1,0 +1,15 @@
+=== ARKUSZ: 2017p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0-1)
+W trójkącie ABC punkt D leży na boku BC, a punkt E leży na boku AB. Odcinek DE jest równoległy do boku AC, a ponadto $|BD|=10$, $|BC|=12 i |AC|=24$ (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Długość odcinka DE jest równa
+A. 22
+B. 20
+C. 12
+D. 11
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 16. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów (7.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: A

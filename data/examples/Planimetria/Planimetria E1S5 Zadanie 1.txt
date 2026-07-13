@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Zad.1 Oblicz promień okręgu opisanego na prostokącie o bokach o długości 3 i 4.
+
+1) Tworzymy rysunek poglądowy:
+
+(Promień okręgu opisanego na prostokącie stanowi połowę przekątnej prostokąta.)
+
+2) Wyznaczamy przekątną prostokąta za pomocą tw. Pitagorasa:
+
+3^2 + 4^2 = |AC|^2 => |AC| = 5
+
+R = \frac{1}{2} |AC| = \frac{5}{2}
+
+Odp. R = \frac{5}{2}.

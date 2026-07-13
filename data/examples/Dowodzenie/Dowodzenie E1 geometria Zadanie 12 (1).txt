@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Wykaż, że jeśli \(\frac{|AE|}{|AB|} = \frac{|CD|}{|CB|}\), to stosunek obwodów trójkątów \(ABE\) i \(CBD\) jest równy \(\frac{|BE|}{|BD|}\).
+
+Dane:
+
+\(\frac{|AE|}{|AB|} = \frac{|CD|}{|CB|}\)
+
+Teza:
+
+\(\frac{\text{Obw}_{\triangle ABE}}{\text{Obw}_{\triangle CBD}} = \frac{|BE|}{|BD|}\)
+
+Zaznaczamy dwa kąty przyległe do \(\gamma\).
+
+① Ze stosunku danego w poleceniu wynika, że:
+\(\triangle AEB \sim \triangle CBD \quad z \; cechy \; bkb \quad \text{(jako cecha podobieństwa dotyczy stosunków boków)}\)
+
+② Z powyższego podobieństwa wynika:
+\[
+\frac{|BE|}{|BD|} = \frac{|AE|}{|CD|} = \frac{|AB|}{|CB|} = k \; (\text{skala podobieństwa})
+\]
+
+③ Obwody również są w tej samej skali \(k\), więc:
+\[
+\frac{\text{Obw}_{\triangle ABE}}{\text{Obw}_{\triangle CBD}} = k = \frac{|BE|}{|BD|}, \; więc \quad \frac{\text{Obw}_{\triangle ABE}}{\text{Obw}_{\triangle CBD}} = \frac{|BE|}{|BD|} \quad c.k.d.
+\]

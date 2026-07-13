@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Oblicz granicę \(\lim_{x \to -\infty} \frac{\sqrt{2-4x} - \sqrt{1-x}}{\sqrt{-x}}\)
+
+\(1\) Wytężamy \(x\) we wspólnej potędze \(\sqrt{-x} = x^{\frac{1}{2}}\)
+
+\[
+\lim_{x \to -\infty} \left( \frac{\sqrt{2-4x} - \sqrt{1-x}}{\sqrt{-x}} \right) = \lim_{x \to -\infty} \left( \frac{\sqrt{-x \left(-\frac{2}{x} + 4\right)} - \sqrt{-x \left(-\frac{1}{x} + 1\right)}}{\sqrt{-x}} \right) =
+\]
+
+\[
+= \lim_{x \to -\infty} \left( \frac{\sqrt{-x} \left(\sqrt{-\frac{2}{x} + 4}\right) - \sqrt{-x} \left(\sqrt{-\frac{1}{x} + 1}\right)}{\sqrt{-x}} \right) = \sqrt{4} - \sqrt{1} = 2 - 1 = 1
+\]
+
+Odp. 1

@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Dane są liczby a = 3,6 * 10^(-12) oraz b = 2,4 * 10^(-20). Wtedy iloraz a/b jest równy A. 8,64 * 10^(-32) B. 1,5 * 10^(-8) C. 1,5 * 10^8 D. 8,64 * 10^32
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 3. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D

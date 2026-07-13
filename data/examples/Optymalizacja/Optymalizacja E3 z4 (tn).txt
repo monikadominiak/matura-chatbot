@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Funkcja f określona jest wzorem \( f(x) = \frac{x^2 + px}{x^2 - 4} \). Dla jakich wartości parametru \( p \) styczne do wykresu funkcji \( f \), poprowadzone w punktach przecięcia wykresu z osią OX, są równoległe?
+
+\[ f(x) = \frac{x^2 + px}{x^2 - 4} \ , \mathbb{R} \setminus \{-2,2\} \]
+
+1️⃣ Funkcja \( f \) musi mieć dwa miejsca zerowe
+
+\[ x^2 + px = 0 \]
+\[ x(x + p) = 0 \]
+\[ x = 0 \ \lor \ x = -p \ \Rightarrow \ \text{więc} \ p \in \mathbb{R} \setminus \{0\} \]
+
+2️⃣ Wyznaczamy pochodną funkcji \( f \)
+
+\[ f'(x) = \frac{(2x + p)(x^2 - 4) - 2x(x^2 + px)}{(x^2 - 4)^2} \]
+\[ = \frac{2x^3 - 8x + px^2 - 4p - 2x^3 - 2px^2}{(x^2 - 4)^2} = \]
+\[ = \frac{-px^2 - 8x - 4p}{(x^2 - 4)^2} \]
+
+3️⃣ Aby styczne były równoległe to \( f'(0) = f'(-p) \)
+\[ f'(0) = \frac{-4p}{(-4)^2} = -\frac{p}{4} \]
+\[ f'(-p) = \frac{-p(-p)^2 - 8(-p) - 4p}{((-p)^2 - 4)^2} = \frac{-p^3 + 4p}{(p^2 - 4)^2} \]
+
+4️⃣ Przyporównujemy wyliczone wartości
+\[ -\frac{p}{4} = \frac{-p^3 + 4p}{(p^2 - 4)^2} \]
+\[ p = 2 \ \land \ p = -2 \]
+
+\[ -p(p^2 - 4)^2 = 4(-p^3 + 4p) \]
+\[ -p(p^4 - 8p^2 + 16) = -4p^3 + 16p \]
+\[ -p^5 + 12p^3 - 32p = 0 \]
+\[ -p(p^4 - 12p^2 + 32) = 0 \]
+
+\[ p = 0 \ \text{sprzeczne} \]
+\[ p^4 - 12p^2 + 32 = 0 \]
+\[ \text{niech} \ t = p^2 , \ t \geq 0 \]
+
+\[ t^2 - 12t + 32 = 0 \]
+\[ \Delta = 16 \quad \sqrt{\Delta} = 4 \]
+\[ t_1 = \frac{12 - 4}{2} = 4 , \ t_2 = \frac{12 + 4}{2} = 8 \]
+
+\[ p^2 = 4 \ \text{sprzeczne} \]
+\[ p^2 = 8 \]
+\[ p = 2\sqrt{2} \ \lor \ p = -2\sqrt{2} \]
+
+Odp: \( p = 2\sqrt{2} \) lub \( p = -2\sqrt{2} \)

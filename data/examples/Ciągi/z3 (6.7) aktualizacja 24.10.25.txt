@@ -1,0 +1,90 @@
+
+--- STRONA 1 ---
+z3 (6.7)  
+
+Dwa początkowe wyrazy ciągu arytmetycznego \( (a_n) \) są miejscami zerowymi funkcji  
+\( g(x) = x^2 + 2x - m^2 \). Suma jedenastu początkowych wyrazów tego ciągu jest równa 88.  
+Wyznacz najmniejszą wartość funkcji \( g \).  
+
+Wskazówka: zamiast korzystać z niewygodnych (ze względu na pierwiastek z delty wzorów na \( x_1 \) i \( x_2\) ) lepiej użyć wzorów Viète’a.
+
+⓵ Korzystamy ze wzorów Viète’a.
+
+\[
+\begin{cases} 
+x_1 + x_2 = -2 \\ 
+x_1 \cdot x_2 = -m^2 
+\end{cases}
+\]
+
+\( x_1 \) i \( x_2 \) to wyrazy ciągu arytmetycznego, więc :
+
+\( x_2 = x_1 + r \)
+
+\[
+\begin{cases} 
+x_1 + (x_1 + r) = -2 \\ 
+x_1 (x_1 + r) = -m^2 
+\end{cases}
+\]
+
+⓶ Korzystamy z informacji o sumie.
+
+\( S_{11} = 88 \quad => \quad \frac{2x_1 + (11-1)r}{2} \cdot 11 = 88 \quad /\cdot \frac{2}{11} \)
+
+\( 2x_1 + 10r = 16 \quad /\cdot 2 \)
+
+\( x_1 + 5r = 8 \)
+
+Zauważmy, że uzyskaliśmy 3 równania z 3 niewiadomymi, można więc stworzyć z tego układ równań i rozwiązać.
+
+⓷ Rozwiązujemy układ równań.
+
+\[
+\begin{cases} 
+x_1 + (x_1 + r) = -2 \quad \text{(1)} \\ 
+x_1 (x_1 + r) = -m^2 \quad \text{(2)} \\ 
+x_1 + 5r = 8 \quad \text{(3)} 
+\end{cases}
+\]
+
+--- STRONA 2 ---
+Układy składające się z więcej niż dwóch równań z reguły najwygodniej rozwiązuje się metodą podstawiania.
+
+Z(3) : x_1 = 8 - 5r
+
+Do (1) : 2(8 - 5r) + r = -2
+
+16 - 8r + r = -2
+
+r = 2
+
+x_1 = 8 - 5r = 8 - 10 = -2
+
+Do (2) : (-2)⋅(-2+2) = -m^2
+
+0 = -m^2
+
+m = 0
+
+Czyli rozwiązaniem układu są następujące liczby:
+
+|r = 2
+|x_1 = -2
+|m = 0
+
+(4) Wyznaczamy najmniejszą wartość funkcji g(x).
+
+g(x) = x^2 + 2x - m^2
+
+g(x) = x^2 + 2x
+
+Znając wszystkie współczynniki we wzorze g(x) można wyznaczyć jej najmniejszą wartość. Będzie to druga współrzędna wierzchołka paraboli, czyli q.
+
+q = -Δ/4a = g(p)
+
+p = -b/2a = -2/2 = -1
+
+q = g(-1) = (-1)^2 + 2⋅(-1) = 1 - 2 = -1
+
+Odp.: Najmniejszą wartością funkcji g(x) jest -1.

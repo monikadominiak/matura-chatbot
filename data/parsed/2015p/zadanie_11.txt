@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Funkcja kwadratowa określona jest wzorem f(x) = x^2 + x + c. Jeżeli f(3) = 4, to
+A. f(1) = -6
+B. f(1) = 0
+C. f(1) = 6
+D. f(1) = 18
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 11. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji kwadratowej na podstawie pewnych informacji o tej funkcji lub o jej wykresie (4.9).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D

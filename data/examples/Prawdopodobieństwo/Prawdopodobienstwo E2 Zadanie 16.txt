@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Ile jest liczb dwudziestocyfrowych, w których suma cyfr jest równa 4?
+
+1️⃣ analizujemy polecenie
+
+liczby 20-cyfrowe, suma cyfr = 4 , 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+2️⃣ rozważamy poszczególne przypadki
+
+🔵 I 🔴
+
+1 liczba z cyfrą 4
+
+4 i 19 x „0”
+
+1
+
+🔵 II 🔴
+
+2, 2 i 18 x „0”
+
+1. (19 po 1) . 1 = 19
+
+pierwsza pozycja
+
+🔵 III 🔴
+
+3, 1 i 18 x „0”
+
+2. (19 po 1). 1 = 38
+
+pierwsza pozycja „3” lub „1”
+
+🔵 IV 🔴
+
+1, 1, 1, 1 i 16 x „0”
+
+1. (19 po 3). 1 = 969
+
+pierwsza pozycja
+
+🔵 V 🔴
+
+2, 1, 1 i 17 x „0”
+
+• „2” pierwsza
+
+1. (19 po 2). 1 = 171
+
+pierwsza pozycja
+
+• „1” pierwsza
+
+1. (19 po 1). (18 po 1). 1 = 342
+
+pierwsza pozycja
+
+Odp: 1 + 19 + 38 + 969 + 171 + 342 = 1540

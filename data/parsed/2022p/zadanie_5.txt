@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Liczba $3^{2+frac{1}{4}}$ jest równa
+A. $3^{2}cdotsqrt[4]{3}$
+B. $sqrt[4]{3^{3}}$
+C. $3^{2}+sqrt[4]{3}$
+D. $3^{2}+sqrt{3^{4}}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

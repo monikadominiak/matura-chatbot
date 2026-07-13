@@ -1,0 +1,70 @@
+
+--- STRONA 1 ---
+1. Wykres funkcji \( f(x) = ax \ 2 \)
+
+Naszkicuj wykres funkcji \( f(x) = \frac{4}{x} \), której dziedziną jest zbiór \( D \). Podaj zbiór wartości tej funkcji.
+
+a) \( D = [2; 8] \)  
+b) \( D = (-2; 0) \cup (0; 2) \)  
+c) \( D = (-\infty; -2] \cup [1; \infty) \)  
+
+a) \textcircled{1} 
+
+Szkicujemy wykres funkcji \( f(x) = \frac{4}{x} \) w dziedzinie \( D = [2; 8] \) 
+
+Wykorzystując tabelkę.
+
+\[
+\begin{array}{|c|c|c|c|}
+\hline
+x & 2 & 4 & 8 \\
+\hline
+y & 2 & 1 & \frac{1}{2} \\
+\hline
+\end{array}
+\]
+
+\textcircled{2} Odczytujemy zbiór wartości z narysowanego wyżej wykresu.
+
+\( ZW_f = [ \frac{1}{2}, 2] \)
+
+Odp: Zbiorem wartości funkcji \( f(x) = \frac{4}{x} \) jest zbiór \( ZW_f = [\frac{1}{2}, 2] \).
+
+--- STRONA 2 ---
+b) 1️⃣ Szkicujemy wykres funkcji \( f(x) = \frac{4}{x} \) w dziedzinie \( D = (-2,0) \cup (0,2) \) 
+wykorzystując tabelkę. 
+
+Kółeczka na końcach przedziału są otwarte.
+
+\[
+\begin{array}{c|ccccc}
+x & -2 & -1 & 1 & 2 \\
+\hline
+y & -2 & -4 & 4 & 2 \\
+\end{array}
+\]
+
+2️⃣ Odczytujemy zbiór wartości z narysowanego wyżej wykresu.
+
+\( ZW_f = (-\infty, -2) \cup (2, +\infty) \)
+
+Odp: Zbiorem wartości funkcji \( f(x) = \frac{4}{x} \) jest zbiór \( ZW_f = (-\infty, -2) \cup (2, +\infty) \).
+
+--- STRONA 3 ---
+c) ① Szkicujemy wykres funkcji f(x)= \frac{4}{x} w dziedzinie D=(-\infty,-2⟩ \cup ⟨1,+\infty) wykorzystując tabelkę.
+
+\[
+\begin{array}{|c|c|c|c|c|c|c|c|c|}
+\hline
+x & -8 & -4 & -2 & 1 & 2 & 4 & 8 \\
+\hline
+y & -\frac{1}{2} & -1 & -2 & 4 & 2 & 1 & \frac{1}{2} \\
+\hline
+\end{array}
+\]
+
+② Odczytujemy zbiór wartości z narysowanego wyżej wykresu.
+
+Z_W_f = [-2,0) \cup (0,4]
+
+Odp: Zbiorem wartości funkcji f(x)= \frac{4}{x} jest zbiór Z_W_f = [-2,0) \cup (0,4].

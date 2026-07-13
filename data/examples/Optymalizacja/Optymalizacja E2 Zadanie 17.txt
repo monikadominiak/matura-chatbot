@@ -1,0 +1,93 @@
+
+--- STRONA 1 ---
+Suma długości wszystkich krawędzi ostrosłupa prawidłowego czworokątnego jest równa 4. Jakie powinny być długości tych krawędzi, aby objętość ostrosłupa była największa?
+
+1️⃣ uzależniamy od siebie zmienne
+
+\[
+\begin{align*}
+4a+4b &= 4 \\
+b &= 1-a \\
+H &= \sqrt{(1-a)^2-\left(\frac{a\sqrt{2}}{2}\right)^2} = \sqrt{\frac{a^2}{2} - 2a + 1}
+\end{align*}
+\]
+
+2️⃣ wyznaczamy dziedzinę funkcji
+
+\[
+\begin{align*}
+a > 0, \, b > 0 &\Rightarrow 1-a > 0 \\
+a &< 1 \\
+\end{align*}
+\]
+
+\[
+\frac{a\sqrt{2}}{2} < b \quad \frac{a\sqrt{2}}{2} < 1-a \Rightarrow a(2+\sqrt{2}) < 2
+\]
+
+\[
+a < \frac{2}{2+\sqrt{2}} \Rightarrow a < 2-\sqrt{2}
+\]
+
+\[
+a \in (0; 2-\sqrt{2})
+\]
+
+3️⃣ zapisujemy wzór funkcji
+
+\[
+V(a) = \frac{1}{3} a^2 \sqrt{\frac{a^2}{2} - 2a + 1} = \frac{1}{3} \sqrt{\frac{1}{2}} a^6 - 2a^5 + a^4
+\]
+
+4️⃣ wyznaczamy pochodną funkcji
+
+I sposób pomijamy 1/3 i pierwiastek
+
+funkcja f(a) = \frac{1}{2} a^6 - 2a^5 + a^4 jest rosnąca w przedziale (0;+\infty), 
+więc funkcja q(a) = a będzie osiągać wartość największą dla tego samego argumentu co f(a)
+
+niech \( f(a) = \frac{1}{2} a^6 - 2a^5 + a^4 \)
+
+\[
+f'(a) = 3a^5 - 10a^4 + 4a^3 = a^3(3a^2 - 10a + 4)
+\]
+
+II sposób pochodna funkcji złożonej \( (f(x) = \sqrt{x} \Rightarrow f'(x) = \frac{1}{2\sqrt{x}}) \)
+
+\[
+V'(a) = \frac{1}{3} \frac{1}{\sqrt{a^2-2a+1}} \cdot (3a^2 - 10a^4 + 4a^3) = \frac{a^3(3a^2 - 10a + 4)}{6\sqrt{\frac{1}{2}a^6 - 2a^5 + a^4}}
+\]
+
+(zauważmy, że w II mianownik jest >0, więc będziemy analizować licznik, pod względem analizy miejsc zerowych da ten sam wynik co f'(x) z I.)
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\[
+V'(a) = 0 \Leftrightarrow a^3(3a^2 - 10a + 4) = 0
+\]
+
+\[
+a = 0 \quad \Delta = 100-48 = 52 \quad \sqrt{\Delta} = 2\sqrt{13}
+\]
+
+\[
+\Rightarrow a = \frac{5 - \sqrt{13}}{3} \quad \lor \quad a = \frac{5 + \sqrt{13}}{3}
+\]
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+(mianownik jest zawsze dodatni, więc to licznik decyduje o znaku wyrażenia)
+
+I sposób:
+
+<img_src="//example.com/monotonicznosc.png" alt="monotonicznosc">
+
+Funkcja V(a) osiąga w swojej dziedzinie wartość największą dla argumentu \( a = \frac{5-\sqrt{13}}{3} \)
+
+7️⃣ obliczamy długość krawędzi b
+
+\[
+b = 1 - \frac{5-\sqrt{13}}{3} = \frac{-2+\sqrt{13}}{3}
+\]
+
+Odp: \( a = \frac{5-\sqrt{13}}{3}, \, b = \frac{-2+\sqrt{13}}{3} \)

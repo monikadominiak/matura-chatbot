@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Przekrojem osiowym stożka jest trójkąt prostokątny o polu równym S. Wyznacz pole powierzchni całkowitej i objętość tego stożka.
+
+1) sporządzamy rysunki pomocnicze i zapisujemy pole S
+
+S = \frac{1}{2} \cdot 2r \cdot r = r^2
+
+=> r = \sqrt{S}
+
+l = r\sqrt{2} \left(2r \cdot \frac{1}{\sqrt{2}}\right)
+
+2) obliczamy pole powierzchni całkowitej
+
+P_c = P_c + P_b = \pi r^2 + \pi rl = \pi (\sqrt{5})^2 + \pi \sqrt{5} \cdot \sqrt{2S} = 
+
+= 5\pi + 5\pi \sqrt{2} = S(1+\sqrt{2})\pi \ [j^2]
+
+3) obliczamy objętość stożka
+
+V = \frac{1}{3} \cdot \pi r^2 \cdot h = \frac{1}{3} (\sqrt{5})^2 \cdot \sqrt{5} \pi = \frac{5}{3} S \sqrt{5} \ [j^3]
+
+odp: P_c = S(1+\sqrt{2})\pi, \ V = \frac{5}{3} S \sqrt{5}

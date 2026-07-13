@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Zadanie 8
+
+Suma trzech kolejnych początkowych wyrazów ciągu geometrycznego jest równa 62. Różnica wyrazów trzeciego i drugiego jest pięć razy większa od różnicy wyrazów drugiego i pierwszego. Wyznacz ten ciąg.
+
+1️⃣ Zapisujemy informacje podane w zadaniu.
+
+|a_1+a_1q+a_1q^2=62  (a)
+
+a_1q^2-a_1q=5(a_1q-a_1)⟹a_1(q^2-q)=5(a_1q-a_1), a_1≠0
+
+Wiemy też, że a_1 jest różne od zera, ale 5⋅0=0, zatem i gdy obie różnice wynoszą 0 (q=1) spełnia warunki zadania.
+
+2️⃣ Rozwiązujemy układ równań.
+
+2(a):
+
+q^2-q=5q-5
+
+q^2-6q+5=0
+
+Δ=36-20=16
+
+q_1=\frac{6-4}{2}=1
+
+q_2=\frac{6+4}{2}=5
+
+a_1=\frac{62}{1+q+q^2}
+
+Możemy podzielić przez q^2+q+1 dlatego, że to wyrażenie nie ma miejsc zerowych, czyli mianownik nie będzie 0.
+
+Dla q=1:
+
+a_1=\frac{62}{1+1+1}=\frac{62}{3}
+
+q_2=\frac{62}{3}, a_3=\frac{62}{3}
+
+Dla q=5:
+
+a_1=\frac{62}{1+5+25}=2
+
+Odp.: \left\{\begin{array}{l}a_1=\frac{62}{3}\\q=1\end{array}\right. lub \left\{\begin{array}{l}a_1=2\\q=5\end{array}\right.

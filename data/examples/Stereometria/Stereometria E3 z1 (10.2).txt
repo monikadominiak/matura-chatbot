@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Sześcian o krawędzi długości 3 przecięto płaszczyzną przechodzącą przez przekątną podstawy i tworzącą z płaszczyzną podstawy kąt o mierze 60°. Oblicz pole otrzymanego przekroju.
+
+1️⃣ sporządzamy rysunek pomocniczy i ustalamy kształt naszego przekroju
+
+  gdyby przekrój miał być trójkątem, to dla kąta nachylenia 60° mielibyśmy:
+  <trójkąt> charakterystycznego:
+  \( \frac{3\sqrt{2}}{2} = a \), więc \( a\sqrt{3} = \frac{3\sqrt{6}}{2} \neq 3 \)
+  więc przekrój nie jest trójkątem
+
+2️⃣ wyznaczamy długość \( h \)
+
+   z 
+<trójkąta> charakterystycznego 30°, 60°, 30°:
+   \( a\sqrt{3} = 3 \)
+   \( a = x = \sqrt{3} \)
+   \( 2a = h = 2\sqrt{3} \)
+
+3️⃣ wyznaczamy długość górnej podstawy przekroju
+
+<Trójkąt> \( \Delta G'GF' \sim \Delta HGF \) z cechy kkk
+
+   \( \frac{|S'G'|}{|SG|} = \frac{|G'F'|}{|HF|} \)
+
+   \(\frac{\frac{3\sqrt{2}}{2} - \sqrt{3}}{\frac{3\sqrt{2}}{2}} = \frac{|G'F'|}{3\sqrt{2}} \) (mnożymy na krzyż)
+
+   \(|G'F'| = 3\sqrt{2} \left(\frac{3\sqrt{2}}{2} - \sqrt{3}\right)\)
+
+   \(|G'F'| = \frac{2}{\sqrt{2}} \cdot 3\sqrt{2} \left(\frac{3\sqrt{2}}{2} - \sqrt{3}\right) = 3\sqrt{2} - 2\sqrt{3} \)
+
+4️⃣ liczymy pole przekroju
+
+   \( P = \frac{(|HF| + |G'F'|)}{2} \cdot |S'O| = \frac{(3\sqrt{2} + 3\sqrt{2} - 2\sqrt{3})}{2} \cdot 2\sqrt{3} = \)
+
+   \[ = 6\sqrt{6} - 6 = 6(\sqrt{6} - 1) \]
+
+odp: \( P = 6(\sqrt{6} - 1) \)

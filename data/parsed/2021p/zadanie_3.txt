@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Rozważamy przedziały liczbowe (-0,5) i (-1, +∞). Ile jest wszystkich liczb całkowitych,
+które należą jednocześnie do obu rozważanych przedziałów?
+A. 6
+B. 5
+C. 4
+D. 5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

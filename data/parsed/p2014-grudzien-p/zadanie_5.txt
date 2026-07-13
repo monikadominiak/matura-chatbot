@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 4.5., 4.14. Zdający rysuje wykres funkcji liniowej, korzystając z jej wzoru; szkicuje wykresy funkcji wykładniczych dla różnych podstaw.
+Poprawna odpowiedź: C
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

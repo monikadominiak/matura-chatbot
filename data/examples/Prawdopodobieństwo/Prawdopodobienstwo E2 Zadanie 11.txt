@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Ile jest liczb siedmiocyfrowych, w których zapisie cyfra 4 występuje trzy razy, cyfra 5 - dwa razy, a cyfra 0 ani razu?
+
+➀ wypisujemy dane z polecenia
+
+7-cyfrowa liczba "4" - trzy razy "5" - dwa razy
+
+nie ma "0" => nie ma problemu z pierwszą pozycją
+
+➁ zapisujemy schematycznie liczbę 7-cyfrową
+
+_ _ _ _ _ _ _
+
+➂ zapisujemy kolejno możliwości dla "4", "5" i reszty
+
+x,1,2,3,❶4,❷5,6,7,8,9  7 cyfr (nie liczymy 4,5,0)
+
+ilość miejsc dostępnych => (7\over3) \cdot (4\over2) \cdot 7^2 = {7! \over 3! \ 2!\ 2!} \cdot {4! \over 2!\ 2!} \cdot 49 = 35 \cdot 6 \cdot 49 = 10290
+
+Odp: 10290

@@ -1,0 +1,114 @@
+
+--- STRONA 1 ---
+Zadanie 17
+
+Rozwiąż równanie sin 4x - cos 5x = 0 w przedziale \([0, \frac{\pi}{2}]\).
+
+❶ Zmieniamy \(\cos 5x\) na \(\sin\alpha\) korzystając ze wzorów redukcyjnych.
+
+\(\cos\alpha = \sin(\frac{\pi}{2} + \alpha)\)
+
+\(\sin 4x - \cos 5x = 0\)
+
+\(\sin 4x - \sin(\frac{\pi}{2} + 5x) = 0\)
+
+❷ Korzystamy ze wzoru na różnicę sinusów.
+
+\(\sin\alpha - \sin\beta = 2 \cos \frac{\alpha + \beta}{2} \sin \frac{\alpha - \beta}{2}\)
+
+\(2 \cos \frac{4x + \frac{\pi}{2} + 5x}{2} \sin \frac{4x - \frac{\pi}{2} - 5x}{2} = 0 \ \ \ \ \ \ \ \ \ \ \ \ \ /\!: 2\)
+
+\(\cos \frac{9x + \frac{\pi}{2}}{2} \sin (-x - \frac{\pi}{2}) = 0\)
+
+\(\cos \frac{9x + \frac{\pi}{2}}{2} \sin x + \frac{\pi}{2} = 0\)
+
+❸ Rozwiązujemy równania.
+
+\( \cos \frac{9x + \frac{\pi}{2}}{2} = 0\)
+
+\( \frac{9x + \frac{\pi}{2}}{2} = \frac{\pi}{2} + k\pi \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ /\cdot 2\)
+
+\(9x + \frac{\pi}{2} = \pi + 2k\pi\)
+
+\(9x = \pi + 2k\pi - \frac{\pi}{2}\)
+
+\(9x = \frac{\pi}{2} + 2k\pi \ \ \ \ \ \ \ \ \ \ /\cdot\) 9
+
+\(x = \frac{\pi}{18} + \frac{2k\pi}{9}\)
+
+\( \sin \frac{x + \frac{\pi}{2}}{2} = 0\)
+
+\( \frac{x + \frac{\pi}{2}}{2} = k\pi \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ /\cdot 2\)
+
+\( x + \frac{\pi}{2} = 2k\pi \)
+
+\( x = -\frac{\pi}{2} + 2k\pi\), \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \( k \in \mathbb{Z} \)
+
+❸ Obliczamy rozwiązania w przedziale \([0, \frac{\pi}{2}]\).
+
+\( x = -\frac{\pi}{2} + 2k\pi\)
+
+Brak rozwiązań w przedziale \([0, \frac{\pi}{2}]\).
+
+\( x = \frac{\pi}{18} + \frac{2k\pi}{9}\)
+
+\[
+\begin{array}{l}
+k = 0 \ \ \ \ x = \frac{\pi}{18} \\
+k = 1 \ \ \ \ x = \frac{5\pi}{18} \\
+k = 2 \ \ \ \ x = \frac{\pi}{2} \\
+\end{array}
+\]
+
+Odp.: \( x \in \{\frac{\pi}{18}, \frac{5\pi}{18}, \frac{\pi}{2}\}. \)
+
+--- STRONA 2 ---
+II sposób
+
+1⃣ Zamieniamy cos5x na sinusa.
+
+sin4x - cos5x = 0
+
+sin4x = cos5x
+
+sin4x = sin(π/2 + 5x)
+
+cosx = sin(π/2 + x)
+
+2⃣ Rozwiązujemy równanie.
+
+Jeśli sinα = sinβ mamy dwie sytuacje
+
+· α = β + 2kπ
+
+· α = (π - β) + 2kπ
+
+4x = π/2 + 5x + 2kπ ∨ 4x = (π - (π/2 + 5x)) + 2kπ , k∈Z
+
+-x = π/2 + 2kπ
+
+x = -π/2 - 2kπ
+
+4x = π - π/2 - 5x + 2kπ
+
+9x = π/2 + 2kπ /:9
+
+x = π/18 + 2kπ/9
+
+π + 4kπ/18
+
+3⃣ Obliczamy rozwiązania w przedziale [0, π/2].
+
+x = -π/2 - 2kπ
+
+Brak rozwiązań w przedziale [0, π/2]
+
+x = π/18 + 2kπ/9
+
+k = 0   x = π/18
+
+k = 1   x = 5π/18
+
+k = 2   x = π/2
+
+Odp.: x ∈ {π/18, 5π/18, π/2}.

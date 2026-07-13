@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Zadanie 3
+
+Wykres funkcji \( g \) jest obrazem wykresu funkcji \( f \) określonej wzorem \( f(x) = \frac{-1}{x+1} \) w przesunięciu o wektor \(\vec{u} = [-3,4]\). Napisz wzór funkcji \( g \) i podaj równania asymptot jej wykresu.
+
+① Przesuwamy wykres funkcji \( f(x) = \frac{-1}{x+1} \) o wektor \(\vec{u} = [-3,4]\)
+
+\[ g(x) = \frac{-1}{x+3+1} + 4 = \frac{-1}{x+4} + 4 \]
+
+② Podajemy równanie asymptot.
+
+Asymptota pionowa : \( x = -4 \) \((x = p)\).
+
+Asymptota pozioma : \( y = 4 \) \((y = q)\).
+
+Odp.: Wzór funkcji : \( g(x) = \frac{-1}{x+4} + 4 \), asymptota pionowa : \( x = -4 \), 
+asymptota pozioma : \( y = 4 \).

@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa prostego jest prostokąt o bokach długości 6 cm i 8 cm. Dwie spośród jego ścian bocznych są trójkątami równobocznymi. Oblicz wysokość tego ostrosłupa (rozpatrz dwa przypadki).
+
+1) sporządzamy rysunki pomocnicze dla obu przypadków
+
+I przypadek
+
+2) obliczamy |AC| z ΔABC
+
+(tw. Pitagorasa)
+
+6^2 + 8^2 = |AC|^2
+
+(trójkąt pitagorejski)
+
+|AC| = 10 => |EC| = 5
+
+3) obliczamy H z ΔSEC
+
+(tw. Pitagorasa)
+
+H^2 = 6^2 - 5^2 = 36 - 25 = 11
+
+H = sqrt{11}
+
+II przypadek
+
+4) z pierwszego przypadku
+wiemy, że |AC| = 10 i |EC| = 5
+
+5) obliczamy H z ΔSEC
+
+(tw. Pitagorasa)
+
+H^2 = 8^2 - 5^2 = 64 - 25 = 39
+
+H = sqrt{39}
+
+odp: H = sqrt{11} cm lub H = sqrt{39} cm

@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+z3 (tn)
+
+Zbadaj czy ciąg \( (a_n) \) jest ciągiem geometrycznym, jeśli określony jest wzorem
+\( a_n = \cos n\pi \).
+
+Należy sprawdzić, czy wyrażenie \( \frac{a_{n+1}}{a_n} \) przyjmuje stałą wartość niezależną od n. Jeśli tak, ciąg jest geometryczny. Jeśli natomiast ta wartość jest zależna od n (brak n w wyrażeniu \( \frac{a_{n+1}}{a_n} \) ), to ciąg nie jest geometryczny.
+
+① Wyznaczamy \( a_{n+1} \).
+
+\( a_n = \cos(n\pi) \)
+
+\( a_{n+1} = \cos((n+1)\pi) = \cos(n\pi+\pi) = \cos(180^\circ+n\pi) \)
+
+② Korzystamy ze wzoru redukcyjnego
+
+\( \cos(180^\circ+\alpha)=-\cos\alpha \).
+
+\( \cos(180^\circ+n\pi) = -\cos(n\pi) \)
+
+③ Obliczamy \( \frac{a_{n+1}}{a_n} \).
+
+\( \frac{a_{n+1}}{a_n} = \frac{-\cos(n\pi)}{\cos(n\pi)} = -1 \)
+
+\(-1\) jest liczbą, niezależną od n, więc ciąg jest geometryczny.
+
+Odp.: Ciąg jest geometryczny.

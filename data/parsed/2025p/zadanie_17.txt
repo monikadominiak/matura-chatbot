@@ -1,0 +1,22 @@
+=== ARKUSZ: 2025p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0–1)
+Kąt α jest ostry i spełnia warunek √3 tg α = 2 sin α.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Cosinus kąta α jest równy
+
+A. 1/2
+B. √2/2
+C. √3/2
+D. √3/3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

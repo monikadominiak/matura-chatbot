@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+Zadanie z2 (8.8) W trójkącie prostokątnym ABC o kącie prostym przy wierzchołku C, punkt D podzielił bok AC w taki sposób, że |AD| = 2|DC|. Punkt E leży na boku AB i dzieli go w stosunku 3 : 1 (licząc od wierzchołka B). Następnie poprowadzono odcinki BD oraz CE, a ich punkt przecięcia oznaczono jako F. Oblicz jaką część pola trójkąta BFE stanowi pole trójkąta ADF.
+
+1) Tworzymy rysunek poglądowy:
+
+P_{ABF}=P_1, P_{BCEF}=P_2, P_{CDF}=P_3, P_{ADF}=P_4, P_{AEF}=P_5
+
+2) Dorysowujemy potrzebne wysokości i zapisujemy wynikające z nich stosunki:
+
+h_3
+h_2
+h_1
+
+P_3=\frac{1}{2}xh_3, P_4=xh_1, \to P_4=2P_3
+P_2=\frac{3}{4}yh_2, P_5=\frac{1}{4}yh_2, \to P_5=\frac{1}{3}P_2
+P_4+P_5=\frac{1}{2}xh_3, P_4+P_3=P_5+xh_3 \to P_4+P_5=(P_5+P_3)
+P_4+P_5=P_2 yh_3
+
+h_1, P_2=\frac{3}{2} yh_1, P_5=\frac{1}{4} yh_1 \to P_4=P_3, P_1=4P_4
+
+3) Z wyznaczonych równań uzależniamy P_4 od P_1:
+
+\{ \ P_2=2P_3 \} \to P_3=\frac{1}{2}P_1
+\{ \ P_4=3P_3 \} \to P_4=2P_1+P_4
+\{ \ P_5=\frac{1}{3}P_1 \} \to P_5=P_4+P_5
+
+P_4+P_2=(2P_3+P_4)
+
+P_1+P_2=3(P_3,P_4+P_5) \Rightarrow
+
+P_4+\frac{P_3}{3}+P_4=3(\frac{P_2}{4}+P_4+\frac{P_3}{3})
+
+\frac{5}{3}P_1=\frac{9}{2}P_1+P_4
+
+\frac{2}{3}P_1=\frac{9}{2}P_4
+
+P_2=\frac{3}{2}P_4
+
+P_4=\frac{9}{27}P_1
+
+Odp. \frac{4}{27}.

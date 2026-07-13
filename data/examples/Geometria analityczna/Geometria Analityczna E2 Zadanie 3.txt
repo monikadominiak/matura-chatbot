@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zad.3 Punkty A(2, -3) i B(5, 1) są wierzchołkami trójkąta ABC. Bok BC zawiera się w prostej k: x + 2y - 7 = 0, zaś środkowa AM zawiera się w prostej m: 5x - y - 13 = 0. Wyznacz równanie ogólne prostej, w której zawiera się wysokość trójkąta poprowadzona z wierzchołka C.
+
+1) Wyznaczamy punkt przecięcia prostych (punkt M) i tworzymy rysunek poglądowy:
+
+k: x + 2y - 7 = 0  <-  k: y = -1/2 x + 7/2
+m: 5x - y - 13 = 0  <-  m: y = 5x - 13
+
+   -1/2 x = 5x - 13
+   -1/2 x = 45/2 - 13/2 
+   6x = 33
+   x = 3 => y = 45/2 - 13/2
+M(3, 2)
+
+2) Wyznaczamy punkt C ze środka M boku BC:
+
+M( xB+xC/2, yB+yC/2 )
+M(3, 2)
+
+xB+xC/2 = 3
+ 4 = xC
+
+yC = 3
+
+C(4, 3)
+
+3) Wyznaczamy współczynnik kierunkowy prostej AB:
+
+    yB - yA
+aAB = -------
+    xB - xA
+
+aAB = 4/3
+
+4) Wyznaczamy prostą prostopadłą do prAB, przechodzącą przez punkt C:
+
+l: y = ax + b
+prAB ⊥ l <=> aAB * aL = -1
+4/3 * aL = -1
+aL = -3/4
+
+l: y = -3/4 x + b
+C(4, 3) ∈ l <=> 
+
+l: y = -3/4 x + 3
+l: y = -3/4 x + 33/4 => l: 3x + 4y - 15 = 0
+
+Odp. l: 3x + 4y - 15 = 0.

@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+Zadanie 11 [3 pkt] - Typ 1.1
+
+Oblicz wartość wyrażenia \(\frac{(x-y)(x^2-y^4)}{2x^2-2y^2} - \frac{xy(x^3-y^3)}{x^2+xy+y^2}\) gdy \(x=0,5\) i \(y=1,5\);
+
+To wyrażenie będziemy musieli uprościć za pomocą wzoru skróconego mnożenia, a następnie podstawić wartości liczbowe.
+
+1) Uproszczenie wyrażenia
+\(a^3-b^3=(a-b)(a^2+ab+b^2)\)
+
+\[
+a^2-b^2=(a-b)(a+b)
+\]
+
+\[
+\frac{(x-y)(x^2-y^4)}{2x^2-2y^4} - \frac{xy(x^3-y^3)}{x^2+xy+y^2}=
+\]
+
+\[
+=\frac{(x-y)\left(\frac{x^4-y^4}{x^2-y^2}\right)}{2} - \frac{xy\left(\frac{x^3-y^3}{x^2+xy+y^2}\right)}{2}=
+\]
+
+\[
+=\frac{(x-y)\left(\frac{(x^2)^2-(y^2)^2}{x^2-y^2}\right)}{2} - \frac{xy(x-y)\left(\frac{x^2+xy+y^2}{x^2+xy+y^2}\right)}{2}=
+\]
+
+\[
+Sprowadzamy do wspólnego mianownika
+\]
+
+\[
+-\frac{xy(x-y)}{2}=
+\]
+
+\[
+=\frac{(x-y)(x^2+y^2)}{2} - 2 \cdot \frac{xy(x-y)}{2}=(x-y)\left[\frac{x^2+y^2-2xy}{2}\right]=
+\]
+
+\[
+=\frac{(x-y)(x-y)^2}{2}=\frac{(x-y)^3}{2}
+\]
+
+2) Podstawiamy wartości liczbowe \(x=0,5\) i \(y=1,5\)
+
+\[
+\frac{(x-y)^3}{2}=\frac{(0,5-1,5)^3}{2}=\frac{(-1)^3}{2}=-\frac{1}{2}
+\]
+
+Odp. \(-\frac{1}{2}\).

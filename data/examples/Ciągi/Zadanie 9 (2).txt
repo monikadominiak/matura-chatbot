@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Zadanie 9
+
+Dla jakich x liczby \(\frac{1}{\tg x}, \cos x, \sin x\) w podanej kolejności są kolejnymi wyrazami ciągu geometrycznego?
+
+1️⃣ Wyznaczamy dziedzinę.
+
+\[
+D: \quad x \neq \frac{\pi}{2} + k\pi, \quad k \in \mathbb{Z} 
+\]
+\[
+\tg x \neq 0 \Rightarrow x \neq k\pi
+\]
+
+\[
+D: \quad x \neq \frac{\pi}{2} + \frac{k\pi}{2}, \quad k \in \mathbb{Z}
+\]
+
+2️⃣ Korzystamy ze wzoru na sąsiednie wyrazy ciągu geometrycznego.
+
+\[
+\cos^2 x = \frac{1}{2 \tg x \cdot \sin x}
+\]
+
+3️⃣ Rozwiązujemy równanie.
+
+\[
+\cos^2 x = \frac{2 \sin x}{\cos x} \cdot \sin x
+\]
+\[
+\cos^2 x = \frac{\cos x}{2 \sin x} \cdot \sin x
+\]
+\[
+2 \cos^3 x - \cos x = 0
+\]
+
+\[
+\cos x (2 \cos^2 x - 1) = 0
+\]
+
+\[
+\cos x = 0 \quad \quad \quad 2 \cos x = 1
+\]
+
+\[
+x \neq \frac{\pi}{2} + k\pi \quad \quad \quad \cos x = \frac{1}{2}
+\]
+
+\[
+x = \frac{\pi}{3} + 2k\pi \quad \lor \quad x = \frac{5\pi}{3} + 2k\pi, \quad k \in \mathbb{Z}
+\]
+
+Odp.: \(x = \frac{\pi}{3} + 2k\pi, \quad x = \frac{5\pi}{3} + 2k\pi, \quad k \in \mathbb{Z}\).

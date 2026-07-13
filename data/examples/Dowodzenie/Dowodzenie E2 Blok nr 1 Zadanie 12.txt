@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Wykaż, że dla dowolnych różnych liczb rzeczywistych \( x, y \) prawdziwa jest nierówność: \( x^4 - 8xy + 4y^2 + 4 > 0 \).
+
+założenie: \( x, y \in \mathbb{R}, \, x \neq y \Rightarrow x - y \neq 0 \)
+
+teza: \( x^4 - 8xy + 4y^2 + 4 > 0 \)
+
+\( \large \circled{1} \) przekształcamy równoważnie tezę:
+
+\( x^4 - 8xy + 4y^2 + 4 > 0 \)
+
+\( x^4 - 4x^2 + 4 + 4y^2 - 8xy + 4x^2 > 0 \)
+
+\( (x^2 - 2)^2 + 4(y-x)^2 > 0 \)
+
+\(\begin{array}{c} \geq 0 \end{array} \)
+
+\( 4y^2 - 8xy + \underline{4x^2} \)
+
+\( 4(y^2 - 2xy + x^2) \)
+
+\( 4(y-x)^2 \)
+
+\(\begin{array}{c} \geq 0 \end{array} \)
+
+\( \large \circled{2} \) komentarz:
+
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, a dla \( x \neq y \) wyrażenie \( (y-x)^2 \) jest dodatnie,
+
+suma liczby nieujemnej i dodatniej jest liczbą dodatnią, c.k.d.

@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+z2 (tn)
+
+Zbadaj dla jakich wartości parametru m istnieją rozwiązania równania:
+√3 sin x + cos x = m.
+
+Wskazówka: trzeba je uprościć tak, żeby potem móc skorzystać z któregoś ze wzorów:
+
+sin(α+β)=sinαcosβ+cosαsinβ
+cos(α+β)=cosαcosβ−sinαsinβ
+
+sin(α−β)=sinαcosβ−cosαsinβ
+cos(α−β)=cosαcosβ+sinαsinβ
+
+Niemal każde równanie trygonometryczne, w którym jednym ze współczynników jest √3, należy podzielić przez 2, uzyskując tym samym współczynniki będące wartościami funkcji sinus lub cosinus dla kątów typowych 30°, 45°, 60°.
+
+① Dzielimy równanie na 2 i korzystamy ze wzoru na cosinusa różnicy kątów.
+
+√3 sin x + cos x = m / :2
+
+√3/2 sin x + 1/2 cos x = 1/2 m
+
+sin π/3 sin x + cos π/3 cos x = m/2
+
+cos x cos π/3 + sin x sin π/3 = m/2
+
+cos(x - π/3) = m/2
+
+W pewnym uproszczeniu uzyskaliśmy równanie postaci cos α = liczba (parametr jest liczbą, którą musimy odpowiednio dobrać, aby w zadaniu zachodził określony warunek).
+
+--- STRONA 2 ---
+Równanie cosα=liczba posiada rozwiązania wtedy, gdy liczba należy do zbioru wartości funkcji cosinus, który zarówno dla sinusa i cosinusa jest równy [-1,1].
+
+2) Obliczamy m.
+
+\(\frac{1}{2} m \in [-1,1] \)
+
+-1 < \(\frac{1}{2} m \leq 1 \)
+
+-2 < m \leq 2
+
+m \(\in [-2,2] \)
+
+Odp.: m \(\in [-2,2] \).

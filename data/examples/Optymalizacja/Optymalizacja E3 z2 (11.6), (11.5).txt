@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+**Położenie punktu na osi OX w chwili t (w sekundach) opisuje funkcja**
+
+\[ x(t) = -\frac{1}{3}t^3 + 2t^2 + t + 1, \quad t \geq 0 \]
+
+**Oblicz:**  
+a) prędkość w chwili t = 5 s,  
+b) największą prędkość (dla t \geq 0),  
+c) przyspieszenie w chwili t = 3 s,  
+d) największe przyspieszenie (dla t \geq 0).
+
+w zadaniu będziemy korzystać z dwóch faktów:  
+1) \(v(t) = x'(t) \ \ \text{funkcja prędkości jest pochodną funkcji położenia}\)  
+2) \(a(t) = v'(t) \ \ \text{funkcja przyspieszenia jest pochodną funkcji prędkości}\)  
+
+\[\large{\circled{1}}\] wyznaczamy kolejno dwie pochodne i rozwiązujemy podpunkty a) v(5) i c) a(3)  
+
+\[ x'(t) = -t^2 + 4t + 1 \ \overset{1.}{=} \ v(t) \]  
+\[ v(5) = -25 + 20 + 1 = -4 \ [\frac{m}{s}]\]  
+\[ v'(t) = -2t + 4 \ \overset{2.}{=} \ a(t) \]  
+\[ a(3) = -2 \cdot 3 + 4 = -2 \ [\frac{m}{s^2}]\]  
+
+\[\large{\circled{2}}\] b) \ \(v(t)=-t^2 + 4t + 1\)  
+
+**I sposób**  
+\(v(t)\) jest funkcją kwadratową o ramionach skierowanych w dół \((a < 0)\), zatem max. wartość przyjmuje w wierzchołku  
+
+\[ t_W = \frac{-b}{2a} = \frac{-4}{-2} = 2 \ [s]\]  
+\[ V_{max} = V(2) = 5 \ [\frac{m}{s}]\]  
+
+**II sposób (analiza pochodnej)**  
+\[ v'(t) = -2t + 4\]  
+\[ v'(t) = 0 \ \Leftrightarrow \ t = 2\]  
+\[ v'(t) > 0 \ \Leftrightarrow \ t \in (0,2) \ (\text{v rośnie})\]  
+\[ v'(t) < 0 \ \Leftrightarrow \ t \in (2,+\infty) \ (\text{v maleje})\]  
+
+Funkcja \(v(t)\) przyjmuje wartość max. dla \(t = 2\)  
+\[ v(2) = 5 \ [\frac{m}{s}]\]  
+
+\[\large{\circled{3}}\] d) \(a(t)=-2t+4\)  
+
+**I sposób**  
+\(a(t)\) jest funkcją liniową, malejącą, o miejscu zerowym x = 2, więc wartość max. przyjmuje w swojej dziedzinie dla argumentu t = 0  
+\[ a_{max} = a(0) = 4 \ [\frac{m}{s^2}]\]  
+
+**II sposób (analiza pochodnej)**  
+\[ a'(t) = -2 < 0 \ \text{dla każdego} \ t\]  
+więc funkcja \(a(t)\) jest ściśle malejąca (na \([0,+\infty)\)), więc max. jest na lewym końcu dziedziny dla t = 0  
+\[ a(0) = 4 \ [\frac{m}{s^2}]\]  
+
+**Odp:** a) \(-4 \ [\frac{m}{s}],\) b) \(V_{max} = V(2) = 5 \ [\frac{m}{s}]\)  
+c) \(-2 \ [\frac{m}{s^2}],\) d) \(a_{max} = V(0) = 4 \ [\frac{m}{s^2}]\)  

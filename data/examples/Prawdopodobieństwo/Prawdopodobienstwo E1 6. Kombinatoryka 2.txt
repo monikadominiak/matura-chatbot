@@ -1,0 +1,20 @@
+
+--- STRONA 1 ---
+Na parkingu salonu samochodowego stoi 10 samochodów tej samej marki. Cztery samochody są czarne, trzy - srebrne, a pozostałe - granatowe. Wybieramy trzy samochody. Na ile sposobów można dokonać wyboru, jeśli wszystkie wybrane samochody mają być w różnych kolorach?
+
+➊ wypisujemy dane z polecenia
+
+10 samochodów:
+4 czarne  3 srebrne  3 granatowe
+
+wybieramy trzy z nich, chcemy różne koloru
+
+➋ zapisujemy schematycznie wybór i ilość możliwości
+
+\[
+\frac{4}{czarny} \cdot \frac{3}{srebrny} \cdot \frac{3}{granatowy} = 36
+\]
+
+uwaga: tak naprawdę używamy tu kombinacji: \(\binom{4}{1}\cdot\binom{3}{1}\cdot\binom{3}{1}\), którą możemy zapisać jako mnożenie \(4 \cdot 3 \cdot 3\), ponieważ wybieramy tylko jeden element z każdego ze zbiorów
+
+Odp: 36

@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zakład dostarczający żarówek do sklepu ma dwie linie produkcyjne. Pierwsza linia dostarcza cztery razy więcej żarówek niż druga. Z pierwszej linii średnio cztery żarówki na 1000 są wadliwe, a z drugiej linii osiem żarówek na 1000 ma wady. Klient kupił w sklepie żarówkę wyprodukowaną przez ten zakład i okazało się, że jest wadliwa. Oblicz prawdopodobieństwo zdarzenia, że została wyprodukowana przez pierwszą linię produkcyjną. 
+
+① wprowadzamy oznaczenia i tworzymy "drzewko"
+
+A - wadliwa żarówka
+
+B₁ - żarówka z 1 linii
+
+B₂ - żarówka z 2 linii
+
+P(B₁) = 4/5
+
+P(A) - prawd. wadliwej żarówki 
+
+P(A) = 4/5 * 4/1000 + 1/5 * 8/1000 = 24/5000  *
+
+② musimy policzyć P(B₁|A) → żarówka z 1 linii pod warunkiem, że wadliwa
+
+wzór Bayesa: P(B₁|A) = P(A|B₁) * P(B₁) / P(A) , gdzie P(A) to prawd. całkowite 
+
+③ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B₁) - określa prawd. wadliwej żarówki, jeśli jest z 1 linii
+
+czyli P(A|B₁) = 4/1000
+
+P(A∩B₁) - prawd. że wadliwa żarówka i z 1 linii
+
+P(A∩B₁) = 4/5 * 4/1000 = 16/5000
+
+④ liczymy docelowe P(B₁|A)
+
+P(B₁|A) = 4/1000 * 4/5 / 24/5000 = 16/24 = 2/3   Odp: 2/3
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe 
+
+P(B₁|A) = P(A∩B₁) / P(A)  ,  P(A) policzyliśmy już wyżej *
+
+P(B₁|A) = (16/5000) / (24/5000) = 2/3

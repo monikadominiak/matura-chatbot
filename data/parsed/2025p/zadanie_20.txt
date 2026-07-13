@@ -1,0 +1,26 @@
+=== ARKUSZ: 2025p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0–1)
+W trójkącie równoramiennym ABC dane są: |AC| = |BC| = 4 i |AB| = 3.
+Na boku BC, między punktami B i C, wybrano taki punkt D, że trójkąty ABC i BDA są
+podobne (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Odcinek BD ma długość
+
+A. 2
+B. 2,25
+C. 2,5
+D. 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

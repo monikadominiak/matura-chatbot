@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Ile jest wszystkich liczb pięciocyfrowych, których ostatnią cyfrą jest 7?
+
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9 -> z powtórzeniami, 10 cyfr
+
+1) zapisujemy schematycznie liczbę 5-cyfrową
+
+będziemy korzystać z reguły mnożenia
+
+\[9 \cdot 10 \cdot 10 \cdot 10 \cdot 1 = 9000\]
+
+na ostatnim miejscu ma być cyfra 7
+
+na pierwszym miejscu nie może stać 0, bo nie będzie to już liczba 5-cyfrowa => 1 możliwość
+
+Odp: 9000

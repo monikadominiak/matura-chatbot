@@ -1,0 +1,149 @@
+
+--- STRONA 1 ---
+z3 (2.4)
+
+Wyznacz wszystkie wartości parametru m, dla których równanie x^2 - 4mx + m^2 + 3 = 0 ma dwa różne rozwiązania takie, że każde z nich należy do przedziału <1;5).
+
+1️⃣ Wyznaczenie warunków wynikających z treści zadania
+
+Sposób I
+
+1° Δ > 0  ⬅  dwa różne pierwiastki
+
+2° x₁ + x₂ > 2 x₁ + x₂ < 10 } oba pierwiastki należą do przedziału <1;5).
+
+3° (x₁-1)(x₂-1) ≥ 0 (x₁-5)(x₂-5) ≥ 0 } oba pierwiastki należą do przedziału <1;5)
+
+Sposób II
+
+1° Δ > 0 ⬅  dwa różne pierwiastki
+
+4° f(1) ≥ 0 ⬅ punkt 1 może być pierwiastkiem
+
+f(5) >0 ⬅ punkt 5 nie może być pierwiastkiem
+
+5° p > 1 p < 5
+
+2️⃣ Rozwiązanie pierwszego z warunków
+
+1° Δ > 0 Δ = b^2 - 4ac
+
+(-4m)^2 - 4 ⋅ 1 ⋅ (m^2 + 3) > 0
+
+16m^2 - 4m^2 - 12 > 0 12m^2 - 12 > 0 12(m^2 - 1) > 0 (m^2 - 1) > 0 (m-1)(m+1) > 0 m = 1 m = -1
+
+m ∈ (-∞, -1) ∪ (1, ∞)
+
+3️⃣ Rozwiązanie drugiego z warunków
+
+2° x₁ + x₂ > 2 x₁ + x₂ < 10
+
+x₁ + x₂ = -b/a
+
+-(-4m)/1 > 2 -(-4m)/1 < 10 4m > 2 m > 1/2 4m < 10 m < 5/2
+
+zatem: m ∈ (1/2, 5/2)
+
+--- STRONA 2 ---
+1. Rozwiązanie trzeciego z warunków
+
+3° (x₁-1)(x₂-1) ≧ 0
+
+\[ x₁ + x₂ = -\frac{b}{a} \] \[ x₁ \cdot x₂ = \frac{c}{a} \]
+
+x₁, x₂ - (x₁ + x₂) + 1 ≧ 0
+
+\[ \left(\frac{m + 2}{1}\right) - \left(-\frac{4m}{1}\right) + 4 ≧ 0 \]
+
+m² + 3 - 4m + 4 ≧ 0
+
+m² - 4m + 4 ≧ 0
+
+(m - 2)² ≧ 0 ⇒ m ∈ ℝ
+
+(x₁ - 5)(x₂ - 5) > 0
+
+x₁, x₂ - 5(x₂ + x₁) + 25 > 0
+
+(m² + 3) - 20m + 25 > 0
+
+m² - 20m + 28 > 0
+
+\[ \Delta_m = 400 - 112 = 288 \]
+
+\[ \sqrt{\Delta_m} = 12\sqrt{2} \]
+
+m₁ = \[ \frac{20 - 12\sqrt{2}}{2} \]
+
+m₂ = \[ \frac{20 + 12\sqrt{2}}{2} \]
+
+m₁ = 10 - 6\sqrt{2} \approx 1,68
+
+m₂ = 10 + 6\sqrt{2} \approx 18,68
+
+\[ m \in (-\infty, 10-6\sqrt{2}) \cup (10+6\sqrt{2}, \infty) \]
+
+2. Rozwiązanie czwartego z warunków
+
+4° f(1) ≧ 0
+
+f(5) > 0
+
+1 - 4m + m² + 3 ≧ 0
+
+25 - 20m + m² + 3 > 0
+
+m² - 4m + 4 ≧ 0
+
+m² - 20m + 28 > 0
+
+(m - 2)² ≧ 0
+
+\[ \Delta_m = 288 \]
+
+m ∈ ℝ
+
+m₁ = 10 - 6\sqrt{2}
+
+m₂ = 10 + 6\sqrt{2}
+
+Zatem m ∈ (-∞, 10-6\sqrt{2}) ∪ (10+6\sqrt{2}, ∞)
+
+3. Rozwiązanie piątego z warunków
+
+5° p > γ₁
+
+p < 5
+
+\[ p = -\frac{b}{2a} \]
+
+\[ \frac{-(-4m)}{2} > \frac{1}{2} \]
+
+\[ \frac{-(-4m)}{2} < \frac{5}{2} \]
+
+2m > \[ \frac{1}{2} \]
+
+2m < \[ \frac{5}{2} \]
+
+m ∈ \(\left(\frac{1}{2}; \frac{5}{2}\right)\)
+
+--- STRONA 3 ---
+\[ \begin{array}{l} 
+\pmb{7.} \ \text{Wyznaczenie części wspólnych rozwiązań} \\ 
+\quad \text{dwuńków dla każdego ze sposobów} \\
+\\
+\text{Sposób I:} \\
+1^\circ \ m \in (-\infty, -1) \cup (1, \infty) \\
+2^\circ \ m \in (\frac{1}{2}, \frac{5}{2}) \\
+3^\circ \ m \in (-\infty, 10-6\sqrt{2}) \cup (10+6\sqrt{2}, \infty) \\
+\\
+\text{Sposób II:} \\
+1^\circ \ m \in (-\infty, -1) \cup (1, \infty) \\
+4^\circ \ m \in (-\infty, 10-6\sqrt{2}) \cup (10+6\sqrt{2}, \infty) \\
+5^\circ \ m \in (\frac{1}{2}, \frac{5}{2}) \\
+\\
+\text{Zatem ostateczna odpowiedź dla} \\
+\text{obu sposobów:} \ m \in (1, 10-6\sqrt{2}) \\
+\\
+\text{Odp:} \ m \in (1, 10-6\sqrt{2}).
+\end{array} \]

@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Stosunek długości przekątnej ściany bocznej graniastosłupa prawidłowego trójkątnego do długości krawędzi podstawy jest równy sqrt{3}. Oblicz miarę kąta nachylenia przekątnej ściany bocznej do sąsiedniej ściany bocznej.
+
+1) sporządzamy rysunek pomocniczy
+
+2) zapisujemy stosunek podany w poleceniu
+
+sqrt{3} = y/x => y = x * sqrt{3}
+
+3) wyznaczamy odcinek hp  
+
+(wysokość podstawy Δ równobocznego)
+
+hp = x * sqrt{3}/2
+
+4) liczymy sinα 
+
+sinα = (x * sqrt{3}/2) / (x * sqrt{3}) = (x * sqrt{3}/2) * 1/(x * sqrt{3}) = 1/2 
+
+więc α = 30° (α jest kątem ostrym)
+
+odp: α = 30°

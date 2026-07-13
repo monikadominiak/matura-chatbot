@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Ze zbioru liczb \{1, 2, ..., 15, 16\} losujemy kolejno trzy razy po jednej liczbie ze zwracaniem i oznaczamy kolejno wylosowane liczby x_1, x_2, x_3. Oblicz prawdopodobieństwo zdarzenia:
+a) A - iloczyn x_1 x_2 x_3 jest liczbą podzielną przez 3,
+b) B - suma x_1 + x_2 + x_3 jest liczbą podzielną przez 3.
+
+① analizujemy polecenie
+
+zbiór: \{1, 2, ..., 15, 16\}, losujemy kolejno 3 liczby: x_1, x_2, x_3 
+   \ \ \  \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ze zwracaniem
+
+② liczymy moc \ \Omega \ \ (taka sama dla obu podpunktów)
+
+\bar{\Omega} = 16^3 = 4096 \ \ \longleftarrow \ \text{\reguła mnożenia , stosujemy już wszędzie}
+
+③ Ile jest liczb każdego typu?
+
+- podzielne przez 3 : 5
+- z resztą 1 : 6
+- z resztą 2 : 5
+   \ \ \ \ \{11 \ \ \ \ niepodzielnych\}
+
+\{1, 2, 3, \dots \ \ \ \ \ \ \ \ \{15, 16\} \frac{1}{3} \ \frac{1}{3} = 5 = 5 \ \ reszta \ \ 1\}
+
+
+④ a) A - iloczyn podzielny przez 3
+
+\Rightarrow \ co \ \ \najmniej \ \ \ 1 \ \ \ \ musi \ \ \ \ być \ \ \ \ podzielna
+
+\ \ \ \ \ wykorzystujemy \ \ \ \ zdarzenie \ \ \ \ przeciwne:
+
+\ \ \ \ \ A' - wszystkie \ \ \ \ 3 \ \ \ \ są \.\ \ \ niepodzielne
+
+P(A) = 1 - P(A') = 1 - \frac{11^3}{4096} = \frac{2765}{4096} 
+
+Odp: \ \ \frac{2765}{4096}
+
+
+⑤ b) B - suma podzielna przez 3
+
+\bar{B}:
+
+- wszystkie podzielne : 5^3 = 125
+- wszystkie z resztą 1 : 6^3 = 216
+- wszystkie z resztą 2 : 5^3 = 125
+- po jednej każdej z trzech rodzajów (3! ustawień): 6 \times 5 \times 5 \times 3! = 900
+
+\bar{B} = 125 + 216 + 125 + 900 = 1366
+
+P(B) = \frac{1366}{4096} = \frac{683}{2048}
+
+Odp: \ \frac{683}{2048}

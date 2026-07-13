@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Ile jest liczb dwucyfrowych, w których co najmniej jedna cyfra jest parzysta?
+
+1️⃣ zapisujemy schematycznie liczbę 2-cyfrową, i warunki zadania
+
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+co najmniej jedna cyfra parzysta =
+
+I. sposób
+
+2 PARZYSTE + 1 PARZYSTA
+
+__ ・ __ + __ ・ __
+
+
+2️⃣ zapisujemy kolejno ile jest możliwości na dane miejsce
+
+\[\frac{4}{\text{bez „0”}}\] ・ 5 + \[\frac{5}{\text{NP}}\] ・ \[\frac{5}{\text{P}}\] + \[\frac{4}{\text{P}}\] ・ \[\frac{5}{\text{NP}}\] = 20 + 25 + 20 = 65
+
+II. sposób
+
+WSZYSTKIE 2-CYFROWE - 2 NIEPARZYSTE
+
+\[\frac{9}{\text{bez „0”}}\] ・ 10 - \[\frac{5}{\text{・}}\] \[\frac{5}{\text{・}}\] = 90 - 25 = 65
+
+Odp. 65

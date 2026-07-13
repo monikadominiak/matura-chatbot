@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Na egzaminie było n tematów, z których student losował dwa. Oblicz n wiedząc, że student miał 190 możliwości wylosowania zestawu tematów.
+
+➊ wypisujemy dane z polecenia
+
+n tematów , losujemy 2 , 190 możliwości ,
+
+losujemy 2 różne tematy
+
+↳ tematy nr (1 , 4) = nr (4, 1)
+      ↓    ta sama sytuacja
+
+➋ student losuje 2 z n tematów
+
+\(\binom{n}{2} = 190\)
+
+\(\binom{n}{2} = \frac{n!}{2!(n-2)!}\) , \(n \in \mathbb{N}\)
+
+➌ rozwiązujemy równanie
+
+\(\frac{(n-1)n}{2!(n-2)!} = 190\)
+
+\(\frac{n^2}{2}\)
+
+n(n - 1) = 380
+
+n^2 - n - 380 = 0
+
+(n - 20)(n + 19) = 0
+
+n = 20        n = -19 sprzeczne
+
+------------------> stąd łatwo znaleźć n :
+               n(n-1) - iloczyn dwóch
+               kolejnych liczb naturalnych
+
+Odp: n = 20

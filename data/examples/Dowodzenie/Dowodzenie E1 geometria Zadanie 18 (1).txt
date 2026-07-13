@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Uzasadnij, że w dowolnym trójkącie środkowa dzieli ten trójkąt na dwa trójkąty o równych polach.
+
+1️⃣ tworzymy rysunek poglądowy
+
+teza: P_△ADC = P_△CDB
+
+oznaczamy podstawę jako 2x
+
+i |AD| = |BD| = x
+
+2️⃣ rysujemy wysokość opadającą na podstawę |AB|
+
+zauważmy, że wysokość h jest wysokością zarówno △ABC jak i △DBC oraz △ADC (w ostatnim spadek wysokości opada na przedłużenie podstawy)
+
+P_△ADC = \frac{1}{2} x \cdot h
+
+i
+
+P_△DBC = \frac{1}{2} x \cdot h
+
+c.k.d.

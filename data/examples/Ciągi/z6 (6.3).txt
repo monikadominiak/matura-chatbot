@@ -1,0 +1,74 @@
+
+--- STRONA 1 ---
+z6 (6.3)
+
+Ciąg (a, 6, c), gdzie a i c są liczbami dodatnimi, jest geometryczny. Suma odwrotności wyrazów tego ciągu jest równa 0,7(2). Znajdź liczby a i c.
+
+1️⃣ Tworzymy układ równań.
+
+W ciągu geometrycznym kwadrat wyrazu środkowego jest równy iloczynowi wyrazów sąsiednich.
+
+\[
+\begin{cases} 
+6^2 = ac \\
+\frac{1}{a} + \frac{1}{6} + \frac{1}{c} = 0,7(2) 
+\end{cases}
+\]
+
+2️⃣ Zamieniamy ułamek dziesiętny na zwykły.
+
+0,7(2) = x
+
+7,(2) = 10x
+
+72,(2) = 100x
+
+72,(2) - 7,(2) = 100x - 10x
+
+65 = 90x
+
+x = \frac{65}{90} = \frac{13}{18}
+
+3️⃣ Rozwiązujemy układ równań.
+
+\[
+\begin{cases} 
+ac = 36 \\
+\frac{1}{a} + \frac{1}{6} + \frac{1}{c} = \frac{13}{18} \Rightarrow \frac{1}{a} + \frac{1}{c} = \frac{5}{9}
+\end{cases}
+\]
+
+Układ rozwiązujemy metodą podstawiania.
+
+\[
+\begin{cases} 
+a = \frac{36}{c} \\
+\frac{1}{a} + \frac{1}{c} = \frac{5}{9}
+\end{cases}
+\]
+
+Możemy swobodnie podzielić przez c, gdyż c > 0.
+
+--- STRONA 2 ---
+2 (1) do (2)
+
+\[\frac{c}{36} + \frac{1}{c} = \frac{5}{9} \ / \cdot 36c\]
+
+c^2 + 36 = 20c
+
+c^2 - 20c + 36 = 0
+
+Δ = (-20)^2 - 4 \cdot 1 \cdot 36 = 256
+
+c_1 = \frac{20 - 16}{2} = 2
+
+c_2 = \frac{20 + 16}{2} = 18
+
+a_1 = \frac{36}{c_1} = 18
+
+a_2 = \frac{36}{c_2} = 2
+
+Otrzymane liczby a i c są dodatnie (tego wymagało polecenie), więc spełniają 
+warunki zadania.
+
+Odp.: \(\begin{cases} a = 18 \\ c = 2 \end{cases}\) lub \(\begin{cases} a = 2 \\ c = 18 \end{cases}\)

@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zad.3 Dłuższa podstawa trapezu równoramiennego ma długość 6 cm, a kąt między przekątną, a tą podstawą jest równy 30°. Oblicz długość krótszej podstawy, jeżeli wysokość trapezu jest równa 2 cm.
+
+1) Tworzymy rysunek poglądowy:
+
+|DE| = a = 2
+
+|BE| = a√3 = 2√3
+
+|BD| = 2a = 4
+
+|BE| = 2√3 => |AE| = 6 - 2√3 = |BF|
+
+|CD| = |EF| = |AB| - |AE| - |BF| = 6 - 2(6 - 2√3) = 4√3 - 6 cm 
+
+Powstały trójkąt DEB jest trójkątem "charakterystycznym" o kątach wewnętrznych 30, 60, 90 stopni. Zależności między długościami boków w takim trójkącie są następujące:
+
+Trapez w tym zadaniu jest równoramienny, więc dla wysokości poprowadzonej z wierzchołka C do podstawy AB w punkcie F, długość |AE| będzie równa |BF|.
+
+Odp. |CD| = 4√3 - 6 cm.

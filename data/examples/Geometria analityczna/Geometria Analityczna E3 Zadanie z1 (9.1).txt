@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Zadanie z1 (9.1) Podaj długość promienia i współrzędne środka okręgu o równaniu
+
+(x - 4)^2 + (y + 1)^2 = 5.
+
+1) Odczytujemy szukane wartości z równania okręgu w postaci kanonicznej:
+
+S(a,b) = (4,-1) i r^2=5 => r=sqrt(5)
+
+Równanie okręgu o środku w punkcie S=(a,b) i promieniu r>0:
+
+(x-a)^2 + (y-b)^2 = r^2
+
+Odp. S(4,-1) , r=sqrt(5).

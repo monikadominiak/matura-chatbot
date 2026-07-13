@@ -1,0 +1,68 @@
+
+--- STRONA 1 ---
+4 logarytmy 3
+
+Przedstaw wyrażenie w postaci logarytmu o podstawie 2:
+
+a) log_{4} 6 + log_{8} 6
+
+b) log_{0,5} 3 + log_{0,25} 3 + log_{0,125} 3
+
+a) log_{4} 6 + log_{8} 6
+
+I sposób - wykorzystanie wzoru na zamianę podstaw logarytmu
+
+log_{a} c = \frac{\log_{b} c}{\log_{b} a}
+
+(1) rozpisujemy oba logarytmy osobno na logarytmy o podstawie 2
+
+log_{4} 6 = \frac{\log_{2} 6}{\log_{2} 4} = \frac{\log_{2} 6}{2} = \frac{1}{2} \log_{2} 6 = \log_{2} 6^{\frac{1}{2}} = \log_{2} \sqrt{6}
+
+log_{x^r} = r \cdot \log_{x}
+
+(2) log_{8} 6 = \frac{\log_{2} 6}{\log_{2} 8} = \frac{\log_{2} 6}{3} = \frac{1}{3} \log_{2} 6 = \log_{2} 6^{\frac{1}{3}} = \log_{2} \sqrt[3]{6}
+
+(3) podstawiamy do wyrażenia początkowego
+
+log_{4} 6 + log_{8} 6 = \log_{2} \sqrt{6} + \log_{2} \sqrt[3]{6} = \log_{2} (\sqrt{6} \cdot \sqrt[3]{6}) = \log_{2} (6^{\frac{1}{2}} \cdot 6^{\frac{1}{3}}) = \log_{2} 6^{\frac{5}{6}}
+
+Odp: \log_{2} 6^{\frac{5}{6}}
+
+II sposób - zastosowanie wzoru
+
+log_{a^n} b = \frac{1}{n} \cdot \log_{a} b
+
+log_{4} 6 + log_{8} 6 = \log_{2^{2}} 6 + \log_{2^{3}} 6 = \frac{1}{2} \log_{2} 6 + \frac{1}{3} \log_{2} 6 = \log_{2} 6^{\frac{1}{2}} + \log_{2} 6^{\frac{1}{3}} = \log_{2} (6^{\frac{1}{2} + \frac{1}{3}}) = \log_{2} 6^{\frac{5}{6}}
+
+Odp: \log_{2} 6^{\frac{5}{6}}
+
+b) log_{0,5} 3 + log_{0,25} 3 + log_{0,125} 3
+
+I sposób - wykorzystanie wzoru na zamianę podstaw logarytmu
+
+log_{a} c = \frac{\log_{b} c}{\log_{b} a}
+
+(3) rozpisujemy oba logarytmy osobno na logarytmy o podstawie 2
+
+(1) log_{0,5} 3 = \frac{\log_{2} 3}{\log_{2} 0,5} = \frac{\log_{2} 3}{-1} = -\log_{2} 3 = \log_{2} 3^{-1}
+
+(4) log_{0,25} 3 = \frac{\log_{2} 3}{\log_{2} \frac{1}{4}} = \frac{\log_{2} 3}{-2} = -\frac{1}{2} \log_{2} 3 = \log_{2} 3^{-\frac{1}{2}}
+
+(5) log_{0,125} 3 = \frac{\log_{2} 3}{\log_{2} 0,125} = \frac{\log_{2} 3}{-3} = -\frac{1}{3} \log_{2} 3 = \log_{2} 3^{-\frac{1}{3}}
+
+--- STRONA 2 ---
+\[ \textbf{I)} \text{ podstawiamy do wzoru początkowego} \]
+
+\[\log_{0,5} 3 + \log_{0,25} 3 + \log_{0,125} 3 = \log_{32} 3^{-4} + \log_{32} 3^{-\frac{1}{2}} + \log_{32} 3^{-\frac{1}{4}} = \log_{32} (3^{-4} \cdot 3^{-\frac{1}{2}} \cdot 3^{-\frac{1}{4}}) = \log_{32} 3^{-\frac{11}{6}}\]
+
+\[\text{Odp: } \log_{32} 3^{-\frac{11}{6}}. \]
+
+\[\textbf{II Sposób - zastosowanie wzoru } \log_{a^{n}} b = \frac{1}{n} \cdot \log_{a} b \]
+
+\[\log_{0,5} 3 + \log_{0,25} 3 + \log_{0,125} 3 = \log_{32} 3 + \log_{32} 3^{2} + \log_{32} 3^{3} = -\frac{1}{\log_{2} 3} + (-\frac{1}{2} \log_{2} 3) + (-\frac{1}{3} \log_{2} 3) = \]
+
+\[= \log_{32} 3^{-1} + \log_{32} 3^{-\frac{1}{4}} + \log_{32} 3^{-\frac{1}{3}} = \log_{32} (3^{-1} \cdot 3^{-\frac{1}{4}} \cdot 3^{-\frac{1}{3}}) = \]
+
+\[= \log_{32} 3^{-\frac{11}{6}} \]
+
+\[\text{Odp: } \log_{32} 3^{-\frac{11}{6}}. \]

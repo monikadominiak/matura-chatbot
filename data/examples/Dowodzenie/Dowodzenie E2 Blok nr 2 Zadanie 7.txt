@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Punkt \( F \) jest środkiem boku \( AD \) prostokąta \( ABCD \), w którym \( AB > BC \). Punkt \( E \) jest takim punktem boku \( AB \) tego prostokąta, że prosta \( CF \) jest dwusieczną kąta \( DCE \). Wykaż, że \(|\angle CFE| = 90^\circ\).
+
+1️⃣ tworzymy rysunek poglądowy i wprowadzamy oznaczenia
+
+w \(\triangle FCD\): \(|\angle DFC| = 90^\circ - \alpha\)
+
+niech \(|\angle AFE| = \beta\), wtedy \(|\angle XFEA| = 90^\circ - \beta\)
+
+2️⃣ mamy oznaczone trzy kąty przyległe do siebie:
+
+\[90^\circ - \alpha + ? + \beta = 180^\circ\]
+
+\[ - \alpha + ? + \beta = 90^\circ\]
+
+czyli teza \( ? = 90^\circ \) jest równoważna tezie \(\alpha = \beta\)
+
+3️⃣ używamy funkcji trygonometrycznej
+
+w \(\triangle AEF\)
+
+\(\tan \beta = \frac{z}{x}\)
+
+w \(\triangle CDF\)
+
+\(\tan \alpha = \frac{x}{y}\)
+
+w \(\triangle CBE\)
+
+\(\tan 2\alpha = \frac{2x}{y-z}\)
+
+na tym etapie chcemy wykazać, że \(\tan \alpha = \tan \beta\), co dla kątów w \(\triangle\) jest równoważne z \(\alpha = \beta\)
+
+z równości \(\tan \beta = \frac{z}{x} = \frac{x}{y} = \tan \alpha\) mamy: 
+
+\[x^2 = yz\]
+
+4️⃣ \(\tan 2\alpha = \frac{2 \tan \alpha}{1 - \tan^2 \alpha}\)
+
+podstawiamy \(\tan 2\alpha\) do wzoru
+
+\[\frac{2x}{y-z} = \frac{2x}{y} \cdot \frac{1}{1 - \frac{x^2}{y^2}} \implies \frac{2x}{y-z} = \frac{2x}{y} \cdot \frac{y^2}{y^2-x^2}\]
+
+\[\implies y(y-z) = y^2 - x^2 \implies y^2 - yz = y^2 - x^2\]
+
+\[\implies x^2 = yz\]
+
+zatem teza jest prawdziwa. c.k.d.

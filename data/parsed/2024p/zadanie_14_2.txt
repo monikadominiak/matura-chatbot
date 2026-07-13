@@ -1,0 +1,20 @@
+=== ARKUSZ: 2024p | ZADANIE 14.2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Funkcja kwadratowa f jest określona wzorem
+
+A. f(x) = −(x + 1)^2 − 9
+B. f(x) = −(x − 1)^2 + 9
+C. f(x) = −(x − 1)^2 − 9
+D. f(x) = −(x + 1)^2 + 9
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

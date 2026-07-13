@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+Zadanie zZ (8.9) Średnia miara kąta wewnętrznego pewnego wypukłego n-kąta jest o 24° mniejsza niż średnia miara kąta wewnętrznego (n+4)-kąta. Oblicz n.
+
+1) Korzystamy ze wzoru na sumę kątów w n-kącie i rozwiązujemy równanie:
+
+Wzór na sumę kątów w n-kącie:
+(n-2)∙180°
+
+\(\frac{(n-2) \cdot 180°}{n} = \frac{(n+2) \cdot 180° - 24°}{n+4}\)
+
+n ≠ 0 \quad n ≠ -1 \quad n ≠ -4 \quad n ≠ 0
+
+\(\frac{180n - 360}{n} = \frac{180n + 360 - 24n - 96}{n+4}\)
+
+Nie możemy dzielić przez zero oraz liczba boków wielokąta musi być dodatnia.
+
+\(\frac{180n - 360}{n} = \frac{156n + 264}{n+4}\)
+
+\(180n^2 + 720n - 360n = 360n + 1440 - 156n + 264n \)
+
+\(24n^2 + 96n - 41640 = 0 \cdot 1:24\)
+
+\(n^2 + 4n - 60 = 0\)
+
+\(n^2 + 4n - 60 = 0\)
+
+\((n+10) \cdot (n-6) = 0\)
+
+\(n+10 = 0 \quad \lor \quad n-6 = 0\)
+
+\(n = -10 \quad n = 6\)
+
+Odp. n = 6.

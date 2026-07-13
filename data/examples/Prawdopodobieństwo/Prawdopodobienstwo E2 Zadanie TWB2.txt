@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Wśród wyrobów pierwszej i drugiej firmy wyroby wadliwe stanowią odpowiednio 4% i 2%. Pierwsza z tych firm dostarcza do hurtowni trzy razy więcej towaru niż druga. W hurtowni zakupiono losowo jedna sztukę towaru. Oblicz prawdopodobieństwo, że zakupiony towar pochodzi z drugiej firmy, jeśli wiadomo, że nie jest wadliwy.
+
+1️⃣ wprowadzamy oznaczenia i tworzymy "drzewko"
+
+```
+       3/4      1/4
+         ↙︎          ↘︎
+I firma   II firma
+ ↙︎    ↘︎        ↙︎    ↘︎
+W      NW     W   NW 
+4%    36%     2%  38%
+```
+
+- B₁ - towar z II firmy
+- B₂ - towar z I firmy
+- A - towar niewadliwy
+
+P(B₁) = 1/4
+
+2️⃣ musimy policzyć P(B₁|A) -> towar z II firmy pod warunkiem, że niewadliwy
+
+wzór bayesa: P(B₁|A) = P(A|B₁)∙P(B₁) / P(A) , gdzie P(A) to prawd. całkowite
+
+3️⃣ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B₁) - określa prawd. dobrego towaru z II fabryki
+czyli P(A|B₁)=0,98
+
+P(A) - prawd. niewadliwego towaru
+
+P(A) = 3/4 ∙ 36/100 + 1/4 ∙ 98/100 = 386/400 *
+
+4️⃣ liczymy docelowe P(B₁|A)
+
+P(B₁|A) = 98/100 ∙ 1/4 / 386/400 = 98/386 = 49/193
+
+Odp: 49/193
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B₁|A) = P(A∩B₁) / P(A), P(A) policzyliśmy już wyżej *
+
+P(A∩B₁) -> prawd. że towar będzie dobry i z II firmy
+
+P(A∩B₁) = 1/4 ∙ 98/100 = 98/400
+
+P(B₁|A) = 98/400 / 386/400 = 49/193

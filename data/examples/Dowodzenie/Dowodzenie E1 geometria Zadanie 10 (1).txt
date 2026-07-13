@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+W trapezie \(ABCD\) o podstawach \(AB\) i \(CD\) przekątne \(AC\) i \(DB\) przecinają się w punkcie \(S\).
+Wykaż, że jeżeli \(|AS| = \frac{5}{6}|AC|\), to pole trójkąta \(ABS\) jest 25 razy większe od pola trójkąta \(DCS\).
+
+1️⃣ tworzymy rysunek poglądowy
+
+\(|AB| \parallel |DC|\)
+
+\(|AS| = \frac{5}{6} |AC|\)
+
+teza: \(P_{ABS} = 25 \cdot P_{DCS}\)
+
+2️⃣ zauważamy podobieństwo trójkątów \(ABS\) i \(DCS\)
+
+\[
+\begin{cases} 
+  \text{kąty zaznaczone na \textcolor{blue}{niebiesko} - kąty wierzchołkowe} \\
+  \text{kąty } \alpha \text{ i } \beta \text{ - kąty naprzemianległe} \\
+\end{cases}
+\]
+
+zatem \(\triangle DCS \sim \triangle ABS\) z cechy kkk
+
+(takie podobieństwo występuje w każdym trapezie)
+
+3️⃣ liczymy skalę podobieństwa 
+
+\(k = \frac{|SC|}{|AS|} = \frac{x}{5x} = \frac{1}{5}\)
+
+\[
+\begin{align*}
+\text{zatem} & \quad \frac{h_2}{h_1} = \frac{1}{5} \quad \Rightarrow \quad h_1 = 5h_2 \\
+\text{oraz} & \quad \frac{|DC|}{|AB|} = \frac{1}{5} \quad \Rightarrow \quad a = 5b
+\end{align*}
+\]
+
+4️⃣ zapisujemy pola
+
+\[
+\begin{align*}
+P_{ABS} &= \frac{1}{2} \cdot 5b \cdot 5h_2 = \frac{25}{2}bh_2 \\
+P_{DCS} &= \frac{1}{2} \cdot b \cdot h_2
+\end{align*}
+\]
+
+\((\text{zauważmy, że dla skali } k, \text{ stosunek pól } = k^2)\)
+
+\[
+\frac{P_{DCS}}{P_{ABS}} = \frac{\frac{1}{2}bh_2}{\frac{25}{2}bh_2} 
+\]
+
+\[
+P_{ABS} = 25P_{DCS}
+\]
+
+\text{c. k. d.}

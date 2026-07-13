@@ -1,0 +1,116 @@
+
+--- STRONA 1 ---
+zZ (2.4)
+
+Znajdź te wartości parametru m, dla których funkcja \( f(x) = x^2 + mx + 9 \) ma dwa miejsca zerowe większe od 2.
+
+\( f(x) = x^2 + mx + 9 \)
+
+\( a = 1 \)  
+\( b = m \)  
+\( c = 9 \)
+
+\( 1^o \quad \Delta > 0 \)  < - dwa miejsca zerowe traktujemy, tak jak dwa różne miejsca zerowe
+
+\( 2^o_I \begin{cases} f(2)>0 \\ \rho > 2 \end{cases} \)  < - dwa miejsca zerowe mają być większe od 2 - Sposób I
+
+\( 2^o_{II} \begin{cases} x_1 > 2 \\ x_2 > 2 \end{cases} \)  < - dwa miejsca zerowe mają być większe od 2 - Sposób II
+
+2️⃣ Rozwiązanie pierwszego z warunków
+
+\( 1^o \quad \Delta > 0 \)
+
+\( \Delta = b^2 - 4 \cdot a \cdot c \)  
+\( m^2 - 4 \cdot 1 \cdot 9 > 0 \)
+
+\( m^2 - 36 > 0 \)  
+\( (m - 6)(m + 6) > 0 \)
+
+\( m = 6 \quad \lor \quad m = -6 \)
+
+\( m \in (-\infty, -6) \cup (6, \infty) \)
+
+3️⃣ Rozwiązanie drugiego z warunków - dwa sposoby
+
+Sposób I
+
+\( f(2) > 0 \)
+
+\( 2^2 + 2m + 9 > 0 \)  
+\( 2m + 13 > 0 \quad |-13 \)  
+\( 2m > -13 \quad |: 2 \)  
+\( m > -\frac{13}{2} \)
+
+\( \rho = -\frac{b}{2a} \)
+
+\( \rho > 2 \)
+
+\( -\frac{m}{2 \cdot 1} > 2 \quad | \cdot 2 \)
+
+\( -m > 4 \quad | \cdot (-1) \)
+
+\( m < -4 \)
+
+\(\therefore m \in \left(-\frac{13}{2}, -4\right)\)
+
+Sposób II
+
+\(\begin{cases} x_1 > 2 \\ x_2 > 2 \end{cases} => \begin{cases} x_1 - 2 > 0 \\ x_2 - 2 > 0 \end{cases} => \begin{cases} (x_1 - 2) + (x_2 - 2) > 0 \\ (x_1 - 2)(x_2 - 2) > 0 \end{cases} =>\)
+
+\(\begin{cases} x_1 + x_2 > 4 \\ x_1 \cdot x_2 - 2(x_1 + x_2) + 4 > 0 \end{cases} \)
+
+(1)  
+(2)
+
+--- STRONA 2 ---
+(1) x_1 + x_2 > 4
+
+\[
+\text{Wzory Viete'a}
+\]
+
+\[
+x_1 + x_2 = -\frac{b}{a} \quad x_1 \cdot x_2 = \frac{c}{a}
+\]
+
+\[
+-m > 4
+\]
+\[
+-m \geq 4 \, | \cdot (-1)
+\]
+\[
+m \leq -4
+\]
+
+(2) x_1 \cdot x_2 - 2(x_1 + x_2) + 4 > 0
+
+\[
+9 - 2(-m) + 4 > 0
+\]
+\[
+13 + 2m > 0
+\]
+
+\[
+2m > -13
+\]
+\[
+m > -\frac{13}{2}
+\]
+
+Zatem m \in \left(-\frac{13}{2}, -4\right)
+
+\[
+\large{\text{4)}} \ \ \text{Wyznaczenie części wspólnej rozwiązań do warunków}
+\]
+
+1^\circ \ \ m \in (-\infty, -6) \cup (6, \infty)
+
+2^\circ \ \ m \in \left(-\frac{13}{2}, -4\right)
+
+Zatem m \in \left(-\frac{13}{2}, -6\right)
+
+\[
+\text{Odp: } m \in \left(-\frac{13}{2}, -6\right).
+\]

@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zad.2 Uprość wyrażenie, dla x < 0:
+
+a) \sqrt{x^2} + x \quad b) \sqrt{(x-3)^2} - \sqrt{x^2} \quad c) \sqrt{x^2-4x+4+x}
+
+1) Korzystamy ze wzoru \sqrt{a^2} = |a| i opuszczamy wart. bezwgl. zgodnie z założeniem x < 0:
+
+a) \ \sqrt{x^2} = |x|
+
+x < 0, więc \ |x| = -x
+
+\sqrt{x^2} + x = |x| + x = -x + x = 0 \quad \text{Odp. a) 0.}
+
+b) \ \sqrt{(x-3)^2} = |x-3| = 
+\begin{cases} 
+x-3 \ \text{dla} \ x-3 \geq 0 \rightarrow x \geq 3 \\
+-(x-3) \ \text{dla} \ x-3 < 0 \rightarrow x < 3
+\end{cases}
+
+x < 0, więc \ |x-3| = -x + 3
+
+\sqrt{x^2} = |x|
+
+x < 0, więc \ |x| = -x
+
+\sqrt{(x-3)^2} - \sqrt{x^2} = |x-3| - |x| = -x + 3 - (-x) = 3 \quad \text{Odp. b) 3.}
+
+c) \ \sqrt{x^2-4x+4} = \sqrt{(x-2)^2} = |x-2| = 
+\begin{cases} 
+x-2 \ \text{dla} \ x-2 \geq 0 \rightarrow x \geq 2 \\
+-x+2 \ \text{dla} \ x-2 < 0 \rightarrow x < 2
+\end{cases}
+
+x < 0, więc \ |x-2| = -x + 2
+
+\sqrt{x^2-4x+4} + x = -x + 2 + x = 2 \quad \text{Odp. c) 2.}

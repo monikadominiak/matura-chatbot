@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Zadanie 17
+
+Funkcja f i g są określone wzorami f(x) = log_2(x + 2) i g(x) = log_2(x + 2) + 1. Oblicz wartości x dla których spełniony jest warunek 2g(x) – f(x) = 0.
+
+1️⃣ Wyznaczamy dziedzinę.
+
+D: x + 2 > 0
+    x > -2
+
+D=(-2,+\infty)
+
+2️⃣ Rozwiązujemy  2g(x) - f(x) = 0.
+
+2log_2(x+2)+2-log_2(x+2)=0
+
+log_2(x+2)^1+log_2 4-log_2(x+2)=0
+
+(log_2(x+2)^2⋅4)-log_2(x+2)=0
+
+log_2(4(x+2)^2)/(x+2)=0
+
+4(x+2)=1
+
+x+2=\frac{1}{4}
+
+x=-\frac{7}{4}
+
+Odp.: x=-\frac{7}{4}.

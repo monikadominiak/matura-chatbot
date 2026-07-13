@@ -1,0 +1,17 @@
+=== ARKUSZ: 2020p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9. (0-1)
+Osią symetrii paraboli będącej wykresem funkcji f jest prosta o równaniu
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $x=1$
+B. $x=2$
+C. $y=1$
+D. $y=2$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 9. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający wykorzystuje własności funkcji liniowej i kwadratowej do interpretacji zagadnień geometrycznych, fizycznych itp. (także osadzonych w kontekście praktycznym) (4.12).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C

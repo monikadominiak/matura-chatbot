@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Uzasadnij, że jeżeli α, β, γ są kątami trójkąta i \(\frac{\sin\alpha}{\sin\beta} = 2\cos\gamma\), to ten trójkąt jest równoramienny.
+
+założenia: \(\frac{\sin\alpha}{\sin\beta} = 2\cos\gamma\)
+
+teza: Δ jest równoramienny \(\rightarrow\) czyli jakieś dwa kąty spośród α, β, γ są sobie równe
+
+① α, β, γ - kąty w Δ, zatem \(\alpha + \beta + \gamma = 180^\circ \Rightarrow \gamma = 180^\circ - (\alpha + \beta)\)
+
+② przekształcamy równoważnie założenie:
+
+\(\frac{\sin\alpha}{\sin\beta} = 2\cos\gamma \Rightarrow \sin\alpha = 2\cos\gamma\sin\beta\)
+
+\(\Rightarrow \sin\alpha = -2\cos(\alpha + \beta)\sin\beta \quad \text{cos}(180^\circ-(\alpha+\beta)) = -\cos(\alpha+\beta)\)
+
+\(\Rightarrow \sin\alpha = -2\sin\beta\cdot \cos(\alpha + \beta)\)
+
+\(\Rightarrow \sin\alpha = -2 \cdot \frac{1}{2}(\sin(-\alpha) + \sin(\alpha + 2\beta))\)
+
+\(\Rightarrow \sin\alpha = \sin\alpha - \sin(\alpha + 2\beta)\)
+
+\(\Rightarrow \sin(\alpha + 2\beta) = 0\)
+
+\(\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\boxed{\sin \alpha \cdot \cos \beta = \frac{1}{2}[\sin(\alpha + \beta) + \sin(\alpha - \beta)]} \)
+
+③ mamy więc równanie:
+
+\(\sin(\alpha + 2\beta) = 0\)
+
+\(\quad\quad\quad\quad\quad\quad\quad\quad \alpha + 2\beta = k\pi \, , k \in \mathbb{Z}\)
+
+ale α, β to kąty \(\in (0^\circ, 180^\circ)\)
+
+więc \(\alpha + 2\beta = 180^\circ\)
+
+z ①: \(\alpha + 2\beta = \alpha + \beta + \gamma\)
+
+\(\beta = \gamma\)
+
+zatem Δ ten jest równoramienny c.k.d.

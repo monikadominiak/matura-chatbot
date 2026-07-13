@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Uzasadnij, że dla dowolnych dodatnich liczb rzeczywistych \( x, y \) takich, że \( y < x \),
+i dla dowolnej ujemnej liczby rzeczywistej \( p \), prawdziwa jest nierówność \( \frac{x}{y} > 2 - \frac{y-p}{x-p} \).
+
+założenie: \( y < x \ , \ x, y > 0 \ , \ p < 0 \)
+
+teza: \( \frac{x}{y} > 2 - \frac{y-p}{x-p} \)
+
+\(\large \textcolor{deepskyblue}{1}\) przekształcamy równoważnie tezę:
+
+\( \frac{x}{y} > 2 - \frac{y-p}{x-p} \)
+
+\(\quad \quad \quad \quad \ \ \ \overbrace{}^{>0 \ \textcolor{mediumpurple}{2}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \overbrace{}^{>0 \ \textcolor{mediumpurple}{2}} \)
+
+\(\quad \quad \quad \quad / \cdot \ y(x-p) > 0 \)
+
+\( x(x-p) > 2y(x-p)-y(y-p) \)
+
+\( x^2-xp > 2xy-2py-y^2+py \)
+
+\( x^2-2xy+y^2-xp+py > 0 \)
+
+\( (x-y)^2-p(x-y) > 0 \)
+
+\[\large \textcolor{lime}{1}\ \ \quad \quad \quad \quad \ \ \ \ \quad \textcolor{lime}{2}\]
+
+\(\large \textcolor{deepskyblue}{2}\) komentarz:
+
+\(\large \textcolor{lime}{1}\) kwadrat dowolnej liczby jest zawsze liczbą nieujemną
+
+\(\large \textcolor{lime}{2}\) \( p \) z założenia \( < 0 \), więc \( -p >0 \),
+również z założenia \( x-y > 0 \) , \( y < x \)
+więc \(-p(x-y) > 0\)
+
+suma liczby nieujemnej i dodatniej jest dodatnia
+
+c.k.d.

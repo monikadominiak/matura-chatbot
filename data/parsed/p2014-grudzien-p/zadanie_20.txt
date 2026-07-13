@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: G9.4. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych.
+Poprawna odpowiedź: A
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

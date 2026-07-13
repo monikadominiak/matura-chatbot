@@ -1,0 +1,22 @@
+=== ARKUSZ: 2024p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0–1)
+Średnia arytmetyczna trzech liczb: a, b, c, jest równa 9.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Średnia arytmetyczna sześciu liczb: a, a, b, b, c, c, jest równa
+
+A. 9
+B. 6
+C. 4,5
+D. 18
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

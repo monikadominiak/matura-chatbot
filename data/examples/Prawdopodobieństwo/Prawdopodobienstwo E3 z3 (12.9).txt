@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+O zdarzeniach \( A, B \subset \Omega \). wiemy, że P(A) = P(B) = \(\frac{1}{3}\) i \(P(A \cap B) = \frac{1}{6}\).  
+Oblicz: a) \(P(A \cup B)\), b) \(P(B-A)\)
+
+\(\circled{1}\) **DANE:**
+
+\[
+\begin{cases} 
+P(A) = \frac{1}{3} \\ 
+P(B) = \frac{1}{3} \\ 
+P(A \cap B) = \frac{1}{6} 
+\end{cases}
+\]
+
+**DO OBLICZENIA:**
+
+a) \(P(A \cup B)\)  
+
+b) \(P(B-A)\)  
+
+\(\circled{2}\) a) \(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)
+
+\(P(A \cup B) = \frac{1}{3} + \frac{1}{3} - \frac{1}{6} = \frac{4}{6} - \frac{1}{6} = \frac{1}{2}\) 
+
+\( \text{odp: } \frac{1}{2} \)
+
+\(\circled{3}\) b) \(P(B-A) = P(B) - P(A \cap B)\)
+
+\(P(B-A) = \frac{1}{3} - \frac{1}{6} = \frac{2}{6} - \frac{1}{6} = \frac{1}{6}\) 
+
+\( \text{odp: } \frac{1}{6} \)
+
+**DODATEK:** 
+
+możemy wykorzystać diagram Venna
+
+\[ 
+\text{A: } \frac{1}{3} - \frac{1}{6} = \frac{1}{6} 
+\]
+
+\[ 
+\text{B: } \frac{1}{3} - \frac{1}{6} = \frac{1}{6} 
+\]

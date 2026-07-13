@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zadanie z1 (9.5) Dane są wektory \(\vec{u} = \begin{bmatrix} -3, & 2 \end{bmatrix}\) i \(\vec{w} = \begin{bmatrix} -1, & 4 \end{bmatrix}\). Oblicz współrzędne wektora \(\vec{v}\), jeśli \(\vec{v} = 2(\vec{u} - 3\vec{w}) - \vec{u}\).
+
+a) Podstawiamy wektory \(\vec{w}\) oraz \(\vec{u}\) do wzoru i wyznaczamy \(\vec{v}\):
+
+Wskazówka: w zadaniach należy wykorzystać podstawowe własności wektorów i karty wzorów.
+
+Dla wektorów \(\vec{u} = \begin{bmatrix} u_1, u_2 \end{bmatrix}\), \(\vec{v} = \begin{bmatrix} v_1, v_2 \end{bmatrix}\) oraz liczby \(a\), zachodzi: 
+
+\(a \cdot \vec{u} = \begin{bmatrix} a \cdot u_1, & a \cdot u_2 \end{bmatrix}\)
+
+\(\vec{u} + \vec{v} = \begin{bmatrix} u_1 + v_1, & u_2 + v_2 \end{bmatrix}\)
+
+\(\vec{v} = 2(\vec{u} - 3\vec{w}) - \vec{u} = 2\vec{u} - 6\vec{w} - \vec{u} = \vec{u} - 6\vec{w} = \begin{bmatrix} -3, 2 \end{bmatrix} - 6 \begin{bmatrix} -1, 4 \end{bmatrix} = \begin{bmatrix} -3, 2 \end{bmatrix} - \begin{bmatrix} -6, 24 \end{bmatrix} = \begin{bmatrix} 3, -22 \end{bmatrix}\)
+
+Odp.: \(\vec{v} = \begin{bmatrix} 3, -22 \end{bmatrix}\).

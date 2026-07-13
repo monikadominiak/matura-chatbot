@@ -1,0 +1,16 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1.6. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Poprawna odpowiedź: D
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0–4)
+Dany jest punkt A = (-18, 10). Prosta o równaniu y = 3x jest symetralną odcinka AB. Wyznacz współrzędne punktu B.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

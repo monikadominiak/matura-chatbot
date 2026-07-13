@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Zadanie 16
+
+Dla jakich argumentów funkcja \( f(x) = \log_4 (x + 7) \) przyjmuje wartości większe niż funkcja \( g(x) = \log_2 (x + 1) \)?
+
+1️⃣ Zmieniamy podstawę logarytmu w \( f(x) \).
+
+\( f(x) = \frac{\log_2 (x+7)}{\log_2 4} = \log_2 (x+7)^{\frac{1}{2}} \)
+
+2️⃣ Obliczamy dziedzinę nierówności \( f(x) > g(x) \).
+
+\[
+D: \quad x+7 > 0 \quad x > -7 \\
+\phantom{D: \quad} x+1 > 0 \quad x > -1
+\]
+
+\( D = (-1, +\infty) \)
+
+3️⃣ Obliczamy \( f(x) > g(x) \).
+
+\[
+\log_2 (x+7)^{\frac{1}{2}} > \log_2 (x+1) \\
+(x+7)^{\frac{1}{2}} > (x+1)
+\]
+
+\( x+7 > (x+1)^2 \) \(\quad \rightarrow \text{Podnosimy do potęgi 2, bo obie strony są dodatnie.}\)
+
+\[
+x+7 > x^2 + 2x + 1 \\
+x^2 + x - 6 < 0
+\]
+
+\[
+\Delta = 1 + 24 = 25 \\
+x_1 = \frac{-1-5}{2} = -3 \\
+x_2 = \frac{-1+5}{2} = 2
+\]
+
+\[
+\begin{cases}
+x \in (-3, 2) \\
+x \in (-1, +\infty)
+\end{cases}
+\quad \Rightarrow \quad x \in (-1, 2)
+\]
+
+Odp.: \( x \in (-1, 2) \).

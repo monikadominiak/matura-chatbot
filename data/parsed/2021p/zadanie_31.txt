@@ -1,0 +1,10 @@
+=== ARKUSZ: 2021p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-2)
+Funkcja liniowa f przyjmuje wartość 2 dla argumentu 0, a ponadto f(4) - f(2) = 6.
+Wyznacz wzór funkcji f.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

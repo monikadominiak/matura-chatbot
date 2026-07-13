@@ -1,0 +1,14 @@
+=== ARKUSZ: 2022p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0–1)
+Boki równoległoboku mają długości 6 i 10, a kąt rozwarty między tymi bokami ma miarę 120°.
+Pole tego równoległoboku jest równe
+A. 30√3
+B. 30
+C. 60√3
+D. 60
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

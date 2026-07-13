@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Samochód jadący po prostoliniowym odcinku drogi minął punkt kontrolny K. 
+Odległość punktu K, w jakiej znajdował się samochód po upływie t sekund wynosi 
+s(t) = 2t + 1,5t^2, gdzie s wyrażone jest w metrach. Oblicz prędkość samochodu 
+w chwili, gdy znalazł się w odległości 112 metrów od punktu K.
+
+UWAGA: pochodna z def. określa szybkość zmian wartości danej funkcji
+więc V(t) = s'(t)
+
+s(t) = 2t + 1,5t^2
+
+➊ wyznaczamy pochodną funkcji s
+s'(t) = 3t + 2 = v(t)
+
+➋ musimy teraz policzyć wartość t dla 112 m
+
+2t + 1,5t^2 = 112 /.2
+
+3t^2 + 4t - 224 = 0
+
+Δ = 16 + 4·224·3 = 2704  sqrt(Δ) = 52
+
+t_1 = (-4-52)/6 < 0 \sparte 
+
+t_2 = (-4+52)/6 = 8 s
+
+➌ obliczamy prędkość w 8 sekundzie
+
+V(8) = 3·8 + 2 = 26 m/s
+
+odp: v = 26 m/s

@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+z1 (6.10)
+
+Wyznacz te wartości x, dla których szereg geometryczny 2^x + 4^x + 8^x + ... jest zbieżny.
+
+Uwaga: szereg zbieżny to taki, którego wszystkie wyrazy (nieskończenie wiele wyrazów) sumują się do konkretnej skończonej liczby.
+
+① Wyznaczamy x.
+
+Warunkiem zbieżności szeregu geometrycznego jest |q|<1 => -1<q<1
+
+Można zauważyć, że w szeregu z treści zadania zachodzi:
+
+\[q = \frac{a_2}{a_1} = \frac{4^x}{2^x} = \left(\frac{4}{2}\right)^x = 2^x\]
+
+Należy więc rozwiązać nierówność wykładniczą.
+
+\[ -1 < 2^x < 1 \]
+
+\[ 2^x > -1 \]
+
+\[ y = 2^x \]
+
+\[ x \in \mathbb{R} \]
+
+Z wykresu funkcji y = 2^x widać, że nie przyjmuje ona wartości ujemnych, czyli tym samym dla dowolnego argumentu przyjmuje wartość >= -1.
+
+\[ 2^x < 1 \]
+
+\[ 2^x < 2^0 \]
+
+\[ x < 0 \]
+
+\[ x \in (-\infty, 0) \]
+
+Uwaga: gdyby podstawa potęgi była ułamkiem z przedziału (0,1), wówczas odwrócilibyśmy znak nierówności. Przykład: \[\left(\frac{1}{2}\right)^x < 4 \Rightarrow \left(\frac{1}{2}\right)^{x-(-2)} = 2^{x-2}\]
+
+② Wyznaczamy część wspólną.
+
+\[ x \in \mathbb{R} \]
+\[ x \in (-\infty, 0) \Rightarrow x \in (-\infty, 0) \]
+
+Odp.: x ∈ (-∞, 0).

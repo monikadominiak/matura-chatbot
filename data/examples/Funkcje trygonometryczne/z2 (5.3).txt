@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+z2 (5.3)
+
+Rozwiąż równanie sin x - cos x + 1 = sin x · cos x.
+
+Można w takiej sytuacji poszukać możliwości wyłączenia przed nawias wspólnego czynnika po uprzednim przerzuceniu na jedną stronę.
+
+1️⃣ Przenosimy na jedną stronę, i wyłączamy wspólny czynnik przed nawias.
+
+sin x - cos x + 1 = sin x cos x
+
+sin x - cos x + 1 - sin x cos x = 0
+
+sin x (1 - cos x) + (1 - cos x) = 0
+
+(1 - cos x) (sin x + 1) = 0
+
+1 - cos x = 0           sin x + 1 = 0
+
+cos x = 1                sin x = -1
+
+x = 2kπ                 x = 3π/2 + 2kπ,   k ∈ ℤ.
+
+Odp.:  x = 2kπ,  x = 3π/2 + 2kπ,  k ∈ ℤ.

@@ -1,0 +1,95 @@
+
+--- STRONA 1 ---
+z4 (2.1), (2.2)
+
+Równanie 2x^2 + bx + 5 = 0 ma dwa dodatnie pierwiastki. Kwadrat różnicy pierwiastków tego równania jest równy 6. Wyznacz wartość współczynnika b.
+
+2x^2 + bx + 5 = 0
+
+a = 2  
+b = b  
+c = 5
+
+1. Wyznaczenie warunków wynikających z treści zadania
+
+1° Δ > 0 ← dwa pierwiastki, muszą być one różne ze względu na dalszą treść, związaną z kwadratem różnicy pierwiastków
+
+2° (x_1 + x_2 > 0  
+  x_1 * x_2 > 0 ← dwa dodatnie pierwiastki
+
+3° (x_1 - x_2)^2 = 6 ← kwadrat różnicy pierwiastków jest równy 6
+
+2. Rozwiązanie pierwszego z warunków
+
+1° Δ > 0
+
+Δ = b^2 - 4 * a * c
+
+b^2 - 4 * 2 * 5 > 0  
+b^2 - 40 > 0  
+(b - sqrt(40))(b + sqrt(40)) > 0
+
+b = sqrt(40)  
+b = -sqrt(40)
+
+b ∈ (-∞, -sqrt(40)) ∪ (sqrt(40), +∞)
+
+3. Rozwiązanie drugiego z warunków
+
+2° (x_1 + x_2 > 0  
+    x_1 * x_2 > 0
+
+x_1 + x_2 > 0
+
+Korzystamy ze wzoru Viete'a
+
+x_1 + x_2 = -b/a  
+x_1 * x_2 = c/a
+
+x_1 + x_2 > 0
+
+-b/2 > 0 | * 2  
+-b > 0 | * (-1)  
+6 < 0
+
+5/2 > 0  
+b ∈ ℝ
+
+Zatem b < 0
+
+4. Rozwiązanie trzeciego z warunków
+
+(x_1 - x_2)^2 = 6
+
+Lewa strona równania:
+
+{(a + b)^2 = a^2 + 2ab + b^2  
+-(a - b)^2 = a^2 - 2ab + b^2}
+
+Wzory skróconego mnożenia
+
+--- STRONA 2 ---
+(a+b)^2-(a-b)^2  4ab |-(a+b)^2
+-(x-b)=-(a+b)^2+4ab |(-1)
+(a-b)^2=(a+b)^2-4ab
+
+Zatem:
+
+(x_1 + x_2)^2 - 4 \cdot x_1 \cdot x_2 = 6 \
+\left(\frac{-b}{2}\right)^2 - 4 \cdot \frac{5}{4} = 6 \
+\frac{1}{4}b^2 - 10 = 6 \ | \cdot 4 \
+b^2 - 40 = 24 \ | +40 \
+b^2 = 64
+
+b = 8 \ \lor \ b = -8
+
+Konstytuty ze wzoru Viete'a
+
+☉ Wyznaczenie części wspólnej rozwiązań wszystkich warunków
+
+1^o \ b \in (-\infty ; -\sqrt{40}) \cup (\sqrt{40} ; \infty) \
+2^o \ b < 0 \
+3^o \ b \in \{-8, 8\} \
+Zatem \ b = -8
+
+Odp: m = -8.

@@ -1,0 +1,9 @@
+=== ARKUSZ: 2022p | ZADANIE 34 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 34. (0–2)
+Ze zbioru dziewięcioelementowego 𝑀 = {1, 2, 3, 4, 5, 6, 7, 8, 9} losujemy kolejno ze zwracaniem dwa razy po jednej liczbie. Zdarzenie 𝐴 polega na wylosowaniu dwóch liczb ze zbioru 𝑀, których iloczyn jest równy 24. Oblicz prawdopodobieństwo zdarzenia 𝐴.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

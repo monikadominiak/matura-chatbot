@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Funkcja f określona w przedziale (0, 2) – dana jest wzorem 
+f(x) = sqrt(x^3 - 9x^2 + 15x + 1). Wyznacz największą wartość funkcji f.
+
+1️⃣ wyznaczamy pochodną funkcji f
+
+I sposób
+funkcja f(a)=a jest rosnąca w przedziale ⟨0;+∞⟩,
+więc funkcja g(a)=a będzie osiągać wartość największą
+dla tego samego argumentu co f(a).
+niech K(x) = x^3 - 9x^2 + 15x + 1
+
+wtedy K'(x) = 3x^2 - 18x + 15 = 3(x^2 - 6x + 5)
+
+II sposób pochodna funkcji złożonej
+
+f'(x) = 1 / 2sqrt(x^3 - 9x^2 + 15x + 1) * (3x^2 - 18x + 15) =
+        (3(x^2 - 6x + 5)) / 2sqrt(x^3 - 9x^2 + 15x + 1)   } > 0 zawsze
+
+2️⃣ szukamy miejsca zerowe pochodnej
+i badamy monotoniczność i ekstrema funkcji 
+
+w I sposobie analizujemy wyrażenie 3(x^2 - 6x + 5),
+
+w II sposobie widzimy że mianownik > 0, więc na znak
+pochodnej wpływ ma licznik, który jest równy wyrażeniu z I
+
+K'(x) = 0 ⟺ 3(x^2 - 6x + 5) = 0
+            3(x - 5)(x - 1) = 0
+             x = 5 ∨ x = 1
+
+Funkcja K(x), a tym samym f(x) osiąga w swojej
+dziedzinie wartość największą dla argumentu: 
+x = 1
+
+f_max = f(1) = sqrt(1 - 9 + 15 * 1 + 1) = sqrt(8) = 2sqrt(2)
+
+Odp: 2sqrt(2)

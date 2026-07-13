@@ -1,0 +1,84 @@
+
+--- STRONA 1 ---
+**W ostrosłupie prawidłowym czworokątnym o krawędzi bocznej mającej długość b, dana**  
+**poprowadzono płaszczyznę zawierającą krawędź boczną i wysokość ostrosłupa.**  
+**Wiedząc, że otrzymany przekrój ma największe pole powierzchni, oblicz długość**  
+**krawędzi podstawy tego ostrosłupa.**
+
+① _uzależniamy od siebie zmienne_
+
+h^2 + (a/2)^2 = b^2
+
+h^2 = b^2 - 1/2 a^2
+
+h = sqrt(b^2 - 1/2 a^2)
+
+② _zapisujemy wzór funkcji_ 
+
+P(a) = 1/2 a sqrt(2) * sqrt(b^2 - 1/2 a^2) = sqrt(2)/2 * sqrt(a^2b^2 - 1/2 a^4)
+
+③ _wyznaczamy dziedzinę funkcji_
+
+a^2b^2 - 1/2 a^4 > 0        ;  a > 0
+
+-1/2 a^2 (a^2 - 2b^2) > 0     => a ∈ (0, b sqrt(2))
+    
+-1/2 a^2 (a - b sqrt(2))(a + b sqrt(2)) > 0
+
+④ _wyznaczamy pochodną funkcji_
+
+I sposób _pomijamy pierwiastek_
+
+_k(a) = a^2b^2 - 1/2 a^4_
+
+k'(a) = -2a^3 + 2b^2 a
+
+II sposób _pochodna funkcji złożonej_
+
+P'(a) = sqrt(2)/2 * 1/2 sqrt(a^2b^2 - 1/2 a^4)^(-1) * (-2a^3 + 2b^2a)
+
+_(zauważmy, że w II mianownik jest > 0, więc będziemy analizować licznik, pod względem analizy miejsc_
+
+_zerowych da ten sam wynik co y’(x) z I)_
+
+⑤ _wyznaczamy miejsca zerowe pochodnej_
+
+k'(a) = 0 <=> -2a^3 + 2b^2a = 0
+
+-2a(a^2 - b^2) = 0
+
+a = 0  v  a = b  v  a = -b
+
+⑥ _badamy monotoniczność i ekstrema funkcji_
+
+            I sposób:
+            
+            k'(a)
+            
+            -b      0                b       a
+            
+       ----|----|----------------|----|----> a
+            
+                max               min        max
+
+            monot.
+
+                               
+            II sposób:
+
+| x      | (0, b) | b | (b, b sqrt(2)) |
+|--------|--------|-------|----------|
+| f'(x)  |   +    |   0   |    -     |
+| f(x)   |⬈ max.|    lok.⬊          |
+
+_Funkcja K(a), a więc_
+
+_również P(a) osiąga_
+
+_w swojej dziedzinie wartość_
+
+_największą dla argumentu_
+
+_a = b_
+
+odp: a = b

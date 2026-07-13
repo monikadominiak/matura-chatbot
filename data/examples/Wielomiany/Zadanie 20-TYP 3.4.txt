@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zadanie 20 [3pkt] - TYP 3.4 (metoda 1 i 2)
+
+Rozwiąż nierówność: 2x^5 - x^4 - 2x^3 + x^2 - 4x + 2 < 0
+
+\( 2x^5 - x^4 - 2x^3 + x^2 - 4x + 2 < 0 \)
+
+Grupujemy:
+
+\( 2x(x^4-x^2-2) - 1(x^4-x^2-2) < 0 \)
+
+\( (x^4-x^2-2)(2x-1) < 0 \)
+
+\( x^4-x^2-2 = 0 \)
+
+\( Podstawiamy \ t = x^2 \)
+
+\( t^2 - t - 2 = 0 \)
+
+\( Δ = b^2 - 4 \cdot a \cdot c \)
+
+\( x_1 = \frac{-b - \sqrt{Δ}}{2a} \quad x_2 = \frac{-b + \sqrt{Δ}}{2a} \)
+
+Δ = 1+8=9
+
+√Δ = 3
+
+\( x_1 = \frac{1-3}{2} = -1 \)
+
+\( x_2 = \frac{1+3}{2} = 2 \)
+
+\( \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \) Wracając do t=x^2
+
+-1 ≠ x^2
+
+\( \ \ \ \ \ \ \ \ \ \ 2 = x^2 \)
+
+\( \ \ \ \ \ \ \ x_3 = \sqrt{2} \ \ \ \ x_4 = -\sqrt{2} \)
+
+\( 2x-1=0 \)
+
+\( 2x = \frac{1}{2} \)
+
+\( x_1 = \frac{1}{2} \)
+
+Zatem wykres funkcji będzie mieć postać:
+
+Odp: \( x ∈ (-∞, -\sqrt{2}) ∪(\frac{1}{2}, \sqrt{2}) \).

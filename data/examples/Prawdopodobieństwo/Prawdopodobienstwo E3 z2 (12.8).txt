@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Oblicz prawdopodobieństwo, że w trzech rzutach symetryczną kostką sześcienną suma A kwadratów liczb wyrzuconych oczek będzie podzielna przez 3.
+
+1️⃣ analizujemy polecenie
+
+3 x rzut {1,2,3,4,5,6}, suma kwadratów podzielna przez 3
+
+2️⃣ sprawdźmy jak pod względem podzielności zachowują się typy liczb podzielnych przez 3:
+
+kwadrat liczby podzielnej przez 3:
+
+n ∈ N \ \ \ \ \ (3n)^2 = 9n^2 = 3 \cdot 3n^2 , \ a ∈ Z \ \ \ \ \Rightarrow podzielne
+
+kwadrat liczby niepodzielnej przez 3, z resztą 1 i resztą 2
+
+(3n+1)^2 = 9n^2 + 6n + 1 = 3 \cdot (3n^2 + 2n) + 1 , \ b ∈ Z \ \Rightarrow reszta = 1
+
+(3n+2)^2 = 9n^2 + 12n + 4 = 3 \cdot (3n^2 + 4n + 1) + 1 , \ c ∈ Z \ \Rightarrow reszta = 1
+
+3️⃣ zatem na zdarzenie A składają się przypadki:
+
+• trzy podzielne \ \ \ P(A_1) = \left(\frac{1}{3}\right)^3
+
+• trzy niepodzielne \ \ (1+1+1=3) \ \ \ P(A_2) = \left(\frac{2}{3}\right)^3
+
+4️⃣ \ \ P(A) = \frac{1}{27} + \frac{8}{27} = \frac{9}{27} = \frac{1}{3}
+
+odp: \frac{1}{3}

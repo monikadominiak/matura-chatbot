@@ -1,0 +1,95 @@
+
+--- STRONA 1 ---
+Zadanie 7 [5 pkt]- TYP 2.2
+
+Wyznacz wartości parametru m, dla których dwa różne pierwiastki x₁ i x₂ równania (4 - m)x² + (m - 4)x + 2 = 0 spełniają nierówność
+1/x₁ + 1/x₂ > 1.
+
+(4 - m)x² + (m - 4)x + 2 = 0
+
+a = 4 - m 
+b = m - 4 
+c = 2
+
+❶ Zapisanie warunków wynikających z treści zadania.
+
+1° a ≠ 0    równanie ma mieć dwa różne 
+               rozwiązania, zatem musi być 
+               to funkcja kwadratowa -
+               współczynnik przy x² nie może być 0
+
+2° Δ > 0   =   dwa różne rozwiązania, nie
+               bierzemy pod uwagę podwójnych
+               miejsc zerowych.
+
+3° 1/x₁ + 1/x₂ > 1
+
+❷ Rozwiązanie pierwszego z warunków
+
+1° a ≠ 0
+   4 - m ≠ 0 | +m
+   m ≠ 4
+
+❸ Rozwiązanie drugiego z warunków
+
+2° Δ > 0
+Δ = b² - 4ac  
+
+(m - 4)² - 4 · (4 - m) · 2 > 0
+
+m² - 8m + 16 - 32 + 8m > 0
+m² - 16 > 0
+
+(m - 4)(m + 4) > 0
+m₁ = 4    m₂ = -4
+
+m ∈ (-∞; -4) ∪ (4; ∞)
+
+❹ Rozwiązanie trzeciego z warunków
+
+3° 1/x₁ + 1/x₂ > 1
+
+x₂/x₁x₂ + x₁/x₁x₂ > 1
+
+x₁ + x₂/x₁x₂ > 1
+
+sprowadzamy do 
+wspólnego mianownika 
+lewą stronę
+
+zał. x₁ · x₂ ≠ 0
+
+2/(4 - m) ≠ 0 | ·(4 - m)²
+
+2(4 - m) ≠ 0
+2(4 - m) ≠ 0
+8 - 2m ≠ 0 | +2m
+m ≠ 8 | :2
+m ≠ 4
+
+--- STRONA 2 ---
+Korzystamy ze wzorów Viète'a
+
+x_1 + x_2 = -\frac{b}{a}
+
+x_1 \cdot x_2 = \frac{c}{a}
+
+-\frac{b}{a} > 1 \quad \Rightarrow \quad -\frac{b}{a} \cdot \frac{a}{c} > \frac{1}{1} \quad \Rightarrow \quad -\frac{b}{c} > 1
+
+-\frac{b}{c} > 1
+
+\frac{4 - m}{2} > 1 \mid \cdot 2
+
+4 - m > 2
+
+m < 2
+
+\textcircled{5} Wyznaczenie części wspólnej rozwiązań wszystkich warunków:
+
+1^\circ \quad m \neq 4
+
+2^\circ \quad m \in (-\infty; -4) \cup (4, \infty)
+
+3^\circ \quad m < 2, \quad m \neq 4
+
+\text{Odp: } m \in (-\infty; -4).

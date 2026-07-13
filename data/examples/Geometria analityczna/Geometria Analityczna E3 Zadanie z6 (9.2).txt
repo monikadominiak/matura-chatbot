@@ -1,0 +1,78 @@
+
+--- STRONA 1 ---
+**Zadanie z6 (9.2)** Na płaszczyźnie dane są cztery punkty: A = (1, 2), B = (5, 4), C = (3, 6) i D = (0, 8). Przez punkt D poprowadzono prostą l prostopadłą do prostej AB. Znajdź na prostej l taki punkt E, aby pole trójkąta ABC było równe polu trójkąta ABE.
+
+---
+
+1) Tworzymy rysunek poglądowy:
+
+[Rysunek z oznaczonymi punktami A, B, C, D, prostą AB i prostą l]
+
+---
+
+2) Wyznaczamy równanie prostej AB:
+
+pr. AB: y = ax + b
+
+A(1, 2) ∈ pr. AB ⟺ 2 = a⋅1 + b  
+B(5, 4) ∈ pr. AB ⟺ 4 = a⋅5 + b
+
+\[
+\begin{cases}
+2 = a + b \\
+4 = 5a + b
+\end{cases}
+⟹ 
+\begin{cases}
+2 = a + b \\
+2 = 5a - 2a
+\end{cases}
+⟹ a = \frac{1}{2}
+\]
+
+b = \frac{3}{2} ⟺ pr. AB: y = \frac{1}{2}x + \frac{3}{2}
+
+3) Wyznaczamy równanie prostej l:
+
+l: y = ax + b
+
+l ⊥ pr. AB ⟺ a_l * a = -1  
+a_l * \frac{1}{2} = -1  
+a_l = -2  
+l: y = -2x + b
+
+D(0, 8) ∈ l ⟺ 8 = -2⋅0 + b  
+b = 8
+
+l: y = -2x + 8
+
+4) Wyznaczamy punkt E:
+
+Jest pole ABC i ABE mają być równe, to odległość punktu C od prostej AB musi być taka sama jak odległość E od pr. AB.
+
+Punkt E leży na prostej l, więc może postaci:
+
+E(x, -2x + 8) \quad d(C, c) = d(E, y)
+
+\[
+d(C, c) = \frac{|3⋅1 + (4 - c)⋅1 + 3|}{\sqrt{4 + c^2}}
+\quad d(E, y) = \frac{|5x - 13|}{\sqrt{5}}
+\]
+
+\[
+\frac{6}{\sqrt{5}} = \frac{|x⋅1 + (-2x + 8)⋅1 + 3|}{\sqrt{4 + 4}}
+\quad \frac{|5x - 13|}{\sqrt{5}}
+\]
+
+\[
+|5x - 13| = 6
+\quad 5x - 13 = 6
+\quad 5x = 19
+\quad x = \frac{19}{5}
+\]
+
+\[
+y = -2 \cdot \frac{19}{5} + 8 = \frac{-38}{5} + 8 = \frac{2}{5}
+\]
+
+Odp. E(\frac{19}{5}, \frac{2}{5}) lub E(-\frac{7}{5}, \frac{4}{5}).

@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest trójkąt równoramienny o jednym z kątów 120° i ramionach długości 8 cm. Oblicz pole powierzchni bocznej tego graniastosłupa, jeżeli jego wysokość jest równa 11 cm.
+
+1) sporządzamy rysunek pomocniczy
+
+2) potrzebujemy wyliczyć wartość x z tw. cosinusów w ΔABC
+
+x^2 = 8^2 + 8^2 - 2⋅8⋅8⋅cos120°
+
+x^2 = 64 + 64 - 128⋅cos(180°-60°)
+
+x^2 = 64 + 64 - 128⋅(-cos60°)
+
+x^2 = 128 + 128⋅1/2
+
+x^2 = 192
+
+x = sqrt(192) = 8√3  [cm]
+
+3) liczymy pole powierzchni bocznej
+
+P_b = 2⋅8⋅11 + 8√3⋅11 = 88(2+√3)  [cm^2]
+
+Odp: P_b = 88(2+√3) cm^2

@@ -1,0 +1,22 @@
+
+--- STRONA 1 ---
+Zadanie 32
+
+Oblicz granicę lim n→∞ cos(n^2+n)/(5n+1). 
+
+1️⃣ Korzystamy z twierdzenia o trzech ciągach.
+\[
+-1 \leq \cos(n^2+n) \leq 1
+\]
+\[
+-\frac{1}{5n+1} \leq \frac{\cos(n^2+n)}{5n+1} \leq \frac{1}{5n+1}
+\]
+\[
+\lim_{n \to \infty} -\frac{1}{5n+1} = 0
+\]
+\[
+\lim_{n \to \infty} \frac{1}{5n+1} = 0
+\]
+Zatem \(\lim_{n \to \infty} \frac{\cos(n^2+n)}{5n+1} = 0\)
+
+Odp.: \(\lim_{n \to \infty} \frac{\cos(n^2+n)}{5n+1} = 0.\)

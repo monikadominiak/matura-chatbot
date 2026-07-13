@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Zadanie z5 (8.2) W trójkącie ABC bok AB jest 2 razy dłuższy od boku AC, a długość boku BC stanowi \(\frac{3}{4}\) długości boku AB. Oblicz tangens największego kąta trójkąta ABC.
+
+1) Tworzymy rysunek poglądowy:
+   ![Obrazek - trójkąt](https://example.com/image.png)
+
+   Największy kąt w trójkącie znajduje się zawsze naprzeciwko najdłuższego boku.
+
+2) Wyznaczamy \( \cos \gamma \) z tw. cosinusów:
+   \[
+   (2x)^2 = x^2 + \left( \frac{3}{4} \cdot 2x \right)^2 - 2 \cdot x \cdot \frac{3}{4} \cdot 2x \cdot \cos \gamma
+   \]
+   \[
+   4x^2 = x^2 + \frac{9}{4}x^2 - 3x \cdot \cos \gamma
+   \]
+   \[
+   \frac{7}{4}x^2 = 3x \cdot -3x \cdot \cos \gamma \quad /:x^2 \quad (x > 0 \implies x^2 > 0)
+   \]
+   \[
+   \frac{7}{4} = 3 \cdot \cos \gamma
+   \]
+   \[
+   \cos \gamma = -\frac{4}{4}
+   \]
+
+3) Wyznaczamy \( \sin \gamma \) z jedynki trygonometrycznej:
+   \[
+   \sin^2 \gamma + \cos^2 \gamma = 1
+   \]
+   \[
+   \sin^2 \gamma = 1 - \frac{4}{46} = \frac{45}{46} \quad \sqrt{}
+   \]
+   \[
+   \sin \gamma = \pm \frac{\sqrt{15}}{4} \quad \vee \quad \sin \gamma = -\frac{\sqrt{15}}{4}
+   \]
+   \(\gamma\) \(<\pi\) 
+
+   (otrzymaliśmy wcześniej \(\cos \gamma < 0\), więc \(\gamma\) będzie kątem wewnętrznym)
+
+4) Wyznaczamy \( \tg \gamma \) z definicji:
+   \[
+   \tg \gamma = \frac{\sin \gamma}{\cos \gamma} = \frac{\frac{\sqrt{15}}{4}}{-\frac{4}{4}} = -\sqrt{15}
+   \]
+
+   Odp. \( \tg \gamma = -\sqrt{15} \).

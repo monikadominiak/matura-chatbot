@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+z5 (6.3)
+
+Kauczukową piłeczkę upuszczono z wysokości 2,43 m. Za każdym razem po odbiciu od podłoża piłeczka wznosi się na wysokość równą dwóm trzecim wysokości, z której poprzednio spadła. Znajdź największą wysokość, na której znalazła się piłka pomiędzy piątym i szóstym odbiciem.
+
+Kolejne wysokości, na jakie wznosi się piłka, stanowią ciąg geometryczny.
+
+1️⃣ Obliczamy wysokości po 5 i 6 odbiciu.
+
+a_1 = 2,43 m; q = \frac{2}{3}
+
+Po 1. odbiciu: \ \ \ \ a_2 = 2,43 \cdot \frac{2}{3} = 1,62 m
+
+Po 5. odbiciu: \ \ \ \ a_6 = a_1 \cdot q^5 = 2,43 \cdot \left(\frac{2}{3}\right)^5 \approx 0,32 m
+
+Po 6. odbiciu: \ \ \ \ a_7 = a_1 \cdot q^6 = 2,43 \cdot \left(\frac{2}{3}\right)^6 \approx 0,21(3) m
+
+Odp.: Między 5. a 6. odbiciem piłka znajdowała się najwyżej 0,32 m od ziemi.

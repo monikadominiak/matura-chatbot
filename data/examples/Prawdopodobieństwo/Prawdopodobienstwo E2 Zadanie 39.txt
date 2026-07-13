@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+W każdej z urn U₁, U₂ znajduje się pięć białych kul i trzy czarne. Losujemy z urny U₁ jedną kulę i wrzucamy ją do urny U₃ (początkowo pustej). Następnie z urny U₂ losujemy jedną kulę i wrzucamy ją do urny U₃, po czym z urny U₃ losujemy jedną kulę. Oblicz prawdopodobieństwo zdarzenia A polegającego na wylosowaniu białej kuli z urny U₃.
+
+➊ analizujemy polecenie
+
+U₁         U₂         U₃
+⚪⚪⚪⚪⚪⚫⚫⚫     ⚪⚪⚪⚪⚪⚫⚫⚫
+
+             A - wylosowanie białej z U₃
+             B₁ - 2 białe
+             B₂ - 2 czarne
+             B₃ - 2 różne (U₁B i U₂C oraz U₁C i U₂B)
+
+*zdarzenie B₃ można zrobić na dwa (B₃, B₄) analogiczne zdarzenia
+
+➋ liczymy kolejne prawdopodobieństwa potrzebne do wzoru na prawdopodobieństwo całkowite
+
+P(A) = P(A|B₁)·P(B₁) + P(A|B₂)·P(B₂) + ... + P(A|Bₙ)·P(Bₙ)
+
+P(B₁) = 5/8 · 5/8
+
+P(B₂) = 3/8 · 3/8
+
+P(B₃) = 2·3/8·5/8
+
+P(A|B₁) = 1
+
+P(A|B₂) = 0
+
+P(A|B₃) = 1/2
+
+➌ P(A) = 1·5/8·5/8 + 0·3/8·3/8 + 1/2·2·3/8·5/8 =
+
+     = 25/64 + 15/64 = 40/64 = 5/8
+
+odp: 5/8

@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zadanie 21
+
+Rozwiąż nierówność cos x ≥ cos π/3, gdy x ∈ [-π, 2π].
+
+1️⃣ Obliczamy cos π/3. 
+
+cos π/3 = 1/2
+
+2️⃣ Rysujemy wykres funkcji y = cos x.
+
+3️⃣ Odczytujemy rozwiązanie z wykresu.
+
+x ∈ [-π/3, π/3] ∪ [5π/3, 2π]
+
+Odp.: x ∈ [-π/3, π/3] ∪ [5π/3, 2π].

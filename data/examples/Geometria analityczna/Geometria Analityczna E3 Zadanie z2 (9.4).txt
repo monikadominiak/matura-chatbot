@@ -1,0 +1,96 @@
+
+--- STRONA 1 ---
+**Zadanie z2 (9.4)** Znajdź równanie okręgu opisanego na trójkącie o wierzchołkach A = (1, 5), B = (8, -2), C = (9, 1).
+
+**UWAGA:** Mamy znaleźć równanie okręgu przechodzącego przez 3 podane punkty. Można to zrobić dwoma sposobami:
+
+1) Podstawić 3 punkty do równania okręgu i rozwiązać układ 3 równań z 3 niewiadomymi a, b oraz r 
+
+lub 
+
+2) Wyznaczyć symetralne dwóch dowolnych boków trójkąta - punkt ich przecięcia będzie środkiem okręgu. Mając środek okręgu jego odległość od dowolnego z 3 danych punktów będzie promieniem okręgu. 
+
+Rozwiązywanie układu 3 równań stopnia drugiego (sposób 1) jest czasochłonne. Zaprezentujemy więc sposób 2.
+
+**a) Tworzymy rysunek poglądowy:**
+
+(b) Wyznaczamy równania symetralnych:
+
+Aby wyznaczyć równanie symetralnej odcinka trzeba:
+
+- wyznaczyć równanie odcinka
+- ze wzorunku pożądaności (a₁, a₂ = -1) wyznaczyć współczynnik kierunkowy symetralnej
+- podstawić do wzoru środka odcinka
+
+pr. AC: y=ax+b
+A(1,5); pr. AC <=> 5=a+b
+C(9,1); pr. AC <=> 1=9a+b
+
+5=a+b
+1=9a+b | - 
+4=8a a=\frac{1}{2}
+6=a+c
+
+S_{AC}(\frac{10}{2},\frac{6}{2}) 
+S_{AC}(5,3)
+
+------ 
+
+pr. BC: y=ax+b
+B(8,-2) pr. BC <=> -2=8a+b
+C(9,1) pr. BC <=> 1=9a+b 
+
+-2=8a+b
+1=9a+b | -
+-3=-a 
+a=-3 
+
+S_{BC}(\frac{8+9}{2},\frac{-2+1}{2})
+S_{BC}(\frac{17}{2},-\frac{1}{2})
+------ 
+
+sym. AC: y=ax+b
+sym. AC <=> 1. pr. AC <=> 0=a c=2 
+a_{sym}AC=-\frac{1}{a_{AC}}
+a_{sym}AC=-2
+
+S_{AC}(5,3); sym. AC: <=> 3=-2*5+b 
+b=7
+
+sym. AC: y=-2x+7
+
+-----
+
+sym. BC: y=ax+b
+sym. BC <=> 1. pr. BC <=> 2=a c=3
+a_{sym}BC=-\frac{1}{a_{BC}}
+a_{sym}BC=\frac{1}{3}
+
+S_{BC}(\frac{17}{2},-\frac{1}{2}); sym. BC <=> -\frac{1}{2}=\frac{1}{3}*\frac{17}{2}+b
+b=-\frac{8}{3}
+
+sym. BC: y=\frac{1}{3}x-\frac{8}{3}
+
+**3) Wyznaczamy środek okręgu z przecięcia symetralnych:**
+
+\[
+\begin{cases}
+y=-2x+7 \\
+y=\frac{1}{3}x-\frac{8}{3}
+\end{cases}
+\]
+=> 2x-7=-\frac{1}{3}x+\frac{8}{3} / *3 
+6x-21=-x+8 
+x=4, y=4
+
+S(4,4)
+
+**4) Wyznaczamy promień okręgu:**
+
+|SA|=\sqrt{(4-1)^2 + (4-5)^2}=\sqrt{10}=5 r
+
+**Równanie okręgu ma więc postać:**
+
+(x-4)^2+(y-4)^2=25
+
+**Odp. (x-4)^2+(y-4)^2=25.**

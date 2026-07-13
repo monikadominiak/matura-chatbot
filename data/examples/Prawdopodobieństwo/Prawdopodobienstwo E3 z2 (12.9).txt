@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Dla zdarzeń A, B \subseteq \Omega zachodzą równości: P(A') = \frac{1}{3}, P(A \cup B) = \frac{3}{4} i P(A \cap B) = \frac{1}{7}.
+
+Oblicz P(A), P(B) i P(A \setminus B).
+
+1️⃣ DANE:
+
+\[
+\begin{cases}
+P(A') = \frac{1}{3} \\
+P(A \cup B) = \frac{3}{4} \\
+P(A \cap B) = \frac{1}{7}
+\end{cases}
+\]
+
+DO OBLICZENIA:
+
+\[
+\begin{cases}
+P(A) \\
+P(B) \\
+P(A \setminus B)
+\end{cases}
+\]
+
+2️⃣ wiemy, że:
+
+1.) P(A) + P(A') = 1
+
+2.) P(A \cup B) = P(A) + P(B) - P(A \cap B) \quad (\text{oba wzory są w kartach})
+
+z 1.) P(A) = 1 - P(A') = 1 - \frac{1}{3} = \frac{2}{3}
+
+z 2.) \frac{3}{4} = \frac{2}{3} + P(B) - \frac{1}{7} \implies P(B) = \frac{3}{4} - \frac{2}{3} + \frac{1}{7} = \frac{19}{84}
+
+3️⃣ P(A \setminus B) = P(A) - P(A \cap B) \quad \text{elementy zb. A, których nie ma w zb. B}
+
+P(A \setminus B) = \frac{2}{3} - \frac{1}{7} = \frac{11}{21}
+
+Odp: P(A) = \frac{2}{3}, \, P(B) = \frac{19}{84}
+
+P(A \setminus B) = \frac{11}{21}

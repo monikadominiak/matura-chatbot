@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa \( ABCW \) jest trapez prostokątny \( ABCD \), w którym \( AB \parallel CD, AD \perp AB, |AB| = 25, |AD| = 12, |CD| = 9 \). Wysokość ostrosłupa jest krawędzią \( AW \). Wykaż, że ściana boczna \( WBC \) jest trójkątem prostokątnym.
+
+Dane:
+\( |AB| = 25, |AD| = 12, |CD| = 9 \)
+
+teza: \( \triangle WBC - \) prostokątny
+
+1️⃣ \( \triangle \) jest prostokątny, jeśli zachodzi w nim tw. Pitagorasa
+
+2️⃣ obliczamy bok \( BC \)
+
+\[
+\begin{cases} 
+9 \\
+12 
+\end{cases}
+\]
+
+\[
+\begin{cases} 
+16 \\
+12 
+\end{cases}
+\]
+
+\[ |CB|^2 = 16^2 + 12^2 \]
+
+\[ |CB| = 20 \]
+
+3️⃣ układamy tw. Pitagorasa dla 3 trójkątów:
+
+\( \triangle ABW: \, h^2 + 25^2 = |WB|^2 \)
+
+\( \triangle ADW: \, h^2 + 12^2 = |WD|^2 \)
+
+\( \triangle DCW: \, 9^2 + |WD|^2 = |CW|^2 \)
+
+4️⃣ sprawdzamy, czy prawdą jest, że:
+
+1. \( |CW|^2 + |CB|^2 = |WB|^2 \)
+
+  lub
+
+2. \( |CW|^2 = |CB|^2 + |WB|^2 \)
+
+\[ 
+9^2 + |WD|^2 + 20^2 = h^2 + 25^2 
+\]
+
+\[ 
+9^2 + 12^2 + h^2 + 20^2 = h^2 + 25^2 
+\]
+
+\[ 
+81 + 144 + 400 = 625 
+\]
+
+\[ 
+625 = 625 
+\]
+
+zatem \( \angle WBCW = 90^\circ \)
+
+c.k.d.

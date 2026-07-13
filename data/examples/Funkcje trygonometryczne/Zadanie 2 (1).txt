@@ -1,0 +1,86 @@
+
+--- STRONA 1 ---
+Zadanie 2
+
+Oblicz sin 240° · cos 675° - \(\frac{\operatorname{tg} \frac{7 \pi}{6}}{\operatorname{tg} (- \frac{5 \pi}{3})}\).
+
+\(\textcircled{1}\) Obliczamy \( \sin 240^\circ \).
+
+\[
+\sin 240^\circ = - \frac{\sqrt{3}}{2}
+\]
+
+\[
+\sin 240^\circ = \sin (180^\circ + 60^\circ ) = - \sin 60^\circ = - \frac{\sqrt{3}}{2}.
+\]
+
+\(\textcircled{2}\) Obliczamy \( \cos 675^\circ \).
+
+Odejmujemy jeden pełny okres,
+
+\[
+\cos 675^\circ = \cos (675^\circ - 360^\circ) = \cos 315^\circ 
+\]
+
+\[
+\cos 315^\circ = \frac{\sqrt{2}}{2}
+\]
+
+\[
+\cos 315^\circ = \cos(360^\circ - 45^\circ) = \cos 45^\circ = \frac{\sqrt{2}}{2},
+\]
+
+\(\textcircled{3}\) Obliczamy tg \(\frac{7 \pi}{6}\).
+
+\[
+\frac{7 \pi}{6} \  \text{możemy zapisać jako} \ 210^\circ. \ \text{Wiemy też, że} \ \operatorname{tg} \alpha = \frac{\sin \alpha}{\cos \alpha}.
+\]
+
+\[
+\operatorname{tg} 210^\circ = \frac{\sin 210^\circ}{\cos 210^\circ} = \frac{\sin(180^\circ + 30^\circ)}{\cos(180^\circ + 30^\circ)} = \frac{-\sin 30^\circ}{-\cos 30^\circ} = \frac{-\frac{1}{2}}{-\frac{\sqrt{3}}{2}} = \frac{1}{\sqrt{3}} = \frac{\sqrt{3}}{3}
+\]
+
+\(\textcircled{4}\) Obliczamy \(\operatorname{tg}(-\frac{5 \pi}{3})\).
+
+Dodajemy dwa pełne okresy,
+
+\[
+\operatorname{tg}(-\frac{5 \pi}{3} + 2 \pi) = \operatorname{tg}\frac{\pi}{3} = \operatorname{tg} 60^\circ = \sqrt{3}
+\]
+
+\(\textcircled{5}\) Obliczamy wartość wyrażenia,
+
+\[
+\sin 240^\circ \cdot \cos 675^\circ - \frac{\operatorname{tg} \frac{7 \pi}{6}}{\operatorname{tg}(-\frac{5 \pi}{3})} = -\frac{\sqrt{3}}{2} \cdot \frac{\sqrt{2}}{2} - \frac{\frac{\sqrt{3}}{3}}{\sqrt{3}} = -\frac{\sqrt{6}}{4} \cdot \frac{\sqrt{3}}{3} \cdot \frac{1}{\sqrt{3}} = -\frac{\sqrt{6}}{12}
+\]
+
+Odp.: Wartość wyrażenia wynosi \(-\frac{\sqrt{6}}{12}\).
+
+--- STRONA 2 ---
+II sposób  
+Będziemy korzystać ze wzorów redukcyjnych.
+
+1️⃣ Obliczamy sin240°.
+
+sin240° = sin(180°+60°) = -sin60° = -\frac{\sqrt{3}}{2}
+
+2️⃣ Obliczamy cos675°.
+
+cos675° = cos(360°+315°)= cos315° = cos(360°-45°) =
+= cos45° = \frac{\sqrt{2}}{2}
+
+3️⃣ Obliczamy tg\frac{7\pi}{6}.
+
+tg\frac{7\pi}{6} = tg(\pi+\frac{\pi}{6}) = tg\frac{\pi}{6} = \frac{\sqrt{3}}{3}
+
+4️⃣ Obliczamy tg(-\frac{5\pi}{3}).
+
+tg(-\frac{5\pi}{3}) = tg(-\frac{5\pi}{3}+2\pi) = tg\frac{2\pi}{3} = tg(\pi-\frac{\pi}{3}) = -tg\frac{\pi}{3} = -\sqrt{3}
+
+5️⃣ Obliczamy wartość wyrażenia.
+
+sin240° \cdot cos675° \cdot \frac{tg\frac{7\pi}{6}}{tg(-\frac{5\pi}{3})} =
+
+= -\frac{\sqrt{3}}{2} \cdot \frac{\sqrt{2}}{2} \cdot \frac{\frac{\sqrt{3}}{3}}{-\sqrt{3}} = -\frac{\sqrt{6}}{12}
+
+Odp.: Wartość wyrażenia wynosi -\frac{\sqrt{6}}{12}.

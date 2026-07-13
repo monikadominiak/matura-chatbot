@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+**Zad.16** Dla jakich wartości parametru m równanie \( \left| \frac{4}{|x+2|} - 1 \right| = m \) ma dwa pierwiastki należące do przedziału <-3, -1>?
+
+1) Określamy dziedzinę równania:
+
+\[ x + 2 \neq 0 \]
+
+\[ x \neq -2 \Rightarrow x \in \mathbb{R} \setminus \{-2\} \]
+
+* (Mianownik nie może być równy zero)
+
+2) Rysujemy poglądowy wykres i wyznaczamy m:
+
+*f(-3)=3*
+
+*f(-1)=3*
+
+Ponieważ w zadaniu mamy już podany przedział, w którym równanie ma mieć 2 pierwiastki, wystarczający jest dla nas poglądowy wykres, tylko w tym przedziale.
+
+Można wówczas na jego podstawie zauważyć, że \( f(-1) = f(-3) = 3 \), a wraz z rosnącymi wartościami y, pierwiastki "zachowują" się w badanym przez nas przedziale, czyli:
+
+\[ m \in <3, +\infty) \]
+
+**Odp.** m ∈ <3, +∞).

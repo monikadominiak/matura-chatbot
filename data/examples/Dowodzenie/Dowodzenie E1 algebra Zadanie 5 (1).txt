@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Udowodnij, że \(\frac{1}{a-2} \leq -a\), jeśli wiadomo, że \(a < 2\).
+
+\[
+\frac{1}{a-2} \leq -a \quad ,\bigcirc_1 \, a < 2 \quad \Rightarrow \quad a-2 < 0
+\]
+
+w dowodzeniu, w którym mamy określone zmienne bardzo często będziemy 'szukać' wyrażenia z warunku w docelowej nierówności/równania
+
+\(\bigcirc_1\) przekształcamy nierówność
+
+\[
+\frac{1}{a-2} \leq -a \quad /\cdot (a-2) \, \bigcirc_1 \, \text{znamy znak wyrażenie}
+\]
+
+\[
+1 \geq -a(a-2)
+\]
+
+\[
+1 \geq -a^2 + 2a
+\]
+
+\[
+a^2 - 2a + 1 \geq 0
+\]
+
+\[
+(a-1)^2 \geq 0
+\]
+
+\(\bigcirc_2\) komentarz: kwadrat dowolnej liczby jest zawsze liczbą nieujemną, \,\ c.k.d.

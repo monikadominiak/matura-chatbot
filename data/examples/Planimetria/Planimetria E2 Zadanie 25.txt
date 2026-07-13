@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Zad. 25 W trapezie ABCD (AB || DC) przekątne przecinają się w punkcie E.  
+Pole trójkąta AED jest równe 15 cm^2, a pole trójkąta DEC wynosi 10 cm^2. Oblicz:  
+a) |EC| : |AE|   
+b) pole trapezu ABCD.
+
+1) Tworzymy rysunek poglądowy:
+
+[Niektóre wysokości trójkąta rozwartokątnego znajdują się poza trójkątem i tak jest w tym przypadku. Odcinek h stanowi wysokość nie tylko dla trójkąta ADE, ale także dla trójkąta DEC.]
+
+2) Z wzoru na pole trójkąta wyznaczamy odcinki
+AE i EC w zależności od wysokości h, a następnie
+poszukiwany stosunek między nimi:
+
+P_ADE = |AE| * h / 2 = 15 => |AE| = 30 / h  
+P_DEC = |EC| * h / 2 = 10 => |EC| = 20 / h
+
+|EC| / |AE| = 20 / h : 30 / h = 20 / 30 = 2 / 3 
+
+Odp. a) |EC| : |AE| = 2 / 3.
+
+3) Wyznaczamy pola trójkątów BCE i ABE, a następnie pole całego trapezu:
+
+P_ADE = 1/2 |AB| * H_1 => P_ABCD = P_ABCD_u  
+P_AABC = 1/2 |AA| * H_1  
+P_AADE + KABE = P_BEC + P_AABC
+
+P_AADE = P_BEC + 15 
+
+∆DEC ~ ∆AEB (kkk)
+
+|∢CAB| = |∢ACD| (kąty naprzemianległe)  
+|∢ABD| = |∢BCD| (kąty naprzemianległe)  
+|∢AED| = |∢DEC| (kąty wierzchołkowe)
+
+|DEC| / |AEB| = k^2  
+k = |EC| / |AE| = 2/3  
+
+P_DEC = k^2 * P_AABE
+
+10 = 9 * 1 / 9 * P_ABE
+
+P_AABE = 90 / 9 = 55 - 22.5 = 22.5 
+
+P_ABCD = 10 + 45 = 15 + 22,5 = 62,5
+
+Odp. b) P_ABCD = 62,5 cm^2.

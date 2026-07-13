@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+**Zad.3 Rozwiąż nierówność \( \sqrt{x^2+4x+4}+\sqrt{x^2-8x+16} \leq 6 \).**
+
+1\) Zwijamy wyrażenia pod pierwiastkami za pomocą wzorów skróconego mnożenia:
+
+\( \sqrt{x^2+4x+4} = \sqrt{(x+2)^2} = |x+2| \)  
+\( \sqrt{x^2-8x+16} = \sqrt{(x-4)^2} = |x-4| \)  
+
+Powstaje zwykła nierówność z wartością bezwzględną:  
+\[ |x+2| + |x-4| \leq 6 \]
+
+Kwadraty pod pierwiastkami zwijamy do wartości bezwzględnej na podstawie własności: \( a^2 = |a| \cdot |a| \).
+
+W tego typu zadaniach nie jest wymagane pisanie dziedziny, bo pod pierwiastkiem znajduje się kwadrat, który zawsze jest nieujemny, więc dziedziny i tak będzie \( x \in \mathbb{R} \).
+
+2\) Tworzymy siatkę znaków:  
+
+\[ \textcircled{1} |x+2|, \textcircled{3} |x-4| \leq 6 \]
+
+\[
+\begin{array}{c|ccccccccc|}
+x & -\infty & -2 & & & 4 & & & \infty \\
+\hline
+\textcircled{1} & + & 0 & - & - & - & - & - & -\\
+\textcircled{2} & & & - & - & - & 0 & + & +\\
+\end{array}
+\]
+
+1\(^\circ\) \( x \in (-\infty, -2) \)  
+2\(^\circ\) \( x \in (-2, 4) \)  
+3\(^\circ\) \( x \in (4, \infty) \)  
+
+3\) Rozwiązujemy wyznaczone przypadki:
+
+1\(^\circ\) \( x \in (-\infty, -2) \)  
+\[ - (x+2) - (x-4) \leq 6 \]  
+\[ -x-2-x+4 \leq 6 \]  
+\[ -2x+2 \leq 6 \]  
+\[ -2x \leq 4 \]
+\[ x \geq -2 \, / :(-2) \]  
+\( x \leq 2 \land x \in (-\infty, -2) \)  
+\[ x \in \varnothing \]
+
+2\(^\circ\) \( x \in (-2, 4) \)  
+\[ x+2-(x-4)-6 \leq 0 \]
+\[ x+2-x+4-6 \leq 0 \]
+\[ 0 \leq 0 \]  
+\[ x \in \mathbb{R} \land x \in (-2, 4) \]
+
+\[ x \in (-2, 4) \]
+
+3\(^\circ\) \( x \in (4, \infty) \)  
+\[ x+2+x-4-6 \leq 0 \]  
+\[ 2x-4-6 \leq 0 \]  
+\[ 2x \leq 8 \]  
+\[ x \leq 4 \land x \in (4, \infty) \]  
+\[ \nwarrow x = 4 \]
+
+4\) Wyznaczamy sumę rozwiązań ze wszystkich przypadków:
+
+\[ 1^\circ \cup 2^\circ \cup 3^\circ \Rightarrow x \in (-2, 4) \]
+
+Odp. \( x \in (-2, 4) \).

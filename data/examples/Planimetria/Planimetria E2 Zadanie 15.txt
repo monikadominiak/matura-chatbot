@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zad.15 Podstawa AB trójkąta ostrokątnego ABC ma długość 10 cm, a wysokość opuszczona na tę podstawę ma długość 8 cm. W ten trójkąt wpisano kwadrat tak, że dwa jego wierzchołki należą do podstawy AB, a dwa - do boków AC i BC. Oblicz długość boku kwadratu.
+
+1) Tworzymy rysunek poglądowy:
+
+[rysunek]
+
+skoro mamy kwadrat, którego bok DE zawiera się w AB , to wówczas AB || GF, dzięki czemu możemy wykazać podobieństwo trójkątów:
+
+AB || GF => Δ ABC ~ Δ GFC (kkk)
+
+2) Korzystamy z własności trójkątów podobnych:
+
+|AB| / |GF| = |CJ| / |CI|
+
+10 / a = 8 / (8-a)
+
+[HJ]=a, więc |CI|=8-a
+
+8a = 80 - 10a
+
+18a = 80
+
+a = 80/18 = 40/9
+
+Odp. a = 40/9

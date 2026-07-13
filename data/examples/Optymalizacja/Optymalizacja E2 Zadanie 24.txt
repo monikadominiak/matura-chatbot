@@ -1,0 +1,87 @@
+
+--- STRONA 1 ---
+Zbadaj przebieg zmienności funkcji \( f(x) = \frac{x^3}{1-x^2} \).
+
+① wyznaczamy dziedzinę
+
+\( f(x) = \frac{x^3}{1-x^2} \)
+
+\( 1-x^2 \neq 0 \)
+
+\( x^2 \neq 1 \)
+
+\(\Rightarrow D_f = \mathbb{R} - \{-1,1\} \)
+
+② wyznaczamy punkty przecięcia z osiami
+
+\( f(0) = \frac{0}{1-0} = 0 \quad \Rightarrow \quad P(0,0) \)
+
+③ liczymy granice na krańcach dziedziny i w przerwach w dziedzinie
+
+\[
+\lim_{x \to -1^-} \frac{(-1)^3}{0^-} = \pm \infty
+\]
+
+\[
+\lim_{x \to 1^-} \frac{1^3}{0^-} = +\infty
+\]
+
+\[
+\lim_{x \to -1^+} \frac{(-1)^3}{0^+} = \mp \infty
+\]
+
+\[
+\lim_{x \to 1^+} \frac{1^3}{0^+} = -\infty 
+\]
+
+\(\Rightarrow\) licząc granice prawo- i lewostronne w przerwach w dziedzinie wyznaczyliśmy od razu dwie asymptoty pionowe:
+
+\( x=-1 \quad x=1 \)
+
+④ wyznaczamy pozostałe asymptoty
+
+ukośna: \( y = ax + b \)
+
+\( a = \lim_{x \to \pm \infty} \frac{f(x)}{x} = \lim_{x \to \pm \infty} \frac{x^2}{1-x^2} = \lim_{x \to \pm \infty} \frac{x^2}{-x^2(1-\frac{1}{x^2})} = -1 = a \)
+
+\( b = \lim_{x \to \pm \infty} (f(x) - ax) = \lim_{x \to \pm \infty} (\frac{x^3}{1-x^2} + x) = \lim_{x \to \pm \infty} \frac{x}{1-x^2} = 0 = b \)
+
+as. ukośna: \( y = -x \)
+
+⑤ liczymy pochodną
+
+\[
+f'(x) = \frac{3x^2 (1-x^2) + 2x \cdot x^3}{(1-x^2)^2} = \frac{-x^4 + 3x^2}{(1-x^2)^2}
+\]
+
+⑥ wyznaczamy miejsca zerowe pochodnej
+
+\[
+f'(x) = 0 \Leftrightarrow -x^4 + 3x^2 = 0
+\]
+
+\[
+-x^2(x^2 - 3) = 0 \Rightarrow x = 0 \lor x = \sqrt{3} \lor x = -\sqrt{3} 
+\]
+
+⑦ badamy monotoniczność i ekstrema
+
+\(\Rightarrow\) analizujemy sam licznik, bo mianownik > 0
+
+⑧ tabela podsumowująca
+
+\[
+\begin{array}{c|c|c|c|c|c|c|c|c|c}
+x & (-\infty, -\sqrt{3}) & \{-\sqrt{3}\} & (-\sqrt{3},-1) & \{-1\} \cup ( -1, 0) & \{ 0 \} & (0,1) & \{1\} \cup (1, \sqrt{3}) & \{\sqrt{3}\} & (\sqrt{3},+\infty)\\
+\hline
+f'(x) & - & 0 & + & X & 0 & + & X & 0 & - \\
+f(x) & \downarrow & \text{min. lok.} & \uparrow & X & 0 & \uparrow & X & \text{max. lok.} & \downarrow \\
+\end{array}
+\]
+
+\( f_{min} = f(-\sqrt{3}) = \frac{3\sqrt{3}}{2} \approx 2,6 \)
+
+\( f_{max} = f(\sqrt{3}) = -\frac{3\sqrt{3}}{2} \approx -2,6 \)
+
+Odp: ⑨ rysujemy wykres
+

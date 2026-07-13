@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) określona jest wzorem \( f(x) = x^2 + 1 \). Znajdź równanie tej stycznej do wykresu funkcji \( f \), która tworzy z osią OX kąt o mierze 135°.
+
+\( f(x) = x^2 + 1 \quad \alpha = 135^\circ \quad \text{styczna: } y = ax + b \)
+
+wiemy, że: \( a = \operatorname{tg} \alpha = f'(x_0) \)
+
+\((1)\) z \( \operatorname{tg} \alpha \) liczymy wartość \( a \)
+
+\(\operatorname{tg} 135^\circ = \operatorname{tg}(180^\circ - 45^\circ) = -\operatorname{tg} 45^\circ = -1\)
+
+\((2)\) liczymy pochodną funkcji \( f \) i przyrównujemy ją do \( \operatorname{tg} \alpha \)
+
+\( f'(x) = 2x \quad \quad \quad 2x_0 = -1 \)
+
+\[ x_0 = -\frac{1}{2} \]
+
+wzór na styczną: \( y = f'(x_0)(x - x_0) + f(x_0) \)
+
+\((3)\) liczymy brakujące \( f(x_0) \)
+
+\( f\left( -\frac{1}{2} \right) = \left( -\frac{1}{2} \right)^2 + 1 = \frac{1}{4} + 1 = \frac{5}{4} \)
+
+\((4)\) zapisujemy równanie stycznej
+
+\[ y = -1\left( x - \left( -\frac{1}{2} \right) \right) + \frac{5}{4} = -x - \frac{2}{4} + \frac{5}{4} \]
+
+\(\text{odp: } y = -x + \frac{3}{4}\)

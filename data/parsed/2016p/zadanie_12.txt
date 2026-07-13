@@ -1,0 +1,14 @@
+=== ARKUSZ: 2016p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12. (0-1)
+Funkcja f określona jest wzorem f(x) = (2x^3) / (x^6 + 1) dla każdej liczby rzeczywistej x. Wtedy f(-cube_root(3)) jest równa
+A. -(cube_root(9)) / 2
+B. -3/5
+C. 3/5
+D. (cube_root(3)) / 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 12. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający oblicza ze wzoru wartość funkcji dla danego argumentu (4.2).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: D
+Strona 3 z 20

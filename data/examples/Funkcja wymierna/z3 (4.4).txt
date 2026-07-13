@@ -1,0 +1,68 @@
+
+--- STRONA 1 ---
+z3 (4.4)
+
+Aby dotrzeć do rezerwatu turysta przejechał samochodem 60 km, a następnie przesiadł się na rower i przejechał 24 km do celu. Droga do celu zajęła mu 2 godziny 30 minut.
+
+W drodze powrotnej jechał rowerem ze średnią prędkością o 4 km/h mniejszą niż wcześniej, a samochodem – ze średnią prędkością o 12 km/h większą niż wcześniej. Cały powrót o 20 minut dłużej niż droga do celu.
+Oblicz średnią prędkość samochodu oraz średnią prędkość roweru w drodze do celu.
+
+Wszystko weźmiemy ze wzoru: v = s/t (prędkość = droga/czas) oraz informacji o sumie czasów.
+
+➊ Wprowadzamy oznaczenia.
+
+v – średnia prędkość samochodu „ do celu ” (km/h)
+
+u – średnia prędkość roweru „ do celu ” (km/h) , u > 4
+
+Drogi są te same w obie strony:
+
+60 km samochodem
+
+24 km rowerem
+
+➋ Tworzymy układ równań
+
+v = s/t  =>  t = s/v
+
+60/v + 24/u = 2,5
+
+Na powrocie:
+
+• rower wolniej o 4 km/h => u–4
+
+• samochód szybciej o 12 km/h => v+12.
+
+60/(v+12) + 24/(u–4) = 2,5 + 1/3
+
+{ 
+  60/v + 24/u = 2,5
+  60/(v+12) + 24/(u–4) = 17/6 
+}
+
+--- STRONA 2 ---
+3. Rozwiązujemy układ równań.
+
+60/v + 24/u = 2,5   (1)
+
+60/u + 24/(u-4) = 17/6   (2)
+
+2 (1) : 60/v = 2,5 - 24/u
+
+v = 60/(5u - 48)
+
+Do (2) :
+
+60/(5u - 48) + 24/(u-4) = 17/6 /6(5u-48)(u-4)
+
+30(5u - 48)(u-4) + 24·6(5u - 48) = (5u-48)(u-4)
+
+Uproszczamy:
+
+(u - 16)(35u - 92) = 0
+
+u = 16 lub u = 32/35 < 4 odrzucamy
+
+v = 120u/(5u - 48) = 120·16/(5·16 - 48) = 1920/32 = 60
+
+Odp.: samochód : v = 60 km/h, rower: u = 16 km/h.

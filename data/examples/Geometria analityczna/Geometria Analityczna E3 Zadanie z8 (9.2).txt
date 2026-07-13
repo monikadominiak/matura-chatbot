@@ -1,0 +1,88 @@
+
+--- STRONA 1 ---
+Zadanie z8 (9.2) W trójkącie równoramiennym ABC podstawa AB zawiera się w prostej k: x + y + 2 = 0, natomiast ramię BC zawiera się w prostej l: 2x - y - 14 = 0. Punkt P(6, 4) należy do ramienia AC. Wyznacz współrzędne punktów A, B, C.
+
+1) Tworzymy rysunek poglądowy
+
+2) Wyznaczamy punkt B ze zbiegu stron prostej k i l:
+
+\[
+\begin{cases} 
+x+y+2=0 \\
+2x-y-14=0 
+\end{cases}
+\]
+
+\[
+\begin{cases} 
+x=2x-11 \\
+2x-y-14=0 
+\end{cases}
+\]
+
+\[
+x = 11
+y = -13
+\]
+
+3) Wyznaczamy współczynnik kierunkowy prostej AC.
+
+Skoro ABC jest równoramienny o podstawie AB, to kąty ABC i CAB (a tym samym kąty między prostą k i l oraz k i m (AC)) równe. Wykorzystajmy to do wyznaczenia współczynnika kierunkowego prostej AC:
+
+I sposób: Niech m - Kąt między prostymi: 
+
+Z produktu k.l:
+
+\[
+tg \, m = \frac{1 - (-1)(-k)}{1 + k \cdot (-1)} = 3
+\]
+
+pr. AC: y = ax + b
+Z produktu k.l:
+
+\[
+tg \, < = \frac{a-(-k)}{1+a \cdot (-k)} = 3
+\]
+
+UNAGA! Tegowzoru nie ma
+wkarcie wzorów naKomisji 2023.
+
+II sposób: ze wzoru na różnicę kątów w tangensie:
+
+\[
+tg (<A- <B) = \frac{tg\,<A-tg\,<B}{1+tg\,<A\cdot tg\,<B}
+\]
+
+Z produktu k.l:
+
+\[
+tg (<B) = \frac{-k-a}{1+(k)(-a)}
+\]
+
+albo |\( tg \, <A = z \)
+
+odcinamy oś, ponieważ
+wedługAC||BC.
+
+4) Wyznaczamy wzorce proste AC, o nadanym powodzie wzmocnienia:
+
+P(6,4) pr. AC xcg skraj
+
+\[
+6x - 24 + 4 = 2x + 8
+\]
+
+pr. AC y(*)+pen;
+
+\[
+\begin{cases} 
+y=(x+11) \\ 
+2x-y=14 
+\begin{cases} 
+\end{cases} 
+x = 11 \\
+y = -13 
+\end{cases}
+\]
+
+Odp. AC(1,0), B(4,-6), C(10,8).

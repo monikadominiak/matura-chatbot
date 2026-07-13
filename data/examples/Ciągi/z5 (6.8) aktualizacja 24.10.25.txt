@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+z3 (6.8)
+
+Oblicz granicę lim (n^3 + 3n)/(n^2 + 2) - (n^2 + 7n)/(n + 21)
+        n→∞
+
+Wskazówka: mając do policzenia granicę z sumy lub różnicy dwóch ciągów można 
+liczyć ich granice osobno i na końcu dodać lub odjąć. Wyjątkiem jest, gdy uzyskamy 
+w ten sposób odejmowanie się nieskończoności. Jeśli tak, trzeba doprowadzić wzór do 
+wspólnego mianownika i wtedy policzyć granicę.
+
+1️⃣ Rozważamy obie granice osobno.
+
+lim (n^3 + 3n)/(n^2 + 2) = lim n^2(1 + 3/n)
+n→∞                            n→∞ (1 + 2/n)
+
+= lim n^2(1 + 3/n) * 1/(n^2(1 + 2/n)) = lim 1*(1 + 0)/(1*(1 + 0)) = + ∞ 
+     n→∞                                     n→∞ 
+
+lim (n^2 + 7n)/(n + 21) = lim n(1 + 7/n)
+n→∞                              n→∞ (1 + 21/n)
+
+= lim n(1 + 7/n) * 1/(n(1 + 21/n)) = lim 1*(1 + 0)/(1*(1 + 0)) = + ∞
+     n→∞                                    n→∞ 
+
+lim (n^3 + 3n)/(n^2 + 2) - (n^2 + 7n)/(n + 21) = [∞ - ∞]
+        n→∞
+
+Odejmując obie granice od siebie uzyskamy [∞ - ∞]
+
+Zgodnie ze wskazówką należy doprowadzić wzór do wspólnego mianownika.
+
+2️⃣ Obliczamy granicę zgodnie ze wskazówką.
+
+lim (n^3 + 3n)/(n^2 + 2) - (n^2 + 7n)/(n + 21) = lim ((n^3 + 3n)(n + 21) - (n^2 + 7n)(n^2 + 2))/
+n→∞                                                         n→∞ ((n^2 + 2)(n + 21))
+
+= lim (n^3 + 3n)(n + 21) - (n^2 + 7n)(n^2 + 2)/(n^2 + 2)(n + 21) = lim (14n^3 + n^2 + 49n)/(n^3 + 21n^2 + 2n + 42)
+  n→∞                                                                      n→∞ 
+
+= lim n^3(14 + 1/n + 49/n^2)/n^3(1 + 21/n + 2/n^2 + 42/n^3) = 1*(14 + 0)/(1*(1 + 0)) = 14
+  n→∞ 
+
+Odp.: lim (n^3 + 3n)/(n^2 + 2) - (n^2 + 7n)/(n + 21) = 14.
+      n→∞ 

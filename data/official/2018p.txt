@@ -1,0 +1,784 @@
+Matura podstawowa 2018 - arkusz oraz klucz odpowiedzi:
+
+---
+
+Zadanie 1. (0-1)
+Liczba 2 log_3(6) - log_3(4) jest równa A. 4 B. 2 C. 2 log_3(2) D. log_3(8) 
+
+Zadanie 2. (0-1)
+Liczba sqrt[3]{7/3} * sqrt[3]{81/56} jest równa A. sqrt{3}/2 B. 3 / (2 * sqrt[3]{21}) C. 3/2 D. 9/4 
+
+Zadanie 3. (0-1)
+Dane są liczby a = 3,6 * 10^(-12) oraz b = 2,4 * 10^(-20). Wtedy iloraz a/b jest równy A. 8,64 * 10^(-32) B. 1,5 * 10^(-8) C. 1,5 * 10^8 D. 8,64 * 10^32 
+
+Zadanie 4. (0-1)
+Cena roweru po obniżce o 15% była równa 850 zł. Przed obniżką ten rower kosztował A. 865,00 zł B. 850,15 zł C. 1000,00 zł D. 977,50 zł 
+
+Zadanie 5. (0-1)
+Zbiorem wszystkich rozwiązań nierówności (1 - 2x) / 2 &gt; 1/3 jest przedział A. (-inf, 1/6) B. (1/6, +inf) 
+C. (-inf, 5/6)
+D. (2/3, +inf) 
+
+Zadanie 6. (0-1)
+Funkcja kwadratowa jest określona wzorem f(x) = -2(x + 3)(x - 5). Liczby x_1, x_2 są różnymi miejscami zerowymi funkcji f. Zatem A. x_1 + x_2 = -8 B. x_1 + x_2 = -2 C. x_1 + x_2 = 2 D. x_1 + x_2 = 8 
+
+Zadanie 7. (0-1)
+Równanie (x^2 + 2x) / (x^2 - 4) = 0 A. ma trzy rozwiązania: x = -2, x = 0, x = 2 B. ma dwa rozwiązania: x = 0, x = -2 C. ma dwa rozwiązania: x = -2, x = 2 D. ma jedno rozwiązanie: x = 0 
+
+Zadanie 8. (0-1)
+Funkcja liniowa f określona jest wzorem f(x) = (1/3)x - 1 dla wszystkich liczb rzeczywistych x. Wskaż zdanie prawdziwe. A. Funkcja f jest malejąca i jej wykres przecina oś Oy w punkcie P = (0, 1/3). B. Funkcja f jest malejąca i jej wykres przecina oś Oy w punkcie P = (0, -1). C. Funkcja f jest rosnąca i jej wykres przecina oś Oy w punkcie P = (0, 1/3). D. Funkcja f jest rosnąca i jej wykres przecina oś Oy w punkcie P = (0, -1). 
+
+Zadanie 9. (0-1)
+Wykresem funkcji kwadratowej f(x) = x^2 - 6x - 3 jest parabola, której wierzchołkiem jest punkt o współrzędnych A. (-6, -3) B. (-6, 69) C. (3, -12) D. (6, -3) 
+
+Zadanie 10. (0-1)
+Liczba 1 jest miejscem zerowym funkcji liniowej f(x) = ax + b, a punkt M = (3, -2) należy do wykresu tej funkcji. Współczynnik a we wzorze tej funkcji jest równy A. 1 B. 3/2 C. -3/2 D. -1 
+
+Zadanie 11. (0-1)
+Dany jest ciąg (a_n) określony wzorem a_n = (5 - 2n) / 6 dla n &gt;= 1. Ciąg ten jest A. arytmetyczny i jego różnica jest równa r = -1/3 B. arytmetyczny i jego różnica jest równa r = -2 C. geometryczny i jego iloraz jest równy q = -1/3 D. geometryczny i jego iloraz jest równy q = 5/6 
+
+Zadanie 12. (0-1)
+Dla ciągu arytmetycznego (a_n), określonego dla n &gt;= 1, jest spełniony warunek a_4 + a_5 + a_6 = 12. Wtedy A. a_5 = 4 B. a_5 = 3 C. a_5 = 6 D. a_5 = 5 
+
+Zadanie 13. (0-1)
+Dany jest ciąg geometryczny (a_n), określony dla n &gt;= 1, w którym a_1 = sqrt{2}, a_2 = 2sqrt{2}, a_3 = 4sqrt{2}. Wzór na n-ty wyraz tego ciągu ma postać A. a_n = (sqrt{2})^n B. a_n = (2^n) / sqrt{2} C. a_n = (sqrt{2}/2)^n D. a_n = ((sqrt{2})^n) / 2 
+
+Zadanie 14. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przyprostokątna LM trójkąta prostokątnego KLM ma długość 3, a przeciwprostokątna KL ma długość 8 (zobacz rysunek). Wtedy miara alpha kąta ostrego LKM tego trójkąta spełnia warunek A. 27° &lt; alpha &lt;= 30° B. 24° &lt; alpha &lt;= 27° C. 21° &lt; alpha &lt;= 24° D. 18° &lt; alpha  b. Kąt KLM ma miarę 60°. Długość ramienia LM tego trapezu jest równa A. a - b B. 2(a - b) C. a + 0,5b D. (a + b) / 2 
+
+Zadanie 18. (0-1)
+Punkt K = (2, 2) jest wierzchołkiem trójkąta równoramiennego KLM, w którym |KM| = |LM|. Odcinek MN jest wysokością trójkąta i N = (4, 3). Zatem A. L = (5, 3) B. L = (6, 4) C. L = (3, 5) D. L = (4, 6) 
+
+Zadanie 19. (0-1)
+Proste o równaniach y = (m + 2)x + 3 oraz y = (2m - 1)x - 3 są równoległe, gdy A. m = 2 B. m = 3 C. m = 0 D. m = 1 
+
+Zadanie 20. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Podstawą ostrosłupa jest kwadrat KLMN o boku długości 4. Wysokością tego ostrosłupa jest krawędź NS, a jej długość też jest równa 4 (zobacz rysunek). Kąt alpha, jaki tworzą krawędzie KS i MS, spełnia warunek A. alpha = 45° B. 45° &lt; alpha  60° D. alpha = 60° 
+
+Zadanie 21. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Podstawą graniastosłupa prostego jest prostokąt o bokach długości 3 i 4. Kąt alpha, jaki przekątna tego graniastosłupa tworzy z jego podstawą, jest równy 45° (zobacz rysunek). Wysokość graniastosłupa jest równa A. 5 B. 3sqrt{2} C. 5sqrt{2} D. (5sqrt{3}) / 3 
+
+Zadanie 22. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku przedstawiono bryłę zbudowaną z walca i półkuli. Wysokość walca jest równa r i jest taka sama jak promień półkuli oraz taka sama jak promień podstawy walca. Objętość tej bryły jest równa A. (5/3) * pi * r^3 B. (4/3) * pi * r^3 C. (2/3) * pi * r^3 D. (1/3) * pi * r^3 
+
+Zadanie 23. (0-1)
+W zestawie m liczb 2 i m liczb 4 (łącznie 2m liczb, gdzie m &gt;= 1):
+2, 2, 2, ..., 2, 4, 4, 4, ..., 4
+Odchylenie standardowe tego zestawu liczb jest równe 
+A. sqrt{2}
+B. 1
+C. 1/2
+D. 2
+
+Zadanie 24. (0-1)
+Ile jest wszystkich liczb naturalnych czterocyfrowych mniejszych od 2018 i podzielnych przez 5? A. 402 B. 403 C. 203 D. 204 
+
+Zadanie 25. (0-1)
+W pudełku jest 50 kuponów, wśród których jest 15 kuponów przegrywających, a pozostałe kupony są wygrywające. Z tego pudełka w sposób losowy wyciągamy jeden kupon. Prawdopodobieństwo zdarzenia polegającego na tym, że wyciągniemy kupon wygrywający, jest równe 
+A. 15/35
+B. 1/50
+C. 15/50
+D. 35/50
+
+Zadanie 26. (0-2)
+Rozwiąż nierówność: 2x^2 - 3x - 5 = 4 / (a + b) 
+
+Zadanie 29. (0-2)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Okręgi o środkach odpowiednio A i B są styczne zewnętrznie i każdy z nich jest sztuczny do obu ramion danego kąta prostego (zobacz rysunek). Promień okręgu o środku A jest równy 2. Uzasadnij, że promień okręgu o środku B jest mniejszy od 2sqrt{2} - 2. 
+
+Zadanie 30. (0-2)
+Do wykresu funkcji wykładniczej, określonej dla każdej liczby rzeczywistej x wzorem f(x) = a^x (gdzie a &gt; 0 i a != 1), należy punkt P = (2, 9). Oblicz a i zapisz zbiór wartości funkcji g, określonej wzorem g(x) = f(x) - 2. 
+
+Zadanie 31. (0-2)
+Dwunasty wyraz ciągu arytmetycznego (a_n), określonego dla n &gt;= 1, jest równy 30, a suma jego dwunastu początkowych wyrazów jest równa 162. Oblicz pierwszy wyraz tego ciągu. 
+
+Zadanie 32. (0-5)
+W układzie współrzędnych punkty A = (4, 3) i B = (10, 5) są wierzchołkami trójkąta ABC. Wierzchołek C leży na prostej o równaniu y = 2x + 3. Oblicz współrzędne punktu C, dla którego kąt ABC jest prosty. 
+
+Zadanie 33. (0-4)
+Dane są dwa zbiory: A = {100, 200, 300, 400, 500, 600, 700} i B = {10, 11, 12, 13, 14, 15, 16}. Z każdego z nich losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że suma wylosowanych liczb będzie podzielna przez 3. Obliczone prawdopodobieństwo zapisz w postaci nieskracalnego ułamka zwykłego. 
+
+Zadanie 34. (0-4)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Dany jest graniastosłup prawidłowy trójkątny (zobacz rysunek). Pole powierzchni całkowitej tego graniastosłupa jest równe 45sqrt{3}. Pole podstawy graniastosłupa jest równe polu jednej ściany bocznej. Oblicz objętość tego graniastosłupa.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+
+CK
+CENTRALNA
+KOMISJA
+EGZAMINACYJNA
+
+EGZAMIN MATURALNY
+W ROKU SZKOLNYM 2017/2018
+
+MATEMATYKA
+POZIOM PODSTAWOWY
+
+FORMUŁA OD 2015
+(,,NOWA MATURA")
+
+ZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ
+ARKUSZ MMA-P1
+MAJ 2018
+
+---
+
+Zadania zamknięte
+
+Punkt przyznaje się za wskazanie poprawnej odpowiedzi (zaznaczenie właściwego pola na karcie odpowiedzi).
+
+Zadanie 1. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: D
+
+Zadanie 2. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający posługuje się w obliczeniach pierwiastkami dowolnego stopnia i stosuje prawa działań na pierwiastkach (1.3).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: A
+
+Zadanie 3. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D
+
+Zadanie 4. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: A
+
+Zadanie 5. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą (3.3).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C
+
+Zadanie 6. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci kanonicznej, w postaci ogólnej i w postaci iloczynowej (o ile istnieje) (4.10).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D
+
+Strona 2 z 25
+
+---
+
+Zadanie 7. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych (3.8).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B
+
+Zadanie 8. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji liniowej (4.7).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B
+
+Zadanie 9. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 4. Funkcje. Zdający szkicuje wykresu funkcji kwadratowej, korzystając z jej wzoru (4.8).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D
+
+Zadanie 10. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji liniowej na podstawie informacji o funkcji lub o jej wykresie (4.6).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: A
+
+Zadanie 11. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający bada, czy dany ciąg jest arytmetyczny lub geometryczny (5.2).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: B
+
+Zadanie 12. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C
+
+Zadanie 13. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego (5.4).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: A
+
+Strona 3 z 25
+
+---
+
+Zadanie 14. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 6. Trygonometria. Zdający korzysta z przybliżonych wartości funkcji trygonometrycznych - odczytanych z tablic (6.2).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D
+
+Zadanie 15. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów (7.3).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C
+
+Zadanie 16. (0-1)
+Wymagania ogólne: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 7. Planimetria. Zdający stosuje zależności między kątem środkowym i kątem wpisanym (7.1).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: B
+
+Zadanie 17. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych (7.4).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: D
+
+Zadanie 18. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza współrzędne środka odcinka (8.5).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: A
+
+Zadanie 19. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych (8.2).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: C
+
+Zadanie 20. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np. krawędziami, krawędziami i przekątnymi, itp.), oblicza miary tych kątów (9.1).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: A
+
+Strona 4 z 25
+
+---
+
+Zadanie 21. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąt między odcinkami i płaszczyznami (między krawędziami i ścianami, przekątnymi i ścianami), oblicza miary tych kątów (9.2).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C
+
+Zadanie 22. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość walca, stożka, kuli (G11.2).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C
+
+Zadanie 23. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza średnią ważoną i odchylenie standardowe zestawu danych (także w przypadku danych odpowiednio pogrupowanych), interpretuje te parametry dla danych empirycznych (10.1).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: D
+
+Zadanie 24. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania (10.2).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B
+
+Zadanie 25. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B
+
+Strona 5 z 25
+
+---
+
+Ogólne zasady oceniania zadań otwartych
+Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania.
+
+Zadanie 26. (0-2)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą (3.5).
+
+Przykładowe rozwiązanie
+Rozwiązanie nierówności kwadratowej składa się z dwóch etapów.
+Pierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego 2x^2 - 3x - 5.
+Drugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej.
+
+Pierwszy etap rozwiązania może zostać zrealizowany następująco:
+zapisujemy nierówność w postaci 2x^2 - 3x - 5 &gt; 0 i obliczamy pierwiastki trójmianu kwadratowego 2x^2 - 3x - 5
+albo
+
+* obliczamy wyróżnik tego trójmianu:
+Delta = 9 - 4 * 2 * (-5) = 49 i stąd x_1 = (3 - 7) / 4 = -1 oraz x_2 = (3 + 7) / 4 = 5/2
+* stosujemy wzory Viète'a:
+x_1 * x_2 = -5/2 oraz x_1 + x_2 = 3/2, stąd x_1 = -1 oraz x_2 = 5/2.
+
+Drugi etap rozwiązania: podajemy zbiór rozwiązań nierówności: (-nieskończoność, -1) suma (5/2, +nieskończoność) lub x należy do (-nieskończoność, -1) suma (5/2, +nieskończoność)
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, np.
+* obliczy lub poda pierwiastki trójmianu kwadratowego x_1 = -1 i x_2 = 5/2 i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności,
+* zaznaczy na wykresie miejsca zerowe funkcji f(x) = 2x^2 - 3x - 5 i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności
+albo
+
+
+* realizując pierwszy etap popełni błędy, ale otrzyma nierówność, w której po jednej stronie występuje pełny trójmian kwadratowy posiadający dwa różne pierwiastki i konsekwentnie do popełnionych błędów wyznaczy zbiór rozwiązań nierówności.
+
+Zdający otrzymuje 2 p. gdy:
+
+* poda zbiór rozwiązań nierówności: (-nieskończoność, -1) suma (5/2, +nieskończoność) lub x należy do (-nieskończoność, -1) suma (5/2, +nieskończoność), lub x  5/2
+
+Strona 6 z 25
+
+---
+
+albo
+
+* poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów
+-1
+5/2
+X
+
+Uwagi
+
+1. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy obliczony wyróżnik Delta jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+3. Akceptujemy zapisanie odpowiedzi w postaci: x  5/2, x  5/2, itp.
+4. Jeżeli zdający poprawnie obliczy pierwiastki trójmianu x_1 = -1, x_2 = 5/2 i błędnie zapisze odpowiedź, np. x należy do (-nieskończoność, 1) suma (5/2, +nieskończoność), popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to otrzymuje 2 punkty.
+5. Jeżeli zdający po poprawnym rozwiązaniu nierówności zapisuje w odpowiedzi, jako zbiór rozwiązań, zbiór, zawierający elementy nienależące do zbioru (-nieskończoność, -1) suma (5/2, +nieskończoność) lub zbiór pusty, to otrzymuje 1 punkt.
+Zapisanie w miejscu przeznaczonym na odpowiedź pierwiastków trójmianu kwadratowego nie jest traktowane jak opis zbioru rozwiązań.
+
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci (-nieskończoność, 5/2) suma (-1, +nieskończoność), (+nieskończoność, 5/2) suma (-1, -nieskończoność), to przyznajemy 2 punkty.
+
+Zadanie 27. (0-2)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu x(x+1)(x-7)=0 (3.7).
+
+Przykładowe rozwiązanie
+Lewa strona równania jest iloczynem dwóch czynników x^3 + 125 oraz x^2 - 64. Zatem iloczyn ten jest równy 0, gdy co najmniej jeden z tych czynników jest równy 0, czyli x^3 + 125 = 0 lub x^2 - 64 = 0.
+Rozwiązaniem równania x^3 + 125 = 0 jest x = pierwiastek_3_stopnia_z(-125) = -5.
+Równanie x^2 - 64 = 0 doprowadzamy do postaci (x - 8) * (x + 8) = 0. Przynajmniej jeden z czynników x - 8 lub x + 8 jest równy 0, czyli x = 8 lub x = -8.
+Równanie (x^3 + 125)(x^2 - 64) = 0 ma trzy rozwiązania rzeczywiste: x = -5, x = 8 oraz x = -8.
+
+Strona 7 z 25
+
+---
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* zapisze dwa równania x^3 + 125 = 0 i x^2 - 64 = 0
+lub
+* wyznaczy poprawnie (lub poda) rozwiązania jednego z równań: x^3 + 125 = 0 lub x^2 - 64 = 0 i na tym zakończy lub dalej popełni błędy.
+
+Zdający otrzymuje 2 p. gdy wyznaczy wszystkie rozwiązania równania: x = -5, x = 8, x = -8.
+
+Uwagi
+
+1. Jeżeli zdający poda wszystkie rozwiązania równania, bez rachunków lub uzasadnienia, to otrzymuje 2 punkty.
+2. Jeżeli zdający uzyska trafne rozwiązania równania, ale w wyniku błędnej metody, to otrzymuje 0 punktów, o ile nie uzyska 1 punktu za zapisanie dwóch równań: x^3 + 125 = 0, x^2 - 64 = 0.
+3. Jeżeli zdający poprawnie wyznaczy pierwiastki wielomianu (x^3 + 125)(x^2 - 64) i poda niewłaściwą odpowiedź, np. x należy do R - {-8, -5, 8}, to otrzymuje 1 punkt.
+
+Zadanie 28. (0-2)
+Wymagania ogólne: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia na (a +/- b)^2 oraz a^2 - b^2 (2.1).
+
+Przykładowe rozwiązania
+I sposób
+Nierówność możemy przekształcić równoważnie:
+(a + b) / (2ab) &gt;= 2 / (a + b)
+Ponieważ liczby a i b są dodatnie, więc a + b &gt; 0 i 2ab &gt; 0. Mnożąc obie strony nierówności przez 2ab(a + b), otrzymujemy:
+(a + b)^2 &gt;= 4ab
+a^2 + 2ab + b^2 &gt;= 4ab
+a^2 - 2ab + b^2 &gt;= 0
+(a - b)^2 &gt;= 0
+Ta nierówność jest prawdziwa dla dowolnych liczb rzeczywistych a i b, więc w szczególności również dla liczb dodatnich.
+To kończy dowód.
+
+Strona 8 z 25
+
+---
+
+II sposób
+Nierówność możemy przekształcić równoważnie:
+(a + b) / (2ab) - 2 / (a + b) &gt;= 0
+[(a + b)^2 - 4ab] / [2ab(a + b)] &gt;= 0
+Ponieważ liczby a i b są dodatnie, więc a + b &gt; 0 i 2ab &gt; 0. Mnożąc obie strony nierówności przez 2ab(a + b), otrzymujemy:
+(a + b)^2 - 4ab &gt;= 0
+a^2 + 2ab + b^2 - 4ab &gt;= 0
+a^2 - 2ab + b^2 &gt;= 0
+(a - b)^2 &gt;= 0
+Ta nierówność jest prawdziwa dla dowolnych liczb rzeczywistych a i b, więc w szczególności również dla liczb dodatnich. To kończy dowód.
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy zapisze nierówność w postaci (a + b)^2 &gt;= 4ab lub (a + b)^2 - 4ab &gt;= 0, lub [(a + b)^2 - 4ab] / [2ab(a + b)] &gt;= 0 i na tym zakończy lub dalej popełni błędy.
+
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie.
+
+Uwagi
+
+1. Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający zakończy rozumowanie, zapisując nierówność a^2 + b^2 &gt;= 2ab i nie powoła się na stosowne twierdzenie, to otrzymuje 1 punkt.
+3. Jeżeli zdający przeprowadzi poprawne rozumowanie, które zakończy zapisaniem nierówności (a - b)^2 &gt;= 0, to otrzymuje 2 punkty.
+
+Strona 9 z 25
+
+---
+
+Zadanie 29. (0-4)
+Wymagania ogólne: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności stycznej do okręgu i własności okręgów stycznych (7.2).
+
+Przykładowe rozwiązania
+I sposób
+Przyjmijmy oznaczenia jak na rysunku.
+[Opis rysunku pomocniczego: Kąt prosty o wierzchołku S. Okrąg o środku A i promieniu 2 jest styczny do ramion kąta w punktach D i C. Mniejszy okrąg o środku B i promieniu r jest wpisany w róg kąta S, styczny do ramion kąta oraz zewnętrznie styczny do większego okręgu w punkcie E na linii AS. Na odcinkach zaznaczono długości: |AD|=2, |AC|=2, promień małego okręgu r, linia BS przechodzi przez środek B, odcinek AE ma długość 2].
+Wtedy |AS| = 2 * pierwiastek(2) oraz |AE| = 2. Zatem
+|SE| = 2 * pierwiastek(2) - 2.
+Średnica okręgu o środku B i promieniu r jest krótsza od odcinka SE, więc
+2r &lt; 2 * pierwiastek(2) - 2, czyli r &lt; pierwiastek(2) - 1.
+Co kończy dowód.
+
+II sposób
+Przyjmijmy oznaczenia jak na rysunku.
+[Opis rysunku pomocniczego: Podobny układ z punktami styczności małego okręgu z ramionami kąta oznaczonymi jako G i F, promienie r doprowadzone do punktów styczności].
+Wtedy |AS| = 2 * pierwiastek(2), |BS| = r * pierwiastek(2) oraz |AE| = 2.
+Ponieważ |AS| = |BS| + |BE| + |AE|, więc otrzymujemy
+2 * pierwiastek(2) = r * pierwiastek(2) + r + 2,
+r * (pierwiastek(2) + 1) = 2 * pierwiastek(2) - 2
+
+Strona 10 z 25
+
+---
+
+Strona 11 z 25
+Stąd mnożąc obie strony tego równania przez pierwiastek(2) - 1 otrzymujemy
+r * (pierwiastek(2) + 1) * (pierwiastek(2) - 1) = (2 * pierwiastek(2) - 2) * (pierwiastek(2) - 1),
+r * (2 - 1) = 2 * 2 - 2 * pierwiastek(2) - 2 * pierwiastek(2) + 2,
+r = 4 - 4 * pierwiastek(2) + 2,
+r = 6 - 4 * pierwiastek(2).
+
+Sprawdźmy, czy r &lt; pierwiastek(2) - 1.
+Przekształcamy tę nierówność równoważnie.
+6 - 4 * pierwiastek(2) &lt; pierwiastek(2) - 1
+7 &lt; 5 * pierwiastek(2)
+49 &lt; 25 * 2
+49 &lt; 50
+Ponieważ 49 &lt; 50 jest prawdą, więc 7 &lt; 5 * pierwiastek(2). Oznacza to, że r  0.
+Stąd a = pierwiastek_9_stopnia_z(2).
+Zbiorem wartości funkcji wykładniczej f jest przedział (0, +nieskończoność).
+Wykres funkcji g powstaje przez przesunięcie wykresu funkcji f o 2 jednostki w dół.
+Zatem zbiorem wartości funkcji g jest przedział (-2, +nieskończoność).
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* obliczy a: a = pierwiastek_9_stopnia_z(2)
+albo
+* zapisze zbiór wartości funkcji g: (-2, +nieskończoność)
+i na tym zakończy lub dalej popełni błędy.
+
+Zdający otrzymuje 2 p. gdy obliczy a: a = pierwiastek_9_stopnia_z(2) i zapisze zbiór wartości funkcji g: (-2, +nieskończoność).
+
+Uwaga
+Opis zbioru wartości uznaje się za poprawny, jeśli zbiór ten jest przedstawiony graficznie w sposób jednoznacznie wskazujący, że liczba -2 nie należy do tego zbioru, lub zbiór ten jest opisany słownie, lub jakąkolwiek poprawną nierównością.
+
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór wartości funkcji w postaci (+nieskończoność, -2), to przyznajemy 2 punkty, o ile obliczy a = pierwiastek_9_stopnia_z(2).
+
+---
+
+Strona 13 z 25
+Zadanie 31. (0–2)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).
+
+Przykładowe rozwiązania
+I sposób
+Korzystamy ze wzoru na n-ty wyraz ciągu arytmetycznego i zapisujemy wzór na a_12:
+a_12 = a_1 + (12 - 1) * r.
+Korzystamy ze wzoru na sumę n początkowych wyrazów ciągu arytmetycznego i zapisujemy wzór na S_12:
+S_12 = [2 * a_1 + (12 - 1) * r] / 2 * 12.
+Otrzymujemy układ równań a_1 + 11r = 30 i 12 * a_1 + 66r = 162.
+Stąd otrzymujemy a_1 = -3.
+
+II sposób
+Korzystamy ze wzoru na sumę n początkowych wyrazów ciągu arytmetycznego i zapisujemy wzór na S_12:
+S_12 = (a_1 + a_12) / 2 * 12.
+Otrzymujemy równanie:
+(a_1 + 30) / 2 * 12 = 162.
+Stąd otrzymujemy a_1 = -3.
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* zapisze dwa równania z niewiadomymi a_1 i r wynikające z zastosowania poprawnych wzorów na n-ty wyraz ciągu arytmetycznego i sumę n początkowych wyrazów ciągu arytmetycznego:
+np.: a_1 + 11r = 30 i [2 * a_1 + 11r] / 2 * 12 = 162
+albo
+* zapisze równanie z jedną niewiadomą a_1 wynikające z zastosowania poprawnego wzoru na sumę n początkowych wyrazów ciągu arytmetycznego bez wykorzystywania różnicy ciągu:
+np.: (a_1 + 30) / 2 * 12 = 162
+i na tym zakończy lub dalej popełni błędy.
+
+---
+
+Strona 14 z 25
+Zdający otrzymuje 2 p. gdy zapisze równanie z jedną niewiadomą i obliczy pierwszy wyraz ciągu: a_1 = -3.
+
+Uwagi
+
+1. Jeżeli zdający, stosując metodę prób i błędów, zapisze poprawny ciąg poprzez wypisanie 12 początkowych kolejnych wyrazów i ustali, że a_1 = -3, to otrzymuje 2 punkty.
+2. Jeżeli zdający, stosując metodę prób i błędów, wypisze co najmniej trzy kolejne wyrazy i ustali, że a_1 = -3, ale nie zapisze wszystkich 12 początkowych wyrazów ciągu, to otrzymuje 1 punkt.
+3. Jeżeli zdający zapisze tylko a_1 = -3 lub a_1 = -3 i r = 3, to otrzymuje 0 punktów.
+
+Zadanie 32. (0–5)
+Wymagania ogólne: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (8.1). Zdający wyznacza równanie prostej, która jest równoległa lub prostopadła do prostej danej w postaci kierunkowej i przechodzi przez dany punkt (8.3). Zdający oblicza współrzędne punktu przecięcia dwóch prostych (8.4).
+
+Przykładowe rozwiązania
+I sposób – proste prostopadłe
+Obliczamy współczynnik kierunkowy prostej AB: a_AB = 1/3.
+Ponieważ kąt prosty w trójkącie ABC jest przy wierzchołku B, więc wyznaczamy równanie prostej prostopadłej do prostej AB i przechodzącej przez punkt B:
+y = -3x + 35.
+Obliczamy współrzędne punktu C, który jest punktem wspólnym prostych określonych równaniami x + 2y = 3 oraz y = -3x + 35:
+{ x + 2y = 3
+{ y = -3x + 35
+Stąd po rozwiązaniu układu równań otrzymujemy parę x = 32/5 i y = 79/5.
+Zatem punkt C ma współrzędne (32/5, 79/5).
+
+II sposób – twierdzenie Pitagorasa
+Ponieważ wierzchołek C trójkąta prostokątnego ABC leży na prostej o równaniu x + 2y = 3, więc jego współrzędne zapisujemy następująco:
+C(x, -1/2 * x + 3/2).
+Punkt B jest wierzchołkiem kąta prostego, zatem z twierdzenia Pitagorasa wynika, że
+AC^2 = AB^2 + BC^2.
+Po podstawieniu współrzędnych punktów A, B i C otrzymujemy równanie:
+[x - (-4)]^2 + [(-1/2 * x + 3/2) - (-3)]^2 = [5 - (-4)]^2 + [0 - (-3)]^2 + [x - 5]^2 + [(-1/2 * x + 3/2) - 0]^2
+
+---
+
+Strona 15 z 25
+czyli równanie
+x^2 + 8x + 16 + 1/4 * x^2 - 9/2 * x + 81/4 = 81 + 9 + x^2 - 10x + 25 + 1/4 * x^2 - 3/2 * x + 9/4,
+20x = 128
+Zatem x = 32/5.
+Jeśli x = 32/5, to y = 79/5. Zatem C = (32/5, 79/5).
+
+III sposób – iloczyn skalarny
+Wektory niezerowe są prostopadłe wtedy i tylko wtedy, gdy ich iloczyn skalarny jest równy 0. W tym przypadku oznacza to, że iloczyn skalarny wektorów AB i BC jest równy 0.
+Współrzędne wektora AB są równe AB = [6, 2].
+Punkt C ma współrzędne równe (x, -1/2 * x + 3/2), więc współrzędne wektora BC są równe
+BC = [x - 5, -1/2 * x + 3/2].
+Z warunku AB o BC = 0 otrzymujemy równanie
+6 * (x - 5) + 2 * (-1/2 * x + 3/2) = 0,
+6x - 30 - x + 3 = 0,
+5x = 27 -&gt; (Uwaga: w treści oryginalnej pojawia się 32/5 dla x, poprawne przepisanie symboli z dokumentu):
+5x = 32, stąd x = 32/5.
+Zatem C = (32/5, -1/2 * (32/5) + 3/2) = (32/5, 79/5).
+
+Schemat punktowania
+Rozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do pełnego rozwiązania: 1 p.
+Zdający
+
+* uzależni obie współrzędne punktu C od jednej zmiennej, np.: C(x, -1/2 * x + 3/2) lub C(3 - 2y, y)
+albo
+* zapisze równość AC^2 = AB^2 + BC^2 i obliczy długość AB: AB = pierwiastek(40),
+albo
+* zapisze równość AC^2 = AB^2 + BC^2 i zapisze jedną z długości AC lub BC w zależności od współrzędnych punktu C,
+albo
+* obliczy współrzędne wektora AB: AB = [6, 2] i zapisze, że AB o BC = 0,
+
+---
+
+Strona 16 z 25
+albo
+
+* wyznaczy współrzędne wektora BC w zależności od współrzędnych punktu C: BC = [x_C - 5, y_C - 0] i zapisze, że AB o BC = 0,
+albo
+* wyznaczy współrzędne wektora BC w zależności od jednej współrzędnej punktu C, np.: BC = [x - 5, -1/2 * x + 3/2],
+albo
+* obliczy współczynnik kierunkowy równania prostej AB: a_AB = 1/3
+i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający
+
+* wyznaczy współczynnik kierunkowy prostej prostopadłej do prostej AB i przechodzącej przez punkt B: a_BC = -3
+albo
+* zapisze równanie z dwiema niewiadomymi, np.: (x_C - 5)^2 + (y_C - 0)^2 + (5 - (-4))^2 + (0 - (-3))^2 = (x_C - (-4))^2 + (y_C - (-3))^2,
+albo
+* obliczy współrzędne wektora AB: AB = [6, 2], wyznaczy współrzędne wektora BC w zależności od jednej współrzędnej punktu C, np.: BC = [x - 5, -1/2 * x + 3/2] i zapisze, że AB o BC = 0,
+albo
+* zapisze równość wynikającą z warunku AB o BC = 0, w której niewiadomymi są dwie współrzędne punktu C, np.: 6 * (x_C - 5) + 2 * (y_C - 0) = 0
+i na tym zakończy lub dalej popełni błędy.
+
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający zapisze równanie z jedną niewiadomą, która jest współrzędną punktu C, np.:
+6 * (x - 5) + 2 * (-1/2 * x + 3/2) = 0 lub [x - (-4)]^2 + [(-1/2 * x + 3/2) - (-3)]^2 = 90 + (x - 5)^2 + (-1/2 * x + 3/2)^2
+i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie prawie pełne: 4 p.
+Zdający
+
+* obliczy x = 32/5 albo y = 79/5 i na tym zakończy lub dalej popełni błędy
+albo
+* obliczy obie współrzędne punktu C z błędami rachunkowymi.
+
+Rozwiązanie pełne: 5 p.
+Zdający obliczy i zapisze współrzędne punktu C = (32/5, 79/5).
+
+---
+
+Strona 17 z 25
+Uwagi
+
+1. Jeżeli zdający realizuje strategię rozwiązania i popełnia jedynie błędy rachunkowe, to może otrzymać 4 punkty, o ile popełnione błędy nie ułatwiają rozważanego zagadnienia na żadnym etapie rozwiązania.
+2. Jeżeli zdający realizuje strategię rozwiązania, ale popełnia błąd, który jednak nie ułatwia rozważanego zagadnienia na żadnym etapie rozwiązania i:
+a) jedynym błędem merytorycznym w rozwiązaniu jest błąd przy wyznaczaniu współczynnika a_AB, np. a_AB = (y_B - y_A) / (x_B - x_A) zamiast a_AB = (y_B - y_A) / (x_B - x_A) [z błędnym podstawieniem], to zdający otrzymuje co najwyżej 3 punkty;
+b) jedynym błędem merytorycznym w rozwiązaniu jest błąd przy wyznaczaniu równania prostej BC, to zdający otrzymuje co najwyżej 3 punkty;
+c) jedynym błędem merytorycznym w rozwiązaniu jest błąd, polegający na tym, że zdający zapisze błędną równość: AC^2 + AB^2 = BC^2, to zdający otrzymuje co najwyżej 3 punkty;
+d) w I sposobie rozwiązania przyjmie, że kąt prosty jest przy wierzchołku A, to otrzymuje co najwyżej 3 punkty;
+e) jedynym błędem merytorycznym w rozwiązaniu jest błąd przy podstawieniu do wzoru na odległość punktów, nawet trzykrotnie powtórzony, to zdający otrzymuje co najwyżej 3 punkty;
+f) jedynym błędem merytorycznym w rozwiązaniu jest zamiana miejscami współrzędnych punktu C w początkowym etapie rozwiązania, np.: C(-1/2 * x + 3/2, x), to zdający otrzymuje co najwyżej 3 punkty;
+g) jedynym błędem merytorycznym w rozwiązaniu jest przyjęcie bez obliczeń błędnego współczynnika b w równaniu prostej BC (np. b = 0), to zdający otrzymuje co najwyżej 3 punkty.
+3. Jeżeli zdający realizuje pełną strategię rozwiązania, ale popełnia błąd merytoryczny, który jednak nie ułatwia rozważanego zagadnienia na żadnym etapie rozwiązania i tym jedynym błędem merytorycznym jest błąd, polegający na zastosowaniu nieistniejącego wzoru „a_1 * a_2 = 1”, to zdający otrzymuje co najwyżej 3 punkty.
+4. Jeżeli zdający popełnia błąd, polegający na tym, że zapisuje błędną równość: AC^2 + BC^2 = AB^2, to otrzymuje co najwyżej 2 punkty.
+5. Jeżeli zdający wyznaczy równanie prostej prostopadłej do prostej o równaniu x + 2y = 3, to za rozwiązanie zadania otrzymuje 0 punktów, o ile w rozwiązaniu nie występują inne zapisy wymienione w schemacie oceniania, za które należy przyznać zdającemu punkty, np.: wyznaczenie współczynnika prostej AB.
+6. Jeżeli oprócz poprawnego rozwiązania (kąt prosty przy wierzchołku B) zdający podaje inne rozwiązanie (np. kąt prosty przy wierzchołku A), którego nie odrzuca, to otrzymuje co najwyżej 4 punkty.
+7. Jeżeli zdający zapisze równanie prostej AB w postaci ogólnej (np. dokona właściwego podstawienia współrzędnych punktów do równania prostej przechodzącej przez 2 punkty) i na tym zakończy lub dalej popełnia błędy, to otrzymuje 1 punkt.
+
+---
+
+Strona 18 z 25
+Zadanie 33. (0–2)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+
+Przykładowe rozwiązania
+I sposób
+Zdarzeniem elementarnym jest uporządkowana para (x, y), gdzie x należy do A i y należy do B.
+Zatem zbiór wszystkich zdarzeń elementarnych Omega ma postać:
+Omega = {(100,10), (100,11), (100,12), (100,13), (100,14), (100,15), (100,16), (200,10), (200,11), (200,12), (200,13), (200,14), (200,15), (200,16), (300,10), (300,11), (300,12), (300,13), (300,14), (300,15), (300,16), (400,10), (400,11), (400,12), (400,13), (400,14), (400,15), (400,16), (500,10), (500,11), (500,12), (500,13), (500,14), (500,15), (500,16), (600,10), (600,11), (600,12), (600,13), (600,14), (600,15), (600,16), (700,10), (700,11), (700,12), (700,13), (700,14), (700,15), (700,16)}.
+Liczba wszystkich zdarzeń elementarnych jest równa |Omega| = 7 * 7 = 49.
+Niech A oznacza zdarzenie polegające na tym, że suma wylosowanych liczb będzie podzielna przez 3. Z cechy podzielności liczby całkowitej przez 3 wynika, że suma cyfr otrzymanej liczby musi być podzielna przez 3. Zbiór A ma postać:
+A = {(100,11), (100,14), (200,10), (200,13), (200,16), (300,12), (300,15), (400,11), (400,14), (500,10), (500,13), (500,16), (600,12), (600,15), (700,11), (700,14)}.
+Zdarzeniu A sprzyja więc 16 zdarzeń elementarnych, czyli |A| = 16.
+Prawdopodobieństwo zdarzenia A jest równe P(A) = |A| / |Omega| = 16/49.
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że suma wylosowanych liczb będzie liczbą podzielną przez 3, jest równe 16/49.
+
+Strona 19 z 25
+Uwaga
+Zdający może zapisać zbiór wszystkich zdarzeń elementarnych jako zbiór sum możliwych do utworzenia w wyniku losowania, tzn. może zastosować zapis: x + y.
+II sposób
+Rysujemy tabelę, która przedstawia model rozważanego doświadczenia.
+
+---
+
+Strona 23 z 25
+2. Jeżeli zdający w swoim rozwiązaniu wypisze 17 zdarzeń elementarnych sprzyjających zdarzeniu A, w tym 16 poprawnych i jedno niepoprawne oraz otrzyma prawdopodobieństwo równe 17/49, to otrzymuje 2 punkty.
+3. Jeżeli zdający w swoim rozwiązaniu wypisze 15 poprawnych zdarzeń elementarnych sprzyjających zdarzeniu A i otrzyma prawdopodobieństwo równe 15/49, to otrzymuje 2 punkty.
+4. Jeżeli zdający w swoim rozwiązaniu przyjmie błędną liczbę wszystkich zdarzeń elementarnych i nie jest to efekt błędu rachunkowego, np. przyjmie |Omega| = 7 + 7 = 14 lub |Omega| = 7 * 6 = 42, to może otrzymać co najwyżej 2 punkty.
+5. Jeżeli zdający w swoim rozwiązaniu zapisze jedynie |Omega| = 49, |A| = 16 i nie przedstawi czytelnego uzasadnienia liczby zdarzeń elementarnych sprzyjających zdarzeniu A, i obliczy P(A) = 16/49, to otrzymuje 1 punkt.
+6. Jeżeli zdający w swoim rozwiązaniu zapisze |Omega| = 49, |A| = 16 oraz zapisze, że suma cyfr utworzonej sumy wylosowanych liczb musi być podzielna przez 3, ale w przedstawionym rozwiązaniu nie można zidentyfikować żadnego zdarzenia elementarnego, które zdający powinien rozważać, to otrzymuje 2 punkty, nawet jeśli w rozwiązaniu występuje poprawny wynik końcowy.
+7. Jeżeli zdający w swoim rozwiązaniu wypisze 16 zdarzeń elementarnych sprzyjających zdarzeniu A, w tym 15 poprawnych i jedno niewłaściwe i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 2 punkty.
+
+Zadanie 34. (0–4)
+Wymagania ogólne: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego (G11.2). 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).
+
+Przykładowe rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku.
+Rozważany graniastosłup ma 5 ścian, a każda z nich ma takie samo pole.
+Obliczamy pole podstawy, a zarazem pole jednej ściany bocznej:
+P = 45 * pierwiastek(3) / 5 = 9 * pierwiastek(3).
+Podstawą graniastosłupa jest trójkąt równoboczny, więc jego pole jest równe P_ABC = a^2 * pierwiastek(3) / 4.
+
+Strona 24 z 25
+Obliczamy długość krawędzi podstawy:
+a^2 * pierwiastek(3) / 4 = 9 * pierwiastek(3) -&gt; a^2 = 36 -&gt; a = 6.
+Ściana boczna jest prostokątem o bokach długości a i h, więc pole każdej ściany bocznej jest równe P_ABED = a * h.
+Z warunków zadania wynika, że: a * h = 9 * pierwiastek(3). Znamy długość krawędzi podstawy a, zatem: 6 * h = 9 * pierwiastek(3).
+Obliczamy wysokość graniastosłupa h = 9 * pierwiastek(3) / 6 = 3 * pierwiastek(3) / 2.
+Objętość graniastosłupa jest równa V = P_ABC * h = 9 * pierwiastek(3) * [3 * pierwiastek(3) / 2] = 81/2.
+
+Schemat punktowania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania: 1 p.
+Zdający
+
+* zapisze zależność między wielkościami a i h wynikającą z równości pól podstawy i ściany bocznej graniastosłupa: a^2 * pierwiastek(3) / 4 = a * h
+albo
+* obliczy pole jednej ściany graniastosłupa: P = 45 * pierwiastek(3) / 5 = 9 * pierwiastek(3),
+albo
+* zapisze równanie: 2 * [a^2 * pierwiastek(3) / 4] + 3 * a * h = 45 * pierwiastek(3)
+albo
+* zapisze równania: P_p = a^2 * pierwiastek(3) / 4 i P_b = a * h i P_p = P_b
+i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający
+
+* zapisze równanie z jedną niewiadomą, pozwalające na wyznaczenie długości krawędzi podstawy lub wysokości graniastosłupa i na tym zakończy lub dalej popełni błędy
+albo
+* uzależni objętość bryły od jednej zmiennej i na tym zakończy lub dalej popełni błędy.
+
+Strona 25 z 25
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający
+
+* obliczy długość krawędzi podstawy i wysokość graniastosłupa: a = 6, h = 3 * pierwiastek(3) / 2,
+albo
+* obliczy długość krawędzi podstawy graniastosłupa: a = 6 i uzależni objętość bryły od jednej zmiennej a lub obliczy wysokość graniastosłupa i uzależni objętość bryły od jednej zmiennej h i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie pełne: 4 p.
+Zdający obliczy objętość graniastosłupa: V = 81/2.
+
+Uwagi
+
+1. Jeżeli zdający realizuje strategię rozwiązania, a jedynymi błędami w przedstawionym rozwiązaniu są błędy rachunkowe, to otrzymuje 3 punkty.
+2. Jeżeli zdający popełnia błąd polegający na niepoprawnym stosowaniu wzoru na pole trójkąta równobocznego albo wzoru na pole prostokąta, to otrzymuje 2 punkty, o ile nie popełnia innych błędów i rozwiąże zadanie do końca.
+3. Jeżeli zdający popełnia błąd, polegający na niewłaściwym określeniu zależności między polem podstawy a polem ściany bocznej i w efekcie rozważa jeden z trzech przypadków: P_p = 2 * P_b, P_b = 3 * P_p, 2 * P_p = 3 * P_b, albo błąd, polegający na przyjęciu, że graniastosłup ma trzy ściany boczne i jedną podstawę, to otrzymuje 2 punkty, o ile nie popełnia innych błędów i rozwiąże zadanie do końca.
+4. Jeżeli zdający popełnia jeden błąd, opisany w uwagach 2. lub 3., a ponadto popełnia błędy rachunkowe, ale poprawnie obliczy pole jednej ściany albo realizuje strategię rozwiązania, to otrzymuje co najwyżej 1 punkt.
+5. Jeżeli zdający popełnia inne niż wymienione w uwagach 2. lub 3. błędy, dotyczące pól ścian bryły, ale poprawnie obliczy pole jednej ściany albo realizuje strategię rozwiązania, to otrzymuje co najwyżej 1 punkt.
+6. Jeżeli zdający rozważa graniastosłup trójkątny, który nie jest prawidłowy, to może otrzymać co najwyżej 1 punkt.

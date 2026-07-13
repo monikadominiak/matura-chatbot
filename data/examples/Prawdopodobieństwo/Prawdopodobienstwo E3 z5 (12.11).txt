@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+W urnie jest 5 kul białych i 4 czarne. Rzucamy 3 razy monetą. Jeśli orzeł wypadnie 1 lub 2 razy losujemy bez zwracania dwie kule, w przeciwnym wypadku losujemy jedną kulę. Jakie jest prawdopodobieństwo wylosowania dokładnie jednej kuli białej?
+
+1️⃣ analizujemy polecenie
+
+🟡
+
+3x rzut monetą
+
+B₁ - orzeł 1 lub 2 razy → los. 2 kule
+
+B₂ - orzeł 0 lub 3 razy → los. 1 kulę
+
+A - wylosowanie dokładnie jednej kuli białej
+
+2️⃣ jest to zadanie na prawd. całkowite, rozwiążemy je metodą "drzewka"
+
+3 rzuty monetą
+
+→ orzeł 1 lub 2 razy
+
+→ {ORR, ROR, RRO, OOR, ORO, ROO}
+
+⅝ → 2 kule
+
+⅖ → B
+⅘ → C
+
+→ orzeł 0 lub 3 razy
+
+→ {RRR, OOO}
+
+⅜ → 1 kula
+
+⅗ → B
+
+3️⃣ P(A) = ⅜·⅘·⅝ + ⅝·⅘·⅘ + ⅖·⅘ =
+
+= ¹²⁰/⁵⁷⁶ + ¹²⁰/⁵⁷⁶ + ¹°/⁷² = ³²⁰/⁵⁷⁶ = ⁵/₉
+
+Odp: ⁵/₉

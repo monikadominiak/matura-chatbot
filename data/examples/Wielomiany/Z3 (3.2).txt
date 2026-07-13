@@ -1,0 +1,20 @@
+
+--- STRONA 1 ---
+z3 (3.2)
+
+Znajdź współczynnik b wiedząc, że wielomian W(x)=x^3+bx^2+6x+4 jest podzielny przez dwumian x+2.
+
+Aby rozwiązać to zadanie sprawnie skorzystamy z twierdzenia Bézouta:
+
+Wielomian W(x) jest podzielny przez dwumian (x-a) wtedy i tylko wtedy, gdy liczba a jest pierwiastkiem tego wielomianu.
+
+Zatem:
+
+W(-2)=0
+
+-8+4b-12+4=0
+4b-16=0
+4b=16
+b=4
+
+Odp: b=4.

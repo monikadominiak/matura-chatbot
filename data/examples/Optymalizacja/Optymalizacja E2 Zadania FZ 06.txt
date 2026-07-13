@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+F26
+
+f(x) = ∛(x + 4) + 4/x , x ≠ 0 , x₀ = 4
+
+wzór na styczną: y = f'(x₀)(x - x₀) + f(x₀)
+
+➀ wyznaczamy wzór na f'(x)
+
+f'(x) = (∛(x + 4))' + (4/x)' = 1/3∛(x + 4)^2 - 4/x²
+
+(∛(x + 4))' ⇒ (x + 4)^(1/3) ⇒ 1/3(x + 4)^(-2/3) = 1/3∛(x + 4)^2
+
+(4/x)' ⇒ 4⋅x^(-1) ⇒ -4⋅x^(-2) = -4/x²
+
+➁ liczymy kolejno f'(x₀) i f(x₀)
+
+f'(4) = 1/3∛(4 + 4)^2 - 4/4² = 1/3⋅4 - 1/4 = -1/6
+
+f(4) = ∛(4 + 4) + 4/4 = 2 + 1 = 3
+
+➂ wstawiamy wyliczone wartości do wzoru na styczną
+y = -1/6(x - 4) + 3 = -1/6⋅x + 2/3 + 3
+
+odp: y = -1/6⋅x + 3 2/3

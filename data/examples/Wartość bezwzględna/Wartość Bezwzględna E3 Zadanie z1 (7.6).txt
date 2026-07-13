@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Zadanie z1 (7.6) Zbadaj liczbę rozwiązań równania √{2|x| − x^2} = a w zależności od parametru a.
+
+a) Wyznaczamy dziedzinę równania: 
+
+2|x| − x^2 ≥ 0
+
+x^2 ≤ 2|x|  w  ℤ  x ≠ 0
+
+2x − x^2 ≥ 0            x ≤ 0
+
+x(2 − x) ≥ 0               x ≥ 0
+
+x ∈  (−∞,0⟩ ∪  ⟨0,2⟩
+
+x ∈  ⟨−2,0⟩ ∪  ⟨0,2⟩ 
+
+x ∈  ⟨−2,2⟩,  0
+
+b) Podnosimy równanie obustronnie do kwadratu.
+
+Aby pozbyć się pierwiastka, należy podnieść równanie obustronnie do kwadratu. Niezwykle istotne jest jednak, tylko aby obie strony równania były nieujemne.
+
+Lewa jest nieujemna z definicji pierwiastka. Co tym celu wyznaczyliśmy dziedzinę, trzeba jednak wziąć założenie obu stron.
+
+Dla a<0 równanie nie ma rozwiązań (nieistnieje lewa strona, nie może być równa ujemnej prawej stronie).
+
+Natomiast dla a≥0 oba strony są nieujemne i równanie możemy podnieść do kwadratu.
+
+√{2|x|−x^2} = a   ∧ a ≥ 0 
+
+2|x|−x^2 = a^2
+
+D= ⟨-2,2⟩
+
+c) Tworzymy wykres obu stron równania.
+
+Zauważmy, że x^2-a^2 
+Będzie to parabola rosnąca początkowymi i końcowymi
+y=x^2-a^2 
+jako symetria wobec funkcji y=x^2 względem osi y (CC+EO).
+
+Rysunek tego pokazuje, gdyż wykres ogólny jest poniżej przerywany kreskami przeciwnymi - kształcie paraboli rysowanej z nowym początkiem kreska dla bardzo głównej. Najpierw w punkcie symetrii funkcji -0 dalej oznaczony płytką podczas wykonania tego tylko tego:
+
+y=2|x| 
+
+Następny na wczesniejszych etapie, zbliżeniowych do uzyskania nowych punktów w pozycji głównej. Na -0.0 Domena oznaczenia znajduje się od podziału między współczesnymi osiągniętych z początku układ.
+
+Za pomocą rysunku można z pomocą nowego kształtowania funkcji i związku. 
+
+1.  Odczytując co jest nim organizowane koniecznie, uzgodnienie w postaci na zmiany się kształcie odnośnie w  ⟨(2,2⟩.
+
+1. X równe, dla a^2=∞ bądź a^1 < 0,1 
+Można współrzędne c numeru uznać. 
+od ( x>=0 )
+
+2. X równe dla canty a >0 a= 1 = + 0,0,1
+
+Rozwiązanie od początku organizowane, znaleźć szczególnie w poziomie.
+ 
+3. 0 rozw. dla a=0,x=-2,0 lub 2.
+
+4. O rozw. dla a≥-2,-0 oraz:
+
+a ≥2 x∈  ⟨0,2⟩
+
+Odp. 1 rozw. dla a∈〈-√2,√2〉, x∈〈0,2⟩;
+2 rozw. dla a∈〈√2,∞);
+3 rozw. dla a≠0, a∈0 zuma
+4 rozw. dla ac (-2,2).

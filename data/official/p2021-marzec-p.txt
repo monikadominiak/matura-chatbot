@@ -1,0 +1,255 @@
+Matura próbna podstawowa - marzec 2021 - arkusz oraz klucz odpowiedzi:
+
+Zadanie 1. (0-1)
+Liczba $(sqrt{6}-sqrt{2})^{2}-2sqrt{3}$ jest równa
+A. $8-6sqrt{3}$
+B. $8-2sqrt{3}$
+C. $4-2sqrt{3}$
+D. $8-4sqrt{3}$
+Zadanie 2. (0-1)
+Liczba $2 log_{5}4-3 log_{5}frac{1}{2}$ jest równa
+A. $-log_{5}frac{7}{2}$
+B. $7 log_{5}2$
+C. $-log_{5}2$
+D. $log_{5}2$
+Zadanie 3. (0-1)
+Medyczna maseczka ochronna wielokrotnego użytku z wymiennymi filtrami wskutek podwyżki zdrożała o 40% i kosztuje obecnie 106,40 zł.
+Cena maseczki przed podwyżką była równa
+A. 63,84 zł
+B. 65,40 zł
+C. 76,00 zł
+D. 66,40 zł
+Zadanie 4. (0-1)
+Dla każdej dodatniej liczby b wyrażenie $(sqrt{b}cdotsqrt[4]{b})^{frac{1}{3}}$ jest równe
+A. $b^{2}$
+B. $b^{0,25}$
+C. $b^{frac{8}{3}}$
+D. $b^{frac{4}{3}}$
+Zadanie 5. (0-1)
+Para liczb $x=1, y=-3$ spełnia układ równań
+${begin{matrix}x-y=a^{2} (1+a)x-3y=-4aend{matrix}$
+Wtedy a jest równe
+A. 2
+B. -2
+C. $sqrt{2}$
+D. $-sqrt{2}$
+Zadanie 6. (0-1)
+Iloczyn wszystkich rozwiązań równania $2(x-4)(x^{2}-1)=0$ jest równy
+A. -8
+B. -4
+C. 4
+D. 8
+Zadanie 7. (0-1)
+Zbiorem rozwiązań nierówności $frac{12-5x}{2}b$). Miara kąta ostrego trapezu jest równa $30^{circ}$. Wtedy wysokość tego trapezu jest równa
+A. $frac{a-b}{2}cdotsqrt{3}$
+B. $frac{a-b}{6}cdotsqrt{3}$
+C. $frac{a+b}{2}$
+D. $frac{a+b}{4}$
+Zadanie 24. (0-1)
+Przekątna sześcianu ma długość $5sqrt{3}$. Wtedy objętość tego sześcianu jest równa
+A. 125
+B. 75
+C. $375sqrt{3}$
+D. $125sqrt{3}$
+Zadanie 25. (0-1)
+Ostrosłupy prawidłowe trójkątne $O_1$ i $O_2$ mają takie same wysokości. Długość krawędzi podstawy ostrosłupa $O_1$ jest trzy razy dłuższa od długości krawędzi podstawy ostrosłupa $O_2$. Stosunek objętości ostrosłupa $O_1$ do objętości ostrosłupa $O_2$ jest równy
+A. 3 : 1
+B. 1 : 3
+C. 9 : 1
+D. 1 : 9
+Zadanie 26. (0-1)
+Wszystkich liczb naturalnych trzycyfrowych parzystych, w których cyfra 7 występuje dokładnie jeden raz, jest
+A. 85
+B. 90
+C. 100
+D. 150
+Zadanie 27. (0-1)
+Ze zbioru liczb naturalnych dwucyfrowych losujemy jedną liczbę. Prawdopodobieństwo zdarzenia polegającego na tym, że wylosowana liczba jest podzielna przez 5, jest równe
+A. 2/5
+B. 5/100
+C. 5/90
+D. 18/90
+Zadanie 28. (0-1)
+Liczba $x$ jest dodatnia. Mediana zestawu czterech liczb: $1+x, 1+2x, 4+3x, 1$, jest równa 10. Wtedy
+A. $x=6$
+B. $x=5,5$
+C. $x=2,5$
+D. $x=1$
+Zadanie 29. (0-2)
+Rozwiąż nierówność:
+$3x(x+1) &gt; x^{2}+x+24$
+Zadanie 30. (0-2)
+Rozwiąż równanie:
+$frac{6x-1}{3x-2} = 3x+2$
+Zadanie 31. (0-2)
+Dany jest trójkąt prostokątny, którego przyprostokątne mają długości a i b. Punkt O leży na przeciwprostokątnej tego trójkąta i jest środkiem okręgu stycznego do przyprostokątnych tego trójkąta (zobacz rysunek). Wykaż, że promień r tego okręgu jest równy $frac{ab}{a+b}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 32. (0-2)
+Kąt $alpha$ jest ostry i $sin alpha + cos alpha = frac{7}{5}$. Oblicz wartość wyrażenia $2 sin alpha cos alpha$.
+Zadanie 33. (0-2)
+Dany jest czworokąt ABCD, w którym $|BC|=|CD|=|AD|=13$ (zobacz rysunek). Przekątna BD tego czworokąta ma długość 10 i jest prostopadła do boku AD. Oblicz pole czworokąta ABCD.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 34. (0-2)
+Funkcja kwadratowa $f(x) = x^{2}+bx+c$ nie ma miejsc zerowych. Wykaż, że $1+c &gt; b$.
+Zadanie 35. (0-5)
+Rosnący ciąg arytmetyczny $(a_{n})$ jest określony dla każdej liczby naturalnej $n ge 1$. Suma pierwszych pięciu wyrazów tego ciągu jest równa 10. Wyrazy $a_{3}, a_{5}, a_{13}$ tworzą – w podanej kolejności – ciąg geometryczny. Wyznacz wzór na n-ty wyraz ciągu arytmetycznego $(a_{n})$.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+Rodzaj dokumentu: Zasady oceniania rozwiązań zadań Egzamin maturalny Test diagnostyczny Poziom podstawowy Matematyka Formy arkusza: EMAP-P0-100-2103, EMAP-P0-200-2103, EMAP-P0-300-2103, EMAP-P0-400-2103, EMAP-P0-700-2103, EMAP-P0-Q00-2103 Termin egzaminu: 4 marca 2021 r. Data publikacji dokumentu: 5 marca 2021 r.
+Egzamin próbny z matematyki (poziom podstawowy) - marzec 2021 r. Uwaga: Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania. Gdy wymaganie egzaminacyjne dotyczy treści z III etapu edukacyjnego - dopisano „G".
+Zadanie 1. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: Zdający: 1.1) przedstawia liczby rzeczywiste w różnych postaciach [...] z użyciem symboli pierwiastków, potęg); 2.1) używa wzorów skróconego mnożenia na $(apm b)^2$ oraz $a^2-b^2$. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+Zadanie 2. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.6) wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 3. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 1.8) wykonuje obliczenia procentowe [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie C
+Zadanie 4. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.4) oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 5. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: G7.5) sprawdza, czy dana para liczb spełnia układ dwóch równań stopnia pierwszego z dwiema niewiadomymi [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 6. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 3.6) korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 7. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 3.3) rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie D
+Zadanie 8. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 4.7) interpretuje współczynniki występujące we wzorze funkcji liniowej. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie C
+Zadanie 9. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 4.3) odczytuje z wykresu własności funkcji [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie D
+Zadanie 10. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 4.2) oblicza ze wzoru wartość funkcji dla danego argumentu [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 11. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 5.4) stosuje wzór na n-ty wyraz [...] ciągu geometrycznego. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie C
+Zadanie 12. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 5.3) stosuje wzór na n-ty wyraz [...] ciągu arytmetycznego. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie C
+Zadanie 13. (0-1)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: 7.1) stosuje zależności między kątem środkowym i kątem wpisanym. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+Zadanie 14. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 5.2) bada, czy dany ciąg jest arytmetyczny [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 15. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 5.1) wyznacza wyrazy ciągu określonego wzorem ogólnym. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie D
+Zadanie 16. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 7.4) korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych, w tym ze wzoru na pole trójkąta ostrokątnego o danych dwóch bokach i kącie między nimi. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie D
+Zadanie 17. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 7.3) rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+Zadanie 18. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: Zdający: 8.5) wyznacza współrzędne środka odcinka; 8.6) oblicza odległość dwóch punktów. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 19. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 6.4) znając wartość jednej z funkcji: sinus lub cosinus, wyznacza wartości pozostałych funkcji tego samego kąta. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie D
+Zadanie 20. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 6.1) wykorzystuje definicje i wyznacza wartości funkcji [...] tangens kątów o miarach od $0^circ$ do $180^circ$. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+Zadanie 21. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 8.2) bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 22. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 8.3) wyznacza równanie prostej, która jest równoległa lub prostopadła do prostej danej w postaci kierunkowej i przechodzącej przez dany punkt. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie C
+Zadanie 23. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 7.4) korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych [...]. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie B
+Zadanie 24. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: G11.2) oblicza pole powierzchni i objętość graniastosłupa prostego. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+Zadanie 25. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: G11.2) oblicza pole powierzchni i objętość [...] ostrosłupa. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie C
+Zadanie 26. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 10.1) zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+Zadanie 27. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 10.2) oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie D
+Zadanie 28. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: G9.3) wyznacza [...] medianę zestawu danych. Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie A
+ZADANIA OTWARTE Uwaga: Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+Zadanie 29. (0-2)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.5) rozwiązuje nierówności kwadratowe z jedną niewiadomą.
+Zasady oceniania Rozwiązanie nierówności kwadratowej składa się z dwóch etapów.  Pierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego $2x^2+2x-24$. Drugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej $2x^2+2x-24&gt;0$.
+Zdający otrzymuje 1 p. gdy: zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności, np. obliczy lub poda pierwiastki trójmianu kwadratowego: $x_1=-4$ oraz $x_2=3$ i na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności, ALBO odczyta z wykresu funkcji $f(x)=2x^2+2x-24$ i zapisze miejsca zerowe i na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności, ALBO realizując pierwszy etap rozwiązania zadania, popełni błąd (ale otrzyma dwa różne pierwiastki) i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań nierówności.
+Zdający otrzymuje 2 p. gdy: poda zbiór rozwiązań nierówności: $(-infty, -4) cup (3, +infty)$ lub $x in (-infty, -4) cup (3, +infty)$ ALBO poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.  Zadanie zawiera obrazek ważny dla rozwiązania.
+Uwagi:
+Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy obliczony wyróżnik $Delta$ jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $(-4, -infty) cup (3, +infty)$, to przyznajemy 2 punkty.
+Przykładowe pełne rozwiązanie Pierwszy etap rozwiązania Zapisujemy nierówność w postaci $2x^2+2x-24&gt;0$ i obliczamy pierwiastki trójmianu $2x^2+2x-24$. Obliczamy wyróżnik tego trójmianu: $Delta=196$ i stąd $x_1=-4$ oraz $x_2=3$. ALBO Stosujemy wzory Viète'a: $x_1 cdot x_2=-12$ oraz $x_1+x_2=-1$, stąd $x_1=-4$ oraz $x_2=3$. ALBO Podajemy je bezpośrednio, zapisując pierwiastki trójmianu: $x_1=-4$ oraz $x_2=3$. ALBO Sporządzamy wykres funkcji $f(x)=2x^2+2x-24$, zaznaczamy miejsca zerowe na wykresie i podpisujemy $x_1=-4$ oraz $x_2=3$.
+Drugi etap rozwiązania Podajemy zbiór rozwiązań nierówności: $(-infty, -4) cup (3, +infty)$ lub $x in (-infty, -4) cup (3, +infty)$.
+Zadanie 30. (0-2)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.7) rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych [...].
+Zasady oceniania Zdający otrzymuje 1 p. gdy poprawnie przekształci równanie do równania kwadratowego i na tym zakończy lub dalej popełnia błędy. Zdający otrzymuje 2 p. gdy obliczy pierwiastki równania: $x_1=-frac{1}{3}$, $x_2=1$.
+Uwaga: Jeżeli zdający popełni błąd rachunkowy przy przekształcaniu równania, otrzyma równanie kwadratowe i poprawnie je rozwiąże, to otrzymuje 1 punkt.
+Przykładowe pełne rozwiązanie  Równanie ma sens liczbowy dla $x ne frac{2}{3}$. Przekształcamy równanie:
+
+$$frac{6x-1}{3x-2} = 3x+2$$
+
+
+$$6x-1 = (3x-2)(3x+2)$$
+
+
+$$6x-1 = 9x^2-4$$
+
+
+$$-9x^2+6x+3 = 0 /:(-3)$$
+
+
+$$3x^2-2x-1 = 0$$
+Rozwiązujemy otrzymane równanie kwadratowe. Obliczamy wyróżnik trójmianu kwadratowego $3x^2-2x-1$: $Delta = (-2)^2 - 4 cdot 3 cdot (-1) = 16$ i stąd $x_1=-frac{1}{3}$ oraz $x_2=1$. Otrzymane pierwiastki są różne od liczby $frac{2}{3}$, więc są rozwiązaniami danego równania.
+Zadanie 31. (0-2) Wymagania ogólne: V. Rozumowanie i argumentacja. Wymagania szczegółowe: Zdający: 7.2) korzysta z własności stycznej do okręgu.
+Zasady oceniania dla sposobów 1. oraz 2. Zdający otrzymuje 1 p. gdy: zapisze, że $P_{Delta ABC} = P_{Delta AOC} + P_{Delta ABO}$ ALBO zapisze związek pomiędzy $a$, $b$ i $r$, który wynika z proporcjonalności odpowiednich boków trójkątów podobnych DOC i ABC (lub DOC i EBO, lub EBO i ABC), np.: $frac{a-r}{r} = frac{a}{b}$, $frac{a-r}{r} = frac{r}{b-r}$, $frac{r}{b-r} = frac{a}{b}$. Zdający otrzymuje 2 p. gdy wykaże, że $r = frac{a cdot b}{a+b}$.
+Przykładowe pełne rozwiązania Sposób 1.  Zadanie zawiera obrazek ważny dla rozwiązania. Przyjmijmy oznaczenia, jak na rysunku. Pole trójkąta ABC jest sumą pól trójkątów ABO i AOC.  Promień okręgu poprowadzony z punktu O do punktu styczności okręgu z odcinkiem AB jest prostopadły do tego odcinka, więc $P_{Delta ABO} = frac{1}{2} cdot b cdot r$. Podobnie $P_{Delta AOC} = frac{1}{2} cdot a cdot r$. Zatem
+
+$$P_{Delta ABC} = P_{Delta ABO} + P_{Delta AOC} = frac{1}{2} cdot b cdot r + frac{1}{2} cdot a cdot r = frac{1}{2}(a+b) cdot r$$
+Stąd otrzymujemy:
+
+$$frac{1}{2} cdot a cdot b = frac{1}{2}(a+b) cdot r$$
+
+
+$$r = frac{a cdot b}{a+b}$$
+To należało wykazać.
+Sposób 2.  Zadanie zawiera obrazek ważny dla rozwiązania. Przyjmijmy następujące oznaczenia: $A, B, C$ - wierzchołki trójkąta, $D$ - punkt styczności przyprostokątnej $AC$ z okręgiem, $E$ - punkt styczności przyprostokątnej $AB$ z okręgiem. (Zobacz rysunek). Ponieważ odcinek $OD$ jest prostopadły do odcinka $AC$ oraz $|angle DCO|=|angle ACB|$ więc trójkąty $DCO$ i $ABC$ są podobne (na podstawie cechy kkk podobieństwa trójkątów). Stąd:
+
+$$frac{|DC|}{|DO|} = frac{|AC|}{|AB|}$$
+Odcinek $OE$ jest prostopadły do $AB$, więc $|DC| = |AC| - |OE| = a - r$. Zatem:
+
+$$frac{a-r}{r} = frac{a}{b}$$
+
+
+$$(a-r) cdot b = a cdot r$$
+
+
+$$ab - rb = ar$$
+
+
+$$ab = rb + ra$$
+
+
+$$ab = (a+b)r$$
+
+
+$$r = frac{ab}{a+b}$$
+To należało wykazać.
+Zadanie 32. (0-2)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: 6.3) stosuje proste zależności między funkcjami trygonometrycznymi [...].
+Zasady oceniania Zdający otrzymuje 1 p. gdy podniesie obie strony równości $sinalpha + cosalpha = frac{7}{5}$ do kwadratu i otrzyma $sin^2alpha + 2sinalphacosalpha + cos^2alpha = frac{49}{25}$ i na tym zakończy lub dalej popełni błędy. Zdający otrzymuje 2 p. gdy obliczy wartość wyrażenia $2sinalphacosalpha = frac{24}{25}$.
+Przykładowe pełne rozwiązanie Podnosimy obie strony równości $sinalpha + cosalpha = frac{7}{5}$ do kwadratu i otrzymujemy:
+
+$$sin^2alpha + 2sinalphacosalpha + cos^2alpha = frac{49}{25}$$
+Korzystamy z zależności $sin^2alpha + cos^2alpha = 1$ i otrzymujemy $1 + 2sinalphacosalpha = frac{49}{25}$, stąd po przekształceniu mamy: $2sinalphacosalpha = frac{49}{25} - 1 = frac{24}{25}$.
+Zadanie 33. (0-2)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: G10.9) oblicza pola i obwody trójkątów i czworokątów.
+Zasady oceniania Zdający otrzymuje 1 p. gdy: zastosuje twierdzenie Pitagorasa i zapisze równość prowadzącą do obliczenia wysokości trójkąta równoramiennego BCD opuszczonej na podstawę tego trójkąta, np.: $h^2=13^2-5^2$ ALBO obliczy ze wzoru Herona pole trójkąta BCD ALBO obliczy pole trójkąta ABD. Zdający otrzymuje 2 p. gdy zapisze, że pole czworokąta ABCD jest równe 125.
+Przykładowe pełne rozwiązanie  Zadanie zawiera obrazek ważny dla rozwiązania. Przekątna BD dzieli czworokąt ABCD na trójkąt prostokątny ABD oraz trójkąt równoramienny BCD (zobacz rysunek). Pole trójkąta prostokątnego ABD jest równe 65. Obliczamy wysokość $h$ trójkąta równoramiennego BCD poprowadzoną z wierzchołka C. Stosujemy twierdzenie Pitagorasa i otrzymujemy $h = sqrt{13^2-5^2} = sqrt{144} = 12$.  Pole trójkąta BCD jest równe $frac{1}{2} cdot 10 cdot 12 = 60$. Pole czworokąta ABCD jest sumą pól obu trójkątów: $P_{ABCD} = 60 + 65 = 125$.
+Uwaga: Pole trójkąta BCD można obliczyć ze wzoru Herona:
+
+$$P_{BCD} = sqrt{18 cdot (18-10) cdot (18-13) cdot (18-13)} = sqrt{18 cdot 8 cdot 5 cdot 5} = 3 cdot 4 cdot 5 = 60$$
+
+Zadanie 34. (0-2) Wymagania ogólne: V. Rozumowanie i argumentacja. Wymagania szczegółowe: Zdający: 4.10) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci kanonicznej, w postaci ogólnej i w postaci iloczynowej (o ile istnieje).
+Zasady oceniania Zdający otrzymuje 1 p. gdy zapisze, że $f(x)&gt;0$ dla każdej liczby rzeczywistej $x$. Zdający otrzymuje 2 p. gdy wykaże, że $1+c&gt;b$.
+Przykładowe pełne rozwiązanie Funkcja kwadratowa $f(x) = x^2+bx+c$ nie ma miejsc zerowych, więc $f(x)&gt;0$ dla każdej liczby rzeczywistej $x$.  W szczególności $f(-1) = 1-b+c&gt;0$, czyli $1+c&gt;b$. To należało wykazać.
+Zadanie 35. (0-5)  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: Zdający: 5.3) stosuje wzory na n-ty wyraz i sumę n początkowych wyrazów ciągu arytmetycznego; 5.4) stosuje wzory na n-ty wyraz i sumę n początkowych wyrazów ciągu geometrycznego.
+Zasady oceniania dla sposobów 1 oraz 2. Zdający otrzymuje 1 p. gdy: wykorzysta wzór na sumę $S_5$ i zapisze równanie z niewiadomymi $a_1$ oraz $r$: $frac{(a_1+a_1+4r)cdot 5}{2} = 10$ ALBO wykorzysta wzór na n-ty wyraz ciągu arytmetycznego i zapisze $a_1 + a_1+r + a_1+2r + a_1+3r + a_1+4r = 10$ ALBO uzależni $a_3$, $a_5$, $a_{13}$ od $a_1$ oraz $r$ i zapisze równość wynikającą z własności ciągu geometrycznego: $(a_1+4r)^2 = (a_1+2r)(a_1+12r)$.
+Zdający otrzymuje 2 p. gdy: obliczy trzeci wyraz ciągu arytmetycznego $a_3$: $a_3 = a_1+2r=2$ ALBO zapisze układ równań z niewiadomymi $a_1$ oraz $r$, np.:
+
+$$begin{cases} frac{(2a_1+4r)cdot 5}{2} = 10 \ (a_1+4r)^2 = (a_1+2r)(a_1+12r) end{cases}$$
+
+Zdający otrzymuje 3 p. gdy zapisze równanie z jedną niewiadomą ($r$ lub $a_1$), np.: $(2+2r)^2 = 2 cdot (2+10r)$ lub $(a_1)^2+2a_1-8=0$ lub $r^2-3r=0$.
+Zdający otrzymuje 4 p. gdy: rozwiąże równanie $r^2-3r=0$: $r=0$ oraz $r=3$ ALBO rozwiąże równanie $(a_1)^2+2a_1-8=0$: $a_1=-4$ lub $a_1=2$ ALBO rozwiąże układ równań z błędem rachunkowym (na przykład błąd w redukcji wyrazów podobnych lub w przepisywaniu) i konsekwentnie doprowadzi rozwiązanie do końca (o ile otrzymane równanie kwadratowe ma dwa pierwiastki rzeczywiste).
+Zdający otrzymuje 5 p. gdy wyznaczy wzór na n-ty wyraz podanego ciągu $a_n$: $a_n = -4+(n-1) cdot 3$ lub $a_n = 3n-7$.
+Uwaga: Jeśli zdający nie odrzuci rozwiązania $r=0$, to za całe rozwiązanie otrzymuje 4 punkty.
+Przykładowe pełne rozwiązania Sposób 1. Z warunków zadania wiemy, że $S_5=10$, czyli $frac{(a_1+a_1+4r)cdot 5}{2} = 10$. Po przekształceniu ostatniej zależności otrzymujemy: $a_1+2r=2=a_3$. Z warunków zadania wiemy, że wyrazy $a_3=2$, $a_5=a_3+2r$, $a_{13}=a_3+10r$ tworzą w podanej kolejności ciąg geometryczny.  Stąd mamy $(2+2r)^2 = 2 cdot (2+10r)$. Otrzymujemy równanie kwadratowe $r^2-3r=0$, którego rozwiązaniami są liczby $r=0$ oraz $r=3$. Odrzucamy odpowiedź $r=0$, ponieważ ciąg arytmetyczny jest rosnący.  Dla $r=3$ obliczamy $a_1 = a_3-2r = 2-6 = -4$. Wyznaczamy wzór na n-ty wyraz ciągu arytmetycznego:
+
+$$a_n = a_1+(n-1)cdot r = -4+(n-1)cdot 3 = 3n-7.$$
+
+Sposób 2. Z warunków zadania wiemy, że $S_5=10$, czyli $frac{(a_1+a_1+4r)cdot 5}{2} = 10$. Z własności ciągu geometrycznego $(a_5)^2 = a_3 cdot a_{13}$, co zapisujemy w postaci:
+
+$$(a_1+4r)^2 = (a_1+2r)(a_1+12r).$$
+Otrzymujemy następujący układ równań:
+
+$$begin{cases} frac{(2a_1+4r)cdot 5}{2} = 10 \ (a_1+4r)^2 = (a_1+2r)(a_1+12r) end{cases}$$
+z którego obliczamy wartość pierwszego wyrazu ciągu i różnicę ciągu, np.:
+
+$$begin{cases} r = 1 - frac{1}{2}a_1 \ (a_1+4r)^2 = (a_1+2r)(a_1+12r) end{cases}$$
+
+
+$$begin{cases} r = 1 - frac{1}{2}a_1 \ (4-a_1)^2 = 2 cdot (12-5a_1) end{cases}$$
+
+
+$$16-8a_1+(a_1)^2 = 24-10a_1$$
+
+
+$$(a_1)^2+2a_1-8 = 0$$
+
+
+$$Delta = 4+32 = 36$$
+$a_1 = -4$ lub $a_1 = 2$  
+Dla $a_1 = -4$ otrzymujemy $r=3$, natomiast dla $a_1 = 2$ otrzymujemy $r=0$. Ciąg arytmetyczny jest rosnący, więc $r=0$ odrzucamy. Wyznaczamy wzór na n-ty wyraz ciągu arytmetycznego:
+
+$$a_n = a_1+(n-1)cdot r = -4+(n-1)cdot 3 = 3n-7.$$

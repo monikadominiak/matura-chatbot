@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Zad.10 Na prostej k o równaniu x - 3y - 3 = 0 wyznacz punkt B tak, aby pole trójkąta ABC, gdzie A(-4, 1), C(4, 8) było równe 35.
+
+Rysunek poglądowy:
+
+1) Uzależniamy punkt B od jednej niewiadomej:
+
+k: x - 3y - 3 = 0
+
+k: 3y = x - 3
+
+k: y = (x-3)/3
+
+B(x,y), y = (x-3)/3 =>
+
+B(x, (x-3)/3)
+
+2) Wyznaczamy punkt B ze wzoru na pole trójkąta:
+
+1 sposób: Wzór ze współrzędnych wierzchołków.
+
+B(x, (x-3)/3)
+
+35 = 1/2 * |(-4)(8-x) - (4-x)(1-1) - x(8-1)|
+
+70 = |-4x + 28 - 8x | = |-12x + 28|
+
+70 = |8x + 44|
+
+8x + 44 = 70 v 8x + 44 = -70
+
+8x = 26 /:8      8x = -114
+
+x = 13/4          x = -33/4
+
+y = 13/4 - 3/3 = 1/4 y = -33/4 - 3/3 = -45/6 = -15/2
+
+2 sposób: Wektor wyznacznikowy
+
+->AB = [x+4, (x-3)/3-1] = [x+4, (x-6)/3]
+
+->AC = [4+4, 8-1] = [8, 7]
+
+35 = 1/2 * |(x+4)(7) - (x-6)(8)|
+
+70 = |7x + 28 - (8x - 48)|
+
+70 = |7x + 28 - 8x + 48|
+
+70 = |8x + 44|
+
+8x + 44 = 70 v 8x + 44 = -70
+
+8x = 26 /:8      8x = -114
+
+x = 13/4          x = -33/4
+
+y = 13/4 - 3/3 = 1/4 y = -33/4 - 3/3 = -45/6 = -15/2
+
+Majac dane wektory zaczepione w tym samym punkcie, np. F0=[x0,y0],[x1,y1],[x2,y2] pole trójkąta jest równe:
+
+P = 1/2 * |x1y2 + x2y0 + x0y1 - y1x2 - y2x0 - y0x1|
+
+Odp. B=(13/4, 1/4) lub B=(-33/4, -15/2).

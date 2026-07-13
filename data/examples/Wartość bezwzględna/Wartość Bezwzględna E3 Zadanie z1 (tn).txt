@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z1 (tn) Czy liczba \(\frac{|x| + x}{x}\) może być ujemna? Załóż, że \(x \neq 0\).
+
+1) Opuszczamy moduły zaczynając od wewnętrznych, poprzez rozbijanie na przypadki:
+
+\(|x| = 
+\begin{cases} 
+x \quad \text{dla} \quad x > 0 \\ 
+-x \quad \text{dla} \quad x < 0 
+\end{cases}\) pamiętamy o \(x \neq 0\)!
+
+\(1^\circ \quad x > 0:\) 
+
+\(\frac{|x| + x}{x} = \frac{2x}{x} = 2 \rightarrow\) wartość dodatnia dla każdego \(x > 0\)
+
+\(\vee \quad 2^\circ \quad x < 0:\)
+
+\(\frac{|x| + x}{x} = \frac{-x + x}{x} = \frac{0}{x} = 0 \rightarrow\) zero dla każdego \(x < 0\)
+
+Odp. Nie może być ujemna.

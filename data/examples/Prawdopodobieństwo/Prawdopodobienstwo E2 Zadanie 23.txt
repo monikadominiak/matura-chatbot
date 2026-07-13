@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+W urnie jest 7 kul białych, 2 czarne i 1 zielona. Jakie jest prawdopodobieństwo, że losując z urny dwie kule bez zwracania wylosujemy:
+a) kule różnych kolorów
+b) obie kule białe
+c) kule tego samego koloru
+d) przynajmniej jedną białą kulę?
+
+1️⃣ analizujemy polecenie
+
+7B 2C 1Z
+
+2 kule bez zwracania
+
+2️⃣ liczymy moc Ω (będzie ona taka sama dla wszystkich podpunktów)
+
+Ω̅ = (10 po 2) = 10!/(2!·8!) = 45
+
+3️⃣ A - kule różnych kolorów
+
+A̅ = (7 po 1)(2 po 1) + (7 po 1)·1 + (2 po 1)·1 = 14 + 7 + 2 = 23
+
+P(A) = 23/45
+
+4️⃣ B - obie białe
+
+B̅ = (7 po 2) = 7!/(2!·5!) = 21
+
+P(B) = 21/45 = 7/15
+
+5️⃣ C - kule tego samego koloru
+
+C̅ = (7 po 2) + (2 po 2) = 21 + 1 = 22
+
+P(C) = 22/45
+
+6️⃣ D - przynajmniej 1 biała ⇒ 1 lub 2
+
+D̅ = (7 po 1)(3 po 1) + (7 po 2) = 21 + 21 = 42
+
+P(D) = 42/45 = 14/15
+
+Odp: a) 23/45, b) 7/15, c) 22/45, d) 14/15

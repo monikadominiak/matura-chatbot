@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Rozpatrujemy wszystkie drewniane szkielety o kształcie przedstawionym na rysunku, wykonane z listewek. Każda z tych listewek ma kształt prostopadłościanu o podstawie kwadratu o boku długości x. Wymiary szkieletu zaznaczono na rysunku.
+
+a) Wyznacz objętość V drewna potrzebnego do budowy szkieletu jako funkcję zmiennej x.
+b) Wyznacz dziedzinę funkcji V.
+c) Oblicz tę wartość x, dla której zbudowany szkielet jest możliwie najcięższy, czyli kiedy funkcja V osiąga wartość największą.
+
+a) ① zapisujemy wzór funkcji
+
+12 listewek:
+
+V(x) = 4x^2(8-x) + 4x^2(16-3x) + 4x^2(8-2x) =
+
+= 4x^2(8-x + 16-3x + 8-2x) = 4x^2(32-6x) =
+
+= -24x^3 + 128x^2
+
+b) ② wyznaczamy dziedzinę funkcji
+
+\[
+\begin{cases}
+x>0, \\
+16-4x>0 \implies x<4 \implies x \in (0, 4) \\
+8-2x>0
+\end{cases}
+\]
+
+c) ③ wyznaczamy pochodną funkcji
+
+V'(x) = -72x^2 + 256x
+
+④ wyznaczamy miejsca zerowe pochodnej
+
+V'(x) = 0 \Leftrightarrow -72x^2 + 256x = 0
+
+x(-72x + 256) = 0 \Rightarrow x = 0 \lor x = \frac{256}{72} = \frac{32}{9}
+
+⑤ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+Rysunek wykresu z minimum i maksimum lokalnym, gdy x = \frac{32}{9}
+
+II sposób:
+
+\[
+\begin{array}{c|c|c|c}
+x & (0, \frac{32}{9}) & \frac{32}{9} & (\frac{32}{9}, 4) \\
+\hline
+V'(x) & + & 0 & - \\
+\hline
+V(x) & \nearrow & \max & \searrow \\
+\end{array}
+\]
+
+Funkcja V(x) osiąga w swojej dziedzinie wartość największą dla argumentu x = \frac{32}{9}
+
+odp: x = \frac{32}{9}

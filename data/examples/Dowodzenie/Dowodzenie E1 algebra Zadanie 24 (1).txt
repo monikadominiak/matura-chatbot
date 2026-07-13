@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Uzasadnij, że jeśli trójmian kwadratowy \( y = x^2 + bx + c \) ma pierwiastki \( x_1 \) i \( x_2 \), to można go zapisać w postaci \( y = x^2 - (x_1 + x_2)x + x_1x_2 \).
+
+\( y = 4x^2 + bx + c \),  pierwiastki \( x_1 \) i \( x_2 \)
+
+1️⃣ znamy wzory na miejsca zerowe trójmianu kwadratowego:
+
+\[ x_1 = \frac{-b-\sqrt{\Delta}}{2a} \quad x_2 = \frac{-b+\sqrt{\Delta}}{2a} \]
+
+2️⃣ zapiszemy \( x_1 + x_2 \) za pomocą tych wzorów
+
+\[ x_1 + x_2 = \frac{-b-\sqrt{\Delta}}{2a} + \frac{-b+\sqrt{\Delta}}{2a} = \frac{-b-\sqrt{\Delta}-b+\sqrt{\Delta}}{2a} = \frac{-2b}{2a} = -b \]
+
+3️⃣ zapiszemy \( x_1 x_2 \) za pomocą tych wzorów
+
+\[ x_1 x_2 = \frac{-b-\sqrt{\Delta}}{2a} \cdot \frac{-b+\sqrt{\Delta}}{2a} = \frac{-(\sqrt{\Delta}+b)(\sqrt{\Delta}-b)}{4a^2} = \frac{-1}{4} (\Delta-b^2) = \frac{-1}{4} (b^2-4 \cdot 1 \cdot c-b^2) = \frac{-1}{4} (-4c) = c \]
+
+4️⃣ podstawiamy do \( y = x^2 + bx + c \)
+
+\[ y = x^2 - (x_1 + x_2)x + x_1 x_2 \quad c.k.d. \]

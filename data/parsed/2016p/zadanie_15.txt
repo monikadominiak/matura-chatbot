@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Ciąg (x, 2x+3, 4x+3) jest geometryczny. Pierwszy wyraz tego ciągu jest równy
+A. -4
+B. 1
+C. 0
+D. -1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 15. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 5. Ciągi. Zdający bada, czy dany ciąg jest arytmetyczny lub geometryczny (5.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: C

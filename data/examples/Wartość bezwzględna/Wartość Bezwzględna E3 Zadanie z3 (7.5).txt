@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+**Zadanie z3 (7.5)** Dane jest równanie |2/x| + 3 = p z niewiadomą x. Wyznacz liczbę rozwiązań tego równania w zależności od parametru p.
+
+1) Tworzymy wykres obu stron równania:
+
+Wskazówka: równania, gdzie trzeba analizować liczbę rozwiązań w zależności od parametru najszybciej rozwiązuje się graficznie, rysując wykresy funkcji po lewej i prawej stronie równania.
+
+Można tak robić, gdy wszystkie wyrażenia z niewiadomą są po jednej stronie równania, a wyrażenia z parametrem są po drugiej stronie.
+
+Po narysowaniu obu wykresów rozwiązania równania będą stanowić x-owe współrzędne punktów przecięcia obu wykresów.
+
+Ta strona równania, w której nie ma zmiennej x, a jest tylko parametr, będzie reprezentowana przez funkcję liniową stałą, czyli będzie to linia pozioma.
+
+Prosta y = p została narysowana poglądowo, na przykładowej wysokości. Należy teraz określić w ilu punktach ta prosta przecina się z wykresem pozostałych funkcji w zależności od wysokości, na jakiej ta prosta się znajduje.
+
+Z rysunku można odczytać, że:
+
+Odp. 0 rozwiązań dla p ∈ (−∞, 0),
+
+1 rozwiązanie dla p ∈ [0, 3) oraz
+
+2 rozwiązania dla p ∈ (3, +∞).

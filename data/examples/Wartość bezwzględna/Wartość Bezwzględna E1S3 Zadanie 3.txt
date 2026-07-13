@@ -1,0 +1,139 @@
+
+--- STRONA 1 ---
+Zad.3 Rozwiąż nierówność.
+
+a) |8x - 1| - 2x ≥ 5
+
+b) |x + 4| - 3 > x
+
+c) 1/2 x - |1 - 3x| ≥ -1
+
+---
+
+1) Rozbijamy nierówność na dwa przypadki:
+
+a) |8x - 1| - 2x ≥ 5
+
+\[
+\begin{cases} 
+8x - 1 & dla \quad 8x - 1 \ge 0 \quad \rightarrow x \ge \frac{1}{8} \\ 
+-8x + 1 & dla \quad 8x - 1 < 0 \quad \rightarrow x < \frac{1}{8} 
+\end{cases}
+\]
+
+1^0 x \ge \frac{1}{8} \quad \vee \quad 2^0 x < \frac{1}{8}
+
+\[
+\begin{cases} 
+(8x - 1) - 2x \ge 5 \\ 
+8x - 1 \ge 0 
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+6x \ge 6 \\
+x \ge \frac{1}{8}
+\end{cases}
+\]
+czyli wspólna: x \ge 1
+
+\[
+\begin{cases} 
+(-8x + 1) - 2x \ge 5 \\ 
+-10x + 1 \ge 5 
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+-10x \ge 4 \\
+x < \frac{1}{8}
+\end{cases}
+\]
+czyli wspólna: x \le -\frac{2}{5}
+
+Odp. a) x \in (-\infty, -\frac{2}{5} \rangle \cup \langle 1, +\infty).
+
+---
+
+b) |x + 4| - 3 > x
+
+\[
+\begin{cases} 
+x + 4 & dla \quad x + 4 \ge 0 \quad \rightarrow x \ge -4 \\ 
+-x - 4 & dla \quad x + 4 < 0 \quad \rightarrow x < -4 
+\end{cases}
+\]
+
+1^0 x \ge -4 \quad \vee \quad 2^0 x < -4
+
+\[
+\begin{cases} 
+(x + 4) - 3 > x \\ 
+x \ge -4 
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+0 > -7 \\
+x \ge -4
+\end{cases}
+\]
+czyli wspólna: x \ge -4
+
+\[
+\begin{cases} 
+(-x - 4) - 3 > x \\ 
+x < -4 
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+-2x < 7 \\
+x < -4
+\end{cases}
+\]
+czyli wspólna: x < -\frac{7}{2}
+
+Odp. b) x \in \mathbb{R}.
+
+---
+
+c) \frac{1}{2} x - |1 - 3x| \ge -1
+
+\[
+\begin{cases} 
+1 - 3x & dla \quad 1 - 3x \ge 0 \quad \rightarrow x \le \frac{1}{3} \\ 
+-1 + 3x & dla \quad 1 - 3x < 0 \quad \rightarrow x > \frac{1}{3} 
+\end{cases}
+\]
+
+1^0 x \le \frac{1}{3} \quad \vee \quad 2^0 x > \frac{1}{3}
+
+\[
+\begin{cases} 
+\frac{1}{2} x - (1 - 3x) \ge -1 \\ 
+x \le \frac{1}{3} 
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+\frac{7}{2}x \ge 0 \\
+x \le \frac{1}{3}
+\end{cases}
+\]
+czyli wspólna: x \in \langle 0, \frac{1}{3} \rangle
+
+\[
+\begin{cases} 
+\frac{1}{2} x - (-1 + 3x) \ge-1 \\ 
+x > \frac{1}{3} 
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+- \frac{5}{2} x + 1 \ge-1 \\
+x > \frac{1}{3}
+\end{cases}
+\quad\Rightarrow\quad
+\begin{cases} 
+x \le \frac{4}{5} \\
+x > \frac{1}{3}
+\end{cases}
+\]
+czyli wspólna: x \in \left( \frac{1}{3}, \frac{4}{5} \right\rangle
+
+Odp. c) x \in \langle 0, \frac{4}{5} \rangle.

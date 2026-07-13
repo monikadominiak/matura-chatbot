@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+FZ9
+
+f(x) = (cosx - 2x) / sinx,    x ∈ (0, π)
+
+(sinx)' = cosx      (cosx)' = -sinx
+
+1️⃣ wyznaczamy wzór na f'(x), korzystając z pochodnej ilorazu
+
+[d(x) / g(x)]' = (d'(x)·g(x) - d(x)·g'(x)) / [g(x)]^2
+
+f'(x) = (-sinx - 2)sinx - cosx(cosx - 2x) / sin^2x = -sin^2x - 2sinx - cos^2x + 2xcosx / sin^2x =
+
+= -(sin^2x + cos^2x) - 2sinx + 2xcosx / sin^2x = 2xcosx - 2sinx - 1 / sin^2x

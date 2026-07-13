@@ -1,0 +1,74 @@
+
+--- STRONA 1 ---
+5. Funkcje wymierne 1
+
+Określ dziedzinę i podaj miejsca zerowe funkcji \(f \):
+
+a) \(f(x) = \frac{(4x-1)(x+1)(2x+1)}{4x^2-1}\)
+
+b) \(f(x) = \frac{x^3 - 6x^2 + 5x}{x^2-x}\)
+
+a) ① Wyznaczamy dziedzinę funkcji \(f(x)\).
+
+\[ D: \quad 4x^2 - 1 \neq 0 \]
+
+\[ x \neq \frac{1}{2} \quad \land \quad x \neq -\frac{1}{2} \]
+
+\[ D = \mathbb{R} \setminus \left\{-\frac{1}{2}, \frac{1}{2}\right\} \]
+
+② Obliczamy miejsca zerowe.
+
+\[
+\frac{(4x-1)(x+1)(2x+1)}{4x^2-1} = 0
+\]
+
+\[
+(4x-1)(x+1)(2x+1) = 0
+\]
+
+\[
+\begin{align*}
+4x=1 \\
+x=\frac{1}{4}
+\end{align*}
+\qquad \Rightarrow \qquad
+\begin{align*}
+x=-1
+\end{align*}
+\qquad \Rightarrow \qquad
+\begin{align*}
+2x=-1 \\
+x=-\frac{1}{2} \notin D
+\end{align*}
+\]
+
+Odp.: Dziedziną funkcji jest \( D = \mathbb{R} \setminus \left\{-\frac{1}{2}, \frac{1}{2}\right\}, \) miejsca zerowe : \( x = \frac{1}{4}, \ x = -1.\)
+
+--- STRONA 2 ---
+b) 1️⃣ Wyznaczamy dziedzinę funkcji f(x).
+
+D: x^2 - x ≠ 0
+
+x(x-1) ≠ 0
+
+x ≠ 0   x-1 ≠ 0
+
+x ≠ 0   x ≠ 1
+
+D = R \ {0,1}
+
+2️⃣ Obliczamy miejsca zerowe.
+
+\(\frac{x^3 - 6x^2 + 5x}{x^2 - x}\) = 0  /. (x^2-x)
+
+x^3 - 6x^2 + 5x = 0
+
+x(x^2 - 6x + 5) = 0
+
+x = 0 ∉ D    x^2 - 6x + 5 = 0
+
+Δ = (-6)^2 - 4·1·5 = 36 - 20 = 16
+
+x_1 = \(\frac{6-4}{2}\) = 1 ∉ D    x_2 = \(\frac{6+4}{2}\) = 5
+
+Odp.: Dziedziną funkcji jest D = R \ {0,1}, miejsce zerowe: x = 5.

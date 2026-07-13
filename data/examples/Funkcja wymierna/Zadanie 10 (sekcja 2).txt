@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zadanie 10
+
+Naszkicuj wykres funkcji \( f(x) = 1 - \log_2(x + 3) \).
+
+a) Oblicz współrzędne punktów wspólnych wykresu funkcji \( f \) z osiami układu współrzędnych  
+b) Odczytaj z wykresu, dla jakich argumentów wartości funkcji \( f \) są większe od 1  
+c) Sprawdź, czy punkt \( A(4^{\log_2 \sqrt{5}}, -2) \) należy do wykresu funkcji \( f \).
+
+\(\circled{1}\) Szkicujemy wykres funkcji \( f(x) \).  
+
+(szkic wykresu)
+
+\(\circled{2}\) Obliczamy współrzędne punktów wspólnych \( f(x) \) z OX i OY.  
+
+OX: \( 1 - \log_2 (x+3) = 0 \)  
+\[ 1 = \log_2 (x+3) \]  
+\[ x+3 = 2 \]  
+\[ x = -1 \]  
+\( (-1,0) \)  
+
+OY: \( 1 - \log_2 (0+3) = y \)  
+\[ y = 1 - \log_2 3 \]  
+\( (0, 1 - \log_2 3) \)
+
+\(\circled{3}\) Odczytujemy z wykresu \( f(x) > 1 \).  
+\[ x \in (-3, -2) \]
+
+\(\circled{4}\) Sprawdzamy, czy punkt \( A(4^{\log_2 \sqrt{5}}, -2) \) należy do \( f(x) \).  
+
+\[ -2 = 1 - \log_2 (2^{\log_2 \sqrt{5}} + 3) \]  
+\[ -3 = - \log_2 (5 + 3) \]  
+\[ -3 = - \log_2 8 \]  
+\[ -3 = -3 \]
+
+Odp.: \( a) (-1,0) \text{ i } (0, 1 - \log_2 3) ; \) \( b) x \in (-3, -2) ; \) \( c) \text{Tak.} \)

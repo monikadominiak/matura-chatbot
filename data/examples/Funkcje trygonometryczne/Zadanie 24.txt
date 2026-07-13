@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+Zadanie 24
+
+Podaj, dla jakich wartości parametru m równanie ma rozwiązanie cos 3x = \(\frac{m+2}{m-1}\).
+
+Wiadomo, że cosx ma zbiór wartości [-1, 1].
+
+Zatem równanie cos 3x = \(\frac{m+2}{m-1}\) ma rozwiązanie gdy:
+
+1) \(\frac{m+2}{m-1} \geq -1\)
+
+2) \(\frac{m+2}{m-1} \leq 1\)
+
+1. Rozwiązujemy nierówność \(\frac{m+2}{m-1} \geq -1\).
+
+\(\frac{m+2}{m-1} \geq -1 \quad / \cdot (m-1)^2, \quad m \neq 1\)
+
+(m+2)(m-1) \geq -(m-1)^2
+
+(m+2)(m-1) + (m-1)^2 \geq 0
+
+(m-1)[m+2+m-1] \geq 0
+
+(m-1)(2m+1) \geq 0
+
+\(m \in (-\infty, -\frac{1}{2}] \cup (1,+\infty)\)
+
+--- STRONA 2 ---
+\[\text{Rozwiązujemy nierówność } \frac{m+2}{m-1} \le 1.\]
+
+\[\frac{m+2}{m-1} \le 1 \quad \big/ (m-1)^2, \quad m \neq 1\]
+
+\[(m+2)(m-1) \le (m-1)^2\]
+
+\[(m+2)(m-1) - 1(m-1)^2 \le 0\]
+
+\[(m-1) \left[ m+2 - m + 1 \right] \le 0\]
+
+\[(m-1) \cdot 3 \le 0\]
+
+\[3m - 3 \le 0\]
+
+\[3m \le 3\]
+
+\[m \le 1\]
+
+\[m \in (-\infty, 1)\]
+
+\[\text{Wyznaczamy część wspólną rozwiązań.}\]
+
+\[
+\begin{cases} 
+m \in (-\infty, -\frac{1}{2}] \cup (1, +\infty) \\
+m \in (-\infty, 1) 
+\end{cases} 
+\Rightarrow \quad m \in (-\infty, -\frac{1}{2}]
+\]
+
+\[\text{Odp.: } m \in (-\infty, -\frac{1}{2}].\]

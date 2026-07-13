@@ -1,0 +1,104 @@
+
+--- STRONA 1 ---
+z3 (6.11, 6.7)
+
+Dla jakich wartości parametru a równanie (cos^2x)/2 + (cos^2x)/4 + (cos^3x)/8 + ... = a^2 - 2, którego lewa strona równania jest sumą szeregu geometrycznego ma rozwiązanie?
+
+Wskazówka: należy lewą stronę opisać wzorem na sumę szeregu geometrycznego, a potem rozwiązać powstałe równanie z parametrem a.
+
+① Badamy dla jakich x szereg geometryczny jest zbieżny.
+
+Aby równanie miało matematyczny sens jego lewa strona musi być szeregiem geometrycznym zbieżnym.
+
+|q| < 1 ⇔ -1 < q < 1
+
+q = a2/a1 = (cos^2x)/4 / (cos^2x)/2 = (cos^2x)/4 * 2/cos^2x = cos^x/2
+
+-1 < cos x/2 < 1 /⋅2
+
+-2 < cos x < 2
+
+cos x ∈ (-2, 2) ⇒ x ∈ R, bo ZW_cos x = [-1, 1]
+
+Okazuje się, że lewa strona stanowi szereg geometryczny dla x ∈ R,
+
+② Zapisujemy lewą stronę równania za pomocą wzoru na sumę.
+
+S_n = a_1 / 1-q
+
+(cos x)/2 + (cos x)/4 + (cos^3 x)/8 + ... = (1/2 cos x) / (1 - 1/2 cos x) = (1/2 cos x) / (2-cos x)/2 = (cos x)/2 * 2/2-cos x = (cos x)/(2-cos x) = (cos x)/(2-cos x)
+
+Równanie wygląda tak:
+
+(cos x)/(2-cos x) = a^2 - 2
+
+--- STRONA 2 ---
+Wskazówka: należy lewą stronę przekształcić w taki sposób, aby można było naszkicować jej wykres lub określić jej zbiór wartości.
+
+3) Rozwiązujemy równanie.
+
+cosx / 2 - cosx = a^2 - 2 / 2 - cosx
+
+cosx = (a^2 - 2)(2 - cosx)
+
+cosx = (a^2 - 2)·2 - (a^2 - 2)cosx
+
+cosx + (a^2 - 2)cosx = (a^2 - 2)·2
+
+(a^2 - 1)cosx = 2a^2 - 4 / : a^2 - 1, a∈R\{-1,1,√5}
+
+cosx = 2a^2 - 4 / a^2 - 1
+
+Dla a∈{-1,1} : 0 = -2 => Brak rozwiązań
+
+Aby równanie cosx = 2a^2 - 4 / a^2 - 1 miało jakiekolwiek rozwiązania wystarczy, że obie strony będą miały identyczny zbiór wartości.
+
+2a^2 - 4 / a^2 - 1 ∈ [-1,1]
+
+-1 ≤ 2a^2 - 4 / a^2 - 1 ≤ 1, a ∈ R\{-1,1,√5}
+
+2a^2 - 4 / a^2 - 1 ≥ -1 /·(a^2 - 1)^2 ∧ 2a^2 - 4 / a^2 - 1 ≤ 1 /·(a^2 - 1)^2
+
+(2a^2 - 4)(a^2 - 1) ≥ -(a^2 - 1)^2 ∧ (2a^2 - 4)(a^2 - 1) ≤ (a^2 - 1)^2
+
+(2a^2 - 4)(a^2 - 1) + (a^2 - 1)^2 ≥ 0 ∧ (2a^2 - 4)(a^2 - 1) - (a^2 - 1)^2 ≤ 0
+
+(a^2 - 1)[(2a^2 - 4) + (a^2 - 1)] ≥ 0 ∧ (a^2 - 1)[(2a^2 - 4) - (a^2 - 1)] ≤ 0
+
+(a^2 - 1)(3a^2 - 5) ≥ 0 ∧ |a^2 - 1)(a^2 - 3) ≤ 0
+
+a^2 - 1 = 0 a1 = 1 a2 = -1
+
+3a^2 - 5 = 0 a3 = √5 a4 = -√5
+
+------|---|----|-----------|---|----------
+
+-√5 -------------------√5
+
+----------------|--------------|-----------
+
+ a∈(-∞,-√5] ∪ [-1,1] ∪ [√5,+∞)
+
+-----------------|-----------------|---------
+
+------|----------------|-----------|----------
+
+-B√3 ------------------B√3
+
+----------|-----------------|----------
+
+ a∈[-√3,-1] ∪ [1,√3]
+
+--- STRONA 3 ---
+4) Wyznaczamy część wspólną.
+
+\[
+\begin{cases} 
+a \in \mathbb{R} \setminus \{ -1, 1 \} \\
+a \in (-\infty, -\frac{\sqrt{3}}{3}] \cup [-1, 1] \cup [\frac{\sqrt{3}}{3}, \infty) \\
+a \in [-\sqrt{3}, -1] \cup [1, \sqrt{3}]
+\end{cases}
+\Rightarrow a \in [-\sqrt{3}, -\frac{\sqrt{3}}{3}] \cup [\frac{\sqrt{3}}{3}, \sqrt{3}]
+\]
+
+Odp.: \( a \in [-\sqrt{3}, -\frac{\sqrt{3}}{3}] \cup [\frac{\sqrt{3}}{3}, \sqrt{3}] \).

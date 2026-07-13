@@ -1,0 +1,129 @@
+
+--- STRONA 1 ---
+W zbiorze trójkątów prostokątnych o obwodzie 20 cm znajdź ten, którego pole jest największe.
+
+① uzależniamy od siebie zmienne
+
+\[
+\begin{align*}
+a + b + c &= 20 \quad \Rightarrow \quad c = 20 - (a + b) \\
+a^2 + b^2 &= c^2
+\end{align*}
+\]
+
+\[ 
+a^2 + b^2 = (20-(a+b))^2 
+\]
+
+\[ 
+a^2 + b^2 = 20^2 - 2 \cdot 20 \cdot (a+b) + (a+b)^2 
+\]
+
+\[ 
+a^2 + b^2 = 400 - 40a - 40b + a^2 + 2ab + b^2 \, / : 2
+\]
+
+\[ 
+20b - ab = 200 - 20a
+\]
+
+\[ 
+b(20 - a) = 20(10 - a) \quad /: 20 - a \Rightarrow a \neq 20
+\]
+
+\[ 
+b = 20 \left( \frac{10 - a}{20 - a} \right)
+\]
+
+② zapisujemy wzór funkcji
+
+\[ 
+P(a) = \frac{1}{2}a \cdot 20 \left( \frac{10-a}{20-a} \right) = 10 \left( \frac{10a - a^2}{20 - a} \right) , \, c = 20 - \left( a + \frac{200 - 20a}{20 - a} \right)
+\]
+
+③ wyznaczamy dziedzinę funkcji
+
+\[ 
+a, b, c > 0
+\]
+
+\[ 
+20 \left( \frac{10-a}{20-a} \right) > 0
+\]
+
+\[ 
+a \in (0,10) \cup (20, +\infty) \, \overset{uwzględniamy \, \infty}{\rightarrow} \, a \in (0,20)
+\]
+
+\[ 
+\Rightarrow \, a \in (0,10)
+\]
+
+④ wyznaczamy pochodną funkcji
+
+\[ 
+P'(a) = 10 \cdot \left( \frac{10a - a^2}{20-a} \right)'
+\]
+
+\[ 
+\left( \frac{10a - a^2}{20-a} \right)' = \frac{(10-2a)(20-a) - (10a-a^2)(-1)}{(20-a)^2} = \frac{200 - 10a - 40a + a^2 + 20a - a^2}{(20-a)^2} = \frac{a^2 - 40a + 200}{(20-a)^2}
+\]
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+\[ 
+P'(a) = 0 \iff a^2 - 40a + 200 = 0
+\]
+
+\[ 
+\Delta = 800 \quad \sqrt{\Delta} = 20\sqrt{2}
+\]
+
+\[ 
+a_1 = \frac{40 - 20\sqrt{2}}{2} = 20 - 10\sqrt{2}
+\]
+
+\[ 
+a_2 = 20 + 10\sqrt{2}
+\]
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+- \, / \, \ + \quad P(a) (linia)
+
+\[ 
+\max \quad \min
+\]
+
+\[ 
+a^2
+\]
+
+II sposób:
+
+\[
+\begin{array}{c|c|c}
+a & (0,a_1) & (a_1,10) \\
+\hline
+P'(a) & - & 0 & + \\
+P(a) & \nearrow & \min & \nearrow \\
+\end{array}
+\]
+
+Funkcja \( P(a) \) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu \( a_1 \),
+
+\[ 
+a_1 = 20 - 10\sqrt{2}
+\]
+
+⑦ obliczamy b
+
+\[ 
+b = 20 \left( \frac{10 - a}{20 - a} \right) = 20 \left( \frac{10 - 20 + 10\sqrt{2}}{20 - 20 + 10\sqrt{2}} \right) = 2 \cdot \frac{10\sqrt{2} - 10}{\sqrt{2}} = \frac{20\sqrt{2}(10\sqrt{2}-10)}{2} = 20 - 10\sqrt{2}
+\]
+
+więc \( a = b \)
+
+Odp: dla równoramiennego o przyprostokątnych długości \( 20 - 10\sqrt{2} \)

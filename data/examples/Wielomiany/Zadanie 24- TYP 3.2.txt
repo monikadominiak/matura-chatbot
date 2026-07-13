@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zadanie 24 [4pkt] - TYP 3.2
+
+Wyznacz wartości współczynników a i b, jeśli wielomian
+W(x) = 5x^3 − 2x^2 + ax + b jest podzielny przez dwumian (x + 1),
+natomiast przy dzieleniu przez dwumian (x − 2) daje resztę równą 30.
+
+W(x) = 5x^3 − 2x^2 + ax + b
+
+Wykorzystujemy wiadomości z treści zadania dotyczące dzielenia przez podane dwumiany:
+{
+W(-1) = 5·(-1)^3 − 2·(-1)^2 + a·(-1) + b = 0
+
+W(2) = 5·2^3 − 2·2^2 + a·2 + b = 30
+
+−5 − 2 − a + b = 0
+
+40 − 8 + 2a + b = 30
+
+{
+−7 − a + b = 0  =>  a = b − 7
+
+2a + b = −2
+
+[
+2(b − 7) + b = −2
+
+2b − 14 + b = −2
+
+3b = 12
+
+b = 4
+
+a = b − 7
+
+a = 4 − 7
+
+a = −3
+
+Odp: a = -3, b = 4.

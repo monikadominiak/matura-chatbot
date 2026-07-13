@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Zadanie 18
+
+Rozwiąż algebraicznie układ równań:
+
+\[
+\begin{cases}
+\frac{1}{x+y} + \frac{1}{x-y}= \frac{5}{8} \\
+\frac{1}{x-y} - \frac{1}{x+y}= \frac{3}{8}
+\end{cases}
+\]
+
+\(\textcircled{1}\) Wyznaczamy dziedzinę.
+
+\(x+y \neq 0 \quad x-y \neq 0\)
+
+\(x \neq y \quad x \neq -y\)
+
+\(\textcircled{2}\) Przemnażamy przez mianowniki.
+
+\[
+\begin{cases}
+x-y + x+y = \frac{5}{8}(x-y)(x+y) \\
+x+y-(x-y)=\frac{3}{8}(x-y)(x+y)
+\end{cases}
+\]
+
+\[
+\begin{cases}
+2x = \frac{5}{8}(x^2-y^2) \\
+2y = \frac{3}{8}(x^2-y^2)
+\end{cases}
+\]
+
+\(\textcircled{3}\) Wyznaczamy \(x^2-y^2\) z pierwszego równania.
+
+\(x^2-y^2=2x \cdot \frac{8}{5}\)
+
+\(\textcircled{4}\) Wstawiamy do drugiego równania.
+
+\(2y = \frac{3}{8} \cdot \frac{8}{5} \cdot 2x\)
+
+\(\textcircled{5}\) Wyznaczamy \(y\).
+
+\(y = \frac{3}{5}x\)
+
+\(\textcircled{6}\) Obliczamy \(x\).
+
+\(2x = \frac{5}{8} \cdot (x^2 - \frac{3}{5}x^2)\)
+
+\[
+\frac{16}{5}x = \frac{16}{25}x^2
+\]
+
+\(5 \cdot 16x = 16x^2\)
+
+\(5x = x^2\)
+
+\(x^2 - 5x = 0\)
+
+\(x(x-5) = 0\)
+
+\(x = 0 \quad x = 5\)
+
+\(\textcircled{7}\) Obliczamy \(y\).
+
+Dla \(x = 0\): \(y = 0 \quad \rightarrow\) niezgodne z dziedziną
+
+Dla \(x = 5\): \(y = 3\)
+
+Odp.: \(\begin{cases} x = 5 \\ y = 3 \end{cases}\)

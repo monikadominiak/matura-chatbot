@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 19 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 19. (0-1)
+Na płaszczyźnie z układem współrzędnych proste k i l przecinają się pod kątem prostym w punkcie A=(-2, 4). Prosta k jest określona równaniem $y=-frac{1}{7}x+42$. Zatem prostą l opisuje równanie
+A. $y=7x+42$
+B. $y=-7x-42$
+C. $y=-4x-12$
+D. $y=4x+12$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 19. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych (8.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

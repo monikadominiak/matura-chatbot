@@ -1,0 +1,75 @@
+
+--- STRONA 1 ---
+Zadanie 8
+
+Wyznacz wszystkie wartości parametru m, dla których równanie \(3^x - 2(m-1) \cdot 3^x + m + 5 = 0\) ma jedno rozwiązanie.
+
+1️⃣ Wprowadzamy pomocniczą zmienną t. 
+
+\(3^x = t\), \(t > 0\) Przedział \(t \in (0, +\infty)\) jest równy zbiorowi wartości \(3^x\).
+
+\(t^2 - 2(m-1)t + m + 5 = 0\) 
+
+2️⃣ Wypisujemy warunki podane w zadaniu.
+
+Musieliśmy zagwarantować sobie przy pomocy wzorów Viete'a, że jedno rozwiązanie zmiennej t będzie dodatnie (i ono da jedyne rozwiązanie x-owe), a drugie rozwiązanie zmiennej t będzie ujemne lub równe zero (i ono nie da rozwiązania x-owego).
+
+\(1^{\circ}\) \(\Delta > 0\) lub \(2^{\circ}\) \(t_1 t_2 < 0\) lub \(3^{\circ}\) \(t_1 + t_2 = 0\)
+
+3️⃣ Rozwiązujemy powyższe warunki
+
+\(1^{\circ}\) \(\Delta > 0\)
+
+\(4(m-1)^2-4(m+5)>0\)
+
+\(4m^2-8m+4-4m-20=0\)
+
+\(4m^2-12m-16=0\)
+
+\(m^2-3m-4=0\)
+
+\(\Delta_m = 9 + 16 = 25\)
+
+\(\Delta_m = 5\)
+
+\(m_1=\frac{3-5}{2}=-1\)
+
+\(m_2=\frac{3+5}{2}=4\)
+
+\(m \in (-\infty,-4) \cup (1,+\infty)\)
+
+\(2^{\circ}\) \(t_1 t_2 < 0\)
+
+\(m+5<0\)
+
+\(m<-5\)
+
+\(m \in (-\infty,-5)\)
+
+\(3^{\circ}\) \(\Delta > 0\):
+
+\(m \in (-\infty,-4) \cup (1,+\infty)\)
+
+\(t_1 t_2 = 0\):
+
+\(m+5=0\)
+
+\(m=-5\)
+
+\(t_1 + t_2 > 0\):
+
+\(2(m-1) > 0\)
+
+\(m > 1\)
+
+\(m \in (1,+\infty)\)
+
+Części wspólne:
+
+\(m \in \varnothing\)
+
+4️⃣ Wyznaczamy rozwiązanie.
+
+\(m \in (-\infty,-5) \cup \{4\}\)
+
+Odp.: \(m \in (-\infty,-5) \cup \{4\}\)

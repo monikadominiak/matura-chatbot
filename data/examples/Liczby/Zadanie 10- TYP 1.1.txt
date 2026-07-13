@@ -1,0 +1,13 @@
+
+--- STRONA 1 ---
+Zadanie 10 [2 pkt] - Typ 1.1  
+Stosując wzory skróconego mnożenia, zapisz w postaci iloczynu wyrażenie: x^3 - a^2x - (x-a)^2(2x+2a)
+
+x^3 - a^2x - (x-a)^2(2x+2a) = x(x^2-a^2)-(x-a)^2·2(x+a)=
+a^2 - b^2 = (a-b)(a+b)
+
+= x(x-a)(x+a) - 2((x-a)(x-a))(x+a)=
+= (x-a)(x+a)(x - 2(x-a)) = (x-a)(x+a)(x-2x+2a)=
+= (x-a)(x+a)(2a-x)
+
+Odp: (x-a)(x+a)(2a-x).

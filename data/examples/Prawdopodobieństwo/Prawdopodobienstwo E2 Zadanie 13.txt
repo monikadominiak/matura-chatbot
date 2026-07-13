@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Ile jest liczb ośmiocyfrowych, w których zapisie cyfra 2 występuje trzy razy, cyfrą dziesiątek jest 7, a pozostałe cyfry są różne i inne niż wymienione cyfry?
+
+① wypisujemy dane z polecenia
+
+8-cyfrowa liczba "2" - trzy razy , "7" - cyfra dziesiątek
+
+pozostałe cyfry różne i nie 2 i 7 : 0, 1, 3, 4, 5, 6, 8, 9 
+
+→ 8 cyfr
+
+② zapisujemy schematycznie liczbę 8-cyfrową
+
+_ _ _ _ _ _ 7 _
+
+③ rozważamy dwa przypadki ze względu na pierwszą pozycję
+
+Ⅰ "2" pierwsza
+
+2
+
+_ _ _ _ _ 7 _
+
+1 · (₆₃) · 1 · 8 · 7 · 6 · 5 = 25200
+
+II "2" na innej pozycji niż pierwsza
+
+_ 
+
+_ _ _ _ 7 _ _
+
+7 · (₅₃) · 1 · 7 · 6 · 5 = 29400
+
+Odp: 25200 + 29400 = 54600

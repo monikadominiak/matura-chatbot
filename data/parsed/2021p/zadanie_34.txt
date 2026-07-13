@@ -1,0 +1,12 @@
+=== ARKUSZ: 2021p | ZADANIE 34 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 34. (0-2)
+Gracz rzuca dwukrotnie symetryczną sześcienną kostką do gry i oblicza sumę liczb
+wyrzuconych oczek.
+Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że suma
+liczb wyrzuconych oczek jest równa 4 lub 5, lub 6.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

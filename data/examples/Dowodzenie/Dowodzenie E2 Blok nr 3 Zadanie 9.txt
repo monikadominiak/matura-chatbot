@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Wykaż, że jeśli p jest liczbą pierwszą, gdzie p ≥ 5, to wyrażenie p^2 - 49 będzie podzielne przez 24.
+
+p - liczba pierwsza , p ≥ 5 => p - liczba nieparzysta ✳
+
+teza: p^2 - 49 -> podzielne przez 24
+
+➊ przekształcamy równoważnie tezę:
+p^2 - 49 = p^2 - 1 - 48
+
+wystarczy pokazać, że wyrażenie p^2 - 1 jest podzielne, ponieważ -48 już dzieli się przez 24
+
+➋ p^2 - 1 = (p - 1)(p + 1)
+
+skoro p jest nieparzyste ✳ to (p - 1)(p + 1) to iloczyn dwóch kolejnych liczb parzystych, zatem obie są podzielne przez 2, a jedna z nich przez 4, jedna z nich jest również podzielna przez 3 ➊ , zatem wartość dzieli się przez 2⋅4⋅3 = 24
+
+c. k. d.

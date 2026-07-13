@@ -1,0 +1,148 @@
+
+--- STRONA 1 ---
+Zadanie 5
+
+Trzy liczby, których suma jest równa 93, są kolejnymi wyrazami ciągu geometrycznego. Te same liczby stanowią pierwszy, drugi i siódmy wyraz ciągu arytmetycznego. Wyznacz te liczby.
+
+1️⃣ Tworzymy układ równań.
+
+\( (a, b, c) - \) ciąg geometryczny
+
+\( a_n - \) ciąg arytmetyczny
+
+\[
+\begin{cases}
+a_1 = a \\
+a_2 = b \\
+a_3 = c
+\end{cases} \implies 
+\begin{cases}
+a_1 = a \\
+a_1 + r = b \\
+a_1 + 6r = c
+\end{cases}
+\]
+
+Dodatkowo wiemy, że \( a+b+c = 93 \) oraz \( b^2 = a \cdot c \).
+
+Zatem
+
+\[
+\begin{cases}
+a_1 + (a_1 + r) + (a_1 + 6r) = 93 \\
+(a_1 + r)^2 = a_1 (a_1 + 6r)
+\end{cases}
+\]
+
+2️⃣ Rozwiązujemy układ równań.
+
+\[
+\begin{cases}
+3a_1 + 7r = 93 \quad \text{(1)} \\
+a_1^2 + 2a_1 r + r^2 = a_1^2 + 6a_1 r
+\quad \text{(2)}
+\end{cases}
+\]
+
+Z (2): 
+
+\[
+2a_1 r + r^2 = 6a_1 r \\
+r^2 - 4a_1 r = 0 \\
+r(r - 4a_1) = 0 \\
+r = 0 \quad \lor \quad r - 4a_1 = 0 \\
+r = 4a_1
+\]
+
+Dla \( r = 0 \)
+
+\[
+3a_1 = 93 \\
+a_1 = 31 \implies a = b = c = 31
+\]
+
+Dla \( r = 4a_1 \)
+
+\[
+3a_1 + 7 \cdot 4a_1 = 93 \\
+3a_1 + 28a_1 = 93 \\
+31a_1 = 93 \\
+a_1 = 3 \\
+r = 4 \cdot 3 = 12
+\]
+
+\[
+a = a_1 = 3 \\
+b = a_1 + r = 3 + 12 = 15 \\
+c = a_1 + 6r = 3 + 72 = 75
+\]
+
+Odp.: 
+\[
+\begin{cases}
+a = 3 \\
+b = 15 \\
+c = 75
+\end{cases}
+\quad \text{lub} \quad
+a = b = c = 31.
+\]
+
+--- STRONA 2 ---
+II sposób
+
+1️⃣ Tworzymy układ równań.
+
+(a, b, c) - ciąg geometryczny
+
+aₙ - ciąg arytmetyczny
+
+a₁ = a
+a₂ = b
+a₃ = c
+r = a₂ - a₁, r = b - a
+
+c = a + 6r
+c = a + 6(b - a)
+c = a + 6b - 6a
+c = 6b - 5a
+
+⎧ a + b + c = 93 (1)
+⎪    b² = ac     (2)
+⎩    c = 6b - 5a (3)
+
+2️⃣ Rozwiązujemy układ równań.
+
+Z (3) do (1):
+a + b + 6b - 5a = 93
+   -4a + 7b = 93
+        4a = 7b - 93
+      a = (7b - 93)/4
+       
+   c = 6b - 5a
+   c = 6b - 5 * (7b - 93)/4
+
+Do (3):
+b² = ((7b - 93)/4) * ((24b - 35b + 465)/4)
+
+b² = (7b - 93)(465 - 11b)/16
+
+--- STRONA 3 ---
+16b^3 - 3255 b - 77b^2 - 43245 + 1023b  
+93b^2 - 4278b + 43245 = 0  
+b^2 - 46b + 465 = 0  
+Δ = 2116 - 1860 = 256,    \sqrt{Δ} = 16  
+
+b_1 = \frac{46 - 16}{2}  = 15 \quad ; \quad b_2 = \frac{46 + 16}{2}  = 31  
+
+\quad \frac{7 \cdot 15 - 93}{4} = 3 \quad \quad \quad \quad \frac{7 \cdot 31 - 93}{4} = 31  
+
+a_1 = \frac{4}{4} = 3 \quad \quad \quad \quad \quad \quad a_2 = \frac{4}{4} = 31  
+
+c_1 = \frac{465 - 11 \cdot 15}{4} = 75 \quad \quad c_2 = \frac{465 - 11 \cdot 31}{4} = 31  
+
+Odp.:  \left\lbrace \begin{array}{l}
+a = 3  \\
+b = 15  \\
+c = 75  
+\end{array} \right.  \quad \quad lub \quad \quad a = b = c = 31.

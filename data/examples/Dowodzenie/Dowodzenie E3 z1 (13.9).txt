@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Wykazać, że jeżeli liczby \( a^2, b^2, c^2 \) tworzą ciąg arytmetyczny, który nie jest stały, to ciąg arytmetyczny tworzą również liczby \( \frac{1}{b+c}, \frac{1}{a+c}, \frac{1}{a+b} \).
+
+założenie: \(a^2, b^2, c^2\) - ciąg arytmetyczny \((r \neq 0)\)
+
+teza: \(\frac{1}{b+c}, \frac{1}{a+c}, \frac{1}{a+b}\) - ciąg arytmetyczny
+
+warunek ciągu arytmetycznego: \(a_n = \frac{a_{n-1} + a_{n+1}}{2}\) dla \(n \geq 2\) \(\Rightarrow 2a_n = a_{n-1} + a_{n+1}\)
+
+zapisujemy warunek dla obu ciągów
+
+1️⃣ wiemy, że: \(2b^2 = a^2 + c^2\)
+
+2️⃣ \(\frac{2}{a+c} = \frac{1}{b+c} + \frac{1}{a+b}\) / \((a+c)(b+c)(a+b)\)
+
+\(2(b+c)(a+b)=(a+c)(a+b)+(a+c)(b+c)\)
+
+\(2(ab + b^2 + ac + bc) = a^2 + ab + ac + bc + ab + ac + bc + c^2\)
+
+\(2ab + 2b^2 + 2ac + 2bc = a^2 + 2ab + 2ac + 2bc + c^2\)
+
+\(2b^2 = a^2 + c^2\) 2️⃣ wiemy, że jest to spełnione
+
+c.k.d.

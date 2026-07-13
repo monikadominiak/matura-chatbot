@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+z3 (6.1, 6.7)
+
+Liczby \( x_1, x_2 \) są miejscami zerowymi funkcji \( f(x) = x^2 + bx + c \). Wyznacz zbiór wartości funkcji f wiedząc, że ciąg \( (x_1, \sqrt{2}, x_2) \) jest geometryczny, a ciąg \( (x_1, \sqrt{3}, x_2) \) jest arytmetyczny.
+
+① Korzystamy ze wzorów Viète’a.
+
+\[
+\begin{cases} 
+x_1 + x_2 = -b \quad (1) \\ 
+x_1 \cdot x_2 = c \quad (2) 
+\end{cases}
+\]
+
+② Korzystamy z własności dla trzech wyrazów ciągu.
+
+\[
+(x_1, \sqrt{2}, x_2) \ - \ c. \ geometryczny
+\]
+
+\[
+(\sqrt{2})^2 = x_1 \cdot x_2
+\]
+
+\[
+x_1 x_2 = 2 \quad (3)
+\]
+
+\[
+(x_1, \sqrt{3}, x_2) \ - \ c. \ arytmetyczny
+\]
+
+\[
+\sqrt{3} = \frac{x_1 + x_2}{2}
+\]
+
+\[
+x_1 + x_2 = 2\sqrt{3} \quad (4)
+\]
+
+③ Porównujemy ze sobą odpowiednie równania.
+
+Z (1) i (4) => \(-b = 2\sqrt{3}\)
+
+\(b = -2\sqrt{3}\)
+
+Z (2) i (3) => \(c = 2\)
+
+④ Wyznaczamy zbiór funkcji \(f(x)\).
+
+\[
+f(x) = x^2 + bx + c
+\]
+
+\[
+f(x) = x^2 - 2\sqrt{3}x + 2
+\]
+
+--- STRONA 2 ---
+5️⃣ Wyznaczamy zbiór wartości funkcji f(x).
+
+Funkcja kwadratowa ma następujący zbiór wartości:
+ 
+Dla a≥0: ZW = [q₁,+∞).
+
+Dla a<0: ZW = (-∞,q₁].
+
+Należy zatem obliczyć q₁ = f(ρ).
+
+ρ = -b/2a = 3√3/2 = √3
+
+q = f(√3) = (√3)² - 2·√3·√3 + 2 = 3 - 6 + 2 = -1
+
+ZW = [-1,+∞)
+
+Odp: ZW = [-1,+∞).

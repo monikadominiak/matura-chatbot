@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest trójkąt prostokątny o przyprostokątnych długości 7 cm i 24 cm. Oblicz miary kątów między sąsiednimi ścianami bocznymi tego graniastosłupa z dokładnością do jednego stopnia.
+
+Kąt utworzony przez dwie sąsiednie ściany boczne to kąt między dwiema sąsiednimi krawędziami podstawy (w graniastosłupach prostych).
+
+1️⃣ sporządzamy rysunek pomocniczy podstawy
+
+2️⃣ liczymy wartość x (tw. Pitagorasa)
+
+\( x^2 = 24^2 + 7^2 \)
+
+\( x^2 = 576 + 49 = 625 \)
+
+\( x = 25 \)
+
+3️⃣ wyznaczamy sinusa kąta β
+
+\( \sin \beta = \frac{24}{25} = 0{,}9600 \)
+
+4️⃣ odczytujemy z kart przybliżoną miarę kąta β
+
+\( \beta = 74^\circ \)
+
+UWAGA: miara \( 74^\circ \) jest przybliżona, z tabelki odczytujemy kąt odpowiadający najbliższej otrzymanej wartości funkcji
+
+5️⃣ kąt α wyznaczamy korzystając z sumy miar kątów w \( \triangle \)
+
+\( \alpha = 180^\circ - (90^\circ + 74^\circ) = 16^\circ \)
+
+Odp: \( 90^\circ, 74^\circ, 16^\circ \)

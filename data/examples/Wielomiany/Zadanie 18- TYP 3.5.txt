@@ -1,0 +1,126 @@
+
+--- STRONA 1 ---
+Zadanie 18. [7 pkt] - TYP 3.5
+Określ w zależności od parametru m liczbę rozwiązań równania x^4 - (m+1)x^2 + m = 0
+
+Równanie możemy zapisać za pomocą zmiennej t:
+x^4 - (m+1)x^2 + m = 0
+
+Podstawiając x^2 = t:
+t^2 - (m+1)t + m = 0
+
+Równanie w pierwotnej postaci jest wielomianem stopnia 4, zatem możemy osiągnąć maksymalnie 4 rozwiązania.
+
+🟡 Cztery rozwiązania dla:
+1° Δ>0 
+Dwa rozwiązania, które po podstawieniu do t=x^2 zamieniają się na 4 rozwiązania, pod warunkiem, że t_1 i t_2 >0
+
+2° t_1 + t_2 > 0
+t_1, t_2 > 0
+Oba pierwiastki dodatnie
+
+1° Δ>0
+Δ = b^2 - 4ac
+[-(m+1)]^2 - 4⋅1⋅m > 0
+m^2 + 2m + 1 - 4m > 0
+m^2 - 2m + 1 > 0
+Δ_m = 4 - 4 = 0
+m_0 = 2/2 = 1
+
+m ∈ ℝ \ {1}
+
+(a+b)^2 = a^2 + 2ab + b^2
+
+x_0 = -b/2a
+
+2° t_n + t_2 > 0     t_i, t_2 > 0
+
+Korzystamy ze wzoru Viète'a:
+x_1 + x_2 = -b/a
+x_1⋅x_2 = c/a
+
+(m+1)/1 > 0
+m+1 > 0
+m > -1
+
+m/1 > 0
+m > 0
+
+Część wspólna: m ∈ (0, 1) ∪ (1, ∞)
+
+Odp: Cztery rozwiązania dla m ∈ (0, 1) ∪ (1, ∞)
+
+--- STRONA 2 ---
+2. Trzy rozwiązania dla:
+
+Z równania z parametrem t musimy otrzymać dwa rozwiązania, z czego jedno musi być zerem, a drugie większe od zera. Zatem:
+
+3° Δ > 0 ⇐ dwa rozwiązania
+
+4° { t_1 + t_2 > 0 ⇐ suma zera i liczby dodatniej będzie większa od zera
+    { t_1 ⋅ t_2 = 0 ⇐ iloczyn zera i liczby dodatniej będzie zerem.
+
+3° Δ > 0 ⟹ m ∈ ℝ \{±1} 
+
+4° { t_1 + t_2 > 0 ⇨ m ∈ (-1, ∞)
+    { t_1 ⋅ t_2 = 0 ⇨ m = 0
+
+Część wspólna: m = 0
+
+Odp: Trzy rozwiązania dla m = 0.
+
+3. Dwa rozwiązania
+
+5° Δ > 0 ⟹ m ∈ ℝ \{±1} 
+
+    { t_1 ⋅ t_2 < 0 ⇐ jedno z rozwiązań ujemne
+    { m < 0
+
+Zatem m ∈ (-∞, 0)
+
+6° Δ = 0 t_0 > 0 
+    m = 1 
+    \frac{m+1}{2} > 0 
+    m + 1 > 0 
+    m > -1
+
+Zatem m = 1
+
+Suma rozwiązań : m ∈ (-∞, 0) ∪ {1}.
+
+Odp: m ∈ (-∞, 0) ∪ {1}.
+
+4. Jedno rozwiązanie
+
+Gdy z równania z parametrem t, otrzymamy dwa rozwiązania z czego jedno będzie zerem, a drugie ujemne. Lub gdy Δ = 0 (jedno rozwiązanie).
+
+7° Δ > 0 m ∈ ℝ \{±1} 
+    t_1 ⋅ t_2 < 0 
+    m < -1
+
+Zatem m ∈ ∅
+
+8° Δ = 0 t_0 = 0 
+    m = 1 ⇒ Również m ∈ ∅
+    m = -1
+
+Odp: Nie może mieć 1 rozwiązania.
+
+--- STRONA 3 ---
+5\) Brak rozwiązań
+
+Gdy rozwiązanie równania z parametrem t będą dwa ujemne
+
+9\(^\circ\) \(\Delta < 0\) \\
+\(m \in \emptyset\)
+
+10\(^\circ\) \(\Delta = 0\) \quad \(t_0 < 0\)  \\
+\(m < -1\) \\
+\(m \in \emptyset\)
+
+11\(^\circ\) \(\Delta > 0\) \quad \(m \in \mathbb{R}\setminus\{2\}\) \quad \(t_1 + t_2 < 0\) \quad \(t_1, t_2 > 0\)   \\
+\(m < -1\)   \quad \(m > 0\) \\
+
+\(m \in \emptyset\)
+
+Odp: Nie może mieć zerowej liczby rozwiązań.

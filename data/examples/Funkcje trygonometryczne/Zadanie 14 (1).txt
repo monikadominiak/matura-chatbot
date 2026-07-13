@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zadanie 14
+
+Rozwiąż równanie sqrt{3} sinx - cosx = 1.
+
+Będziemy korzystać ze wzorów na funkcje sumy i różnicy kątów.
+
+sin(α+β) = sinα cosβ + cosα sinβ
+cos(α+β) = cosα cosβ - sinα sinβ
+
+sin(α-β) = sinα cosβ - cosα sinβ
+cos(α-β) = cosα cosβ + sinα sinβ
+
+1️⃣ Dzielimy równanie na 2.
+
+sqrt{3} sinx - cosx = 1 / :2
+
+sqrt{3}/2 sinx - 1/2 cosx = 1/2
+
+2️⃣ Korzystamy ze wzoru sin(α-β) = sinα cosβ - cosα sinβ.
+
+cos π/6 sinx - sin π/6 cosx = 1/2
+
+sinx cos π/6 - cosx sin π/6 = 1/2
+
+sin(x - π/6) = 1/2
+
+3️⃣ Rozwiązujemy równanie.
+
+x - π/6 = π/6 + 2kπ ∨ x - π/6 = 5π/6 + 2kπ , k ∈ Z
+
+x = π/3 + 2kπ ∨ x = π + 2kπ
+
+Odp.: x = π/3 + 2kπ , x = π + 2kπ , k ∈ Z.

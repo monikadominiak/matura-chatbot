@@ -1,0 +1,737 @@
+Matura próbna podstawowa - marzec 2026 - arkusz oraz klucz odpowiedzi:
+
+
+Zadanie 1. (0-1)
+Liczby x oraz y są całkowite i dodatnie.
+W wyniku dzielenia liczby x przez liczbę y otrzymano iloraz 20 i resztę 26.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba x/y jest równa
+A. 26 + 20/x
+B. 26 + 20/y
+C. 20 + 26/x
+D. 20 + 26/y
+Zadanie 2. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba (pierwiastek trzeciego stopnia z 50 * pierwiastek trzeciego stopnia z (-15)) / (pierwiastek trzeciego stopnia z 2 * pierwiastek trzeciego stopnia z 3) jest równa
+A. 5
+B. (-5)
+C. 5 * pierwiastek trzeciego stopnia z 5
+D. (-5 * pierwiastek trzeciego stopnia z 5)
+Zadanie 3. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba (3^10 * 9^20) / 27^15 jest równa
+A. 1
+B. 3^5
+C. 3^15
+D. 3^45
+Zadanie 4. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba log_8(pierwiastek piątego stopnia z 2) jest równa
+A. 1/15
+B. (-15)
+C. 3/5
+D. 5/3
+Zadanie 5. (0-2)
+Wykaż, że liczba 2^50 * 14 - 2^49 * 9 jest podzielna przez 10000. (Uwaga: zapis z pliku zawiera niejednoznaczność 25014 - 24994, przepisano zgodnie z dostępnym tekstem).
+Zadanie 6. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej x różnej od (-10) oraz różnej od 0 wartość wyrażenia ((x^2 + 20x + 100) / x^3) * (x^2 / (x + 10)) jest równa wartości wyrażenia
+A. 20x + 10
+B. 1/x
+C. (x + 10) / x
+D. (x^2 + 30) / x
+Zadanie 7. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie 2x(x^2 - 3)(x^2 + 2x + 3) = 0 w zbiorze liczb rzeczywistych ma dokładnie
+A. jedno rozwiązanie.
+B. dwa rozwiązania.
+C. trzy rozwiązania.
+D. pięć rozwiązań.
+Zadanie 8. (0-2)
+Rozwiąż nierówność (x - 3)(x + 5) &gt; 9
+Zapisz obliczenia.
+Zadanie 9. (0-1)
+Rozwiązaniem układu równań {20x + 20y = 1, 26x - 26y = 1} jest para liczb: x = x_0, y = y_0
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F - jeśli jest fałszywe.
+Suma x_0 + y_0 jest liczbą dodatnią. (P/F)
+Iloczyn x_0 * y_0 jest liczbą dodatnią. (P/F)
+Zadanie 10. (0-1)
+Funkcja liniowa f jest określona wzorem f(x) = (k + 2)x + (k - 3), gdzie k jest liczbą rzeczywistą.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F - jeśli jest fałszywe.
+Funkcja f jest malejąca dla każdej liczby k należącej do przedziału (-∞, 2). (P/F)
+W kartezjańskim układzie współrzędnych (x, y) wykres funkcji f przechodzi przez punkt (0, 1) dla k = 4. (P/F)
+Zadanie 11.
+Funkcja f jest określona następująco:
+f(x) = {x + 5 dla x należącego do [-4, -2], x + 3 dla x należącego do (-2, 1], -2x + 5 dla x należącego do (1, 3]}
+Wykres funkcji y = f(x) przedstawiono w kartezjańskim układzie współrzędnych (x, y) na rysunku poniżej. Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 11.1. (0-1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F - jeśli jest fałszywe.
+Funkcja f jest rosnąca w przedziale [-4, -2]. (P/F)
+Funkcja f jest malejąca w przedziale [1, 3]. (P/F)
+Zadanie 11.2. (0-2)
+Uzupełnij zdania.
+Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania były prawdziwe.
+Największa wartość funkcji f jest równa ……… .
+Równanie f(x) = pierwiastek z 5 ma ……… rozwiązania.
+Zadanie 11.3. (0-2)
+Uzupełnij zdania.
+Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby zdania były prawdziwe.
+Dziedziną funkcji f jest przedział …………………… .
+Zbiorem wszystkich rozwiązań nierówności f(x) = 1. Wyznacz wszystkie wartości x, dla których trzywyrazowy ciąg (a_5, 2x^2, 3x^2 + 5) jest arytmetyczny.
+Zapisz obliczenia.
+Zadanie 15. (0-1)
+Ciąg (a_n) jest określony następująco: {a_1 = 5, a_{n+1} = a_n + 2} dla każdej liczby naturalnej n &gt;= 1.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma stu początkowych kolejnych wyrazów ciągu (a_n) jest równa
+A. 203
+B. 205
+C. 10400
+D. 10500
+Zadanie 16. (0-1)
+Ciąg geometryczny (a_n), określony dla każdej liczby naturalnej n &gt;= 1, jest malejący. Wyrazy tego ciągu spełniają warunek a_6 = 25 * a_8.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Iloraz ciągu (a_n) jest równy
+A. 1/5
+B. (-1/5)
+C. 5
+D. (-5)
+Zadanie 17. (0-2)
+Kąt o mierze alfa jest rozwarty oraz sin(alfa) = 1/pierwiastek z 3.
+Oblicz wartość wyrażenia 3 * sin(alfa) * tg(alfa). Zapisz obliczenia.
+Zadanie 18. (0-1)
+Dany jest trójkąt prostokątny ABC, w którym bok BC jest przeciwprostokątną oraz |AC| = 6. Tangens kąta BCA jest równy 3/2.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odcinek AB ma długość
+A. 3
+B. 4
+C. 9
+D. pierwiastek z 117
+Zadanie 19. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+W każdym trójkącie środek okręgu wpisanego w ten trójkąt leży w punkcie przecięcia się
+A. dwusiecznych kątów tego trójkąta.
+B. symetralnych boków tego trójkąta.
+C. środkowych tego trójkąta.
+D. wysokości tego trójkąta.
+Zadanie 20. (0-1)
+Punkty A, B, C oraz D leżą na okręgu o środku w punkcie O. Punkt K jest punktem przecięcia cięciwy AC i średnicy BD. Kąt COB jest prosty, a kąt AKD ma miarę 78° (zobacz rysunek). Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta ostrego BDA jest równa
+A. 45°
+B. 51°
+C. 57°
+D. 78°
+Zadanie 21. (0-3)
+Dany jest trapez równoramienny ABCD o podstawach AB i CD, w którym |AB| = 2 * |CD|. Przekątna AC tego trapezu jest zawarta w dwusiecznej kąta DAB.
+Wykaż, że w tym trapezie miara kąta DAB jest równa 60°.
+Zadanie 22. (0-1)
+Sześciokąt foremny wpisano w koło o promieniu 1 (zobacz rysunek). Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole zacieniowanej figury jest równe
+A. pi - pierwiastek z 3
+B. pi - 3pierwiastek z 3 / 2 C. pi - pierwiastek z 3 / 4 D. pi - 3pierwiastek z 3 / 2 (Uwaga: duplikaty w opcjach wynikają z treści źródłowej).
+Zadanie 23. (0-1)
+W kartezjańskim układzie współrzędnych (x, y) proste k oraz l są określone równaniami
+k: (m - 1)x + 3y + 5 = 0
+l: 6x + y + 7 = 0
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste k oraz l są równoległe, gdy liczba m jest równa
+A. 6
+B. 7
+C. 18
+D. 19
+Zadanie 24. (0-4)
+W kartezjańskim układzie współrzędnych (x, y) punkty A = (-3, 0) oraz C = (5, 6) są końcami przekątnej kwadratu ABCD. Kwadrat A'B'C'D' jest obrazem kwadratu ABCD w symetrii osiowej względem osi Oy. Wyznacz równanie okręgu opisanego na kwadracie A'B'C'D'.
+Zapisz obliczenia.
+Zadanie 25. (0-1)
+Dany jest sześcian ABCDEFGH (zobacz rysunek). Pole trójkąta ACH jest równe 4 * pierwiastek z 3. Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość krawędzi tego sześcianu jest równa
+A. 2
+B. 2 * pierwiastek z 2
+C. 4
+D. 4 * pierwiastek z 2
+Zadanie 26. (0-2)
+Dany jest ostrosłup prawidłowy czworokątny, w którym krawędź podstawy ma długość 12. Ściana boczna tego ostrosłupa tworzy z płaszczyzną podstawy kąt o mierze 30°.
+Oblicz objętość tego ostrosłupa. Zapisz obliczenia.
+Zadanie 27. (0-1)
+Pole powierzchni całkowitej walca C1 jest równe 12pi, a objętość tego walca jest równa 4pi. Walec C2 jest podobny do walca C1 w skali k = 2.
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+Pole powierzchni całkowitej walca C2 jest równe 48pi. (P/F) Objętość walca C2 jest równa 32pi. (P/F)
+Zadanie 28. (0-1)
+Rysunek drwala składa się z sześciu obszarów ponumerowanych liczbami od 1 do 6 (zobacz rysunek). Każdy z tych obszarów należy pokolorować jednym z siedmiu kolorów w taki sposób, aby każde dwa obszary graniczące ze sobą miały różny kolor. Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich takich sposobów pokolorowania drwala jest
+A. 7 * 6^5
+B. 7^3 * 6^3
+C. 7 * 6
+D. 7 * 6 * 5 * 4 * 3 * 2
+Zadanie 29. (0-1)
+Ze zbioru wszystkich liczb naturalnych dwucyfrowych losujemy jedną liczbę. Zdarzenie A polega na tym, że wylosujemy liczbę, która jest wielokrotnością liczby 34.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia A jest równe
+A. 1/89
+B. 2/89
+C. 1/90
+D. 2/90
+Zadanie 30. (0-1)
+Wykładowca akademicki, aby ustalić oceny semestralne, oblicza średnie ważone ocen otrzymanych przez studentów. Ocenom przypisano następujące wagi:
+• ocena z kartkówki – waga 2
+• ocena z projektu – waga 3
+• ocena za aktywność – waga 4.
+Karolina w trakcie semestru otrzymała następujące oceny:
+Kartkówki: 4, 4, 3, 2
+Projekty: 5, 5
+Aktywność: 4
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia ważona ocen uzyskanych przez Karolinę jest równa
+A. 3,85
+B. 3,9
+C. 3,95
+D. 4
+Zadanie 31. (0-1)
+Podczas pewnego turnieju piłkarskiego rozegrano 50 meczów. Na diagramie kołowym przedstawiono informacje o liczbie goli strzelonych w tych meczach. Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Mediana liczb goli strzelonych w meczach tego turnieju jest równa
+A. 1
+B. 1,5
+C. 2
+D. 2,5
+Zadanie 32.
+Funkcja kwadratowa f jest określona wzorem f(x) = -5(x - pi)^2 + pierwiastek z 2.
+Zadanie 32.1. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja f przyjmuje wartość największą w przedziale [0, 6] dla argumentu
+A. 0
+B. 3
+C. pi
+D. 6
+Zadanie 32.2. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Funkcja f przyjmuje wartość najmniejszą w przedziale [0, 6] dla argumentu
+A. 0
+B. 3
+C. pi
+D. 6
+
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+Rodzaj dokumentu: Zasady oceniania rozwiązań zadań
+Egzamin: Próbny egzamin maturalny
+Przedmiot: Matematyka
+Poziom: Poziom podstawowy
+Formy arkusza: MMAP-P0-100
+Termin egzaminu: 5 marca 2026 r.
+Data publikacji dokumentu: 6 marca 2026 r.
+Próbny egzamin maturalny z matematyki na poziomie podstawowym - marzec 2026 r.
+Uwagi ogólne:
+Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym zapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną liczbę punktów.
+Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może otrzymać co najwyżej $n-1$ punktów (gdzie n jest maksymalną możliwą do uzyskania liczbą punktów za dane zadanie).
+Zadanie 1. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: 1.1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie, pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D
+Zadanie 2. (0-1)
+Wymagania ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: Zdający: 1.3) stosuje własności pierwiastków dowolnego stopnia, w tym pierwiastków stopnia nieparzystego z liczb ujemnych.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 3. (0-1)
+Wymagania ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: Zdający: 1.4) stosuje [...] prawa działań na potęgach [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 4. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: 1.1) wykonuje działania ([...] logarytmowanie) w zbiorze liczb rzeczywistych; 1.9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na logarytm iloczynu, logarytm ilorazu i logarytm potęgi.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 5. (0-2)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe: Zdający: 1.2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia [...]. II.1) stosuje wzory skróconego mnożenia na: [...] $a^2-b^2$.
+Zasady oceniania
+2 pkt - poprawne przekształcenia i przeprowadzenie pełnego rozumowania.
+1 pkt - przekształcenie wyrażenia $2501^4-2499^4$ do postaci $(2501^2-2499^2)(2501^2+2499^2)$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Korzystamy z własności działań na potęgach oraz ze wzoru na różnicę kwadratów i otrzymujemy:
+$$2501^4-2499^4=(2501^2)^2-(2499^2)^2=(2501^2-2499^2)(2501^2+2499^2)=$$
+$$=(2501-2499)(2501+2499)(2501^2+2499^2)=$$
+$$=2\cdot 5000\cdot (2501^2+2499^2)=10000\cdot (2501^2+2499^2)$$
+Liczba $2501^2+2499^2$ jest liczbą całkowitą, zatem liczba $2501^4-2499^4$ jest podzielna przez 10000.
+Zadanie 6. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: II.4) mnoży [...] wyrażenia wymierne.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 7. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: III.5) rozwiązuje równania wielomianowe postaci $W(x)=0$ dla wielomianów doprowadzonych do postaci iloczynowej.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 8. (0-2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: III.4) rozwiązuje [...] nierówności kwadratowe.
+Zasady oceniania
+2 pkt - zastosowanie poprawnej metody i poprawny wynik: $(-\infty,-6)\cup(4,+\infty)$
+ALBO
+zastosowanie poprawnej metody i przedstawienie zbioru rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów, np.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+1 pkt - obliczenie pierwiastków trójmianu kwadratowego $x^2+2x-24$: $x_1=-6$ oraz $x_2=4$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Uwagi:
+Odpowiedź zdającego uznajemy za poprawną tylko wtedy, gdy można w sposób jednoznaczny ustalić, czy przedziały zapisane przez zdającego są otwarte czy domknięte.
+Jeżeli zdający, obliczając pierwiastki trójmianu $x^2+2x-24$, popełni błędy (ale otrzyma dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór rozwiązań nierówności, to otrzymuje 1 punkt za całe rozwiązanie.
+Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego, w przypadku gdy błędnie obliczony przez zdającego wyróżnik $\Delta$ jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający rozpatruje trójmian kwadratowy inny niż podany w zadaniu, który nie wynika z błędu przekształcenia (np. $x^2+2x-15$), i w konsekwencji rozpatruje inną nierówność (np. $x^2+2x-15>0$), to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów i jednocześnie zapisze niewłaściwy zbiór rozwiązań (np. $x\in(-6,4)$ lub $x\in(-\infty,-6]\cup[4,+\infty)$), to otrzymuje 1 punkt za całe rozwiązanie.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający spełni kryterium za 1 punkt, a następnie pomyli porządek liczb na osi liczbowej przy zachowaniu poprawnych krańców przedziału, np. zapisze zbiór rozwiązań nierówności w postaci $(-\infty,4)\cup(-6,+\infty)$ lub w postaci $(+\infty,-6)\cup(4,-\infty)$ to otrzymuje 2 punkty.
+Przykładowe pełne rozwiązanie
+Zapisujemy nierówność w postaci $x^2+2x-24>0$ i obliczamy miejsca zerowe funkcji $y=x^2+2x-24$.
+Obliczamy wyróżnik trójmianu $x^2+2x-24$:
+$$\Delta=2^2-4\cdot 1\cdot (-24)=100$$
+Stąd
+$$x_1=\frac{-2-\sqrt{100}}{2\cdot 1}=-6$$
+$$x_2=\frac{-2+\sqrt{100}}{2\cdot 1}=4$$
+Szkicujemy wykres funkcji $y=x^2+2x-24$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Odczytujemy argumenty, dla których funkcja przyjmuje wartości dodatnie.
+Zbiorem rozwiązań nierówności jest $(-\infty,-6)\cup(4,+\infty)$.
+Zadanie 9. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: IV.1) rozwiązuje układy równań liniowych z dwiema niewiadomymi [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+PP
+Zadanie 10. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: V.5) interpretuje współczynniki występujące we wzorze funkcji liniowej.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FP
+Zadanie 11.1. (0-1)
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymagania szczegółowe: Zdający: V.4) odczytuje z wykresu funkcji: [...] przedziały monotoniczności [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+FP
+Zadanie 11.2. (0-2)
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymagania szczegółowe: Zdający: V.3) odczytuje i interpretuje wartości funkcji określonych za pomocą [...] wykresów, wzorów [...]; V.4) odczytuje z wykresu funkcji: [...] największe i najmniejsze wartości funkcji [...].
+Zasady oceniania
+2 pkt - poprawne uzupełnienie dwóch zdań.
+1 pkt - poprawne uzupełnienie jednego zdania.
+0 pkt - brak spełnienia powyższych kryteriów.
+Rozwiązanie
+Największa wartość funkcji $f$ jest równa 4.
+Równanie $f(x)=\sqrt{5}$ ma 3 rozwiązania.
+Zadanie 11.3. (0-2)
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymagania szczegółowe: Zdający: V.4) odczytuje z wykresu funkcji: dziedzinę, [...] przedziały, w których funkcja przyjmuje wartości większe (nie mniejsze) lub mniejsze (nie większe) od danej liczby [...]. 1.6) posługuje się pojęciem przedziału liczbowego [...].
+Zasady oceniania
+2 pkt - poprawne uzupełnienie dwóch zdań.
+1 pkt - poprawne uzupełnienie jednego zdania.
+0 pkt - brak spełnienia powyższych kryteriów.
+Uwaga:
+Odpowiedź zdającego uznajemy za poprawną tylko wtedy, gdy można w sposób jednoznaczny ustalić, czy zapisany przez zdającego przedział jest otwarty czy domknięty.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej przy zachowaniu poprawnych krańców przedziału, np. zapisze, że dziedziną funkcji $f$ jest przedział $[3, -4]$, to otrzymuje 1 punkt za tak uzupełnione zdanie.
+Rozwiązanie
+Dziedziną funkcji $f$ jest przedział $[-4, 3]$.
+Zbiorem wszystkich rozwiązań nierówności $f(x)<1$ jest przedział $(2, 3]$.
+Zadanie 12. (0-3)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: V.7) szkicuje wykres funkcji kwadratowej zadanej wzorem; V.11) wykorzystuje własności funkcji [...] kwadratowej do interpretacji zagadnień geometrycznych [...].
+Zasady oceniania
+3 pkt - zastosowanie poprawnej metody i poprawny wynik: $P_{ABC} = 54$.
+2 pkt - obliczenie rzędnej punktu $C$ oraz obliczenie miejsc zerowych funkcji $f$: $q = 36$, $x_1 = \frac{11}{4}$, $x_2 = -\frac{1}{4}$.
+1 pkt - obliczenie rzędnej punktu $C$: $q = 36$
+ALBO
+obliczenie miejsc zerowych funkcji $f$: $x_1 = \frac{11}{4}$, $x_2 = -\frac{1}{4}$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Zauważmy, że trójkąt $ABC$ jest równoramienny. Podstawą tego trójkąta jest odcinek $AB$, natomiast wysokością jest odcinek, którego długość jest równa rzędnej punktu $C$.
+Obliczamy wyróżnik trójmianu $-16x^2 + 40x + 11$:
+$$\Delta = 40^2 - 4 \cdot (-16) \cdot 11 = 1600 + 704 = 2304$$
+Obliczamy miejsca zerowe funkcji $f$:
+$$x_1 = \frac{-40 - \sqrt{2304}}{2 \cdot (-16)} = \frac{-88}{-32} = \frac{11}{4}$$
+$$x_2 = \frac{-40 + \sqrt{2304}}{2 \cdot (-16)} = \frac{8}{-32} = -\frac{1}{4}$$
+Obliczamy długość podstawy $AB$ trójkąta $ABC$:
+$$|AB| = \frac{11}{4} - \left(-\frac{1}{4}\right) = \frac{12}{4} = 3$$
+Korzystamy ze wzoru na drugą współrzędną wierzchołka paraboli i obliczamy rzędną punktu $C = (p, q)$:
+$$q = \frac{-2304}{4 \cdot (-16)} = \frac{-2304}{-64} = 36$$
+Obliczamy pole trójkąta $ABC$:
+$$P_{ABC} = \frac{1}{2} \cdot 3 \cdot 36 = 54$$
+Zadanie 13. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: V.13) posługuje się funkcją $f(x) = \frac{a}{x}$, w tym jej wykresem, do opisu i interpretacji zagadnień związanych z wielkościami odwrotnie proporcjonalnymi [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 14. (0-3)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: VI.1) oblicza wyrazy ciągu określonego wzorem ogólnym; VI.7) wykorzystuje własności ciągów [...] arytmetycznych [...] do rozwiązywania zadań [...].
+Zasady oceniania
+3 pkt - zastosowanie poprawnej metody i poprawny wynik: $x = -3$ oraz $x = 3$.
+2 pkt - zapisanie równania z niewiadomą $x$, np.:
+$$\frac{4 + 3x^2 + 5}{2} = 2x^2$$
+$$2x^2 - 4 = 3x^2 + 5 - 2x^2$$
+ALBO
+zapisanie układu dwóch niezależnych równań z niewiadomymi $x$ oraz $r$, np.
+$2x^2 = 4 + r$ oraz $3x^2 + 5 = 4 + 2r$.
+1 pkt - obliczenie piątego wyrazu ciągu $(a_n)$: $a_5 = 4$,
+ALBO
+zapisanie równania z dwiema niewiadomymi $x$ oraz $a_5$, np.:
+$$\frac{a_5 + 3x^2 + 5}{2} = 2x^2$$
+$$2x^2 - a_5 = 3x^2 + 5 - 2x^2$$
+ALBO
+zapisanie układu dwóch niezależnych równań z niewiadomymi $x$, $r$ oraz $a_5$, np.
+$2x^2 = a_5 + r$ oraz $3x^2 + 5 = a_5 + 2r$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Obliczamy piąty wyraz ciągu $(a_n)$:
+$$a_5 = \frac{3 \cdot 5 + 9}{5 + 1} = \frac{24}{6} = 4$$
+Z warunków zadania wynika, że liczby $4$, $2x^2$, $3x^2 + 5$ są kolejnymi wyrazami ciągu arytmetycznego.
+Z własności ciągu arytmetycznego otrzymujemy:
+$$\frac{4 + 3x^2 + 5}{2} = 2x^2$$
+$$3x^2 + 9 = 4x^2$$
+$$x^2 = 9$$
+Zatem $x = -3$ lub $x = 3$.
+Sposób II
+Obliczamy piąty wyraz ciągu $(a_n)$:
+$$a_5 = \frac{3 \cdot 5 + 9}{5 + 1} = \frac{24}{6} = 4$$
+Z warunków zadania wynika, że liczby $4$, $2x^2$, $3x^2 + 5$ są kolejnymi wyrazami ciągu arytmetycznego.
+Z własności ciągu arytmetycznego otrzymujemy:
+$$2x^2 = 4 + r$$
+$$3x^2 + 5 = 4 + 2r$$
+gdzie $r$ jest różnicą ciągu arytmetycznego.
+Z pierwszego z tych równań wyznaczamy $r = 2x^2 - 4$ i podstawiamy w miejsce $r$ do drugiego z równań.
+Stąd otrzymujemy:
+$$3x^2 + 5 = 4 + 2(2x^2 - 4)$$
+$$3x^2 + 5 = 4 + 4x^2 - 8$$
+$$x^2 = 9$$
+Zatem $x = -3$ lub $x = 3$.
+Zadanie 15. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: VI.4) sprawdza, czy dany ciąg jest arytmetyczny [...]; VI.7) wykorzystuje własności ciągów [...] arytmetycznych [...] do rozwiązywania zadań [...]; VI.5) stosuje wzór [...] na sumę $n$ początkowych wyrazów ciągu arytmetycznego.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 16. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: VI.6) stosuje wzór na $n$-ty wyraz [...] ciągu geometrycznego.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 17. (0-2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: VII.2) korzysta ze wzorów $\sin^2 \alpha + \cos^2 \alpha = 1$, $\tg \alpha = \frac{\sin \alpha}{\cos \alpha}$.
+Zasady oceniania
+2 pkt - zastosowanie poprawnej metody i poprawny wynik: $(-\sqrt{6})$.
+1 pkt - obliczenie cosinusa kąta o mierze $\alpha$: $\cos \alpha = -\frac{\sqrt{6}}{3}$
+ALBO
+obliczenie tangensa kąta o mierze $\alpha$: $\tg \alpha = -\frac{\sqrt{2}}{2}$
+ALBO
+przekształcenie wyrażenia $\frac{3\sin \alpha}{\tg \alpha}$ do postaci $3\cos \alpha$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Korzystamy z jedynki trygonometrycznej i obliczamy $\cos \alpha$:
+$$\left(\frac{\sqrt{3}}{3}\right)^2 + \cos^2 \alpha = 1$$
+$$\frac{1}{3} + \cos^2 \alpha = 1$$
+$$\cos^2 \alpha = \frac{2}{3}$$
+Ponieważ kąt o mierze $\alpha$ jest rozwarty, to $\cos \alpha < 0$. Zatem
+$$\cos \alpha = -\sqrt{\frac{2}{3}} = -\frac{\sqrt{2}}{\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = -\frac{\sqrt{6}}{3}$$
+Korzystamy ze związku między funkcjami trygonometrycznymi tego samego kąta i obliczamy wartość wyrażenia $\frac{3\sin\alpha}{\tg\alpha}$:
+$$\frac{3 \sin \alpha}{\tg \alpha} = 3 \sin \alpha \cdot \frac{1}{\tg \alpha} = 3 \sin \alpha \cdot \frac{\cos \alpha}{\sin \alpha} = 3 \cos \alpha = 3 \cdot \left(-\frac{\sqrt{6}}{3}\right) = -\sqrt{6}$$
+Zadanie 18. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: VII.4) oblicza kąty trójkąta prostokątnego i długości jego boków przy odpowiednich danych (rozwiązuje trójkąty prostokątne, w tym z wykorzystaniem funkcji trygonometrycznych).
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 19. (0-1)
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymagania szczegółowe: Zdający: VIII.10) wskazuje podstawowe punkty szczególne w trójkącie: środek okręgu wpisanego w trójkąt [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 20. (0-1)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe: Zdający: VIII.5) stosuje własności kątów wpisanych i środkowych.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 21. (0-3)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe: Zdający: VIII.11) przeprowadza dowody geometryczne.
+Zasady oceniania
+3 pkt - przeprowadzenie pełnego rozumowania.
+2 pkt - wyznaczenie długości dwóch boków trójkąta $EBC$ w zależności od jednej zmiennej (dla sposobu I)
+ALBO
+zapisanie, że $|CF| = a$ (dla sposobu II),
+ALBO
+zapisanie, że $|AM| = 2a$ (dla sposobu III),
+ALBO
+zapisanie układu równań
+$|AC|^2 = (2a)^2 + a^2 - 2 \cdot 2a \cdot a \cdot \cos 2\alpha$
+oraz
+$|AC|^2 = a^2 + a^2 - 2 \cdot a \cdot a \cdot \cos(180^\circ - 2\alpha)$ (dla sposobu IV).
+1 pkt - zapisanie, że trójkąt $ACD$ jest równoramienny.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Przyjmijmy następujące oznaczenia:
+$|CD| = a$ (zatem $|AB| = 2a$)
+$|\sphericalangle DAB| = |\sphericalangle ABC| = 2\alpha$.
+Ponieważ przekątna $AC$ zawiera się w dwusiecznej kąta $DAB$, to $|\sphericalangle DAC| = |\sphericalangle CAB| = \alpha$.
+Kąty $CAB$ i $ACD$ są naprzemianległe oraz $AB \parallel CD$, zatem $|\sphericalangle ACD| = \alpha$.
+Oznacza to, że trójkąt $ACD$ jest równoramienny oraz $|AD| = |CD| = a$. Zatem również $|BC| = a$.
+Niech $E$ będzie spodkiem wysokości trapezu $ABCD$ poprowadzonej z wierzchołka $C$ (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Z własności trapezu równoramiennego obliczamy długość odcinka $EB$:
+$$|EB| = \frac{|AB| - |CD|}{2} = \frac{2a - a}{2} = \frac{1}{2}a$$
+W trójkącie prostokątnym $EBC$ mamy
+$$\cos 2\alpha = \frac{|EB|}{|BC|} = \frac{\frac{1}{2}a}{a} = \frac{1}{2}$$
+Zatem kąt ostry $DAB$ ma miarę równą $60^\circ$. To należało wykazać.
+Sposób II
+Przyjmijmy następujące oznaczenia:
+$|CD| = a$ (zatem $|AB| = 2a$)
+$|\sphericalangle DAB| = |\sphericalangle ABC| = 2\alpha$.
+Ponieważ przekątna $AC$ zawiera się w dwusiecznej kąta $DAB$, to $|\sphericalangle DAC| = |\sphericalangle CAB| = \alpha$.
+Kąty $CAB$ i $ACD$ są naprzemianległe oraz $AB \parallel CD$, zatem $|\sphericalangle ACD| = \alpha$.
+Oznacza to, że trójkąt $ACD$ jest równoramienny oraz $|AD| = |CD| = a$. Zatem również $|BC| = a$.
+Niech $F$ będzie takim punktem leżącym na podstawie $AB$, że odcinek $FC$ jest równoległy do boku $AD$.
+Wtedy $|FC| = |AD| = a$ oraz $|AF| = |CD| = a$ oraz $|FB| = 2a - a = a$ (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zatem trójkąt $FBC$ jest równoboczny. Stąd wynika, że miara kąta ostrego $DAB$ jest równa $60^\circ$. To należało wykazać.
+Sposób III
+Przyjmijmy następujące oznaczenia:
+$|CD| = a$ (zatem $|AB| = 2a$)
+$|\sphericalangle DAB| = |\sphericalangle ABC| = 2\alpha$.
+Ponieważ przekątna $AC$ zawiera się w dwusiecznej kąta $DAB$, to $|\sphericalangle DAC| = |\sphericalangle CAB| = \alpha$.
+Kąty $CAB$ i $ACD$ są naprzemianległe oraz $AB \parallel CD$, zatem $|\sphericalangle ACD| = \alpha$.
+Oznacza to, że trójkąt $ACD$ jest równoramienny oraz $|AD| = |CD| = a$. Zatem również $|BC| = a$.
+Ramiona trapezu przedłużamy do przecięcia w punkcie $M$ (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąt $ABM$ jest podobny do trójkąta $DCM$ (na podstawie cechy kąt-kąt-kąt) w skali 2.
+Zatem
+$$|DM| \cdot 2 = a + |DM|$$
+Stąd
+$$|DM| = a$$
+Zatem trójkąt $ABM$ jest równoboczny (ponieważ $|AM| = |BM| = |AB| = 2a$).
+Stąd miara kąta ostrego $DAB$ jest równa $60^\circ$. To należało wykazać.
+Sposób IV
+Przyjmijmy następujące oznaczenia:
+$|CD| = a$ (zatem $|AB| = 2a$)
+$|\sphericalangle DAB| = |\sphericalangle ABC| = 2\alpha$ (zatem $|\sphericalangle CDA| = 180^\circ - 2\alpha$).
+Ponieważ przekątna $AC$ zawiera się w dwusiecznej kąta $DAB$, to $|\sphericalangle DAC| = |\sphericalangle CAB| = \alpha$.
+Kąty $CAB$ i $ACD$ są naprzemianległe oraz $AB \parallel CD$, zatem $|\sphericalangle ACD| = \alpha$.
+Oznacza to, że trójkąt $ACD$ jest równoramienny oraz $|AD| = |CD| = a$. Zatem również $|BC| = a$.
+Stosujemy twierdzenie cosinusów w trójkącie $ABC$:
+$$|AC|^2 = (2a)^2 + a^2 - 2 \cdot 2a \cdot a \cdot \cos 2\alpha$$
+$$|AC|^2 = 5a^2 - 4a^2 \cdot \cos 2\alpha$$
+Stosujemy twierdzenie cosinusów w trójkącie $ACD$:
+$$|AC|^2 = a^2 + a^2 - 2 \cdot a \cdot a \cdot \cos(180^\circ - 2\alpha)$$
+$$|AC|^2 = 2a^2 - 2a^2 \cdot \cos(180^\circ - 2\alpha)$$
+Ponieważ $\cos(180^\circ - 2\alpha) = -\cos 2\alpha$, to
+$$|AC|^2 = 2a^2 + 2a^2 \cdot \cos 2\alpha$$
+Z uzyskanych równań otrzymujemy:
+$$5a^2 - 4a^2 \cdot \cos 2\alpha = 2a^2 + 2a^2 \cdot \cos 2\alpha$$
+$$6a^2 \cdot \cos 2\alpha = 3a^2$$
+$$\cos 2\alpha = \frac{3a^2}{6a^2} = \frac{1}{2}$$
+Zatem kąt ostry $DAB$ ma miarę równą $60^\circ$. To należało wykazać.
+Zadanie 22. (0-1)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: VIII.3) rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 23. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: IX.2) posługuje się równaniami prostych na płaszczyźnie, w postaci [...] ogólnej, w tym wyznacza równanie prostej o zadanych własnościach (takich, jak np. [...] równoległość do innej prostej).
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D
+Zadanie 24. (0-4)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: IX.3) oblicza odległość dwóch punktów w układzie współrzędnych; IX.4) posługuje się równaniem okręgu $(x - a)^2 + (y - b)^2 = r^2$; IX.5) wyznacza obrazy okręgów i wielokątów w symetriach osiowych względem osi układu współrzędnych [...].
+Zasady oceniania
+4 pkt - zastosowanie poprawnej metody i poprawny wynik: $(x + 1)^2 + (y - 3)^2 = 25$.
+3 pkt - obliczenie długości promienia (lub kwadratu długości promienia) oraz współrzędnych środka okręgu opisanego na kwadracie $A'B'C'D'$: $r = 5$ (lub $r^2 = 25$), $S' = (-1, 3)$
+ALBO
+wyznaczenie równania okręgu opisanego na kwadracie $ABCD$: $(x - 1)^2 + (y - 3)^2 = 25$.
+2 pkt - obliczenie współrzędnych punktów $A'$ oraz $C'$ oraz długości promienia (lub kwadratu długości promienia) okręgu opisanego na kwadracie $A'B'C'D'$: $A' = (3, 0), C' = (-5, 6), r = 5$ (lub $r^2 = 25$)
+obliczenie współrzędnych środka okręgu opisanego na kwadracie $A'B'C'D'$: $S' = (-1, 3)$,
+ALBO
+obliczenie długości promienia (lub kwadratu długości promienia) oraz współrzędnych środka okręgu opisanego na kwadracie $ABCD$: $r = 5$ (lub $r^2 = 25$), $S = (1, 3)$.
+1 pkt - obliczenie współrzędnych punktów $A'$ oraz $C'$: $A' = (3, 0), C' = (-5, 6)$
+ALBO
+obliczenie długości promienia (lub kwadratu długości promienia) okręgu opisanego na kwadracie $ABCD$: $r = 5$ (lub $r^2 = 25$),
+ALBO
+obliczenie współrzędnych środka okręgu opisanego na kwadracie $ABCD$: $S = (1, 3)$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania
+Sposób I
+Punkty $A$ oraz $C$ przekształcamy przez symetrię osiową względem osi $Oy$ i otrzymujemy współrzędne punktów $A'$ oraz $C'$, które są końcami przekątnej kwadratu $A'B'C'D'$:
+$A' = (3, 0)$ oraz $C' = (-5, 6)$
+Odcinek $A'C'$ jest średnicą okręgu $\mathcal{O}'$ opisanego na kwadracie $A'B'C'D'$.
+Obliczamy długość $r$ promienia okręgu $\mathcal{O}'$:
+$$r = \frac{1}{2} \cdot |A'C'| = \frac{1}{2} \cdot \sqrt{(-5 - 3)^2 + (6 - 0)^2} = \frac{1}{2} \cdot \sqrt{64 + 36} = \frac{1}{2} \cdot 10 = 5$$
+Obliczamy współrzędne środka $S'$ odcinka $A'C'$:
+$$S' = \left(\frac{3 - 5}{2}, \frac{0 + 6}{2}\right) = (-1, 3)$$
+Zapisujemy równanie okręgu $\mathcal{O}'$:
+$$(x + 1)^2 + (y - 3)^2 = 25$$
+Sposób II
+Odcinek $AC$ jest średnicą okręgu $\mathcal{O}$ opisanego na kwadracie $ABCD$.
+Obliczamy długość $r$ promienia okręgu $\mathcal{O}$:
+$$r = \frac{1}{2} \cdot |AC| = \frac{1}{2} \cdot \sqrt{(5 + 3)^2 + (6 - 0)^2} = \frac{1}{2} \cdot \sqrt{64 + 36} = \frac{1}{2} \cdot 10 = 5$$
+Obliczamy współrzędne środka $S$ odcinka $AC$:
+$$S = \left(\frac{-3 + 5}{2}, \frac{0 + 6}{2}\right) = (1, 3)$$
+Zapisujemy równanie okręgu $\mathcal{O}$:
+$$(x - 1)^2 + (y - 3)^2 = 25$$
+Okrąg $\mathcal{O}'$ opisany na kwadracie $A'B'C'D'$ jest obrazem okręgu $\mathcal{O}$ w symetrii osiowej względem osi $Oy$.
+Ta symetria przekształca każdy punkt $P = (x, y)$ leżący na okręgu $\mathcal{O}$ na punkt $P' = (-x, y)$ leżący na okręgu $\mathcal{O}'$.
+Zatem okrąg $\mathcal{O}'$ jest określony równaniem:
+$$(-x - 1)^2 + (y - 3)^2 = 25$$
+Stąd
+$$(x + 1)^2 + (y - 3)^2 = 25$$
+Zadanie 25. (0-1)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: X.3) rozpoznaje w graniastosłupach [...] kąty między odcinkami [...]. VIII.3) rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 26. (0-2)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: X.3) rozpoznaje w [...] ostrosłupach [...] kąty między ścianami [...]; X.5) oblicza objętości [...] ostrosłupów [...] również z wykorzystaniem trygonometrii.
+Zasady oceniania
+2 pkt - zastosowanie poprawnej metody i poprawny wynik: $V = 96\sqrt{3}$.
+1 pkt - obliczenie/zapisanie wysokości ostrosłupa: $H = 2\sqrt{3}$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie
+Kąt między ścianą boczną a płaszczyzną podstawy w ostrosłupie prawidłowym czworokątnym jest kątem między wysokością ściany bocznej poprowadzonej z wierzchołka ostrosłupa do krawędzi podstawy a odcinkiem łączącym spodek wysokości ostrosłupa ze środkiem tej samej krawędzi podstawy.
+Przyjmujemy oznaczenia jak na rysunku:
+Zadanie zawiera obrazek ważny dla rozwiązania.
+$H$ - wysokość ostrosłupa,
+$O$ - spodek wysokości ostrosłupa,
+$E$ - środek krawędzi $AB$.
+Zauważamy, że $H > 0$.
+Ponieważ $O$ jest punktem przecięcia przekątnych kwadratu, to $|OE| = 6$.
+W trójkącie prostokątnym $SOE$ mamy
+$$\tg 30^\circ = \frac{|SO|}{|OE|} = \frac{H}{6}$$
+Zatem
+$$H = 6 \cdot \tg 30^\circ = 6 \cdot \frac{\sqrt{3}}{3} = 2\sqrt{3}$$
+Obliczamy objętość $V$ ostrosłupa:
+$$V = \frac{1}{3} \cdot 12^2 \cdot 2\sqrt{3} = 96\sqrt{3}$$
+Zadanie 27. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: VIII.9) wykorzystuje zależności [...] między polami figur podobnych. X.6) wykorzystuje zależność między objętościami brył podobnych.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+PP
+Zadanie 28. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymagania szczegółowe: Zdający: XI.2) zlicza obiekty, stosując reguły mnożenia i dodawania [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+Zadanie 29. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymagania szczegółowe: Zdający: XII.1) oblicza prawdopodobieństwo w modelu klasycznym.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+D
+Zadanie 30. (0-1)
+Wymagania ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: Zdający: XII.2) oblicza [...] średnią ważoną [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 31. (0-1)
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymagania szczegółowe: Zdający: XII.2) [...] znajduje medianę [...].
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+B
+Zadanie 32.1. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: V.10) wyznacza największą [...] wartość funkcji kwadratowej w przedziale domkniętym.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+C
+Zadanie 32.2. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: V.10) wyznacza [...] najmniejszą wartość funkcji kwadratowej w przedziale domkniętym.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+A
+

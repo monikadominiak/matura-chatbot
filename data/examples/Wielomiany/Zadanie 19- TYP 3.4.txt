@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zadanie 19 [3pkt] - TYP 3.4 (metoda 2)
+
+Rozwiąż nierówność: 2x^7 + 3x^5 + 2x^3 ≥ 0
+
+2x^3 + 3x + 2x^0 ≥ 0
+
+x^3 (2x^4 + 3x^2 + 2) ≥ 0
+
+x^3 = 0
+
+x_1 = 0
+
+2x^4 + 3x^2 + 2 = 0
+
+podstawiamy t = x^2
+
+2t^2 + 3t + 2 = 0
+
+Δ = b^2 - 4·a·c
+
+Δ = 9 - 16 < 0
+
+brak rozwiązań
+
+Zatem wykres funkcji będzie mieć postać:
+
+x ∈ <0; ∞)
+
+Odp: x ∈ <0; ∞).

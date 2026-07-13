@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0-1)
+Dane są punkty o współrzędnych A = (-2, 5) oraz B = (4, -1). Średnica okręgu wpisanego w kwadrat o boku AB jest równa A. 12 B. 6 C. 6sqrt(2) D. 2sqrt(6)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

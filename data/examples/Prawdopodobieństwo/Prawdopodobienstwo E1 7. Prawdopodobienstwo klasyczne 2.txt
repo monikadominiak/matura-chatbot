@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Ze zbioru cyfr {1, 2, 3, 4, 5, 6, 7, 8, 9} losujemy ze zwracaniem kolejno dwie cyfry i tworzymy liczbę dwucyfrową. Oblicz prawdopodobieństwo zdarzenia:
+a) utworzona liczba jest podzielna przez 11
+b) utworzona liczba jest nieparzysta
+c) iloczyn cyfr tej liczby jest większy od 50
+d) co najmniej jedna cyfra tej liczby jest parzysta.
+
+① a) p = |A̅| / |Ω̅|
+
+|Ω̅| = 9 · 9 = 81 (ze zwracaniem)
+
+Zauważmy, że |Ω̅| będzie taka sama we wszystkich podpunktach
+
+A = {11, 22, 33, 44, 55, 66, 77, 88, 99}
+|A̅| = 9
+
+P(A) = 9/81 = 1/9 Odp: 1/9
+
+② b) B ⇒ 9 (dowolna) / 5 (nieparzysta)
+
+9 · 5 = 45
+
+P(B) = 45/81 = 5/9 Odp: 5/9
+
+③ c) C = {69, 78, 79, 87, 88, 89, 96, 97, 98, 99}
+|C̅| = 10
+
+P(C) = 10/81 Odp: 10/81
+
+④ d) D' - żadna nie jest parzysta ⇒ obie nieparzyste
+
+|D̅'| ⇒ 5 (nieparzysta) / 5 (nieparzysta)
+
+5 · 5 = 25
+
+|D̅| = |Ω̅| - |D̅'| ⇒ przynajmniej 1 parzysta
+
+|D̅| = 81 - 25 = 56
+
+P(D) = 56/81 Odp: 56/81

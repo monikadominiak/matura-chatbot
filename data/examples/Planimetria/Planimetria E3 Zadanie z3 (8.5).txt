@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zadanie z3 (8.5) Na okręgu o promieniu r opisano trapez prostokątny, którego najkrótszy bok ma długość \(\frac{3}{2}r\). Wyznacz pole tego trapezu.
+
+1) Opisujemy i analizujemy rysunek:
+
+Rysunek z etykietami.
+
+\[2r + |BC| = (\frac{3}{2}r + x) + \frac{3}{2}r\]
+
+\[|BC| = r + x\]
+
+W zadaniach z trapezem warto dorysować obie jego wysokości. Wysokości te są jednocześnie średnicą okręgu wpisanego w trapez i tworzą po bokach trapezu przyległe trójkąty prostokątne.
+
+Okrąg można wpisać w czworokąt, jeśli sumy długości jego przeciwległych boków są sobie równe.
+
+2) Wyznaczamy x za pomocą tw. Pitagorasa:
+
+\[(2r)^2 + x^2 = (r+x)^2\]
+
+\[4r^2 + x^2 = r^2 + 2rx + x^2\]
+
+\[3r^2 = 2rx \;/\; r\;(r>0)\]
+
+\[3r = 2x \quad \rightarrow \quad x = \frac{3}{2}r\]
+
+3) Wstawiamy dane do wzoru i wyznaczamy pole trapezu:
+
+\[P_{\Delta} = \frac{|AB| + |CD|}{2} \cdot h = \frac{3r}{2} \cdot r = \frac{9}{2}r^2\]
+
+\[P_{\Delta} = \frac{9}{2}r^2\]
+
+Odp. \(P_{\Delta} = \frac{9}{2}r^2\).

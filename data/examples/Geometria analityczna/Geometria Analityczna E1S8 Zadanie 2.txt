@@ -1,0 +1,75 @@
+
+--- STRONA 1 ---
+Zad. 2 Podaj interpretację geometryczną układu nierówności:
+
+\[
+\begin{cases} 
+x^2 + y^2 - 6x + 4y - 3 \leq 0 \\ 
+x^2 + y^2 - 6x + 4y + 9 \geq 0 
+\end{cases}
+\]
+
+1) Sprowadźmy obie nierówności do postaci kanonicznej:
+
+I sposób: podstawienie 
+
+\(x^2 + y^2 - 6x + 4y - 3 \leq 0\)
+
+\(x^2 + y^2 - 2ax - 2by + c < 0 , \ r^2 = a^2 + b^2 - c\)
+
+\(-2ax = -6x \ \ \ \ \ \ -2by = 4y \ \ \ \ \ \ c = -3\)
+
+\(a = 3 \ \ \ \ \ \ \ \ b = -2\)
+
+\[ 
+r^2 = 3^2 + (-2)^2 - 3 \\
+r^2 = 9 + 4 + 3 = 16 \ ( \leq )
+\]
+\(r = 4 \ , \ \ r = -4 \ \not\subset 0\)
+
+\((x - 3)^2 + (y + 2)^2 \leq 16 \quad S(3, -2) \ \text{;}\ r = 4\)
+
+Warto podstawić również drugiej nierówności (\(\geq 0\))
+
+W tej sytuacji reprezentuje ona powierzchnię na zewnątrz koła.
+
+\(x^2 + y^2 - 6x + 4y + 9 \geq 0\)
+
+\(x^2 + y^2 - 2ax - 2by + c > 0 \ , \ r^2 = a^2 + b^2 - c\)
+
+\(-2ax = -6x \ \ \ \ \ \ -2by = 4y \ \ \ \ \ \ c = 9\)
+
+\(a = 3 \ \ \ \ \ \ \ \ b = -2\)
+
+\[
+r^2 = 3^2 + (-2)^2 - 9 \\
+r^2 = 9 + 4 - 9 = 4 \ ( \geq \ )
+\]
+
+\(r = 2 \ , \ \ r = -2 \ \not\subset 0\)
+
+\((x - 3)^2 + (y + 2)^2 \geq 4 \ \Rightarrow S(3, -2) \ \text{;}\ r = 2\)
+
+II sposób: wpisanie do wzorów skróconego mnożenia.
+
+\(x^2 + y^2 - 6x + 4y - 3 \leq 0\)
+
+\((x^2 - 6x + 9) + (y^2 + 4y + 4) \leq 9 + 4 + 3\)
+
+\((x - 3)^2 + (y + 2)^2 \leq 16\)
+
+\(S(3, -2) \ \text{;}\ r = 4\)
+
+\(x^2 + y^2 - 6x + 4y + 9 \geq 0\)
+
+\((x^2 - 6x + 9) + (y^2 + 4y + 4) \geq 9 + 4 - 9\)
+
+\((x - 3)^2 + (y + 2)^2 \geq 4\)
+
+\(S(3, -2) \ \text{;}\ r = 2\)
+
+2) Tworzymy interpretację geometryczną w układzie współrzędnych:
+
+\[
+\text{Zielony obszar} - \text{odpowiedź graficzna układu nierówności}
+\]

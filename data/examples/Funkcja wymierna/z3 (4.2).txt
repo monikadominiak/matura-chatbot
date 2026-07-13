@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+z3 (4.2)
+
+Wyznacz dziedzinę funkcji \( f(x) = \frac{x-2}{x^3-3x^2-4x+12} \)
+
+Z jakim założeniem wiąże się wyznaczanie dziedziny tego typu funkcji?
+1️⃣ Wyznaczamy dziedzinę \( f(x) \).
+
+Mianownik funkcji musi być różny od zera.
+
+D: \( x^3 - 3x^2 - 4x + 12 \neq 0 \)
+
+\( x^2 (x-3) - 4(x-3) \neq 0 \)
+
+\( (x^2-4)(x-3) \neq 0 \)
+
+\( x^2 - 4 \neq 0 \quad x - 3 \neq 0 \)
+
+\( x^2 \neq 4 \quad x \neq 3 \)
+
+\( x \neq 2 \quad x \neq -2 \)
+
+D = \(\mathbb{R} \setminus \{-2, 2, 3\} \)
+
+Odp.: D = \(\mathbb{R} \setminus \{-2, 2, 3\} \).

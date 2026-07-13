@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+W klasie jest trzy razy więcej chłopców niż dziewcząt. Połowa dziewcząt i 60% chłopców z tej klasy uprawia sport. Losujemy jedną osobę z tej klasy.
+
+a) oblicz prawdopodobieństwo zdarzenia że wylosowana osoba uprawia sport.
+
+b) wiadomo że wylosowana osoba uprawia sport. Oblicz prawdopodobieństwo zdarzenia że wylosowano chłopca.
+
+1️⃣ wprowadzamy oznaczenia i tworzymy "drzewko"
+
+```
+        3/4     1/4
+     CH ----------- D
+     |          |  
+   3/5    1/2
+   |       |
+```
+
+CH - 3x                      a) A - osoba uprawia sport  
+D  - x                        
+
+3x + x = 4x
+
+2️⃣ liczymy P(A) - prawd. całkowite
+
+P(A) = 3/4 * 3/5 + 1/4 * 1/2 = 9/20 + 1/8 = 18/40 + 5/40 = 23/40
+
+3️⃣ b) B1 - wylosowano chłopca, P(B1) = 3/4
+
+P(B1|A) - wylosowano chłopca, pod warunkiem, że uprawia sport
+
+wzór Bayesa: P(B1|A) = (P(A|B1) * P(B1)) / P(A)
+
+4️⃣ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B1) - określa prawd. że osoba uprawia sport, jeśli jest chłopcem  
+czyli P(A|B1) = 3/5
+
+5️⃣ liczymy docelowe P(B1|A)
+
+P(B1|A) = (3/5 * 3/4) / 23/40 = 18/23  
+
+Odp: 18/23
+
+alternatywnie możemy rozwiązac zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B1|A) = P(A ∩ B1) / P(A), P(A) policzyliśmy już w α
+
+P(A ∩ B1) -> prawd. że uprawia sport i jest chłopcem
+
+P(A ∩ B1) = 3/4 * 3/5 = 9/20
+
+P(B1|A) = 9/20 : 23/40 = 18/23

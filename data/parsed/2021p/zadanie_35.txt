@@ -1,0 +1,11 @@
+=== ARKUSZ: 2021p | ZADANIE 35 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 35. (0-5)
+Punkty A = (-20, 12) i B = (7, 3) są wierzchołkami trójkąta równoramiennego ABC,
+w którym |AC| = |BC|. Wierzchołek C leży na osi Oy układu współrzędnych.
+Oblicz współrzędne wierzchołka C oraz obwód tego trójkąta.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

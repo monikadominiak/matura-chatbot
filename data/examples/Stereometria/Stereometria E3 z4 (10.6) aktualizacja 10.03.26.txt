@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+W ostrosłupie prawidłowym czworokątnym wysokość jest równa \(H\), a krawędź boczna tworzy z krawędzią podstawy kąt \(\alpha\). Oblicz pole powierzchni kuli wpisanej w ten ostrosłup.
+
+1) sporządzamy rysunki pomocnicze i wprowadzamy oznaczenia
+\[ |ES| = H \]
+
+2) wyznaczamy najpierw długość \(a\)
+
+W \(\triangle A'BE\) mamy \(\operatorname{tg}\alpha = \frac{a}{2}\) \(\Rightarrow a = \frac{2h}{\operatorname{tg}\alpha}\) \((*)\)
+
+3) korzystamy z podobieństwa trójkątów \(SB'E\) i \(FOE\) i wyznaczamy \(R\) w zależności tylko od \(H\) i \(\operatorname{tg}\alpha\)
+
+\[
+\triangle FOE \sim \triangle SB'E \text{ z cechy kkk (kąt prosty i wspólny kąt zaznaczony na zielono)}
+\]
+
+\[
+\frac{R}{\frac{a}{2}} = \frac{H-R}{h}
+\]
+
+\[
+Rh = \frac{a}{2}(H-R) \text{ podstawiamy (*)}
+\]
+
+\[
+Rh = \frac{1}{2} \cdot \frac{2h}{\operatorname{tg}\alpha}(H-R) \quad / : h \neq 0 /: \operatorname{tg}\alpha
+\]
+
+\[
+R \cdot \operatorname{tg}\alpha = H - R \quad \Rightarrow \quad R = \frac{H}{1 + \operatorname{tg}\alpha}
+\]
+
+4) liczymy pole powierzchni kuli o promieniu \(R\)
+
+\[
+P_c = 4\pi R^2 = \frac{4\pi H^2}{(1+\operatorname{tg}\alpha)^2}
+\]
+
+\[
+\text{Odp: } P_c = \frac{4\pi H^2}{(1 + \operatorname{tg}\alpha)^2}
+\]

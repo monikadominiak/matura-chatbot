@@ -1,0 +1,15 @@
+=== ARKUSZ: 2017p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji kwadratowej $f(x)=ax^{2}+bx+c,$ której miejsca zerowe to: -3 i 1.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Współczynnik c we wzorze funkcji jest równy
+A. 1
+B. 2
+C. 3
+D. 4
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 10. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci kanonicznej, w postaci ogólnej i w postaci iloczynowej (o ile istnieje) (4.10).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A

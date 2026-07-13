@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zad.13 Dla jakich wartości parametru m (m ∈ R) proste k: x + y - m - 1 = 0 i p: 2x + y - 2m = 0 przecinają się w punkcie, który należy do koła o środku S(0, 1) i promieniu r = √10.
+
+Rysunek poglądowy:
+
+Znamy jedynie współczynnik kierunkowy prostych k i p, więc są narysowane jedynie poglądowo. Ich wyrazy wolne zależą od parametru m muszą być takie, aby punkt ich przecięcia znajdował się wewnątrz koła (pomarańczowy obszar na rysunku).
+
+1) Wyznaczamy punkt przecięcia z układu równań:
+
+{ x + y - m - 1 = 0
+{ 2x + y - 2m = 0
+
+-x + m + 1 = 0
+x = m + 1
+
+x = m + 1
+⇒ y = m - 1 - m - 1 = 0
+y = 2
+
+P (m + 1, 2)
+
+2) Wstawiamy punkt P do nierówności koła i wyznaczamy m:
+
+K: x^2 + (y - 1)^2 ≤ 10
+P ∈ K ⇔ (m + 1)^2 + 1 ≤ 10
+m^2 + 2m + 1 + 1 ≤ 10
+m^2 + 2m ≤ 8
+Δ = 4 - 4 ⋅ 1 ⋅ (-8) = 16, t.ż. 6
+m_1 = -2 - 4/2
+m_2 = -2 + 4/2 = 2
+
+m ∈ ⟨-2, 2⟩
+
+Odp. m ∈ ⟨-2, 2⟩.

@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Dany jest trapez prostokątny \(ABCD\) o podstawach \(AB\) i \(CD\) oraz wysokości \(AD\). Dwusieczna kąta \(ABC\) przecina ramię \(AD\) w punkcie \(E\) oraz dwusieczną kąta \(BCD\) w punkcie \(F\). Wykaż, że w czworokącie \(CDEF\) sumy miar przeciwległych kątów są sobie równe.
+
+1️⃣ tworzymy rysunek poglądowy
+
+1. oznaczamy kąty przy dwusiecznych
+2. z własności kątów w trapezie:
+
+\[2\alpha + 2\beta = 180^\circ\]
+
+\[\alpha + \beta = 90^\circ \Rightarrow \text{więc dwusieczne są pod} \perp\]
+
+2️⃣ teraz możemy się zająć kątami w 4-kącie \(AGFE\)
+
+\[180^\circ - \beta \Rightarrow \text{kąt przyległy do} \; \beta\]
+
+\[\beta \Rightarrow \text{z sumy miar kątów w 4-kącie}\]
+
+\[(360^\circ - (90^\circ + 90^\circ + 180^\circ - \beta + \beta))\]
+
+3️⃣ w 4-kącie \(CDEF\) został ostatni kąt - przyległy do \(\beta\)
+
+mamy zatem: \(90^\circ + 90^\circ = 180^\circ\)
+
+\[180^\circ - \beta + \beta = 180^\circ\]
+
+c.k.d.

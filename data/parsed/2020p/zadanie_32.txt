@@ -1,0 +1,9 @@
+=== ARKUSZ: 2020p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0-4)
+Dany jest kwadrat ABCD, w którym $A=(-5,3)$. Przekątna BD tego kwadratu jest zawarta w prostej o równaniu $y=frac{4}{3}x$. Oblicz współrzędne punktu przecięcia przekątnych AC i BD oraz pole kwadratu ABCD.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

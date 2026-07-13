@@ -1,0 +1,144 @@
+
+--- STRONA 1 ---
+Prosta \( k: y = ax + b \), gdzie \( a > 0 \), przechodząca przez punkt \( P(-1, 2) \), odcina na osiach układu współrzędnych odcinki, których suma długości jest najmniejsza. Wyznacz równanie tej prostej.
+
+\[
+\textcircled{1} \text{ uzależniamy od siebie zmienne}
+\]
+
+\( k: y = ax + b, \, a > 0 \)
+
+\( P(-1, 2) \)
+
+\[
+\begin{align*}
+x &: -1 \\
+y &: 2
+\end{align*}
+\]
+
+podstawiamy punkt \( P \) do prostej \( k \)
+
+\[
+2 = -a + b
+\]
+
+\[
+b = 2 + a \, \Rightarrow \, k: y = ax + a + 2
+\]
+
+szukamy punktów przecięcia z osiami:
+
+oś \( OX \)
+
+\[
+0 = ax + a + 2
+\]
+
+\[
+-ax = a + 2 /: -a
+\]
+
+\[
+x = \frac{a+2}{-a}
+\]
+
+\( a \neq 0 \)
+
+\( P_1 (\frac{a+2}{-a}, 0) \)
+
+oś \( OY \)
+
+\[
+y = a \cdot 0 + a + 2
+\]
+
+\[
+y = a + 2
+\]
+
+\( P_2 (0, a+2) \)
+
+\[
+\textcircled{2} \text{ zapisujemy wzór funkcji}
+\]
+
+\( f(a) = |a + 2| + \left| \frac{a+2}{-a} \right|, \, a > 0 \)
+
+punkty \( P_1 \) i \( P_2 \) leżą na osiach, więc ich odległość od punktu \( (0, 0) \) to po prostu moduły współrzędnych niezera
+
+\[
+\textcircled{3} \text{ opuszczamy moduły zgodnie z dziedziną:} \, a > 0
+\]
+
+\[
+f(a) = |a+2| + \left| \frac{a+2}{-a} \right|
+\]
+
+\[
+= a + 2 - \frac{a+2}{-a}
+\]
+
+\[
+= a + 2 - \left( -\frac{a+2}{a} \right)
+\]
+
+\[
+= a + 2 + \frac{2}{a} = a + 3 + \frac{2}{a}
+\]
+
+\[
+\textcircled{4} \text{ wyznaczamy pochodną funkcji}
+\]
+
+\( f'(a) = 1 - \frac{2}{a^2} \)
+
+\[
+\textcircled{5} \text{ wyznaczamy miejsca zerowe pochodnej}
+\]
+
+\( f'(a) = 0 \Leftrightarrow 1 - \frac{2}{a^2} = 0 \)
+
+\[
+a^2 = 2 \Rightarrow a = \sqrt{2} \lor a = -\sqrt{2}
+\]
+
+\[
+\textcircled{6} \text{ badamy monotoniczność i ekstrema funkcji}
+\]
+
+I sposób:
+
+\[
+\begin{array}{c}
+- \sqrt{2} \\
++ \, \, \, \\
+f'(a) \, (\text{iloczyn})
+\end{array}
+\]
+
+max
+
+min
+
+II sposób:
+
+\[
+\begin{array}{c|c|c|c}
+a & (0, \sqrt{2}) & \sqrt{2} & (\sqrt{2}, +\infty) \\
+\hline
+f'(a) & - & 0 & + \\
+\hline
+f(a) & \downarrow & \text{min lokalne} & \uparrow
+\end{array}
+\]
+
+Funkcja \( f(a) \) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu \( a = \sqrt{2} \)
+
+\[
+\textcircled{7} \text{ wyznaczamy równanie prostej } k
+\]
+
+\( k: y = \sqrt{2}x + \sqrt{2} + 2 \)
+
+Odp: \( y = \sqrt{2}x + \sqrt{2} + 2 \)

@@ -1,0 +1,16 @@
+=== ARKUSZ: 2017p | ZADANIE 25 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 25. (0-1)
+Ze zbioru dwudziestu czterech kolejnych liczb naturalnych od 1 do 24 losujemy jedną liczbę. Niech A oznacza zdarzenie, że wylosowana liczba będzie dzielnikiem liczby 24. Wtedy prawdopodobieństwo zdarzenia A jest równe
+A. 1/4
+B. 1/3
+C. 1/8
+D. 1/6
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 25. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Strona 5 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Ogólne zasady oceniania zadań otwartych Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania.

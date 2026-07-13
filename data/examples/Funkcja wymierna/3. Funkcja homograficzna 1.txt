@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+3. Funkcja homograficzna 1
+
+Przedstaw wzór funkcji f w postaci kanonicznej:
+
+a) \(-\frac{2x+3}{x-4}\)
+
+b) \(\frac{0,5x+2}{x+3}\)
+
+c) \(\frac{4x}{2x+1}\)
+
+a) \(\circled{1}\) Przekształcamy wzór funkcji f do postaci kanonicznej.
+
+Postać kanoniczna funkcji homograficznej: \(f(x)=\frac{a}{x-p} + q\)
+
+Aby przekształcić wzór funkcji f do postaci kanonicznej musimy
+
+\(\circled{1}\) Rozdzielić licznik tak aby w nawiasie było x-p
+
+\(\circled{2}\) Rozdzielamy na dwa ułamki.
+
+\[
+-\frac{2x+3}{x-4} = \frac{-2(x-4)-5}{x-4} = \frac{-5}{x-4} - \frac{2(x-4)}{(x-4)} = \frac{-5}{x-4} - 2
+\]
+
+Wyciągamy -2 przed nawias, piszemy x-4 w nawiasie , \(-5\) to dopełnienie aby licznik był dalej \(-2x+5\)
+
+\(-2(x-4)-5 = -2x+8-5 = -2x+3\)
+
+Odp: Wzór funkcji f w postaci kanonicznej: \(\frac{-5}{x-4} - 2\).
+
+Kolejne podpunkty liczymy analogicznie:
+
+b)
+\[
+\frac{0,5x+2}{x+3} = \frac{0,5(x+3)+0,5}{x+3} = 0,5 + \frac{1}{x+3} = 0,5 + \frac{1}{2(x+3)}
+\]
+
+Odp: Wzór funkcji f w postaci kanonicznej: \(\frac{1}{2(x+3)} + 0,5\).
+
+c)
+\[
+\frac{4x}{2x+1} = \frac{2x}{x+\frac{1}{2}} = \frac{2(x+\frac{1}{2})-1}{x+\frac{1}{2}} = 2 - \frac{1}{x+\frac{1}{2}}
+\]
+
+Odp: Wzór funkcji f w postaci kanonicznej: \(\frac{-1}{x+\frac{1}{2}} + 2\).

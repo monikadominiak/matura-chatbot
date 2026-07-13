@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+1⃣ analizujemy polecenie
+
+* możemy rozpisać "drzewka" dla U₁ i U₂
+
+losujemy 2 z U₁ i 2 z U₂ (bez zwracania)
+
+A - wylosowanie dokładnie trzech kul białych
+
+2⃣ wypisujemy możliwości
+
+1. BBBC → \(\frac{2}{5} \cdot \frac{1}{3} \cdot \frac{8}{15} \cdot \frac{7}{15} = \frac{112}{3375}\)
+
+2. BBCB → \(\frac{2}{5} \cdot \frac{1}{3} \cdot \frac{8}{15} \cdot \frac{8}{15} = \frac{112}{3375}\)
+
+3. BCBB → \(\frac{2}{5} \cdot \frac{2}{3} \cdot \frac{8}{15} \cdot \frac{8}{15} = \frac{256}{3375}\)
+
+4. CBBB → \(\frac{3}{5} \cdot \frac{4}{9} \cdot \frac{8}{15} \cdot \frac{8}{15} = \frac{256}{3375}\)
+
+3⃣ sumujemy możliwości z 4 przypadków
+
+\(P(A) = \frac{112}{3375} + \frac{112}{3375} + \frac{256}{3375} + \frac{256}{3375} = \frac{736}{3375}\)
+
+Odp: \(\frac{736}{3375}\)

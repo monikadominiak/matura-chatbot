@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zad.18 Okręgi o środkach O₁ i O₂ przecinają się w punktach A i Q i punkt A należy do cięciwy AQ. Punkt P leży na prostej AQ prosta PC jest styczna do okręgu o środku O₂ (w punkcie C), punkt B jest punktem przecięcia odcinka PQ z okręgiem o środku O₁ (patrz rysunek). Wiedząc, że |PA| = 8 cm, |PB| = 6 cm i |PC| = 12 cm, oblicz |O₁O₂|.
+
+1) Korzystamy z tw. o stycznej i siecznej:
+
+|PC|² = |PA| |PQ|
+
+|PQ| = \frac{|PC|^2}{|PA|} =  \frac{144}{8} = 18
+
+|AQ| = |PQ| - |PA| = 18 - 8 = 10
+
+odcinki AQ₁ i Q₁O₂ są promieniami okręgu o środku O₁ więc kąt ∡𝐴𝑄O₁ jest równoramienny, punkt O₂ jest środkiem odcinka AQ, tym samym O₂O₁ jest wysokością, twierdząca O₂ QA 
+
+|AQ₁| = \frac{1}{4} |AQ| = 5  => |PQ₂| = 15-8 = 13 
+
+2) Korzystany z tw. o siecznych:
+
+tw. o siecznych mówi, że jeśli istnieją 2 proste które przecinają okrąg w 2 punktach i proste różnie przecięły się ze sobą, to wówczas zachodzi iloczyn:
+
+|PB| |PB| = |PA| |PQ| - |PA|
+
+\frac{6}{8} = \frac{8}{8} = 24 
+
+\frac{|EB₁| |PB| - |PA| = 24 - 6 = 8 => |EQ| = 9
+
+|PQ₁| = 8 + 6 = 15
+
+3) Wyznaczmy |O₁O₂| z tw. Pitagorasa:
+
+l₂O₁O₂² = |PQ₂|² = |PQ₁|²
+
+|O₁O₂|² = \frac{15² - 13² - 56 - 56}{\sqrt{}}
+
+|O₁O₂| = \sqrt{8^2 + 244}
+
+Odp. |O₁O₂| = \sqrt{45=15 cm}

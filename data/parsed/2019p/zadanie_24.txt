@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0–1)
+Wszystkich liczb pięciocyfrowych, w których występują wyłącznie cyfry 0, 2, 5, jest A. 12 B. 36 C. 162 D. 243
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

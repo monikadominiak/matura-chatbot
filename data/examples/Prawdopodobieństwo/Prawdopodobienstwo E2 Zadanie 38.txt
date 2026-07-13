@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+**W urnie jest n kul, z których cztery są białe. Losujemy bez zwracania dwie kule. Oblicz, dla jakiej liczby n prawdopodobieństwo zdarzenia A wylosowania obu białych kul jest większe od \(\frac{1}{3}\)**
+
+1️⃣ analizujemy polecenie
+
+![](https://url/to/img)
+
+n kul, w tym 4 białe, n ≥ 4, n ∈ ℕ₊
+
+losujemy dwie bez zwracania
+
+A - wylosowanie dwóch białych
+
+2️⃣ liczymy moc Ω i A
+
+\(|\Omega| = \binom{n}{2}\)
+
+\(|A| = \binom{4}{2}\)
+
+3️⃣ zapisujemy nierówność z polecenia
+
+\[P(A) = \frac{|A|}{|\Omega|} = \frac{\binom{4}{2}}{\binom{n}{2}} > \frac{1}{3}\]
+
+4️⃣ rozwiązujemy nierówność
+
+\[\frac{\binom{4}{2}}{\binom{n}{2}} > \frac{1}{3} \Rightarrow \frac{\frac{6}{n!}}{2!(n-2)!} > \frac{1}{3}\]
+
+\[\Rightarrow \frac{6 \cdot 2 \cdot (n-2)!}{n!} > \frac{1}{3} / \cdot 3n(n-1) \Rightarrow 36 > n^2 - n \Rightarrow\]
+
+\[\Rightarrow n^2 - n - 36 < 0\]
+
+\[\Delta = 145 \quad \sqrt{\Delta} = \sqrt{145}\]
+
+\[n \in \left(\frac{1 - \sqrt{145}}{2}, \frac{1 + \sqrt{145}}{2}\right) \quad \land \quad n \geq 4 \quad \land \quad n \in ℕ₊\]
+
+\[x \approx 5.15\]
+\[x \approx 6.15\]
+
+**Odp: n ∈ {4, 5, 6}**

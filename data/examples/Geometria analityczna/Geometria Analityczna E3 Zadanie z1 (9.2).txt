@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zadanie z1 (9.2) Wyznacz równanie prostej prostopadłej do prostej k i przechodzącej przez punkt P = (2, 4), jeżeli prosta k ma równanie y = 3x - 5.
+
+Rysunek poglądowy:
+
+Do analizy równoległości lub prostopadłości wygodniejsza jest postać kierunkowa.
+
+Prosta k jest już podana w postaci kierunkowej. Szukaną prostą oznaczymy jako l: y = ax + b.
+
+1) Wyzaczymy współczynnik kierunkowy szukanej prostej z warunku prostopadłości:
+
+l: y = ax + b \
+l ⊥ k ⟺ a · 3 = -1 \
+a = -\frac{1}{3} \
+l: y = -\frac{1}{3}x + b
+
+Prostopadłość prostych y = a_{1}x + b_{1} i y = a_{2}x + b_{2} zachodzi, gdy a_{1}a_{2} = -1.
+
+2) Podstawiamy punkt P do równania szukanej prostej i wyznaczamy jej wyraz wolny:
+
+P(2,4) ∈ l ⟺ 4 = -\frac{1}{3} \cdot 2 + b ⟺ 4 = -\frac{2}{3} + b \
+b = \frac{14}{3}
+
+Odp. y = -\frac{1}{3}x + \frac{14}{3}.

@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Zadanie 6
+
+Funkcja \( f \) określona jest wzorem \( f(x) = \frac{-4}{x} \). Zbiorem wszystkich rozwiązań nierówności \( f(x) < m \) jest przedział \( (0, \frac{3}{2}) \). Naszkicuj wykres funkcji \( f \) i odczytaj wartość \( m \).
+
+❶ Szkicujemy wykres funkcji \( f(x) \).
+
+❷ Zaznaczamy na wykresie \( y = m \) tak aby przecięła wykres funkcji w \( x = \frac{3}{2} \)
+
+❸ Obliczamy wartość \( m \)
+
+\( f(\frac{3}{2}) = \frac{-4}{\frac{3}{2}} = -4 \cdot \frac{2}{3} = -\frac{8}{3} = m \)
+
+Odp.: \( m = -\frac{8}{3} \).

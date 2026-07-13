@@ -1,0 +1,11 @@
+=== ARKUSZ: 2021p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0-2)
+Wykaż, że dla każdych trzech dodatnich liczb a, b i c takich, że a &lt; b, spełniona jest
+nierówność
+$frac{a}{b} &lt; frac{a+c}{b+c}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Zad. 4 Dany jest trójkąt ABC, w którym a = 16, c = 10, γ = 30°. Oblicz długość boku b.
+
+1) Tworzymy rysunek poglądowy:
+
+[Diagram]
+
+2) Wyznaczamy bok b z tw. cosinusów:
+
+10^2 = b^2 + 16^2 - 2 * b * 16 * cos 30°
+
+b^2 - 16√3 b + 156 = 0
+
+Δ = 768 - 624 = 144, √Δ = 12
+
+b_1 = \frac{16√3 - 12}{2} = 8√3 - 6 , b_2 = 8√3 + 6
+
+Odp. b_1 = 8√3 - 6, b_2 = 8√3 + 6.

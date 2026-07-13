@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0-1)
+Funkcja liniowa f określona jest wzorem f(x) = (1/3)x - 1 dla wszystkich liczb rzeczywistych x. Wskaż zdanie prawdziwe. A. Funkcja f jest malejąca i jej wykres przecina oś Oy w punkcie P = (0, 1/3). B. Funkcja f jest malejąca i jej wykres przecina oś Oy w punkcie P = (0, -1). C. Funkcja f jest rosnąca i jej wykres przecina oś Oy w punkcie P = (0, 1/3). D. Funkcja f jest rosnąca i jej wykres przecina oś Oy w punkcie P = (0, -1).
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 8. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji liniowej (4.7).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B

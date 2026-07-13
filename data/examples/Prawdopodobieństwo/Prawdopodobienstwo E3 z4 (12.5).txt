@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Na ile sposobów 20 osób może podzielić się na pięcioosobowe zespoły?
+
+20 osób ÷ 5-osobowe zespoły
+
+➊ analizujemy sytuację  
+&nbsp; &nbsp; kolejność osób nie ma znaczenia, ponieważ logicznie  
+&nbsp; &nbsp; wybór osób A,B,C,D,E to ten sam wybór co np. A,B,D,E,C  
+
+⇒ ➋ użyjemy kombinacji:  
+
+\[
+\binom{20}{5} \cdot \binom{15}{5} \cdot \binom{10}{5} \cdot \binom{5}{5} = \frac{20!}{5! \cdot 15!} \cdot \frac{15!}{5! \cdot 10!} \cdot \frac{10!}{5! \cdot 5!} \cdot 1 =
+\]
+
+\[
+= \frac{6 \cdot 7 \cdot ... \cdot 20}{5! \cdot 5! \cdot 5!} \cdot 1 =
+\]
+
+\[
+= \frac{6 \cdot 7 \cdot 8 \cdot 9 \cdot 10 \cdot 11 \cdot 12 \cdot 13 \cdot 14 \cdot 15 \cdot 16 \cdot 17 \cdot 18 \cdot 19 \cdot 20}{1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 1 \cdot 2 \cdot 3 \cdot 4 \cdot 5} =
+\]
+
+\[
+= 7 \cdot 9 \cdot 11 \cdot 13 \cdot 14 \cdot 16 \cdot 17 \cdot 18 \cdot 19 \cdot 13
+\]
+
+❗ to nie jest końcowy wynik  
+
+➌ póki co w naszym wyniku jako różne sytuacje traktujemy  
+
+&nbsp; &nbsp; • 1. A,B,C,D,E &nbsp; &nbsp; 2. F,G,H,I,J &nbsp; &nbsp; 3. K,L,M,N,O &nbsp; &nbsp; 4. P,R,S,T,U  
+&nbsp; &nbsp; • 2. A,B,C,D,E &nbsp; &nbsp; 1. F,G,H,I,J &nbsp; &nbsp; 3. K,L,M,N,O &nbsp; &nbsp; 4. P,R,S,T,U
+
+a przecież są one takie same, (numerację wprowadziliśmy sami)
+
+➍ ostatecznie:
+
+\[
+\frac{\binom{20}{5} \cdot \binom{15}{5} \cdot \binom{10}{5} \cdot \binom{5}{5}}{4!} = 488864376
+\]
+
+Odp: 488864376

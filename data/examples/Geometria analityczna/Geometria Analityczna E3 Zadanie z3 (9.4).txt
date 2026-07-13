@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+Zadanie z3 (9.4) Liczby \(x_1\) i \(x_2\) są różnymi pierwiastkami równania \(x^2 - 2\sqrt{2}x + p + 1 = 0\).
+Dla jakich wartości parametru p punkt \((x_1, x_2)\) należy do koła o środku \(S = (0, 0)\) i promieniu długości \(\sqrt{5}\).
+
+Rysunek poglądowy:
+
+Nie znamy jeszcze współrzędnych punktu \((x_1,x_2)\), gdyż są one zależne od parametru p. Poglądowo narysowano jego przykładowe położenia spełniające warunki zadania. Będzie tak wtedy, gdy punkt ten będzie spełniał nierówność koła.
+
+1) Wyznaczmy dla jakich p równanie ma 2 różne pierwiastki:
+
+\[
+\Delta = 8 - 4p - 4 = 4 - 4p \\
+\Delta > 0: \quad 4 - 4p > 0 \\
+p < 1 \quad \Rightarrow \quad p \in (-\infty, 1)
+\]
+
+2) Wyznaczamy dla jakich p nierówność koła jest spełniona:
+
+\[
+S(0,0) \quad i \quad r = \sqrt{5} \quad \Rightarrow \quad k: x_1^2+y^2 < 5
+\]
+\[
+(x_1,y) \in k \Leftrightarrow x_1^2 + x_2^2 < 5
+\]
+
+Taki zapis powinien nam kojarzyć się ze wzorami Viète'a.
+Przekształćmy nierówność tak, aby zawierała wyrażenia \(x_1 \cdot x_2\) oraz \(x_1 + x_2\):
+
+\[
+x_1 \cdot x_2 = \frac{c}{a} = (p+1) \quad - \quad wzór_korzystania\_z\_vx2 = 2\sqrt{2}\cdot x_2 = 5
+\]
+\[
+(x_1 + x_2)^2 - 2x_1 \cdot x_2 < 5
+\]
+\[
+x_1 + x_2 = \frac{-b}{a} = 2\sqrt{2} \quad z\_viète: \quad 6 - 2(p+1) < 5
+\]
+
+\[
+(x_1+x_2)^2 - 2(x_1 \cdot x_2) < 5 \\
+-2p+6 < 5 \\
+p > \frac{1}{2} \quad \Rightarrow p \in \left(\frac{1}{2}, \infty \right)
+\]
+
+3) Wyznaczamy część wspólną przedziałów wynikających z warunków
+
+\[
+Odp. \quad p \in \left(\frac{1}{2}, 1\right) \cup \left(\frac{1}{2}, \infty\right).
+\]

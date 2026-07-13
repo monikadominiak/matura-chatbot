@@ -1,0 +1,13 @@
+=== ARKUSZ: 2023p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26.
+1 pkt - zastosowanie definicji funkcji trygonometrycznej lub związków miarowych w trójkącie o kątach $30^circ$, $60^circ$, $90^circ$ i zapisanie równania z jedną niewiadomą (wysokością ostrosłupa lub połową długości krawędzi podstawy), np. $frac{|OE|}{6}=cos 30^circ$, $frac{H}{6}=frac{1}{2}$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

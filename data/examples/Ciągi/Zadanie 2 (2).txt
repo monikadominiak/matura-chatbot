@@ -1,0 +1,85 @@
+
+--- STRONA 1 ---
+**Zadanie 2**
+
+Rosnące ciągi arytmetyczny i geometryczny mają pierwsze wyrazy równe 9. Trzecie wyrazy tych ciągów są także równe. Drugi wyraz ciągu arytmetycznego jest o 2 większy od drugiego wyrazu ciągu geometrycznego. Wyznacz te ciągi.
+
+1️⃣ Tworzymy układ równań.
+
+\[
+(9, b+2, c) \text{ - rosnący ciąg arytmetyczny}
+\]
+\[
+(9, b, c) \text{ - rosnący ciąg geometryczny}
+\]
+
+\[
+\begin{cases}
+b+2 = c-(b+2) \\
+\frac{b}{9} = \frac{c}{b}
+\end{cases}
+\]
+
+2️⃣ Rozwiązujemy układ równań.
+
+\[
+\begin{cases}
+b-4 = c-b-2 \\
+\frac{b^2}{9} = c
+\end{cases}
+\]
+
+\[
+\begin{cases}
+2b = c+5 \\
+b^2 = 9c
+\end{cases}
+\]
+
+\[
+\begin{cases}
+c = 2b-5 \\
+b^2 = 9c
+\end{cases}
+\]
+
+\[
+b^2 = 9(2b-5) \\
+b^2 = 18b-45 \\
+b^2 -18b + 45 = 0 \\
+\Delta = (-18)^2 - 4 \cdot 1 \cdot 45 = 144
+\]
+
+\[
+b_1 = \frac{18-12}{2} = 3 \quad ; \quad b_2 = \frac{18+12}{2} = 15
+\]
+
+\[
+c_1 = 2b_1 - 5 = 2 \cdot 3 - 5 = 1
+\]
+
+\[
+c_2 = 2b_2 - 5 = 2 \cdot 15 - 5 = 25
+\]
+
+3️⃣ Wyznaczamy ciągi.
+
+I \quad (9, 5, 1) - ciąg arytmetyczny
+
+*Nie jest to ciąg rosnący.*
+
+II \quad (9, 17, 25) - rosnący ciąg arytmetyczny
+
+\[
+a_1 = 9 , \quad r = 8
+\]
+
+\[
+(9, 15, 25) - rosnący ciąg geometryczny
+\]
+
+\[
+a_1 = 9 , \quad q = \frac{5}{3}
+\]
+
+**Odp.: Ciąg arytmetyczny: \( a_1 = 9 , \quad r = 8\); ciąg geometryczny: \( a_1 = 9 , \quad q = \frac{5}{3} \).**

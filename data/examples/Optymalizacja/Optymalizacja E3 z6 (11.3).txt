@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) określona jest wzorem \( f(x) = x + \frac{1}{x} \).
+
+a) Wyznacz przedziały monotoniczności funkcji \( f \). 
+b) W którym punkcie \( x_1 = \log_7 4 \) czy \( x_2 = \log_7 3 \) funkcja \( f \) przyjmuje większą wartość? Odpowiedź uzasadnij.
+
+a) \( f(x) = x + \frac{1}{x} \), \( D_f: x \neq 0 \) 
+
+① wyznaczamy pochodną funkcji \( f \) 
+
+\( f'(x) = 1 - \frac{1}{x^2} \)
+
+\([f(x) + g(x)]' = f'(x) + g'(x)\)
+
+\( D_{f'} = D_f \)
+
+② analizujemy znak pochodnej: 
+
+\( f'(x) = 0 \iff 1 - \frac{1}{x^2} = 0 \iff x^2 - 1 = 0 \iff x = -1 \lor x = 1 \)
+
+\( f'(x) > 0 \iff x \in (-\infty, -1) \cup (1, +\infty) \)
+
+\( f'(x) < 0 \iff x \in (-1, 0) \cup (0, 1) \)
+
+\( \begin{array}{c} \,\,\,\, \\ + \,\,\, | \,\,\, \ominus \,\,\, | \,\,\, + \\ \end{array} \)
+
+Odp: \( f \nearrow \) w przedziałach \((-\infty, -1) \cup (1, \infty) \)
+
+\( f \searrow \) w przedziałach \((-1, 0), (0, 1)\)
+
+b) \( x_1 = \log_7 4 \) \,\,\,\,\,\,\, \( x_2 = \log_7 3 \)
+
+poglądowy wykres funkcji logarytmicznej
+
+\( y = \log_a x, \, a > 1 \)
+
+więc: \( \log_7 3 < \log_7 4 \)
+
+③ określamy przedział, do którego należą \( x_1, x_2 \)
+
+\(\log_7 1 < \log_7 3 < \log_7 4 < \log_7 7\)
+
+\( 0 < \log_7 3 < \log_7 4 < 1 \)
+
+w przedziale \((0,1)\) funkcja \( f \) jest malejąca, 
+
+zatem: \( f(\log_7 3) > f(\log_7 4) \)
+
+\( f(x_2) > f(x_1) \)
+
+Odp: w \( x_2 \) jest większa wartość.

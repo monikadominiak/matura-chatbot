@@ -1,0 +1,25 @@
+=== ARKUSZ: 2025p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0–2)
+Na diagramie przedstawiono wyniki sprawdzianu z matematyki w pewnej klasie maturalnej
+liczącej 24 uczniów. Na osi poziomej podano oceny, które uzyskali uczniowie tej klasy,
+a na osi pionowej podano liczbę uczniów, którzy otrzymali daną ocenę.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+
+1. Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+   ………… .
+2. Dominanta ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+   ………… .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

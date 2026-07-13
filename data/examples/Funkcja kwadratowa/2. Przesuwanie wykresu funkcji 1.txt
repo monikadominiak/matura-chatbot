@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+2. Przesuwanie wykresu funkcji 1  
+Naszkicuj wykres funkcji f i podaj jej zbiór wartości:
+
+a) f(x) = (x + 1)^2 - 4
+
+🟦 1️⃣ naszkicowanie wykresu x^2
+
+(dolny wykres)
+🟦 2️⃣ przesunięcie wykresu x^2 o 1 jednostkę w prawo i 4 jednostki w dół zgodnie ze wzorem f(x) = (x + 1)^2 - 4
+
+W(-1,-4)
+
+Odp: Zw = ⟨-4, ∞)
+
+b) f(x) = - (x - 3)^2 + 1
+
+Zwróćmy uwagę na to, że współczynnik kierunkowy tej funkcji jest ujemny
+
+🟩 1️⃣ naszkicowanie wykresu f(x) = - x^2
+
+🟩 2️⃣ przesunięcie tego wykresu o 3 jednostki w lewo oraz jedną jednostkę do góry zgodnie z f(x) = - (x - 3)^2 + 1
+
+W(3,1)
+
+Odp: Zw = (-∞,1⟩
+
+--- STRONA 2 ---
+c) \( f(x) = -0,5 \cdot (x-2)^2 - 2 \)
+
+\( \circled{1} \) naszkicowanie wykresu \( f(x) = -0,5 \cdot x^2 \)
+
+\( \circled{2} \) przesunięcie tego wykresu o dwie jednostki w prawo, oraz o 2 jednostki w dół
+
+Odp: \( \mathcal{Z}_w = (-\infty, -2 \rangle \)

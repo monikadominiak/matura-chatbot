@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Cena działki po kolejnych dwóch obniżkach, za każdym razem o 10% w odniesieniu do ceny obowiązującej w danym momencie, jest równa 78 732 zł. Cena tej działki przed obiema obniżkami była, w zaokrągleniu do 1 zł, równa
+A. 98 732 zł
+B. 97 200 zł
+C. 95 266 zł
+D. 94 478 zł
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

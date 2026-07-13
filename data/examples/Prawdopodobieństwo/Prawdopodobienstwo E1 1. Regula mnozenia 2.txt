@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+W restauracji serwuje się 5 różnych zup, 8 - drugich dań i 6 - deserów. Ile różnych zestawów obiadowych, składających się z zupy, drugiego dania i deseru, można zamówić w tej restauracji?
+
+➊ zapisujemy liczbę elementów poszczególnych zbiorów  
+zupy → 5 możliwości  
+drugie dania → 8 możliwości  
+desery → 6 możliwości  
+
+➋ zapisujemy schematycznie możliwe zestawy  
+
+___ ⋅ ___ ⋅ ___ będziemy korzystać z reguły mnożenia
+
+➌ zapisujemy kolejno ile jest możliwości na dane miejsce  
+
+\[
+5 \cdot 8 \cdot 6 = 240
+\]
+
+zupa  drugie  deser  
+danie
+
+odp: 240

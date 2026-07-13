@@ -1,0 +1,124 @@
+
+--- STRONA 1 ---
+4 logarytmy 4
+
+Oblicz x:
+
+a) log₄ x = log₆₄ 125
+
+b) log₄ x = log₈ 27
+
+Rozwiązując równanie gdzie po obu stronach są logarytmy należy doprowadzić te logarytmy do tych samych podstaw a następnie skorzystać z własności
+
+logₐb = logᶜc -> b=c  
+
+a) log₄ x = log₆₄ 125
+
+       dziedzina: x>0
+
+I sposób - wykorzystanie wzoru na zamianę podstaw logarytmu
+
+(1) log₆₄ 125 = log₄ 125 / log₄ 64 = log₄ 125 / 3 = 1/3 log₄ 125 =
+
+= log₄ 125^(1/3) = log₄ ⁴√125 = log₄ 5
+
+a^(m/n) = ⁿ√a^m
+
+log₄ x = log₄ 5
+
+x = 5
+
+Odp: x=5.
+
+II Sposób - zastosowanie wzoru logₐⁿ b = 1/n logₐ b
+
+    log₆₄ 125 = log₄³ 125 = 1/3 log₄ 125 = log₄ 125^(1/3) =
+
+= log₄ ⁴√125 = log₄ 5
+
+       dziedzina x>0
+
+log₄ x = log₄ 5
+
+x = 5
+
+Odp: x=5.
+
+b) log₄ x = log₈ 27
+
+(2) (3)
+
+I sposób - wykorzystanie wzoru na zamianę podstaw
+
+(2) log₄ x = log₂ x / log₂ 4 = log₂ x / 2 = 1/2 log₂ x = log₂ x^(1/2) =
+
+= log₂ √x
+
+(3) log₈ 27 = log₂ 27 / log₂ 8 = log₂ 27 / 3 = 1/3 log₂ 27 = log₂ 27^(1/3) =
+
+= log₂ ³√27 = log₂ 3
+
+--- STRONA 2 ---
+`log_4 x = log_8 27`
+
+`log_2 sqrt{x} = log_2 3`
+
+`sqrt{x} = 3 |^2`
+
+`x = 3`
+
+`Odp: x = 3.`
+
+`II Sposób - zastosowanie wzoru log_a^n b = 1/n * log_a b`
+
+`(1) log_4 x = log_2^2 x = 1/2 log_2 x = log_2 x^1/2 = log_2 sqrt{x}`
+
+`(2) log_8 27 = log_2^3 27 = 1/3 log_2 27 = log_2 27^{1/3} = log_2 3sqrt[3]{27} = log_2 3`
+
+`log_2 sqrt{x} = log_2 3`
+
+`sqrt{x} = 3 |^2`
+
+`x = 3`
+
+`Odp: x = 3.`
+
+`W przypadku nierówności logarytmicznych konieczne jest wyznaczenie dziedziny`
+
+`Mając logarytm: log_a b = c (*)`
+
+`wtedy b = a^c`
+
+`a > 0 , a ≠ 1 , b > 0`
+
+`Dla nierówności log_a b > c`
+
+`szczególną uwagę musimy zwrócić na podstawę logarytmu (a) gdy`
+
+`a > 1 zamieniając na postać (*) nie zmieniamy znaku nierówności`
+
+`a ∈ (0,1) zamieniając na postać (*) zmieniamy znak nierówności`
+
+`np. Rozwiązujemy nierówność log_{1/4} (3x - 2) > 2`
+
+`1) Wyznaczamy dziedzinę:`
+
+`b > 0`
+
+`3x - 2 > 0`
+
+`3x > 2 |:3`
+
+`x > 2/3`
+
+`2) Rozwiązujemy logarytm zamieniając na postać (*) podstawa jest mniejsza od 1 więc odwracamy znak:`
+
+`3x - 2 < 4^(-2) |(+2)`
+
+`3x < 1/16 + 2 |:3`
+
+`x < 33/48`
+
+`3) Ostatecznie (uwzględniając dziedzinę)`
+
+`Odp: x ∈ (2/3 , 11/16]`

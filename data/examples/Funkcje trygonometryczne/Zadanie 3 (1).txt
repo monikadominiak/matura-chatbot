@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+**Zadanie 3**
+
+Wiedząc, że tgα = 3, oblicz wartość wyrażenia 
+
+\[
+\frac{\sin\alpha \cdot tg\alpha + \cos\alpha \cdot tg\alpha}{2 \cos\alpha - 3 \sin\alpha}
+\]
+
+1️⃣ **Uzależniamy sinusa i cosinusa korzystając z tgα = 3.**
+
+\[
+tg\alpha = \frac{\sin\alpha}{\cos\alpha}
+\]
+
+\[
+tg\alpha = 3
+\]
+
+\[
+\frac{\sin\alpha}{\cos\alpha} = 3
+\]
+
+\[
+\sin\alpha = 3 \cos\alpha
+\]
+
+2️⃣ **Obliczamy wartość wyrażenia.**
+
+\[
+\frac{\sin\alpha \cdot tg\alpha + \cos\alpha \cdot tg\alpha}{2 \cos\alpha - 3 \sin\alpha} = \frac{tg\alpha (\sin\alpha + \cos\alpha)}{2 \cos\alpha - 3(3 \cos\alpha)} = \frac{3 (3 \cos\alpha + \cos\alpha)}{2 \cos\alpha - 9 \cos\alpha} =
+\]
+
+\[
+= \frac{12 \cos\alpha}{-7 \cos\alpha} = -\frac{12}{7}
+\]
+
+Można też obliczyć dokładnie funkcje sina i cosa za pomocą jedynki trygonometrycznej \(\frac{\sin^2\alpha + \cos^2\alpha}{1}\), \(\sin^2\alpha + \cos^2\alpha = 1\)
+
+**Odp.: Wartość wyrażenia wynosi \(-\frac{12}{7}\).**

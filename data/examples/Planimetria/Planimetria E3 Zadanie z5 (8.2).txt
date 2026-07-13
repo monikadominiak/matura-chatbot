@@ -1,0 +1,82 @@
+
+--- STRONA 1 ---
+**Zadanie z7 (8.2)** Dłuższa przekątna równoległoboku o kącie ostrym 60° ma długość \(3\sqrt{7}\). Różnica długości jego boków wynosi 3. Oblicz pole tego równoległoboku i długości krótszej przekątnej.
+
+1) Tworzymy rysunek poglądowy:
+
+Obrazek przedstawiający równoległobok \(ABCD\) z kątami \(\angle ABC = \angle ADC = 60°\) oraz bokami oznaczonymi długościami \(x\) i \(x+3\). Przekątna \(AC\) ma długość \(3\sqrt{7}\).
+
+W trójkątach \(ABC\) lub \(ADC\) (są to trójkąty przystające) mamy podane boki, kąt i zależność między dwoma pozostałymi bokami. Część wszystkich kątów opisałem wyżej. Mimołożona, używamy zatem układu 1 równań, aby tę nieznaną wymierzyć.
+
+2) Rozwiązujemy dziedzinę zmiennej \(x\):
+
+\[
+\begin{cases}
+x > 0 \\
+x + 3 > 0 \rightarrow x > -3 \\
+3\sqrt{7} = x + 3 \rightarrow x < \frac{3\sqrt{7} - 3}{2} \\
+x + (x+3) > 3\sqrt{7} \rightarrow x > \frac{3\sqrt{7} - 3}{2}
+\end{cases}
+\]
+
+\[
+x \in \left(\frac{3\sqrt{7} - 3}{2}, 3\sqrt{7} - 3\right)
+\]
+
+\(x\) leży naprzeciu największego kąta, więc musi być mniejsza.
+
+Skorzystajmy z warunku nierówności trójkąta - najdłuższy bok musi być krótszy niż suma pozostałych.
+
+3) Wyznaczamy \(x\) z tw. cosinusów:
+
+Z tw. cosinusów w \(△ABC\):
+
+\[
+(3\sqrt{7})^2 = x^2 + (x+3)^2 - 2 \cdot x \cdot (x + 3) \cdot \cos 60°
+\]
+
+\[
+63 = x^2 + x^2 + 6x + 9 + x^2 + 3x
+\]
+
+\[
+3x^2 + 9x - 54 = 0
+\]
+
+\[
+x^2 + 3x - 18 = 0
+\]
+
+\(\Delta = 81\), \(\sqrt{\Delta} = 9\)
+
+\[
+x_1 = \frac{-3+9}{2} = 3, \quad x_2 = \frac{-3-9}{2} = -6 \notin D
+\]
+
+4) Wyznaczamy pole równoległoboku ze wzoru oraz krótszą przekątną za pomocą tw. cosinusów:
+
+\[
+P_R = 2 \cdot 6 \cdot \sin 60° = 9\sqrt{3}
+\]
+
+\(P = a \cdot b \cdot \sin \alpha, \, gdzie \, kąt \, \alpha \, to \, dowolny \, kąt \, między \, bokami.\)
+
+Z tw. cosinusów w \(△ABD\):
+
+\[
+|BD|^2 = 3^2 + 3^2 - 2 \cdot 3 \cdot 6 \cdot \cos 60°
+\]
+
+\[
+|BD|^2 = 9 + 9 - 18 \cdot \frac{1}{2}
+\]
+
+\[
+|BD|^2 = 18 - 9 = 9
+\]
+
+\[
+|BD| = \sqrt{9} = 3\sqrt{3}
+\]
+
+**Odp.** \(P_R = 9\sqrt{3}, \, |BD| = 3\sqrt{3}.\)

@@ -1,0 +1,85 @@
+
+--- STRONA 1 ---
+Zad.1 Rozwiąż nierówność.
+
+a) |x| ≥ 4  
+b) |-5x + 2| < 3  
+c) |x + \(\frac{5}{2}\)| ≤ 0  
+d) |3 - 3x| > -1  
+e) |x + 1| ≤ 6 - 2|x + 1|  
+f) 2|x - 4| + |3x - 12| > 4 + |8 - 2x|
+
+1) Rozwiązujemy nierówności korzystając z własności wartości bezwzględnej.
+
+a) |x| ≥ 4
+
+Dla nierówności, w których występuje jedna wartość bezwzględna i tylko tam znajduje się niewiadoma, możemy korzystać z wzorów:
+
+x ≥ 4   ∨   x ≤ -4  
+
+Odp. a) x ∈ (-∞,-4⟩ ∪ ⟨4,+∞).
+
+|x| < p   ⇔   x > -p   ∧   x < p  
+|x| > p   ⇔   x < -p   ∨   x > p  
+(zal. p>0)
+
+b) |-5x+2| < 3
+
+-5x + 2 < 3    ∧   -5x + 2 > -3  
+
+-5x < 1    ∧   -5x < -5  
+
+x > -\(\frac{1}{5}\)   ∧   x < 1  
+
+x ∈ (-\(\frac{1}{5}\), 1)
+
+Odp. b) x ∈ (-\(\frac{1}{5}\),1).
+
+c) |x + \(\frac{5}{2}\)| ​≤ 0
+
+x + \(\frac{5}{2}\) = 0  
+x = -\(\frac{5}{2}\)  
+
+Odp. c) x = -\(\frac{5}{2}\).
+
+Wartość bezwzględna z dowolnego wyrażenia może przyjmować wartość zero, nie może natomiast przyjmować wartości mniejszych od zera. Zatem w tym przypadku możemy przekształcić nierówność w równanie.
+
+d) |3-3x| > -1
+
+x ∈ ℝ
+
+Odp. d) x ∈ ℝ.
+
+Wartość bezwzględna z dowolnego wyrażenia przyjmuje ZAWSZE wartości nieujemne, więc tym bardziej przyjmuje ZAWSZE wartości większe od -1. Oznacza to, że nierówność jest ZAWSZE spełniona.
+
+e) |x+1| ≤ 6-2|x+1|
+
+3|x+1| ≤ 6  
+
+|x+1| ≤ 2  
+
+x+1 ≤ 2   ∧   x+1 ≥ -2  
+
+x ≤ 1   ∧   x ≥ -3  
+
+x ∈ ⟨-3,1⟩
+
+Odp. e) x ∈ ⟨-3,1⟩.
+
+f) 2|x-4|+|3x-12| > 4+|8-2x|
+
+3x - 12 = 3|x-4|  
+|8-2x| = |2x-8| = 2|x-4|
+
+2[2|x-4|] > 4 + 2[|x-4|]  
+(|x-4|+1) > 2
+
+|x-4| > \(\frac{3}{2}\)
+
+x-4 > \(\frac{3}{2}\)   ∨   x-4 < -\(\frac{3}{2}\)  
+
+x > \(\frac{11}{2}\)   ∨   x < \(\frac{5}{2}\)
+
+x ∈ (-∞,\(\frac{5}{2}\)) ∪ (\(\frac{11}{2}\), +∞)  
+
+Odp. f) x ∈ (-∞,\(\frac{5}{2}\)) ∪ (\(\frac{11}{2}\),+∞).

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0–1)
+Średnia arytmetyczna zestawu sześciu liczb: 2𝑥, 4, 6, 8, 11, 13, jest równa 5. Wynika stąd, że
+A. 𝑥 = −1
+B. 𝑥 = 7
+C. 𝑥 = −6
+D. 𝑥 = 6
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Do wykresu funkcji f określonej dla każdej liczby rzeczywistej x wzorem $f(x)=3^{x}-2$
+należy punkt o współrzędnych
+A. (-1,-5)
+B. (0,-2)
+C. (0,-1)
+D. (2, 4)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

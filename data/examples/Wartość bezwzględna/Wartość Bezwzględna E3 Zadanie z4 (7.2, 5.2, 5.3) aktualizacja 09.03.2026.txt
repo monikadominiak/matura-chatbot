@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Zadanie z2 (7.2) Rozwiąż równanie sin2x = cosx + |cosx| w zbiorze ⟨0, 2π⟩.
+
+1) Opuszczamy moduł na 2 przypadki zgodnie z definicją wart. bezwzgl. i rozwiązujemy je:
+
+Wskazówka: należy opuścić wart. bezwzgl. na 2 przypadki zgodnie z definicją, ponieważ niewiadoma jest w więcej niż jednym miejscu.
+
+sin 2x = cos x + |cos x| , x ∈ ⟨0,2π⟩
+
+1° cos x ≥ 0
+x ∈ ⟨0, π/2⟩ ∨ ⟨3π/2,2π⟩
+
+sin 2x = cos x + cos x
+2sin x cos x = 2cos x | :2
+sin x cos x - cos x = 0
+cos x (sin x - 1) = 0
+
+cos x = 0 ∨ sin x = 1
+x = π/2 x = 3π/2 ∨ x = π/2 
+x ∈ (0,π/2) ∨ x ∈ ⟨3π/2,2π⟩
+⇓
+x ∈ {π/2, 3π/2}
+
+2° cos x < 0
+x ∈ ⟨π/2, 3π/2⟩
+
+sin 2x = cos x - cos x
+sin 2x = 0
+2x = kπ, k∈Z
+x = kπ/2 , k∈Z ∧ x∈⟨π/2,3π/2⟩
+⇓
+x = π
+
+2) Wyznaczamy sumę obu przypadków:
+
+1° ∨ 2° ⇨ x ∈ {π/2, π, 3π/2}
+
+Odp. x ∈ {π/2, π, 3π/2}.

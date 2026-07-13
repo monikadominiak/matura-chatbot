@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+FZ4  
+
+wzór na pochodną funkcji złożonej:  
+[g(f(x))]' = g'(f(x)) * f'(x)  
+
+f(x) = sqrt(x^3 + 5x^2 - x - 5)  
+wzór na pochodną funkcji sqrt(x):  
+
+g(x) = sqrt(x) => g'(x) = 1/(2sqrt(x))  
+
+f'(x) = 1/(2sqrt(x^3 - 5x^2 - x - 5)) * (3x^2 + 10x - 1)  
+
+pochodna  
+funkcji zewnętrznej      pochodna  
+funkcji wewnętrznej  
+
+= (3x^2 + 10x - 1)/(2sqrt(x^3 - 5x^2 - x - 5))

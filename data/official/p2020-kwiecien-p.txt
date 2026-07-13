@@ -1,0 +1,605 @@
+Matura próbna podstawowa - kwiecień 2020 - arkusz oraz klucz odpowiedzi:
+
+
+Zadanie 1. (0-1)
+Niech a=-2, b=3. Wartość wyrażenia a^b-b^a jest równa
+A. 73/9
+B. 71/9
+C. -73/9
+D. -71/9
+Zadanie 2. (0-1)
+Liczba 9^9 * 81^2 jest równa
+A. 81^4
+B. 81
+C. 9^13
+D. 9^36
+Zadanie 3. (0-1)
+Wartość wyrażenia log_4(8) + 5 * log_4(2) jest równa
+A. 2
+B. 4
+C. 2 + log_4(5)
+D. 1 + log_4(10)
+Zadanie 4. (0-1)
+Dane są dwa koła. Promień pierwszego koła jest większy od promienia drugiego koła o 30%. Wynika stąd, że pole pierwszego koła jest większe od pola drugiego koła
+A. o mniej niż 50%, ale więcej niż 40%.
+B. o mniej niż 60%, ale więcej niż 50%.
+C. dokładnie o 60%.
+D. o więcej niż 60%.
+Zadanie 5. (0-1)
+Liczba (2sqrt(7)-5)^2 * (2sqrt(7)+5)^2 jest równa
+A. 9
+B. 3
+C. 2809
+D. 28 - 20*sqrt(7)
+Zadanie 6. (0-1)
+Wskaż rysunek, na którym jest przedstawiony zbiór wszystkich liczb x spełniających warunek: 11 &lt;= 2x - 7 &lt;= 15.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 7. (0-1)
+Rozważmy treść następującego zadania:
+Obwód prostokąta o bokach długości a i b jest równy 60. Jeden z boków tego prostokąta jest o 10 dłuższy od drugiego.
+Oblicz długości boków tego prostokąta.
+Który układ równań opisuje zależności między długościami boków tego prostokąta?
+A. { 2(a+b)=60
+{ a+10=b
+B. { 2a+b=60
+{ 10b=a
+C. { 2ab=60
+{ a-b=10
+D. { 2(a+b)=60
+{ 10a=b
+Zadanie 8. (0-1)
+Rozwiązaniem równania (x+1)/(x+2) = 3, gdzie x != -2, jest liczba należąca do przedziału
+A. (-2,1)
+B. &lt;1, +nieskończoności)
+C. (-nieskończoności, -5)
+D. &lt;-5, -2)
+Zadanie 9. (0-1)
+Linę o długości 100 metrów rozcięto na trzy części, których długości pozostają w stosunku 3:4:5. Stąd wynika, że najdłuższa z tych części ma długość
+A. 41 i 2/3 metra.
+B. 33 i 1/3 metra.
+C. 60 metrów.
+D. 25 metrów.
+Zadanie 10. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji kwadratowej f określonej wzorem f(x) = x^2 + bx + c. Współczynniki b i c we wzorze funkcji f spełniają warunki:
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. b  0
+B. b &lt; 0 i c  0 i c &gt; 0
+D. b &gt; 0 i c = 1, w którym są dane: a_1 = 2 i a_2 = 9. Wtedy a_n = 79 dla
+A. n = 10
+B. n = 11
+C. n = 12
+D. n = 13
+Zadanie 12. (0-1)
+Dany jest trzywyrazowy ciąg geometryczny o wyrazach dodatnich: (81, 3x, 4). Stąd wynika, że
+A. x = 18
+B. x = 6
+C. x = 85/6
+D. x = 6/85
+Zadanie 13. (0-1)
+Kąt alpha jest ostry i spełniona jest równość sin(alpha) = (2 * sqrt(6)) / 7. Stąd wynika, że
+A. cos(alpha) = 24/49
+B. cos(alpha) = 5/7
+C. cos(alpha) = 25/49
+D. cos(alpha) = (5 * sqrt(6)) / 7
+Zadanie 14. (0-1)
+Na okręgu o środku w punkcie O leżą punkty A, B i C (zobacz rysunek). Kąt ABC ma miarę 121 stopni, a kąt BOC ma miarę 40 stopni. Kąt AOB ma miarę
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. 59 stopni
+B. 50 stopni
+C. 81 stopni
+D. 78 stopni
+Zadanie 15. (0-1)
+W trójkącie ABC punkt D leży na boku BC, a punkt E leży na boku AC. Odcinek DE jest równoległy do boku AB, a ponadto |AE| = |DE| = 4, |AB| = 6 (zobacz rysunek). Odcinek CE ma długość
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. 16/3
+B. 8/3
+C. 8
+D. 6
+Zadanie 16. (0-1)
+Dany jest trójkąt równoboczny, którego pole powierzchni jest równe 6 * sqrt(3). Bok tego trójkąta ma długość
+A. 3 * sqrt(2)
+B. 2 * sqrt(3)
+C. 2 * sqrt(6)
+D. 6 * sqrt(2)
+Zadanie 17. (0-1)
+Punkty B = (-2, 4) i C = (5, 1) są sąsiednimi wierzchołkami kwadratu ABCD. Pole tego kwadratu jest równe
+A. 29
+B. 40
+C. 58
+D. 74
+Zadanie 18. (0-1)
+Na rysunku przedstawiono ostrosłup prawidłowy czworokątny ABCDS o podstawie ABCD. Kąt nachylenia krawędzi bocznej SA ostrosłupa do płaszczyzny podstawy ABCD to
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. SAO
+B. SAB
+C. SOA
+D. ASB
+Zadanie 19. (0-1)
+Graniastosłup ma 14 wierzchołków. Liczba wszystkich krawędzi tego graniastosłupa jest równa
+A. 14
+B. 21
+C. 28
+D. 26
+Zadanie 20. (0-1)
+Prosta k przechodzi przez punkt A = (4, -4) i jest prostopadła do osi Ox. Prosta k ma równanie
+A. x - 4 = 0
+B. x - y = 0
+C. y + 4 = 0
+D. x + y = 0
+Zadanie 21. (0-1)
+Prosta l jest nachylona do osi Ox pod kątem alpha i przecina oś Oy w punkcie (0, -3) (zobacz rysunek). Prosta l ma równanie
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. ...
+B. ...
+C. ...
+D. ...
+Zadanie 22. (0-1)
+Dany jest stożek o wysokości H i tworzącej l. Objętość tego stożka jest równa
+A. ...
+B. ...
+C. ...
+D. ...
+Zadanie 23. (0-1)
+Średnia arytmetyczna zestawu ośmiu danych: x, 2, 4, 6, 8, 10, 12, 14 jest równa 9. Wtedy mediana tego zestawu danych jest równa
+A. 8
+B. 9
+C. 10
+D. 16
+Zadanie 24. (0-1)
+Ile jest wszystkich czterocyfrowych liczb naturalnych mniejszych niż 2017?
+A. 2016
+B. 2017
+C. 1016
+D. 1017
+Zadanie 25. (0-1)
+Z pudełka, w którym jest tylko 6 kul białych i n kul czarnych, losujemy jedną kulę. Prawdopodobieństwo wylosowania kuli białej jest równe 3/7. Liczba kul czarnych jest równa
+A. ...
+B. ...
+C. ...
+D. ...
+Zadanie 26. (0-2)
+Rozwiąż nierówność x^2 + 7x + 12 &gt; 0.
+Zadanie 27. (0-2)
+Rozwiąż równanie x^3 - 7x^2 - 4x + 28 = 0.
+Zadanie 28. (0-2)
+Wykaż, że dla dowolnej dodatniej liczby rzeczywistej x prawdziwa jest nierówność x + 1/x &gt;= 2.
+Zadanie 29. (0-2)
+Dany jest trójkąt prostokątny ABC, w którym kąt ACB = 90 stopni i kąt ABC = 60 stopni. Niech CD oznacza punkt wspólny wysokości poprowadzonej z wierzchołka C kąta prostego i przeciwprostokątnej AB tego trójkąta. Wykaż, że |AC| / |BC| = sqrt(3).
+Zadanie 30. (0-2)
+Ze zbioru liczb {1, 2, 3, 4, 5, 6} losujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że iloraz pierwszej wylosowanej liczby przez drugą wylosowaną liczbę jest liczbą całkowitą.
+Zadanie 31. (0-2)
+Dany jest ciąg arytmetyczny (a_n), określony dla n &gt;= 1, w którym spełniona jest równość a_5 + a_8 = 30. Oblicz sumę a_6 + a_7.
+Zadanie 32. (0-4)
+Funkcja kwadratowa f określona wzorem f(x) = ax^2 + bx + c ma dwa miejsca zerowe: x = -2 i x = 4. Wykres funkcji f przechodzi przez punkt (1, -9). Oblicz najmniejszą wartość funkcji f.
+Zadanie 33. (0-4)
+Punkt C = (3, 6) jest wierzchołkiem trójkąta prostokątnego ABC, którego wierzchołek A leży na osi Ox, a wierzchołek B na osi Oy układu współrzędnych. Prosta zawierająca wysokość tego trójkąta opuszczoną z wierzchołka C przecina przeciwprostokątną AB w punkcie D = (1, 2). Oblicz współrzędne wierzchołków A i B tego trójkąta oraz długość przeciwprostokątnej AB.
+Zadanie 34. (0-5)
+Podstawą graniastosłupa prostego jest trójkąt prostokątny ABC, w którym kąt ACB = 90 stopni (zobacz rysunek). Stosunek długości przyprostokątnej AC tego trójkąta do długości przyprostokątnej BC jest równy 4:3. Punkt S jest środkiem okręgu opisanego na trójkącie ABC, a długość odcinka SC jest równa 5. Pole ściany bocznej BEFC graniastosłupa jest równe 48. Oblicz objętość tego graniastosłupa.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+PRÓBNY EGZAMIN MATURALNY W ROKU SZKOLNYM 2019/2020
+MATEMATYKA POZIOM PODSTAWOWY
+FORMUŁA OD 2015 (,,NOWA MATURA")
+ZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ
+DLA ARKUSZY
+MMA-P1, MMA-P2, MMA-P4, MMA-P7
+KWIECIEŃ 2020
+Zadania zamknięte
+Punkt przyznaje się za wskazanie poprawnej odpowiedzi.
+Nr zad. 1: C
+Nr zad. 2: C
+Nr zad. 3: B
+Nr zad. 4: D
+Nr zad. 5: A
+Nr zad. 6: D
+Nr zad. 7: A
+Nr zad. 8: D
+Nr zad. 9: A
+Nr zad. 10: A
+Nr zad. 11: C
+Nr zad. 12: B
+Nr zad. 13: B
+Nr zad. 14: D
+Nr zad. 15: C
+Nr zad. 16: C
+Nr zad. 17: C
+Nr zad. 18: A
+Nr zad. 19: B
+Nr zad. 20: A
+Nr zad. 21: A
+Nr zad. 22: B
+Nr zad. 23: B
+Nr zad. 24: D
+Nr zad. 25: D
+Ogólne zasady oceniania zadań otwartych
+Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania.
+Zadanie 26. (0-2)
+Rozwiąż nierówność $2x^2+x-6\le0$.
+Przykładowe rozwiązanie
+Rozwiązanie nierówności kwadratowej składa się z dwóch etapów.
+Pierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego $2x^2+x-6$.
+Na przykład obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:
+$\Delta=7^2$, $x_1=\frac{-1-7}{4}=-2$, $x_2=\frac{-1+7}{4}=\frac{3}{2}$
+Drugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności $2x^2+x-6\le0$.
+Podajemy zbiór rozwiązań nierówności: $-2\le x\le\frac{3}{2}$ lub $\langle-2,\frac{3}{2}\rangle$ lub $x\in\langle-2,\frac{3}{2}\rangle$, np. odczytując go ze szkicu wykresu funkcji $f(x)=2x^2+x-6$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, np.
+obliczy lub poda pierwiastki trójmianu kwadratowego $x_1=-2$, $x_2=\frac{3}{2}$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności,
+albo
+zaznaczy na wykresie miejsca zerowe funkcji $f(x)=2x^2+x-6$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności,
+albo
+realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne pierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże nierówność.
+Zdający otrzymuje 2 p. gdy:
+poda zbiór rozwiązań nierówności: $-2\le x\le\frac{3}{2}$ lub $\langle-2,\frac{3}{2}\rangle$ lub $x\in\langle-2,\frac{3}{2}\rangle$
+albo
+poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Uwagi
+Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+Jeśli zdający wyznacza ujemną deltę trójmianu kwadratowego, to otrzymuje 0 punktów za całe rozwiązanie.
+Kryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki
+Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu $x_1=-2$, $x_2=\frac{3}{2}$ i zapisze, np. $x\in\langle-2,-\frac{3}{2}\rangle$, popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $x\in\langle\frac{3}{2},-2\rangle$, to przyznajemy 2 punkty.
+Zadanie 27. (0-2)
+Rozwiąż równanie $(x^2-6)(3x+2)=0$.
+Przykładowe rozwiązanie
+Lewa strona równania jest iloczynem dwóch czynników $x^2-6$ oraz $3x+2$. Zatem iloczyn ten jest równy 0, gdy co najmniej jeden z tych czynników jest równy 0, czyli
+$x^2-6=0$ lub $3x+2=0$.
+Rozwiązaniem równania $3x+2=0$ jest $x=-\frac{2}{3}$.
+Rozwiązania równania $x^2-6=0$ możemy wyznaczyć, korzystając:
+albo
+z postaci iloczynowej trójmianu $x^2-6$ (wzoru skróconego mnożenia na różnicę kwadratów)
+$(x-\sqrt{6})(x+\sqrt{6})=0$, stąd $x=\sqrt{6}$ lub $x=-\sqrt{6}$
+albo
+ze wzorów na pierwiastki trójmianu kwadratowego:
+$\Delta=24$
+$x_1=\frac{0-2\sqrt{6}}{2}=-\sqrt{6}$, $x_2=\frac{0+2\sqrt{6}}{2}=\sqrt{6}$.
+albo
+z własności wartości bezwzględnej, przekształcając najpierw równanie do postaci równoważnej $|x|=\sqrt{6}$, skąd $x=\sqrt{6}$ lub $x=-\sqrt{6}$.
+Zatem wszystkie rozwiązania równania to: $x=-\frac{2}{3}$ lub $x=\sqrt{6}$, lub $x=-\sqrt{6}$.
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+zapisze dwa równania: $x^2-6=0$ lub $3x+2=0$ (wystarczy, że z rozwiązania wynika, że zdający wyznacza pierwiastki każdego z wielomianów: $x^2-6$ oraz $3x+2$)
+albo
+zapisze rozwiązanie $x=-\frac{2}{3}$,
+albo
+wyznaczy dwa pierwiastki wielomianu $x^2-6$,
+i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy wyznaczy bezbłędnie wszystkie rozwiązania równania: $x=-\frac{2}{3}$ lub $x=\sqrt{6}$, lub $x=-\sqrt{6}$.
+Uwagi
+Jeżeli zdający zapisuje zamiast znaku = znak $\ne$ i zamieszcza zapisy typu: $x^2-6\ne0$ lub $3x+2\ne0$, to oznacza, że podejmuje próbę wyznaczenia miejsc zerowych dwóch wielomianów i otrzymuje przynajmniej 1 punkt.
+Jeżeli zdający nie zapisuje warunku $x^2-6=0$, ale pisze od razu błędną postać iloczynową $x^2-6$ np. $(x-3)(x-2)=0$, $(x-6)(x+6)=0$ i nie wyznacza poprawnie miejsca zerowego drugiego wielomianu, to otrzymuje 0 punktów.
+Zadanie 28. (0-2)
+Wykaż, że dla dowolnej dodatniej liczby rzeczywistej x prawdziwa jest nierówność
+$4x+\frac{1}{x}\ge4$.
+Przykładowe rozwiązanie
+I sposób rozwiązania
+Dla dodatnich liczb x nierówność $4x+\frac{1}{x}\ge4$ jest równoważna kolejno nierównościom
+$4x^2+1\ge4x$,
+$4x^2-4x+1\ge0$,
+$(2x-1)^2\ge0$.
+Ta nierówność jest prawdziwa, gdyż lewa strona tej nierówności jest kwadratem liczby rzeczywistej. To kończy dowód.
+II sposób rozwiązania
+Dla dodatnich liczb x nierówność $4x+\frac{1}{x}\ge4$ jest równoważna kolejno nierównościom
+$4x-4+\frac{1}{x}\ge0$,
+$(2\sqrt{x}-\frac{1}{\sqrt{x}})^2\ge0$.
+Ta nierówność jest prawdziwa, gdyż lewa strona tej nierówności jest kwadratem liczby rzeczywistej. To kończy dowód.
+III sposób rozwiązania
+Dla dodatnich liczb x nierówność $4x+\frac{1}{x}\ge4$ jest równoważna kolejno nierównościom
+$4x^2+1\ge4x$,
+$4x^2-4x+1\ge0$.
+Ponieważ wyróżnik trójmianu kwadratowego $4x^2-4x+1$ jest równy $\Delta=(-4)^2-4\cdot1\cdot4=0$ i współczynnik przy $x^2$ jest dodatni, więc nierówność jest prawdziwa dla każdej liczby rzeczywistej x. To kończy dowód.
+Uwaga
+Możemy też naszkicować wykres tego trójmianu $y=4x^2-4x+1$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+IV sposób rozwiązania
+Z twierdzenia o średniej arytmetycznej i geometrycznej dla liczb dodatnich 4x i $\frac{1}{x}$ wynika, że prawdziwa jest nierówność
+$\frac{4x+\frac{1}{x}}{2}\ge\sqrt{4x\cdot\frac{1}{x}}=2$.
+Stąd otrzymujemy $4x+\frac{1}{x}\ge4$.
+To kończy dowód.
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+przekształci poprawnie nierówność do postaci $(2x-1)^2\ge0$
+albo
+przekształci poprawnie nierówność do postaci $(2\sqrt{x}-\frac{1}{\sqrt{x}})^2\ge0$
+albo
+przekształci poprawnie nierówność do postaci $4x^2-4x+1\ge0$ i obliczy wyróżnik trójmianu $4x^2-4x+1$: $\Delta=0$
+albo
+obliczy pochodną funkcji $f(x)=4x+\frac{1}{x}$ i wykaże, że dla $x=\frac{1}{2}$ funkcja f osiąga minimum lokalne
+i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdzi prawdziwość tezy tylko dla konkretnych przypadków, to otrzymuje 0 punktów.
+Zadanie 29. (0-2)
+Dany jest trójkąt prostokątny ABC, w którym $|\angle ACB|=90^\circ$ i $|\angle ABC|=60^\circ$. Niech D oznacza punkt wspólny wysokości poprowadzonej z wierzchołka C kąta prostego i przeciwprostokątnej AB tego trójkąta.
+Wykaż, że $|AD|:|DB|=3:1$
+Przykładowe rozwiązania
+I sposób rozwiązania
+Sporządzamy pomocniczy rysunek ilustrujący treść zadania.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Ponieważ $|\angle ABC|=60^\circ$, więc $|BC|=\frac{1}{2}|AB|$. Podobnie, ponieważ $|\angle DBC|=60^\circ$ więc $|DB|=\frac{1}{2}|BC|$. Otrzymujemy zatem ciąg równości
+$|DB|=\frac{1}{2}|BC|=\frac{1}{2}(\frac{1}{2}|AB|)=\frac{1}{4}|AB|$.
+Zatem $|AD|=\frac{3}{4}|AB|$. Stąd wynika, że $|AD|:|DB|=\frac{3}{4}|AB|:\frac{1}{4}|AB|=3:1$. To kończy dowód.
+Schemat punktowania I sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy zauważy i zapisze, że
+$|BC|=\frac{1}{2}|AB|$ i $|DB|=\frac{1}{2}|BC|$
+i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne, poprawne rozumowanie.
+II sposób rozwiązania
+Sporządzamy pomocniczy rysunek ilustrujący treść zadania.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Z trójkątów prostokątnych ADC i BDC otrzymujemy równości
+$\tg30^\circ=\frac{|CD|}{|AD|}$ i $\tg60^\circ=\frac{|CD|}{|DB|}$,
+czyli równości
+$|CD|=\frac{\sqrt{3}}{3}|AD|$ i $|CD|=\sqrt{3}|DB|$.
+Porównujemy prawe strony obu równań i zapisujemy równanie
+$\frac{\sqrt{3}}{3}|AD|=\sqrt{3}|DB|$,
+równoważne równaniu
+$\frac{|AD|}{|DB|}=\frac{\sqrt{3}}{\frac{\sqrt{3}}{3}}=3$.
+Otrzymana równość oznacza tezę twierdzenia.
+Schemat punktowania II sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy zauważy i zapisze, że
+$|CD|=\frac{\sqrt{3}}{3}|AD|$ i $|CD|=\sqrt{3}|DB|$
+i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne, poprawne rozumowanie.
+III sposób rozwiązania
+Sporządzamy pomocniczy rysunek ilustrujący treść zadania.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Niech $|AC|=b$. Wtedy w trójkącie ACD mamy:
+$|CD|=\frac{b}{2}$ i $|AD|=\frac{b\sqrt{3}}{2}$.
+Ponadto, w trójkącie ABC:
+$|BC|=\frac{b\sqrt{3}}{3}$.
+Ponieważ $|\angle DBC|=60^\circ$, więc $|DB|=\frac{b\sqrt{3}}{6}$. Zatem $\frac{|AD|}{|DB|}=\frac{b\sqrt{3}}{2}:\frac{b\sqrt{3}}{6}=3$.
+To kończy dowód.
+Schemat punktowania III sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy zapisze długość odcinków AD i DB w zależności od długości odcinka AC, np. oznaczy $|AC|=b$ i zapisze długości odcinków AD i DB w zależności od b:
+$|AD|=\frac{b\sqrt{3}}{2}$ i $|DB|=\frac{b\sqrt{3}}{6}$
+i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne, poprawne rozumowanie.
+IV sposób rozwiązania
+Niech $|BC|=a$. Ponieważ trójkąt ABC jest połową trójkąta równobocznego, więc $|AC|=a\sqrt{3}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąty ADC i CDB są podobne, a skala ich podobieństwa jest równa $\frac{|AC|}{|BC|}=\frac{a\sqrt{3}}{a}=\sqrt{3}$, więc stosunek pól tych trójkątów jest kwadratem tej skali, czyli $\frac{P_{ADC}}{P_{CDB}}=(\sqrt{3})^2=3$. Te trójkąty mają wspólną wysokość CD, więc stosunek ich pól jest równy stosunkowi długości ich podstaw, czyli $\frac{P_{ADC}}{P_{CDB}}=\frac{|AD|}{|DB|}=3$.
+To kończy dowód.
+Schemat punktowania IV sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy zapisze, że trójkąty ADC i CDB są podobne, obliczy stosunek pól tych trójkątów i zapisze, że CD jest wspólną wysokością tych trójkątów i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne, poprawne rozumowanie.
+Uwagi
+Jeżeli zdający sprawdzi prawdziwość tezy tylko dla konkretnych przypadków, to otrzymuje 0 punktów. Uwaga ta nie dotyczy sytuacji, gdy zdający zapisuje stosowną własność: podobieństwo trójkątów o kątach $30^\circ$, $60^\circ$, $90^\circ$.
+Jeżeli zdający ustali, że długości odcinków są równe: $|BD|=x$, $|BC|=2x$, $|AB|=4x$ lub $|BD|=x$, $|BC|=2x$, $|AD|=3x$ i nie towarzyszą tym ustaleniom zapisy świadczące o błędnym rozumowaniu, to może otrzymać 2 punkty.
+Jeżeli zdający przeprowadzi uzasadnienie, rozważając konkretne długości odcinków i zapisze, że ze względu na podobieństwo figur teza jest prawdziwa dla dowolnych długości boków, spełniających podane warunki, to może otrzymać 2 punkty.
+Zadanie 30. (0-2)
+Ze zbioru liczb $\{1,2,4,5,10\}$ losujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że iloraz pierwszej wylosowanej liczby przez drugą wylosowaną liczbę jest liczbą całkowitą.
+Przykładowe rozwiązania
+I sposób rozwiązania (,,metoda klasyczna")
+Zdarzeniami elementarnymi są wszystkie pary uporządkowane $(x, y)$ liczb ze zbioru $\{1, 2, 4, 5, 10\}$.
+Jest to model klasyczny. Liczba wszystkich zdarzeń elementarnych jest równa $|\Omega|=5\cdot5=25$.
+Zdarzeniu A sprzyjają następujące zdarzenia elementarne:
+$(1,1), (2,1), (4,1), (5,1), (10,1), (2, 2), (4,2), (10,2), (4, 4), (5,5), (10,5), (10,10)$
+Zatem $|A|=12$ i stąd $P(A)=\frac{|A|}{|\Omega|}=\frac{12}{25}=0,48$.
+II sposób rozwiązania (,,metoda tabeli")
+Zdarzeniami elementarnymi są wszystkie pary uporządkowane $(x, y)$ liczb ze zbioru $\{1,2,4,5,10\}$. Jest to model klasyczny. Budujemy tabelę ilustrującą sytuację opisaną w zadaniu.
+Wyniki sprzyjające (oznaczone znakiem X) dla poszczególnych wyników I i II losowania:
+I losowanie = 1: II losowanie = 1
+I losowanie = 2: II losowanie = 1, 2
+I losowanie = 4: II losowanie = 1, 2, 4
+I losowanie = 5: II losowanie = 1, 5
+I losowanie = 10: II losowanie = 1, 2, 5, 10
+Symbolem X oznaczono zdarzenia elementarne sprzyjające zdarzeniu A. Mamy więc 25 wszystkich zdarzeń elementarnych, czyli $|\Omega|=25$, oraz 12 zdarzeń elementarnych sprzyjających zdarzeniu A, czyli $|A|=12$.
+Stąd $P(A)=\frac{12}{25}=0,48$.
+Schemat punktowania I i II sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy
+obliczy liczbę wszystkich możliwych zdarzeń elementarnych $|\Omega|=25$
+albo
+przedstawi poprawny sposób wyznaczenia wszystkich elementów zbioru A lub wypisze wszystkie te zdarzenia elementarne:
+$(1,1), (2,1), (4,1), (5,1), (10,1), (2,2), (4,2), (10,2), (4,4), (5,5), (10,5), (10,10)$
+i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy obliczy prawdopodobieństwo zdarzenia A: $P(A)=\frac{12}{25}=0,48$.
+III sposób rozwiązania („metoda drzewa”)
+Drzewo z istotnymi gałęziami
+Zadanie zawiera obrazek ważny dla rozwiązania.
+$P(A)=12\cdot\frac{1}{5}\cdot\frac{1}{5}=\frac{12}{25}=0,48$.
+Schemat punktowania III sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy narysuje drzewo uwzględniające wszystkie istotne gałęzie i zapisze poprawne prawdopodobieństwo przynajmniej przy jednej gałęzi.
+Zdający otrzymuje 2 p. gdy obliczy prawdopodobieństwo zdarzenia A: $P(A)=12\cdot\frac{1}{5}\cdot\frac{1}{5}=\frac{12}{25}=0,48$.
+Uwagi
+Jeśli zdający rozwiąże zadanie do końca i otrzyma $P(A)>1$, to otrzymuje za całe rozwiązanie 0 punktów.
+Jeżeli zdający poprawnie obliczy prawdopodobieństwo w sytuacji rozważania losowania bez zwracania i uzyska wynik $\frac{7}{20}$, to może otrzymać 1 punkt.
+Jeżeli zdający przy opisie elementów zbioru A zmienia kolejność liczb i pisze na przykład (1, 2) zamiast (2, 1), to może otrzymać 2 punkty.
+Zadanie 31. (0–2)
+Dany jest ciąg arytmetyczny $(a_n)$, określony dla $n\ge1$, w którym spełniona jest równość $a_{21}+a_{24}+a_{27}+a_{30}=100$.
+Oblicz sumę $a_{25}+a_{26}$.
+Przykładowe rozwiązanie
+Ponieważ w zadaniu należy obliczyć sumę $a_{25}+a_{26}$, więc zapiszemy daną równość $a_{21}+a_{24}+a_{27}+a_{30}=100$ w postaci równoważnej
+$a_{25}-4r+a_{25}-r+a_{26}+r+a_{26}+4r=100$,
+gdzie r oznacza odpowiednio różnicę danego ciągu.
+Stąd wynika, że
+$2a_{25}+2a_{26}=100$
+$a_{25}+a_{26}=50$.
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+zapisze równość $a_{21}+a_{24}+a_{27}+a_{30}=100$ w postaci równoważnej $a_{25}-4r+a_{25}-r+a_{26}+r+a_{26}+4r=100$ lub $4a_1+98r=100$, lub $2a_1+49r=50$
+i na tym zakończy lub dalej popełni błędy
+albo
+zapisze, że $a_{25}+a_{26}=a_1+24r+a_1+25r=2a_1+49r$
+i na tym zakończy lub dalej popełni błędy,
+albo
+popełni błąd rachunkowy w przekształcaniu równości $a_{21}+a_{24}+a_{27}+a_{30}=100$ do postaci równoważnej i konsekwentnie do popełnionego błędu obliczy sumę $a_{25}+a_{26}$.
+Zdający otrzymuje 2 p. gdy obliczy i zapisze, że $a_{25}+a_{26}=50$.
+Uwagi
+Jeżeli zdający zapisze równość $a_{21}+a_{24}+a_{27}+a_{30}=100$ w postaci równoważnej $4a_1+98r=100$, a następnie wprowadzi konkretne wartości liczbowe do równania z dwiema niewiadomymi, np. $r=1$, i nawet poprawnie obliczy $a_{25}+a_{26}$, to otrzymuje 1 punkt za takie rozwiązanie.
+Jeżeli zdający myli własności ciągu arytmetycznego z własnościami ciągu geometrycznego, to za całe zadanie otrzymuje 0 punktów.
+Jeżeli zdający rozważa wyłącznie konkretne ciągi i nie podaje stosownego uzasadnienia na temat zastosowania tych rozważań do sytuacji ogólnej, to otrzymuje 0 punktów.
+Jeżeli zdający zapisuje wyłącznie $a_{25}+a_{26}=50$, to otrzymuje 0 punktów.
+Zadanie 32. (0–4)
+Funkcja kwadratowa $f(x)=ax^2+bx+c$ ma dwa miejsca zerowe $x_1=-2$ i $x_2=6$. Wykres funkcji f przechodzi przez punkt $A=(1, -5)$. Oblicz najmniejszą wartość funkcji f.
+Przykładowe rozwiązania
+I sposób rozwiązania
+Ponieważ znamy miejsca zerowe funkcji kwadratowej, to możemy zapisać wzór funkcji f w postaci iloczynowej $f(x)=a(x+2)(x-6)$.
+Wykres tej funkcji przechodzi przez punkt $A=(1, -5)$, więc otrzymujemy równanie
+$-5=a(1+2)(1-6)$,
+$-5=-15a$,
+$a=\frac{1}{3}$.
+Funkcja określona jest wzorem: $f(x)=\frac{1}{3}(x+2)(x-6)$.
+Najmniejsza wartość jest przyjmowana przez funkcję f dla argumentu $x_0$, który jest średnią arytmetyczną miejsc zerowych tej funkcji.
+Wyznaczamy $x_0$ i najmniejszą wartość funkcji $f(x_0)$:
+$x_0=\frac{-2+6}{2}=2$, $f(2)=\frac{1}{3}(2+2)(2-6)=\frac{1}{3}\cdot4\cdot(-4)=-\frac{16}{3}$.
+II sposób rozwiązania
+Z treści zadania wynika, że możemy zapisać układ trzech równań:
+$$\begin{cases} a\cdot(-2)^2+b\cdot(-2)+c=0 \\ a\cdot6^2+b\cdot6+c=0 \\ a\cdot1^2+b\cdot1+c=-5 \end{cases}$$
+Po rozwiązaniu układu równań otrzymujemy $a=\frac{1}{3}$, $b=-\frac{4}{3}$ i $c=-4$.
+Stąd wynika, że funkcja f określona jest wzorem: $f(x)=\frac{1}{3}x^2-\frac{4}{3}x-4$.
+Funkcja ta przyjmuje najmniejszą wartość dla argumentu $x_0=\frac{-b}{2a}=\frac{\frac{4}{3}}{2\cdot\frac{1}{3}}=2$.
+Obliczamy najmniejszą wartość funkcji: $f(2)=\frac{1}{3}\cdot2^2-\frac{4}{3}\cdot2-4=-\frac{16}{3}$.
+Uwaga
+Po obliczeniu współczynników a, b i c możemy najmniejszą wartość funkcji obliczyć ze wzoru $q=-\frac{\Delta}{4a}$.
+Wtedy otrzymujemy
+$$f_{min}=-\frac{\left(-\frac{4}{3}\right)^2-4\cdot\frac{1}{3}\cdot(-4)}{4\cdot\frac{1}{3}}=-\frac{\frac{16}{9}+\frac{16}{3}}{\frac{4}{3}}=-\frac{\frac{64}{9}}{\frac{4}{3}}=-\frac{16}{3}$$
+Schemat punktowania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania: 1 p.
+Zdający
+obliczy pierwszą współrzędną wierzchołka paraboli: $p=2$
+albo
+zapisze wzór funkcji f w postaci iloczynowej, z jednym nieznanym współczynnikiem: $f(x)=a(x+2)(x-6)$,
+albo
+zapisze trzy równania, w których niewiadomymi są współczynniki a, b, c trójmianu kwadratowego:
+$$\begin{cases} a\cdot(-2)^2+b\cdot(-2)+c=0 \\ a\cdot6^2+b\cdot6+c=0 \\ a\cdot1^2+b\cdot1+c=-5 \end{cases}$$
+i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający
+zapisze wzór funkcji f w postaci iloczynowej, z jednym nieznanym współczynnikiem: $f(x)=a(x+2)(x-6)$ i obliczy wartość a: $a=\frac{1}{3}$
+albo
+obliczy współczynniki trójmianu kwadratowego: $a=\frac{1}{3}$, $b=-\frac{4}{3}$ i $c=-4$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający
+obliczy współczynniki trójmianu kwadratowego: $a=\frac{1}{3}$, $b=-\frac{4}{3}$ i $c=-4$ oraz obliczy pierwszą współrzędną wierzchołka paraboli: $p=2$
+albo
+obliczy współczynniki trójmianu kwadratowego: $a=\frac{1}{3}$, $b=-\frac{4}{3}$ i $c=-4$ oraz zapisze, że najmniejsza wartość funkcji jest równa $-\frac{\Delta}{4a}$ oraz obliczy $\Delta=\left(-\frac{4}{3}\right)^2-4\cdot\frac{1}{3}\cdot(-4)$
+albo
+zapisze wzór funkcji f w postaci iloczynowej, z jednym nieznanym współczynnikiem: $f(x)=a(x+2)(x-6)$ i obliczy wartość a: $a=\frac{1}{3}$ oraz obliczy pierwszą współrzędną wierzchołka paraboli: $p=2$
+i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie pełne: 4 p.
+Zdający obliczy najmniejszą wartość funkcji f: $-\frac{16}{3}$.
+Uwagi
+Jeżeli zdający popełni błędy (rachunkowe, w przepisywaniu), które nie przekreślają poprawności rozumowania i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co najwyżej 3 punkty za takie rozwiązanie.
+Jeżeli zdający przyjmuje konkretna wartość a > 0, to może otrzymać co najwyżej 1 punkt.
+Jeżeli zdający przy wyznaczaniu a popełnia błąd rachunkowy i otrzymuje a > 0, to może otrzymać co najwyżej 3 punkty.
+Jeżeli zdający przy wyznaczaniu a popełnia błąd rachunkowy i otrzymuje a < 0, to może otrzymać co najwyżej 2 punkty.
+Zadanie 33. (0–4)
+Punkt $C=(0,0)$ jest wierzchołkiem trójkąta prostokątnego ABC, którego wierzchołek A leży na osi Ox, a wierzchołek B na osi Oy układu współrzędnych. Prosta zawierająca wysokość tego trójkąta opuszczoną z wierzchołka C przecina przeciwprostokątną AB w punkcie $D=(3,4)$. Oblicz współrzędne wierzchołków A i B tego trójkąta oraz długość przeciwprostokątnej AB.
+Przykładowe rozwiązania
+I sposób rozwiązania
+Współczynnik kierunkowy prostej CD jest równy
+$a_{CD}=\frac{4-0}{3-0}=\frac{4}{3}$.
+Prosta AB jest prostopadła do prostej CD, więc jej współczynnik kierunkowy jest równy $a_{AB}=-\frac{3}{4}$.
+Prosta ta przechodzi przez punkt $D=(3,4)$, więc jej równanie ma postać
+$y=-\frac{3}{4}(x-3)+4$,
+$y=-\frac{3}{4}x+\frac{25}{4}$.
+Ponieważ prosta AB przecina oś Oy w punkt B, więc $B=(0, \frac{25}{4})$, natomiast oś Ox w punkcie A, więc $A=(x_A, 0)$.
+Zatem
+$0=-\frac{3}{4}x_A+\frac{25}{4}$,
+$x_A=\frac{25}{3}$,
+czyli $A=(\frac{25}{3}, 0)$.
+Długość przeciwprostokątnej AB jest zatem równa
+Zadanie zawiera obrazek ważny dla rozwiązania.
+$|AB|=\sqrt{(0-\frac{25}{3})^2+(\frac{25}{4}-0)^2}=\sqrt{\frac{625}{9}+\frac{625}{16}}=\sqrt{625\cdot(\frac{1}{9}+\frac{1}{16})}=\sqrt{625\cdot\frac{25}{144}}=\frac{25\cdot5}{12}=\frac{125}{12}=10\frac{5}{12}$.
+Schemat punktowania I sposobu rozwiązania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania: 1 p.
+Zdający zapisze współczynnik kierunkowy prostej CD: $a_{CD}=\frac{4}{3}$
+i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający zapisze równanie prostej AB: $y=-\frac{3}{4}x+\frac{25}{4}$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający obliczy współrzędne punktów A i B: $A=(\frac{25}{3}, 0)$, $B=(0, \frac{25}{4})$.
+Rozwiązanie pełne: 4 p.
+Zdający obliczy długość przeciwprostokątnej AB trójkąta ABC: $|AB|=\frac{125}{12}$.
+II sposób rozwiązania
+Niech $A=(x_A, 0)$ i $B=(0, y_B)$.
+Długość odcinka CD jest równa
+$|CD|=\sqrt{(3-0)^2+(4-0)^2}=5$.
+Z twierdzenia Pitagorasa dla trójkątów ACD i BDC otrzymujemy
+$|AD|^2+|CD|^2=|AC|^2$ i $|CD|^2+|BD|^2=|BC|^2$,
+$(x_A-3)^2+(-4)^2+5^2=x_A^2$ i $(0-3)^2+(y_B-4)^2+5^2=y_B^2$,
+$x_A^2-6x_A+9+16+25=x_A^2$ i $9+y_B^2-8y_B+16+25=y_B^2$,
+$6x_A=50$ i $8y_B=50$,
+$x_A=\frac{50}{6}=\frac{25}{3}$ i $y_B=\frac{50}{8}=\frac{25}{4}$.
+Zatem $A=(\frac{25}{3}, 0)$ i $B=(0, \frac{25}{4})$.
+Długość przeciwprostokątnej AB jest zatem równa
+$|AB|=\sqrt{(0-\frac{25}{3})^2+(\frac{25}{4}-0)^2}=\sqrt{\frac{625}{9}+\frac{625}{16}}=\sqrt{625\cdot(\frac{1}{9}+\frac{1}{16})}=\sqrt{625\cdot\frac{25}{144}}=\frac{25\cdot5}{12}=\frac{125}{12}=10\frac{5}{12}$.
+Schemat punktowania II sposobu rozwiązania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania: 1 p.
+Zdający zapisze jedno z równań: $(x_A-3)^2+(-4)^2+5^2=x_A^2$, $(0-3)^2+(y_B-4)^2+5^2=y_B^2$ z niewiadomą odpowiednio $x_A$, $y_B$
+i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający zapisze oba równania: $(x_A-3)^2+(-4)^2+5^2=x_A^2$, $(0-3)^2+(y_B-4)^2+5^2=y_B^2$ z niewiadomą odpowiednio $x_A$, $y_B$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający obliczy współrzędne punktów A i B: $A=(\frac{25}{3}, 0)$, $B=(0, \frac{25}{4})$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie pełne: 4 p.
+Zdający obliczy długość przeciwprostokątnej AB trójkąta ABC: $|AB|=\frac{125}{12}$.
+Uwaga (do schematów punktowania I i II sposobu rozwiązania)
+Jeżeli zdający popełni błędy (rachunkowe, w przepisywaniu), które nie przekreślają poprawności rozumowania i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co najwyżej 3 punkty za takie rozwiązanie.
+Zadanie 34. (0–5)
+Podstawą graniastosłupa prostego ABCDEF jest trójkąt prostokątny ABC, w którym $|\angle ACB|=90^\circ$ (zobacz rysunek). Stosunek długości przyprostokątnej AC tego trójkąta do długości przyprostokątnej BC jest równy 4:3. Punkt S jest środkiem okręgu opisanego na trójkącie ABC, a długość odcinka SC jest równa 5. Pole ściany bocznej BEFC graniastosłupa jest równe 48. Oblicz objętość tego graniastosłupa.
+Przykładowe rozwiązanie
+Odcinek CS jest promieniem okręgu opisanego na trójkącie ABC. Zatem
+$|CS|=|AS|=|BS|=5$,
+skąd otrzymujemy $|AB|=10$.
+Ponieważ stosunek długości przyprostokątnej AC do długości przyprostokątnej BC jest równy 4:3, więc możemy przyjąć $|AC|=4x$ oraz $|BC|=3x$, gdzie x oznacza współczynnik proporcjonalności.
+Z twierdzenia Pitagorasa otrzymujemy równanie
+$(4x)^2+(3x)^2=10^2$,
+$25x^2=100$,
+$x^2=4$,
+$x=2$.
+Zatem $|AB|=10$ oraz $|BC|=6$, $|AC|=8$. Pole trójkąta ABC jest równe $P=\frac{1}{2}\cdot8\cdot6=24$.
+Pole ściany bocznej BEFC jest równe 48, więc
+$|BC|\cdot H=48$, gdzie $H=|BE|$ to wysokość graniastosłupa.
+$6\cdot H=48$,
+$H=8$.
+Objętość graniastosłupa jest równa $V=P\cdot H=24\cdot8=192$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Schemat punktowania
+Rozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do pełnego rozwiązania: 1 p.
+Zdający
+obliczy długość przeciwprostokątnej trójkąta ABC: $|AB|=10$
+albo
+zapisze zależność między długościami przyprostokątnych trójkąta ABC, np.:
+$\frac{b}{a}=\frac{4}{3}$ lub ($|AC|=4x$ i $|BC|=3x$)
+i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie, w którym postęp jest istotny: 2 p.
+Zdający zapisze
+równanie pozwalające obliczyć długości przyprostokątnych, np.: $(3x)^2+(4x)^2=10^2$
+albo
+układ równań pozwalający obliczyć długości przyprostokątnych, np.:
+$$\begin{cases} \frac{b}{a}=\frac{4}{3} \\ a^2+b^2=10^2 \end{cases}$$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający obliczy długości boków trójkąta ABC: $|AB|=10$, $|AC|=8$, $|BC|=6$ i na tym poprzestanie lub dalej popełnia błędy.
+Uwaga
+Akceptujemy rozwiązanie, w którym zdający wykorzystuje trójkę pitagorejską (6, 8, 10).
+Rozwiązanie prawie pełne: 4 p.
+Zdający
+nie obliczy objętości bryły, ale obliczy wysokość graniastosłupa: $H=8$
+albo
+obliczy objętość graniastosłupa, popełniając w trakcie rozwiązania błędy rachunkowe.
+Rozwiązanie pełne: 5 p.
+Zdający obliczy objętość graniastosłupa: $V=192$.
+Uwagi
+Jeżeli zdający rozważa w podstawie graniastosłupa trójkąt inny niż do trójkąta o bokach 6, 8, 10, ale podobny do tego trójkąta o bokach 6, 8, 10, to może otrzymać co najwyżej 2 punkty.
+Jeżeli zdający rozkłada liczbę 48 na iloczyn $8\cdot6$ i przyjmuje, że 6 jest długością BC, a następnie wyznacza pole podstawy i objętość bryły, to może otrzymać co najwyżej 3 punkty.
+

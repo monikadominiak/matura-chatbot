@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) jest określona \( f(x) = \frac{3x}{x+1} \) dla każdego \( x \in (-1; +\infty) \). Udowodnij, że \( f \) jest funkcją rosnącą.
+
+\( Df: x \in (-1, +\infty), \ f(x) = \frac{3x}{x+1} \)
+
+Teza: \( f(x) \) jest rosnąca w \( Df \)
+
+\(\circled{1}\) wyznaczamy pochodną funkcji \( f \)
+
+\[
+f'(x) = \frac{3 \cdot (x+1) - 1 \cdot 3x}{(x+1)^2} = \frac{3x + 3 - 3x}{(x+1)^2} = \frac{3}{(x+1)^2} > 0
+\]
+
+wzór na pochodną ilorazu
+
+\[
+\left[\frac{f(x)}{g(x)}\right]' = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2}
+\]
+
+\(\circled{2}\) komentarz:
+
+\[
+\frac{3}{(x+1)^2} \ \text{jest} \ > 0, \ \text{ponieważ} \ 3 > 0 \ \text{i} \ (x+1)^2 > 0, \ \text{bo kwadrat dowolnej liczby jest} \ \geq 0 \ \text{oraz} \ x \neq -1 \ (\text{z} \ Df), \ \text{zatem skoro pochodna funkcji} \ f \ \text{jest w tej dziedzinie zawsze dodatnia, to funkcja} \ f \ \text{jest rosnąca}
+\]
+
+c.k.d.

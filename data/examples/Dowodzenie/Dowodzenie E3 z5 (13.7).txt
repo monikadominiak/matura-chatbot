@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Wykaż, że jeżeli \(a = \log_3 18\), \(b = \log_{\sqrt{3}} 12\) to \(\log_2 27 = \frac{12}{b-2}\).
+
+\(\phantom{111}\) \textcolor{#00bfff}{\textcircled{1}} dane:
+
+\(\phantom{1111111}\) \(a = \log_3 18,\ b = \log_{\sqrt{3}} 12\) \(\phantom{1111111}\) teza: \(\log_2 27 = \frac{12}{b-2}\)
+
+korzystamy z własności: \(\log_b c = \frac{\log_a c}{\log_a b}\) \(\textcolor{#ccff02}{\textcircled{\raisebox{-0.9pt}{1}}}\)
+
+\(\phantom{111}\) \textcolor{#00bfff}{\textcircled{2}} upraszczamy najpierw logarytmy \(a\) i \(b\)
+
+\(\phantom{1111111}\) \(a = \log_3 18 = \log_3 (2 \cdot 3^2) = \log_3 2 + \log_3 3^2 = \log_3 2 + 2\)
+\(\phantom{1111111}\) \(\Rightarrow \log_3 2 = a - 2\) \(\textcolor{#cc33ff}{\textcircled{\raisebox{-1.3pt}{2}}}\)
+
+\(\phantom{1111111}\) \(b = \log_{\sqrt{3}} 12 = \frac{\log_3 12}{\log_3 3^{\frac{1}{2}}} = \frac{\log_3 (3 \cdot 2^2)}{\frac{1}{2}}\)
+\(\phantom{1111111}\) \(= 2 \log_3 3 + 2 \log_3 2^2 = 2 + 4 \log_3 2 \)
+
+\(\phantom{111}\) \textcolor{#cc33ff}{\textcircled{\raisebox{-1.3pt}{2}}} podstawiamy do \(b\):
+
+\(\phantom{1111111}\) \(b = 2 + 4(a - 2)\)
+
+\(\phantom{1111111}\) \(\frac{1}{4}(b-2) = a - 2\) \(\textcolor{#cc33ff}{\textcircled{\raisebox{-0.7pt}{3}}}\)
+
+\(\phantom{111}\) \textcolor{#00bfff}{\textcircled{3}} upraszczamy \(\log_2 27\)
+
+\(\phantom{1111111}\) \(\log_2 27 = \frac{\log_3 27}{\log_3 2} = \frac{3}{\log_3 2}\) \(\textcolor{#cc33ff}{\textcircled{\raisebox{-1.3pt}{2}}}\)
+
+\(\phantom{1111111}\) \(= \frac{3}{a-2} = \frac{3}{\frac{1}{4}(b-2)} = \frac{12}{b-2}\) \(\blacksquare\)

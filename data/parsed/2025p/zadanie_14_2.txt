@@ -1,0 +1,17 @@
+=== ARKUSZ: 2025p | ZADANIE 14.2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14.2. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+
+Ciąg (a_n) jest arytmetyczny. P F
+Ciąg (a_n) jest geometryczny. P F
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

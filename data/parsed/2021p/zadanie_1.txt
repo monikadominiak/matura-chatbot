@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0-1)
+Liczba $100^{5} cdot (0,1)^{-6}$ jest równa
+A. $10^{13}$
+B. $10^{16}$
+C. $10^{-1}$
+D. $10^{-30}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.4) oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych.

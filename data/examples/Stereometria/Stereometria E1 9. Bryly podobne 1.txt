@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Promienie podstaw dwóch walców oraz ich wysokości są równe odpowiednio r₁ = 20 cm, h₁ = 24 cm i r₂ = 12 cm, h₂ = 15 cm. Sprawdź czy te walce są podobne.
+
+1) sporządzamy rysunki pomocnicze
+
+walec nr 1
+
+(rysunek walca) 24
+                 20
+
+walec nr 2
+
+(rysunek walca)  15
+                 12 
+
+aby figury były podobne długości boków pierwszej figury muszą być proporcjonalne do odpowiednich długości boków drugiej figury
+
+2) liczymy skalę podobieństwa i sprawdzamy zależności
+
+k = r₂/r₁ = h₂/h₁
+
+12/20 ≠ 15/24
+
+(po przemnożeniu 300 ≠ 288)
+
+odp: nie są podobne

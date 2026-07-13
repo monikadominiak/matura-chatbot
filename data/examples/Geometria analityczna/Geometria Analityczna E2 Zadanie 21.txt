@@ -1,0 +1,98 @@
+
+--- STRONA 1 ---
+**Zad.21** Wyznacz środek S i skalę jednostkowości J, która okrąg  
+\(o_1: x^2 + y^2 + 10x - 10y + 41 = 0\) przekształca na okrąg \(o_2: x^2 + y^2 - 4x - 2y + 4 = 0\).
+
+**1.** Wyznaczmy środki i promienie okręgów.  
+
+\(1^{\circ}\ \) sposób:  porównanie
+\[
+x^2+y^2+10x-10y+41=0\\
+x^2-4x-2y+4=0
+\]
+
+\[
+(x+a)^2+y+b)^2=c \\
+(x+a)^2+y+b)^2=c
+\]
+
+\[
+-2ax=10x \quad -2by=-10y \quad c=41 \\
+-2ax=-4x \quad -2b=2y \quad c=4
+\]
+
+\[
+a=-5 \quad b=5 \quad c=4 \\
+a=2 \quad b=1 \quad c=4
+\]
+
+\[
+r^2+d^2_1+5^2=-4 \\
+r^2=3
+\]
+
+\[
+r=3 \quad r-3=0 \quad r\}0 \\
+r=4 \quad r=4 \quad r-4=0 \quad r=0
+\]
+
+\(o_1:(x+5)^2+(y-5)^2\rightarrow S(5,5) ; r=3\)
+
+\(o_1:(x-2)^2+(y-1)^2 \rightarrow S(1,2) ; r=4\)
+
+\(2^{\circ}\ \) sposób:  zmniejsz do wzoru skończonego mnożenia
+
+\[ 
+x^2+y^2+10x-10y+41=0 \\
+(x+10)^2+(y-10)^2=150dz.125
+\]
+
+\[
+o_2:(x+4)^2+y-1)^2=4 
+o_2:(x-2)^2+(y-1)^2-0 
+\]
+
+\[ 
+S(5,5) ; r=3 \\
+S(1,2) ; r=4
+\]
+
+**2.** Wyznaczmy skalę i promień jednostkowości. 
+
+\[
+|k|=\frac{r_1}{r_2}=k\cdot\frac{S_1}{S_2} \Rightarrow K=5 ; \\
+S=\frac{1}{k}
+\]
+
+\[
+ 3\cdot\overrightarrow{S_1, S_2} \\
+3[x_1,x_2,y_1]-[x_2ky,y_3] \rightarrow 8
+\]
+
+\[
+-5x+5y-\cdot\frac{3}{2}y \rightarrow 3x = 4 \\
+-5x=6kx \rightarrow 5y=3x=3y
+\]
+
+\[
+x=4 \quad y=2 \quad yx
+\]
+
+\[
+S(\frac{4}{1},1)\qquad \cdots(x,y)\\
+S(\frac{1}{1},2)
+\]
+
+\[
+x=6 \quad y=3 \quad 5\cdot\frac{3}{2} \rightarrow 3\cdot (x,y)
+(x,1)\quad x=y^2 
+\]
+\[
+4x=4 \quad 1x=8
+\]
+
+\[
+S(x_2,1)\RightarrowS_S
+\]
+
+**Odp. Dla k=\frac{5}{1}, S(\frac{1}{4},), kto dla k=\frac{5}{1} S(\frac{1}{2},2).\)

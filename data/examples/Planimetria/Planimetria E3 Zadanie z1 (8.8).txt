@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+Zadanie z1 (8.8) Rozważ trójkąt równoboczny ABC, w którym punkty D i F leżą odpowiednio na bokach AB i BC. Punkt D dzieli bok AB w stosunku 2 : 1 (licząc od wierzchołka A), a punkt F dzieli bok BC w takim samym stosunku (licząc od wierzchołka C). Połączono punkt C z punktem D oraz punkt A z punktem F. Miejsce przecięcia tych odcinków oznaczono punktem S. Oblicz, jaką część pola trójkąta ABC stanowi pole trójkąta BDS.
+
+1) Tworzymy rysunek poglądowy:
+
+P_{CSF} = P_1, \, P_{\Delta ACS} = P_2, \, P_{\Delta ASD} = P_3,  
+P_{ASFD} = P_4, \, P_{BSF} = P_5, \, P_{\Delta BDS} = P_6, \, P_{\Delta ABC} = P  
+
+2) Dorysowujemy potrzebne wysokości i zapisujemy wynikające z nich słuszne układy pomiaru:  
+
+P_3 = \frac{2x}{2x} x \frac{2}{2} = x h_1 , \, P_5 = \frac{x h_1}{2} = \frac{1}{4} x h_1 \Rightarrow P_3 = 2P_5  
+P_4 = \frac{x h_1}{2} = \frac{1}{2} x h_1 , \, P_2 = \frac{2x}{2x} x h_1 , \, P_2 = 2P_4 = 2x h_1 \Rightarrow P_1 = 2P_4  
+P_2 = P_2 + 2P_1 = P_2 + 2x h_1 , \, P_1 + P_4 = P_5 + P_6 \Rightarrow P_2 - P_5 = 2(P_4, P_1)
+P_4 + 2P_5 = 2x h_1 , \, P_1 + P_4 = P_5 + P_6 - 2x \Rightarrow P_2 = 2(P_5, P_1)  
+
+Ponadto trójkąt ABC jest równoboczny, więc:  
+
+h_3 = h_4 \Rightarrow P_3, P_2 = 2x^2 P_5 \Rightarrow P_1 = P_3  
+
+3) Wyznaczamy pola P_3-P_6 w zależności od P_3, a następnie szukamy równoważności:  
+
+P_3 = 2P_5 \Rightarrow P_1 = 2P_5 \quad (\text{bo} \, P_1 = P_3)  
+P_1 = 2P_4 \Rightarrow 2P_5 = 2P_4 \Rightarrow P_3 = 4P_4  
+
+P_2 P_3 - 2(P_1 + P_4 + P_5)
+P_3 + 2P_5 = 2(2P_4 + P_1 + P_5)  
+P_2 = 6P_5  
+
+P = P_4 + P_2 + P_1 + P_5, \, P_6 = 2P_5 + 6P_2 + P_5 + P_5 = 12P_5  
+
+P_6 = \frac{4}{12} P \Rightarrow P_{BDS} = \frac{1}{4} P_{\Delta ABC}
+
+Odp. \frac{1}{12}.

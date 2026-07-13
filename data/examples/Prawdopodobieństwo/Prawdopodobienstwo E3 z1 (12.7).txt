@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+W urnie znajduje się 5 kul niebieskich, 2 zielone i 4 czerwone.
+Oblicz prawdopodobieństwo, że losując jednocześnie 3 kule wyjmiemy co najmniej 2 czerwone.
+
+1️⃣ analizujemy polecenie
+
+![Rysunek urny z kulami](nie można skopiować obrazu)
+
+losujemy 3 kule jednocześnie
+A - co najmniej 2 czerwone
+
+5N 2Z 4C
+
+2️⃣ liczymy moc Ω
+
+\[
+|\overline{\Omega}| = \binom{11}{3} = \frac{11 \cdot 10 \cdot 9}{3!} = 165
+\]
+
+3️⃣ liczymy moc zdarzenia A
+
+A → 2 czerwone lub 3 czerwone
+
+\[
+\binom{4}{2} \cdot \binom{7}{1} = 6 \cdot 7 = 42
+\]
+
+\[
+\binom{4}{3} = 4
+\]
+
+4️⃣ liczymy docelowe prawdopodobieństwo
+
+\[
+P(A) = \frac{42+4}{165} = \frac{46}{165}
+\]
+
+Odp: \(\frac{46}{165}\)

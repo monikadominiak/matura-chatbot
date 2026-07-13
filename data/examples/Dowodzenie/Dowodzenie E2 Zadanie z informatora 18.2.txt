@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Objętość każdego z rozpatrywanych prostopadłościanów można wyrazić za pomocą funkcji: V(c) = c^3 - 20c^2 + 128c, gdzie c ∈ [4, 28/3] jest długością jednej z krawędzi bryły.
+
+Spośród rozpatrywanych prostopadłościanów oblicz objętość tego prostopadłościanu, którego objętość jest najmniejsza.
+
+UWAGA: jest to druga część poprzedniego zadania
+
+1️⃣ mamy już funkcję optymalizowaną wraz z dziedziną
+
+V(c) = c^3 - 20c^2 + 128c     Dv: c ∈ ⟨4, 28/3⟩
+
+2️⃣ wyznaczamy pochodną funkcji
+
+V'(c) = 3c^2 - 40c + 128
+
+3️⃣ wyznaczamy miejsca zerowe pochodnej
+
+V'(c) = 0 <=>
+3c^2 - 40c + 128 = 0
+Δ = 64    sqrt(Δ) = 8
+c_1 = 16/3     c_2 = 8
+
+4️⃣ badamy monotoniczność i ekstrema funkcji
+
+V'(c)
+
+Funkcja f(c) monot. <— w swojej dziedzinie funkcja ma dwa ekstrema, więc musimy sprawdzić również krańce przedziału Dv
+
+Vmin = V(8)
+
+V(8) = 8^3 - 20 * 8^2 + 128 * 8 = 256
+
+V(4) = 4^3 - 20 * 4^2 + 128 * 4 = 256
+
+V(28/3) = (28/3)^3 - 20 * (28/3)^2 + 128 * 28/3 = 7168/27 ≈ 265
+
+Funkcja v(c) osiąga w swojej dziedzinie wartość najmniejszą dla argumentów c = 4 i c = 8.
+
+Odp: V = 256

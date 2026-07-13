@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+**Oblicz długości boków prostokąta o maksymalnym polu, którego dwa wierzchołki należą do osi OX, a pozostałe dwa, o rzędnych dodatnich, należą do wykresu funkcji y = 4 - x^2.**
+
+1️⃣ uzależniamy od siebie zmienne
+
+Diagram prostokąta z wierzchołkami przy (-x, 0) i (x, 0), górne wierzchołki przy (-x, 4-x^2) i (x, 4-x^2)
+
+2️⃣ zapisujemy wzór funkcji
+
+P(x) = 2x(4-x^2) = 8x - 2x^3
+
+3️⃣ wyznaczamy dziedzinę funkcji
+
+2x i 4-x^2 to długości boków prostokąta,
+
+więc {
+2x > 0 => x > 0
+4-x^2 > 0 => x ∈ (-2, 2)
+ 
+D: x ∈ (0, 2)
+
+4️⃣ wyznaczamy pochodną funkcji
+
+P'(x) = -6x^2 + 8
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+P'(x) = 0 <=> -6x^2 + 8 = 0
+
+x^2 = 4/3
+
+x_1 = 2√3/3 ∨ x_2 = -2√3/3
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+Diagram z wartościami - przy -2√3/3, + między -2√3/3 a 2√3/3, - przy 2√3/3
+
+P(x) osiąga w swojej dziedzinie wartość największą dla argumentu x = 2√3/3
+
+II sposób:
+
+| x           | (0, 2√3/3) | 2√3/3      | (2√3/3, 2) |
+|-------------|------------|------------|------------|
+| P'(x)       | +          | 0          | -          |
+| P(x)        | ↑          | max. lok.  | ↓          |
+
+7️⃣ obliczamy długości boków
+
+2x = 2√3/3   i   4-x^2 = 4 - 4•3/9 = 24/9 = 8/3
+
+**Odp: boki: 4√3/3 i 8/3**

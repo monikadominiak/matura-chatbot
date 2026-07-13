@@ -1,0 +1,24 @@
+=== ARKUSZ: 2024p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba
+
+(1/16)^8 · 8^16
+
+jest równa
+
+A. 2^24
+B. 2^16
+C. 2^12
+D. 2^8
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 2. (0-1)
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

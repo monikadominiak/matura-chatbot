@@ -1,0 +1,18 @@
+=== ARKUSZ: 2023p | ZADANIE 12.2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Największa wartość funkcji $f$ w przedziale $[-4, 1]$ jest równa
+A. 0
+B. 1
+C. 2
+D. 5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Znajdź równania prostych stycznych do wykresu funkcji \( f(x) = x^3 + 6x^2 - 15x + 4 \) i równoległych do osi OX.
+
+\( f(x) = x^3 + 6x^2 - 15x + 4 \)
+
+oś OX: \( y = 0 \Rightarrow \) styczne mają postać: \( y = b \)
+
+1️⃣ liczymy pochodną funkcji \( f \)
+
+\( f'(x) = 3x^2 + 12x - 15 \)
+
+\( f'(x_0) = a = 0 \)
+
+2️⃣ rozwiązujemy równanie \( f'(x_0) = 0 \)
+
+\( 3x_0^2 + 12x_0 - 15 = 0 \ /:3 \)
+
+\( x_0^2 + 4x_0 - 5 = 0 \)
+
+\( \Delta = 16 + 20 = 36 \quad \sqrt{\Delta} = 6 \)
+
+\( x_0 = \frac{-4 + 6}{2} = 1 \quad \lor \quad x_0 = \frac{-4 - 6}{2} = -5 \)
+
+3️⃣ liczymy \( y_0 \) dla obu \( x_0 \)
+
+\( f(-5) = -125 + 150 + 75 + 4 = 104 \)
+
+\( f(1) = 1 + 6 - 15 + 4 = -4 \)
+
+odp: \( y = 104 \) oraz \( y = -4 \)

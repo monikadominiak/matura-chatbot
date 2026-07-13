@@ -1,0 +1,13 @@
+
+--- STRONA 1 ---
+Oblicz V^4_8
+
+V^4_8 = ?
+
+1️⃣ korzystamy ze wzoru na wariacje bez powtórzeń
+
+V^k_n = \frac{n!}{(n-k)!}, \ k \leq n
+
+V^4_8 = \frac{8!}{(8-4)!} = \frac{8!}{4!} = \frac{\cancel{4!} \cdot 5 \cdot 6 \cdot 7 \cdot 8}{\cancel{4!}} = 1680
+
+odp: 1680

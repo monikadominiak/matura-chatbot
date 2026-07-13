@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+z7 (tn)
+
+Naszczkuj wykres funkcji f i odczytaj z jej wykresu zbiór wartości Yf, maksymalne przedziały (jeśli istnieją), w których funkcja jest rosnąca i przedziały, w których jest malejąca lub stała gdy f(x) = -3sin(x/2).
+
+Wykres funkcji y=sin x należy rozszerzyć dwukrotnie wzdłuż osi x, rozszerzyć trzykrotnie wzdłuż osi y oraz odbić względem osi x. Kolejność przekształceń jest tutaj bez znaczenia.
+
+① Szkicujemy wykres funkcji
+
+② Odczytujemy zbiór wartości i przedziały monotoniczności
+Z_wf (Y_f) = [-3,3]
+
+f↗: [π+4kπ, 3π+4kπ]
+
+f↘: [-π+4kπ, π+4kπ]      k ∈ ℤ
+
+Odp.: Z_wf = [-3,3], f(x) rośnie w [π+4kπ, 3π+4kπ], f(x) maleje w [-π+4kπ, π+4kπ], k ∈ ℤ.

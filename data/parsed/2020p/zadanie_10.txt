@@ -1,0 +1,16 @@
+=== ARKUSZ: 2020p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0-1)
+Równanie w zbiorze liczb rzeczywistych $x(x-2)=(x-2)^{2}$
+A. nie ma rozwiązań.
+B. ma dokładnie jedno rozwiązanie: $x=2$.
+C. ma dokładnie jedno rozwiązanie: $x=0$.
+D. ma dwa różne rozwiązania: $x=1$ i $x=2$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 10. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający sprawdza, czy dana liczba rzeczywista jest rozwiązaniem równania lub nierówności (3.1).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: B

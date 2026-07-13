@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Oblicz \( P(A|B) \), jeśli wiadomo, że \( P(B|A) = \frac{3}{8}, \ P(A) = \frac{4}{9}, P(A' \cap B) = \frac{1}{8} \)
+
+1️⃣ DANE:
+
+\[
+\begin{cases}
+P(A) = \frac{4}{9} \\
+P(B|A) = \frac{3}{8} \\
+P(A' \cap B) = \frac{1}{8}
+\end{cases}
+\]
+
+wzór na prawdopodobieństwo warunkowe
+
+\( P(A|B) = \frac{P(A \cap B)}{P(B)} \) ?
+
+2️⃣ liczymy \( P(A \cap B) \)
+
+\( P(B|A) = \frac{P(B \cap A)}{P(A)} \), ale \( P(B \cap A) = P(A \cap B) \),
+
+więc \( P(A \cap B) = P(B|A) \cdot P(A) = \frac{3}{8} \cdot \frac{4}{9} = \frac{1}{6} \)
+
+3️⃣ liczymy \( P(B) \) korzystając z \( P(A' \cap B) \)
+
+\( P(A' \cap B) = P(B) - P(A \cap B) \)
+
+\(\Rightarrow P(B) = \frac{1}{8} + \frac{1}{6} = \frac{7}{24} \)
+
+4️⃣ podstawiamy wyliczone prawdopodobieństwa do wzoru
+
+\( P(A|B) = \frac{\frac{1}{6}}{\frac{7}{24}} = 1 \cdot \frac{4}{7} = \frac{4}{7} \)
+
+Odp: \(\frac{4}{7}\)

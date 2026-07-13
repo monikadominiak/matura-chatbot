@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Na trójkącie równobocznym \(ABC\) opisano okrąg. Na łuku \(AB\) tego okręgu (punkt \(C\) nie należy do tego łuku) zaznaczono punkt \(P\). Wykaż, że \(|AP| + |PB| = |PC|\).
+
+1. teza: \(|AP| + |PB| = |PC|\)
+
+   niech: \(a\) \hspace{2cm} \(b\) \hspace{2cm} \(c\)
+
+2. \(\angle APB = 120^\circ\), \(\angle CPB\) oparty na łuku \(BC\) (tym samym co \(\angle CAB\)), i \(\angle CPA\) oparty na łuku \(AC\) (tym samym co \(\angle ABC\))
+
+   \(60^\circ + 60^\circ\)
+
+3. zapisujemy dwa równania z tw. cosinusów ; \(\cos 120^\circ = \cos(180^\circ-60^\circ) = -\cos 60^\circ\)
+
+   w \(\triangle APC\):
+
+   \(\begin{cases}
+   x^2 = a^2 + c^2 - 2ac \cdot \cos 60^\circ = a^2 + c^2 - ac
+   \end{cases}\)
+
+   w \(\triangle APB\):
+
+   \(\begin{cases}
+   x^2 = a^2 + b^2 - 2ab \cdot \cos 120^\circ = a^2 + b^2 + ab
+   \end{cases}\)
+
+   zatem: \(a^2 + c^2 - ac = a^2 + b^2 + ab\)
+
+   \(c^2 - ac - b^2 - ab = 0\)
+
+   \(c^2 - b^2 - a(c+b) = 0\)
+
+   \((c-b)(c+b) - a(c+b) = 0\)
+
+   \((c+b)(c-b-a) = 0\)
+
+   \((c+b) \neq 0\)
+
+   \(c,b > 0\) więc \(c-b-a = 0\)
+
+   \(a+b = c\) \hspace{1cm} c.k.d.

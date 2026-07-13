@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zadanie z3 (tn) Oblicz długość okręgu opisanego na trójkącie prostokątnym, którego przyprostokątne mają długość 7 i 24.
+
+1) Tworzymy i analizujemy rysunek poglądowy:
+
+(rysunek)
+
+2) Wyznaczamy |AB| za pomocą tw. Pitagorasa, a następnie promień i obwód okręgu:
+
+\(7^2 + 24^2 = |AB|^2 \rightarrow |AB| = 25\)
+
+\(R = \frac{1}{2} |AB| = \frac{25}{2}\)
+
+\(L = 2 \pi R = 25 \pi\)
+
+Odp. \(L = 25 \pi\).

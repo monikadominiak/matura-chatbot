@@ -1,0 +1,20 @@
+=== ARKUSZ: 2022p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Rozwiązaniem układu równań
+$begin{cases}11x-11y=1 22x+22y=-1end{cases}$
+jest para liczb: $x=x_{0}$, $y=y_{0}$. Wtedy
+A. $x_{0}&gt;0$ $y_{0}&gt;0$
+B. $x_{0}&gt;0$ i $y_{0}&lt;0$
+C. $x_{0}0$
+D. $x_{0}&lt;0$ $y_{0}frac{x}{5}$
+jest przedział
+A. $(-infty,0)$
+B. $(0,+infty)$
+C. $(-infty,frac{3}{4})$
+D. $(frac{3}{4},+infty)$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Liczba $2~log_{2}3-2~log_{2}5$ jest równa
+A. $log_{2}frac{9}{25}$
+B. $log_{2}frac{3}{5}$
+C. $log_{2}frac{9}{5}$
+D. $log_{2}frac{6}{25}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 3. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D

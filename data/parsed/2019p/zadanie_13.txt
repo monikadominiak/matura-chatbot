@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0-1)
+Sinus kąta ostrego alpha jest równy 4/5. Wtedy A. cos alpha = 5/4 B. cos alpha = 1/5 C. cos alpha = 9/25 D. cos alpha = 3/5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

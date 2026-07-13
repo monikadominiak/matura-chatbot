@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zadanie 12
+
+Wyznacz wartości parametru m, dla których dziedziną funkcji f(x) = sqrt((x^2-mx+3)/(x^2+5x+m^2)) jest zbiór liczb rzeczywistych.
+
+1️⃣ Wyznaczamy dziedzinę funkcji f(x).
+
+Wyrażenie pod pierwiastkiem musi być ≥0.
+
+(x^2-mx+3)/(x^2+5x+m^2) ≥0    | . (x^2+5x+m^2)^2
+
+(x^2-mx+3)(x^2+5x+m^2) ≥0
+
+Δ ≤0                    Δ <0 
+bo wtedy mamy           bo nie możemy mieć  
+∪____∪ lub ∩____∩       miejsca zerowego ze
+czyli będzie przyjmował                 względu, że jest to mianownik.
+wartości nieujemne.
+
+m^2-12 ≤ 0 
+
+(m-√12)(m+√12) ≤ 0
+
+m ∈ [-√12, √12]
+
+m ∈ [-2√3, 2√3]
+
+25-4m^2 < 0 
+
+(5-2m)(5+2m) < 0 
+
+m ∈ (-∞, -5/2) ∪ (5/2, ∞)
+
+2️⃣ Wyznaczamy część wspólną rozwiązań.
+
+Odp.: m ∈ [-2√3, -5/2) ∪ (5/2, 2√3].

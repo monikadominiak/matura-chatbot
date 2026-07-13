@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+4. Ciągi geometryczne 1  
+Wyznacz ciąg geometryczny \( a_n \) jeśli:  
+a) \( a_6 = 32, \ a_{10} = 2 \)  
+b) \( a_6 = 1, \ a_8 = 9 \)  
+
+a) \( a_6 = 32, \ a_{10} = 2 \)
+
+1️⃣ Wyznaczamy \( q \).
+
+\[ a_{10} = a_6 \cdot q^4 \]  
+\[ 2 = 32 \cdot q^4 \]  
+\[ q^4 = \frac{1}{16} \]  
+\[ q = \frac{1}{2} \ \vee \ q = -\frac{1}{2} \]  
+
+2️⃣ Wyznaczamy \( a_1 \) dla \( q = \frac{1}{2} \).
+
+\[ a_6 = a_1 \cdot q^5 \]  
+\[ 32 = a_1 \cdot \left(\frac{1}{2}\right)^5 \]  
+\[ 32 = \frac{1}{32} a_1 \]  
+\[ a_1 = 1024 \]  
+
+3️⃣ Wyznaczamy ciąg \( a_n \) dla \( q = \frac{1}{2} \).
+
+\[ a_n = 1024 \cdot \left(\frac{1}{2}\right)^{n-1} \]  
+
+4️⃣ Wyznaczamy \( a_1 \) dla \( q = -\frac{1}{2} \).
+
+\[ a_6 = a_1 \cdot q^5 \]  
+\[ 32 = a_1 \cdot \left(-\frac{1}{2}\right)^5 \]  
+\[ 32 = a_1 \cdot \left(-\frac{1}{32}\right) \]  
+\[ a_1 = -1024 \]  
+
+5️⃣ Wyznaczamy ciąg \( a_n \) dla \( q = -\frac{1}{2} \).
+
+\[ a_n = -1024 \cdot \left(-\frac{1}{2}\right)^{n-1} \]  
+
+**Odp.:** \( a_n = 1024 \cdot \left(\frac{1}{2}\right)^{n-1} \ \text{lub} \ a_n = -1024 \cdot \left(-\frac{1}{2}\right)^{n-1} \).
+
+--- STRONA 2 ---
+\( b) \ a_6 = 1, \ a_8 = 9 \)
+
+\(\circled{1} \) Wyznaczamy \( q \).
+
+\( a_8 = a_6 \cdot q^2 \)
+
+\( 9 = 1 \cdot q^2 \)
+
+\( q^2 = 9 \)
+
+\( q = 3 \ \ \lor \ \ q = -3 \)
+
+\(\circled{2} \) Wyznaczamy \( a_1 \) dla \( q = 3 \).
+
+\( a_6 = a_1 \cdot q^5 \)
+
+\( 1 = a_1 \cdot 3^5 \)
+
+\( a_1 = \frac{1}{243} \)
+
+\(\circled{3} \) Wyznaczamy ciąg \( a_n \) dla \( q = \pm 3 \).
+
+\( a_n = \frac{1}{243} \cdot 3^{n-1} \)
+
+\(\circled{4} \) Wyznaczamy \( a_1 \) dla \( q = -3 \).
+
+\( a_6 = a_1 \cdot q^5 \)
+
+\( 1 = a_1 \cdot (-3)^5 \)
+
+\( 1 = -243a_1 \mid :(-243) \)
+
+\( a_1 = -\frac{1}{243} \)
+
+\(\circled{5} \) Wyznaczamy ciąg \( a_n \) dla \( q = -3 \).
+
+\( a_n = -\frac{1}{243} \cdot (-3)^{n-1} \)
+
+Odp.: \( a_n = \frac{1}{243} \cdot 3^{n-1} \ \ \text{lub} \ \ a_n = -\frac{1}{243} \cdot (-3)^{n-1} \).

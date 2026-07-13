@@ -1,0 +1,20 @@
+
+--- STRONA 1 ---
+Ile ośmiocyfrowych kodów, w których zapisie każda z cyfr 1,2,3,4,5,6,7,8 występuje dokładnie raz można utworzyć przy założeniu, że żadne dwie cyfry nieparzyste nie mogą stać obok siebie ani żadne dwie cyfry parzyste nie mogą stać obok siebie?
+
+1️⃣ analizujemy polecenie
+
+8-cyfrowy kod, cyfry: {1,2,3,4,5,6,7,8} - 8 liczb
+
+cyfry się nie powtarzają i żadne dwie cyfry nieparzyste nie są obok siebie oraz żadne dwie cyfry parzyste nie są obok siebie
+
+⇒ liczby parzyste i nieparzyste są ustawione w porządku:
+PNPNPNPN lub NPNPNPNP
+
+zatem ustawienie cyfr parzystych i nieparzystych jest już z góry ustalone w 2 wariantach możemy jednak przestawiać cyfry między sobą w ramach ustalonych miejsc
+
+2️⃣ ostatecznie kodów mamy:
+
+\(2 \cdot 4! \cdot 4! = 2 \cdot 24 \cdot 24 = 1152\)
+
+Odp: 1152

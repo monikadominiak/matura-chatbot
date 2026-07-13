@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Uzasadnij, że iloczyn trzech kolejnych liczb naturalnych, z których pierwsza jest parzysta, jest podzielny przez 24.
+
+iloczyn trzech kolejnych liczb naturalnych podzielny przez 24?
+
+1️⃣ zapisujemy ten iloczyn
+
+n ∈ N 2n ➔ liczba naturalna parzysta
+
+2n⋅(2n+1)⋅(2n+2)
+
+2️⃣ komentarz: pośród trzech kolejnych liczb naturalnych zawsze jest przynajmniej jedna liczba podzielna przez dwa
+
+i dokładnie jedna podzielna przez 3, a skoro pierwsza
+
+z nich jest parzysta to parzyste są dwie, a jedna
+
+z nich jest również podzielna przez 4
+
+zatem taki iloczyn jest podzielny przez 2⋅3⋅4=24
+
+c.k.d.

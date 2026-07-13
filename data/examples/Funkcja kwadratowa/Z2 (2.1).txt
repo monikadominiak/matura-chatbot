@@ -1,0 +1,86 @@
+
+--- STRONA 1 ---
+zZ (2.1)
+
+Dla jakich wartości parametru m równanie 
+x^2 - (m-5)x + m^2 - 6m + 5 = 0 ma dwa pierwiastki różnych znaków?
+
+x^2 - (m-5)x + m^2 - 6m + 5 = 0
+\[
+\begin{align*}
+a &= 1 \\
+b &= -(m-5) \\
+c &= m^2 - 6m + 5
+\end{align*}
+\]
+
+① Wyznaczenie warunków wynikających z treści zadania
+
+1° Δ > 0 ← dwa rozwiązania różnych znaków, czyli te pierwiastki muszą być różne, nie bierzemy pod uwagę podwójnych miejsc zerowych
+
+2° x_1 * x_2 < 0 ← pierwiastki mają mieć różne znaki, zatem jedno z nich będzie liczbą dodatnią, a druga ujemną - iloczyn takich liczb będzie liczbą ujemną.
+
+② Rozwiązanie pierwszego z warunków
+
+1° Δ > 0
+\[
+Δ = b^2 - 4ac \\
+[-(m-5)]^2 - 4 \cdot 1 \cdot (m^2 - 6m + 5) > 0
+\]
+
+(a-b)^2 = a^2 - 2ab + b^2
+
+(m-5)^2 - 4m^2 + 24m - 20 > 0
+\[
+m^2 - 2m \cdot 5 + 5^2 - 4m^2 + 24m - 20 > 0 \\
+m^2 - 10m + 25 - 4m^2 + 24m - 20 > 0 \\
+-3m^2 + 14m + 5 > 0
+\]
+Δ_m = 14^2 - 4 \cdot (-3) \cdot 5 = 196 + 60 = 256
+\[
+\sqrt{Δ_m} = \sqrt{256} = 16
+\]
+
+\[
+\begin{align*}
+m_1 &= \frac{-b - \sqrt{Δ}}{2 \cdot a} \\
+m_2 &= \frac{-b + \sqrt{Δ}}{2 \cdot a}
+\end{align*}
+\]
+
+m_1 = \frac{-14 - 16}{2 \cdot (-3)} = \frac{-30}{-6} = 5
+m_2 = \frac{-14 + 16}{2 \cdot (-3)} = \frac{2}{-6} = -\frac{1}{3}
+
+m ∈ (-\frac{1}{3}, 5)
+
+③ Rozwiązanie drugiego z warunków
+
+2° x_1 * x_2 < 0
+\[
+\frac{m^2 - 6m + 5}{1} < 0
+\]
+m^2 - 6m + 5 < 0
+
+Korzystamy ze wzoru Vieté'a:
+x_1 \cdot x_2 = \frac{c}{a}
+
+--- STRONA 2 ---
+\(\Delta_{m_2} = (-6)^2 - 4 \cdot 1 \cdot 5 = 36 - 20 = 16\)
+
+\(\sqrt{\Delta_{m_2}} = \sqrt{16} = 4\)
+
+\(m_3 = \frac{-(-6)-4}{2 \cdot 1} = \frac{2}{2} = 1\)
+
+\(m_4 = \frac{-(-6)+4}{2 \cdot 1} = \frac{10}{2} = 5\)
+
+\(m \in (1 ; 5)\)
+
+④ Wyznaczenie części wspólnej rozwiązań obu warunków:
+
+1° \(m \in \left(-\frac{1}{3} ; 5\right)\)
+
+2° \(m \in (1 ; 5)\)
+
+Zatem \(m \in (1 ; 5)\)
+
+Odp: \(m \in (1 ; 5)\).

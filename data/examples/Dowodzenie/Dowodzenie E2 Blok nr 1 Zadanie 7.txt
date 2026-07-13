@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Uzasadnij, że jeżeli \(3a \geq -b\), to \(3a^3 + ab^2 + b^3 \geq 5a^2b\).
+
+założenie: \(3a \geq -b \implies 3a+b \geq 0\) ★
+
+teza: \(3a^3 + ab^2 + b^3 \geq 5a^2b\)
+
+① przekształcamy równoważnie tezę:
+
+\[3a^3 + ab^2 + b^3 \geq 5a^2b\]
+
+\[3a^3 + ab^2 + b^3 - 5a^2b \geq 0\]
+
+\((3a+b)(a^2 - 2ab + b^2) \geq 0\)
+
+★ na podstawie założenia domyślamy się, że \((3a+b)\) powinno wystąpić
+
+\[3a \cdot (-2ab) + a^2b = -5a^2b\]
+\[b \cdot (-2ab) + 3ab^2 = ab^2\]
+
+\((3a+b)(a-b)^2 \geq 0\)
+
+\(\underbrace{(3a+b)}_{\geq 0} \underbrace{(a-b)^2}_{\geq 0} \geq 0\)
+
+② komentarz:
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, \(3a+b \geq 0\) z założenia,
+iloczyn dwóch liczb nieujemnych jest liczbą nieujemną,
+
+c.k.d.

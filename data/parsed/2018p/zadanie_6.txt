@@ -1,0 +1,18 @@
+=== ARKUSZ: 2018p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Funkcja kwadratowa jest określona wzorem f(x) = -2(x + 3)(x - 5). Liczby x_1, x_2 są różnymi miejscami zerowymi funkcji f. Zatem A. x_1 + x_2 = -8 B. x_1 + x_2 = -2 C. x_1 + x_2 = 2 D. x_1 + x_2 = 8
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 6. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci kanonicznej, w postaci ogólnej i w postaci iloczynowej (o ile istnieje) (4.10).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D
+
+Strona 2 z 25
+
+---

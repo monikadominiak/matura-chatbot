@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Na przeciwprostokątnej AB trójkąta prostokątnego ABC wybrano punkty D i E w taki sposób, by AC = AE oraz BC = BD. Udowodnij, że kąt DCE = 45°.
+
+⓵ Tworzymy rysunek poglądowy
+
+Dane: 
+|AC| = |AE| 
+|BC| = |BD|
+
+Teza:
+|∠DCE| = 45°
+
+⓶ Chcemy wyznaczyć dwa pozostałe kąty w △CDE
+
+1. |∠CEA| = (180° - (90° - α)) / 2 , bo △AEC - równoramienny, CE - podstawa
+
+2. |∠CDB| = (180° - α) / 2 , bo △BCD - równoramienny, CD - podstawa
+
+⓷ Z 1. i 2. mamy:
+|∠CEA| = (90° + α) / 2 = 45° + α / 2
+
+|∠CDB| = 90° - α / 2
+
+⓸ Z sumy miar kątów w △CDE
+|∠DCE| = 180° - (45° + α / 2 + 90° - α / 2) = 
+= 180° - 135° = 45°
+
+c.k.d.

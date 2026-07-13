@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Ile jest liczb naturalnych sześciocyfrowych, których suma cyfr wynosi 5?
+
+① analizujemy polecenie
+
+liczby 6-cyfrowe, suma cyfr = 5 , cyfry: 0,1,2,3,4,5,6,7,8,9
+
+uwaga: dla liczb, które zawierają „0” zaczniemy od ustawiania właśnie zera (zer)
+
+② rozpatrujemy wszystkie przypadki:
+
+1. 1x„5” i 5x„0”
+   → tylko jedna taka liczba: 500000
+
+2. 1x„4”, 1x„1”, 4x„0”: (5 choose 1) * (4 choose 1) * (1 choose 1) = 10
+
+3. 1x„3”, 1x„2”, 4x„0”: (5 choose 1) * (4 choose 1) * (1 choose 1) = 10
+
+4. 1x„3”, 2x„1”, 3x„0”: (5 choose 2) * (3 choose 2) * (1 choose 1) = 10 * 3 = 30
+
+5. 2x„2”, 1x„1”, 3x„0”: (5 choose 3) * (2 choose 2) * (1 choose 1) = 10 * 3 = 30
+
+6. 1x„2”, 3x„1”, 2x„0”: (5 choose 2) * (4 choose 3) * (1 choose 1) = 10 * 4 = 40
+
+7. 5x„1”, 1x„0”: (5 choose 1) * (5 choose 5) = 5 * 1 = 5
+
+③ sumujemy możliwości:
+
+1 + 10 + 10 + 30 + 30 + 40 + 5 = 126 
+
+odp: 126

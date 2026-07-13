@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Znajdź równanie prostej przechodzącej przez początek układu współrzędnych i stycznej do wykresu funkcji \( f(x) = 16x^2 + \frac{1}{x} \).
+
+\[ P(0,0) - \text{początek układu współrzędnych} \Rightarrow \text{styczna: } y = ax \; (b=0) \]
+
+\( f(x) = 16x^2 + \frac{1}{x} \quad x \neq 0 \)
+
+① wyznaczamy pochodną funkcji \( f \)
+
+\( f'(x) = 32x - \frac{1}{x^2} \quad \boxed{j(x) = \frac{a}{x} \Rightarrow j'(x) = -\frac{a}{x^2}} \)
+
+więc styczna: \( y_o = a \cdot x_o \Rightarrow y_o = (32x_o - \frac{1}{x_o^2})x_o = 32x_o^2 - \frac{1}{x_o} \)
+
+i \( (x_o, y_o) \in f \Rightarrow y_o = f(x_o) = 16x_o^2 + \frac{1}{x_o} \)
+
+② przyrównujemy oba wyliczone \( y_o \)
+
+\[ 16x_o^2 + \frac{1}{x_o} = 32x_o^2 - \frac{1}{x_o} \]
+
+\[ 16x_o^2 = \frac{2}{x_o} \]
+
+\[ x_o^3 = \frac{1}{8} \Rightarrow x_o = \frac{1}{2} \]
+
+③ wyznaczamy \( y_o \) i punkt styczności
+
+\( y_o = 16 \cdot \frac{1}{4} + 2 = 6 \quad P(\frac{1}{2}, 6) \)
+
+④ wykorzystujemy punkt \( P \), aby wyznaczyć \( a \)
+
+\[ 6 = a \cdot \frac{1}{2} \]
+
+\[ a = 12 \]
+
+Odp: \( y = 12x \)

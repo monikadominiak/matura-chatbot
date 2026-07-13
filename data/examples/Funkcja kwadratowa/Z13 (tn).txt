@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+z13 (tn)  
+Dany jest trójmian f(x) = mx^2 + 4x - m + 5. Wyznacz wzór funkcji g(m), która każdej wartości parametru m przyporządkuje liczbę miejsc zerowych funkcji f.
+
+f(x) = mx^2 + 4x - m + 5
+
+a = m  
+b = 4  
+c = -m + 5
+
+Liczba miejsc zerowych będzie zależna od wyróżnika trójmianu kwadratowego, musimy również zwrócić uwagę na współczynnik kierunkowy a tej funkcji
+
+a ≠ 0 ⇐ równanie kwadratowe  
+m ≠ 0
+
+Δ = b^2 - 4ac
+
+Δ = 16 - 4⋅m⋅(-m + 5) = 16 + 4m^2 - 20m  
+Δ = 4(m^2 - 5m + 4)
+
+Δm = 25 - 16 = 9  
+m_1 = \frac{5 - 3}{2} = 1  
+m_2 = \frac{5 + 3}{2} = 4  
+
+Δ = 4(m - 1)(m - 4)
+
+1) Dwa miejsca zerowe dla:  
+Δ > 0
+
+4(m - 1)(m - 4) > 0
+
+m = 1    m = 4  
+
+m ∈ (-∞, 0) ∪ (0, 1) ∪ (4, ∞)
+
+2) Jedno miejsce zerowe dla:
+
+a) Δ = 0  
+m = 1    m = 4  =>  m ∈ {1, 4}
+
+b) a = 0 ⇐ równanie liniowe  
+m = 0
+
+Zatem m ∈ {0, 1, 4}
+
+3) Brak miejsc zerowych dla:  
+Δ < 0  =>  m ∈ (1, 4)
+
+Odp: g(m) = \left\{\begin{array}{ll}
+2, & m \in (-∞, 0) \cup (0, 1) \cup (4, ∞) \\
+1, & m \in \{0, 1, 4\} \\
+0, & m \in (1, 4)
+\end{array}\right.

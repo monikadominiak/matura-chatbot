@@ -1,0 +1,93 @@
+
+--- STRONA 1 ---
+zZ (5.2, 5.1)
+
+Rozwiąż równanie \(\frac{\sin x}{\cos x} + \frac{\cos x}{\sin x} = \frac{8 \sin 2x}{3}\).
+
+① Wyznaczamy dziedzinę równania.  
+Mianowniki wiążą się z dziedziną równania, żaden mianownik nie może być równy 0.
+
+\(D: \cos x \neq 0 \ \land \ \sin x \neq 0\)
+
+\(x \neq \frac{\pi}{2} + k\pi \quad x \neq k\pi, \quad k \in \mathbb{Z}\).
+
+Oba te wykluczenia muszą zachodzić jednocześnie, co można (ale nie trzeba) zapisać jako:
+
+\(D: x \not= \frac{k\pi}{2}, \ k\in\mathbb{Z}\).
+
+② Mnożymy równanie przez iloczyn mianowników.
+
+\(\frac{\sin x}{\cos x} + \frac{\cos x}{\sin x} = \frac{8 \sin 2x}{3} \ / \cdot 3\cos x \sin x\)
+
+\(3 \sin^2 x + 3 \cos^2 x = 8 \sin 2x \cos x \sin x\)
+
+Można po lewej stronie zauważyć "jedynkę trygonometryczną," ale wtedy ciężko byłoby powiązać lewą stronę z prawą. Jeśli ten ruch okaże się przydatny, zawsze można go wykonać potem.
+
+Podpowiedź: W równaniach, w których występują różne kąty (tak, jak tutaj: x lub 2x) często należy w pierwszej kolejności dążyć do tego, aby te kąty się wyrównały. Oczywiście trzeba to zrobić przy pomocy odpowiednich wzorów trygonometrycznych.
+
+--- STRONA 2 ---
+3) Korzystamy ze wzoru na sinus podwojonego kąta.
+
+sin 2x = 2 sin x cos x
+
+3 sin^2 x + 3 cos^2 x = 8 sin 2x cos x sin x
+
+3 sin^2 x + 3 cos^2 x = 8 ⋅ 2 sin x cos x cos x sin x
+
+3 sin^2 x + 3 cos^2 x = 16 sin^2 x cos^2 x
+
+Wracamy do pomysłu skorzystania z "jedynki trygonometrycznej". Użyjemy jej w taki sposób, aby w równaniu pozostała tylko jedna funkcja trygonometryczna.
+
+4) Korzystamy z jedynki trygonometrycznej.
+
+sin^2 x + cos^2 x = 1
+
+sin^2 x = 1 - cos^2 x
+
+3(sin^2 x + cos^2 x) = 16 ⋅ sin^2 x cos^2 x
+
+3 ⋅ 1 = 16 ⋅ (1 - cos^2 x) cos^2 x
+
+3 = 16 cos^2 x - 16 cos^4 x
+
+16 cos^4 x - 16 cos^2 x + 3 = 0
+
+5) Podstawiamy pomocniczą zmienną, t.
+
+Równanie można sprowadzić do równania kwadratowego przy pomocy zmiennej pomocniczej t.
+
+Ograniczenie przedziałem będzie wynikało ze zbioru wartości funkcji y = cos x.
+
+t = cos^2 x, t ∈ ⟨0, 1⟩
+
+16t^2 - 16t + 3 = 0
+
+Δ = ( -16 )^2 - 4 ⋅ 16 ⋅ 3 = 64  √Δ = 8
+
+t_1 = \frac {16 - 8}{32} = \frac {1}{4}  t_2 = \frac {16 + 8}{32} = \frac {3}{4}
+
+--- STRONA 3 ---
+⑥ Cofamy podstawienie
+
+cos^2 x = 1/4 ∨ cos^2 x = 3/4
+
+cos x = 1/2 ∨ cos x = -1/2 ∨ cos x = sqrt(3)/2 ∨ cos x = -sqrt(3)/2
+
+Proste równania trygonometryczne rozwiążemy w oparciu o wykres funkcji cosinus.
+
+⑦ Szkicujemy wykres funkcji cosinus.
+
+⑧ Odczytujemy rozwiązania
+
+cos x = -1/2 ∨ cos x = 1/2 ∨ cos x = -sqrt(3)/2 ∨ cos x = sqrt(3)/2
+
+x = 2π/3 + 2kπ ∨ x = 5π/3 + 2kπ ∨ x = π/3 + 2kπ ∨ x = -π/3 + 2kπ
+
+x = -2π/3 + 2kπ ∨ x = -5π/3 + 2kπ ∨ x = π/6 + 2kπ ∨ x = -π/6 + 2kπ
+
+k ∈ ℤ.
+
+Można te 8 serii rozwiązań „zbić” w 4 serie co kπ, ale nie jest to wymagane.
+
+Odp.: x = 2π/3 + 2kπ, x = -2π/3 + 2kπ, x = π/3 + 2kπ, x = -π/3 + 2kπ, 
+x = π/6 + 2kπ, x = -π/6 + 2kπ, k ∈ ℤ.

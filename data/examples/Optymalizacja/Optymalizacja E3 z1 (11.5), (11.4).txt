@@ -1,0 +1,102 @@
+
+--- STRONA 1 ---
+Na paraboli y = 1 - x^2 znajdź punkt P leżący najbliżej prostej x + y - 2 = 0. Napisz równanie stycznej do tej paraboli w punkcie P.
+
+① uzależniamy od siebie zmienne
+
+\[
+P \colon y = 1 - x^2
+\]
+
+\[
+x + y - 2 = 0
+\]
+
+\[
+P(x, 1-x^2) \quad x \in \mathbb{R}
+\]
+
+② zapisujemy wzór funkcji
+
+wzór na odległość punktu od prostej:
+
+\[
+d = \frac{|Ax_0 + By_0 + C|}{\sqrt{A^2 + B^2}}
+\]
+
+\[
+d = \frac{|1 \cdot x + 1 \cdot (1-x^2) - 2|}{\sqrt{1^2 + 1^2}} = \frac{1-x^2 + x - 1}{\sqrt{2}}
+\]
+
+③ analizujemy moduł
+
+\[
+-x^2 + x - 1
+\]
+
+\[
+\Delta = 1 - 4 \cdot (-1)(-1) = 1 - 4 < 0
+\]
+
+\[
+\text{wyrażenie } -x^2 + x + 1 \text{ jest zawsze } < 0, \text{ więc opuszczamy moduł ze zmianą znaku}
+\]
+
+\[
+d = \frac{-(-x^2 + x - 1)}{\sqrt{2}} = \frac{x^2 - x + 1}{\sqrt{2}}
+\]
+
+④ wyznaczamy pochodną funkcji pomocniczej
+
+\[
+f(x) = x^2 - x + 1
+\]
+
+\[
+f'(x) = 2x - 1
+\]
+
+\[
+(\sqrt{2} \text{ jest stałą, dodatnią, nie wpływa na znak pochodnej})
+\]
+
+⑤ wyznaczamy miejsca zerowe pochodnej i badamy monotoniczności
+
+\[
+f'(x) = 0 \iff 2x - 1 = 0
+\]
+
+\[
+x = \frac{1}{2}
+\]
+
+(Funkcja f(x), a tym samym funkcja d osiąga w swojej dziedzinie wartość najmniejszą dla argumentu \( x = \frac{1}{2} \))
+
+\[
+\Rightarrow P\left(\frac{1}{2}, \frac{3}{4}\right)
+\]
+
+⑥ wyznaczamy styczną ze wzoru 
+
+\[
+y = j'(x_0)(x - x_0) + j(x_0)
+\]
+
+\[
+x_0 = \frac{1}{2}, \quad g(x) = 1 - x^2, \quad g(x_0) = \frac{3}{4}
+\]
+
+\[
+g'(x) = -2x \quad g'(x_0) = -2 \cdot \frac{1}{2} = -1
+\]
+
+\[
+\left\{
+\begin{array}{l}
+y = -1(x - \frac{1}{2}) + \frac{3}{4} \\
+y = -x + \frac{5}{4}
+\end{array}
+\right.
+\]
+
+Odp: \( P\left(\frac{1}{2}, \frac{3}{4}\right), y = -x + \frac{5}{4} \)

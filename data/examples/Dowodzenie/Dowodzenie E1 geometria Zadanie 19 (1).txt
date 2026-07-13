@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Udowodnij, że wysokości trójkąta są odwrotnie proporcjonalne do długości boków, na które je opuszczono.
+
+➊ wprowadzamy oznaczenia
+
+P - pole △ , boki: a,b,c , wysokości: ha,hb,hc
+
+➋ zapiszemy pole △ na trzy sposoby z wykorzystaniem trzech par wysokość - podstawa
+
+P = 1/2 a⋅ha = 1/2 b⋅hb = 1/2 c⋅hc /⋅2
+
+2P = a⋅ha = b⋅hb = c⋅hc
+
+czyli: a = \(\frac{2P}{h_a}\) i analogicznie b = \(\frac{2P}{h_b}\) i c = \(\frac{2P}{h_c}\)
+
+zatem jeżeli długość boku się zwiększa x razy, to wysokość musi się zmniejszać również x razy i na odwrót
+
+c.k.d.

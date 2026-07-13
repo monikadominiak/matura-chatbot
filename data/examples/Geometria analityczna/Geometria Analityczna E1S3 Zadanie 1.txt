@@ -1,0 +1,73 @@
+
+--- STRONA 1 ---
+Zad.1 Napisz wzór prostej, która jest równoległa do prostej k i przechodzi przez punkt A, jeśli:
+
+a) k: y = \(\frac{3}{4}\)x   A(-8,3)   
+
+b) k: y = -2x + 5   A(-\(\frac{1}{2}\), 4)   
+
+c) k: y = \(\frac{1}{8}\)x - 1   A(\(\frac{8}{9}\), \(\frac{2}{3}\))  
+
+
+1) Wyznaczamy współczynnik kierunkowy z definicji prostych równoległych.
+
+a) k: y = \(\frac{3}{4}\)x
+
+m: y = ax + b  
+
+k || m  <=>  a_k = a_m  
+
+a_m = \(\frac{3}{4}\)  
+
+
+b) k: y = -2x + 5   
+
+m: y = ax + b  
+
+k || m  <=>  a_k = a_m  
+
+a_m = -2  
+
+
+c) k: y = \(\frac{1}{8}\)x - 1   
+
+m: y = ax + b  
+
+k || m  <=>  a_k = a_m  
+
+a_m = \(\frac{1}{8}\)  
+
+
+2) Podstawiamy punkt A i wyznaczamy wyraz wolny.
+
+a) m: y = \(\frac{3}{4}\)x + b  
+
+A(-8,3) ∈ y = \(\frac{3}{4}\)x + b  <=> 3 = \(\frac{3}{4}\) * (-8) + b  
+
+3 = -6 + b  
+
+b = 9  
+
+Odp. a) y = \(\frac{3}{4}\)x + 9.  
+
+
+b) m: y = -2x + b  
+
+A(-\(\frac{1}{2}\), 4) ∈ y = -2x + b  <=> 4 = (-2) * (-\(\frac{1}{2}\)) + b  
+
+4 = 1 + b  
+
+b = 3  
+
+Odp. b) y = -2x + 3.  
+
+
+c) m: y = \(\frac{1}{8}\)x + b  
+
+A(\(\frac{8}{9}\), \(\frac{2}{3}\)) ∈ y = \(\frac{1}{8}\)x + b  <=> \(\frac{2}{3}\) = \(\frac{1}{8}\) * (\(\frac{8}{9}\)) + b  
+
+\(\frac{2}{3}\) = \(\frac{1}{9}\) + b  
+
+b = \(\frac{2}{3}\) - \(\frac{1}{9}\) = \(\frac{5}{9}\)  
+
+Odp. c) y = \(\frac{1}{8}\)x + \(\frac{5}{9}\).  

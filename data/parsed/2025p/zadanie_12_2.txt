@@ -1,0 +1,20 @@
+=== ARKUSZ: 2025p | ZADANIE 12.2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Osią symetrii wykresu funkcji f jest prosta o równaniu
+
+A. x = 3
+B. x = −3
+C. y = 6
+D. y = −6
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

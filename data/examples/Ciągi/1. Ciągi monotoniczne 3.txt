@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+1. Ciągi monotoniczne 3
+
+Wykres ciągu \(a_n\) jest zawarty w prostej \(y = (k-1)x\). Dla jakich wartości parametru \(k\) ciąg \(a_n\) jest:
+a) malejący
+b) rosnący
+
+Skoro wykres ciągu jest zawarty w prostej \(y = (k-1)x\) oznacza to, że wzór ciągu można zapisać jako:
+
+\(a_n = (k-1) \cdot n\).
+
+Monotoniczność ciągu można zbadać analizując znak wyrażenia \(a_{n+1} - a_n\).
+
+a) 1️⃣ Wyznaczamy \(a_{n+1}\).
+
+\(a_{n+1} = (k-1) \cdot (n+1)\)
+
+2️⃣ Obliczamy \(a_{n+1} - a_n\).
+
+\(a_{n+1} - a_n = (k-1) \cdot (n+1) - (k-1) \cdot n = (k-1)(n+1-n) = k-1\)
+
+Aby ciąg \(a_n\) był malejący \(a_{n+1} - a_n < 0\),
+
+3️⃣ Wyznaczamy \(k\).
+
+\(k-1 < 0\)
+
+\(k < 1\)
+
+Odp.: Ciąg \(a_n\) jest malejący dla \(k \in (-\infty, 1)\).
+
+--- STRONA 2 ---
+b) ① Wyznaczamy a_{n+1}.
+
+a_{n+1} = (k-1) \cdot (n+1)
+
+② Obliczamy a_{n+1} - a_n.
+
+a_{n+1} - a_n = (k-1)(n+1) - (k-1)n = (k-1)(n+1-n) = k-1
+
+Aby ciąg a_n był rosnący a_{n+1} - a_n > 0.
+
+③ Wyznaczamy k.
+
+k-1 > 0
+
+k > 1
+
+Odp.: Ciąg a_n jest rosnący dla k \in (1, +\infty).

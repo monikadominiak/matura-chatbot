@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Oblicz granicę \(\lim_{x \to -\infty} \frac{6x^2+3}{2x-1}\).
+
+(1) zaczynamy od wyłączenia przed nawias
+
+x we wspólnej potędze z licznika i mianownika
+
+\[
+\lim_{x \to -\infty} \frac{6x^2+3}{2x-1} = \lim_{x \to -\infty} \frac{x(6x+\frac{3}{x})}{x(2-\frac{1}{x})} = \lim_{x \to -\infty} \frac{6x}{2} = \frac{6}{2} \cdot (-\infty) = -\infty
+\]
+
+UWAGA: dla granic w \(\pm \infty\) w sytuacji, gdy: stopień licznika > stopień mianownika należy spodziewać się wyniku \(\pm \infty\)
+
+Odp: \(-\infty\)

@@ -1,0 +1,93 @@
+
+--- STRONA 1 ---
+W kulę o promieniu \(\frac{\sqrt{10}}{2}\) wpisujemy prostopadłościan o polu podstawy równym 4. Wyznacz wymiary prostopadłościanu o największej objętości.
+
+① uzależniamy od siebie zmienne
+
+\[
+d = \sqrt{a^2+b^2+c^2}
+\]
+
+\[
+d = 2r = 2 \cdot \frac{\sqrt{10}}{2} = \sqrt{10}
+\]
+
+\[
+10 = a^2 + b^2 + c^2 
+\]
+\[
+c^2 = 10 - a^2 - \frac{16}{a^2}
+\]
+
+\[
+c = \sqrt{10 - a^2 - \frac{16}{a^2}}
+\]
+
+\[
+ab = 4 \Rightarrow b = \frac{4}{a}
+\]
+
+② zapisujemy wzór funkcji
+
+\[
+V = a b c = V(a) = a \cdot \frac{4}{a} \cdot \sqrt{10 - a^2 - \frac{16}{a^2}}
+\]
+
+③ wyznaczamy dziedzinę funkcji
+
+\[
+10 - a^2 - \frac{16}{a^2} > 0 \quad / \cdot a^2
+\]
+
+\[
+-a^4 + 10a^2 - 16 > 0
+\]
+
+\[
+-(a^2 - 2)(a^2 - 8) > 0
+\]
+
+\[
+D_V = a \in (\sqrt{2}, 2\sqrt{2})
+\]
+
+④ wyznaczamy pochodną funkcji
+
+\[
+K(a) = 10 - a^2 - \frac{16}{a^2}
+\]
+\[
+K'(a) = -2a + \frac{32}{a^3}
+\]
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+\[
+K'(a) = 0 \Leftrightarrow -2a + \frac{32}{a^3} = 0 \quad / \cdot a^3
+\]
+
+\[
+-2a^4 + 32 = 0
+\]
+
+\[
+a^4 = 16 \Rightarrow a = -2 \quad \vee \quad a = 2
+\]
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+\[
+a \in (\sqrt{2}, 2) \cup (2, 2\sqrt{2})
+\]
+
+⑦ obliczamy b i c
+
+\[
+b = \frac{4}{a} = \frac{4}{2} = 2
+\]
+
+\[
+c = \sqrt{10 - 2^2 - \frac{16}{2^2}} = \sqrt{10 - 4 - 4} = \sqrt{2}
+\]
+
+Odp: \(2 \times 2 \times \sqrt{2}\)

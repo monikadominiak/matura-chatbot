@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+Zadanie z1 (7.4) Rozwiąż nierówność \( \frac{x^2+|x+2|}{x+1} \geq 1 \).
+
+1\) Wyznaczamy dziedzinę nierówności:
+
+\[ x+1 \neq 0 \]
+\[ x \neq -1 \]
+\[ x \in \mathbb{R} \setminus \{-1\} \]
+
+2\) Rozwiązujemy 2 przypadki opuszczenia modułu z definicji wartości bezwzględnej:
+
+\[ \frac{x^2+|x+2|}{x+1} \geq 1 / \cdot (x+1) \]
+
+\[ (x^2+|x+2|(x+1) - (x+1)^2 > 0 \]
+\[ (x+1) \left[ x + |x+2| - (x+1) \right] \geq 0 \]
+\[ (x+1) \left[ x+|x+2| -1 \right] \geq 0 \]
+
+Wskazówka: Należy opisać wartości bezwzględne 
+na 2 przypadki zgodnie z definicją, ponieważ 
+niewiadoma jest w więcej niż jednym miejscu.
+
+1^o
+
+\[ x+2 \geq 0 \ \ \ \lor \ \ \ x \geq -2 \]
+
+\[ (x+1)(x+2-1) \geq 0 \]
+\[ (x+1)x \geq 0 \]
+\[ x \in \mathbb{R} \ \ \land \ \ x \epsilon <-2,+\infty) \]
+\[ x \epsilon <-2,+\infty) \]
+
+2^o
+
+\[ x+2 < 0 \ \ \ \lor \ \ \ x <-2 \]
+
+\[ (x+1)(x-3) \leq 0 \]
+\[ (x+1)(x-3) \leq 0 \]
+\[ x \epsilon <-\infty,-3> \ \ \lor \ \ x \epsilon (-\infty, -2) \]
+\[ x \epsilon <-3,-2) \]
+
+Odp. \( x \epsilon <-3,-2) \cup (-1,+\infty) \).
+
+3\) Wyznaczamy sumę obu przypadków:
+
+\[ 1^o \cup 2^o \Rightarrow x \epsilon <-3,-2) \cup (-1,+\infty) \]
+
+\( \ \ (dziedzina \ x+1) \)

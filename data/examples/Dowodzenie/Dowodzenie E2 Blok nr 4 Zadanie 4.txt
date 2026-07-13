@@ -1,0 +1,73 @@
+
+--- STRONA 1 ---
+Punkty M i L leżą odpowiednio na bokach AB i AC trójkąta ABC, przy czym zachodzą równości |MB| = 3|AM| i |LC| = 2|AL|. Punkt S jest punktem przecięcia odcinków BL i CM. Punkt K jest punktem przecięcia półprostej AS z odcinkiem BC. Wykaż, że jeśli pole trójkąta ABC wynosi 528, to pola trójkątów AMS, ALS, BMS i CLS wynoszą odpowiednio 36, 32, 108, 64.
+
+1) tworzymy rysunek poglądowy
+
+oznaczamy długości boków zgodnie z równościami z polecenia
+
+teza:
+P_{AMS} = (3) = 36
+P_{ALS} = (2) = 32
+P_{BMS} = (4) = 108
+P_{CLS} = (1) = 64
+
+P_{\Delta ABC} = 528
+
+2) jeśli odpowiednio domyślimy wysokości, to możemy skorzystać ze wzoru na pole P = \frac{1}{2}ah
+
+h_1 -> wspólne dla \Delta_3 i \Delta_4
+
+P_3 = \frac{1}{2}x \cdot h_1
+
+P_4 = \frac{1}{2}3x \cdot h_1
+
+\Bigg\}
+
+P_4 = 3P_3
+
+h_2 -> wspólne dla \Delta_2 i \Delta_1
+
+P_1 = \frac{1}{2}2y \cdot h_2
+
+P_2 = \frac{1}{2}y \cdot h_2
+
+\Bigg\}
+
+P_1 = 2P_2
+
+3) rysujemy kolejne dwie wysokości
+
+h_3 -> wspólne dla \Delta ABC i \Delta_{1+2+3}
+
+P_{\Delta ABC} = 528 = \frac{1}{2}4x \cdot h_3
+
+P_{1+2+3} = \frac{1}{2}x \cdot h_3 => \frac{1}{4} \cdot 528 = 132
+
+h_4 -> wspólne dla \Delta ABC i \Delta_{2+3+4}
+
+P_{\Delta ABC} = 528 = \frac{1}{2}3y \cdot h_4
+
+P_{2+3+4} = \frac{1}{2}y \cdot h_4 => \frac{1}{3} \cdot 528 = 176
+
+4) wystarczy rozwiązać układ równań:
+
+\begin{cases} 
+P_1 = 2P_2 \\
+P_4 = 3P_3 \\
+P_1 + P_2 + P_3 = 132 \\
+P_2 + P_3 + P_4 = 176 
+\end{cases}
+
+=>
+
+\begin{cases} 
+3P_2 + P_3 = 132 \\
+P_2 + 4P_3 = 176 
+\end{cases}
+
+P_2 = 32 \to P_1 = 64
+
+P_3 = 36 \to P_4 = 108
+
+c.k.d.

@@ -1,0 +1,15 @@
+=== ARKUSZ: 2023p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22.
+1 pkt - obliczenie długości $c_1$ przeciwprostokątnej trójkąta $T_1$ oraz wykorzystanie podobieństwa trójkątów i zapisanie związku między długościami przyprostokątnych trójkąta $T_2$: $c_1=13$ i $frac{a_2}{b_2}=frac{12}{5}$
+ALBO
+obliczenie długości $c_1$ przeciwprostokątnej trójkąta $T_1$ oraz zapisanie równania pozwalającego obliczyć długość jednej z przyprostokątnych trójkąta $T_2$, np. $c_1=13$ i $frac{13}{12}=frac{26}{a_2}$, $c_1=13$ i $frac{13}{5}=frac{26}{b_2}$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

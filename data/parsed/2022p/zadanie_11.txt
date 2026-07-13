@@ -1,0 +1,14 @@
+=== ARKUSZ: 2022p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Miejscem zerowym funkcji liniowej ƒ określonej wzorem jest liczba
+$f(x)=-frac{1}{3}(x+3)+5$
+A. (-3)
+B. $frac{9}{2}$
+C. 5
+D. 12
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

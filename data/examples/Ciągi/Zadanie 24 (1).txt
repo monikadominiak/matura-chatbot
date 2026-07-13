@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zadanie 24
+
+Wysokość trójkąta równobocznego o boku długości a jest bokiem drugiego trójkąta równobocznego, a wysokość tego trójkąta jest znów bokiem trzeciego trójkąta równobocznego itd. Oblicz sumę:
+
+a) obwodów  b) pól.
+
+\[ a) \quad \textcircled{1} \quad \text{Określamy kolejne obwody trójkątów.} \]
+
+\[ a_1 = a \]
+
+\[ a_2 = \frac{a \sqrt{3}}{2} \]
+
+\[ Ob_1 = 3a \]
+
+\[ Ob_2 = \frac{3a \sqrt{3}}{2} \]
+
+\[ q = \frac{Ob_2}{Ob_1} = \frac{\frac{3a \sqrt{3}}{2}}{3a} = \frac{\sqrt{3}}{2} \in (-1,1) \]
+
+\[ \textcircled{2} \quad \text{Obliczamy sumę wszystkich obwodów.} \]
+
+\[ S_o = \frac{\frac{3a}{1 - \frac{\sqrt{3}}{2}}} = \frac{\frac{3a}{2 - \sqrt{3}}} \cdot \frac{2 + \sqrt{3}}{2 + \sqrt{3}} = \frac{6a(2 + \sqrt{3})}{4-3} = (12 + 6\sqrt{3})a \]
+
+\[ b) \quad \textcircled{3} \quad \text{Określamy kolejne pola trójkątów.} \]
+
+\[ P_1 = \frac{a^2 \sqrt{3}}{4} \]
+
+\[ P_2 = \frac{a^2 \sqrt{3}}{4} \cdot \frac{3 \cdot \sqrt{3}}{4} = \frac{3a^2 \sqrt{3}}{16} \]
+
+\[ q = \frac{P_2}{P_1} = \frac{\frac{3a^2 \sqrt{3}}{16}}{\frac{a^2 \sqrt{3}}{4}} = \frac{3}{4} \in (-1,1) \]
+
+\[ \textcircled{4} \quad \text{Obliczamy sumę wszystkich pól.} \]
+
+\[ S_p = \frac{\frac{a^2 \sqrt{3}}{4}}{1-\frac{3}{4}} = \frac{\frac{a^2 \sqrt{3}}{4}}{\frac{1}{4}} = a^2 \sqrt{3} \]
+
+Odp.: a) \( S_o = (12 + 6\sqrt{3})a \), b) \( S_p = a^2 \sqrt{3} \).

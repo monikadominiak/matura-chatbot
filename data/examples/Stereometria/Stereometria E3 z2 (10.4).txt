@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest równoległobok o obwodzie 18. Przekątne graniastosłupa mają długości 9 i 3√3, a krawędź boczna 4. Oblicz objętość tego graniastosłupa.
+
+1️⃣ sporządzamy rysunek pomocniczy i wykorzystujemy informację o przekątnych
+
+korzystamy z tw. Pitagorasa:
+
+4^2 + d_1^2 = (3√3)^2
+4^2 + d_2^2 = g^2
+16 + d_1^2 = 33
+16 + d_2^2 = 81
+
+d_1^2 = 17 => d_1 = √17
+d_2^2 = 65 => d_2 = √65
+
+2️⃣ redukujemy ilość zmiennych w podstawie
+
+obw. = 18 = 2a + 2b / :2
+
+a + b = 9 => b = 9 - a
+
+3️⃣ wyznaczamy kąt ostry równoległoboku
+
+układ 2 równań z tw. cosinusów
+
+√65^2 = a^2 + (9 - a)^2 - 2·a·(9 - a)·cos(180° - α)
+√17^2 = a^2 + (9 - a)^2 - 2·a·(9 - a)·cosα
+
+65 = a^2 + (9 - a)^2 + 2·a·(9 - a)·cosα
+17 = a^2 + (9 - a)^2 - 2·a·(9 - a)·cosα
+-------------------------------
+82 = 2a^2 + 2(9 - a)^2
+82 = 2a^2 + 162 - 36a + 2a^2
+4a^2 - 36a + 80 = 0 / :4
+a^2 - 9a + 20 = 0
+
+Δ = 1 (b^2 - 4ac) Δ = 1
+
+a_1 = 4 a_2 = 5
+b_1 = 5 b_2 = 4
+
+podstawiamy do 1️⃣
+17 = 25 + 14 - 10·4·cosα
+cosα = 3/5
+
+4️⃣ mając cosinusa liczymy wartość sinusa
+
+cosα = 3/5 (z jedynki trygonometrycznej)
+sin^2α = 1 - 9/25 => sinα = 4/5
+(sinα > 0, α-ostry)
+
+5️⃣ liczymy pole podstawy
+P_p = absinα = 4·5·4/5 = 16
+
+6️⃣ liczymy objętość graniastosłupa V = 16·4 = 64
+
+odp: V = 64

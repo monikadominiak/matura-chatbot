@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+z2 (tn)
+
+Funkcja f określona jest wzorem \( f(x) = \frac{a}{x-b} \) gdzie a jest liczbą ujemną. Wyznacz współczynniki a i b wiedząc, że zbiorem wszystkich argumentów, dla których funkcja przyjmuje wartości większe od 2, jest przedział (-5, -3).
+
+① Rozwiązujemy \( f(x)>2 \) pomimo nieznanych a i b.
+
+\( f(x)>2 \)
+
+\[
+\frac{a}{x-b} >2 \quad | \cdot (x-b)^2
+\]
+\( a(x-b) > 2(x-b)^2 \)
+
+\( a(x-b) - 2(x-b)^2 > 0 \)
+
+\((x-b)[a - 2(x-b)] > 0\)
+
+\((x-b)(-2x + a + 2b) > 0\)
+
+\( x-b=0 \quad \quad -2x+a+2b=0 \)
+
+\( x_1 = b \)
+
+\( 2x = a + 2b \)
+
+\( x_2 = \frac{a}{2} + b \)
+
+Uzależniliśmy miejsca zerowe funkcji stojącej po lewej stronie nierówności od a i b. Skoro rozwiązaniem nierówności jest przedział (-5, -3), to znaczy że liczby -5 i -3 są miejscami zerowymi paraboli. Musimy teraz jakoś zdecydować, które miejsce zerowe -5 a które -3.
+
+Skoro a to liczba ujemna, to znaczy, że :
+
+\( b > b + \frac{1}{2}a \)
+
+\( x_1 > x_2 \)
+
+\( x_1 = b = -3 \)
+
+\( x_2 = \frac{a}{2} + b = -5 \)
+
+\(\frac{a}{2} - 3 = -5\)
+
+\( a = -4 \)
+
+Odp.: \( a = -4, \; b = -3. \)

@@ -1,0 +1,22 @@
+=== ARKUSZ: 2025p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0–1)
+Dany jest trójkąt ABC, w którym |AB| = 11, |BC| = 12 oraz |∡ABC| = 60° (zobacz
+rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+
+Trójkąt ABC jest równoramienny. P F
+Pole trójkąta ABC jest równe 33√3. P F
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

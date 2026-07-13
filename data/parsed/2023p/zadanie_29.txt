@@ -1,0 +1,26 @@
+=== ARKUSZ: 2023p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne:
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe:
+Zdający:
+XII.2) oblicza średnią arytmetyczną i [...] znajduje medianę [...].
+Zasady oceniania
+2 pkt - wybranie dwóch poprawnych odpowiedzi.
+1 pkt - wybranie jednej poprawnej odpowiedzi.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A: 29.1. C, 29.2. A
+Wersja B: 29.1. B, 29.2. E
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

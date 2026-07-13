@@ -1,0 +1,15 @@
+=== ARKUSZ: 2021p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku obok przedstawiono geometryczną interpretację jednego z niżej zapisanych układów równań.
+Wskaż ten układ, którego geometryczną interpretację przedstawiono na rysunku.
+A. $begin{cases}y=x+1 y=-2x+4end{cases}$
+B. $begin{cases}y=x-1 y=2x+4end{cases}$
+C. $begin{cases}y=x-1 y=-2x+4end{cases}$
+D. $begin{cases}y=x+1 y=2x+4end{cases}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

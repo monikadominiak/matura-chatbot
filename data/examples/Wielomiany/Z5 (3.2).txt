@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+z5 (3.2)
+
+Znajdź wszystkie wielomiany w postaci x-b, przez które jest podzielny jest wielomian W(x) = 9x^5 - 9x^4 - 4x + 4.
+
+Z twierdzenia Bézouta wiemy, że jeśli W(x) jest podzielny przez (x-a), to W(a)=0. Zatem musimy znaleźć wszystkie możliwe pierwiastki W(x):
+
+W(x)=0
+
+9x^5-9x^4-4x+4=0 ⇐ grupujemy
+
+9x^4(x-1)-4(x-1)=0
+
+(x-1)(9x^4-4)=0
+
+a^2-b^2=(a-b)(a+b)
+
+(x-1)(3x^2+2)(3x^2-2)=0
+
+x-1=0
+
+x=1
+
+3x^2+2=0
+
+3x^2=-2
+
+x^2=-\frac{2}{3}
+
+sprzeczne
+
+3x^2-2=0
+
+x^2=\frac{2}{3}
+
+x=±\sqrt{\frac{2}{3}}
+
+Zatem dwumiany to: (x-1), (x+\sqrt{\frac{2}{3}}), (x-\sqrt{\frac{2}{3}}).
+
+Odp: (x-1), (x+\sqrt{\frac{2}{3}}), (x-\sqrt{\frac{2}{3}}).

@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Ile można utworzyć liczb naturalnych sześciocyfrowych jeśli iloczyn cyfr ma być większy niż 2 i jednocześnie mniejszy niż 8?
+
+1️⃣ analizujemy polecenie
+
+liczby 6-cyfrowe, iloczyn cyfr ∈ (2, 8)
+
+jakie cyfry? 0̶, 1, 2, 3, 4, 5, 6, 7, 8̶, 9̶
+
+liczby te mogą wystąpić tylko raz z resztą jedynek
+
+2️⃣ rozpatrujemy wszystkie przypadki:
+- warianty z cyframi od 4 do 7:
+
+jedną z tych cyfr i 5 x "1" + wariant "3" i 5 x "1"
+  - 3, 2 i 4 x "1"
+    (6
+      1) · (5
+      1) · 1 = 30
+
+  - 2, 2 i 3 x "1" 
+    (6
+      2) · 1 = \frac{6!}{2!·4!} = 15
+
+3️⃣ sumujemy możliwości:
+   30 + 30 + 15 = 75
+
+Odp: 75

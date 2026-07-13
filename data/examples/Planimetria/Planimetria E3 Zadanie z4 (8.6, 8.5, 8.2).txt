@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+**Zadanie z17 (tn)** Oblicz sinusy kątów ostrych trójkąta prostokątnego, o którym wiadomo, że stosunek długości promienia okręgu opisanego na tym trójkącie do długości promienia okręgu wpisanego w ten trójkąt wynosi \(\frac{13}{4}\).
+
+1) Tworzymy rysunek poglądowy
+
+\(Twr. \ o \ odcinkach \ stycznych:\)
+
+\(|PA| = |PB|\)
+
+2) Wyliczamy jeden promień od drugiego z podanego w zadaniu stosunku:
+
+\(\frac{R}{r} = \frac{13}{4} \quad \Rightarrow \quad R = 4r + 3r \quad \Rightarrow \quad R = 4r; \)
+
+\[
+2R = 8r \\
+\]
+
+3) Uzasadniamy r od x za pomocą tw. Pitagorasa:
+
+\((2R-x-x)^2 + (x-x)^2 = (2R)^2\)
+
+\[
+\frac{(2R)' \cdot (2x-x)}{4} + \frac{2x \cdot x}{4} + 0 = 483/4 \ \cdot \frac{1}{4}
+\]
+
+\[
+60^2 + 15x^2 \cdot x \cdot 0 + 1 \\
+9x^2 + A = 0 \ \cdot 1/x^1 \ (\cdot 10) \\
+\]
+
+\[
+15(x^2+43x)'(2) = 0 \ \cdot \ \frac{1}{x} \cdot 5 \cdot 0
+\]
+
+\[
+a = 469 + x^2 - 69, x^2 = 7
+\]
+
+K = \(\frac{3}{4} + x \cdot x^0 \ \Rightarrow \ \frac{x}{25} = x^2-x = -1 \)
+
+4) Wyznaczamy sinusy kątów ostrych dla obu przypadków z trygonometrii trójkąta prostokątnego:
+
+\(x = 5r\):
+
+\[
+\frac{x}{5r}
+\]
+
+\[
+sin \ \alpha = \frac{x r}{5 r} = \frac{x}{4r} = \frac{x}{x} = \\
+sin \ \theta = 6x \cdot \frac{5}{{13}}
+\]
+
+\(x = \frac{2}{r}\):
+
+\[
+\frac{x}{2r}
+\]
+
+\[
+sin \ \beta = 8(x-x) + \frac{2r}{5x} \ \Rightarrow \\
+sin \frac{p}{1} = \frac{13}{44}
+\]
+
+Odp. \(sin \ \alpha = \frac{x}{15r}\) \ oraz \ \(sin \ \beta = \frac{x}{44r}\).

@@ -1,0 +1,60 @@
+Matura podstawowa 2019 - arkusz oraz klucz odpowiedzi:
+
+
+W każdym z zadań od 1. do 25. wybierz i zaznacz na karcie odpowiedzi poprawną odpowiedź.   Zadanie 1. (0-1)
+Liczba log_{sqrt(2)} 2 jest równa A. 2 B. 4 C. sqrt(2) D. 1/2   Zadanie 2. (0-1)
+Liczba naturalna n = 2^{14} * 5^{15} w zapisie dziesiętnym ma A. 14 cyfr B. 15 cyfr C. 16 cyfr D. 30 cyfr   Zadanie 3. (0-1)
+W pewnym banku prowizja od udzielanych kredytów hipotecznych przez cały styczeń była równa 4%. Na początku lutego ten bank obniżył wysokość prowizji od wszystkich kredytów o 1 punkt procentowy. Oznacza to, że prowizja od kredytów hipotecznych w tym banku zmniejszyła się o A. 1% B. 25% C. 33% D. 75%   Zadanie 4. (0-1)
+Równość 1/4 + 1/5 + 1/a = 1 jest prawdziwa dla A. a = 11/20 B. a = 8/9 C. a = 9/8 D. a = 20/11   Zadanie 5. (0-1)
+Para liczb x = 2 i y = 2 jest rozwiązaniem układu równań { ax + y = 4 { -2x + 3y = 2a dla A. a = -1 B. a = 1 C. a = -2 D. a = 2   Zadanie 6. (0-1)
+Równanie 
+((x - 1)(x + 2)) / (x - 3) = 0 A. ma trzy różne rozwiązania: x = 1, x = 3, x = -2 B. ma trzy różne rozwiązania: x = -1, x = -3, x = 2. C. ma dwa różne rozwiązania: x = 1, x = -2 D. ma dwa różne rozwiązania: x = -1, x = 2.   Zadanie 7. (0-1)
+Miejscem zerowym funkcji liniowej f określonej wzorem f(x) = 3(x + 1) - 6sqrt(3) jest liczba A. 3 - 6sqrt(3) B. 1 - 6sqrt(3) C. 2sqrt(3) - 1 D. 2sqrt(3) - 1/3   Informacja do zadań 8.-10.
+Na rysunku przedstawiony jest fragment paraboli będącej wykresem funkcji kwadratowej f. Wierzchołkiem tej paraboli jest punkt W = (2, -4). Liczby 0 i 4 to miejsca zerowe funkcji f. 
+Zadanie zawiera obrazek ważny dla rozwiązania.  Zadanie 8. (0-1)
+Zbiorem wartości funkcji f jest przedział A. (-infinity, 0&gt; B.  C. &lt;-4, +infinity) D. &lt;4, +infinity)   Zadanie 9. (0-1)
+Największa wartość funkcji f w przedziale  jest równa A. -3 B. -4 C. 4 D. 0   Zadanie 10. (0-1)
+Osią symetrii wykresu funkcji f jest prosta o równaniu A. y = 4 B. x = -4 C. y = 2 D. x = 2   Zadanie 11. (0-1)
+W ciągu arytmetycznym (a_n), określonym dla n &gt;= 1, dane są dwa wyrazy: a_1 = 7 i a_8 = -49. Suma ośmiu początkowych wyrazów tego ciągu jest równa A. -168 B. -189 C. -21 D. -42   Zadanie 12. (0-1)
+Dany jest ciąg geometryczny (a_n), określonym dla n &gt;= 1. Wszystkie wyrazy tego ciągu są dodatnie i spełniony jest warunek a_5 / a_3 = 1/9. Iloraz tego ciągu jest równy A. 1/3 B. 1/sqrt(3) C. 3 D. sqrt(3)   Zadanie 13. (0-1)
+Sinus kąta ostrego alpha jest równy 4/5. Wtedy A. cos alpha = 5/4 B. cos alpha = 1/5 C. cos alpha = 9/25 D. cos alpha = 3/5   Zadanie 14. (0-1)
+Punkty D i E leżą na okręgu opisanym na trójkącie równobocznym ABC (zobacz rysunek). Odcinek CD jest średnicą tego okręgu. 
+Kąt wpisany DEB ma miarę alpha. Zatem 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. alpha = 30° B. alpha  45° D. alpha = 45°   Zadanie 15. (0-1)
+Dane są dwa okręgi: okrąg o środku w punkcie O i promieniu 5 oraz okrąg o środku w punkcie P i promieniu 3. Odcinek OP ma długość 16. Prosta AB jest styczna do tych okręgów w punktach A i B. Ponadto prosta AB przecina odcinek OP w punkcie K (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wtedy 
+A. |OK| = 6 
+B. |OK| = 8 
+C. |OK| = 10 
+D. |OK| = 12   Zadanie 16. (0-1)
+Dany jest romb o boku długości 4 i kącie rozwartym 150°. Pole tego rombu jest równe A. 8 B. 12 C. 8sqrt(3) D. 16   Zadanie 17. (0-1)
+Proste o równaniach y = (2m + 2)x - 2019 oraz y = (3m - 3)x + 2019 są równoległe, gdy A. m = -1 B. m = 0 C. m = 1 D. m = 5   Zadanie 18. (0-1)
+Prosta o równaniu y = ax + b jest prostopadła do prostej o równaniu y = -4x + 1 i przechodzi przez punkt P = (1/2, 0), gdy A. a = -4 i b = -2 B. a = 1/4 i b = -1/8 C. a = -4 i b = 2 D. a = 1/4 i b = 1/2   Zadanie 19. (0-1)
+Na rysunku przedstawiony jest fragment wykresu funkcji liniowej f. Na wykresie tej funkcji leżą punkty A = (0, 4) i B = (2, 2). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Obrazem prostej AB w symetrii względem początku układu współrzędnych jest wykres funkcji g określonej wzorem A. g(x) = x + 4 B. g(x) = x - 4 C. g(x) = -x - 4 D. g(x) = -x + 4   Zadanie 20. (0-1)
+Dane są punkty o współrzędnych A = (-2, 5) oraz B = (4, -1). Średnica okręgu wpisanego w kwadrat o boku AB jest równa A. 12 B. 6 C. 6sqrt(2) D. 2sqrt(6)   Zadanie 21. (0-1)
+Pudełko w kształcie prostopadłościanu ma wymiary 5 dm x 3 dm x 2 dm (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przekątna KL tego prostopadłościanu jest - z dokładnością do 0,01 dm - równa A. 5,83 dm B. 6,16 dm C. 3,61 dm D. 5,39 dm   Zadanie 22. (0–1)
+Promień kuli i promień podstawy stożka są równe 4. Pole powierzchni kuli jest równe polu powierzchni całkowitej stożka. Długość tworzącej stożka jest równa A. 8 B. 4 C. 16 D. 12   Zadanie 23. (0–1)
+Mediana zestawu sześciu danych liczb: 4, 8, 21, a, 16, 25, jest równa 14. Zatem A. a = 7 B. a = 12 C. a = 14 D. a = 20   Zadanie 24. (0–1)
+Wszystkich liczb pięciocyfrowych, w których występują wyłącznie cyfry 0, 2, 5, jest A. 12 B. 36 C. 162 D. 243   Zadanie 25. (0–1)
+W pudełku jest 40 kul. Wśród nich jest 35 kul białych, a pozostałe to kule czerwone. 
+Prawdopodobieństwo wylosowania każdej kuli jest takie samo. Z pudełka losujemy jedną kulę. Prawdopodobieństwo zdarzenia polegającego na tym, że otrzymamy kulę czerwoną, jest równe A. 1/8 B. 1/5 C. 1/40 D. 1/35   Zadanie 26. (0–2)
+Rozwiąż równanie x^3 - 3x^2 - 4x + 12 = 0.   Zadanie 27. (0–2)
+Rozwiąż nierówność 2x^2 - 3x - 9 &gt; 0.   Zadanie 28. (0–2)
+Wykaż, że dla dowolnych liczb rzeczywistych a i b prawdziwa jest nierówność a^2 + b^2 - 2ab + a^2 - 2a + 1 &gt;= 0   (lub w postaci pierwotnej z arkusza: 2a^2 - 2ab + b^2 - 2a + 1 &gt;= 0).   Zadanie 29. (0–2)
+Dany jest okrąg o środku w punkcie S i promieniu r. Na przedłużeniu cięciwy AB poza punkt B odłożono odcinek BC równy promieniowi danego okręgu. Przez punkty C i S poprowadzono prostą. Prosta CS przecina dany okrąg w punktach D i E (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wykaż, że jeżeli miara kąta ACS jest równa alpha, to miara kąta ASD jest równa 3*alpha.   Zadanie 30. (0–2)
+Ze zbioru liczb {1, 2, 3, 4, 5} losujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz prawdopodobieństwo zdarzenia A polegającego na wylosowaniu liczb, których iloczyn jest liczbą nieparzystą.   Zadanie 31. (0–2)
+W trapezie prostokątnym ABCD dłuższa podstawa AB ma długość 8. Przekątna AC tego trapezu ma długość 4 i tworzy z krótszą podstawą trapezu kąt o mierze 30° (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Oblicz długość przekątnej BD tego trapezu.   Zadanie 32. (0–4)
+Ciąg arytmetyczny (a_n) jest określony dla każdej liczby naturalnej n &gt;= 1. Różnicą tego ciągu jest liczba r = -4, a średnia arytmetyczna początkowych sześciu wyrazów tego ciągu: a_1, a_2, a_3, a_4, a_5, a_6, jest równa 16. a) Oblicz pierwszy wyraz tego ciągu. b) Oblicz liczbę k, dla której a_k = -78.   Zadanie 33. (0–4)
+Dany jest punkt A = (-18, 10). Prosta o równaniu y = 3x jest symetralną odcinka AB. Wyznacz współrzędne punktu B.   Zadanie 34. (0–5)
+Długość krawędzi podstawy ostrosłupa prawidłowego czworokątnego jest równa 6. Pole powierzchni całkowitej tego ostrosłupa jest cztery razy większe od pola jego podstawy. Kąt alpha jest kątem nachylenia krawędzi bocznej tego ostrosłupa do płaszczyzny podstawy (zobacz rysunek). Oblicz cosinus kąta alpha. 
+Zadanie zawiera obrazek ważny dla rozwiązania.

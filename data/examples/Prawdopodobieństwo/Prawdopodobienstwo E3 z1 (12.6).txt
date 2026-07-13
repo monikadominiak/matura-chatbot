@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+Ze zbioru {1, 2, 3, ..., 17} wybieramy losowo dwie różne liczby.  
+Oblicz prawdopodobieństwo wylosowania dwóch liczb, których suma jest większa od 17.  
+
+(1) analizujemy polecenie i tworzymy uproszczoną tabelę zdarzenia  
+{1, 2, 3, ..., 17} losujemy kolejno dwie różne liczby  
+
+LOSOWANIE 1
+
+| liczba |
+|--------|
+| 1      |
+| 2      |
+| 3      |
+| ...    |
+| 8      |
+| 9      |
+| 10     |
+| ...    |
+| 16     |
+| 17     |
+
+LOSOWANIE 2
+
+| liczba          | możliwości     |
+|-----------------|----------------|
+| 1               | 17             |
+| 2               | 16, 17         |
+| 3               | 15, 16, 17     |
+| ...             | ...            |
+| 8               |                |
+| 9               | 10, ..., 17    |
+|                 | nie możemy     |
+|                 | wybrać drugi   |
+|                 | raz 9          |
+| 10              | 10, ..., 17    |
+| ...             |                |
+| 16              | 8, 9, ..., 17  |
+| 17              |                 |
+|                 |                |  
+| 17              |                |
+| 15              |                |
+
+(2) liczymy moc Ω - wybór 2 różnych liczb z 17  
+Ω = 17 * 16 = 272  
+
+(3) liczymy moc zdarzenia A  
+|A| = 1 + 2 + 3 + ... + 8 + 8 + 9 + ... + 16 = 144  
+
+(4) liczymy docelowe prawdopodobieństwo  
+P(A) = 144 / 272 = 9 / 17  
+
+uwaga: zadanie to można rozwiązać za pomocą kombinacji  
+wtedy Ω = (17 choose 2) = 136, a |A| = 144 : 2 → pary np. 2, 16 i 16, 2 traktujemy jako tą samą możliwość  
+
+Odp: 9 / 17

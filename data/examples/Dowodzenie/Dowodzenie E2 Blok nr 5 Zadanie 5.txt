@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Udowodnij, że jeżeli między kątami trójkąta zachodzi związek 
+\[ \cos \alpha = \frac{1 - \cos \gamma}{2 \cos \beta} \], to trójkąt jest równoramienny.
+
+założenia: \[ \cos \alpha = \frac{1-\cos \gamma}{2 \cos \beta} \]
+
+teza: \(\Delta\) jest równoramienny \(\rightarrow\) czyli jakieś dwa kąty spośród \(\alpha, \beta, \gamma\) są sobie równe
+
+1️⃣ \(\alpha, \beta, \gamma\) - kąty w \(\Delta\), zatem \(\alpha + \beta + \gamma = 180^\circ\)
+\[\gamma = 180^\circ - (\alpha + \beta)\]
+
+2️⃣ przekształcamy równoważnie założenie:
+
+\[ \cos \alpha = \frac{1-\cos \gamma}{2 \cos \beta} \Rightarrow 2 \cos \alpha \cos \beta = 1 - \cos \gamma \]
+
+\[ \Rightarrow 2 \cos \alpha \cos \beta = 1 - \cos (180^\circ - (\alpha + \beta)) \]
+
+\[ \Rightarrow 2 \cos \alpha \cos \beta = 1 + \cos (\alpha + \beta) \]
+
+\[ \Rightarrow 2 \cos \alpha \cos \beta = 1 + \cos \alpha \cos \beta - \sin \alpha \sin \beta \]
+
+\[ \Rightarrow \cos \alpha \cos \beta + \sin \alpha \sin \beta = 1 \]
+
+\[ \cos (\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta \]
+
+\[ \cos (\alpha - \beta) = \cos \alpha \cos \beta + \sin \alpha \sin \beta \]
+
+3️⃣ mamy więc równanie:
+
+\[ \cos (\alpha - \beta) = 1 \]
+
+\[ \alpha - \beta = 0 + 2k\pi, \, k \in \mathbb{Z} \]
+
+ale \(\alpha, \beta\) to kąty \(\in (0^\circ, 180^\circ)\)
+
+więc \(\alpha = \beta\),
+
+zatem \(\Delta\) ten jest równoramienny
+
+c.k.d.

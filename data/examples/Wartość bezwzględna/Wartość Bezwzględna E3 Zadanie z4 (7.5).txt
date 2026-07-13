@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zadanie z4 (7.5) Dla jakich wartości parametru a równanie |x - 1| = a^2 - 4a - 1 ma dwa dodatnie pierwiastki?
+
+1) Tworzymy wykres obu stron równania:
+
+Prosta y=a^2-4a-1 została narysowana poglądowo, na przysłowiowej wyobraźni. Należy teraz się zastanowić, na jakiej wysokości może znajdować się prosta, aby zgodnie z poleceniem przecinała się w dwóch punktach o dodatnich współrzędnych x-owych z wykresem funkcji lewej strony równania. 
+Na podstawie pomocniczego odliczania punktu przecięcia rozwiniętej funkcji z osi x możemy zauważyć, że prosta, y=a^2-4a-1 musi przecinać oś y na wysokości między 0 a 1. Zatem:
+
+0 < a^2-4a-1 < 1
+
+Wskazówka: rozumując, gdzie trzeba analizować liczbę rozwiązań w zależności od parametru nadwyżającej rozumując się graficznie, rysując wykresy funkcji po lewej i prawej stronie równania. 
+
+Można tak robić, gdy wszystkie wyrażenia z niewiadomą są po jednej stronie równania, a wyrażenia z parametrem są po drugiej stronie.
+
+Po narysowaniu obu wykresów rozwiązania równania będą stanowić x-owe współrzędne punktów przecięcia obu wykresów.
+
+Ta strona równania, u której nie ma zmiennej x, a jej tylko parametr, będzie reprezentowana przez funkcję liniową, dlatego, czyli będzie to linia pozioma.
+
+3) Rozwiązujemy nierówność i wyznaczamy szukany parametr.
+
+0 < a^2-4a-1 < 1
+
+a^2-4a-1>0     a^2-4a-1<0
+
+Δ=4-4(6-1)<0     Δ=4-4(6-1)≥0
+√4=2     √16=4
+a_1=2-√5     a_2=2+√5
+-------------------------
+a_1=2-√5     a_2=2+√5
+
+a∈(2-√5;1)∪(2+√5;∞)  ∧   a∈(2-√5,2+√5)
+↓
+a∈(2-√5,1)∪(2+√5,∞)∩(2-√5,2+√5)
+= (2-√5,2-√5)∪(2+√5,2+√5)
+
+Odp. a∈(2-√5,2-√5)∪(2+√5,2+√5).

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9. (0-1)
+Na wykresie funkcji liniowej określonej wzorem f(x) = (m - 1)x + 3 leży punkt S = (5, -2). Zatem
+A. m = -1
+B. m = 0
+C. m = 1
+D. m = 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 9. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji liniowej na podstawie informacji o funkcji lub o jej wykresie (4.6).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: D

@@ -1,0 +1,63 @@
+
+--- STRONA 1 ---
+6. Granice ciągów 1  
+Oblicz granice ciągu a_n:  
+
+a) a_n = \frac{-4n^3+4n^2+2n-1}{-6n^4+4n^2+1}  
+b) a_n = \frac{8n^5+6n^6-4n^4}{n^5+n^7-n^9}  
+c) a_n = \frac{(n^2+1)(6-4n^2)}{(n-1)(n^3+1)}  
+d) a_n = \frac{2n^3-n^2+2n+1}{(n+1)(n^2+n+1)}  
+e) a_n = \frac{(n-1)(3n+1)^3}{(3n-1)(n^2+4)}  
+f) a_n = \frac{-4n^4+2n^3-7}{8n^3+n^2+5n}  
+
+Aby obliczyć granicę ciągu, którego wzór jest ilorazem dwóch wielomianów, można wyłączyć przed nawias w liczniku i w mianowniku najwyższą potęgę n z mianownika.  
+W przypadku przykładów z nawiasami nie trzeba ich przemnażać ani podnieść do potęgi, można wyłączyć n wewnątrz nawiasu.  
+
+① Obliczamy granicę ciągu .  
+
+a) \lim_{n→∞}\frac{-4n^3+4n^2+2n-1}{-6n^4+4n^2+1} = \lim_{n→∞}\frac{n^3\left(-4+\frac{4}{n}+\frac{2}{n^2}-\frac{1}{n^3}\right)}{n^4\left(-6+\frac{4}{n^2}+\frac{1}{n^4}\right)} = \frac{1 \cdot 0}{1 \cdot (-6)} = 0  
+
+Odp.: 0.  
+
+b) ① Obliczamy granicę ciągu .  
+
+\lim_{n→∞}\frac{8n^5+6n^6-4n^4}{n^5+n^7-n^8} = \lim_{n→∞}\frac{n^9\left(\frac{8}{n^4}+\frac{6}{n^3}-\frac{4}{n^5}\right)}{n^9\left(\frac{1}{n^4}+\frac{1}{n^2}-1\right)} = \frac{1 \cdot 0}{1 \cdot (-1)} = 0  
+
+Odp.: 0.  
+
+c) ① Obliczamy granicę ciągu .  
+
+\lim_{n→∞}\frac{(n^2+1)(6-4n^2)}{(n-1)(n^3+1)} = \lim_{n→∞}\frac{\left[n^2\left(1+\frac{1}{n^2}\right)\right]\left[n^2\left(\frac{6}{n^2}-4\right)\right]}{\left[n\left(1-\frac{1}{n}\right)\right]\left[n^3\left(1+\frac{1}{n^3}\right)\right]}  
+
+= \frac{1 \cdot (-4)}{1 \cdot 1 \cdot 1} = -4  
+
+Odp.: -4.
+
+--- STRONA 2 ---
+d) 1️⃣ Obliczamy granicę ciągu.
+
+\[
+\lim_{n \to \infty} \frac{2n^3 - n^2 + 2n + 4}{(n+1)(n^2 - 2n + 4)} = \lim_{n \to \infty} \frac{n^3\left(2 - \frac{4}{n} + \frac{2}{n^3} + \frac{4}{n^3}\right)}{[n(1+\frac{1}{n})][n^2(1 - \frac{2}{n} + \frac{4}{n^2})]} = \frac{1 \cdot 2}{1 \cdot 1 \cdot 1 \cdot 1} = 2
+\]
+
+Odp.: 2.
+
+e) 1️⃣ Obliczamy granicę ciągu.
+
+\[
+\lim_{n \to \infty} \frac{(n-1)(3n+1)^3}{[3n-1)(n^2+4)} = \lim_{n \to \infty} \frac{n\left(1 - \frac{1}{n}\right)[n(3 + \frac{1}{n})]^3}{n(3-\frac{1}{n})n^2(1 + \frac{4}{n^2})} = \lim_{n \to \infty} \frac{n^4\left(1 - \frac{1}{n}\right) \left(3 + \frac{1}{n}\right)^3}{n^4\left(3 - \frac{1}{n}\right)(1 + \frac{4}{n^2})}
+\]
+
+\[
+= \lim_{n \to \infty} \frac{n \cdot 1 \cdot 3^3}{n \cdot 3 \cdot 1} = +\infty
+\]
+
+Odp.: +\infty.
+
+f) 1️⃣ Obliczamy granicę ciągu.
+
+\[
+\lim_{n \to \infty} \frac{-4n^4 + 2n^2 - 7}{8n^4 + n^2 + 5n} = \lim_{n \to \infty} \frac{n^4\left(-4 + \frac{2}{n^2} - \frac{7}{n^4}\right)}{n^4\left(8 + \frac{1}{n^2} + \frac{5}{n^3}\right)} = \lim_{n \to \infty} \frac{1 \cdot (-4n + 2)}{1 \cdot 8} = -\infty
+\]
+
+Odp.: -\infty.

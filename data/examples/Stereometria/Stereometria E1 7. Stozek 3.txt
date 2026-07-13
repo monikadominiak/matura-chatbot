@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Pole powierzchni bocznej stożka jest dwukrotnie większe od pola jego podstawy. Wyznacz kąt rozwarcia tego stożka.
+
+1) sporządzamy rysunki pomocnicze
+
+α
+
+C
+l       l
+A          r     r         B
+         S
+
+C
+l       l
+α = 2β
+A          S      r      B
+
+2) zapisujemy zależność z polecenia
+
+P_b = 2P_p
+
+πrl = 2πr^2 /:πr
+
+l = 2r => r = l/2
+
+3) zapisujemy sinus kąta β w Δ prostokątnym BCS
+
+sinβ = r/l        (podstawiamy wyliczone r)
+
+sinβ = l/2 : l = 1/2
+
+β = 30°   (β - kąt ostry)
+
+α = 2β
+
+więc α = 2·30° = 60°
+
+odp: α = 60°

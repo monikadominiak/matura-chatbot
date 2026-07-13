@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zad.2 Wyznacz równanie okręgu, którego średnicą jest odcinek AB: A = (-3, -4), B = (5, 2).
+
+1) Tworzymy rysunek poglądowy:
+
+[rysunek]
+
+2) Wyznaczamy środek odcinka AB (środek okręgu):
+
+S \left( \frac{-3+5}{2}, \frac{-4+2}{2} \right) 
+
+S(1, -1)
+
+3) Wyznaczamy długość odcinka SB (promień okręgu):
+
+|SB|^2 = (4-5)^2 + (-1-2)^2
+
+|SB|^2 = 16 + 9
+
+|SB|^2 = 25 \ |SB| 
+
+|SB| = r = 5
+
+4) Podstawiamy promień i środek okręgu do równania okręgu:
+
+o: (x-a)^2 + (y-b)^2 = r^2 \ S(1,-1) \ r=5
+
+o: (x-1)^2 + (y+1)^2 = 25
+
+Odp. o: (x-1)^2 + (y+1)^2 = 25.

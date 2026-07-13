@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+z1 (4.3)
+
+Wykres funkcji \( g \) otrzymano przesuwając wykres pewnej funkcji w postaci \( f(x) = \frac{s}{x} \) o wektor \(\vec{v}\). Wyznacz \( s \) oraz wektor \(\vec{v}\) jeśli: \( f(x) = \frac{-4x+1}{2x+1} \)
+
+① Przekształcamy \( f(x) \) w postać kanoniczną.
+
+\[
+f(x) = \frac{-4x+1}{2x+1} = -2 + \frac{x+\frac{1}{2}}{x+\frac{1}{2}} = -2 \left( x+\frac{1}{2} \right) + \frac{3}{2} = \frac{3}{2} \cdot \frac{1}{x+\frac{1}{2}} - 2
+\]
+
+② Odczytujemy wektor \(\vec{v}\).
+
+\[
+f(x) = \frac{s}{x} \quad \vec{v} = \left[-\frac{1}{2}, -2\right] \quad \Rightarrow \quad g(x) = \frac{\frac{3}{2}}{x+\frac{1}{2}} - 2
+\]
+
+Odp.: \( s = \frac{3}{2} \), \(\vec{v} = \left[-\frac{1}{2}, -2\right]\).

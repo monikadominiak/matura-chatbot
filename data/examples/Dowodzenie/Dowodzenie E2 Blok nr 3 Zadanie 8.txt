@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Udowodnij, że dla każdej liczby całkowitej \(k\) wyrażenie: \((k^2+1)(3k+8)(k-3)(k^2+4k)\) jest podzielne przez 5.
+
+\(k \in \mathbb{Z}\)
+
+teza: \((k^2+1)(3k+8)(k-3)(k^2+4k) = (k^2+1)(3k+8)(k-3)k(k+4)\) \( \rightarrow \) podzielne przez 5
+
+\(\bigcirc\) analizujemy wszystkie liczby całkowite \(k\), rozważamy przypadki przez wzgląd na podzielność przez 5
+
+\((k^2+1)(3k+8)(k-3)k(k+4)\), a \(\alpha \in \mathbb{Z}\)
+
+\(\underline{\text{I.}}\ k = 5\alpha\)
+
+\(k\ \text{podzielne przez} \ 5\)
+
+\(\underline{\text{II.}}\ k=5\alpha+1\)
+
+\(k+4 \Rightarrow 5\alpha+1+4 = 5(\alpha+1)\)
+
+\(\underline{\text{III.}}\ k=5\alpha+2\)
+
+\(k^2+1 \Rightarrow (5\alpha+2)^2 + 1 = 25\alpha^2 + 20\alpha + 4 + 1 =\)
+\(= 5(5\alpha^2 + 4\alpha + 1)\)
+
+\(\underline{\text{IV.}}\ k=5\alpha+3\)
+
+\(k-3 \Rightarrow 5\alpha+3-3 = 5\alpha\)
+
+\(\underline{\text{V.}}\ k=5\alpha+4\)
+
+\(3k+8 \Rightarrow 3(5\alpha+4)+8 =\)
+\(= 15\alpha+12+8=5(3\alpha+4)\)
+
+\(\bigcirc\) komentarz: w każdym przypadku znaleźliśmy czynnik, który da się zapisać jako iloczyn 5 i liczby \(\in \mathbb{Z}\), zatem całe wyrażenie jest podzielne przez 5 dla każdego \(k \in \mathbb{Z}\)
+
+c.k.d.

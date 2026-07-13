@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0-1)
+Liczba $sin~78^{circ}+sin~12^{circ}cdot cos~78^{circ}$ jest równa
+A. $frac{9}{2}$
+B. $frac{sqrt{2}}{2}$
+C. $frac{sqrt{3}}{2}$
+D. 1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

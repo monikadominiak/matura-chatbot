@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+**Zadanie z2 (7.5)** Naryskuj wykres funkcji f(x) = |x^2 - 4|, a następnie określ liczbę rozwiązań równania |x^2 - 4| = m w zależności od parametru m.
+
+1) Tworzymy wykres obu stron równania:
+
+Prosta y = m została narysowana poglądowo, na przykładowej wysokości. Należy się teraz zastanowić, jak od tej wysokości zależy liczba punktów przecięcia wykresu lewej strony równania z prostą y = m.
+
+Z rysunku można odczytać, że dla poszczególnych m mamy następującą liczbę rozwiązań (punktów przecięcia):
+
+Odp. 0 rozw. dla m < 0 ,
+
+2 rozw. dla m = 0 i (4, ∞⟩ ,
+
+3 rozw. dla m = 4 oraz
+
+4 rozw. dla m ∈ (0, 4) .
+
+Wskazówka: równania, gdzie trzeba analizować liczbę rozwiązań w zależności od parametru najczęściej rozwiązują się graficznie, rysując wykresy funkcji po lewej i prawej stronie równania (zrobilibyśmy tak nawet gdyby polecenie nie wymagało narysowania wykresu).
+
+Można tak robić, gdy wszystkie wyrażenia z niewiadomą są po jednej stronie równania, a wyrażenia z parametrem są po drugiej stronie.
+
+Po narysowaniu obu wykresów rozwiązania równania będą stanowić x-owe współrzędne punktów przecięcia obu wykresów.
+
+Ta strona równania, u której nie ma zmiennej x, a jest tylko parametr, będzie reprezentowana przez funkcję liniową stałą, czyli będzie to linia pozioma.

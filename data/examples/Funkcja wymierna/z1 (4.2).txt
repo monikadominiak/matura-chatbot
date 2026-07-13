@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+z1 (4.2)
+
+Wykonaj działania i podaj stosowne założenia.
+
+\(\frac{x^2+4x+4}{x^2+2x} \cdot \frac{x^2-2x}{x^2-4} \)
+
+① Obliczamy założenia.
+
+Robiąc założenia uwzględniamy fakt, że mianownik musi być różny od zera.
+
+Założenia:
+
+\(x^2+2x \neq 0\) \quad \(x^2-4 \neq 0\)
+
+\(x(x+2) \neq 0\) \quad \(x^2 \neq 4\)
+
+\(x \neq 0\) \quad \(x+2 \neq 0\) \quad \(x \neq 2\) \quad \(x \neq -2\)
+
+Ostatecznie: \(x \in \mathbb{R} \backslash \{ -2, 0, 2 \} \)
+
+② Wykonujemy działania.
+
+Wykonując działania postępujemy identycznie jak w przypadku mnożenia zwykłych ułamków (liczbowych). Staramy się także "szukać" elementów skracających się, wykorzystując wzory skróconego mnożenia i wyłączanie przed nawias.
+
+\(\frac{x^2+4x+4}{x^2+2x} \cdot \frac{x^2-2x}{x^2-4} = \frac{(x+2)^2}{x(x+2)} \cdot \frac{x(x-2)}{(x-2)(x+2)} = 1 \)
+
+Odp.: założenia: \(x \in \mathbb{R} \backslash \{ -2, 0, 2 \} \), wynik działania: 1.

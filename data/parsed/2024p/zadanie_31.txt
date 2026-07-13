@@ -1,0 +1,37 @@
+=== ARKUSZ: 2024p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0–4)
+W schronisku dla zwierząt, na płaskiej powierzchni, należy zbudować ogrodzenie z siatki wydzielające trzy identyczne wybiegi o wspólnych ścianach wewnętrznych.
+Podstawą każdego z tych trzech wybiegów jest prostokąt (jak pokazano na rysunku).
+Do wykonania tego ogrodzenia należy zużyć 36 metrów bieżących siatki.
+
+Schematyczny rysunek trzech wybiegów (widok z góry).
+Linią przerywaną zaznaczono siatkę.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Oblicz wymiary x oraz y jednego wybiegu, przy których suma pól podstaw tych trzech wybiegów będzie największa. W obliczeniach pomiń szerokość wejścia na każdy z wybiegów. Zapisz obliczenia.
+
+
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+
+CK CENTRALNA KOMISJA EGZAMINACYJNA Rodzaj dokumentu:
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

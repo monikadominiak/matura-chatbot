@@ -1,0 +1,33 @@
+=== ARKUSZ: 2025p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0–4)
+Funkcja f jest określona następująco:
+
+f(x) = {
+  x + 5       dla x ∈ [−4, −2]
+  3           dla x ∈ (−2, 2]
+  −3x + 9     dla x ∈ (2, 4)
+}
+
+Wykres funkcji y = f(x) przedstawiono w kartezjańskim układzie współrzędnych (x, y)
+na rysunku poniżej.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+
+1. Dziedziną funkcji f jest przedział …………………… .
+2. Zbiorem wartości funkcji f jest przedział …………………… .
+3. Zbiorem wszystkich argumentów, dla których funkcja f przyjmuje wartości dodatnie, jest
+   przedział …………………… .
+4. Zbiorem wszystkich rozwiązań równania f(x) = 3 jest przedział …………………… .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

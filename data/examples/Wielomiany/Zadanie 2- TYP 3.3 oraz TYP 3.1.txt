@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Zadanie 2 [2pkt] - TYP 3.3 oraz TYP 3.1
+Rozłóż wielomian na czynniki możliwie najniższego stopnia.
+W(x)=3x^4 + 2x^3 - 19x^2 + 6x
+
+w(x) = x(3x^3 + 2x^2 - 19x + 6)
+
+Korystamy z twierdzeń:
+
+1) twierdzenie o pierwiastkach całkowitych - jeżeli wielomian o współczynnikach całkowitych ma pierwiastek całkowity to jest on dzielnikiem wyrazu wolnego
+
+2) twierdzenie o pierwiastkach wymiernych - jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, to ten pierwiastek musi być w postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze x zmiennej.
+
+1) Wyznaczenie potencjalnych pierwiastków wielomianu i wyznaczenie tego właściwego.
+{+-1, +-2, +-3, +-6, +-1/3, +-2/3, ...}
+
+w(1) = 1(3 + 2 - 19 + 6) = -8 ≠ 0
+
+w(2) = 2 (24 + 8 - 38 + 6) = 0
+
+2) dzielimy wielomian przez dwumian (x-2) - schemat Hornera (można też w słupku).
+```
+     ________________________
+2   |   3   |   2   | -19 |   6
+    |       |       |     |
+    |       |   6   |  16 |  -6
+    ------------------------
+    |  3    |   8   |  -3 |   =
+```
+
+w(x) = 3x(x-2)(3x^2 + 8x - 3)
+
+Δ = b^2 - 4ac
+x_1 = (-b - √Δ) / 2a
+x_2 = (-b + √Δ) / 2a
+
+Δ = 64 + 36 = 100
+√Δ = 10
+
+x_1 = (-8 - 10) / 6 = -3
+x_2 = (-8 + 10) / 6 = 1/3
+
+w(x) = 3x(x-2)(x+3)(x-1/3)
+
+Odp: w(x) = 3x(x-2)(x+3)(x-1/3).

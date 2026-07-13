@@ -1,0 +1,591 @@
+Matura próbna podstawowa - grudzień 2014 - arkusz oraz klucz odpowiedzi:
+
+Zadanie 1. (0-1)
+Liczba 0,6 jest jednym z przybliżeń liczby 5/8. Błąd względny tego przybliżenia, wyrażony w procentach, jest równy
+A. 0,025%
+B. 2,5%
+C. 0,04%
+D. 4%
+Zadanie 2. (0-1)
+Dany jest okrąg o środku S=(-6,-8) i promieniu 2014. Obrazem tego okręgu w symetrii osiowej względem osi Oy jest okrąg o środku w punkcie S1. Odległość między punktami S i S1 jest równa
+A. 12
+B. 16
+C. 2014
+D. 4028
+Zadanie 3. (0-1)
+Rozwiązaniami równania (x^3-8)(x-5)(2x+1)=0 są liczby
+A. 8; 5; 1
+B. -1; 5; 8
+C. -1/2; 2; 5
+D. -1/2; 5; 8
+Zadanie 4. (0-1)
+Cena towaru została podwyższona o 30%, a po pewnym czasie nową, wyższą cenę ponownie podwyższono, tym razem o 10%. W rezultacie obu podwyżek wyjściowa cena towaru zwiększyła się o
+A. 15%
+B. 20%
+C. 40%
+D. 43%
+Zadanie 5. (0-1)
+Dane są dwie funkcje określone dla wszystkich liczb rzeczywistych x wzorami f(x)=-5x+1 oraz g(x)=5^x. Liczba punktów wspólnych wykresów tych funkcji jest równa
+A. 3
+B. 2
+C. 1
+D. 0
+Zadanie 6. (0-1)
+Wyrażenie (3x+1+y)^2 jest równe
+A. 3x^2+y^2+1
+B. 9x^2+6x+y^2+1
+C. 3x^2+y^2+6xy+6x+1
+D. 9x^2+y^2+6xy+6x+2y+1
+Zadanie 7. (0-1)
+Połowa sumy 4^28+4^28+4^28+4^28 jest równa
+A. 2^30
+B. 2^57
+C. 2^63
+D. 2^112
+Zadanie 8. (0-1)
+Równania y=-3/4x+5/4 oraz y=-4/3 opisują dwie proste
+A. przecinające się pod kątem o mierze 90°.
+B. pokrywające się.
+C. przecinające się pod kątem różnym od 90°.
+D. równoległe i różne.
+Zadanie 9. (0-1)
+Na płaszczyźnie dane są punkty: A=(pierwiastek z 2, pierwiastek z 6), B=(0,0) i C=(pierwiastek z 2, 0). Kąt BAC jest równy
+A. 30°
+B. 45°
+C. 60°
+D. 75°
+Zadanie 10. (0-1)
+Funkcja f, określona dla wszystkich liczb całkowitych dodatnich, przyporządkowuje liczbie x ostatnią cyfrę jej kwadratu. Zbiór wartości funkcji zawiera dokładnie
+A. 5 elementów.
+B. 6 elementów.
+C. 9 elementów.
+D. 10 elementów.
+Zadanie 11. (0-1)
+Ekipa złożona z 25 pracowników wymieniła tory kolejowe na pewnym odcinku w ciągu 156 dni. Jeśli wymianę torów kolejowych na kolejnym odcinku o tej samej długości trzeba przeprowadzić w ciągu 100 dni, to, przy założeniu takiej samej wydajności, należy zatrudnić do pracy o
+A. 14 osób więcej.
+B. 17 osób więcej.
+C. 25 osób więcej.
+D. 39 osób więcej.
+Zadanie 12. (0-1)
+Z sześcianu ABCDEFGH o krawędzi długości a odcięto ostrosłup ABDE (zobacz rysunek). Zadanie zawiera obrazek ważny dla rozwiązania. Ile razy objętość tego ostrosłupa jest mniejsza od objętości pozostałej części sześcianu?
+A. 2 razy.
+B. 3 razy.
+C. 4 razy.
+D. 5 razy.
+Zadanie 13. (0-1)
+W układzie współrzędnych narysowano część paraboli o wierzchołku w punkcie A=(2,4), która jest wykresem funkcji kwadratowej f. Zadanie zawiera obrazek ważny dla rozwiązania. Funkcja f może być opisana wzorem
+A. f(x)=(x-2)^2+4
+B. f(x)=(x+2)^2+4
+C. f(x)=-(x-2)^2+4
+D. f(x)=-(x+2)^2+4
+Zadanie 14. (0-1)
+Punkty A=(-6-2pierwiastek z 2, 4-2pierwiastek z 2), B=(2+4pierwiastek z 2, -6pierwiastek z 2), C=(2+6pierwiastek z 2, 6-2pierwiastek z 2) są kolejnymi wierzchołkami równoległoboku ABCD. Przekątne tego równoległoboku przecinają się w punkcie
+A. S=(-1+4pierwiastek z 2, 5-5pierwiastek z 2)
+B. S=(-2+pierwiastek z 2, 2-4pierwiastek z 2) C. S=(2+5pierwiastek z 2, 3-4pierwiastek z 2) D. S=(-2+2pierwiastek z 2, 5-2*pierwiastek z 2)
+Zadanie 15. (0-1)
+Liczba sin 150° jest równa liczbie
+A. cos 60
+B. cos 120
+C. tg 120
+D. tg 60
+Zadanie 16. (0-1)
+Na ścianie kamienicy zaprojektowano mural utworzony z szeregu trójkątów równobocznych różnej wielkości. Najmniejszy trójkąt ma bok długości 1 m, a bok każdego z następnych trójkątów jest o 10 cm dłuższy niż bok poprzedzającego go trójkąta. Ostatni trójkąt ma bok długości 5,9 m. Ile trójkątów przedstawia mural?
+A. 49
+B. 50
+C. 59
+D. 60
+Zadanie 17. (0-1)
+Dany jest trójkąt równoramienny, w którym ramię o długości 20 tworzy z podstawą kąt 67,5°. Pole tego trójkąta jest równe
+A. 100pierwiastek z 3 B. 100pierwiastek z 2
+C. 200pierwiastek z 3 D. 200pierwiastek z 2
+Zadanie 18. (0-1)
+Na rysunkach poniżej przedstawiono siatki dwóch ostrosłupów. Zadanie zawiera obrazek ważny dla rozwiązania. Pole powierzchni całkowitej ostrosłupa o krawędzi a jest dwa razy większe od pola powierzchni całkowitej ostrosłupa o krawędzi b. Ile razy objętość ostrosłupa o krawędzi a jest większa od objętości ostrosłupa o krawędzi b?
+A. pierwiastek z 2
+B. 2
+C. 2*pierwiastek z 2
+D. 4
+Zadanie 19. (0-1)
+Na okręgu o środku S leżą punkty A, B, C i D. Odcinek AB jest średnicą tego okręgu. Kąt między tą średnicą a cięciwą AC jest równy 21° (zobacz rysunek). Zadanie zawiera obrazek ważny dla rozwiązania. Kąt alfa między cięciwami AD i CD jest równy
+A. 21°
+B. 42°
+C. 48°
+D. 69°
+Zadanie 20. (0-1)
+Średnia arytmetyczna zestawu danych: 3, 8, 3, 11, 3, 10, 3, x jest równa 6. Mediana tego zestawu jest równa
+A. 5
+B. 6
+C. 7
+D. 8
+Zadanie 21. (0–1)
+Dany jest ciąg geometryczny, w którym a1, a2, a3. Dziesiąty wyraz tego ciągu, czyli a10, jest równy
+A.
+B.
+C.
+D.
+Zadanie 22. (0–1)
+Ciąg jest określony wzorem an dla n &gt;= 1. Liczba wszystkich całkowitych nieujemnych wyrazów tego ciągu jest równa
+A. 7
+B. 6
+C. 5
+D. 4
+Zadanie 23. (0–1)
+Rzucamy sześć razy symetryczną sześcienną kostką do gry. Niech pi oznacza prawdopodobieństwo wyrzucenia i oczek w i-tym rzucie. Wtedy
+A.
+B.
+C.
+D.
+Zadanie 24. (0–1)
+Wskaż liczbę, która spełnia równanie.
+A.
+B.
+C.
+D.
+Zadanie 25. (0–2)
+Rozwiąż nierówność: 2x^2-4x+2&lt;=0.
+Zadanie 26. (0–2)
+Uzasadnij, że żadna liczba całkowita nie jest rozwiązaniem równania x/(x-1) = x/(x+1).
+Zadanie 27. (0–2)
+Czas połowicznego rozpadu pierwiastka to okres, jaki jest potrzebny, by ze 100% pierwiastka pozostało 50% tego pierwiastka. Oznacza to, że ilość pierwiastka pozostała z każdego grama pierwiastka po x okresach rozpadu połowicznego wyraża się wzorem y = (1/2)^x. W przypadku izotopu jodu 131I czas połowicznego rozpadu jest równy 8 dni. Wyznacz najmniejszą liczbę dni, po upływie których pozostanie z 1 g 131I nie więcej niż 0,125 g tego pierwiastka.
+Zadanie 28. (0–2)
+Uzasadnij, że jeżeli liczba całkowita nie dzieli się przez 3, to jej kwadrat przy dzieleniu przez 3 daje resztę 1.
+Zadanie 29. (0–2)
+Wartość prędkości średniej obliczamy jako iloraz drogi i czasu, w którym ta droga została przebyta. Samochód przejechał z miejscowości A do miejscowości C przez miejscowość B, która znajduje się w połowie drogi z A do C. Wartość prędkości średniej samochodu na trasie z A do B była równa 40 km/h, a na trasie z B do C – 60 km/h. Oblicz wartość prędkości średniej samochodu na całej trasie z A do C.
+Zadanie 30. (0–4)
+Zakupiono 16 biletów do teatru, w tym 10 biletów na miejsca od 1. do 10. w pierwszym rzędzie i 6 biletów na miejsca od 11. do 16. w szesnastym rzędzie. Jakie jest prawdopodobieństwo zdarzenia polegającego na tym, że 2 wylosowane bilety, spośród szesnastu, będą biletami na sąsiadujące miejsca?
+Zadanie 31. (0–4)
+W trapezie ABCD przekątne AC i BD przecinają się w punkcie O takim, że |AO| / |OC| = 3. Pole trójkąta AOD jest równe 10. Uzasadnij, że pole trapezu ABCD jest równe 72.
+Zadanie 32. (0–4)
+Punkty A=(-2, -1) i B=(6, 3) są wierzchołkami trójkąta ABC, a punkt M=(1, 3) jest środkiem boku AC. Oblicz współrzędne punktu przecięcia prostej AB z wysokością tego trójkąta, poprowadzoną z wierzchołka C.
+Zadanie 33. (0–4)
+Tworząca stożka ma długość 17, a wysokość stożka jest krótsza od średnicy jego podstawy o 22. Oblicz pole powierzchni całkowitej i objętość tego stożka.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+CK CENTRALNA KOMISJA EGZAMINACYJNA
+EGZAMIN MATURALNY OD ROKU SZKOLNEGO 2014/2015
+MATEMATYKA POZIOM PODSTAWOWY
+ROZWIĄZANIA ZADAŃ I SCHEMATY PUNKTOWANIA (A1, A2, A3, A4, A6, A7)
+GRUDZIEŃ 2014
+
+Klucz odpowiedzi do zadań zamkniętych
+Nr zadania: 1, Odpowiedź: D
+Nr zadania: 2, Odpowiedź: A
+Nr zadania: 3, Odpowiedź: C
+Nr zadania: 4, Odpowiedź: D
+Nr zadania: 5, Odpowiedź: C
+Nr zadania: 6, Odpowiedź: D
+Nr zadania: 7, Odpowiedź: B
+Nr zadania: 8, Odpowiedź: C
+Nr zadania: 9, Odpowiedź: A
+Nr zadania: 10, Odpowiedź: B
+Nr zadania: 11, Odpowiedź: A
+Nr zadania: 12, Odpowiedź: D
+Nr zadania: 13, Odpowiedź: C
+Nr zadania: 14, Odpowiedź: D
+Nr zadania: 15, Odpowiedź: A
+Nr zadania: 16, Odpowiedź: B
+Nr zadania: 17, Odpowiedź: B
+Nr zadania: 18, Odpowiedź: C
+Nr zadania: 19, Odpowiedź: D
+Nr zadania: 20, Odpowiedź: A
+Nr zadania: 21, Odpowiedź: A
+Nr zadania: 22, Odpowiedź: C
+Nr zadania: 23, Odpowiedź: B
+Nr zadania: 24, Odpowiedź: D
+
+Zadanie 1. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1.7. Zdający oblicza błąd bezwzględny i błąd względny przybliżenia.
+Poprawna odpowiedź: D
+
+Zadanie 2. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 8.7. Zdający znajduje obrazy niektórych figur geometrycznych (punktu, prostej, odcinka, okręgu, trójkąta itp.) w symetrii osiowej względem osi układu współrzędnych i symetrii środkowej względem początku układu.
+Poprawna odpowiedź: A
+
+Zadanie 3. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 3.7., 3.6. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu (x(x+1)(x-7)=0); korzysta z definicji pierwiastka do rozwiązywania równań typu (x^3=-8).
+Poprawna odpowiedź: C
+
+Zadanie 4. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 1.9. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysku z lokat (również złożonych na procent składany i na okres krótszy niż rok).
+Poprawna odpowiedź: D
+
+Zadanie 5. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 4.5., 4.14. Zdający rysuje wykres funkcji liniowej, korzystając z jej wzoru; szkicuje wykresy funkcji wykładniczych dla różnych podstaw.
+Poprawna odpowiedź: C
+
+Zadanie 6. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 2.1. Zdający używa wzorów skróconego mnożenia na ((apm b)^2) oraz (a^2-b^2).
+Poprawna odpowiedź: D
+
+Zadanie 7. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1.4. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych.
+Poprawna odpowiedź: B
+
+Zadanie 8. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 3.2. Zdający wykorzystuje interpretację geometryczną układu równań pierwszego stopnia z dwiema niewiadomymi.
+Poprawna odpowiedź: C
+
+Zadanie 9. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 6.1, 6.3. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od 0 do 180; oblicza miarę kąta ostrego, dla której funkcja trygonometryczna przyjmuje daną wartość (miarę dokładną albo - korzystając z tablic lub kalkulatora - przybliżoną).
+Poprawna odpowiedź: A
+
+Zadanie 10. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 4.1. Zdający określa funkcje za pomocą wzoru, tabeli, wykresu, opisu słownego.
+Poprawna odpowiedź: B
+
+Zadanie 11. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 4.13. Zdający szkicuje wykres funkcji (f(x)=frac{a}{x}) dla danego a, korzysta ze wzoru i wykresu tej funkcji do interpretacji zagadnień związanych z wielkościami odwrotnie proporcjonalnymi.
+Poprawna odpowiedź: A
+
+Zadanie 12. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: G11.2. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego, ostrosłupa, walca, stożka, kuli (także w zadaniach osadzonych w kontekście praktycznym).
+Poprawna odpowiedź: D
+
+Zadanie 13. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 4.9. Zdający wyznacza wzór funkcji kwadratowej na podstawie pewnych informacji o tej funkcji lub o jej wykresie.
+Poprawna odpowiedź: C
+
+Zadanie 14. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 8.5. Zdający wyznacza współrzędne środka odcinka.
+Poprawna odpowiedź: D
+
+Zadanie 15. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 6.1. Zdający wykorzystanie definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od 0 do 180.
+Poprawna odpowiedź: A
+
+Zadanie 16. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5.3. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego.
+Poprawna odpowiedź: B
+
+Zadanie 17. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 7.4. Zdający korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych, w tym ze wzoru na pole trójkąta ostrokątnego o danych dwóch bokach i kącie między nimi.
+Poprawna odpowiedź: B
+
+Zadanie 18. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 7.3. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów.
+Poprawna odpowiedź: C
+
+Zadanie 19. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 7.1. Zdający stosuje zależności między kątem środkowym i kątem wpisanym.
+Poprawna odpowiedź: D
+
+Zadanie 20. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: G9.4. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych.
+Poprawna odpowiedź: A
+
+Zadanie 21. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 5.4. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego.
+Poprawna odpowiedź: A
+
+Zadanie 22. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 5.1. Zdający wyznacza wyrazy ciągu określonego wzorem ogólnym.
+Poprawna odpowiedź: C
+
+Zadanie 23. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 10.3. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa.
+Poprawna odpowiedź: B
+
+Zadanie 24. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1.6. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Poprawna odpowiedź: D
+
+Zadanie 25. (0-2)
+Rozwiąż nierówność: (-x^2-4x+21&lt;0).
+Wymagania: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 3.5. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą.
+
+Rozwiązanie
+Obliczamy miejsca zerowe funkcji kwadratowej (f(x)=-x^2-4x+21).
+(Delta=(-4)^2-4cdot(-1)cdot 21=16+84=100)
+(sqrt{Delta}=10)
+(x_1=frac{4-10}{-2}=3) oraz (x_2=frac{4+10}{-2}=-7)
+lub zapisujemy nierówność w postaci (-(x-3)(x+7)&lt;0).
+Szkicujemy fragment wykresu funkcji kwadratowej f i na jego podstawie odczytujemy rozwiązanie nierówności
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Odpowiedź: (xin(-infty,-7)cup(3,+infty))
+
+Schemat oceniania
+Zdający otrzymuje 1 pkt
+jeżeli:
+- prawidłowo obliczy pierwiastki trójmianu kwadratowego (x_1=3) oraz (x_2=-7) i na tym poprzestanie lub dalej popełni błędy
+albo
+- rozłoży trójmian kwadratowy (-x^2-4x+21) na czynniki liniowe i zapisze nierówność (-(x-3)(x+7)&lt;0) i na tym poprzestanie lub dalej popełni błędy
+albo
+- popełni błąd rachunkowy przy obliczaniu pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże nierówność
+np. (x_1=frac{4-2sqrt{17}}{-2}=-2+sqrt{17}) oraz (x_2=frac{4+2sqrt{17}}{-2}=-2-sqrt{17}), czyli (xin(-infty,-2-sqrt{17})cup(-2+sqrt{17},+infty))
+
+Zdający otrzymuje 2 pkt
+jeżeli:
+- poda zbiór rozwiązań nierówności w postaci: ((-infty,-7)cup(3,+infty)) lub (xin(-infty,-7)cup(3,+infty)) lub (x3)
+albo
+- poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów:
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uwaga:
+Akceptujemy zapis: (x3).
+
+Zadanie 26. (0-2)
+Uzasadnij, że żadna liczba całkowita nie jest rozwiązaniem równania (frac{2x+4}{x-2}=2x+1).
+Wymagania: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 3.8. Zdający rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych, np. (frac{x+1}{x+3}=2), (frac{x+1}{x}=2x).
+
+I sposób rozwiązania:
+Zauważamy, że (xne 2).
+Mnożymy obie strony równania przez (x-2) i przekształcamy równanie do postaci równania kwadratowego, np. (2x^2-5x-6=0).
+Obliczamy wyróżnik trójmianu kwadratowego, znajdującego się po lewej stronie równania.
+(Delta=25+48=73)
+Zauważamy, że (sqrt{Delta}=sqrt{73}) jest liczbą niewymierną.
+Stwierdzamy, że jeżeli z jednej strony równania występuje trójmian kwadratowy o współczynnikach całkowitych, a z drugiej strony równania liczba zero i (sqrt{Delta}) tego trójmianu kwadratowego jest liczbą niewymierną, to równanie nie ma rozwiązań w zbiorze liczb całkowitych.
+
+II sposób rozwiązania:
+Zauważamy, że (xne 2).
+Przenosimy wyrażenie z prawej strony równania na lewą i przekształcamy lewą stronę równania do postaci ilorazu.
+Otrzymujemy (frac{-2x^2+5x+6}{x-2}=0)
+Mnożymy obie strony równania przez (x-2) i otrzymujemy (-2x^2+5x+6=0)
+Obliczamy miejsca zerowe funkcji kwadratowej (f(x)=-2x^2+5x+6).
+(Delta=5^2-4cdot(-2)cdot 6=25+48=73)
+(sqrt{Delta}=sqrt{73})
+(x_1=frac{-5-sqrt{73}}{-4}=frac{5+sqrt{73}}{4}) oraz
+(x_2=frac{-5+sqrt{73}}{-4}=frac{5-sqrt{73}}{4})
+Zauważamy, że rozwiązania są liczbami niewymiernymi.
+Stwierdzamy, że żadna liczba całkowita nie jest rozwiązaniem równania.
+
+Schemat oceniania
+Zdający otrzymuje 1 pkt
+jeżeli doprowadzi równanie do postaci (ax^2+bx+c=0), np. (2x^2-5x-6=0), i obliczy wyróżnik trójmianu kwadratowego (ax^2+bx+c), np. (Delta=73)
+Zdający otrzymuje 2 pkt
+jeżeli poprawnie uzasadni, że równanie (frac{2x+4}{x-2}=2x+1) nie ma rozwiązań w zbiorze liczb całkowitych, np. przez wyznaczenie wszystkich rozwiązań równania i zauważenie, że żadne z rozwiązań nie jest liczbą całkowitą.
+
+Zadanie 27. (0-2)
+Czas połowicznego rozpadu pierwiastka to okres, jaki jest potrzebny, by ze 100% pierwiastka pozostało 50% tego pierwiastka. Oznacza to, że ilość pierwiastka pozostała z każdego grama pierwiastka po x okresach rozpadu połowicznego wyraża się wzorem (y=left(frac{1}{2}right)^x). W przypadku izotopu jodu (^{131}text{I}) czas połowicznego rozpadu jest równy 8 dni. Wyznacz najmniejszą liczbę dni, po upływie których pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+Uwaga:
+W arkuszach A6, A7 polecenie do zadania ma inne brzmienie: Wyznacz najmniejszą liczbę dni, po upływie których pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+Wymagania: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 4.15. Zdający posługuje się funkcjami wykładniczymi do opisu zjawisk fizycznych, chemicznych, a także w zagadnieniach osadzonych w kontekście praktycznym.
+
+I sposób rozwiązania:
+Stwierdzamy, że po 8 dniach (czyli po pierwszym okresie połowicznego rozpadu) pozostanie:
+(y(1)=left(frac{1}{2}right)^1=frac{1}{2}=0,5) (g) pierwiastka.
+I dalej, po 16 dniach (czyli po drugim okresie połowicznego rozpadu) pozostanie
+(y(2)=left(frac{1}{2}right)^2=frac{1}{4}=0,25) (g) pierwiastka.
+Z kolei po 24 dniach (czyli po trzecim okresie połowicznego rozpadu) pozostanie
+(y(3)=left(frac{1}{2}right)^3=frac{1}{8}=0,125) (g) pierwiastka.
+Odpowiedź: Po 24 dniach pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+II sposób rozwiązania:
+Ustalamy po ilu okresach rozpadu połowicznego pozostanie 0,125 g pierwiastka.
+Rozwiązujemy nierówność
+(left(frac{1}{2}right)^x le 0,125) (lub (left(frac{1}{2}right)^x &lt; 0,125))
+(left(frac{1}{2}right)^x le left(frac{1}{2}right)^3) (lub (left(frac{1}{2}right)^x  3)).
+Potrzebne są 3 okresy połowicznego rozpadu, czyli (3cdot 8=24) dni.
+Odpowiedź: Po 24 dniach pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+III sposób rozwiązania:
+Szkicujemy wykres funkcji (y=left(frac{1}{2}right)^x)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Z wykresu odczytujemy, że (left(frac{1}{2}right)^x le 0,125), gdy (x ge 3) (lub że (left(frac{1}{2}right)^x  3)).
+Najmniejszą potrzebną liczbą okresów rozpadu połowicznego jest: 3, zatem najmniejszą szukaną liczbą dni jest: (3cdot 8=24).
+Odpowiedź: Po 24 dniach pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+Schemat oceniania
+Zdający otrzymuje 1 pkt
+jeżeli poprawnie ustali ilość pierwiastka, jaka pozostanie po upływie 16 dni i na tym poprzestanie lub dalej popełni błędy
+albo
+gdy poprawnie ustali liczbę okresów rozpadu połowicznego, po których pozostanie 0,125 g pierwiastka i na tym poprzestanie lub dalej popełni błędy
+albo
+gdy zapisze nierówność
+(left(frac{1}{2}right)^x le left(frac{1}{2}right)^3) (lub (left(frac{1}{2}right)^x le frac{1}{2^3}) lub (left(frac{1}{2}right)^x le frac{1}{8}) lub (left(frac{1}{2}right)^x &lt; left(frac{1}{2}right)^3) lub (left(frac{1}{2}right)^x &lt; frac{1}{2^3}) lub (left(frac{1}{2}right)^x 1), to otrzymuje za całe rozwiązanie 0 punktów.
+
+Zadanie 31. (0-4)
+W trapezie ABCD ((AB parallel CD)) przekątne AC i BD przecinają się w punkcie O takim, że (|AO|:|OC|=5:1). Pole trójkąta AOD jest równe 10. Uzasadnij, że pole trapezu ABCD jest równe 72.
+Wymagania: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 7.3., SP11.2. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów, oblicza pola: kwadratu, prostokąta, rombu, równoległoboku, trójkąta, trapezu przedstawionych na rysunku (w tym na własnym rysunku pomocniczym) oraz w sytuacjach praktycznych.
+
+I sposób rozwiązania:
+Trójkąty ABO i CDO są podobne (na podstawie cechy kk).
+Jeżeli (|CO|=x), to (|AO|=5x), ponadto (|AB|=5|CD|).
+Jeżeli wysokość w trójkącie CDO opuszczona na bok CD jest równa h, to wysokość w trójkącie ABO opuszczona na bok AB jest równa 5h.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku oznaczono: Trapez ABCD z przekątnymi przecinającymi się w punkcie O, odcinki CO=x, AO=5x, wysokości h, 5h.
+
+Możemy zapisać dwa wzory opisujące pole trójkąta ACD.
+- (P_{Delta ACD}=P_{Delta AOD}+P_{Delta CDO}=10+P_{Delta CDO})
+- (P_{Delta ACD}=frac{1}{2}cdot |CD|cdot(h+5h)=3cdot |CD|cdot h=6cdotfrac{1}{2}cdot |CD|cdot h=6P_{Delta CDO})
+
+Możemy zatem zapisać równość:
+(6P_{Delta CDO}=10+P_{Delta CDO})
+Wobec tego: (5P_{Delta CDO}=10.)
+(P_{Delta CDO}=2)
+
+Możemy wyznaczyć pole trójkąta ACD: (P_{Delta ACD}=10+P_{Delta CDO}=10+2=12).
+Obliczmy pole trójkąta ABC.
+(P_{Delta ABC}=frac{1}{2}cdot |AB|cdot(h+5h)=3cdot |AB|cdot h=3cdot 5cdot |CD|cdot h=30cdotfrac{1}{2}cdot |CD|cdot h=30P_{Delta CDO}=60)
+Obliczamy pole trapezu ABCD.
+(P_{ABCD}=P_{Delta ACD}+P_{Delta ABC}=12+60=72)
+Zatem wykazaliśmy, że pole trapezu ABCD jest równe 72.
+
+II sposób rozwiązania:
+Trójkąty ABO i CDO są podobne (na podstawie cechy kk).
+Jeżeli (|CO|=x), to (|AO|=5x), ponadto (|AB|=5|CD|).
+Jeżeli wysokość w trójkącie CDO opuszczona na bok CD jest równa h, to wysokość w trójkącie ABO opuszczona na bok AB jest równa 5h.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Możemy zapisać dwa wzory opisujące pole trójkąta ABD.
+(P_{Delta ABD}=P_{Delta AOD}+P_{Delta ABO}=10+P_{Delta ABO}=10+frac{5}{2}cdot |AB|cdot h)
+(P_{Delta ABD}=frac{1}{2}cdot |AB|cdot(h+5h)=3cdot |AB|cdot h)
+
+Możemy zatem zapisać równość:
+(3cdot |AB|cdot h=10+frac{5}{2}cdot |AB|cdot h)
+Wobec tego: (0,5cdot |AB|cdot h=10.)
+(|AB|cdot h=20)
+
+Możemy wyznaczyć pole trójkąta ABD: (P_{Delta ABD}=3cdot |AB|cdot h=3cdot 20=60)
+Obliczmy pole trójkąta BCD.
+(P_{Delta BCD}=frac{1}{2}cdot |CD|cdot(h+5h)=frac{1}{2}cdotfrac{1}{5}cdot |AB|cdot 6h=0,6cdot |AB|cdot h=0,6cdot 20=12)
+
+Obliczamy pole trapezu ABCD.
+(P_{ABCD}=P_{Delta ABD}+P_{Delta BCD}=60+12=72)
+Zatem wykazaliśmy, że pole trapezu ABCD jest równe 72.
+
+Schemat oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania - 1 pkt
+albo
+- Zapisanie pola trójkąta ACD w zależności od pola trójkąta CDO oraz w zależności od boku CD
+- Zapisanie pola trójkąta ABD w zależności od pola trójkąta ADO oraz w zależności od boku AB.
+
+Rozwiązanie, w którym jest istotny postęp - 2 pkt
+- Obliczenie pola trójkąta CDO
+albo
+- Obliczenie pola trójkąta ABD.
+
+Pokonanie zasadniczych trudności zadania - 3 pkt
+- Zapisanie zależności między polem trójkąta ABC a jedną z podstaw trapezu i wysokością trapezu
+albo
+- Zapisanie zależności między polem trójkąta BCD a jedną z podstaw trapezu i wysokością trapezu,
+albo
+- Zapisanie zależności między polami trójkątów ABO i CDO oraz uzasadnienie, że pole trójkąta BCO jest równe 10.
+
+Rozwiązanie pełne - 4 pkt
+Przedstawienie poprawnego uzasadnienia, że pole trapezu ABCD jest równe 72.
+
+Zadanie 32. (0-4)
+Punkty (A=(3,3)) i (B=(9,1)) są wierzchołkami trójkąta ABC, a punkt (M=(1,6)) jest środkiem boku AC. Oblicz współrzędne punktu przecięcia prostej AB z wysokością tego trójkąta, poprowadzoną z wierzchołka C.
+Wymagania: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 8.1., 8.5., 8.3., 8.4. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (w postaci kierunkowej lub ogólnej), wyznacza współrzędne środka odcinka, wyznacza równanie prostej, która jest równoległa lub prostopadła do prostej danej w postaci kierunkowej i przechodzi przez dany punkt, oblicza współrzędne punktu przecięcia dwóch prostych.
+
+Rozwiązanie:
+Wyznaczymy współrzędne punktu (C=(k,l)).
+Współrzędne punktu M muszą być średnimi arytmetycznymi współrzędnych punktów A i C.
+Zatem odpowiednio: (1=frac{3+k}{2}) i (6=frac{3+l}{2}).
+Obliczamy k i l.
+(k=-1)
+(l=9)
+Wyznaczymy równanie prostej AB.
+Współrzędne punktów A i B muszą spełniać równanie tej prostej: (y=ax+b).
+[begin{cases} 3=3a+b  1=9a+b end{cases}]
+Obliczamy a i b.
+(a=-frac{1}{3})
+(b=4)
+Prosta AB ma równanie
+(y=-frac{1}{3}x+4)
+Wyznaczymy równanie prostej prostopadłej do prostej AB, przechodzącej przez punkt C.
+Prosta ta musi mieć równanie postaci (y=3x+d).
+Punkt C należy do tej prostej, zatem: (9=-3+d).
+(d=12)
+Szukane równanie prostej ma postać: (y=3x+12).
+Wyznaczymy współrzędne punktu wspólnego dla tej prostej i prostej AB, gdyż jest to punkt przecięcia prostej AB i wysokości trójkąta poprowadzonej z wierzchołka C.
+Wystarczy rozwiązać układ równań
+[begin{cases} y=3x+12  y=-frac{1}{3}x+4 end{cases}]
+Szukane współrzędne mają wartości (x=-2,4) i (y=4,8).
+
+Schemat oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania - 1 pkt
+albo
+- Wyznaczenie współrzędnych punktu C: (C=(-1,9))
+- Wyznaczenie równania prostej AB: (y=-frac{1}{3}x+4)
+
+Rozwiązanie, w którym jest istotny postęp - 2 pkt
+Wyznaczenie:
+- współrzędnych punktu C: (C=(-1,9))
+oraz równania prostej AB: (y=-frac{1}{3}x+4.)
+
+Pokonanie zasadniczych trudności zadania - 3 pkt
+Wyznaczenie równania prostej prostopadłej do prostej AB, przechodzącej przez punkt C: (y=3x+12).
+
+Rozwiązanie pełne - 4 pkt
+Obliczenie współrzędnych punktu przecięcia prostej AB z wysokością trójkąta ABC poprowadzoną z wierzchołka C.
+
+Zadanie 33. (0-4)
+Tworząca stożka ma długość 17, a wysokość stożka jest krótsza od średnicy jego podstawy o 22. Oblicz pole powierzchni całkowitej i objętość tego stożka.
+Wymagania: V. Rozumowanie i argumentacja
+Wymagania szczegółowe: 3.4., G11.2. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą, oblicza pole powierzchni i objętość graniastosłupa prostego, ostrosłupa, walca, stożka, kuli (także w zadaniach osadzonych w kontekście praktycznym).
+
+Rozwiązanie:
+Narysujmy przekrój osiowy stożka i oznaczmy promień podstawy stożka przez r.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku oznaczono: przekrój osiowy stożka, ramię o długości 17, wysokość o długości 2r-22, promień podstawy r.
+
+Zauważamy, że (2r-22) musi być liczbą dodatnią, jako długość odcinka. Zatem r jest większe niż 11.
+Z twierdzenia Pitagorasa otrzymujemy następującą zależność:
+((2r-22)^2+r^2=289)
+(4r^2-88r+484+r^2=289)
+(5r^2-88r+195=0)
+(Delta=7744-3900=3844)
+(sqrt{Delta}=62)
+(r_1=frac{88-62}{10}=2,6) - odrzucamy, bo jest liczbą mniejszą od 11.
+(r_2=frac{88+62}{10}=15)
+Dalsze obliczenia prowadzimy dla przypadku (r=15).
+Obliczamy wysokość stożka: (2cdot 15-22=8).
+Obliczamy objętość stożka: (V=frac{1}{3}cdotpicdot 15^2cdot 8=600pi)
+Obliczamy powierzchnię całkowitą stożka: (P=picdot 15(15+17)=480pi)
+
+Schemat oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania - 1 pkt
+Zapisanie równania z jedną niewiadomą, pozwalającego na wyliczenie długości promienia podstawy stożka lub wysokości stożka, np. ((2r-22)^2+r^2=289)
+
+Rozwiązanie, w którym jest istotny postęp - 2 pkt
+Rozwiązanie równania kwadratowego w zbiorze liczb rzeczywistych.
+
+Pokonanie zasadniczych trudności zadania - 3 pkt
+Wyznaczenie jedynej możliwej długości promienia podstawy stożka i odrzucenie wartości sprzecznej z warunkami zadania oraz wyznaczenie wysokości stożka: (r=15) i (h=8)
+
+Rozwiązanie pełne - 4 pkt
+Poprawne obliczenie objętości i pola powierzchni całkowitej bryły.
+(V=frac{1}{3}cdotpicdot 15^2cdot 8=600pi)
+(P=picdot 15(15+17)=480pi)

@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Na ile sposobów można ustawić w szereg 8 osób tak, aby:  
+a) osoby A, B, C zajmowały odpowiednio pierwsze, drugie i trzecie miejsce w tym szeregu  
+b) osoby A i B stały obok siebie oraz pomiędzy tą parą osób a osobą C stały dwie inne osoby  
+c) osoby A i B nie stały obok siebie  
+d) osoba A stała pierwsza w szeregu, a w dalszej części szeregu osoba B stała bliżej A niż osoba C  
+
+① a) A, B, C - kolejno 1, 2, 3 miejsce
+
+\[
+\underline{A} \ \underline{B} \ \underline{C} \ \cdot \ \cdot \ \cdot \ \cdot \ \cdot
+\]
+
+1 . 5! = 120
+
+② b) A i B obok siebie i C dwa miejsca dalej
+
+\[
+\underline{A \ \ B} \ \cdot \cdot \underline{C} \ \cdot \cdot \cdot \cdot 
+\]
+
+4 możliwości dla A1 B1 C (w tej kolejności)  
+4 możliwości analogiczne "od tyłu" każdy układ - dwa warianty AB lub BA  
+
+(4 . 2 + 4 . 2) . 5! = 16 . 120 = 1920
+
+③ A i B nie obok siebie → dużo możliwości  
+
+⇒ wszystkie układy − A i B obok siebie  
+8! = 40320  
+7 . 2! . 6! = 10080  
+więc: 40320 - 10080 = 30240
+
+④ A pierwsza, B bliżej A niż C
+
+\[
+\underline{A} \ \cdot \ \underline{B \ \ \ B} \ \cdot \ \cdot \underline{C \ \ \ C} \ \cdot \cdot
+\]
+
+w zależności od B możliwości A(1) i C  
+
+1 . 6 + 1 . 5 + 1 . 4 + 1 . 3 + 1 . 2 + 1 . 1 = 21  
+1 . 21 . 5! = 2520
+
+odp: a) 120, b) 1920, c) 30240, d) 2520

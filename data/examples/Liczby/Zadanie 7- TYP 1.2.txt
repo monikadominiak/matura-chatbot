@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Zadanie 7 [2 pkt] - Typ 1.2
+
+Oblicz sqrt(13 + 4 sqrt(3))
+
+W tym zadaniu pod pierwiastkiem ukrywa się wzór skróconego mnożenia. Rozpoznamy to po elemencie z pierwiastkiem, ponieważ możemy potraktować ten element jako 2ab z odpowiedniego wzoru skróconego mnożenia (pozostałe elementy w wzorze skróconego mnożenia są podniesione do potęgi drugiej).
+
+(a + b)^2 = a^2 + 2ab + b^2
+
+1️⃣ "odgadujemy" konfigurację wzoru skróconego mnożenia
+
+2ab = 4 sqrt(3) / :2
+
+ab = 2 sqrt(3)
+
+rozpiszę możliwości, sprawdzimy czy a^2 + b^2 = 13
+
+a = 2  
+b = sqrt(3)
+a^2 + b^2 = 4 + 3 / 13
+
+a = 1  
+b = 2 sqrt(3)
+a^2 + b^2 = 1 + 12 = 13
+
+Nasza druga konfiguracja pasuje nam do naszego wzoru skróconego mnożenia.
+
+2️⃣ wsioimy do wyrażenia z polecenia, przekształćmy wzór skróconego mnożenia
+
+sqrt(13 + 4 sqrt(3)) = |1 + 2 sqrt(3) + 1*4 + (2 sqrt(3))^2 = |1^2 + 2 * 1 * sqrt(3) + (2 sqrt(3))^2 =
+
+= sqrt((1 + 2 sqrt(3))^2
+
+3️⃣ zapisanie w formie wartości bezwzględnej:
+
+W tym przypadku gdy pod pierwiastkiem występuje dane wyrażenie podniesione do potęgi drugiej KONIECZNIE wykorzystujemy wzór:
+
+sqrt(a^2) = |a|
+
+sqrt((1 + 2 sqrt(3))^2 = |1 + 2 sqrt(3)| = 1 + 2 sqrt(3)
+
+W tym przypadku nie musieliśmy zmieniać znaków ponieważ pod wartością bezwzględną występowała suma liczb dodatnich.
+
+Odp: 1 + 2 sqrt(3)

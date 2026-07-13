@@ -1,0 +1,97 @@
+
+--- STRONA 1 ---
+Rozpatrujemy wszystkie takie prostopadłościany, w których suma długości wszystkich krawędzi jest równa 80, pole powierzchni całkowitej jest równe 256 i żadna z krawędzi bryły nie jest krótsza niż 4.
+
+Wykaż, że układ równań:
+\[
+\begin{cases} 
+4a + 4b + 4c = 80 \\
+2ab + 2bc + 2ca = 256
+\end{cases}
+\]
+z niewiadomymi \(a\) oraz \(b\) ma rozwiązanie, które jest parą liczb rzeczywistych nie mniejszych od 4 wtedy i tylko wtedy, gdy \(c \in \langle 4, \frac{28}{3} \rangle\).
+
+\[
+\begin{array}{c}
+\includegraphics[width=3cm]{img.png}
+\end{array}
+\]
+
+\((1)\) musimy określić kiedy dany układ 2 równań ma rozwiązania
+
+\[
+\begin{cases} 
+a + b + c = 20 \\
+ab + bc + ca = 128
+\end{cases} \quad \Rightarrow \quad b = 20 - a - c
+\]
+
+podstawiamy wyznaczone \(b\)
+
+\[ 
+a(20 - a - c) + (20 - a - c)c + ca = 128 
+\]
+
+\[
+-a^2 + (20-c)a - c^2 + 20c - 128 = 0 
+\]
+
+\((2)\) niech \( f(a) = -a^2 + (20-c)a - c^2 + 20c - 128 = 0 \)
+
+\[
+\text{funkcja kwadratowa zmiennej a z parametrem c}
+\]
+
+1\) \(\Delta \geq 0\)
+
+\[
+(20-c)^2 - 4(-1)(-c^2 + 20c - 128) \geq 0
+\]
+
+\[
+-3c^2 + 40c - 112 \geq 0 
+\]
+
+\[
+\Delta = 256 \quad \sqrt{\Delta} = 16 
+\]
+
+\(c_1 = \frac{28}{3}\)
+
+\(c_2 = 4\)
+
+\(c \in \langle 4, \frac{28}{3} \rangle\)
+
+2\) \(f(u) \leq 0\)
+
+\[
+f(4) \leq 0 : 16 + (20-c) 4 + (-c^2 + 20c - 128) \leq 0
+\]
+
+\[
+-c^2 + 16c - 64 \leq 0 
+\]
+
+\[
+c^2 - 16c + 64 \geq 0
+\]
+
+\[
+(c-8)^2 \geq 0 \quad \Rightarrow \quad \text{prawda dla } c \in \mathbb{R} 
+\]
+
+3\) \(\rho \geq 4\)
+
+\[
+\Rightarrow -\frac{b}{2a} \Rightarrow \frac{c-20}{-2} \geq 4 \Rightarrow c \leq -8 + 20
+\]
+
+\(c \leq 12\)
+
+\( \)
+
+\((4)\) część wspólna:
+
+\(c \in \langle 4, \frac{28}{3} \rangle\)
+
+\(c.k.d.\)

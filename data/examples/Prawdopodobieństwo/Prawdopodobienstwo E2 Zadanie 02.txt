@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Z grupy, w której są 4 osoby (Kasia, Paulina, Antek, Michał), chcemy wybrać 3 osoby.
+Na ile sposobów można to zrobić, jeśli:
+a) kolejność, w jakiej wybierzemy osoby, ma znaczenie (np. osoba wybrana jako pierwsza zostaje przewodniczącym, druga osoba jego zastępcą, a trzecia skarbnikiem).
+b) kolejność, w jakiej wybierzemy osoby, jest bez znaczenia.
+
+4 osoby - K, P, A, M
+
+a) ➊ kolejność ma znaczenie ,czyli to, że np. Kasia
+
+będzie przewodniczącą, zastępcą lub skarbnikiem = 3 różne sytuacje
+
+➋ wybieramy 3 z 4 osób
+
+\[
+4 \cdot 3 \cdot 2 = 24 = \frac{4!}{(4-3)!} \quad \text{wariacja bez powtórzeń}
+\]
+
+Odp: 24
+
+b) ➌ kolejność nie ma znaczenia ,czyli
+
+wybór np. KPA = PAK - to wciąż są te same 3 osoby - ta sama sytuacja
+
+używamy kombinacji : \(\binom{4}{3} = \frac{4!}{3!(4-3)!} = \frac{4 \cancel{\cdot 3!}}{\cancel{3!} \cdot 1!} = 4\)
+
+Odp: 4

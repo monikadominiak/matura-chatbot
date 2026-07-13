@@ -1,0 +1,83 @@
+
+--- STRONA 1 ---
+Zadanie 3 [5 pkt] - TYP 2.2  
+Dla jakich wartości parametru m suma kwadratów dwóch różnych pierwiastków równania x^2 + (m - 4)x - 4m = 0 jest cztery razy większa od sumy tych pierwiastków?
+
+x^2 + (m - 4)x - 4m = 0  
+a = 1  
+b = m - 4  
+c = -4m  
+
+1️⃣ Zapisanie warunków wynikających z treści zadania.
+
+1° Δ > 0 ⇐ dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych.
+
+2° x_1^2 + x_2^2 = 4 · (x_1 + x_2) ← suma kwadratów dwóch różnych pierwiastków jest cztery razy większa od sumy tych pierwiastków.
+
+2️⃣ Rozwiązanie pierwszego z warunków
+
+1° Δ > 0  
+Δ = b^2 - 4ac       (a - b)^2 = a^2 - 2ab + b^2  
+
+(m - 4)^2 - 4 · 1 · (-4m) > 0  
+m^2 - 8m + 16 + 16m > 0  
+
+m^2 + 8m + 16 > 0 ⇐ możemy liczyć deltę m
+
+m^2 + 8m + 16 > 0 ⇐ Lub skorzystać ze wzoru: (a + b)^2 = a^2 + 2ab + b^2
+
+(m + 4)^2 > 0  
+
+m ≠ -4
+
+3️⃣ Rozwiązanie drugiego z warunków
+
+2° x_1^2 + x_2^2 = 4 · (x_1 + x_2)
+
+Lewa strona równania:  
+(a + b)^2 = a^2 + 2ab + b^2 | -2ab  
+a^2 + b^2 = (a + b)^2 - 2ab  
+
+x_1^2 + x_2^2 = (x_1 + x_2)^2 - 2 · x_1 · x_2  
+
+Wrzucając do 2°  
+(x_1 + x_2)^2 - 2 · x_1 · x_2 = 4 · (x_1 + x_2) | -4 · (x_1 + x_2)  
+
+(x_1 + x_2)^2 - 2x_1x_2 - 4(x_1 + x_2) = 0 ← wyciągamy wspólny czynnik przed nawias
+
+(x_1 + x_2)((x_1 + x_2) - 4) - 2x_1x_2 = 0  
+
+Korzystamy ze wzorów Viete'a:
+
+x_1 + x_2 = -\frac{b}{a}  
+
+x_1 · x_2 = \frac{c}{a}
+
+--- STRONA 2 ---
+\((- \frac{m-4}{1} ) ( - \frac{m-4}{1} - 4 ) \cdot 2 \cdot - \frac{4m}{1} = 0\)
+
+\((4-m) (4-m-4) + 8m=0\)
+
+\((4-m) \cdot (-m) + 8m = 0\)
+
+\(-4m + m^2 + 8m = 0\)
+
+\(m^2 + 4m = 0\)
+
+\(m(m+4) = 0\)
+
+\(m=0 \quad v \quad m+4=0 \mid -4\)
+
+\(m=-4\)
+
+\(m \in \{ -4, 0 \}\)
+
+\(\underline{m \in \{ -4, 0 \}} \)
+
+\(\circled{4}\) Wyznaczenie części wspólnej rozwiązań obu warunków:
+
+\(1^\circ \, m \neq -4\)
+
+\(2^\circ \, m \in \{ -4, 0 \} \quad \text{Ostatecznie: } m=0\)
+
+\(\text{Odp: } m=0.\)

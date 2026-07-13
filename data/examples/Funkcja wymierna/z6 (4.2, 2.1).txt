@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+z6 (4.2, 2.1)
+
+Dla jakich wartości parametru m funkcja \( f(x) = \frac{x^2 - 2(m-3)x + 1}{x^2 + 3x + m + 2} \) jest określona dla każdego \( x \in R \) i ma dwa różne miejsca zerowe?
+
+① Określamy dziedzinę.
+
+Mianownik musi być różny od zera, czyli:
+
+\[ x^2 + 3x + m + 2 \neq 0 \]
+
+Powyższy warunek ma zachodzić \(\forall x \in R\)
+
+\[ x^2 + 3x + m + 2 = 0 \]
+
+Równanie nie może mieć rozwiązań. Wtedy funkcja będzie określona dla \( x \in R \).
+Takie równanie nie ma rozwiązań, gdy \( \Delta < 0 \).
+
+\[ \Delta < 0: \ 9 - 4 \cdot 1 \cdot (m + 2) < 0 \]
+
+\[ 9 - 4m - 8 < 0 \]
+
+\[ -4m + 1 < 0 \]
+
+\[ m > \frac{1}{4} \]
+
+② Wyznaczamy miejsca zerowe \( f(x) \).
+
+Aby wyznaczyć miejsca zerowe dowolnej funkcji należy przyrównać jej wzór do zera i wyznaczyć x. W przypadku funkcji wymiernej tak naprawdę wyznaczamy miejsca zerowe licznika, ponieważ równanie można przemnożyć obustronnie przez mianownik.
+
+\[ f(x) = 0 : \frac{x^2 - 2(m-3)x + 1}{x^2 + 3x + m + 2} = 0 / \cdot \ (x^2 + 3x + m + 2) \]
+
+\[ x^2 - 2(m-3)x + 1 = 0 \]
+
+--- STRONA 2 ---
+Powyższe równanie musi mieć 2 rozwiązania, co zachodzi dla Δ > 0.
+
+Δ > 0: \([-2(m-3)]^2 - 4 \cdot 1 \cdot 1 > 0\)
+
+\[4(m-3)^2 - 4 > 0\]
+
+\[4m^2 - 24m + 36 - 4 > 0/:4\]
+
+\[m^2 - 6m + 8 > 0\]
+
+\[Δ_m = 36 - 4 \cdot 1 \cdot 8 = 4\]
+
+\[m_1 = \frac{6 - 2}{2} = 2\]
+
+\[m_2 = \frac{6 + 2}{2} = 4\]
+
+\[m \in (-\infty, 2) \cup (4, +\infty)\]
+
+Funkcja musi być określona dla \(x \in \mathbb{R}\) i jednocześnie mieć dwa miejsca zerowe. Słowo jednocześnie zawsze oznacza, że będziemy wyznaczać część wspólną przedziałów z poszczególnych warunków.
+
+3) Wyznaczamy część wspólną przedziałów.
+
+\[
+\begin{cases} 
+m > \frac{1}{4} \\
+m \in (-\infty, 2) \cup (4, +\infty) 
+\end{cases} 
+\Rightarrow m \in \left(\frac{1}{4}, 2\right) \cup (4, +\infty)
+\]
+
+Odp.: \(m \in \left(\frac{1}{4}, 2\right) \cup (4, +\infty)\).

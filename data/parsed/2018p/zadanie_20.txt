@@ -1,0 +1,19 @@
+=== ARKUSZ: 2018p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Podstawą ostrosłupa jest kwadrat KLMN o boku długości 4. Wysokością tego ostrosłupa jest krawędź NS, a jej długość też jest równa 4 (zobacz rysunek). Kąt alpha, jaki tworzą krawędzie KS i MS, spełnia warunek A. alpha = 45° B. 45° &lt; alpha  60° D. alpha = 60°
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 20. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np. krawędziami, krawędziami i przekątnymi, itp.), oblicza miary tych kątów (9.1).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: A
+
+Strona 4 z 25
+
+---

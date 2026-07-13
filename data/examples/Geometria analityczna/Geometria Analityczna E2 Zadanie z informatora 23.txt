@@ -1,0 +1,100 @@
+
+--- STRONA 1 ---
+Trapez \( ABCD \) jest wpisany w okrąg o równaniu \( x^2 + y^2 - 38x + 22y - 96 = 0 \).
+Wierzchołek \( A \) trapezu ma oba współrzędne ujemne, a odcinek \( AB \) jest dłuższą z podstaw
+tego trapezu. Przekątna \( AC \) trapezu \( ABCD \) jest zawarta w prostej o równaniu \( y = x \).
+
+**Oblicz sinus kąta \( ABC \).**
+
+1) Wyznaczamy środek i promień okręgu:
+
+I sposób: podstawienie
+
+\[
+x^2 + y^2 - 38x + 22y - 96 = 0
+\]
+
+\[
+x^2 - 38x + y^2 + 22y = 96
+\]
+
+\[
+x^2 - 38x = (x - 19)^2 - 361 \quad y^2 + 22y = (y + 11)^2 - 121
+\]
+
+\[
+(x - 19)^2 - 361 + (y + 11)^2 - 121 = 96
+\]
+
+\[
+(x - 19)^2 + (y + 11)^2 = 578
+\]
+
+\[
+r^2 = 578
+\]
+
+\( r = \sqrt{578} \quad = \sqrt{578} \) bo r > 0
+
+\( O_{1}:(x-19)^2+(y+11)^2=578 \to S(19;-11); \, r=\sqrt{578} \)
+
+II sposób: zmienic do wzoru sferycznego namiernic
+
+\[
+x^2 + y^2 - 38x + 22y - 96 = 0
+\]
+
+\( (x-S_{x})^2 + (y-S_{y})^2 = r^2 \)
+
+\( (x-19)^2 + (y+11)^2 = 578 \)
+
+\( S(19;-11); \, r=\sqrt{578} \)
+
+2) Wyznaczamy punkty \( A \) i \( C \) z układu równań:
+
+\[
+\begin{cases} 
+y = x \\ 
+x^2 + y^2 - 38x + 22y - 96 = 0 
+\end{cases}
+\]
+
+\[
+2x^2 - 16x - 96 = 0
+\]
+
+\[
+x^2 - 8x - 48 = 0
+\]
+
+\[
+x_{1} = 12 \quad x_{2} = -4
+\]
+
+\( x_{1} \cdot (x+4)(x-12)=0 \)
+
+\( x=-4 \quad x=12 \)
+
+\( y=x \cdot \begin{cases} 
+y_1=-4 \\
+y_2=12 
+\end{cases} 
+\)
+
+\( A(-4;-4) \quad C(12;12) \) \ (ponieważ A w trzeciej osi oba współ. ujemne)
+
+3) Tworzymy rysunek poglądowy:
+
+(wykres)
+
+4) Wyliczamy sinus kąta \( ABC \) na podstaw. two. sinusów.
+
+\[
+2R = \frac{|AC|}{\sin \alpha}
+\]
+
+\[
+\frac{2R}{|AC|} \cdot \sin \alpha = \frac{\sqrt{684}}{16\sqrt{2}} = \frac{\sqrt{684}}{16\sqrt{2}} \cdot \frac{\alpha-1}{\alpha} = \frac{16}{684} \cdot \frac{168}{28} = \frac{2 \sqrt{2}}{8}
+\]
+
+Odp. \(\sin \alpha = \frac{1}{5}\).

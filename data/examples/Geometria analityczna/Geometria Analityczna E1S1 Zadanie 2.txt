@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Zad.2 Napisz wzór funkcji, której wykres jest nachylony do osi OX pod kątem α i przechodzi przez punkt A. Podaj współrzędne przecięcia wykresu funkcji z osiami układu współrzędnych:
+
+a) α = 30°, A (√3, 2)    
+b) α = 135°, A (4, -5)    
+c) α = 0°, A (2, 7)
+
+1️⃣ Wyznaczamy współczynnik kierunkowy z tangensa kąta alfa:
+
+a) α = 30° → a = tg 30°
+
+\[ a = \frac{\sqrt{3}}{3} \]
+
+y = ax + b
+
+\[ y = \frac{\sqrt{3}}{3}x + b \]
+
+b) α = 135° → a = tg 135° = -tg(180°-135°) = -tg 45°
+
+a = -1
+
+y = ax + b
+
+y = -x + b
+
+c) α = 0° → a = tg 0°
+
+a = 0
+
+y = ax + b
+
+y = b
+
+2️⃣ Podstawiamy punkt A i wyznaczamy wyraz wolny:
+
+a) A(√3,2) ⎢ y = \(\frac{\sqrt{3}}{3}\)x + b ⎢ 
+
+\[ 2 = \frac{\sqrt{3}}{3} \cdot \sqrt{3} + b \]
+
+2 = 1 + b
+
+b = 1
+
+\[ y = \frac{\sqrt{3}}{3}x + 1 \]
+
+punkt przecięcia z osią OX: (√3, 0)
+
+punkt przecięcia z osią OY: (0, 1)
+
+b) A(4,-5) ⎢ y = -x + b ⎢
+
+-5 = -4 + b
+
+b = -1
+
+y = -x - 1
+
+punkt przecięcia z osią OX: (-1,0)
+
+punkt przecięcia z osią OY: (0,-1)
+
+c) A(2,7) ⎢ y = b ⎢ y = 7 ⎢ 
+
+b = 7
+
+y = 7
+
+punkt przecięcia z osią OX: BRAK
+
+punkt przecięcia z osią OY: (0, 7)

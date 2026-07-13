@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+z1 (3.3)  
+Oblicz sumę kwadratów wszystkich pierwiastków wielomianu  
+W(x) = x^4 - πx^2 + √2.  
+
+W tym zadaniu najlepiej będzie użyć zmiennej pomocniczej t
+
+x^4 - πx^2 + √2 = 0  
+
+Podstawiając t = x^2  
+
+t^2 - πt + √2 = 0  
+
+Δ = b^2 - 4·a·c  
+Δ = (π)^2 - 4·1·√2 = π^2 - 4√2 > 0  
+
+x_1 = (-b - √Δ) / 2a
+x_2 = (-b + √Δ) / 2a  
+
+Δ ≈ 4,2  
+
+t_1 = (π - √π^2 - 4√2) / 2 > 0  
+
+t_2 = (π + √π^2 - 4√2) / 2 > 0  
+
+x_1^2 = (π - √π^2 - 4√2) / 2  
+
+x_2^2 = (π + √π^2 - 4√2) / 2  
+
+x_1 = √((π - √π^2 - 4√2) / 2)  
+x_2 = √((π + √π^2 - 4√2) / 2)  
+
+x_1' = -√((π - √π^2 - 4√2) / 2)  
+
+x_2' = -√((π + √π^2 - 4√2) / 2)  
+
+W tym zadaniu wyliczenie wszystkich pierwiastków było zbędne, pytanie jest o sumę kwadratów pierwiastków  
+
+Obliczamy sumę kwadratów wszystkich rozwiązań:  
+
+2·x_1^2 + 2·x_2^2 = 2·((π - √π^2 - 4√2) / 2 + (π + √π^2 - 4√2) / 2) = π - √π^2 - 4√2 + π + √π^2 - 4√2 = 2π  
+
+Odp: 2π.

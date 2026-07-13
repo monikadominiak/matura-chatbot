@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest romb o kącie ostrym 60°. Oblicz objętość tego graniastosłupa, jeśli jego wysokość jest równa 12 cm, a przekątna ściany bocznej 15 cm.
+
+1) sporządzamy rysunek pomocniczy
+
+2) obliczamy a
+
+z tw. Pitagorasa w ΔBCC'
+a^2 + 12^2 = 15^2
+
+jest to trójkąt pitagorejski
+
+a = 9 (225 - 144 = 81)
+
+3) obliczamy pole podstawy
+
+P = a^2 * sinα
+
+P = 9^2 * sin60° = 81 * sqrt{3}/2 = \frac{81sqrt{3}}{2}
+
+4) obliczamy objętość
+
+V = P_p * H = a^2 * H
+
+V = \frac{81sqrt{3}}{2} * 12 = 486sqrt{3}
+
+Odp: V = 486sqrt{3} cm^3

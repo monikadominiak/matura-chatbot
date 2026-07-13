@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+2. potęgi 1
+
+Oblicz:
+
+a) \( \left( \frac{3}{\sqrt{2}} \right)^{-4} \) \quad b) \( \left( -\frac{\sqrt{5}}{10} \right)^{-3} \) \quad c) \( \left( \left(-3\sqrt{2}\right)^{-1}\right)^{-4} \)
+
+a) \( \left( \frac{3}{\sqrt{2}} \right)^{-4} \)
+
+\[
+a^{-n} = \frac{1}{a^n} \quad \left( \frac{a}{b} \right)^r = \frac{a^r}{b^r}
+\]
+
+\[
+\left( \frac{3}{\sqrt{2}} \right)^{-4} = \left( \frac{\sqrt{2}}{3} \right)^4 = \frac{4}{81}
+\]
+
+Odp: \( \frac{4}{81} \).
+
+b) \( \left( -\frac{\sqrt{5}}{10} \right)^{-3} \)
+
+\[
+\left( -\frac{\sqrt{5}}{10} \right)^{-3} = \left( -\frac{10}{\sqrt{5}} \right)^3 = -\frac{1000}{5\sqrt{5}} \cdot \frac{\sqrt{5}}{\sqrt{5}} =
+\]
+
+\[
+= -\frac{1000 \sqrt{5}}{25} = -40\sqrt{5}
+\]
+
+Odp: \(-40\sqrt{5}\).
+
+c) \( \left( \left(-3\sqrt{2}\right)^{-1}\right)^{-4} \)
+
+\[
+\left( \left(-3\sqrt{2}\right)^{-1}\right)^{-4} = \left(-3\sqrt{2}\right)^4 = 81 \cdot 4 = 324
+\]
+
+Odp: \(324\).

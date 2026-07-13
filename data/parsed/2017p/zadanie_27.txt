@@ -1,0 +1,12 @@
+=== ARKUSZ: 2017p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0-2)
+Wykaż, że liczba $2017+2018+2019+2020+4444$ jest podzielna przez 17.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 27. $0-2$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje podstawowe własności potęg (1.5).
+Przykładowe rozwiązanie  Wyłączamy wspólny czynnik przed nawias $4^{2017}(1+4+4^2+4^3)$. Doprowadzamy liczbę do postaci $4^{2017} cdot 5 cdot 17$. Wnioskujemy, że dana liczba jest podzielna przez 17.
+Schemat punktowania  Zdający otrzymuje 1 p., gdy zapisze liczbę $4^{2017}+4^{2018}+4^{2019}+4^{2020}$ w postaci iloczynu, w którym jeden z czynników jest potęgą $4^k$, gdzie $1985 le k le 2017$, np. $4^{2017}(1+4+4^2+4^3)$ i na tym poprzestanie lub dalej popełnia błędy.
+Zdający otrzymuje 2 p., gdy przeprowadzi poprawny dowód.

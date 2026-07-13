@@ -1,0 +1,129 @@
+
+--- STRONA 1 ---
+Zadanie 12
+
+Trzy liczby tworzą ciąg geometryczny. Jeżeli do drugiej liczby dodamy 8, to ciąg ten zmieni się w arytmetyczny. Jeżeli zaś do ostatniej liczby nowego ciągu arytmetycznego dodamy 64, to otrzymany ciąg będzie znów geometryczny. Znajdź te liczby. Uwzględnij wszystkie możliwości.
+
+1️⃣ Zapisujemy informacje podane w zadaniu.
+
+\((a,b,c)\) – ciąg geometryczny
+
+\((a,b+8,c)\) – ciąg arytmetyczny
+
+\((a,b+8,c+64)\) – ciąg geometryczny
+
+2️⃣ Tworzymy układ równań.
+
+\[
+\begin{cases}
+b^2 = ac \quad (1)\\
+2(b+8) = a+c \quad (2)\\
+(b+8)^2 = a(c+64) \quad (3)
+\end{cases}
+\]
+
+3️⃣ Rozwiązujemy układ równań.
+
+Z \((3)\): \((b^2 + 16b + 64 = ac + 64a)\) \(:/4\)
+
+\((4b + 16 = 4a)\) \(:/4\)
+
+\(b+4 = 4a\)
+
+\(b = 4a - 4\)
+
+Do \((2)\): \(2b + 16 = a + c\)
+
+\(2(4a - 4) + 16 = a + c\)
+
+\(8a + 8 = a + c\)
+
+\(c = 7a + 8\)
+
+Do \((1)\): \(b^2 = ac\)
+
+\((4a-4)^2 = a(7a + 8)\)
+
+\(16a^2 - 32a + 16 = 7a^2 + 8a\)
+
+\(9a^2 - 40a + 16 = 0\)
+
+\(\Delta = 1600 - 576 = 1024 \quad , \sqrt{\Delta} = 32\)
+
+\[a_1 = \frac{40 - 32}{18} = \frac{4}{9} \quad ; \quad a_2 = \frac{40 + 32}{18} = 4\]
+
+\[b_1 = 4a_1 - 4 = \frac{-20}{9}\]
+
+\[b_2 = 12\]
+
+\[c_1 = 7a_1 + 8 = \frac{100}{9}\]
+
+\[c_2 = 36\]
+
+Odp.: \((a,b,c) = \left(\frac{4}{9}, \frac{-20}{9}, \frac{100}{9}\right) \quad \text{lub} \quad (a,b,c) = (4, 12, 36).\)
+
+--- STRONA 2 ---
+II sposób
+
+1️⃣ Zapisujemy informacje podane w zadaniu.
+
+\((a, aq, aq^2)\) - ciąg geometryczny
+
+\((a, aq^3, aq^5)\) - ciąg arytmetyczny
+
+\((a, aq^3, aq^5, aq^6)\) - ciąg geometryczny
+
+2️⃣ Tworzymy układ równań.
+
+\[
+\begin{cases} 
+2(aq_1 + 8) = a + aq_2^2 \quad (1)\\ 
+(aq_1 + 8)^2 = a(aq_2^2 + 64) \quad (2) 
+\end{cases} 
+\]
+
+3️⃣ Rozwiązujemy układ równań.
+
+Z (1): \(2aq + 16 = a + aq^2\)
+
+\(aq^2 - 2aq + a = 16\)
+
+\(a(q^2 - 2q + 1) = 16\)
+
+\(a(q - 1)^2 = 16\) \quad / \((q - 1)^2\)
+
+\(a = \frac{16}{(q - 1)^2}\)
+
+Do (2):
+
+\(a^2q^2 + 16aq + 64 = a^2q^2 + 64a\)
+
+\(16aq + 64 = 64a\)
+
+\(\frac{256}{(q - 1)^2} \cdot q + 64 = 64 \cdot \frac{16}{(q - 1)^2}\) \quad / \((q - 1)^2\), \(q \neq 1\)
+
+\(256q + 64(q - 1)^2 = 64 \cdot 16\) \(|:64\)
+
+\(4q + q^2 - 2q + 1 = 16\)
+
+\(q^2 + 2q - 15 = 0\)
+
+\(\Delta = 4 + 60 = 64\), \(\sqrt{\Delta} = 8\)
+
+\(q_1 = \frac{-2 - 8}{2} = -5\)
+
+\(q_2 = \frac{-2 + 8}{2} = 3\)
+
+\(a_1 = \frac{16}{(-5 - 1)^2} = \frac{16}{36} = \frac{4}{9}\)
+
+\(a_2 = \frac{16}{(3 - 1)^2} = \frac{16}{4} = 4\)
+
+\(aq_1 = \frac{4}{9} \cdot (-5) = -\frac{20}{9}\)
+
+\(aq_2 = 4 \cdot 3 = 12\)
+
+\(aq_1^2 = \frac{4}{9} \cdot 25 = \frac{100}{9}\)
+
+\(aq_2^2 = 4 \cdot 9 = 36\)
+
+Odp.: \((a, b, c) = \left(\frac{4}{9}, -\frac{20}{9}, \frac{100}{9}\right)\) lub \((a, b, c) = (4, 12, 36).\)

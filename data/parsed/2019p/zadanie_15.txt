@@ -1,0 +1,19 @@
+=== ARKUSZ: 2019p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Dane są dwa okręgi: okrąg o środku w punkcie O i promieniu 5 oraz okrąg o środku w punkcie P i promieniu 3. Odcinek OP ma długość 16. Prosta AB jest styczna do tych okręgów w punktach A i B. Ponadto prosta AB przecina odcinek OP w punkcie K (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wtedy 
+A. |OK| = 6 
+B. |OK| = 8 
+C. |OK| = 10 
+D. |OK| = 12
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

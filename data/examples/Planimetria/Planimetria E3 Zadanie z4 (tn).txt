@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z4 (tn) Długości odpowiadających sobie przekątnych dwóch wielokątów podobnych mają się jak 3:4, a pola tych wielokątów różnią się o 28cm². Oblicz pola tych wielokątów.
+
+1) Wyznaczamy szukane pola za pomocą skali podobieństwa:
+
+k = \(\frac{4}{3}\)
+
+Stosunek długości jest równy skali podobieństwa k. Stosunek pól jest równy kwadratowi skali podobieństwa k.
+
+Niech x - pole mniejszego wielokąta
+
+k² = \(\frac{16}{9}\) = \(\frac{x+28}{x}\)
+
+16x = 9(x + 28)
+
+x = \(\frac{252}{7}\) = 36 cm²
+
+x + 28 = 64 cm²
+
+Odp. P₁ = 36 cm², P₂ = 64 cm².

@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Cena roweru po obniżce o 15% była równa 850 zł. Przed obniżką ten rower kosztował A. 865,00 zł B. 850,15 zł C. 1000,00 zł D. 977,50 zł
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 4. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: A

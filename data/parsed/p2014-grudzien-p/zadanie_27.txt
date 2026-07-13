@@ -1,0 +1,52 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0-2)
+Czas połowicznego rozpadu pierwiastka to okres, jaki jest potrzebny, by ze 100% pierwiastka pozostało 50% tego pierwiastka. Oznacza to, że ilość pierwiastka pozostała z każdego grama pierwiastka po x okresach rozpadu połowicznego wyraża się wzorem (y=left(frac{1}{2}right)^x). W przypadku izotopu jodu (^{131}text{I}) czas połowicznego rozpadu jest równy 8 dni. Wyznacz najmniejszą liczbę dni, po upływie których pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+Uwaga:
+W arkuszach A6, A7 polecenie do zadania ma inne brzmienie: Wyznacz najmniejszą liczbę dni, po upływie których pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+Wymagania: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 4.15. Zdający posługuje się funkcjami wykładniczymi do opisu zjawisk fizycznych, chemicznych, a także w zagadnieniach osadzonych w kontekście praktycznym.
+
+I sposób rozwiązania:
+Stwierdzamy, że po 8 dniach (czyli po pierwszym okresie połowicznego rozpadu) pozostanie:
+(y(1)=left(frac{1}{2}right)^1=frac{1}{2}=0,5) (g) pierwiastka.
+I dalej, po 16 dniach (czyli po drugim okresie połowicznego rozpadu) pozostanie
+(y(2)=left(frac{1}{2}right)^2=frac{1}{4}=0,25) (g) pierwiastka.
+Z kolei po 24 dniach (czyli po trzecim okresie połowicznego rozpadu) pozostanie
+(y(3)=left(frac{1}{2}right)^3=frac{1}{8}=0,125) (g) pierwiastka.
+Odpowiedź: Po 24 dniach pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+II sposób rozwiązania:
+Ustalamy po ilu okresach rozpadu połowicznego pozostanie 0,125 g pierwiastka.
+Rozwiązujemy nierówność
+(left(frac{1}{2}right)^x le 0,125) (lub (left(frac{1}{2}right)^x &lt; 0,125))
+(left(frac{1}{2}right)^x le left(frac{1}{2}right)^3) (lub (left(frac{1}{2}right)^x  3)).
+Potrzebne są 3 okresy połowicznego rozpadu, czyli (3cdot 8=24) dni.
+Odpowiedź: Po 24 dniach pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+III sposób rozwiązania:
+Szkicujemy wykres funkcji (y=left(frac{1}{2}right)^x)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Z wykresu odczytujemy, że (left(frac{1}{2}right)^x le 0,125), gdy (x ge 3) (lub że (left(frac{1}{2}right)^x  3)).
+Najmniejszą potrzebną liczbą okresów rozpadu połowicznego jest: 3, zatem najmniejszą szukaną liczbą dni jest: (3cdot 8=24).
+Odpowiedź: Po 24 dniach pozostanie z 1 g (^{131}text{I}) nie więcej niż 0,125 g tego pierwiastka.
+
+Schemat oceniania
+Zdający otrzymuje 1 pkt
+jeżeli poprawnie ustali ilość pierwiastka, jaka pozostanie po upływie 16 dni i na tym poprzestanie lub dalej popełni błędy
+albo
+gdy poprawnie ustali liczbę okresów rozpadu połowicznego, po których pozostanie 0,125 g pierwiastka i na tym poprzestanie lub dalej popełni błędy
+albo
+gdy zapisze nierówność
+(left(frac{1}{2}right)^x le left(frac{1}{2}right)^3) (lub (left(frac{1}{2}right)^x le frac{1}{2^3}) lub (left(frac{1}{2}right)^x le frac{1}{8}) lub (left(frac{1}{2}right)^x &lt; left(frac{1}{2}right)^3) lub (left(frac{1}{2}right)^x &lt; frac{1}{2^3}) lub (left(frac{1}{2}right)^x 1), to otrzymuje za całe rozwiązanie 0 punktów.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

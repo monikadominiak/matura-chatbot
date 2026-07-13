@@ -1,0 +1,129 @@
+
+--- STRONA 1 ---
+Dany jest okrąg o promieniu \( r \). Na tym okręgu opisujemy trójkąty prostokątne. Wyznacz długości boków trójkąta o najkrótszej przeciwprostokątnej.
+
+\(\circled{1}\) uzależniamy od siebie zmienne
+
+\[
+(a+r)^2 + (b+r)^2 = (a+b)^2
+\]
+
+\[
+a^2 + 2ar + r^2 + b^2 + 2br + r^2 = a^2 + 2ab + b^2
+\]
+
+\[
+2br - 2ab = -2ar - 2r^2
+\]
+
+\[
+2b(r-a) = -2(ar + r^2) \quad /: 2(r-a) \,,\, r \neq a
+\]
+
+\[
+b = \frac{ar + r^2}{a-r}
+\]
+
+(korzystamy z th. o odcinkach stycznych)
+
+\(\circled{2}\) zapisujemy wzór funkcji
+
+\[
+a+b = a + \frac{ar + r^2}{a-r} = \frac{a(a-r) + ar + r^2}{a-r} = \frac{a^2 + r^2}{a-r} = f(a)
+\]
+
+\(\circled{3}\) wyznaczamy dziedzinę funkcji
+
+\[
+a, b > 0\,,\, \frac{ar + r^2}{a-r} > 0
+\]
+
+\[
+r(a+r)(a-r) > 0
+\]
+
+\[
+a \in (r, +\infty)
+\]
+
+\(\circled{4}\) wyznaczamy pochodną funkcji
+
+\[
+f'(a) = \frac{2a(a-r)-\cancel{(a^2+r^2)}}{(a-r)^2} = \frac{a^2 - 2ar - r^2}{(a-r)^2}
+\]
+
+\(\frac{h'(x) \cdot g(x) - h(x) \cdot g'(x)}{[g(x)]^2}\)
+
+\(\circled{5}\) wyznaczamy miejsca zerowe pochodnej
+
+\[
+f'(a) = 0 \Leftrightarrow a^2 - 2ar - r^2 = 0
+\]
+
+\[
+\Delta = 4r^2 + 4r^2 = 8r^2
+\]
+
+\[
+\sqrt{\Delta} = 2\sqrt{2}r
+\]
+
+\[
+a_1 = \frac{2r - 2\sqrt{2}r}{2} = r - \sqrt{2}r = r(1-\sqrt{2})
+\]
+
+\[
+a_2 = r(1+\sqrt{2})
+\]
+
+\(\circled{6}\) badamy monotoniczność i ekstrema funkcji
+
+\[
+\text{I sposób:}
+\]
+
+Schemat: 
+\[
+\begin{array}{c}
++ \quad \quad \quad \quad \quad \quad \quad + \\
+a_1 \quad \quad \quad \quad \quad \quad \quad a_2 \\
+\downarrow \text{max} \quad \quad \quad \quad \quad \quad \quad \downarrow \text{min} \\
+f'(a) \\
+d(a) \\
+\end{array}
+\]
+
+\[
+\text{Funkcja } f(a) \text{ osiąga w swojej dziedzinie wartość najmniejszą, dla argumentu } a_2 = r(1+\sqrt{2})
+\]
+
+\[
+\text{II sposób:}
+\]
+
+Tabela:
+\[
+\begin{array}{c|c|c|c}
+a & (r, a_2) & a_2 & (a_2, +\infty) \\
+\hline
+f'(a) & - & 0 & + \\
+\hline
+f(a) & \downarrow & \text{min. lok.} & \uparrow \\
+\end{array}
+\]
+
+\(\circled{7}\) obliczamy \( b \) i długości boków
+
+\[
+b = \frac{(r\sqrt{2})r + r^2}{r\sqrt{2} - r} = \frac{r^2(2+\sqrt{2})}{r\sqrt{2}} = \frac{r(2+\sqrt{2})}{2} = r(1+\sqrt{2}) = a
+\]
+
+\[
+\text{Odp:} \begin{cases} 
+a + r \\
+b + r \end{cases} 
+\begin{cases} 
+\text{przyprostokątne} = r + r + \sqrt{2}r = r(2+\sqrt{2}) \\
+a + b \\
+\text{przeciwprostokątna} = 2 \cdot r(1+\sqrt{2}) = r(2 + 2\sqrt{2}) \end{cases}
+\]

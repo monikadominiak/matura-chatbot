@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+1. Wykres funkcji f(x) = ax 3
+
+Dla jakiej wartości współczynnika a punkt P należy do hiperboli będącej wykresem
+funkcji f(x) = a/x? Naszkicuj wykres funkcji i podaj wartość największą i najmniejszą,
+jakie przyjmuje ona dla argumentów ze zbioru [-4; -1] ∪ [2; 6].
+
+a) P(1–√5, 1 + √5)
+b) P(√6 - √24, √6)
+
+a) ① Wyznaczamy wartość współczynnika a.
+
+Podstawiamy punkt P(1–√5, 1+√5) do wzoru funkcji.
+
+f(1–√5) = 1 + √5
+a/(1–√5) = 1 + √5 / ⋅(1–√5)
+a = (1+√5)(1–√5)
+
+Korzystamy ze wzoru skróconego mnożenia (a+b)(a–b) = a²–b².
+
+a = 1²–√5² = 1–5 = -4
+
+② Szkicujemy wykres funkcji f(x) = -4/x wykorzystując tabelkę.
+
+      x | -4 | -2 | -1 | 1  |  2  | 4
+      y |  1 |  2 |  4 | -4 | -2 | -1
+
+③ Obliczamy największą i najmniejszą wartość f(x) dla argumentów ze
+   zbioru [-4,-1] ∪ [2, 6].
+
+   y_max = f(-1) = 4
+   y_min = f(2) = -2
+
+Odp.: Wartość współczynnika a = -4, w zbiorze [-4,-1] ∪ [2,6]
+         największą wartością funkcji f(x) jest y_max = 4, a
+         najmniejszą y_min = -2.
+
+--- STRONA 2 ---
+b) ① Wyznaczamy wartość współczynnika a.
+
+Podstawiamy punkt P(√6 - 12√, 1/6 ) do wzoru funkcji. Obliczamy √6 - 12√.
+√6 - 12√ = √6 - 2√6 - √6 = -√6 
+
+Zapisujemy punkt P(-√6, 1/6).
+
+f(-√6) = 1/6
+
+- a / -√6 = 1 / (-1/-√6)
+
+a = √6 * (-√6)
+a = -6
+
+② Szkicujemy wykres funkcji f(x) = -6/x wykorzystując tabelkę.
+
+Tabela:
+
+x | -4 | -2 | -1 | 2 | 4 | 6 
+y | 3/2 | 3 | 6 | -3 | -3/2 | -1 
+
+③ Obliczamy największą i najmniejszą wartość f(x) dla argumentów ze zbioru [-4,-1] ∪ [2, 6].
+
+y_max = f(-1) = 6 
+y_min = f(2) = -3 
+
+Odp.: Wartość współczynnika a=-6, w zbiorze [-4,-1] ∪ [2,6] największą wartością funkcji f(x) jest y_max = 6, a najmniejszą, y_min=-3.

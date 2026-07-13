@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+z6 (tn)
+
+Przedstaw wielomian W(x) = x^4 - 3x^3 + 6x^2 - 5x + 3 w postaci iloczynu dwóch wielomianów stopnia drugiego, których współczynniki są liczbami całkowitymi.
+
+Polecenie mówi o rozkładzie na czynniki stopnia drugiego, czyli – być może nie uda się rozłożyć wielomianu na czynniki liniowe, sprawdzimy czy ma ono jakiekolwiek pierwiastki.
+
+Potencjalne pierwiastki:
+{-1, +1, +3}
+
+W(1) = 1 - 3 + 6 - 5 + 3 = 2
+
+W(-1) = 1 + 3 + 6 + 5 + 3 = 18
+
+W(3) = 81 - 81 + 54 - 15 + 3 = 42
+
+W(-3) = 81 + 81 + 54 + 15 + 3 = 234
+
+żadna z liczb nie jest pierwiastkiem
+
+Zatem zapiszmy w(x) jako iloczyn dwóch wielomianów stopnia 2, po to aby odpowiednio móc dobrać współczynniki na podstawie treści.
+
+x^4 - 3x^3 + 6x^2 - 5x + 3 = (ax^2 + bx + c)(dx^2 + ex + j)
+
+{a·d = 1 => a = 1 i d = 1 lub a = -1 i d = -1
+
+c·j = 3 => c = 1 i j = 3 lub c = (-1) i d = (-3)
+
+wybieramy jedną z konfiguracji
+
+Przyjmuję, że a = 1, d = 1, c = 1, j = 3
+
+wówczas otrzymamy:
+x^4 - 3x^3 + 6x^2 - 5x + 3 = (x^2 + bx +1)(x^2 + ex + 3)
+
+x^4 - 3x^3 + 6x^2 - 5x + 3 = x^4 +(b+e)x^3 +(be+4)x^2 +(3b+e)x + 3
+
+{b + e = -3 => e = -3 - b
+
+be + 4 = 6
+
+3b + e = -5
+
+36 - 3 - b = -5
+
+2b = -2
+
+b = -1
+
+e = -3 - b
+
+e = -3 - (-1)
+
+e = -2
+
+Zatem: w(x) = (x^2 - x +1)(x^2 - 2x +3)
+
+Odp: w(x) = (x^2 - x +1)(x^2 - 2x +3).

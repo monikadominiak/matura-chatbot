@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+z2 (tn)
+
+Sprowadź do najprostszej postaci wyrażenie \( \left( x^{\sqrt{2}} \cdot (\sqrt{x})^8 \right)^{\sqrt{2}} \), gdzie \( x \geq 0 \)
+
+Korzystamy z potęgowania i następnie mnożenia potęg o tych samych podstawach
+
+\( (a^r)^s = a^{r \cdot s} \)
+
+\[
+\left( x^{\sqrt{2}} \cdot (\sqrt{x})^8 \right)^{\sqrt{2}} = \left( x^{\sqrt{2}} \cdot [(\sqrt{x})^8]^{\sqrt{2}} \right)^{\frac{1}{2}} = x^{\frac{\sqrt{2}}{2}} \cdot (\sqrt{x})^{\frac{8 \cdot \sqrt{2}}{2}} =
+\]
+
+\[
+= \sqrt{x} \cdot (\sqrt{x})^{4\sqrt{2}}
+\]
+
+\[
+= x^{\frac{1}{4}} \cdot (\sqrt{x})^{\frac{16}{2}} = x^{\frac{1}{2}} \cdot (\sqrt{x})^{4} = x^{\frac{2}{4}} \cdot x^{4} = x^{2} \cdot x^{2} = x^{4}
+\]
+
+Odp: \( x^4 \)

@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+5. Sumy początkowych wyrazów 3
+Oblicz pierwszy wyraz ciągu geometrycznego \( a_n \), jeśli:
+a) \( q = 2, S_4 = 60 \)
+b) \( q = 0,5, S_4 = 2046 \)
+
+a) \( q = 2, S_4 = 60 \)
+
+\[
+\begin{array}{c}
+\text{① Obliczamy } a_1 \text{ korzystając ze wzoru na sumę ciągu geometrycznego.} \\
+S_n = a_1 \cdot \frac{1-q^n}{1-q} \\
+S_4 = a_1 \cdot \frac{1-q^4}{1-q} \\
+60 = a_1 \cdot \frac{1-16}{1-2} \\
+60 = a_1 \cdot 15 \quad /:15 \\
+a_1 = 4 \\
+\boxed{\text{Odp.: } a_1 = 4.}
+\end{array}
+\]
+
+b) \( q = \frac{1}{2}, S_4 = 2046 \)
+
+\[
+\begin{array}{c}
+\text{① Obliczamy } a_1 \text{ korzystając ze wzoru na sumę ciągu geometrycznego.} \\
+S_n = a_1 \cdot \frac{1-q^n}{1-q} \\
+S_4 = a_1 \cdot \frac{1-q^4}{1-q} \\
+2046 = a_1 \cdot \frac{1-\frac{1}{16}}{1-\frac{1}{2}} \\
+2046 = a_1 \cdot \frac{\frac{15}{16}}{\frac{1}{2}} \\
+2046 = a_1 \cdot \frac{15}{8} \quad / \cdot \frac{8}{15} \\
+a_1 = 1091,2 \\
+\boxed{\text{Odp.: } a_1 = 1091,2.}
+\end{array}
+\]

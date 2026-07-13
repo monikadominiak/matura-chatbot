@@ -1,0 +1,104 @@
+
+--- STRONA 1 ---
+Rozpatrujemy odcinki równoległe do osi OY, których jeden koniec leży na wykresie funkcji \( y = -\sqrt{x} \), zaś drugi koniec na wykresie funkcji \( y = \frac{1}{x} \) gdzie \( x \in (0, +\infty) \). Oblicz długość najkrótszego z tych odcinków.
+
+① uzależniamy od siebie zmienne \( x \in (0, +\infty) \)
+
+y = \frac{1}{x}
+
+y = -\sqrt{x}
+
+② zapisujemy wzór funkcji
+\[
+|AB| = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}
+\]
+
+\[
+|P_1P_2| = \sqrt{(x-x)^2 + (-\sqrt{x} - \frac{1}{x})^2} = 
+\]
+
+\[
+= \sqrt{(\sqrt{x} + \frac{1}{x})^2} = |\sqrt{x} + \frac{1}{x}| = \sqrt{x} + \frac{1}{x} = f(x)
+\]
+
+③ wyznaczamy pochodną funkcji
+
+\[
+f'(x) = (\sqrt{x})' + (\frac{1}{x})'
+\]
+
+\[
+x^{\frac{1}{2}} \Rightarrow \frac{1}{2}x^{-\frac{1}{2}} = \frac{1}{2\sqrt{x}}
+\]
+
+\[
+\frac{1}{x^1} = x^{-1} \Rightarrow -x^{-2} = -\frac{1}{x^2} 
+\]
+
+\[
+\Rightarrow f'(x) = \frac{1}{2\sqrt{x}} - \frac{1}{x^2}
+\]
+
+④ wyznaczamy miejsca zerowe pochodnej
+
+\[
+f'(x) = 0 \Leftrightarrow \frac{1}{2\sqrt{x}} - \frac{1}{x^2} = 0
+\]
+
+\[
+\frac{1}{2\sqrt{x}} = \frac{1}{x^2}
+\]
+
+\[
+x^2 = 2\sqrt{x} /(\cdot)^2
+\]
+
+\[
+x^4 = 4x
+\]
+
+\[
+x(x^3 - 4) = 0 \Rightarrow x = 0 \lor x = \sqrt[3]{4}
+\]
+
+⑤ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+\[
+0 \quad \sqrt[3]{4}
+\]
+
+\[
++\quad\quad f'(x) \quad\quad -
+\]
+
+\[
+max \quad\quad min \quad\quad f(x)
+\]
+
+II sposób:
+
+\[
+x \in (0, \sqrt[3]{4}) \quad \sqrt[3]{4} \quad (\sqrt[3]{4}, +\infty)
+\]
+
+\[
+f'(x) \quad - \hspace{2em} 0 \hspace{2em} + \hspace{2em}
+\]
+
+\[
+f(x) \quad \searrow \hspace{3em} min. lok. \hspace{3em} \nearrow
+\]
+
+Funkcja \( f(x) \) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu \( x = \sqrt[3]{4} \)
+
+⑥ obliczamy długość \( |P_1P_2| \)
+
+\[
+|P_1P_2| = \sqrt{x} + \frac{1}{x} = \frac{x\sqrt{x} + 1}{x} = \frac{x^{\frac{3}{2}} + 1}{x} = \frac{(\sqrt[3]{4})^{\frac{3}{2}} + 1}{\sqrt[3]{4}} = \frac{3}{\sqrt[3]{4}}
+\]
+
+\[
+\text{Odp: } \frac{3}{\sqrt[3]{4}} = \frac{3}{\sqrt{2\sqrt{2}}} = \frac{3}{2\sqrt{2}}
+\]

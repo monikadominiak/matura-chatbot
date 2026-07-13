@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zadanie 1
+
+Naszkicuj wykres funkcji wykładniczej \( f(x) = 2^x \), a następnie naszkicuj wykres funkcji \( g \), wiedząc, że \( g(x) = f(-x) - 4 \).
+
+a) Napisz wzór funkcji \( g \).
+
+b) Oblicz współrzędne punktu wspólnego funkcji \( g \) i osi OY.
+
+c) Sprawdź, czy liczba \(-2\) jest miejscem zerowym funkcji \( g \).
+
+d) Odczytaj z wykresu zbiór wszystkich argumentów, dla których funkcja \( g \) przyjmuje wartości ujemne.
+
+\(\large\textcircled{1}\) Szkicujemy wykresy \( f(x) \) i \( g(x) \).
+
+a) \(\large\textcircled{2}\) Wyznaczamy wzór funkcji \( g(x) \).
+
+\[ g(x) = f(-x) - 4 = 2^{-x} - 4 \]
+
+b) \(\large\textcircled{3}\) Obliczamy współrzędne punktu wspólnego \( g(x) \) i OY.
+
+\[ g(0) = 2^0 - 4 = 1 - 4 = -3 \]
+
+c) \(\large\textcircled{4}\) Sprawdzamy czy \(-2\) jest miejscem zerowym funkcji \( g(x) \).
+
+\[ g(-2) = 2^2 - 4 = 0 \quad \checkmark \]
+
+d) \(\large\textcircled{5}\) Odczytujemy z wykresu zbiór argumentów, dla których funkcja \( g(x) \) przyjmuje wartości ujemne.
+
+\[ x \in (-2, +\infty) \]
+
+Odp.: a) \( g(x) = 2^{-x} - 4 \), b) \( (0, -3) \), c) TAK, d) \( x \in (-2, +\infty) \).

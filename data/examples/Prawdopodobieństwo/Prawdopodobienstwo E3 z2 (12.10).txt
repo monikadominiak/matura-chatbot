@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Losujemy jednocześnie 3 liczby ze zbioru {1,2,3,4,5,6,7,8,9}. Oblicz prawdopodobieństwo, że wśród wylosowanych liczb będzie liczba 4 pod warunkiem, że suma wylosowanych liczb będzie parzysta.
+
+⓵ analizujemy polecenie
+
+zbiór: {1,2,3,4,5,6,7,8,9} losujemy 3 jednocześnie ➝ bez zwracania
+
+B ➝ suma parzysta (P i 2NP lub 3P)  
+A ➝ wylosujemy "4"  
+A ∩ B ➝ "4" i 2NP lub "4" i 2P
+
+⓶ liczymy moc zdarzenia B
+
+\(\overline{B} = \binom{4}{1}\binom{5}{2} + \binom{4}{3} = 44\)  
+\[P NP\] \[22\] \[P\] \[324\]
+
+⓷ liczymy moc zdarzenia \(A ∩ \overline{B}\)
+
+\(A ∩ \overline{B} = 1 \cdot \binom{5}{2} + 1 \cdot \binom{3}{2} = 13\)  
+\["4"\] \[NP\] \[225\] \[P\] \["4"\] \[223\] \[(bez "4")\]
+
+⓸ liczymy docelowe prawdopodobieństwo  
+\(P(A|B) = \frac{13}{44}\)  
+\[Odp: \frac{13}{44}\]
+
+Ⅱ sposób z reguły mnożenia
+
+\[\overline{B} = 4 \cdot 3 \cdot 2 + 3 \cdot 4 \cdot 5 \cdot 4 = 264\]
+\[\text{PNN}\] \[\text{NPN}\] \[\text{NNP}\] \[(traktujemy jako różne sytuacje)\]
+
+\(A ∩ \overline{B} = 3 \cdot 1 \cdot 3 \cdot 2 + 3 \cdot 1 \cdot 5 \cdot 4 = 78\)
+
+\[4PP\] \[P4P\] \[PP4\]  
+\[4PN\] \[N4N\] \[NN4\]  
+
+\(P(A|B) = \frac{78}{264} = \frac{13}{44}\)

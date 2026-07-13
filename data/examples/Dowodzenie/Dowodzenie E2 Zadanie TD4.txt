@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+Wykaż, że równanie \(3x^5+5x^3+1=2x^4+6x^2+\sqrt{2}x\) ma rozwiązanie należące do przedziału \( (0,1) \).
+
+niech:
+\[
+\begin{cases} 
+f(x)=3x^5+5x^3+1 \\
+g(x)=2x^4+6x^2+\sqrt{2}x
+\end{cases}
+\]
+teże:  \(x\), będący rozwiązaniem układu \(\color{green}{\bigcirc\!\!\!\!1}\in (0,1)\)
+
+\(\color{cyan}{\bigcirc\!\!\!\!1}\) punkt wspólny jest rozwiązaniem równania
+\(f(x)=g(x)\) \\
+\(\Rightarrow f(x)-g(x)=0\)
+
+\(\color{cyan}{\bigcirc\!\!\!\!2}\) tworzymy nową funkcję \(h(x)\), gdzie \(h(x)=f(x)-g(x)\)
+
+\((h(x) \, \text{jest różnicą funkcji ciągłych}, \, \text{więc sama również jest ciągła})\)
+
+\(\color{cyan}{\bigcirc\!\!\!\!3}\) chcemy, aby w przedziale \((0,1)\) funkcja \(h(x)\) przyjmowała wartość \(=0\)
+
+\(h(0)=1-0=1 \quad >0\)
+
+\(h(1)=9-8-\sqrt{2}\cdot1,4 \quad <0\)
+
+\[
+\Rightarrow \begin{cases} 
+ZW=<1-\sqrt{2}; 1> 
+\end{cases} 
+\Rightarrow  \, czyli istnieje takie \, c\in(0,1), \, \text{że} \, h(c)=0
+\]
+
+zatem na mocy tw. Darboux teza jest prawdziwa
+
+c.k.d.
+
+\( \text{Twierdzenie Darboux:} \)
+
+\(\text{Jeśli funkcja \(f\) jest ciagła w przedziale domkniętym \(<a,b>\) oraz \(f(a) \neq f(b)\), natomiast
+\text{\(k\) jest dowolną liczbą pomiędzy licz
+\text{bami \(f(a)\) i \(f(b)\), to istnieje taka liczba \(c\),
+\text{\(c \in (a,b)\), dla której \(f(c)=k\).} }\) }
+
+\[
+\begin{align*}
+&f(b)\\
+\\
+&\mid \quad k \\
+&\mid \\
+&\bullet \quad f(a) \\
+&\quad \quad \quad \quad \quad a \quad \quad c \quad \quad b\\
+& \quad \quad \quad \quad \quad \mid \\
+& \quad \quad \quad \quad \quad \mid \\
+& \quad \quad \quad \quad \quad \mid \\
+& \quad \quad \quad \quad \quad \mid \\
+& \quad \quad \quad \quad \quad \bullet
+\end{align*}
+\]

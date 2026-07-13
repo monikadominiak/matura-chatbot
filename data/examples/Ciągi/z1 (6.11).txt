@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+z1 (6.11)
+
+Rozwiąż nierówność 1 + \(\frac{1}{2}\)x + \(\frac{1}{4}\)x^2 + \(\frac{1}{8}\)x^3 + ... ≤ -x + 1 wiedząc, że lewa strona nierówności jest szeregiem geometrycznym zbieżnym.
+
+Uwaga: szereg zbieżny to taki, którego wszystkie wyrazy (nieskończenie wiele wyrazów) sumują się do konkretnej skończonej liczby.
+
+1️⃣ Badamy zbieżność szeregu geometrycznego.
+
+Warunkiem zbieżności szeregu geometrycznego jest
+|q|<1 => -1<q<1.
+
+Można zauważyć, że w szeregu z treści zadania zachodzi:
+q = \(\frac{a_2}{a_1}\) = \(\frac{\frac{1}{2}x}{1}\) = \(\frac{1}{2}x\).
+
+Należy zatem rozwiązać nierówność.
+
+-1 < \(\frac{1}{2}\)x < 1    / :  \(\frac{1}{2}\)
+
+-2 < x < 2
+
+Szereg jest zbieżny dla:
+x ∈ (-2,2)
+
+2️⃣ Korzystamy ze wzoru na sumę szeregu geometrycznego.
+
+Lewą stronę nierówności można zapisać przy pomocy wzoru na sumę wyrazów szeregu geometrycznego.
+
+S_n = \(\frac{a_1}{1-q}\)
+
+S_n = \(\frac{1}{1-\frac{1}{2}x}\)
+
+3️⃣ Rozwiązujemy nierówność.
+
+\(\frac{1}{1-\frac{1}{2}x}\) ≤ -x + 1   ;  x ∈ (-2,2)
+
+\(\frac{1}{1-\frac{1}{2}x}\) ≤ -x + 1  /  \((1-\frac{1}{2}x)^2\)
+
+--- STRONA 2 ---
+\(\frac{1}{2}x \leq (-x+2)(1-\frac{1}{2}x)^2\)
+
+\((1-\frac{1}{2}x) - (-x+2)(1-\frac{1}{2}x)^2 < 0\)
+
+\((1-\frac{1}{2}x)[1-x+2)(1-\frac{1}{2}x)] \leq 0\)
+
+\((1-\frac{1}{2}x)[-\frac{1}{2}x^2 + \frac{3}{2}x] \leq 0\)
+
+\(1-\frac{1}{2}x = 0\)
+
+\(x=2\)
+
+\(-\frac{1}{2}x^2 + \frac{3}{2}x = 0\)
+
+\(-\frac{1}{2}x(\ x - 3) = 0\)
+
+\(x=0\)
+
+\(x=3\)
+
+\(−∞ +∞ \)
+
+\(x \in (-\infty, 0] \cup [2,3]\)
+
+Wynikiem końcowym do zadania jest część wspólna dwóch przedziałów - przedziału, dla którego szereg jest zbieżny oraz przedziału, który jest wynikiem nierówności.
+
+\(4\) Wyznaczamy część wspólną.
+
+\(\begin{cases} x \in (-2,2) \\ x \in (-∞,0] \cup [2,3] \end{cases} \Rightarrow x \in (-2,0]\)
+
+Odp.: \(x \in (-2,0]\).

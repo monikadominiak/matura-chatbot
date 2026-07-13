@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Wysokość ostrosłupa prawidłowego trójkątnego tworzy z krawędzią boczną tego ostrosłupa kąt α taki, że cosα = 0,8. Krawędź podstawy ma długość 3 cm. Oblicz pole powierzchni całkowitej tego ostrosłupa.
+
+1) sporządzamy rysunki pomocnicze
+
+Δ równobocznego
+
+x = \(\frac{2}{3}\)hp = \(\frac{2}{3}\) \(\cdot\) \(\frac{3\sqrt{3}}{2}\) = \(\sqrt{3}\)
+
+2) wykorzystujemy informacje o cosinusie
+
+cosα = 0,8 = \(\frac{4}{5}\) i cosα = \(\frac{H}{d}\)
+
+\(\frac{H}{d}\) = \(\frac{4}{5}\) => H = \(\frac{4}{5}\)d
+
+3) układamy równanie korzystając z tw. Pitagorasa w Δ AFD
+
+H^2 + x^2 = d^2
+
+\(\frac{16}{25}\)d^2 + 3 = d^2
+
+3 = \(\frac{36}{100}\)d^2
+
+d^2 = \(\frac{300}{36}\) => d = \(\frac{10\sqrt{3}}{6}\) = \(\frac{5\sqrt{3}}{3}\)
+
+4) podstawiamy d do wzoru na H
+
+H = \(\frac{4}{5}\)\(\cdot\)\(\frac{5\sqrt{3}}{3}\) = \(\frac{4\sqrt{3}}{3}\)
+
+5) obliczamy wysokość ściany bocznej
+
+hs^2 = \(\left(\frac{5\sqrt{3}}{3}\right)^2\) - \(\left(\frac{3}{2}\right)^2\) (tw. Pitagorasa)
+
+hs^2 = \(\frac{75}{9}\) - \(\frac{9}{4}\) = \(\frac{219}{36}\) => hs = \(\frac{\sqrt{219}}{6}\)
+
+6) liczymy pole powierzchni całkowitej
+
+Pc = Pb + Pp = 3 \(\cdot\) \(\frac{1}{2}\) \(\cdot\) 3 \(\cdot\) \(\frac{\sqrt{219}}{6}\) + 3^2 \(\cdot\) \(\frac{\sqrt{3}}{4}\) = \(\frac{3\sqrt{219}}{4} + \frac{9\sqrt{3}}{4}\) = \(\frac{3\sqrt{3}}{4}\)(\(\sqrt{73} + 3\))
+
+Odp: Pc = \(\frac{3\sqrt{3}}{4}\)(\(\sqrt{73} + 3\)) cm^2

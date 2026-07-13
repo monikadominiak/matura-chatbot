@@ -1,0 +1,117 @@
+
+--- STRONA 1 ---
+Zadanie 32 (7.6) Dany jest układ równań:
+\[
+\begin{cases}
+mx + y = m^2 - 1 \\
+2mx + my = 4
+\end{cases}
+\]
+z niewiadomymi x i y oraz parametrem m.
+
+Wyznacz wszystkie wartości parametru m, dla których układ jest oznaczony, a para liczb (x, y) będąca rozwiązaniem układu spełnia warunek |x + 2y| < 3.
+
+1) Określamy dla jakich m układ jest oznaczony oraz wyznaczamy x i y w zależności od m za pomocą metody wyznaczników:
+
+\[
+W = 
+\begin{vmatrix}
+m & 1 \\
+2m & m
+\end{vmatrix}
+= m^2 - 2m \neq 0 \Rightarrow m \in \mathbb{R}\setminus\{0,2\}
+\]
+
+\[
+W_x = 
+\begin{vmatrix}
+m^2 - 1 & 1 \\
+4 & m
+\end{vmatrix}
+= m^2 \times m - m^2 - 4 \times 1 = m^3 - 2m - 4
+\]
+
+\[
+W_y = 
+\begin{vmatrix}
+m & m^2 - 1 \\
+2m & 4
+\end{vmatrix}
+= 4m - 2m(m^2 - 1) = -2m^3 + 2m -4m = -2m^3 - 2m 
+\]
+
+\[
+x = \frac{W_x}{W} = \frac{m^3 - 2m - 4}{m^2 - 2m}
+\]
+
+\[
+y = \frac{W_y}{W} = \frac{-2m^3 - 2m}{m^2 - 2m}
+\]
+
+Metoda wyznaczników – rozwiązywanie układów równań liniowych
+
+\[
+\begin{cases}
+a_1x + b_1y = c_1 \\
+a_2x + b_2y = c_2
+\end{cases}
+\]
+
+\[
+W = 
+\begin{vmatrix}
+a_1 & b_1 \\
+a_2 & b_2
+\end{vmatrix}, \quad W_x = 
+\begin{vmatrix}
+c_1 & b_1 \\
+c_2 & b_2
+\end{vmatrix}, \quad W_y = 
+\begin{vmatrix}
+a_1 & c_1 \\
+a_2 & c_2
+\end{vmatrix}
+\]
+
+\[
+x = \frac{W_x}{W}, \quad y = \frac{W_y}{W}
+\]
+
+Układ oznaczony (1 rozr.) jest wtedy, gdy W \neq 0 (W_x i W_y są dowolne, mogą być zerami, ale nie muszą).
+
+Układ nieoznaczony (nieskończenie wiele rozw.) wtedy, gdy W = W_x = W_y = 0 (wszystkie trzy wyznaczniki muszą jednocześnie dawać zero).
+
+Układ sprzeczny (brak rozw.) wtedy, gdy W = 0 i (W_x \neq 0 lub W_y \neq 0) (co najmniej jedno wyrazić Wi i Wy nie daje zero).
+
+2) Rozwiązujemy nierówność z własności wart. bezwgl.:
+\[|x+2y|<3\]
+\[\left|\frac{m^3-2m-4}{m^2-2m} + 2 \times \frac{-2m^3-2m}{m^2-2m}\right|<3\]
+
+\[ \left|\frac{m^3-2m-4 - 4m^3-4m}{m^2-2m} \right|<3 \]
+
+\[ \left|\frac{-3m^3-6m-4}{m^2-2m} \right|<3 \]
+
+\[
+\frac{2}{m} < 3/m^2, \quad \frac{-2}{m} > -3/m^2 
+\]
+
+\[ 
+2m < 3m^2 
+\]
+\[ 
+2m^2 < m 
+\]
+
+\[
+m (3m-2) > 0, \quad m (3m-2) < 0 
+\]
+
+Odp. \(m \in \left(-\infty,0\right) \cup \left(0,\frac{2}{3}\right) \cup \left(2,\infty\right)\) i \( m \in \mathbb{R}\setminus\{0,2\}\)
+\[
+m \in \left(-\infty,\frac{2}{3}\right) \cup \left(2,\infty\right) 
+\]
+
+Odp. 
+\[
+m \in (-\infty,0) \cup \left(\frac{2}{3},2\right) \cup (2,\infty) 
+\]

@@ -1,0 +1,19 @@
+=== ARKUSZ: 2016p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-2)
+Skala Richtera służy do określania siły trzęsień ziemi. Siła ta opisana jest wzorem R = log(A / A_0), gdzie A oznacza amplitudę trzęsienia wyrażoną w centymetrach, a A_0 = 10^(-4) cm jest stałą, nazywaną amplitudą wzorcową. 5 maja 2014 roku w Tajlandii miało miejsce trzęsienie ziemi o sile 6,2 w skali Richtera. Oblicz amplitudę trzęsienia ziemi w Tajlandii i rozstrzygnij, czy jest ona większa, czy mniejsza od 100 cm.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 31. $(0-2)$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym oraz wykorzystuje podstawowe własności potęg - również w zagadnieniach związanych z innymi dziedzinami wiedzy, np. fizyką, chemią, informatyką (1.6, 1.5).
+Przykładowe rozwiązania I sposób Zapisujemy równanie $6{,}2=\log\frac{A}{10^{-4}}$ Korzystamy z definicji logarytmu $10^{6{,}2}=\frac{A}{10^{-4}}$ Stąd $A=10^{6{,}2}\cdot 10^{-4}$, $A=10^{2{,}2}$  Stwierdzamy, że $10^{2{,}2}>10^{2}=100$, gdyż funkcja wykładnicza $y=10^{x}$ jest rosnąca. Oznacza to, że $A>100$ cm.
+II sposób Zapisujemy równanie $6{,}2=\log\frac{A}{10^{-4}}$ To równanie jest równoważne kolejno równaniom $6{,}2=\log(10^{4}A)$, $6{,}2=\log 10^{4}+\log A$, $6{,}2=4+\log A$ Zatem $2{,}2=\log A$ Korzystamy z definicji logarytmu i otrzymujemy równość $A=10^{2{,}2}$  Stwierdzamy, że $10^{2{,}2}>10^{2}=100$, gdyż funkcja wykładnicza $y=10^{x}$ jest rosnąca. Oznacza to, że $A>100$ cm.
+Schemat punktowania Zdający otrzymuje 1 p. gdy wykorzysta definicję logarytmu i przekształci równanie $6{,}2=\log\frac{A}{10^{-4}}$ do postaci $10^{6{,}2}=\frac{A}{10^{-4}}$
+Strona 12 z 20
+albo wykorzysta własność logarytmu i przekształci równanie $6{,}2=\log\frac{A}{10^{-4}}$ do postaci $6{,}2=\log A-\log 10^{-4}$ lub $6{,}2=\log A+\log 10^{4}$ i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy zapisze, że $A=10^{2{,}2}$ i stwierdzi, że amplituda tego trzęsienia ziemi była większa od 100 cm.
+Uwagi:
+Jeżeli zdający błędnie interpretuje treść zadania, w szczególności stosuje niepoprawne podstawienie do wzoru, to otrzymuje 0 punktów.
+Jeżeli zdający nie obliczy amplitudy, ale uzasadni, że amplituda jest większa od 100 cm, to otrzymuje 1 punkt.
+Jeżeli zdający nie obliczy amplitudy tylko zapisze bez uzasadnienia, że amplituda jest większa od 100 cm, to otrzymuje 0 punktów.

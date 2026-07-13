@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+Zad.8 Wyznacz równanie prostej, do której należy punkt P(-6, 15) i takiej, że odległość punktu Q(4, -5) od tej prostej wynosi 10.
+
+1) Podstawiamy punkt P do równania prostej i na tej podstawie wyznaczamy równanie kierunkowe:
+
+k x + c y + a = 0
+
+P(-6, 15) ∈ l ⇔  k*(-6) + c*15 + a = 0
+
+k*(-6) + 15c + a = 0
+
+k = k oraz c = c oraz a = (6k-15c)
+
+2) Wyznaczamy a ze wzoru na odległość punktu od prostej:
+
+|a + bx₀ + cy₀|/sqrt(a^2 + b^2)
+
+10 = |a + 5c - 5k|
+
+dla x, y to P(4, -5)
+
+10 = |a + 4k - 5c|
+
+10 = |a + 4k - 5c| = 7.5 * sqrt(1 + xk^2)
+
+a = (1 - xk) = (-(k + 1)x)/2 = (3/5)
+
+3) Wyznaczamy a, bo wtedy:
+
+10 ≠ t^2 = (t + a + 3)^2 = t^2 = (t - a)^2 = "cośtamy"
+
+a = 7/3 ➟ b = -6 (-3/2) + 16 t = ^5/7 ⇔ n <= l + 3 + 1 = (4)
+
+UWAGA: Rozwiązując to równanie otrzymujemy tylko jedno wariant równania prostej. Jednak takie założenie (i że zadane w treści odległość jest inna) jest (1/P3) pomimo 2 rozważań.
+
+Taki przypadek wymaga zagniatania, inne na drugim rysowaniu (to kłopot polega poza lub poza tego poziomu).
+
+W naszym przypadku podstawiając współrz. punktów P(-2/6,14) i Q(1,4/-5) możemy rozważyć, że zadanie sobie - towarzyst jest stroną bardziej na wiadomość odległości. Nasza druga po prost jest więc:
+
+l: k x = x + 6
+
+Wyjścia są tego równości dlaczego nie używający tylk z chorusia - aby rozwiązać zadanie przypisywać pozwu za postaci kwierunkowej-kūtałtw związana przesłania zasadnika.
+
+Odp. k y - x = x/2 x√^9/12 x + y 2
+
+Rysunek poglądowy:

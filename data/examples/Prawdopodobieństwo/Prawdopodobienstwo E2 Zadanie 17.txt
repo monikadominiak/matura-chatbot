@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Dane są zdarzenia \( A, B \subseteq \Omega \) takie, że \( P(A) = 0,12 \) i \( P(B') = 0,7 \) oraz \( P(A \cup B) = 0,4 \).
+Oblicz: \( P(A \cap B), P(A \backslash B), P(A' \cap B) \).
+
+\( \boxed{1} \quad \text{DANE:} \)
+
+\[
+\begin{cases}
+P(A) = 0,12 \\
+P(B') = 0,7 \\
+P(A \cup B) = 0,4
+\end{cases}
+\]
+
+\(\quad \text{DO OBLICZENIA:} \)
+
+\[
+\begin{cases}
+P(A \cap B) \\
+P(A \backslash B) \\
+P(A' \cap B)
+\end{cases}
+\]
+
+\(\boxed{2} \quad \text{mając } P(B') \text{ od razu możemy mieć } P(B)\)
+
+\( P(B) = 1 - P(B') = 1 - 0,7 = 0,3 \)
+
+\(\boxed{3} \quad P(A \cup B) = P(A) + P(B) - P(A \cap B) \)
+
+\(\Rightarrow P(A \cap B) = P(A) + P(B) - P(A \cup B) =\)
+
+\( = 0,12 + 0,3 - 0,4 = \underline{0,02} \)
+
+\(\boxed{4} \quad P(A \backslash B) \Rightarrow\)
+
+\( P(A \backslash B) = P(A \cup B) - P(B) = P(A) - P(A \cap B) \)
+
+\( P(A \backslash B) = 0,4 - 0,3 = 0,12 - 0,02 = \underline{0,1} \)
+
+\(\boxed{5} \quad P(A' \cap B) \Rightarrow\)
+
+\( P(A' \cap B) = P(B) - P(A \cap B) \)
+
+\( P(A' \cap B) = 0,3 - 0,02 = \underline{0,28} \)
+
+\( \text{odp: } P(A \cap B) = 0,02; \, P(A \backslash B) = 0,1; \, P(A' \cap B) = 0,28 \)

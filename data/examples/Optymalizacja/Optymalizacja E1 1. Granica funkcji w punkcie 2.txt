@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Naszkicuj wykres funkcji f. Oblicz lim x→2 f(x), jeśli f(x)= 4−2x/x−2.
+
+1️⃣ upraszczamy wzór funkcji f
+
+f(x) = 4−2x/x−2 = -2(x−2)/x−2 = -2
+
+D: x−2 ≠ 0
+
+x ≠ 2
+
+2️⃣ szkicujemy wykres
+
+3️⃣ liczymy granicę funkcji
+
+lim x→2 f(x) = lim x→2 4−2x/x−2 = [⁰/₀]
+
+= lim x→2 -2(x−2)/x−2 = -2
+
+odp.: lim x→2 f(x) = -2

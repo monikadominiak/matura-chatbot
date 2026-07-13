@@ -1,0 +1,20 @@
+=== ARKUSZ: 2025p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba (5^12 + 5^13 + 5^14) / 5^12 jest równa
+
+A. 30
+B. 31
+C. 5^12
+D. 5^27
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

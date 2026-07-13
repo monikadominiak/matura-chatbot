@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zadanie z1 (8.1) Ramię trójkąta równoramiennego jest dwa razy dłuższe od podstawy. Suma długości promieni okręgu wpisanego w ten trójkąt i okręgu opisanego na tym trójkącie jest równa 11. Oblicz długość podstawy trójkąta.
+
+1) Tworzymy rysunek poglądowy:
+
+Boki trójkąta możemy oznaczyć jako x, 2x, 2x.
+
+Na potrzeby tego zadania nie musimy rysować okręgu wpisanego i opisanego. Należy jedynie pamiętać, że środki obu tych okręgów są różnymi punktami i się nie pokrywają (gdyż nachodzą one na siebie tylko i tylko wtedy, gdy trójkąt jest równoboczny).
+
+2) Ustaleniamy promienie okręgu wpisanego i opisanego od x za pomocą wzorów na pole trójkąta:
+
+z tw. Pitagorasa w ΔADC:
+
+( \frac{x}{2} )^2 + h^2 = (2x)^2
+
+h^2 = 4x^2 - \frac{x^2}{4} = \frac{15}{4} x^2
+
+h = \frac{\sqrt{15}}{2} x \quad , \quad h > 0, \; x > 0
+
+P_{ABC} = \frac{1}{2} (AB) \cdot h = \frac{x \sqrt{15}}{2} x = \frac{x^2 \sqrt{15}}{4} x
+
+P_{ABC} = \frac{1}{2} \cdot \frac{x \sqrt{15}}{2} x
+
+R = \frac{abc}{4 P_{ \Delta ABC }} \longrightarrow R = \frac{x \cdot 2x \cdot 2x}{4 \cdot \frac{x^2 \sqrt{15}}{2} x}
+
+R = \frac{2x}{ \sqrt{15} x} = \frac{2 \sqrt{15}}{15} = \frac{\sqrt{15}}{10} x
+
+3) Korzystamy z informacji o sumie promieni z treści zadania i wyznaczamy podstawę:
+
+r + R = 11
+
+\frac{\sqrt{15}}{10} x + \frac{4 \sqrt{15}}{15} x = \frac{40}{15} /: 30
+
+3 \sqrt{15} x + 8 \sqrt{15} x = 330
+
+4 \sqrt{15} x = 330 / 4 \sqrt{15}
+
+x = \frac{30}{\sqrt{15}} = \frac{30 \sqrt{15}}{15} = 2 \sqrt{15} = |AB|
+
+Odp. |AB| = 2 \sqrt{15}.

@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zadanie z3 (tn) Znajdź współrzędne punktów wspólnych okręgów o równaniach
+
+x^2 + y^2 - 3x + 5y - 4 = 0 i x^2 + y^2 + x - 7y = 0.
+
+Rysunek poglądowy:
+
+o_1: x^2 + y^2 - 3x + 5y - 4 = 0 = o_1: (x - (-3/2))^2 + (y - (-5/2))^2 = 13/2
+o_2: x^2 + y^2 + x - 7y = 0 = o_2: (x - (-1/2))^2 + (y - (-7/2))^2 = 25/2
+
+1) Wyznaczamy punkty wspólne z układu równań:
+
+{ x^2 + y^2 - 3x + 5y - 4 = 0
+{ x^2 + y^2 + x - 7y = 0
+
+-3x + 5y - 4 = -(x - 7y)
+
+-4x + 12y = 4 => x = 3y - 1
+
+{ 3y - 1 + y^2 + 3y - 7y - 4 = 0
+{ 9y - 6y + 1 + y^2 + 3y - 7y = 0
+10y - 4y = 0 /10
+
+y (y - 1) = 0
+
+{ y = 0
+x = -1
+
+{ y = 1
+x = 2
+
+Odp. (-1,0) i (2,1).

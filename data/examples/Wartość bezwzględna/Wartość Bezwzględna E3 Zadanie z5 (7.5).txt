@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+**Zadanie z5 (7.5)** Dla jakich wartości parametru m (gdzie m ∈ R), równanie |||x| - 1| - 2| = m ma 6 rozwiązań?
+
+1) Wykonujemy etapowe przekształcenia funkcji lewej strony równania i rysujemy jej wykres:
+
+f₁(x) = x
+
+f₂(x) = |x|  {f₂(x)}
+
+f₃(x) = |x| - 1  {f₃(x)}
+
+f₄(x) = ||x| - 1|  {f₄(x)}
+
+f₅(x) = ||x| - 1| - 2  przesunięcie o p: [0, -2]
+
+f(x) = |||x| - 1| - 2|  {f₅(x)}
+
+Wskazówka: rozumienia, gdzie trzeba analizować liczbę rozwiązań w zależności od parametru najwygodniej rozwiązując się graficznie, rysując wykresy funkcji po lewej i prawej stronie równania.
+
+Można tak robić, gdy wszystkie wyrażenia z niewiadomą są po jednej stronie równania, a wyrażenia z parametrem są po drugiej stronie.
+
+Po narysowaniu obu wykresów rozwiązania równania, będą dane x-owe współrzędne punktów przecięcia obu wykresów.
+
+Ta strona równania, w której nie ma zmiennej x, a jest tylko parametr, będzie reprezentowana przez funkcję liniową stałą, czyli będzie to linia pozioma.
+
+Prosta y = m została narysowana poglądowo, na przykładowej wysokości. Należy teraz się zastanowić, na jakiej wysokości może znajdować się prosta, aby zgodnie z poleceniem przecinała w 6 różnych punktach z wykresem funkcji lewej strony równania.
+
+Z rysunku można odczytać, że: 6 rozw. dla m∈⟨-4,2⟩
+
+Odp. m∈⟨-4,2⟩.

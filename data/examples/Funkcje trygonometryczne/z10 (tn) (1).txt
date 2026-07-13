@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+z10 (tn)
+
+Ile rozwiązań rzeczywistych ma równanie cos x + 3sin x = -5 w przedziale (-π, π)?
+
+① Korzystamy ze zbioru wartości funkcji trygonometrycznych  
+Zbiorem wartości cos x jest przedział ⟨-1, 1⟩  
+Zbiorem wartości sin x jest przedział ⟨-1, 1⟩  
+Zbiorem wartości 3sin x jest przedział ⟨-3, 3⟩
+
+② Określamy zbiór wartości cos x + 3sin x  
+Zbiorem wartości jest przedział ⟨-4, 4⟩  
+
+-5 nie należy do przedziału ⟨-4, 4⟩ zatem równanie nie ma rozwiązań.
+
+Odp.: Zero rozwiązań.

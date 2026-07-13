@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+Ostrosłup prawidłowy trójkątny ABCS o podstawie ABC przecięto płaszczyzną π równoległą do płaszczyzny podstawy. Wiedząc, że krawędź podstawy ostrosłupa ma długość a i jest równa długości wysokości ostrosłupa, oblicz, w jakiej odległości od płaszczyzny podstawy należy poprowadzić płaszczyznę π, aby graniastosłup zawarty pomiędzy płaszczyzną podstawy a płaszczyzną równoległą do niej miał największą objętość. Oblicz tę objętość.
+
+① uzależniamy od siebie zmienne
+
+|S0A|=a
+
+|A0A|=?
+
+ostr.ABCS ~ ostr.DEFS
+
+więc |S0A|=x
+
+|A0A|=a-x
+
+② wyznaczamy dziedzinę funkcji 
+
+x ∈ (0, a)
+
+③ zapisujemy wzór funkcji
+
+V(x)=\frac{x^2\sqrt{3}}{4} \cdot (a-x) = \frac{\sqrt{3}}{4}(-x^3 + ax^2)
+
+④ wyznaczamy pochodną funkcji
+
+V'(x)=\frac{\sqrt{3}}{4}(-3x^2 + 2ax)
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+V'(x)=0 ⇔ -3x^2 + 2ax = 0
+
+x(-3x + 2a) = 0
+
+x = 0 ∨ 3x = 2a
+
+x = \frac{2}{3}a
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+{diagram/maksimum i minimum}
+
+II sposób:
+
+|  x  | (0, \frac{2}{3}a) | \frac{2}{3}a | (\frac{2}{3}a, a) |
+|-----|-------------------|--------------|-------------------|
+| V'(x) |          +          |      0      |          -         |
+| V(x)  |         ↗          |  max. lok.  |         ↘         |
+
+Funkcja V(x) osiąga w swojej dziedzinie wartość największą 
+
+dla argumentu x=\frac{2}{3}a
+
+⑦ obliczamy największą objętość
+
+V(\frac{2}{3}a)=\frac{\sqrt{3}}{4}\cdot \frac{4}{9}a^2(a-\frac{2}{3}a) = \frac{a^3\sqrt{3}}{27}
+
+Odp: V=\frac{a^3\sqrt{3}}{27}

@@ -1,0 +1,75 @@
+
+--- STRONA 1 ---
+Czworokąt ABCD jest równoległobokiem takim, że \(\overrightarrow{BD} = [-21,7]\) i \(\overrightarrow{DC} = [15,8]\).
+
+Oblicz pole tego równoległoboku.
+
+Rysunek poglądowy:
+
+\[
+D(\gamma, \eta)
+\]
+
+\[
+\overrightarrow{BD} = [-21,7]
+\]
+
+\[
+B(x_{2},y_{2}) = B(x_{2},\gamma + 7)
+\]
+
+\[
+D(x_{1},y_{1}) \to C(x_{1},y_{1}+8)
+\]
+
+\(1\) sposób: Wzór na współrz. wierzchołków: 
+
+\[
+P_{BDC} = \frac{1}{2}  |(x_{0}-x_{B})(y_{C}-y_{B})-(y_{0}-y_{B})(x_{C}-x_{0})|
+\]
+
+\[
+P_{DBC} = \frac{1}{2} |21\cdot 8 - 7 \cdot 15| = \frac{63}{2}
+\]
+
+\[
+P_{ABCD} = 2 \cdot P_{ABC}=2 \cdot \frac{63}{2} = 63
+\]
+
+II sposób: Wzór wyznacznikowy:
+
+\[
+\overrightarrow{BD}=[-21,7]
+\]
+
+\[
+\overrightarrow{DC}=[15,8]
+\]
+
+\[
+P_{ABCD} = \frac{1}{2} \left|\begin{array}{cc}
+-21 & 15 \\
+7 & 8 \\
+\end{array}\right| = \frac{1}{2} |21\cdot 8-15 \cdot 7| = \frac{63}{2}
+\]
+
+\[
+P_{ABCD} = 2 \cdot P_{ABC}=2 \cdot \frac{63}{2} = 63
+\]
+
+Odp: \(P_{ABCD}=63\).
+
+Pole trójkąta o wierzchołkach \(A(x_{A},y_{A}), B(x_{B},y_{B}) = C(x_{C},y_{C})\) dane jest wzorem:
+
+\[
+P_{ABC} = \frac{1}{2} |(x_{B}-x_{A})(y_{C}-y_{A})-(y_{B}-y_{A})(x_{C}-x_{A})|
+\]
+
+Mając dwa wektory zaczepione u tym samym punkcie, np. \(\overrightarrow{FA}=[x_{A},y_{A}], \overrightarrow{FB}=[x_{B},y_{B}]\) pole trójkąta jest równe:
+
+\[
+P = \frac{1}{2}||\begin{array}{cc}
+x_{M} & y_{M} \\
+x_{N} & y_{N} \\
+\end{array}|| = \frac{1}{2} |x_{M} y_{N} - x_{N} y_{M}|
+\]

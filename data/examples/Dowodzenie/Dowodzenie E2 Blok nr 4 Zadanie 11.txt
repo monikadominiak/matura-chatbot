@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+W trójkącie \(ABC\) bok \(AC\) ma długość \(b\), \(|\angle BAC| = \alpha\) oraz \(|\angle ABC| = \beta\).
+Wykaż, że pole trójkąta \(ABC\) jest równe \(\frac{b^2 \sin \alpha}{2 \tg \beta} + \frac{b^2 \sin 2\alpha}{4}\).
+
+1️⃣ tworzymy rysunek poglądowy
+
+\[
+\begin{array}{c}
+\text{(trójkąt ABC z bokami i kątami oznaczonymi)} \\
+\end{array}
+\]
+
+📐 teza: \(P = \frac{b^2 \sin \alpha}{2 \tg \beta} + \frac{b^2 \sin 2\alpha}{4} \quad (\alpha, \beta, b) \)
+
+2️⃣ wykorzystamy wzór na pole z sin \(P\)
+
+\[ P = \frac{1}{2} \cdot c \cdot b \cdot \sin \gamma \]
+
+\( \sin \gamma = \sin(180^\circ - (\alpha + \beta)) = \sin(\alpha + \beta) \)
+
+a z \( \text{tw. sinusów} = \frac{b \cdot \sin \alpha}{\sin \beta} \)
+
+3️⃣ podstawiamy dane \((\text{wyznaczone tylko z użyciem } \alpha, \beta, b)\)
+
+\[
+P = \frac{1}{2} \cdot \frac{b^2 \sin \alpha}{\sin \beta} \cdot \sin(\alpha + \beta) = \frac{b^2 \sin \alpha}{2 \sin \beta} \cdot (\sin \alpha \cos \beta + \cos \alpha \sin \beta)
+\]
+
+\[
+= \frac{1}{2}b^2(\frac{\sin^2 \alpha}{\tg \beta} + \frac{\sin 2\alpha}{2}) = \frac{b^2 \sin \alpha}{2 \tg \beta} + \frac{b^2 \sin 2\alpha}{4} \quad c.k.d.
+\]
+
+\[
+\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta
+\]

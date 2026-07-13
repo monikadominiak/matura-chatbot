@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Dane są zdarzenia \(A, B \subseteq \Omega\). Wiadomo, że \(P(A') = 0{,}83\) i \(P(B') = 0{,}88\) oraz \(P(A \cap B) = 0{,}04\). Oblicz: \(P(A \cup B)\), \(P((A \cup B) \setminus A)\), \(P(A \cap B')\).
+
+\(\textcircled{1}\) Dane:
+\[
+\begin{cases}
+P(A') = 0{,}83 \\
+P(B') = 0{,}88 \\
+P(A \cap B) = 0{,}04
+\end{cases}
+\]
+Do obliczenia:
+\[
+\begin{cases}
+P(A \cup B) \\
+P((A \cup B) \setminus A) \\
+P(A \cap B')
+\end{cases}
+\]
+
+\(\textcircled{2}\) mając \(P(A')\) od razu możemy mieć \(P(A)\) i analogicznie z \(P(B')\) mamy \(P(B)\)
+
+\(P(A) = 1 - P(A') = 1 - 0{,}83 = 0{,}17\)
+
+\(P(B) = 1 - P(B') = 1 - 0{,}88 = 0{,}12\)
+
+\(\textcircled{3}\) \(P(A \cup B) = P(A) + P(B) - P(A \cap B)\)
+
+\(P(A \cup B) = 0{,}17 + 0{,}12 - 0{,}04 = \underline{0{,}25}\)
+
+\(\textcircled{4}\) \(P((A \cup B) \setminus A) \Rightarrow\)
+
+\(P((A \cup B) \setminus A) = P(B) - P(A \cap B) = P(A \cup B) - P(A)\)
+
+\(P((A \cup B) \setminus A) = 0{,}12 - 0{,}04 = 0{,}25 - 0{,}17 = \underline{0{,}08}\)
+
+\(\textcircled{5}\) \(P(A \cap B') \Rightarrow\)
+
+\(P(A \cap B') = P(A) - P(A \cap B) = P(A \cap B)\)
+
+\(P(A \cap B') = 0{,}17 - 0{,}04 = \underline{0{,}13}\)
+
+Odp: \(P(A \cup B) = 0{,}25; P((A \cup B) \setminus A) = 0{,}08; P(A \cap B') = 0{,}13\)

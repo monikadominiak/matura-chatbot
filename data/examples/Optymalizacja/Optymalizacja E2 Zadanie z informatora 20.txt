@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Firma X wytwarza pewien produkt D. Badania rynku pokazały, że związek między ilością Q produktu D jaką firma jest w stanie zbyć na rynku a ceną P produktu jest następujący: P(Q) = 90 - 0,1Q dla Q ∈ [0,900] gdzie P jest ceną za jednostkę produktu w złotych, a Q - ilością produktu w tys. sztuk. Koszty K wytworzenia produktu D zależą od ilości Q wytwarzanego produktu następująco: K(Q) = 0,002Q^3 + Q^2 + 29,985Q + 50 gdzie K jest kosztem produkcji w tys. zł. Oblicz, przy jakiej wielkości produkcji firma X osiąga największy dochód. Wynik podaj zaokrąglony z dokładnością do 100 sztuk.
+
+1️⃣ wypisujemy z polecenia potrzebne informacje
+
+Q ∈ [0,900] (sztuk) ← dziedzina
+
+P(Q) = 90 - 0,1Q
+
+koszt→ K(Q) = 0,002Q^3 + Q^2 + 29,9855Q + 50
+
+zysk→ P(Q)·Q = 90Q - 91Q^2
+
+2️⃣ zapisujemy wzór funkcji
+
+DOCHÓD : zysk - koszt ⇒ D(Q) = -0,002Q^3 - 1,1Q^2 + 60,015Q - 50 
+
+3️⃣ wyznaczamy pochodną funkcji
+
+D'(Q) = -0,006Q^2 - 2,2Q + 60,015
+
+D₀ = D𝓆
+
+4️⃣ wyznaczamy miejsca zerowe pochodnej
+
+D'(Q) = 0 ⇔ -0,006Q^2 - 2,2Q + 60,015 = 0
+
+∆ = 4,84 - 4(-0,006)·60,015 = 6,28036     √∆ ≈ 2,50606
+
+Q₁ = 2,2 - √∆ / -0,012     ≈ 25,505
+
+Q₂ = 2,2 + √∆ / -0,012     < 0 ∉ D₀
+
+5️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+(funkcja) ⬆ max lok. ⬇
+
+O'(Q) - 0 -
+
+II sposób:
+
+Tabela:
+
+| a       | <0,Q₁) | Q₁ | (Q₁,900> |
+|---------|--------|----|-----------|
+| D'(x)   | +      | 0  | -         |
+| D(x)    | ⬆      | max lok. | ⬇  |
+
+Funkcja D(Q) osiąga w swojej dziedzinie wartość największą dla argumentu  Q ≈ 25,505
+ale Q ∈, więc 25,505 ⇒ 25505 ≈ 25500 stuk do 100
+
+Odp: 25500 sztuk

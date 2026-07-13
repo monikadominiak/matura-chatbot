@@ -1,0 +1,16 @@
+=== ARKUSZ: 2020p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0-1)
+Liczba $frac{2^{50}cdot3^{40}}{36^{10}}$ jest równa
+A. $6^{70}$
+B. $6^{45}$
+C. $2^{30}cdot3^{20}$
+D. $2^{10}cdot3^{20}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 2. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: A

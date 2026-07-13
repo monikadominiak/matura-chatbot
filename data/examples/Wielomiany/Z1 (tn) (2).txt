@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+z1 (tn)
+
+Znajdź współczynniki b, c, d, wiedząc, że wielomiany
+
+W(x) = x^3 + bx^2 + cx + d i Q(x) = (x+2)^2(x+1) są równe.
+
+Aby wielomiany były sobie równe, ich współczynniki przy tych samych potęgach muszą być sobie równe.
+
+W(x) = x^3 + bx^2 + cx + d
+
+Q(x) = (x+2)^2 * (x+1)
+
+Q(x) = (x^2 + 4x + 4)(x+1)
+
+(a+b)^2 = a^2 + 2ab + b^2
+
+Q(x) = x^3 + x^2 + 4x^2 + 4x + 4x + 4
+
+Q(x) = x^3 + 5x^2 + 8x + 4
+
+W(x) = Q(x)
+
+x^3 + bx^2 + cx + d = x^3 + 5x^2 + 8x + 4
+
+Odp: b=5, c=8, d=4.

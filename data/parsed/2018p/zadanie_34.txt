@@ -1,0 +1,67 @@
+=== ARKUSZ: 2018p | ZADANIE 34 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 34. (0-4)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Dany jest graniastosłup prawidłowy trójkątny (zobacz rysunek). Pole powierzchni całkowitej tego graniastosłupa jest równe 45sqrt{3}. Pole podstawy graniastosłupa jest równe polu jednej ściany bocznej. Oblicz objętość tego graniastosłupa.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 34. (0–4)
+Wymagania ogólne: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego (G11.2). 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).
+
+Przykładowe rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku.
+Rozważany graniastosłup ma 5 ścian, a każda z nich ma takie samo pole.
+Obliczamy pole podstawy, a zarazem pole jednej ściany bocznej:
+P = 45 * pierwiastek(3) / 5 = 9 * pierwiastek(3).
+Podstawą graniastosłupa jest trójkąt równoboczny, więc jego pole jest równe P_ABC = a^2 * pierwiastek(3) / 4.
+
+Strona 24 z 25
+Obliczamy długość krawędzi podstawy:
+a^2 * pierwiastek(3) / 4 = 9 * pierwiastek(3) -&gt; a^2 = 36 -&gt; a = 6.
+Ściana boczna jest prostokątem o bokach długości a i h, więc pole każdej ściany bocznej jest równe P_ABED = a * h.
+Z warunków zadania wynika, że: a * h = 9 * pierwiastek(3). Znamy długość krawędzi podstawy a, zatem: 6 * h = 9 * pierwiastek(3).
+Obliczamy wysokość graniastosłupa h = 9 * pierwiastek(3) / 6 = 3 * pierwiastek(3) / 2.
+Objętość graniastosłupa jest równa V = P_ABC * h = 9 * pierwiastek(3) * [3 * pierwiastek(3) / 2] = 81/2.
+
+Schemat punktowania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania: 1 p.
+Zdający
+
+* zapisze zależność między wielkościami a i h wynikającą z równości pól podstawy i ściany bocznej graniastosłupa: a^2 * pierwiastek(3) / 4 = a * h
+albo
+* obliczy pole jednej ściany graniastosłupa: P = 45 * pierwiastek(3) / 5 = 9 * pierwiastek(3),
+albo
+* zapisze równanie: 2 * [a^2 * pierwiastek(3) / 4] + 3 * a * h = 45 * pierwiastek(3)
+albo
+* zapisze równania: P_p = a^2 * pierwiastek(3) / 4 i P_b = a * h i P_p = P_b
+i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający
+
+* zapisze równanie z jedną niewiadomą, pozwalające na wyznaczenie długości krawędzi podstawy lub wysokości graniastosłupa i na tym zakończy lub dalej popełni błędy
+albo
+* uzależni objętość bryły od jednej zmiennej i na tym zakończy lub dalej popełni błędy.
+
+Strona 25 z 25
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający
+
+* obliczy długość krawędzi podstawy i wysokość graniastosłupa: a = 6, h = 3 * pierwiastek(3) / 2,
+albo
+* obliczy długość krawędzi podstawy graniastosłupa: a = 6 i uzależni objętość bryły od jednej zmiennej a lub obliczy wysokość graniastosłupa i uzależni objętość bryły od jednej zmiennej h i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie pełne: 4 p.
+Zdający obliczy objętość graniastosłupa: V = 81/2.
+
+Uwagi
+
+1. Jeżeli zdający realizuje strategię rozwiązania, a jedynymi błędami w przedstawionym rozwiązaniu są błędy rachunkowe, to otrzymuje 3 punkty.
+2. Jeżeli zdający popełnia błąd polegający na niepoprawnym stosowaniu wzoru na pole trójkąta równobocznego albo wzoru na pole prostokąta, to otrzymuje 2 punkty, o ile nie popełnia innych błędów i rozwiąże zadanie do końca.
+3. Jeżeli zdający popełnia błąd, polegający na niewłaściwym określeniu zależności między polem podstawy a polem ściany bocznej i w efekcie rozważa jeden z trzech przypadków: P_p = 2 * P_b, P_b = 3 * P_p, 2 * P_p = 3 * P_b, albo błąd, polegający na przyjęciu, że graniastosłup ma trzy ściany boczne i jedną podstawę, to otrzymuje 2 punkty, o ile nie popełnia innych błędów i rozwiąże zadanie do końca.
+4. Jeżeli zdający popełnia jeden błąd, opisany w uwagach 2. lub 3., a ponadto popełnia błędy rachunkowe, ale poprawnie obliczy pole jednej ściany albo realizuje strategię rozwiązania, to otrzymuje co najwyżej 1 punkt.
+5. Jeżeli zdający popełnia inne niż wymienione w uwagach 2. lub 3. błędy, dotyczące pól ścian bryły, ale poprawnie obliczy pole jednej ściany albo realizuje strategię rozwiązania, to otrzymuje co najwyżej 1 punkt.
+6. Jeżeli zdający rozważa graniastosłup trójkątny, który nie jest prawidłowy, to może otrzymać co najwyżej 1 punkt.

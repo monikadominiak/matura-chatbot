@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Wyznacz maksymalne przedziały monotoniczności i ekstrema lokalne funkcji
+
+\( f(x) = \frac{3x^2-5x+9}{x} \)
+
+\( f'(x) = \frac{3x^2-5x+9}{x} \)
+
+\( D_f = \mathbb{R}-\{0\} \)
+
+1️⃣ liczymy pochodną funkcji \( f \)
+
+\( f'(x) = \frac{(6x-5)x-(3x^2-5x+9)}{x^2} = \)
+
+\( = \frac{6x^2-5x-3x^2+5x-9}{x^2} = \frac{3x^2-9}{x^2} \)
+
+2️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\( f'(x)=0 \Leftrightarrow 3x^2-9=0 \)
+
+\( 3(x^2-3) = 0 \ /:3 \)
+
+\( (x+\sqrt{3})(x-\sqrt{3})=0 \)
+
+\( x=-\sqrt{3} \ \lor \ x=\sqrt{3} \)
+
+3️⃣ badamy monotoniczność i ekstrema funkcji
+
+Funkcja \( f \) osiąga ekstremum - minimum dla argumentu \( x=\sqrt{3} \) oraz ekstremum - maksimum dla argumentu \( x=-\sqrt{3} \)
+
+\( f_{min} = f(\sqrt{3})= \frac{3 \cdot 3 - 5 \sqrt{3} + 9}{\sqrt{3}} = 6 \sqrt{3} - 5 \)
+
+\( f_{max} = f(-\sqrt{3})= \frac{3 \cdot 3 + 5 \sqrt{3} + 9}{-\sqrt{3}} = -6 \sqrt{3} - 5 \)
+
+Odp: \( f_{min} = f(\sqrt{3}) = 6 \sqrt{3} - 5 \) i \( f_{max} = f(-\sqrt{3}) = -6 \sqrt{3} - 5 \)
+
+\( f \nearrow \) w przedziałach: \((- \infty, -\sqrt{3}\rangle, \langle \sqrt{3}, +\infty)\) 
+
+\( f \searrow \) w przedziałach: \(\langle -\sqrt{3},0\rangle, (0, \sqrt{3}\rangle \)

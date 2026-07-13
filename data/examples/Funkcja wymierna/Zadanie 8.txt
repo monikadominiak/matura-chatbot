@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Zadanie 8
+
+Określ zbiór wartości \(Y_f\) funkcji \(f\) określonej wzorem:
+
+\[
+f(x) = \frac{x^2}{x-5}, \text{ gdzie } x \neq 5.
+\]
+
+\(\circled{1}\) Wprowadzamy parametr \(m\).
+
+Funkcję \(f(x)\) przyrównujemy do \(m\).
+
+\[ 
+f(x) = m 
+\]
+
+\[
+\frac{x^2}{x-5} = m
+\]
+
+Z tego równania wyjdzie nam zbiór wartości.
+
+\(\circled{2}\) Rozwiązujemy równanie.
+
+\[ 
+x^2 = m(x-5) 
+\]
+
+\[ 
+x^2 - m(x-5) = 0 
+\]
+
+\[ 
+x^2 - mx + 5m = 0 
+\]
+
+Obliczając warunek \(\Delta < 0\) wyłożę przedział \(m\), dla którego rozwiązania nie istnieją.
+
+Wówczas wynikiem będzie dopełnienie tego przedziału.
+
+\[ 
+\Delta < 0 
+\]
+
+\[ 
+m^2 - 20m < 0 
+\]
+
+\[ 
+m(m-20) < 0 
+\]
+
+\[ 
+\begin{array}{c|c|c}
+ & m & \text{} \\
+< & 0 & 20 \\
+\end{array}
+\]
+
+\[ 
+m \in (0, 20) 
+\]
+
+Zbiorem wartości funkcji \(f(x)\) jest dopełnienie tego przedziału.
+
+Odp. \(Y_f = (-\infty, 0] \cup [20, +\infty)\).
+
+Zarówno zadanie 7, jak i 8, można było rozwiązać na dwa sposoby.
+- albo z warunku \(\Delta \geq 0\)
+- albo z warunku \(\Delta < 0\), wówczas wynikiem jest dopełnienie zbioru.

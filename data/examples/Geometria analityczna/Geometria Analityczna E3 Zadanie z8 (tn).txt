@@ -1,0 +1,69 @@
+
+--- STRONA 1 ---
+**Zadanie 28 (Tn)** Na okręgu o równaniu x^2 + y^2 = 8 opisano romb o polu 33\(\frac{1}{3}\). Dłuższa przekątna rombu zawiera się w prostej o równaniu y = x. Oblicz współrzędne wierzchołków kątów ostrych tego rombu.
+
+1) Tworzymy rysunek poglądowy:
+
+(rysunek)
+
+2) Wyznaczamy wysokość i bok rombu:
+
+O: x^2 + y^2 = 8 => S(0,0) , r = sqrt{8} = 2sqrt{2}
+
+Wysokość rombu opisanego na okręgu jest dwukrotnie większa od promienia tego okręgu.
+
+h = 2r = 4sqrt{2}
+
+Teraz możemy wyznaczyć bok rombu ze wzoru na jego pole.
+
+33\(\frac{1}{3}\) = \(\frac{100}{3}\)
+
+a * 4sqrt{2} = \(\frac{100}{3}\)
+
+a = \(\frac{100}{12sqrt{2}}\)
+
+a = \(\frac{25sqrt{2}}{12}\)
+
+3) Wyznaczamy długość przekątnej AC = tzw. Półprzemoc.
+
+Do wyznaczenia |AC| z tw. Pitagorasa potrzebujemy wyznaczyć uprzednio |AH|.
+
+|AH| = \(\frac{|BH| + |CH| + |AB|}{|AC|}\)
+
+|BH| * |CH| * |CB| 
+= 
+|BH| * (cos(a))^2 * |CB|
+
+|BH| = \(\frac{|BH| * (cos(a))^2}{|AC|}\)
+
+|BH| = \(\frac{40}{3}\)
+
+|AH| = \(\frac{80}{3}\)
+
+|AC| = 2x
+
+x =  |cos| + |AH|
+
+x = \(\frac{40sqrt{2}}{3}\)
+
+|AC| = \(\frac{|AH| + |BH|}{\sqrt{6}} = \frac{32sqrt{6}}{3}\)
+
+4) Wyznaczamy współrzędne wierzchołków A, C:
+
+A, C Є y = x => A(x_1,y_1), C(x_2,y_2)
+
+Korzystając ze wzoru na długość odcinka o końcach w dwóch danych punktach mamy:
+
+\(|SA| = |SC| = \frac{40\sqrt{2}}{3} = \sqrt{(x-0)^2 + (x-0)^2}\)
+
+100 = 2x^2
+
+x^2 = \(\frac{100}{9}\) \(\rightarrow\)
+
+y^2 = \(\frac{100}{9}\) \(\rightarrow\)
+
+|x| = \(\frac{10}{3}\)
+
+|x| = \(\frac{-20}{3}\)
+
+Odp. A (\(\frac{10}{3}\), \(\frac{10}{3}\)), C (\(\frac{40}{3}\), \(\frac{-20}{3}\)) 

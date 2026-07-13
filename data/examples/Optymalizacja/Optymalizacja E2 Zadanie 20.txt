@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+Wśród stożków o tworzącej mającej długość 4 cm znajduje się ten, którego objętość jest największa. Wyznacz promień r podstawy i wysokość h tego stożka. Podaj jego największą objętość V.
+
+① **uzależniamy od siebie zmienne**
+   
+   \( h^2 + r^2 = 16 \)
+
+   \( h = \sqrt{16 - r^2} \)
+
+② **zapisujemy wzór funkcji**
+
+   \( V = \frac{1}{3} \pi r^2 \cdot h \)
+
+   \( V(r) = \frac{1}{3} \pi r^2 \sqrt{16 - r^2} = \frac{1}{3} \pi \sqrt{16r^4 - r^6} \)
+
+③ **wyznaczamy dziedzinę funkcji**
+
+   \( h, r > 0 \Rightarrow 16 - r^2 > 0 \Rightarrow r \in (0, 4) \)
+
+④ **wyznaczamy pochodną funkcji**
+
+   I sposób: *pomijamy \( \frac{1}{3} \pi \) i pierwiastek*
+
+   Funkcja \( f(a) = \sqrt{a} \) jest rosnąca w przedziale \( (0, +\infty) \), więc funkcja \( g(a) = a \) będzie osiągać wartość największą dla tego samego argumentu co \( f(a) \).
+
+   \[
+   \text{niech } f(r) = 16r^4 - r^6
+   \]
+   \[
+   f'(r) = -6r^5 + 64r^3 = 2r^3(-3r^2 + 32)
+   \]
+
+   I sposób:
+   \[
+   \begin{array}{c}
+   \space \\
+   + \; \; \; \; \; \; \; \; \; \; \; \; - \; \; \; \; \; \; + \\
+   \downarrow \; \; \; \; \; \; \; \; \; \; \; \; \downarrow \; \; \; \; \; \; \downarrow \\
+   \max \; \; \; \; \; \; \; \; \; \; \; \; \min \; \; \; \; \; \max \\
+   \end{array}
+   \]
+
+⑤ **wyznaczamy miejsca zerowe pochodnej**
+
+   \[
+   V'(r) = 0 \Leftrightarrow 2r^3(-3r^2 + 32) = 0
+   \]
+
+   \[
+   r = 0 \; \vee \; r^2 = \frac{32}{3} \; \Rightarrow \; r = \frac{4\sqrt{6}}{3} \; \vee \; r = -\frac{4\sqrt{6}}{3}
+   \]
+
+⑥ **badamy monotoniczność i ekstrema funkcji**
+
+   \[
+   \text{(mianownik jest zawsze dodatni, więc to licznik decyduje o znaku wyrażenia)}
+   \]
+
+   \[
+   \text{II sposób:} \\
+   \begin{array}{c|c|c}
+   r \in & \left(0, \frac{4\sqrt{6}}{3}\right) & \left(\frac{4\sqrt{6}}{3}, 4\right) \\
+   \hline
+   V'(r) & + & - \\
+   V(r) & \nearrow & \searrow \\
+   \end{array}
+   \]
+
+⑦ **obliczamy \( h \) i \( V\left(\frac{4\sqrt{6}}{3}\right) \)**
+
+   \[
+   h = \sqrt{16 - \frac{16\cdot6}{9}} = \frac{4\sqrt{3}}{3} \; [\text{cm}]
+   \]
+
+   \[
+   V\left(\frac{4\sqrt{6}}{3}\right) = \frac{1}{3}\pi \cdot \frac{16 \cdot 16}{9} \cdot \frac{4\sqrt{6}}{3} = \frac{128\pi\sqrt{3}}{27} \; [\text{cm}^3]
+   \]
+
+**Odp:** \( r = \frac{4\sqrt{6}}{3} \, \text{cm}, \; h = \frac{4\sqrt{3}}{3} \, \text{cm}, \; V = \frac{128\pi\sqrt{3}}{27} \, \text{cm}^3 \)

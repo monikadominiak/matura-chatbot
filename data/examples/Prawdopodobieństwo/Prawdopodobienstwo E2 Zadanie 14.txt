@@ -1,0 +1,70 @@
+
+--- STRONA 1 ---
+Oblicz, ile jest wszystkich liczb naturalnych pięciocyfrowych nieparzystych, w których zapisie występują co najmniej trzy jedynki.
+
+① wypisujemy dane z polecenia
+
+5-cyfrowa liczba nieparzysta, co najmniej trzy "1" 
+↳ ostatnia nieparzysta
+
+0, 1, 2, (3), 4, 5, 6, 7, 8, 9
+
+② rozwiązujemy zadanie rozwiązując 3 przypadki
+
+І 5 x "1" → 1 liczba : 11111
+
+ІІ 4 x "1"
+
+. . . . .
+
+_ _ _ _ _
+
+- "1" nie na pierwszej pozycji
+
+  ∪ 1 1 1 1
+  8
+
+⇒ 8 ⋅ 1 = 8
+
+- pierwsza "1"
+
+i ostatnia 
+
+1 ⋅ 1 ⋅ (3\atop 2) ⋅ 9 = 27
+
+- nieostatnia
+
+1111 _
+      4 (3,5,7,9)
+
+⇒ 1 ⋅ 4 = 4
+
+III 3 x "1"
+
+• "1" nie na pierwszej
+
+  ostatnia
+   8 ⋅ 1 ⋅ (3\atop 2) ⋅ 9 = 216
+   pierwsza              2 x "1"
+
+- nieostatnia
+
+   8 ⋅ 1 ⋅ 4 = 32
+   pierwsza   3 x "1"
+
+• pierwsza "1"
+
+  ostatnia
+  pozostałe
+  3 ⋅ 9 ⋅ 9 = 243
+
+- nieostatnia
+
+  1 ⋅ (3\atop 2) ⋅ 9 ⋅ 4 = 108
+  pierwsza        ostatnia
+
+③ sumujemy przypadki:
+
+1 + 8 + 27 + 4 + 216 + 32 + 243 + 108 = 639
+
+Odp: 639

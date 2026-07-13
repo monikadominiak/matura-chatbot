@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Z urny zawierającej 6 kul białych i 4 czarne losujemy jedną kulę i, nie oglądając jej, wkładamy do drugiej urny, w której początkowo było 7 kul czarnych i 4 białe. Następnie z drugiej urny losujemy jednocześnie dwie kule. Oblicz prawdopodobieństwo, że będą one różnego koloru.
+
+1. analizujemy polecenie
+
+I
+4C 6B
+
+II
+7C 4B
+
+A – kule z II różnego koloru  
+B1 – z I wylosowano białą  
+B2 – z I wylosowano czarną  
+
+2. liczymy kolejne prawdopodobieństwa potrzebne do wzoru na prawdopodobieństwo całkowite
+
+P(A) = P(A|B1) · P(B1) + P(A|B2) · P(B2) + ... + P(A|Bn) · P(Bn)
+
+P(B1) = 6/10 = 3/5  
+
+P(A|B1) = (5)(7)/(11 2) = 35/66  
+
+P(B2) = 2/5  
+
+P(A|B2) = (4)(8)/(11 2) = 32/66  
+
+3. P(A) = (35/66 · 3/5) + (32/66 · 2/5) = (105 + 64)/330 = 169/330  
+Odp: 169/330  
+
+P(A|B1) → prawd. że z II urny wylosujemy dwie różne pod warunkiem B1  
+P(A|B2) analogicznie do P(A|B1)  
+
+zadanie można rozwiązać również metodą 'drzewka':
+
+P(B1) = 3/5  
+biała  
+
+35/66 P(A|B1)   
+
+II urna  
+dwie różne  
+
+P(B2) = 2/5  
+czarna  
+
+32/66 P(A|B2)   
+
+II urna  
+dwie różne  
+
+* rysujemy tylko istotne gałęzie  
+P(A) = 35/66 · 3/5 + 32/66 · 2/5 = 105 + 64/330 = 169/330

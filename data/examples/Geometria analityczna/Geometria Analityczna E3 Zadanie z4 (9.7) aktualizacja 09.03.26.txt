@@ -1,0 +1,87 @@
+
+--- STRONA 1 ---
+Zadanie z4 (9.6) W trójkącie prostokątnym ABC (|< ABC| = 90°|) dwa wierzchołki mają współrzędne A (4, -5) i C (-8, 5). Wyznacz współrzędne wierzchołka B, wiedząc, że pole trójkąta ABC jest równe 61.
+
+1) Tworzymy rysunek poglądowy. Wierzch. B (x, y)
+
+A (4,-5)
+
+C (-8,5)
+
+x
+
+y
+
+-5
+
+5
+
+H tym momencie ciężko ocenić położenie punkfu B. Wierzch. B ( x, y)
+
+2) Wyznaczamy bok AC i opisujemy na niego okrągłość:
+
+|AC|=√ ((xC-xA)^2+(yC-yA)^2 ) =√( (-8-4)^2+(5-(-5))^2 ) =√( 144+100) = √244 =14√(2)
+
+Znając pole i długość podstawy AC możemy wyznaczyć długość wysokości opuszczonej na bok AC.
+
+P_{ ABC} =1/2 |AC|⋅h_B
+
+61 = 1/2 * 14√(2) * h_B
+
+h_B0 = 61*2/( 14 √(2) )
+
+h_B0 = 61*√(2)/ 14
+
+Zauważmy, że wysokość opuszczona na bok AC (z wierzchołka B) na boku scnąc ellyptot fzgc środkowa AC (z wierzchołka B): łatwo że, ponieważ środkowa wyznaczona z wierzchołka kąta prostego jest jednocześnie połową obwodu okręgują noz w trójkącie prostokątnym. Ponemi tcaz k bonia jest nosiny połowej przedprzyluźniania.
+
+Czyli owa środkowa pokrywa się z wysokością C, co tym dziei wysokość dzieli bok K na dwie ciecie zjącą. Tylko wziętującę triepiają którego wyoipoci dzielili bok na płot wyrost boghłę onerwumiezony.
+
+C(8,5) B(x,y)
+
+A(4,-5)
+
+3) Tworzymy i rozwiązujemy układ równań na sumę i na długość odcinka:
+
+Z twierdzenia trójkąta podciętego równaologii eśnego O charakereistycznego ABC wzgeigka:
+
+|BC|=|AC| * x/2 = √( (x-(-8))^2 + (y-5)^2 )
+
+Wiedząc że wzorem na długość odcinka
+
+|AB|=(√( (x-4)^2 + (y+5)^2 ))^2= #(2:1;) = √2 *6x/2
+
+C-(-8)^2 C-(-8)^2≠*ysisAB|= *euvapoatçciteit lec*n|-cayemintli
+
+|BC| (√( 2(y+5)^2 )=#2 *expit#al(copied to)
+
+|B-C| (x-4)^2 +( y+5) =22 1)
+
+(x-8)^2 *(x-4)^2 +nehin leg
+
+(x+peipoxcopyviere=5)
+
+=y+16 1:-v-y*9d#v (-5) =
+
+C5* (x-4)^2+(6The(y)) =#22
+
+14(x-4)^2+6(y+5)^2)=6*22
+
+21x^2-(x-8)(y*4)=180
+
+21y^2-240y+((#0*+240))x-320
+
+x_c = (2+8)/2 = 7 c_a = 4 5-(-5)=6
+
+*also oderyx-t(6 +y
+
+B_1(-7,-6) lub B_2 (3,6)
+
+Hacem czena zebtentoines nacce obไímci izlloczcznytnym.rzęsoeym w ustalz wapsółużrednych
+
+A(4,-5)
+
+C(-)8,5
+
+-5
+
+Odp. B_1(-7,-6) lub B_2(3,6)

@@ -1,0 +1,73 @@
+=== ARKUSZ: 2018p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-2)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Okręgi o środkach odpowiednio A i B są styczne zewnętrznie i każdy z nich jest sztuczny do obu ramion danego kąta prostego (zobacz rysunek). Promień okręgu o środku A jest równy 2. Uzasadnij, że promień okręgu o środku B jest mniejszy od 2sqrt{2} - 2.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 29. (0-4)
+Wymagania ogólne: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności stycznej do okręgu i własności okręgów stycznych (7.2).
+
+Przykładowe rozwiązania
+I sposób
+Przyjmijmy oznaczenia jak na rysunku.
+[Opis rysunku pomocniczego: Kąt prosty o wierzchołku S. Okrąg o środku A i promieniu 2 jest styczny do ramion kąta w punktach D i C. Mniejszy okrąg o środku B i promieniu r jest wpisany w róg kąta S, styczny do ramion kąta oraz zewnętrznie styczny do większego okręgu w punkcie E na linii AS. Na odcinkach zaznaczono długości: |AD|=2, |AC|=2, promień małego okręgu r, linia BS przechodzi przez środek B, odcinek AE ma długość 2].
+Wtedy |AS| = 2 * pierwiastek(2) oraz |AE| = 2. Zatem
+|SE| = 2 * pierwiastek(2) - 2.
+Średnica okręgu o środku B i promieniu r jest krótsza od odcinka SE, więc
+2r &lt; 2 * pierwiastek(2) - 2, czyli r &lt; pierwiastek(2) - 1.
+Co kończy dowód.
+
+II sposób
+Przyjmijmy oznaczenia jak na rysunku.
+[Opis rysunku pomocniczego: Podobny układ z punktami styczności małego okręgu z ramionami kąta oznaczonymi jako G i F, promienie r doprowadzone do punktów styczności].
+Wtedy |AS| = 2 * pierwiastek(2), |BS| = r * pierwiastek(2) oraz |AE| = 2.
+Ponieważ |AS| = |BS| + |BE| + |AE|, więc otrzymujemy
+2 * pierwiastek(2) = r * pierwiastek(2) + r + 2,
+r * (pierwiastek(2) + 1) = 2 * pierwiastek(2) - 2
+
+Strona 10 z 25
+
+---
+
+Strona 11 z 25
+Stąd mnożąc obie strony tego równania przez pierwiastek(2) - 1 otrzymujemy
+r * (pierwiastek(2) + 1) * (pierwiastek(2) - 1) = (2 * pierwiastek(2) - 2) * (pierwiastek(2) - 1),
+r * (2 - 1) = 2 * 2 - 2 * pierwiastek(2) - 2 * pierwiastek(2) + 2,
+r = 4 - 4 * pierwiastek(2) + 2,
+r = 6 - 4 * pierwiastek(2).
+
+Sprawdźmy, czy r &lt; pierwiastek(2) - 1.
+Przekształcamy tę nierówność równoważnie.
+6 - 4 * pierwiastek(2) &lt; pierwiastek(2) - 1
+7 &lt; 5 * pierwiastek(2)
+49 &lt; 25 * 2
+49 &lt; 50
+Ponieważ 49 &lt; 50 jest prawdą, więc 7 &lt; 5 * pierwiastek(2). Oznacza to, że r  0.
+Stąd a = pierwiastek_9_stopnia_z(2).
+Zbiorem wartości funkcji wykładniczej f jest przedział (0, +nieskończoność).
+Wykres funkcji g powstaje przez przesunięcie wykresu funkcji f o 2 jednostki w dół.
+Zatem zbiorem wartości funkcji g jest przedział (-2, +nieskończoność).
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* obliczy a: a = pierwiastek_9_stopnia_z(2)
+albo
+* zapisze zbiór wartości funkcji g: (-2, +nieskończoność)
+i na tym zakończy lub dalej popełni błędy.
+
+Zdający otrzymuje 2 p. gdy obliczy a: a = pierwiastek_9_stopnia_z(2) i zapisze zbiór wartości funkcji g: (-2, +nieskończoność).
+
+Uwaga
+Opis zbioru wartości uznaje się za poprawny, jeśli zbiór ten jest przedstawiony graficznie w sposób jednoznacznie wskazujący, że liczba -2 nie należy do tego zbioru, lub zbiór ten jest opisany słownie, lub jakąkolwiek poprawną nierównością.
+
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór wartości funkcji w postaci (+nieskończoność, -2), to przyznajemy 2 punkty, o ile obliczy a = pierwiastek_9_stopnia_z(2).
+
+---
+
+Strona 13 z 25

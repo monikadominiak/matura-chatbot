@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Oblicz sumę wszystkich liczb trzycyfrowych zapisanych wyłącznie za pomocą cyfr 1,2,3, wiedząc, że cyfry mogą się powtarzać.
+
+suma liczb 3-cyfrowych, cyfry 1,2,3
+
+I SPOSÓB
+
+1️⃣ liczymy ile jest takich liczb
+
+3 (1/2/3) ⋅ 3 (1/2/3) ⋅ 3 (1/2/3) = 3^3 = 27
+
+2️⃣ III II I 
+123
+213
+113
+223
+333
+323
+133
+313
+
+9 liczb z „3" na końcu 
+9 liczb z „2" na końcu 
+9 liczb z „1" na końcu 
+
+w każdej kolumnie I, II, III będzie suma cyfr = 54
+
+dodajemy pisemnie:
+
+  5 5 5
++ 9 9 9
+----------
+   27
+
+→9.3 + 9.2 + 9.1 = 54
+54 + 5 = 59
+54 + 5 = 59
+
+II SPOSÓB (analogiczny do dodawania pisemnego)
+
+3️⃣ tak jak w I liczymy ile jest tych liczb: 3^3 = 27
+
+4️⃣ zauważamy, że każda cyfra musi wystąpić na danej pozycji 9 razy 
+
+(np: liczby spełniające war. zad. z 1 na pierwszym miejscu: 1/1 ⋅ 3 (1/2/3) ⋅ 3 (1/2/3) = 9)
+
+5️⃣ liczymy sumę cyfr na jednej pozycji:
+9 ⋅ (1 + 2 + 3) = 54
+
+6️⃣ mnożymy otrzymaną sumę cyfr przez odpowiednie wartości dla każdej pozycji: jedności, dziesiątek, itd.
+
+54 (100 + 10 + 1) = 5400 + 540 + 54 = 5994
+
+odp: 5994

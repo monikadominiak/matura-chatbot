@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Zadanie z3 (9.2) Dany jest punkt A = (-1, 2). Wyznacz równanie tej prostej, na której osie układu współrzędnych ograniczają odcinek o środku w punkcie A.
+
+1) Tworzymy rysunek poglądowy:
+
+\[ \text{Rysunek przedstawiający wykres z punktami A(-1,2), B(6,0), C(0,4) oraz linią } y=ax+b \]
+
+Zauważmy, że jeśli punkt leży na osi x, to jego druga współrzędna zawsze wynosi zero.
+
+Analogicznie, jeśli punkt leży na osi y, to jego pierwsza współrzędna zawsze wynosi zero.
+
+2) Wyznaczamy punkty B, C ze wzoru na środek odcinka:
+
+\[
+\begin{align*}
+\frac{x_B+0}{2} & = -1 \quad \Rightarrow \quad x_B = -2 \quad \Rightarrow \quad B(-2,0) \\
+\frac{0+y_C}{2} & = 2 \quad \Rightarrow \quad y_C = 4 \quad \Rightarrow \quad C(0,4) \\
+\end{align*}
+\]
+
+3) Tworzymy układ równań i wyznaczamy równanie szukanej prostej:
+
+\[
+\begin{align*}
+B(-2,0) & \in y = ax+b \quad \Leftrightarrow \quad 0 = -2a+b \\
+C(0,4) & \in y = ax+b \quad \Leftrightarrow \quad 4 = 0 \cdot b \quad \Leftrightarrow \quad b = 4 \\
+\end{align*}
+\]
+
+\[
+\begin{cases}
+0 = -2a + b \\
+b = 4 \\
+\end{cases} \quad \Rightarrow \quad b=2a \\
+2a = 4 \quad \Rightarrow \quad a = 2 \\
+\]
+
+Odp. \( y = 2x+4 \).

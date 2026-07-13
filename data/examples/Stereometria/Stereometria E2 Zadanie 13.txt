@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa jest kwadrat. Wspólna krawędź dwóch ścian bocznych jest wysokością tego ostrosłupa. Dwie krawędzie boczne tego ostrosłupa są nachylone do płaszczyzny podstawy pod kątem 45°. Oblicz miarę kąta między ścianami bocznymi, które nie są prostopadłe do płaszczyzny podstawy.
+
+1) sporządzamy rysunek pomocniczy
+
+i zaznaczamy przydatne boki
+
+|SA| = a, |SB| = |SD| = a√2
+
+(z trójkątów o kątach 90°, 45°, 45°)
+
+|SC| = a√3 (z tw. Pitagoreasa 
+
+w ∆ACS)
+
+2) zapisujemy dwa równania
+
+1) z tw. cosinusów:
+
+(a√2)^2 = h^2 + h^2 - 2⋅h⋅h⋅cos d
+
+2) ze wzoru na pole ∆BCS
+
+P∆BCS = 1/2 |SB|⋅|SC| = 1/2⋅h⋅|SC|
+
+3) wyznaczamy h z 2) równania
+
+1/2⋅a√2⋅a = 1/2⋅h⋅a√3 /: a ≠ 0
+
+a√2 = h√3
+
+h = (a√6)/3
+
+4) podstawiamy h do 1) równania
+
+2a^2 = 2⋅6a^2/9 - 2⋅6a^2/9⋅cosα
+
+12a^2/9⋅cosα = -6a^2/9
+
+cosα = (-6a^2/9) / (12a^2/9) = -1/2
+
+=> α = -120° (α - kąt rozwarty)
+
+odp: α = 120°

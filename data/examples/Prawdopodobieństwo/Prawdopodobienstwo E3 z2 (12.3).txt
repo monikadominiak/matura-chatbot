@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Oblicz, ile jest dziesięciocyfrowych liczb o różnych cyfrach i takich, że cyfry parzyste występują w porządku rosnącym, a cyfry nieparzyste w porządku malejącym.
+
+① analizujemy polecenie
+
+liczby 10-cyfrowe , cyfry: 0,1,2,3,4,5,6,7,8,9
+
+_ _ _ _ _ _ _ _ _ _
+
+parzyste - porządek rosnący 0,2,4,6,8  => zatem parzysta nie może być pierwsza
+
+nieparzyste - porządek malejący 9,7,5,3,1
+
+=> pierwsze miejsce -> 9
+
+②
+
+1. (9 nad 4). 1 =
+
+9! / 4!. 5!
+
+8.7.8.9 / 1.2.3.4
+
+= 126
+
+miejsca dla pozostałych nieparzystych
+
+zauważmy, że alternatywnie możemy zapisać możliwe liczby w następujący sposób:
+
+1. (9 nad 5). 1 = 126 => (9 nad 5) = (9 nad 4)
+
+miejsca dla cyfr parzystych
+
+Odp: 126

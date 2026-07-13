@@ -1,0 +1,15 @@
+=== ARKUSZ: 2021p | ZADANIE 25 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 25. (0-1)
+Punkt A = (3, -5) jest wierzchołkiem kwadratu ABCD, a punkt M = (1, 3) jest punktem
+przecięcia się przekątnych tego kwadratu.
+Wynika stąd, że pole kwadratu ABCD jest równe
+A. 68
+B. 136
+C. $2sqrt{34}$
+D. $8sqrt{34}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

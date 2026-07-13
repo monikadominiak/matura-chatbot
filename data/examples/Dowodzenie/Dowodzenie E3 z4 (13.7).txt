@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Wykaż, że jeżeli \(a, b \in (0,1)\), to \(\log_a b + \log_b a \geq 2\).
+
+\(\log_a b + \log_b a \geq 2\)
+
+① w zadaniach z logarytmami często dobrym pomysłem jest doprowadzenie do tego, aby logarytmy były o tych samych podstawach
+
+\[
+\log_b c = \frac{\log_a c}{\log_a b}
+\]
+
+\( \log_{a}b = \frac{\log_b b = \underline{1}}{\log_b a}\)
+
+zamiana podstawy logarytmu
+
+② wstawiamy wyznaczony \(\log_{a}b\) do nierówności
+
+\[
+\frac{1}{\log_b a} + \log_b a \geq 2 \quad /\cdot \log_b a > 0
+\]
+
+\[
+(\log_b a)^2 - 2 \log_b a + 1 \geq 0
+\]
+
+\[
+(\log_b a - 1)^2 \geq 0
+\]
+
+③ komentarz:
+
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, c.k.d.

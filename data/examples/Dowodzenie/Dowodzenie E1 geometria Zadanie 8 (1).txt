@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Punkt \( P \) leży na boku \( AB \) prostokąta \( ABCD \). Punkty \( Q \) i \( R \) są rzutami punktu \( P \) na przekątne \( AC \) i \( BD \). Punkt \( E \) jest rzutem wierzchołka \( A \) na przekątną \( BD \).
+
+Udowodnij, że \( PQ + PR = AE \).
+
+\(\large\mathbf{1)}\) tworzymy rysunek poglądowy
+
+Teza: \( PQ + PR = AE \)
+
+\(\large\mathbf{2)}\) prowadzimy prostą, z punktu \( P \) równoległą do \( DB \) (więc pod kątem prostym na \( AE \)) 
+
+wtedy mamy \( |SE| = |PR| \)
+
+\(\large\mathbf{3)}\) zostaje wykazać, że \( |SA| = |PQ| \)
+
+\(\angle DAP| = \angle OBP| = \alpha \)
+
+\( |SP| || |DB| \) więc \( |\angle APS| = \alpha \)
+
+trójkąty \( APQ \) i \( APS \) mają kąty \( \alpha \) i \( 90^\circ \), zatem trzeci z nich również będzie równy \( (\beta + \alpha) \)
+
+trójkąty te mają również wspólny bok: \( AP \)
+
+zatem \( \triangle APQ \equiv \triangle APS \) z cechy kkk
+
+a więc \( |SA| = |PQ| \)
+
+czyli \( |AE| = |SA| + |SE| = |PQ| + |PR| \)
+
+c.k.d.

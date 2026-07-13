@@ -1,0 +1,13 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0–4)
+Zakupiono 16 biletów do teatru, w tym 10 biletów na miejsca od 1. do 10. w pierwszym rzędzie i 6 biletów na miejsca od 11. do 16. w szesnastym rzędzie. Jakie jest prawdopodobieństwo zdarzenia polegającego na tym, że 2 wylosowane bilety, spośród szesnastu, będą biletami na sąsiadujące miejsca?
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

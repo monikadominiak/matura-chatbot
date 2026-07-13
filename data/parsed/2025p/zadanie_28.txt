@@ -1,0 +1,24 @@
+=== ARKUSZ: 2025p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0–1)
+Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry,
+która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.
+Zdarzenie A polega na tym, że suma liczb wyrzuconych oczek będzie równa 11.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Prawdopodobieństwo zdarzenia A jest równe
+
+A. 1/36
+B. 6/36
+C. 11/36
+D. 2/36
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

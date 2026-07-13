@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zadanie 4
+
+Wyznacz równanie hiperboli przechodzącej przez punkt P = (7,2), której osiami symetrii są proste: y = x - 1, y = 7 - x.
+
+1️⃣ Wyznaczamy środek przecięcia się asymptot.
+
+Jest to punkt przecięcia się prostych, które są osiami symetrii.
+
+| y = x - 1
+| y = 7 - x
+
+x - 1 = 7 - x
+2x = 8
+x = 4
+y = 4 - 1
+y = 3
+
+| x = 4  (asymptota pionowa),
+| y = 3  (asymptota pozioma).
+
+2️⃣ Podstawiamy do wzoru hiperboli.
+
+y = 𝑎/(x-p) + q,
+
+y = 𝑎/(x-4) + 3
+
+3️⃣ Obliczamy 𝑎.
+
+Podstawiamy punkt P=(7,2) do wzoru y = 𝑎/(x-4) + 3.
+
+2 = 𝑎/(7-4) + 3
+
+2 = 𝑎/3 + 3
+
+-1 = 𝑎/3
+
+𝑎 = -3
+
+Odp.: Równanie hiperboli : y = -3/(x-4) + 3.

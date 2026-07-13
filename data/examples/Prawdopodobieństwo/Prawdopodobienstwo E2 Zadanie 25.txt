@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Z cyfr 1, 2, 3, 4, 5, 6, 7, 8 tworzymy liczby ośmiocyfrowe, w których cyfry się nie powtarzają. Oblicz prawdopodobieństwo otrzymania liczby, w której wszystkie cyfry nieparzyste są na początku, a cyfra 1 jest bezpośrednio przed cyfrą 2.
+
+① analizujemy polecenie
+
+cyfry: 1, 2, 3, 4, 5, 6, 7, 8 - 8 cyfr
+
+liczby 8-cyfrowe, cyfry się nie powtarzają
+
+A - cyfry nieparzyste (1, 3, 5, 7) na początku i 1 bezpośrednio przed 2
+
+② zapisujemy schematycznie liczbę 8-cyfrową
+
+_ _ _ _ 1 2 _ _ _ _
+nieparzyste
+
+③ liczymy moc Ω
+|Ω| = 8!
+
+④ liczymy moc zdarzenia A
+|A| = 3! * 1 * 1 * 3! = 6 * 6 = 36
+NP  1  2  reszta
+
+⑤ liczymy prawdopodobieństwo A
+
+P(A) = 36/8! = 36/(1*2*3*4*5*6*7*8) = 1/1120
+
+Odp: 1/1120

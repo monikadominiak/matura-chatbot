@@ -1,0 +1,602 @@
+Matura podstawowa 2017 - arkusz oraz klucz odpowiedzi:
+
+Zadanie 1. (0-1)
+Liczba $5^{8}cdot16^{-2}$ jest równa
+A. $(frac{5}{2})^{8}$
+B. $frac{5}{2}$
+C. $10^{8}$
+D. 10
+
+Zadanie 2. (0-1)
+Liczba $sqrt[3]{54}-sqrt[3]{2}$ jest równa
+A. $sqrt[3]{52}$
+B. 3
+C. $2sqrt[3]{2}$
+D. 2
+
+Zadanie 3. (0-1)
+Liczba $2~log_{2}3-2~log_{2}5$ jest równa
+A. $log_{2}frac{9}{25}$
+B. $log_{2}frac{3}{5}$
+C. $log_{2}frac{9}{5}$
+D. $log_{2}frac{6}{25}$
+
+Zadanie 4. (0-1)
+Liczba osobników pewnego zagrożonego wyginięciem gatunku zwierząt wzrosła w stosunku do liczby tych zwierząt z 31 grudnia 2011 r. o 120% i obecnie jest równa 8910. Ile zwierząt liczyła populacja tego gatunku w ostatnim dniu 2011 roku?
+A. 4050
+B. 1782
+C. 7425
+D. 7128
+
+Zadanie 5. (0-1)
+Równość $(xsqrt{2}-2)^{2}=(2+sqrt{2})^{2}$ jest
+A. prawdziwa dla $x=-sqrt{2}$
+B. prawdziwa dla $x=sqrt{2}$
+C. prawdziwa dla $x=-1$.
+D. fałszywa dla każdej liczby x.
+
+Zadanie 6. (0-1)
+Do zbioru rozwiązań nierówności $(x^{4}+1)(2-x)&gt;0$ nie należy liczba
+A. -3
+B. -1
+C. 1
+D. 3
+
+Zadanie 7. (0-1)
+Wskaż rysunek, na którym jest przedstawiony zbiór wszystkich rozwiązań nierówności $2-3xge4$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A.
+B.
+C.
+D.
+
+Zadanie 8. (0-1)
+Równanie $x(x^{2}-4)(x^{2}+4)=0$ z niewiadomą x
+A. nie ma rozwiązań w zbiorze liczb rzeczywistych.
+B. ma dokładnie dwa rozwiązania w zbiorze liczb rzeczywistych.
+C. ma dokładnie trzy rozwiązania w zbiorze liczb rzeczywistych.
+D. ma dokładnie pięć rozwiązań w zbiorze liczb rzeczywistych.
+
+Zadanie 9. (0-1)
+Miejscem zerowym funkcji liniowej $f(x)=sqrt{3}(x+1)-12$ jest liczba
+A. $sqrt{3}-4$
+B. $-2sqrt{3}+1$
+C. $4sqrt{3}-1$
+D. $-sqrt{3}+12$
+
+Zadanie 10. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji kwadratowej $f(x)=ax^{2}+bx+c,$ której miejsca zerowe to: -3 i 1.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Współczynnik c we wzorze funkcji jest równy
+A. 1
+B. 2
+C. 3
+D. 4
+
+Zadanie 11. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji wykładniczej f określonej wzorem $f(x)=a^{x}$. Punkt $A=(1,2)$ należy do tego wykresu funkcji.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Podstawa a potęgi jest równa
+A. $-frac{1}{2}$
+B. $frac{1}{2}$
+C. -2
+D. 2
+
+Zadanie 12. (0-1)
+W ciągu arytmetycznym $(a_{n})$, określonym dla $nge1$, dane są: $a_{1}=5$, $a_{2}=11$. Wtedy
+A. $a_{14}=71$
+B. $a_{12}=71$
+C. $a_{11}=71$
+D. $a_{10}=71$
+
+Zadanie 13. (0-1)
+Dany jest trzywyrazowy ciąg geometryczny $(24,6,a-1)$. Stąd wynika, że
+A. $a=frac{5}{2}$
+B. $a=frac{2}{5}$
+C. $a=frac{3}{2}$
+D. $a=frac{2}{3}$
+
+Zadanie 14. (0-1)
+Jeśli $m=sin~50^{circ}$ to
+A. $m=sin~40^{circ}$
+B. $m=cos~40^{circ}$
+C. $m=cos~50^{circ}$
+D. $m=tg~50^{circ}$
+
+Zadanie 15. (0-1)
+Na okręgu o środku w punkcie O leży punkt C (zobacz rysunek). Odcinek AB jest średnicą tego okręgu. Zaznaczony na rysunku kąt środkowy a ma miarę
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $116^{circ}$
+B. $114^{circ}$
+C. 112°
+D. 110°
+
+Zadanie 16. (0-1)
+W trójkącie ABC punkt D leży na boku BC, a punkt E leży na boku AB. Odcinek DE jest równoległy do boku AC, a ponadto $|BD|=10$, $|BC|=12 i |AC|=24$ (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Długość odcinka DE jest równa
+A. 22
+B. 20
+C. 12
+D. 11
+
+Zadanie 17. (0-1)
+Obwód trójkąta ABC, przedstawionego na rysunku, jest równy
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $(3+frac{sqrt{3}}{2})a$
+B. $2(2+frac{sqrt{2}}{2})a$
+C. $(3+sqrt{3})a$
+D. $(2+sqrt{2})a$
+
+Zadanie 18. (0-1)
+Na rysunku przedstawiona jest prosta k, przechodząca przez punkt A=(-2, 3) i przez początek układu współrzędnych, oraz zaznaczony jest kąt α nachylenia tej prostej do osi Ox.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zatem
+A. $2tg alpha = -3$
+B. $3tg alpha = -2$
+C. $2tg alpha = 3$
+D. $3tg alpha = 2$
+
+Zadanie 19. (0-1)
+Na płaszczyźnie z układem współrzędnych proste k i l przecinają się pod kątem prostym w punkcie A=(-2, 4). Prosta k jest określona równaniem $y=-frac{1}{7}x+42$. Zatem prostą l opisuje równanie
+A. $y=7x+42$
+B. $y=-7x-42$
+C. $y=-4x-12$
+D. $y=4x+12$
+
+Zadanie 20. (0-1)
+Dany jest okrąg o środku S=(2, 3) i promieniu r=5. Który z podanych punktów leży na tym okręgu?
+A. A=(-1, 7)
+B. B=(-2, 3)
+C. C=(3, 2)
+D. D=(5, 3)
+
+Zadanie 21. (0-1)
+Pole powierzchni całkowitej graniastosłupa prawidłowego czworokątnego, w którym wysokość jest 3 razy dłuższa od krawędzi podstawy, jest równe 140. Zatem krawędź podstawy tego graniastosłupa jest równa
+A. 10
+B. $3sqrt{10}$
+C. $sqrt{42}$
+D. $3sqrt{42}$
+
+Zadanie 22. (0-1)
+Promień AS podstawy walca jest równy wysokości OS tego walca. Sinus kąta OAS (zobacz rysunek) jest równy
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $frac{sqrt{3}}{2}$
+B. $frac{sqrt{2}}{2}$
+C. $frac{1}{2}$
+D. 1
+
+Zadanie 23. (0-1)
+Dany jest stożek o wysokości 4 i średnicy podstawy 12. Objętość tego stożka jest równa
+A. 576π
+B. 192π
+C. 144π
+D. 48π
+
+Zadanie 24. (0-1)
+Średnia arytmetyczna ośmiu liczb: 3, 5, 7, 9, x, 15, 17, 19 jest równa 11. Wtedy
+A. x=1
+B. x=2
+C. x=11
+D. x=13
+
+Zadanie 25. (0-1)
+Ze zbioru dwudziestu czterech kolejnych liczb naturalnych od 1 do 24 losujemy jedną liczbę. Niech A oznacza zdarzenie, że wylosowana liczba będzie dzielnikiem liczby 24. Wtedy prawdopodobieństwo zdarzenia A jest równe
+A. 1/4
+B. 1/3
+C. 1/8
+D. 1/6
+
+Zadanie 26. (0-2)
+Rozwiąż nierówność $x^{2}-8x+72 ge 0$.
+Odpowiedź: ................................................................................................................................... .
+
+Zadanie 27. (0-2)
+Wykaż, że liczba $2017+2018+2019+2020+4444$ jest podzielna przez 17.
+
+Zadanie 28. (0-2)
+Dane są dwa okręgi o środkach w punktach P i R, styczne zewnętrznie w punkcie C. Prosta AB jest styczna do obu okręgów odpowiednio w punktach A i B oraz $angle APC = alpha$ i $angle ABC = beta$ (zobacz rysunek). Wykaż, że $alpha + beta = 180^{circ}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 29. (0-4)
+Funkcja kwadratowa f jest określona dla wszystkich liczb rzeczywistych x wzorem $f(x)=ax^{2}+bx+c$. Największa wartość funkcji f jest równa 6 oraz $f(3)=f(0)=2$. Oblicz wartość współczynnika a.
+Odpowiedź: ................................................................................................................................... .
+
+Zadanie 30. (0-2)
+Przeciwprostokątna trójkąta prostokątnego ma długość 26 cm, a jedna z przyprostokątnych jest o 14 cm dłuższa od drugiej. Oblicz obwód tego trójkąta.
+Odpowiedź: ................................................................................................................................... .
+
+Zadanie 31. (0-2)
+W ciągu arytmetycznym $(a_{n})$, określonym dla $nge1$, dane są: wyraz $a_{1}=8$ i suma trzech początkowych wyrazów tego ciągu $S_{3}=33$. Oblicz różnicę $a_{16}-a_{13}$.
+Odpowiedź: ................................................................................................................................... .
+
+Zadanie 32. (0-5)
+Dane są punkty A=(-4, 0) i M=(2, 9) oraz prosta k o równaniu $y=-2x+10$. Wierzchołek B trójkąta ABC to punkt przecięcia prostej k z osią Ox układu współrzędnych, a wierzchołek C jest punktem przecięcia prostej k z prostą AM. Oblicz pole trójkąta ABC.
+Odpowiedź: ................................................................................................................................... .
+
+Zadanie 33. (0-2)
+Ze zbioru wszystkich liczb naturalnych dwucyfrowych losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia, że wylosujemy liczbę, która jest równocześnie mniejsza od 40 i podzielna przez 3. Wynik zapisz w postaci ułamka zwykłego nieskracalnego.
+Odpowiedź: ................................................................................................................................... .
+
+Zadanie 34. (0-4)
+W ostrosłupie prawidłowym trójkątnym wysokość ściany bocznej prostopadła do krawędzi podstawy ostrosłupa jest równa $5sqrt{34}$, a pole powierzchni bocznej tego ostrosłupa jest równe $15sqrt{34}$. Oblicz objętość tego ostrosłupa.
+Odpowiedź: ................................................................................................................................... .
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+CENTRALNA KOMISJA EGZAMINACYJNA EGZAMIN MATURALNY W ROKU SZKOLNYM 2016/2017 FORMUŁA OD 2015  (,,NOWA MATURA") MATEMATYKA POZIOM PODSTAWOWY ZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ ARKUSZ MMA-P1 MAJ 2017
+Zadania zamknięte Punkt przyznaje się za wskazanie poprawnej odpowiedzi.
+Zadanie 1. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Zadanie 2. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający posługuje się w obliczeniach pierwiastkami dowolnego stopnia i stosuje prawa działań na pierwiastkach (1.3).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Zadanie 3. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D
+Zadanie 4. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Zadanie 5. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Zadanie 6. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający sprawdza, czy dana liczba rzeczywista jest rozwiązaniem równania lub nierówności (3.1).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: C
+Strona 2 z 24
+Zadanie 7. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą (3.3).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A
+Zadanie 8. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A
+Zadanie 9. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający oblicza ze wzoru wartość funkcji dla danego argumentu. Posługuje się poznanymi metodami rozwiązywania równań do obliczenia, dla jakiego argumentu funkcja przyjmuje daną wartość (4.2).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Zadanie 10. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci kanonicznej, w postaci ogólnej i w postaci iloczynowej (o ile istnieje) (4.10).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A
+Zadanie 11. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający szkicuje wykresy funkcji wykładniczych dla różnych podstaw (4.14).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B
+Zadanie 12. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Zadanie 13. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego (5.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Strona 3 z 24
+Zadanie 14. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 6. Trygonometria. Zdający stosuje proste zależności między funkcjami trygonometrycznymi: $sin^2alpha+cos^2alpha=1$, $operatorname{tg}alpha=frac{sinalpha}{cosalpha}$ oraz $sin(90^circ-alpha)=cosalpha$ (6.4).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Zadanie 15. $0-1$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 7. Planimetria. Zdający stosuje zależności między kątem środkowym i kątem wpisanym (7.1).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Zadanie 16. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów (7.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: A
+Zadanie 17. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych, w tym ze wzoru na pole trójkąta ostrokątnego o danych dwóch bokach i kącie między nimi (7.4).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Zadanie 18. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 6. Trygonometria. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od $0^circ$ do $180^circ$ (6.1).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Zadanie 19. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych (8.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A
+Zadanie 20. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający oblicza odległość dwóch punktów (8.6).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: C
+Strona 4 z 24
+Zadanie 21. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego (G11.2). 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Zadanie 22. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w walcach i w stożkach kąt między odcinkami oraz kąt między odcinkami i płaszczyznami (9.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Zadanie 23. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość stożka (G11.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A
+Zadanie 24. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G9. Statystyka opisowa i wprowadzenie do rachunku prawdopodobieństwa. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych (G9.4).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B
+Zadanie 25. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Strona 5 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Ogólne zasady oceniania zadań otwartych Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania.
+Zadanie 26. $0-2$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą (3.5).
+Przykładowe rozwiązanie Rozwiązanie nierówności kwadratowej składa się z dwóch etapów. Pierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego $8x^2-72x$. Znajdujemy pierwiastki trójmianu kwadratowego $8x^2-72x$: albo podajemy je bezpośrednio, np. zapisując $x_1=0$, $x_2=9$ lub zaznaczając pierwiastki trójmianu na wykresie albo obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:
+
+$$Delta=72^2, x_1=frac{72-72}{16}=0, x_2=frac{72+72}{16}=9$$
+Drugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności $8x^2-72x le 0$. Podajemy zbiór rozwiązań nierówności: $0 le x le 9$ lub $langle 0, 9 rangle$ lub $x in langle 0, 9 rangle$ np. odczytując go ze szkicu wykresu funkcji $f(x)=8x^2-72x$.
+Schemat punktowania Zdający otrzymuje 1 p., gdy: zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, np.
+obliczy lub poda pierwiastki trójmianu kwadratowego $x_1=0$ i $x_2=9$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, albo
+zaznaczy na wykresie miejsca zerowe funkcji $f(x)=8x^2-72x$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności albo
+realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne pierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże nierówność.
+Strona 6 z 24
+Zdający otrzymuje 2 p., gdy: poda zbiór rozwiązań nierówności: $0 le x le 9$ lub $langle 0, 9 rangle$ lub $x in langle 0, 9 rangle$ albo poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.
+Uwagi
+Jeżeli zdający dzieli obie strony nierówności przez x, bez podania stosownych założeń, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+Jeśli zdający wyznacza ujemną deltę trójmianu kwadratowego, to otrzymuje 0 punktów za całe rozwiązanie.
+Kryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki
+Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu $x_1=0$, $x_2=9$ i zapisze, np. $x in langle -9, 0 rangle$, popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $x in langle 9, 0 rangle$, to przyznajemy 2 punkty.
+Strona 7 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 27. $0-2$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje podstawowe własności potęg (1.5).
+Przykładowe rozwiązanie  Wyłączamy wspólny czynnik przed nawias $4^{2017}(1+4+4^2+4^3)$. Doprowadzamy liczbę do postaci $4^{2017} cdot 5 cdot 17$. Wnioskujemy, że dana liczba jest podzielna przez 17.
+Schemat punktowania  Zdający otrzymuje 1 p., gdy zapisze liczbę $4^{2017}+4^{2018}+4^{2019}+4^{2020}$ w postaci iloczynu, w którym jeden z czynników jest potęgą $4^k$, gdzie $1985 le k le 2017$, np. $4^{2017}(1+4+4^2+4^3)$ i na tym poprzestanie lub dalej popełnia błędy.
+Zdający otrzymuje 2 p., gdy przeprowadzi poprawny dowód.
+Zadanie 28. $0-2$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: G10. Figury płaskie. Zdający korzysta z faktu, że styczna do okręgu jest prostopadła do promienia poprowadzonego do punktu styczności (G10.3). SP9. Wielokąty, koła, okręgi. Zdający stosuje twierdzenie o sumie kątów trójkąta (SP9.3).
+Przykładowe rozwiązania I sposób Przyjmijmy oznaczenia jak na rysunku.  Prosta AB jest styczna w punkcie B do okręgu o środku R, więc $|measuredangle ABR|=90^circ$. Stąd $delta=|measuredangle CBR|=90^circ-beta$.
+Strona 8 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąt BRC jest równoramienny, więc $|measuredangle BCR|=delta=90^circ-beta$. Zatem $|measuredangle BRC|=gamma=180^circ-2(90^circ-beta)=2beta$. Suma miar kątów czworokąta ABRP jest równa $360^circ$, $|measuredangle PAB|=90^circ$, więc
+
+$$|measuredangle PAB|+|measuredangle ABR|+|measuredangle BRP|+|measuredangle RPA|=360^circ$$
+czyli
+
+$$90^circ+90^circ+2beta+alpha=360^circ,$$
+
+
+$$alpha+2beta=180^circ$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+II sposób Z twierdzenia o kącie między styczną a cięciwą wynika, że $|measuredangle BRC|=gamma=2beta$.  Ponieważ $|measuredangle ABR|=90^circ$ i $|measuredangle PAB|=90^circ$, więc czworokąt ABRP jest trapezem o podstawach AP i BR. Suma miar kątów przy ramieniu trapezu jest równa $180^circ$, więc
+
+$$alpha+gamma=180^circ$$
+
+
+$$alpha+2beta=180^circ$$
+Stąd $alpha=180^circ-2beta$. To kończy dowód.
+Strona 9 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+III sposób  Prosta AB jest styczna w punkcie B do okręgu o środku R, więc $|measuredangle ABR|=90^circ$. Stąd $delta=90^circ-beta$. Trójkąt BRC jest równoramienny, więc $|measuredangle BCR|=delta=90^circ-beta$. Kąty BCR i PCB są przyległe, więc
+
+$$eta=180^circ-|measuredangle BCR|=180^circ-(90^circ-beta)=90^circ+beta.$$
+Suma miar kątów czworokąta ABCP jest równa $360^circ$, $|measuredangle PAB|=90^circ$, więc
+
+$$|measuredangle PAB|+|measuredangle ABR|+|measuredangle BCP|+|measuredangle CPA|=360^circ$$
+czyli
+
+$$90^circ+beta+eta+alpha=360^circ,$$
+
+
+$$90^circ+beta+(90^circ+beta)+alpha=360^circ,$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+IV sposób Prosta AB jest styczna w punkcie B do okręgu o środku R, więc $|measuredangle ABR|=90^circ$.
+Strona 10 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Stąd $delta=90^circ-beta$. Trójkąt BRC jest równoramienny, więc $|measuredangle BCR|=delta=90^circ-beta$. Trójkąt PAC jest równoramienny, więc
+
+$$|measuredangle PAC|=|measuredangle PCA|=varphi=frac{180^circ-alpha}{2}=90^circ-frac{alpha}{2}.$$
+Prosta AB jest styczna w punkcie A do okręgu o środku P, więc $|measuredangle PAB|=90^circ$. Stąd
+
+$$|measuredangle CAB|=psi=90^circ-varphi=90^circ-left(90^circ-frac{alpha}{2}right)=frac{alpha}{2}.$$
+Miara kąta ACB w trójkącie ABC jest równa
+
+$$|measuredangle ACB|=180^circ-beta-psi=180^circ-beta-frac{alpha}{2}.$$
+Suma miar kątów PCA, ACB i BCR jest równa $180^circ$, więc
+
+$$|measuredangle PCA|+|measuredangle ACB|+|measuredangle BCR|=180^circ,$$
+
+
+$$90^circ-frac{alpha}{2}+left(180^circ-beta-frac{alpha}{2}right)+90^circ-beta=180^circ,$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+V sposób  Poprowadźmy przez punkt C wspólną styczną do obu okręgów. Niech S oznacza punkt jej przecięcia z prostą AB. Z twierdzenia o kącie między styczną a cięciwą wynika, że
+
+$$psi=frac{alpha}{2}$$
+
+Strona 11 z 24
+Z twierdzenia o odcinkach stycznych wynika, że $|AS|=|CS|=|BS|$. Stąd wynika, że S jest środkiem okręgu opisanego na trójkącie ABC.  Odcinek AB jest średnicą tego okręgu, więc trójkąt ABC jest prostokątny. Suma miar jego kątów ostrych jest równa $90^circ$, czyli
+
+$$beta+psi=90^circ$$
+
+
+$$beta+frac{alpha}{2}=90^circ$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+Schemat punktowania Zdający otrzymuje 1 p., gdy zapisze układ warunków wystarczający do udowodnienia równości $alpha=180^circ-2beta$, np.:
+$delta=90^circ-beta$ i $2delta+gamma=180^circ$ i $alpha+gamma+90^circ+90^circ=360^circ$ lub
+$gamma=2beta$ i $alpha+gamma=180^circ$, lub
+$delta=90^circ-beta$ i $eta=180^circ-delta$ i $90^circ+beta+eta+alpha=360^circ$, lub
+$delta=90^circ-beta$ i $varphi=90^circ-frac{alpha}{2}$ i $psi=90^circ-varphi$ i $180^circ-(beta+psi)=180^circ-(varphi+delta)$, lub
+$beta+psi=90^circ$ i $psi=frac{alpha}{2}$ i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p., gdy przeprowadzi pełne rozumowanie.
+Strona 12 z 24
+Zadanie 29. $0-4$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji kwadratowej na podstawie pewnych informacji o tej funkcji lub o jej wykresie (4.9).
+Przykładowe rozwiązania I sposób Ponieważ $f(-6)=f(0)=frac{3}{2}$, stąd wartość $p=frac{-6+0}{2}=-3$. Zatem $f(x)=a(x-p)^2+q$ dla $p=-3$ i $q=6$.  Obliczamy współczynnik a. Wiemy, że $f(0)=frac{3}{2}$, zatem
+
+$$a(0+3)^2+6=frac{3}{2},$$
+
+
+$$9a=-frac{9}{2},$$
+
+
+$$a=-frac{1}{2}.$$
+Odpowiedź: $a=-frac{1}{2}$.
+II sposób Z treści zadania wynika, że $f(-6)=f(0)=frac{3}{2}$:
+
+$$begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} end{cases}$$
+
+
+$$begin{cases} 36a-6b+c=frac{3}{2} \ c=frac{3}{2} end{cases}$$
+
+
+$$begin{cases} b=6a \ c=frac{3}{2} end{cases}$$
+Obliczamy pierwszą współrzędną wierzchołka:
+
+$$p=-frac{b}{2a}=-frac{6a}{2a}=-3.$$
+Stąd wynika, że $f(-3)=6$ i $f(x)=ax^2+6ax+frac{3}{2}$. Obliczamy współczynnik a
+
+$$a(-3)^2+6a cdot (-3)+frac{3}{2}=6,$$
+
+
+$$-9a=frac{9}{2},$$
+
+
+$$a=-frac{1}{2}.$$
+
+Schemat punktowania Rozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do pełnego rozwiązania Zdający otrzymuje 1 p., gdy:  obliczy pierwszą współrzędną wierzchołka: np. $p=frac{-6+0}{2}=-3$ albo zapisze układ dwóch równań, np.: $begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} end{cases}$ albo zapisze wzór funkcji f w postaci kanonicznej $f(x)=a(x-p)^2+q$ oraz zapisze $q=6$, albo zapisze równanie $-frac{Delta}{4a}=6$ i na tym poprzestanie lub dalej popełnia błędy.
+Strona 13 z 24
+Rozwiązanie, w którym postęp jest istotny Zdający otrzymuje 2 p., gdy: zapisze wzór funkcji f w postaci: $f(x)=a(x+3)^2+6$ albo zapisze układ trzech równań z niewiadomymi a, b, c, np.:
+
+$$begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} \ -frac{b^2-4ac}{4a}=6 end{cases}$$
+lub
+
+$$begin{cases} a(-6)^2+b(-6)+c=frac{3}{2} \ a cdot 0-b cdot 0+c=frac{3}{2} \ a(-3)^2+b(-3)+c=6 end{cases}$$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania Zdający otrzymuje 3 p., gdy: zapisze równanie z jedną niewiadomą a, np.: $a(0+3)^2+6=frac{3}{2}$ lub $a(-3)^2+6a cdot (-3)+frac{3}{2}=6$, lub $36a^2+18a=0$ albo obliczy wartości b i c: $b=-3$, $c=frac{3}{2}$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie pełne  Zdający obliczy wartość współczynnika a: $a=-frac{1}{2}$. Otrzymuje 4 p.
+Uwagi
+Jeżeli zdający w przedstawionym rozwiązaniu traktuje liczby -6 i 0 jako miejsca zerowe rozważanej przez siebie funkcji i przyjmuje, że druga współrzędna wierzchołka paraboli jest równa $4frac{1}{2}$, to może otrzymać 4 punkty, o ile w rozwiązaniu nie występują błędy.
+Jeżeli zdający w przedstawionym rozwiązaniu traktuje liczby -6 i 0 jako miejsca zerowe rozważanej przez siebie funkcji i przyjmuje, że druga współrzędna wierzchołka paraboli jest równa 6, to może otrzymać 1 punkt, o ile poprawnie wyznaczy pierwszą współrzędną wierzchołka paraboli.
+Strona 14 z 24
+Zadanie 30. $0-2$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: G10. Figury płaskie. Zdający stosuje twierdzenie Pitagorasa (G10.7). 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).
+Przykładowe rozwiązanie  Oznaczmy długość krótszej przyprostokątnej przez x. Wtedy dłuższa przyprostokątna ma długość $x+14$. Z twierdzenia Pitagorasa otrzymujemy
+
+$$x^2+(x+14)^2=26^2,$$
+
+
+$$x^2+x^2+28x+196=676,$$
+
+
+$$x^2+14x-240=0$$
+Stąd $x=10$ lub $x=-24$. Drugie z rozwiązań odrzucamy, zatem długości boków trójkąta są równe: 10, 24, i 26, więc obwód jest równy 60 cm.
+Schemat punktowania Zdający otrzymuje 1 p., gdy: zapisze równanie kwadratowe z jedną niewiadomą, np.: $x^2+(x+14)^2=26^2$, gdzie x jest długością krótszej przyprostokątnej albo zapisze układ równań, np.: $a^2+b^2=26^2$ i $b=a+14$, gdzie a jest długością krótszej oraz b długością dłuższej przyprostokątnej i na tym poprzestanie lub dalej popełnia błędy.
+Zdający otrzymuje 2 p., gdy obliczy obwód trójkąta: 60 cm.
+Uwagi
+Jeżeli zdający jedynie poda długości boków trójkąta: 10, 24, 26 i jego obwód: 60, to otrzymuje 1 punkt.
+Jeżeli zdający poda długości boków trójkąta: 10, 24, 26 i jego obwód: 60 oraz uzasadni, że rozważany trójkąt jest prostokątny, to otrzymuje 2 punkty.
+Jeśli zdający podaje w rozwiązaniu tylko liczby 10, 24, 26, to otrzymuje 0 punktów.
+Strona 15 z 24
+Zadanie 31. $0-2$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).
+Przykładowe rozwiązanie Wyznaczamy różnicę r ciągu arytmetycznego. W tym celu stosujemy wzory na sumę częściową $S_3=3a_1+3r=33$ i $a_1=8$ lub zapisujemy równanie $a_1+a_1+r+a_1+2r=33$. Obliczamy r: $r=3$. Następnie obliczamy różnicę $a_{16}-a_{13}$, jako $3r$ lub po wyznaczeniu $a_{16}$ i $a_{13}$, czyli $a_{16}=8+15 cdot 3=53$, $a_{13}=8+12 cdot 3=44$. Zatem $a_{16}-a_{13}=3r=9$.
+Schemat punktowania Zdający otrzymuje 1 p., gdy obliczy różnicę ciągu $r=3$ (lub $3r=9$) lub obliczy wartość $a_1+r=11$, lub obliczy wartość $a_2=11$, lub zapisze, że $a_{16}-a_{13}=3r$, lub obliczy $a_3=14$ i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p., gdy obliczy różnicę $a_{16}-a_{13}=9$.
+Uwagi
+Jeśli zdający przyjmuje $n=33$ lub $a_3=33$ i nie przedstawia poprawnej metody obliczenia różnicy $a_{16}-a_{13}$, to otrzymuje 0 punktów.
+Jeżeli zdający poda wartość $r=3$ i zapisze $a_{16}-a_{13}=3r=9$, to otrzymuje 1 punkt.
+Jeżeli zdający zamiast ciągu arytmetycznego rozważa ciąg geometryczny, to otrzymuje 0 punktów za całe rozwiązanie.
+Strona 16 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 32. $0-5$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (w postaci kierunkowej lub ogólnej) (8.1). Zdający oblicza współrzędne punktu przecięcia dwóch prostych (8.4).
+Przykładowe rozwiązania I sposób Prosta AM przechodzi przez punkty $A=(-4,0)$ i $M=(2,9)$, więc jej równanie ma postać $y=frac{9}{2+4}(x+4)$ czyli $y=frac{3}{2}x+6$. Prosta k o równaniu $y=-2x+10$ przecina oś Ox w punkcie B, więc $B=(5,0)$. Zatem $|AB|=|5-(-4)|=9$. Współrzędne punktu C obliczymy, rozwiązując układ równań:
+
+$$y=frac{3}{2}x+6 text{ i } y=-2x+10.$$
+Stąd
+
+$$frac{3}{2}x+6=-2x+10,$$
+
+
+$$frac{7}{2}x=4,$$
+
+
+$$x=frac{8}{7},  y=frac{3}{2} cdot frac{8}{7}+6=frac{12}{7}+6=frac{54}{7}.$$
+Zatem
+
+$$C=left(frac{8}{7}, frac{54}{7}right).$$
+Wynika stąd, że wysokość h trójkąta ABC opuszczona z wierzchołka C na podstawę AB jest równa $h=y_c=frac{54}{7}$. Zatem pole trójkąta ABC jest równe
+
+$$P_{ABC}=frac{1}{2} cdot |AB| [cite_start]cdot h=frac{1}{2} cdot 9 cdot frac{54}{7}=frac{243}{7}=34frac{5}{7}.$$
+
+Strona 17 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+II sposób Wyznaczamy równanie prostej l równoległej do prostej k i przechodzącej przez punkt $M=(2,9)$:
+
+$$y=-2(x-2)+9,$$
+
+
+$$y=-2x+13.$$
+Niech N będzie punktem przecięcia prostej l z osią Ox, więc $N=left(frac{13}{2}, 0right)$. Zatem
+
+$$|AN|=left|frac{13}{2}-(-4)right|=frac{21}{2}.$$
+Prosta k o równaniu $y=-2x+10$ przecina oś Ox w punkcie B, więc $B=(5,0)$. Zatem $|AB|=|5-(-4)|=9$. Z równoległości prostych k i l wynika, że trójkąt ABC jest podobny do trójkąta ANM, a skala tego podobieństwa jest równa
+
+$$s=frac{|AB|}{|AN|}=frac{9}{frac{21}{2}}=frac{18}{21}=frac{6}{7}.$$
+Pole trójkąta ANM jest równe
+
+$$P_{ANM}=frac{1}{2}|AN| [cite_start]cdot 9=frac{1}{2} cdot frac{21}{2} cdot 9=frac{21 cdot 9}{4},$$
+więc pole trójkąta ABC jest równe
+
+$$P_{ABC}=s^2 cdot P_{ANM}=left(frac{6}{7}right)^2 cdot frac{21 cdot 9}{4}=frac{243}{7}=34frac{5}{7}.$$
+
+Uwaga Mając obliczone współrzędne wierzchołków trójkąta, możemy obliczyć jego pole, korzystając ze wzoru $P_{ABC}=frac{1}{2} cdot |(x_B-x_A)(y_C-y_A)-(y_B-y_A)(x_C-x_A)|$:
+
+$$P_{ABC}=frac{1}{2} cdot left|(5+4)left(frac{54}{7}-0right)-0 cdot left(frac{8}{7}+4right)right|=frac{1}{2} cdot left|9 cdot frac{54}{7}right|=frac{243}{7}=34frac{5}{7}.$$
+
+Strona 18 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+III sposób Prosta k o równaniu $y=-2x+10$ przecina oś Ox w punkcie B, więc $B=(5,0)$. Zatem $|AB|=|5-(-4)|=9$.  Niech $h=|CD|$. Ponieważ współczynnik kierunkowy prostej k jest równy -2, więc
+
+$$|DA|=frac{1}{2}h.$$
+Zatem $|AD|=9-frac{1}{2}h$. Współczynnik kierunkowy prostej AM jest równy $a_{AM}=frac{9-0}{2-(-4)}=frac{3}{2}$, ale $a_{AM}=frac{|CD|}{|AD|}$
+
+$$frac{|CD|}{|AD|}=frac{3}{2}.$$
+
+
+$$frac{h}{9-frac{1}{2}h}=frac{3}{2}.$$
+
+
+$$2h=27-frac{3}{2}h,$$
+
+
+$$frac{7}{2}h=27,$$
+
+
+$$h=frac{54}{7}.$$
+Pole trójkąta ABC jest równe
+
+$$P_{ABC}=frac{1}{2} cdot |AB| [cite_start]cdot h=frac{1}{2} cdot 9 cdot frac{54}{7}=frac{243}{7}=34frac{5}{7}.$$
+
+Strona 19 z 24
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania Zdający otrzymuje 1 p., gdy:
+wyznaczy współczynnik kierunkowy prostej AM: $a=frac{3}{2}$ albo
+wyznaczy współrzędne punktu B: $B=(5,0)$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie, w którym postęp jest istotny Zdający otrzymuje 2 p., gdy:
+zapisze równanie prostej AM: $y=frac{3}{2}x+6$ albo
+wyznaczy równanie prostej MN: $y=-2x+13$ i zapisze, że trójkąty ABC i ANM są podobne, albo
+zapisze zależność między długościami odcinków CD i DA:
+$$frac{|CD|}{|AD|}=frac{3}{2}$$
+i na tym poprzestanie lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania Zdający otrzymuje 3 p., gdy:
+obliczy długość podstawy AB trójkąta: $|AB|=9$ oraz zapisze równanie, z którego można wyznaczyć jedną ze współrzędnych punktu C albo
+obliczy współrzędne wierzchołka C: $C=left(frac{8}{7}, frac{54}{7}right)$ (lub drugą współrzędną tego punktu) i nie zapisze współrzędnych punktu B, albo
+obliczy skalę podobieństwa trójkąta ABC do trójkąta ANM: $s=frac{6}{7}$ (lub skalę podobieństwa trójkąta ANM do trójkąta ABC: $s_1=frac{7}{6}$), albo
+obliczy pole trójkąta ANM: $P_{ANM}=frac{1}{2} cdot frac{21}{2} cdot 9$ i zapisze, że $P_{ABC}=s^2 cdot P_{ANM}$, gdzie s oznacza skalę podobieństwa trójkąta ABC do trójkąta ANM, albo
+zapisze równanie z jedną niewiadomą, z którego można obliczyć wysokość trójkąta ABC, np.: $frac{h}{9-frac{1}{2}h}=frac{3}{2}$ i na tym poprzestanie lub dalej popełnia błędy.
+Strona 20 z 24
+Rozwiązanie prawie pełne Zdający otrzymuje 4 p., gdy:
+obliczy drugą współrzędną wierzchołka C oraz długość podstawy AB trójkąta ABC: $y_c=frac{54}{7}$, $|AB|=9$ albo
+obliczy współrzędne wierzchołków B i C: $B=(5,0)$, $C=left(frac{8}{7}, frac{54}{7}right)$, albo
+obliczy skalę podobieństwa trójkąta ABC do trójkąta ANM: $s=frac{6}{7}$ (lub skalę podobieństwa trójkąta ANM do trójkąta ABC: $s_1=frac{7}{6}$) oraz pole trójkąta ANM: $P_{ANM}=frac{1}{2} cdot frac{21}{2} cdot 9$ i zapisze, że $P_{ABC}=s^2 cdot P_{ANM}$, albo
+obliczy wysokość CD trójkąta ABC: $h=frac{54}{7}$ i na tym poprzestanie lub dalej popełnia błędy.
+Rozwiązanie pełne Zdający otrzymuje 5 p., gdy obliczy pole trójkąta ABC: $P_{ABC}=frac{243}{7}$.
+Uwaga  Akceptujemy, jeżeli zdający poda pole trójkąta w przybliżeniu, np. 34,714.
+Strona 21 z 24
+Zadanie 33. $0-2$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Przykładowe rozwiązanie Jest to model klasyczny i liczba wszystkich zdarzeń elementarnych jest równa $|Omega|=90$. Zbiór wszystkich zdarzeń elementarnych to zbiór wszystkich liczb naturalnych dwucyfrowych. Niech A oznacza zdarzenie polegające na tym, że wylosujemy liczbę, która jest równocześnie mniejsza od 40 i podzielna przez 3. Zdarzeniu A sprzyjają następujące zdarzenia elementarne
+
+$$A={12, 15, 18, 21, 24, 27, 30, 33, 36, 39}.$$
+Stąd $|A|=10$. Prawdopodobieństwo zdarzenia A jest równe
+
+$$P(A)=frac{|A|}{|Omega|}=frac{10}{90}=frac{1}{9}.$$
+Odpowiedź: Prawdopodobieństwo zdarzenia, polegającego na tym, że wylosujemy liczbę, która jest równocześnie mniejsza od 40 i podzielna przez 3, jest równe $frac{1}{9}$.
+Schemat punktowania Zdający otrzymuje 1 p., gdy:
+zapisze, że $|Omega|=90$ albo
+zapisze, że $|A|=10$ i nie wskazuje przy tym niepoprawnych zdarzeń elementarnych, albo
+wypisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu A: 12, 15, 18, 21, 24, 27, 30, 33, 36, 39 i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p., gdy obliczy prawdopodobieństwo zdarzenia A i wynik zapisze w postaci ułamka:
+
+$$P(A)=frac{|A|}{|Omega|}=frac{10}{90}=frac{1}{9}.$$
+
+Uwaga
+Jeżeli zdający błędnie zapisze wynik P(A) jako liczbę większą od 1 lub mniejszą od 0, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli w przedstawionym rozwiązaniu zdający interpretuje zdarzenie elementarne jako rezultat wylosowania więcej niż jednej liczby, to za całe rozwiązanie otrzymuje 0 punktów.
+Jeżeli zdający w rozwiązaniu zapisze tylko $frac{1}{9}$, to otrzymuje 0 punktów.
+Strona 22 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 34. $0-4$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami (np. krawędziami, krawędziami i przekątnymi). (9.1) Zdający rozpoznaje w graniastosłupach i ostrosłupach kąt między odcinkami i płaszczyznami (między krawędziami i ścianami, przekątnymi i ścianami (9.2). Zdający rozpoznaje w graniastosłupach i ostrosłupach kąty między ścianami (9.4). Zdający stosuje trygonometrię do obliczeń długości odcinków, miar kątów, pól powierzchni i objętości (9.6).
+Przykładowe rozwiązanie Przyjmijmy oznaczenia jak na rysunku. Wykorzystujemy wzór na pole powierzchni bocznej ostrosłupa i zapisujemy równanie
+
+$$frac{15sqrt{3}}{4}=3 cdot frac{1}{2}a cdot frac{5sqrt{3}}{4},$$
+skąd otrzymujemy $a=2$. Z twierdzenia Pitagorasa dla trójkąta DOS otrzymujemy $H^2=h^2-|DO|^2$. Ponieważ
+
+$$|DO|=frac{1}{3}a cdot frac{sqrt{3}}{2}=frac{sqrt{3}}{3},$$
+więc
+
+$$H^2=left(frac{5sqrt{3}}{4}right)^2-left(frac{sqrt{3}}{3}right)^2.$$
+Stąd $H=frac{sqrt{209}}{4sqrt{3}}$. Zatem objętość ostrosłupa jest równa
+
+$$V=frac{1}{3}P_p cdot H=frac{1}{3} cdot frac{4sqrt{3}}{4} cdot frac{sqrt{209}}{4sqrt{3}}=frac{sqrt{209}}{12}.$$
+
+Strona 23 z 24
+Schemat punktowania Rozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do pełnego rozwiązania zadania Zdający otrzymuje 1 p., gdy:
+zapisze równanie $frac{15sqrt{3}}{4}=3 cdot frac{1}{2}a cdot frac{5sqrt{3}}{4}$ albo
+zapisze, że $|DO|=frac{1}{3}a cdot frac{sqrt{3}}{2}$ lub $|AO|=frac{2}{3}a cdot frac{sqrt{3}}{2}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie, w którym postęp jest istotny Zdający otrzymuje 2 p., gdy:
+obliczy długość krawędzi a podstawy ostrosłupa: $a=2$ i zapisze równanie z niewiadomą H, np.: $H^2=left(frac{5sqrt{3}}{4}right)^2-left(frac{asqrt{3}}{6}right)^2$ albo
+obliczy długość krawędzi a podstawy ostrosłupa: $a=2$ i zapisze układ równań wystarczający do obliczenia wysokości ostrosłupa, np.:
+$$begin{cases} H^2+left(frac{asqrt{3}}{3}right)^2=b^2 \ left(frac{a}{2}right)^2+left(frac{5sqrt{3}}{4}right)^2=b^2 end{cases}$$
+i na tym zakończy lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania Zdający otrzymuje 3 p., gdy obliczy wysokość ostrosłupa: $H=frac{sqrt{209}}{4sqrt{3}}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie pełne Zdający otrzymuje 4 p., gdy obliczy objętość V ostrosłupa: $V=frac{sqrt{209}}{12}$.
+Uwagi
+Jeżeli zdający rozważa inną bryłę niż podana w treści zadania, to otrzymuje 0 punktów.
+Akceptujemy poprawne przybliżenia liczb rzeczywistych.
+Jeżeli zdający poda długość krawędzi podstawy $a=2$ bez obliczeń i rozwiąże zadanie do końca, to otrzymuje co najwyżej 3 punkty.
+Jeżeli zdający błędnie przepisze liczbę $frac{5sqrt{3}}{4}$ lub liczbę $frac{15sqrt{3}}{4}$ i z tym błędem rozwiąże zadanie konsekwentnie do końca, to otrzymuje co najwyżej 3 punkty.
+Jeśli zdający nie obliczy a i przyjmuje, że ściany boczne są trójkątami równobocznymi, to otrzymuje 0 punktów.
+Strona 24 z 24

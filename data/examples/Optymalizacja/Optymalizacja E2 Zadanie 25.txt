@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+Z arkusza blachy w kształcie półkoła o promieniu R należy wyciąć trapez, którego jedna podstawa jest średnicą tego półkoła, a wierzchołki drugiej podstawy leżą na jego brzegu.
+
+a) Wykazać, że pole trapezu P wyraża się wzorem P(x) = (R + x) sqrt(R^2 - x^2), gdzie 2x oznacza długość krótszej podstawy trapezu [2 pkt]
+
+b) Oblicz, jaką długość powinno mieć ramię tego trapezu, aby jego pole było największe możliwe. Oblicz to pole [5 pkt]
+
+a)
+
+① u zależniamy od siebie zmienne
+
+\[ R - \text{dana} \quad x^2 + h^2 = R^2 \Rightarrow h^2 = R^2 - x^2 \]
+\[ h = \sqrt{R^2 - x^2} \]
+
+② zapisujemy wzór funkcji
+
+\[ P = \frac{yR + x}{2} \cdot h \]
+
+c.n.d.
+
+P(x) = (R + x) \sqrt{R^2 - x^2}
+
+b)
+
+③ wyznaczamy dziedzinę funkcji
+
+\[ x > 0 \quad \land \quad R^2 - x^2 > 0 \]
+\[ (R - x)(R + x) > 0 \Rightarrow x \in (0, R) \]
+\[ x \in (-R, R) \]
+
+④ wyznaczamy pochodną funkcji
+
+P(x) = (R + x) \sqrt{R^2 - x^2} = \sqrt{(R + x)^2 (R^2 - x^2)}
+
+niech f(x) = (R + x)^2 (R^2 - x^2) \quad P_f = P
+
+(funkcja P(x) i f(x) przyjmują wartość największą dla tych samych argumentów)
+
+pochodną funkcji f liczymy ze wzoru na pochodną iloczynu:
+
+\[ [f(x) \cdot g(x)]' = f'(x) \cdot g(x) + f(x) \cdot g'(x) \]
+
+f(x) = (R^2 + 2Rx + x^2) \cdot (R^2 - x^2)
+
+\[ f'(x) = (2(x + R)(R) + (R + x)^2 \cdot (-2x) = 2(x + R)^2 (R - 2x) \]
+pamiętamy, że R jest dane, !
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+\[ f'(x) = 0 \iff 2(x + R)^2 (R - 2x) = 0 \]
+
+\[ x = -R \quad \vee \quad x = \frac{R}{2} \]
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+II sposób:
+\[
+\begin{array}{c|c|c}
+x & (0, \frac{R}{2}) & (\frac{R}{2}, R) \\
+\hline
+f'(x) & + & - \\
+f(x) & \nearrow & \searrow \\
+\end{array}
+\]
+
+Funckja f(x), a tym samym P(x), osiąga w swojej dziedzinie wartość największą dla argumentu:
+\[ x = \frac{R}{2} \]
+
+⑦ obliczamy długości ramienia i pole
+
+\[ h = \sqrt{R^2 - \frac{R^2}{4}} = \frac{R \sqrt{3}}{2} \]
+ramię: \[ \sqrt{\frac{3 R^2}{4} + \frac{R^2}{4}} = \sqrt{R^2} = R \]
+
+\[ P(\frac{R}{2}) = \frac{3}{2} R \cdot \frac{R \sqrt{3}}{2} = \frac{3 \sqrt{3} R^2}{4} \]
+
+Odp: ramię = R , P = \frac{3 \sqrt{3} R^2}{4}

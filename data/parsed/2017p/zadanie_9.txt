@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9. (0-1)
+Miejscem zerowym funkcji liniowej $f(x)=sqrt{3}(x+1)-12$ jest liczba
+A. $sqrt{3}-4$
+B. $-2sqrt{3}+1$
+C. $4sqrt{3}-1$
+D. $-sqrt{3}+12$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 9. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający oblicza ze wzoru wartość funkcji dla danego argumentu. Posługuje się poznanymi metodami rozwiązywania równań do obliczenia, dla jakiego argumentu funkcja przyjmuje daną wartość (4.2).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

@@ -1,0 +1,22 @@
+
+--- STRONA 1 ---
+Zadanie 17 [3 pkt] - Typ 1.3  
+Wiedząc, że a = log_3 7, oblicz log_7 49/9  
+
+Musimy log_7 49/9 przekształcić w taki sposób aby znalazł się tam log_3 7 = a  
+
+1) Skorzystamy ze wzoru na zamianę podstawy logarytmu zamieniając na podstawę 3  
+
+log_b C = log_a C / log_a b  
+
+log_7 49/9 = log_3 49/9 / log_3 7 = log_3 49/9 / a  
+
+2) W liczniku możemy dostosć wzór na odejmowanie logarytmów  
+
+log_a (x/y) = log_a x - log_a y  
+
+log_3 (7^2 / 9) = log_3 7^2 - log_3 9 = 2log_3 7 - 2  
+
+= 2a - 2 / a = 2(a - 1) / a  
+
+Odp: 2(a - 1) / a.

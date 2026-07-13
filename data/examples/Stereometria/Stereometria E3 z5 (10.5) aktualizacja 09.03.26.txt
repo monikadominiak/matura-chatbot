@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Odległość środka podstawy ostrosłupa prawidłowego czworokątnego od ściany bocznej jest równa d, a kąt ściany bocznej przy wierzchołku ostrosłupa ma miarę α. Oblicz objętość ostrosłupa.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+2️⃣ najpierw wykorzystujemy kąt α
+
+w ΔB'CE tg α/2 = a/2h => h = a/2tg α/2
+
+3️⃣ szukamy kolejnej zależności z h
+
+w ΔSB'E H^2 + (a/2)^2 = h^2
+
+H^2 = (a/2tg α/2)^2 - (a/2)^2 = a^2(1 - tg^2 α/2)/4tg^2 α/2
+
+H = a sqrt(1 - tg^2 α/2)/2 + tg α/2
+
+4️⃣ wyznaczamy a w zależności od danych
+
+|EB'| = h
+
+ΔSC'B' ∼ ΔESB' z cechy kkk
+
+H/h = d/(α/2)
+
+a sqrt(1 - tg^2 α/2)/2 + tg α/2 = d/(α/2)
+
+a/2tg α/2 = d/(α/2)
+
+wyznaczamy a z proporcji (mnożymy na krzyż)
+
+a sqrt(1 - tg^2 α/2)/2 + tg α/2 * α/2 = d⋅a/2tg α/2 /⋅2tg α/2 ≠ 0
+
+a sqrt(1 - tg^2 α/2)/2 = d => a = 2d/sqrt(1 - tg^2 α/2)
+
+5️⃣ podstawiamy wyznaczone a do wzoru na H
+
+H = 2d/sqrt(1 - tg^2 α/2) * sqrt(1 - tg^2 α/2)/2 + tg α/2 = d/tg α/2
+
+6️⃣ wyznaczamy objętość
+
+V = 1/3(a sqrt(1 - tg^2 α/2))^2 * d/tg α/2 = 4d^3/3tg α/2(1 - tg^2 α/2)
+
+Odp: V = 4d^3/3tg α/2(1 - tg^2 α/2)

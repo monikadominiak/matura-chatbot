@@ -1,0 +1,82 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-4)
+W trapezie ABCD ((AB parallel CD)) przekątne AC i BD przecinają się w punkcie O takim, że (|AO|:|OC|=5:1). Pole trójkąta AOD jest równe 10. Uzasadnij, że pole trapezu ABCD jest równe 72.
+Wymagania: V. Rozumowanie i argumentacja.
+Wymagania szczegółowe: 7.3., SP11.2. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów, oblicza pola: kwadratu, prostokąta, rombu, równoległoboku, trójkąta, trapezu przedstawionych na rysunku (w tym na własnym rysunku pomocniczym) oraz w sytuacjach praktycznych.
+
+I sposób rozwiązania:
+Trójkąty ABO i CDO są podobne (na podstawie cechy kk).
+Jeżeli (|CO|=x), to (|AO|=5x), ponadto (|AB|=5|CD|).
+Jeżeli wysokość w trójkącie CDO opuszczona na bok CD jest równa h, to wysokość w trójkącie ABO opuszczona na bok AB jest równa 5h.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku oznaczono: Trapez ABCD z przekątnymi przecinającymi się w punkcie O, odcinki CO=x, AO=5x, wysokości h, 5h.
+
+Możemy zapisać dwa wzory opisujące pole trójkąta ACD.
+- (P_{Delta ACD}=P_{Delta AOD}+P_{Delta CDO}=10+P_{Delta CDO})
+- (P_{Delta ACD}=frac{1}{2}cdot |CD|cdot(h+5h)=3cdot |CD|cdot h=6cdotfrac{1}{2}cdot |CD|cdot h=6P_{Delta CDO})
+
+Możemy zatem zapisać równość:
+(6P_{Delta CDO}=10+P_{Delta CDO})
+Wobec tego: (5P_{Delta CDO}=10.)
+(P_{Delta CDO}=2)
+
+Możemy wyznaczyć pole trójkąta ACD: (P_{Delta ACD}=10+P_{Delta CDO}=10+2=12).
+Obliczmy pole trójkąta ABC.
+(P_{Delta ABC}=frac{1}{2}cdot |AB|cdot(h+5h)=3cdot |AB|cdot h=3cdot 5cdot |CD|cdot h=30cdotfrac{1}{2}cdot |CD|cdot h=30P_{Delta CDO}=60)
+Obliczamy pole trapezu ABCD.
+(P_{ABCD}=P_{Delta ACD}+P_{Delta ABC}=12+60=72)
+Zatem wykazaliśmy, że pole trapezu ABCD jest równe 72.
+
+II sposób rozwiązania:
+Trójkąty ABO i CDO są podobne (na podstawie cechy kk).
+Jeżeli (|CO|=x), to (|AO|=5x), ponadto (|AB|=5|CD|).
+Jeżeli wysokość w trójkącie CDO opuszczona na bok CD jest równa h, to wysokość w trójkącie ABO opuszczona na bok AB jest równa 5h.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Możemy zapisać dwa wzory opisujące pole trójkąta ABD.
+(P_{Delta ABD}=P_{Delta AOD}+P_{Delta ABO}=10+P_{Delta ABO}=10+frac{5}{2}cdot |AB|cdot h)
+(P_{Delta ABD}=frac{1}{2}cdot |AB|cdot(h+5h)=3cdot |AB|cdot h)
+
+Możemy zatem zapisać równość:
+(3cdot |AB|cdot h=10+frac{5}{2}cdot |AB|cdot h)
+Wobec tego: (0,5cdot |AB|cdot h=10.)
+(|AB|cdot h=20)
+
+Możemy wyznaczyć pole trójkąta ABD: (P_{Delta ABD}=3cdot |AB|cdot h=3cdot 20=60)
+Obliczmy pole trójkąta BCD.
+(P_{Delta BCD}=frac{1}{2}cdot |CD|cdot(h+5h)=frac{1}{2}cdotfrac{1}{5}cdot |AB|cdot 6h=0,6cdot |AB|cdot h=0,6cdot 20=12)
+
+Obliczamy pole trapezu ABCD.
+(P_{ABCD}=P_{Delta ABD}+P_{Delta BCD}=60+12=72)
+Zatem wykazaliśmy, że pole trapezu ABCD jest równe 72.
+
+Schemat oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania - 1 pkt
+albo
+- Zapisanie pola trójkąta ACD w zależności od pola trójkąta CDO oraz w zależności od boku CD
+- Zapisanie pola trójkąta ABD w zależności od pola trójkąta ADO oraz w zależności od boku AB.
+
+Rozwiązanie, w którym jest istotny postęp - 2 pkt
+- Obliczenie pola trójkąta CDO
+albo
+- Obliczenie pola trójkąta ABD.
+
+Pokonanie zasadniczych trudności zadania - 3 pkt
+- Zapisanie zależności między polem trójkąta ABC a jedną z podstaw trapezu i wysokością trapezu
+albo
+- Zapisanie zależności między polem trójkąta BCD a jedną z podstaw trapezu i wysokością trapezu,
+albo
+- Zapisanie zależności między polami trójkątów ABO i CDO oraz uzasadnienie, że pole trójkąta BCO jest równe 10.
+
+Rozwiązanie pełne - 4 pkt
+Przedstawienie poprawnego uzasadnienia, że pole trapezu ABCD jest równe 72.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

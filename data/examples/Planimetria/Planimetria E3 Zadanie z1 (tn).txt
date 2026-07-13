@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Zadanie z1 (tn) Kąt rozwarty równoległoboku o bokach długości 6 i 7 ma miarę 150°. Oblicz pole tego równoległoboku.
+
+1) Wybieramy odpowiedni wzór na pole i podstawiamy dane:
+
+Skorzystamy ze wzoru, który łączy długości boków i kąt między nimi, bo akurat takie informacje mamy podane w treści.
+
+P = a·b·sin α
+P = 6·7·sin 150°
+sin 150° = sin (180°-30°) = sin 30° = 1/2
+P = 6·7·1/2 = 21
+
+Odp. P = 21. 
+
+UWAGA: nie ma znaczenia, czy użyjemy kąta ostrego czy rozwartego. Ich sinusy są równe, ponieważ miary tych kątów sumują się do 180 stopni.

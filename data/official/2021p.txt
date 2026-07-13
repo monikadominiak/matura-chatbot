@@ -1,0 +1,641 @@
+Matura podstawowa 2021 - arkusz oraz klucz odpowiedzi:
+
+
+Zadanie 1. (0-1)
+Liczba $100^{5} cdot (0,1)^{-6}$ jest równa
+A. $10^{13}$
+B. $10^{16}$
+C. $10^{-1}$
+D. $10^{-30}$
+
+Zadanie 2. (0-1)
+Liczba 78 stanowi 150% liczby c. Wtedy liczba c jest równa
+A. 60
+B. 52
+C. 48
+D. 39
+
+Zadanie 3. (0-1)
+Rozważamy przedziały liczbowe (-0,5) i (-1, +∞). Ile jest wszystkich liczb całkowitych,
+które należą jednocześnie do obu rozważanych przedziałów?
+A. 6
+B. 5
+C. 4
+D. 5
+
+Zadanie 4. (0-1)
+Suma $2 cdot logsqrt{10} + log 10^{3}$ jest równa
+A. 2
+B. 3
+C. 4
+D. 5
+
+Zadanie 5. (0-1)
+Różnica 0,(3) $-frac{23}{33}$ jest równa
+A. -0,(39)
+B. $-frac{39}{100}$
+C. -0,36
+D. $-frac{4}{11}$
+
+Zadanie 6. (0-1)
+Zbiorem wszystkich rozwiązań nierówności $frac{2-x}{2}-2xge1$ jest przedział
+A. $langle0,+infty)$
+B. $(-infty,0)$
+C. $(-infty,5)$
+D. $(-infty,frac{1}{3})$
+
+Zadanie 7. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na poniższym rysunku przedstawiono wykres funkcji f określonej w zbiorze (-6,5).
+Funkcja g jest określona wzorem $g(x)=f(x)-2$ dla $xinlangle-6,5rangle$. Wskaż zdanie
+prawdziwe.
+A. Liczba $f(2)+g(2)$ jest równa (-2).
+B. Zbiory wartości funkcji f i g są równe.
+C. Funkcje f i g mają te same miejsca zerowe.
+D. Punkt $P=(0,-2)$ należy do wykresów funkcji f i g.
+
+Zadanie 8. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku obok przedstawiono geometryczną interpretację jednego z niżej zapisanych układów równań.
+Wskaż ten układ, którego geometryczną interpretację przedstawiono na rysunku.
+A. $begin{cases}y=x+1 y=-2x+4end{cases}$
+B. $begin{cases}y=x-1 y=2x+4end{cases}$
+C. $begin{cases}y=x-1 y=-2x+4end{cases}$
+D. $begin{cases}y=x+1 y=2x+4end{cases}$
+
+Zadanie 9. (0-1)
+Proste o równaniach $y=3x-5$ oraz $y=frac{m-3}{2}x+frac{9}{2}$ są równoległe, gdy
+A. $m=1$
+B. $m=3$
+C. $m=6$
+D. $m=9$
+
+Zadanie 10. (0-1)
+Funkcja f jest określona wzorem $f(x)=frac{x^{2}}{2x-2}$ dla każdej liczby rzeczywistej $xne1$. Wtedy
+dla argumentu $x=sqrt{3}-1$ wartość funkcji f jest równa
+A. $frac{1}{sqrt{3}-1}$
+B. -1
+C. 1
+D. $frac{1}{sqrt{3}-2}$
+
+Zadanie 11. (0-1)
+Do wykresu funkcji f określonej dla każdej liczby rzeczywistej x wzorem $f(x)=3^{x}-2$
+należy punkt o współrzędnych
+A. (-1,-5)
+B. (0,-2)
+C. (0,-1)
+D. (2, 4)
+
+Zadanie 12. (0-1)
+Funkcja kwadratowa f określona wzorem $f(x)=-2(x+1)(x-3)$ jest malejąca
+w przedziale
+A. (1, +∞)
+B. (-∞, 1)
+C. (-∞, -8)
+D. (-8, +∞)
+
+Zadanie 13. (0-1)
+Trzywyrazowy ciąg $(15, 3x, frac{5}{3})$ jest geometryczny i wszystkie jego wyrazy są dodatnie. Stąd
+wynika, że
+A. $x=frac{3}{5}$
+B. $x=frac{4}{5}$
+C. $x=1$
+D. $x=frac{5}{3}$
+
+Zadanie 14. (0-1)
+Ciąg $(b_{n})$ jest określony wzorem $b_{n}=3n^{2}-25n$ dla każdej liczby naturalnej $nge1$. Liczba
+niedodatnich wyrazów ciągu $(b_{n})$ jest równa
+A. 14
+B. 13
+C. 9
+D. 8
+
+Zadanie 15. (0-1)
+Ciąg arytmetyczny $(a_{n})$ jest określony dla każdej liczby naturalnej $nge1$. Trzeci i piąty wyraz
+ciągu spełniają warunek $a_{3}+a_{5}=58$. Wtedy czwarty wyraz tego ciągu jest równy
+A. 28
+B. 29
+C. 33
+D. 40
+
+Zadanie 16. (0-1)
+Dla każdego kąta ostrego α iloczyn $frac{cos alpha}{1-sin^{2}alpha}cdotfrac{1-cos^{2}alpha}{sin alpha}$ jest równy
+A. $sin alpha$
+B. tg α
+C. $cos alpha$
+D. $sin^{2}alpha$
+
+Zadanie 17. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Prosta k jest styczna w punkcie A do okręgu o środku O. Punkt B leży na tym okręgu
+i miara kąta AOB jest równa $80^{circ}$.
+Przez punkty O i B poprowadzono prostą, która przecina prostą k w punkcie C (zobacz rysunek).
+Miara kąta BAC jest równa
+A. $10^{circ}$
+B. $30^{circ}$
+C. $40^{circ}$
+D. $50^{circ}$
+
+Zadanie 18. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przyprostokątna AC trójkąta prostokątnego ABC ma długość 8 oraz tg α = $frac{2}{5}$ (zobacz rysunek).
+Pole tego trójkąta jest równe
+A. 12
+B. $frac{37}{3}$
+C. $frac{62}{5}$
+D. $frac{64}{5}$
+
+Zadanie 19. (0-1)
+Pole pewnego trójkąta równobocznego jest równe $frac{4sqrt{3}}{9}$. Obwód tego trójkąta jest równy
+A. 4
+B. 2
+C. $frac{4}{3}$
+D. 1
+
+Zadanie 20. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+W trójkącie ABC bok BC ma długość 13, a wysokość CD tego trójkąta dzieli bok AB na odcinki
+o długościach $|AD|=3$ i $|BD|=12$ (zobacz rysunek obok).
+Długość boku AC jest równa
+A. $sqrt{34}$
+B. $frac{13}{4}$
+C. $2sqrt{14}$
+D. $3sqrt{45}$
+
+Zadanie 21. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Punkty A, B, C i D leżą na okręgu o środku S. Miary kątów SBC, BCD, CDA są równe
+odpowiednio: $|angle SBC|=60^{circ}$, $|angle BCD|=110^{circ}$, $|angle CDA|=90^{circ}$ (zobacz rysunek).
+Wynika stąd, że miara α kąta DAS jest równa
+A. $25^{circ}$
+B. $30^{circ}$
+C. $35^{circ}$
+D. $40^{circ}$
+
+Zadanie 22. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+W równoległoboku ABCD, przedstawionym na rysunku, kąt α ma miarę 70°.
+Wtedy kąt β ma miarę
+A. 80°
+B. 70°
+C. 60°
+D. 50°
+
+Zadanie 23. (0-1)
+W każdym n-kącie wypukłym (n ≥ 3) liczba przekątnych jest równa $frac{n(n-3)}{2}$.
+Wielokątem wypukłym, w którym liczba przekątnych jest o 25 większa od liczby boków, jest
+A. siedmiokąt.
+B. dziesięciokąt.
+C. dwunastokąt.
+D. piętnastokąt.
+
+Zadanie 24. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Pole figury $F_{1}$ złożonej z dwóch stycznych zewnętrznie kół o promieniach 1 i 3 jest równe
+polu figury $F_{2}$ złożonej z dwóch stycznych zewnętrznie kół o promieniach długości r (zobacz rysunek).
+Długość r promienia jest równa
+A. $sqrt{3}$
+B. 2
+C. $sqrt{5}$
+D. 3
+
+Zadanie 25. (0-1)
+Punkt A = (3, -5) jest wierzchołkiem kwadratu ABCD, a punkt M = (1, 3) jest punktem
+przecięcia się przekątnych tego kwadratu.
+Wynika stąd, że pole kwadratu ABCD jest równe
+A. 68
+B. 136
+C. $2sqrt{34}$
+D. $8sqrt{34}$
+
+Zadanie 26. (0-1)
+Z wierzchołków sześcianu ABCDEFGH losujemy jednocześnie dwa różne wierzchołki.
+Prawdopodobieństwo tego, że wierzchołki te będą końcami przekątnej sześcianu
+ABCDEFGH, jest równe
+A. $frac{1}{7}$
+B. $frac{4}{7}$
+C. $frac{1}{14}$
+D. $frac{3}{7}$
+
+Zadanie 27. (0-1)
+Wszystkich liczb naturalnych trzycyfrowych, większych od 700, w których każda cyfra należy
+do zbioru {1, 2, 3, 7, 8, 9} i żadna cyfra się nie powtarza, jest
+A. 108
+B. 60
+C. 40
+D. 299
+
+Zadanie 28. (0-1)
+Sześciowyrazowy ciąg liczbowy (1, 2, 2x, x+2, 5, 6) jest niemalejący.
+Mediana wyrazów tego ciągu jest równa 4. Wynika stąd, że
+A. x=1
+B. x=$frac{3}{2}$
+C. x=2
+D. x=$frac{8}{3}$
+
+Zadanie 29. (0-2)
+Rozwiąż nierówność:
+$x^{2} - 5x le 14$
+
+Zadanie 30. (0-2)
+Wykaż, że dla każdych trzech dodatnich liczb a, b i c takich, że a &lt; b, spełniona jest
+nierówność
+$frac{a}{b} &lt; frac{a+c}{b+c}$
+
+Zadanie 31. (0-2)
+Funkcja liniowa f przyjmuje wartość 2 dla argumentu 0, a ponadto f(4) - f(2) = 6.
+Wyznacz wzór funkcji f.
+
+Zadanie 32. (0-2)
+Rozwiąż równanie:
+$frac{3x+2}{3x-2} = 4-x$
+
+Zadanie 33. (0-2)
+Trójkąt równoboczny ABC ma pole równe 9$sqrt{3}$. Prosta równoległa do boku BC przecina
+boki AB i AC – odpowiednio – w punktach K i L. Trójkąty ABC i AKL są podobne,
+a stosunek długości boków tych trójkątów jest równy $frac{3}{2}$.
+Oblicz długość boku trójkąta AKL.
+
+Zadanie 34. (0-2)
+Gracz rzuca dwukrotnie symetryczną sześcienną kostką do gry i oblicza sumę liczb
+wyrzuconych oczek.
+Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że suma
+liczb wyrzuconych oczek jest równa 4 lub 5, lub 6.
+
+Zadanie 35. (0-5)
+Punkty A = (-20, 12) i B = (7, 3) są wierzchołkami trójkąta równoramiennego ABC,
+w którym |AC| = |BC|. Wierzchołek C leży na osi Oy układu współrzędnych.
+Oblicz współrzędne wierzchołka C oraz obwód tego trójkąta.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+
+CK CENTRALNA KOMISJA EGZAMINACYJNA Rodzaj dokumentu: Zasady oceniania rozwiązań zadań Egzamin: Egzamin maturalny Przedmiot: Matematyka Poziom: Poziom podstawowy Formy arkusza: EMAP-P0-100-2105 (wersje arkusza: A i B), EMAP-P0-200-2105, EMAP-P0-300-2105, EMAP-P0-400-2105, EMAP-P0-600-2105, EMAP-P0-700-2105, EMAP-P0-Q00-2105 Termin egzaminu: 5 maja 2021 r. Data publikacji dokumentu: 21 czerwca 2021 r.
+Egzamin maturalny z matematyki (poziom podstawowy) - termin główny 2021 r. Uwaga: Gdy wymaganie egzaminacyjne dotyczy treści z III etapu edukacyjnego - dopisano „G”.
+ZADANIA ZAMKNIĘTE
+Zadanie 1. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.4) oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: D
+Zadanie 2. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.8) wykonuje obliczenia procentowe [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: C
+Zadanie 3. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.7) posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: B
+Zadanie 4. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 1.6) wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu [...] i logarytm potęgi o wykładniku naturalnym.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: C; Wersja B: A
+Zadanie 5. (0-1) Wymagania ogólne: 1. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 1.1) przedstawia liczby rzeczywiste w różnych postaciach (np. ułamka zwykłego, ułamka dziesiętnego okresowego [...]).  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: D; Wersja B: B
+Zadanie 6. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.3) rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: C
+Zadanie 7. (0-1) Wymagania ogólne: 1. Wykorzystanie i tworzenie informacji. Wymagania szczegółowe: Zdający: 4.3) odczytuje z wykresu własności funkcji (dziedzinę, zbiór wartości, miejsca zerowe [...]).  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: D
+Zadanie 8. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.2) wykorzystuje interpretację geometryczną układu równań pierwszego stopnia z dwiema niewiadomymi.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: C
+Zadanie 9. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 4.7) interpretuje współczynniki występujące we wzorze funkcji liniowej.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: D; Wersja B: A
+Zadanie 10. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: Zdający: 2.1) używa wzorów skróconego mnożenia na $(apm b)^2$ oraz $a^2-b^2$; 4.2) oblicza ze wzoru wartość funkcji dla danego argumentu [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: C
+Zadanie 11. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 4.2) oblicza ze wzoru wartość funkcji dla danego argumentu [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: C; Wersja B: B
+Zadanie 12. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 4.3) odczytuje z wykresu własności funkcji ([...] maksymalne przedziały, w których funkcja maleje, rośnie, ma stały znak [...]).  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: D
+Zadanie 13. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 5.4) stosuje wzór na n-ty wyraz [...] ciągu geometrycznego.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: D; Wersja B: B
+Zadanie 14. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 5.1) wyznacza wyrazy ciągu określonego wzorem ogólnym.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: D; Wersja B: A
+Zadanie 15. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 5.3) stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: D
+Zadanie 16. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 6.3) stosuje proste zależności między funkcjami trygonometrycznymi [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: A
+Zadanie 17. (0-1)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: 7.2) korzysta z własności stycznej do okręgu.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: C; Wersja B: B
+Zadanie 18. (0-1)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: 7.4) korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: D; Wersja B: D
+Zadanie 19. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: G10.9) oblicza pola i obwody trójkątów [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: C
+Zadanie 20. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: G10.7) stosuje twierdzenie Pitagorasa.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: B
+Zadanie 21. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 7.1) stosuje zależności między kątem środkowym i kątem wpisanym.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: D; Wersja B: B
+Zadanie 22. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: G10.8) korzysta z własności kątów i przekątnych w prostokątach, równoległobokach, rombach i w trapezach.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: C
+Zadanie 23. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.4) rozwiązuje równania kwadratowe z jedną niewiadomą.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: B
+Zadanie 24. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: G10.6) oblicza pole koła [...].  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: C; Wersja B: D
+Zadanie 25. (0-1)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: 8.6) oblicza odległość dwóch punktów.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: D
+Zadanie 26. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 10.2) oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: A; Wersja B: B
+Zadanie 27. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 10.1) zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: B; Wersja B: C
+Zadanie 28. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: G9.3) wyznacza [...] medianę zestawu danych.  Zasady oceniania: 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.  Rozwiązanie: Wersja A: C; Wersja B: B
+ZADANIA OTWARTE
+Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym zapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną liczbę punktów.
+Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może otrzymać co najwyżej $(n-1)$ punktów (gdzie n jest maksymalną możliwą do uzyskania liczbą punktów za dane zadanie).
+Zadanie 29. (0-2)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.5) rozwiązuje nierówności kwadratowe z jedną niewiadomą.
+Zasady oceniania Rozwiązanie nierówności kwadratowej składa się z dwóch etapów.  Pierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego $x^2-5x-14$. Drugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej $x^2-5x-14le 0$.
+Zdający otrzymuje 1 p. gdy:
+obliczy lub poda pierwiastki trójmianu kwadratowego $x^2-5x-14$: $x_1=-2$ oraz $x_2=7$ ALBO
+odczyta z wykresu funkcji $f(x)=x^2-5x-14$ i zapisze miejsca zerowe $x_1=-2$ oraz $x_2=7$
+Zdający otrzymuje 2 p. gdy spełni warunki określone w zasadach oceniania za 1 pkt oraz:
+poda zbiór rozwiązań nierówności: $(-2, 7)$ lub $xin langle -2, 7 rangle$ ALBO
+poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów. Zadanie zawiera obrazek ważny dla rozwiązania.
+Uwagi:
+Jeżeli zdający, realizując pierwszy etap rozwiązania zadania, popełni błąd (ale otrzyma dwa różne pierwiastki) i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań nierówności, to otrzymuje 1 punkt za całe rozwiązanie.
+Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy błędnie obliczony przez zdającego wyróżnik $Delta$ jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający, rozpoczynając realizację pierwszego etapu rozwiązania, rozpatruje inny niż podany w zadaniu trójmian kwadratowy i obliczy/poda pierwiastki tego rozpatrywanego trójmianu, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+Akceptujemy zapisanie pierwiastków trójmianu w postaci $a+bsqrt{c}$ gdzie a, b, c są liczbami wymiernymi.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $(7, -2)$, to przyznajemy 2 punkty.
+Przykładowe pełne rozwiązanie Pierwszy etap rozwiązania Zapisujemy nierówność w postaci $x^2-5x-14 le 0$ i obliczamy pierwiastki trójmianu $x^2-5x-14$. Obliczamy wyróżnik tego trójmianu: $Delta=81$ i stąd $x_1=-2$ oraz $x_2=7$. ALBO Stosujemy wzory Viète'a: $x_1 cdot x_2 = -14$ oraz $x_1+x_2=5$, stąd $x_1=-2$ oraz $x_2=7$. ALBO Podajemy je bezpośrednio, zapisując pierwiastki trójmianu lub zaznaczając je na wykresie: $x_1=-2$ oraz $x_2=7$.
+Drugi etap rozwiązania Podajemy zbiór rozwiązań nierówności: $(-2, 7)$ lub $xin langle -2, 7 rangle$ lub zaznaczamy zbiór rozwiązań na osi liczbowej.
+Zadanie 30. (0-2) Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: Zdający: G6.4) dodaje i odejmuje sumy algebraiczne; G6.5) mnoży jednomiany, mnoży sumę algebraiczną przez jednomian oraz, w nietrudnych przypadkach, mnoży sumy algebraiczne.
+Zasady oceniania Zdający otrzymuje 1 p. gdy:
+przekształci nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$ do postaci równoważnej, z której można przeprowadzić bezpośrednie wnioskowanie o prawdziwości tezy, np. 1) $frac{c(a-b)}{b(b+c)} &lt; 0$ lub 2) $c(a-b) &lt; 0$ lub 3) $ca &lt; cb$ lub 4) $frac{a-b}{b} &lt; frac{a-b}{b+c}$ ALBO
+przekształci nierówność $a&lt;b$ do postaci równoważnej $a(b+c) &lt; b(a+c)$ ALBO
+przeprowadzając dowód nie wprost, przekształci nierówność $frac{a}{b} ge frac{a+c}{b+c}$ (która jest zaprzeczeniem tezy) do postaci $ac ge bc$
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie - zdający musi spełnić warunki określone w zasadach oceniania za 1 punkt oraz:
+wykorzystać założenie $a&lt;b$ w sytuacjach 1), 2), 3) określonych w pierwszym punktorze zasad oceniania za 1 punkt ALBO
+wykorzystać założenie $a&lt;b$ i porównać ułamki w sytuacji określonej jako 4) w pierwszym punktorze zasad oceniania za 1 punkt ALBO
+przeprowadzając dowód wprost, doprowadzić nierówność $a&lt;b$ do tezy $frac{a}{b} &lt; frac{a+c}{b+c}$ ALBO
+przeprowadzając dowód nie wprost, doprowadzić nierówność do postaci $a ge b$ i stwierdzić sprzeczność z założeniem $a&lt;b$
+Uwagi:
+Jeżeli zdający zapisze błędne założenia, z których korzysta (np. gdy dzieli nierówność obustronnie przez c, przy zapisie $c ge 0$), to za całe rozwiązanie może otrzymać co najwyżej 1 punkt.
+Jeżeli zdający sprawdza prawdziwość tezy jedynie dla wybranych wartości a, b, c, to za całe rozwiązanie otrzymuje 0 punktów.
+Przykładowe pełne rozwiązania Sposób 1. Z założenia wiadomo, że a, b, c są dowolnymi liczbami rzeczywistymi dodatnimi i $a&lt;b$. Przekształcamy równoważnie nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$
+
+$$frac{a}{b} - frac{a+c}{b+c} &lt; 0$$
+
+
+$$frac{a(b+c)-b(a+c)}{b(b+c)} &lt; 0$$
+
+
+$$frac{ab+ac-ab-bc}{b(b+c)} &lt; 0$$
+
+
+$$frac{ac-bc}{b(b+c)} &lt; 0$$
+
+
+$$frac{c(a-b)}{b(b+c)} 0$. Z założenia c jest dodatnia i $a-b&lt;0$, więc $c(a-b)&lt;0$.  Zatem $frac{c(a-b)}{b(b+c)}$ jest liczbą ujemną (jako iloraz liczby ujemnej i dodatniej), czyli nierówność $frac{c(a-b)}{b(b+c)} &lt; 0$ jest prawdziwa. To należało wykazać.
+Sposób 2. Z założenia wiadomo, że a, b, c są dowolnymi liczbami rzeczywistymi dodatnimi i $a&lt;b$. Przekształcamy równoważnie nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$
+
+$$frac{a}{b} - frac{a+c}{b+c}  0$)
+
+$$a(b+c) - b(a+c) &lt; 0$$
+
+
+$$ab+ac-ab-bc &lt; 0$$
+
+
+$$c(a-b) 0$ oraz $a-b&lt;0$, więc $c(a-b)&lt;0$.  Zatem nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$ jest prawdziwa. To należało wykazać.
+Sposób 3. Z założenia wiadomo, że a, b, c są dowolnymi liczbami rzeczywistymi dodatnimi i $a&lt;b$. Przekształcamy równoważnie nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$
+
+$$frac{a}{b}  0$)
+
+$$a(b+c) &lt; b(a+c)$$
+
+
+$$ab+ac &lt; ab+bc$$
+
+
+$$ac 0$, więc otrzymujemy $a&lt;b$, co jest prawdą.  Zatem nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$ jest prawdziwa. To należało wykazać.
+Sposób 4. Przekształcamy równoważnie nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$
+
+$$frac{a}{b}-1 &lt; frac{a+c}{b+c}-1$$
+
+
+$$frac{a-b}{b} &lt; frac{a+c-b-c}{b+c}$$
+
+
+$$frac{a-b}{b} &lt; frac{a-b}{b+c}$$
+Z założenia a i b są liczbami dodatnimi oraz $a&lt;b$ więc liczniki ułamków $frac{a-b}{b}$ oraz $frac{a-b}{b+c}$ są równe i ujemne. Ponadto ich mianowniki są dodatnie i mianownik ułamka $frac{a-b}{b+c}$ jest większy od mianownika ułamka $frac{a-b}{b}$ więc $frac{a-b}{b+c} &lt; frac{a-b}{b}$. To oznacza, że nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$ jest prawdziwa.
+Sposób 5. Z założenia wiadomo, że a, b, c są dowolnymi liczbami rzeczywistymi dodatnimi oraz spełniona jest nierówność $a&lt;b$. Tę nierówność przekształcamy równoważnie, otrzymując kolejno następujące nierówności:
+
+$$ac &lt; bc$$
+
+
+$$ab+ac &lt; ab+bc$$
+
+
+$$a(b+c) &lt; b(a+c)$$
+Dzielimy tę nierówność stronami przez liczbę dodatnią $b(b+c)$ i otrzymujemy $frac{a}{b} &lt; frac{a+c}{b+c}$. To należało wykazać.
+Sposób 6. (dowód nie wprost) Z założenia wiadomo, że a, b, c są dowolnymi liczbami rzeczywistymi dodatnimi oraz $a<b>0$, więc otrzymujemy dalej:
+
+$$a(b+c) ge b(a+c)$$
+
+
+$$ab+ac ge ab+bc$$
+
+
+$$ac ge bc$$
+
+
+$$a ge b$$
+co jest sprzeczne z założeniem, że $a&lt;b$. To kończy dowód.
+Zadanie 31. (0-2)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 4.6) wyznacza wzór funkcji liniowej na podstawie informacji o funkcji [...].
+Zasady oceniania Zdający otrzymuje 1 p. gdy:
+skorzysta z własności funkcji liniowej i zapisze wartość wyrazu wolnego funkcji f, np. $b=2$ lub $f(x)=ax+2$ ALBO
+zapisze równanie ze współczynnikami funkcji $f(x)=ax+b$, wynikające z treści zadania, np. $2=a cdot 0+b$ lub $a cdot 4+b-(a cdot 2+b)=6$ ALBO
+poprawnie obliczy współczynnik kierunkowy a funkcji f (np. poprzez zastosowanie ilorazu różnicowego): $a=3$ ALBO
+nie przedstawi toku rozumowania ani obliczeń i zapisze wzór funkcji $f(x)=3x+2$
+Zdający otrzymuje 2 p. gdy zastosuje poprawną metodę wyznaczenia współczynnika a, uzyska poprawne wartości współczynników a i b oraz zapisze wzór funkcji $f(x)=3x+2$.
+Przykładowe pełne rozwiązania Sposób 1. Z warunku $f(0)=2$ wnioskujemy, że współczynnik b we wzorze funkcji $f(x)=ax+b$ jest równy 2. Obliczamy współczynnik kierunkowy a:
+
+$$a = frac{f(x_1)-f(x_2)}{x_1-x_2}$$
+
+
+$$a = frac{f(4)-f(2)}{4-2} = frac{6}{2} = 3$$
+Zapisujemy wzór funkcji $f(x)=3x+2$.
+Sposób 2. Funkcja liniowa $f(x)=ax+b$ przyjmuje wartość 2 dla argumentu 0, czyli $f(0)=2$, więc $b=2$.  Z treści zadania wiemy, że $f(4)-f(2)=6$. Stąd:
+
+$$4a+b-(2a+b)=6$$
+
+
+$$2a=6$$
+
+
+$$a=3$$
+Zatem $f(x)=3x+2$.
+Zadanie 32. (0-2)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji. Wymagania szczegółowe: Zdający: 3.7) rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych [...].
+Zasady oceniania Zdający otrzymuje 1 p. gdy poprawnie przekształci równanie $frac{3x+2}{3x-2} = 4-x$ do równania kwadratowego, np.: $3x+2=(3x-2)(4-x)$. Zdający otrzymuje 2 p. gdy zastosuje poprawną metodę rozwiązania równania wymiernego (np. stosuje przekształcenia równoważne) i uzyska poprawne rozwiązania: $x=frac{12}{6}=2$ lub $x=frac{5}{3}$.
+Uwagi:
+Jeżeli zdający nie zapisze zastrzeżenia $x ne frac{2}{3}$, to może otrzymać 2 punkty.
+Jeżeli zdający popełni błędy rachunkowe przy przekształcaniu równania, otrzyma równanie kwadratowe, które ma dwa rozwiązania i konsekwentnie je rozwiąże do końca, to może otrzymać 1 punkt za całe rozwiązanie.
+Jeżeli zdający, przekształcając równanie wymierne do równania kwadratowego, zastosuje błędną metodę i zapisze np. $(3x+2)(3x-2)=(4-x)(3x-2)$, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający odgadnie jedno z rozwiązań równania, to otrzymuje 0 punktów; jeżeli odgadnie dwa rozwiązania równania i nie uzasadni, że są to jedyne rozwiązania, to otrzymuje 1 punkt za całe rozwiązanie.
+Jeżeli zdający poprawnie przekształci równanie do równania kwadratowego, uzyska poprawne wartości pierwiastków, lecz traktuje równanie jako nierówność (rysuje parabolę i podaje przedziały jako rozwiązanie), to otrzymuje 1 punkt za całe rozwiązanie. Podobnie, jeżeli zdający poprawnie przekształci równanie do równania kwadratowego, uzyska poprawne wartości pierwiastków, lecz poda odpowiedź w postaci przedziału/sumy przedziałów o końcach $frac{5}{3}$ i 2, to otrzymuje 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązanie Równanie ma sens liczbowy dla $x ne frac{2}{3}$. Przekształcamy równanie:
+
+$$frac{3x+2}{3x-2} = 4-x$$
+
+
+$$3x+2=(3x-2)(4-x)$$
+
+
+$$3x+2=12x-3x^2-8+2x$$
+
+
+$$3x^2-11x+10=0$$
+Rozwiązujemy otrzymane równanie kwadratowe. Obliczamy wyróżnik trójmianu kwadratowego $3x^2-11x+10$: $Delta=(-11)^2-4 cdot 3 cdot 10=1$ i stąd $x_1=frac{5}{3}$ oraz $x_2=frac{12}{6}=2$. Otrzymane pierwiastki są różne od liczby $frac{2}{3}$ więc są rozwiązaniami danego równania.
+Zadanie 33. (0-2)  Wymagania ogólne: IV. Użycie i tworzenie strategii. Wymagania szczegółowe: Zdający: 7.3) rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów.
+Zasady oceniania Zdający otrzymuje 1 p. gdy:
+zastosuje poprawną metodę obliczenia pola trójkąta AKL, zapisując stosunek pól trójkątów ABC i AKL jako kwadrat stosunku długości boków, i prawidłowo obliczy pole trójkąta AKL: $P_{Delta AKL}=4sqrt{3}$ ALBO
+zastosuje poprawną metodę obliczenia długości boku trójkąta ABC (stosuje wzór na pole trójkąta równobocznego) i prawidłowo obliczy długość boku trójkąta ABC: 6 ALBO
+zapisze równanie, w którym niewiadomą jest długość boku trójkąta AKL, np. $frac{(1,5 cdot |AK|)^2 cdot sqrt{3}}{4} = 9sqrt{3}$ ALBO
+uzależni długości boków trójkątów ABC i AKL od tej samej zmiennej, np. $|AK|=2x$, $|AB|=3x$ i zapisze równanie postaci $frac{(3x)^2 cdot sqrt{3}}{4} = 9sqrt{3}$
+Zdający otrzymuje 2 p. gdy zastosuje poprawną metodę wyznaczenia długości boku trójkąta AKL i uzyska poprawny wynik: $|AK|=4$.
+Uwagi:
+Jeżeli zdający błędnie zinterpretuje skalę podobieństwa, to za całe rozwiązanie może otrzymać co najwyżej 1 punkt.
+Jeżeli zdający zapisze, że stosunek długości boków trójkątów ABC i AKL jest równy $frac{3}{2}$, popełni błąd w wyznaczeniu długości boku trójkąta ABC i konsekwentnie do tego obliczy długość boku trójkąta AKL, to otrzymuje 1 punkt za całe rozwiązanie.
+Przykładowe pełne rozwiązania Sposób 1. Z twierdzenia o stosunku pól figur podobnych i warunków zadania otrzymujemy $frac{P_{Delta ABC}}{P_{Delta AKL}} = left(frac{3}{2}right)^2$ więc $frac{9sqrt{3}}{P_{Delta AKL}} = left(frac{3}{2}right)^2$
+
+$$P_{Delta AKL} = 9sqrt{3} : left(frac{9}{4}right) = 9sqrt{3} cdot frac{4}{9} = 4sqrt{3}$$
+Korzystamy ze wzoru na pole trójkąta równobocznego i obliczamy długość b boku trójkąta AKL:
+
+$$P_{Delta AKL} = 4sqrt{3}$$
+
+
+$$frac{b^2sqrt{3}}{4} = 4sqrt{3}$$
+
+
+$$b = 4$$
+Długość boku trójkąta AKL jest równa 4.
+Sposób 2. Przyjmijmy następujące oznaczenia: a - długość boku trójkąta równobocznego ABC, b - długość boku trójkąta równobocznego AKL. Obliczamy długość boku trójkąta ABC:
+
+$$frac{a^2sqrt{3}}{4} = 9sqrt{3}$$
+
+
+$$a = 6$$
+Stosunek długości boków trójkątów ABC i AKL jest równy $frac{3}{2}$, więc:
+
+$$frac{a}{b} = frac{3}{2}$$
+
+
+$$frac{6}{b} = frac{3}{2}$$
+czyli $b=4$. Długość boku trójkąta AKL jest równa 4.
+Sposób 3.  Niech x oznacza długość boku trójkąta AKL. Ponieważ stosunek długości boku trójkąta ABC do długości boku trójkąta AKL jest równy $frac{3}{2}$, więc długość boku trójkąta ABC jest równa $frac{3}{2}x$. Pole trójkąta ABC jest równe $9sqrt{3}$, więc ze wzoru na pole trójkąta równobocznego otrzymujemy równanie:
+
+$$frac{left(frac{3}{2}xright)^2sqrt{3}}{4} = 9sqrt{3}$$
+Stąd:
+
+$$left(frac{3}{2}xright)^2 = 36$$
+
+
+$$frac{3}{2}x = 6$$
+
+
+$$x = 4$$
+Długość boku trójkąta AKL jest równa 4.
+Zadanie 34. (0-2)  Wymagania ogólne: III. Modelowanie matematyczne. Wymagania szczegółowe: Zdający: 10.2) oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa.
+Zasady oceniania Zdający otrzymuje 1 p. gdy:
+wypisze wszystkie zdarzenia elementarne lub obliczy/poda ich liczbę: $|Omega|=36$ ALBO
+przedstawi poprawny sposób wyznaczenia wszystkich elementów zbioru A lub wskaże wszystkie zdarzenia elementarne sprzyjające zdarzeniu A: (1, 3), (1, 4), (1, 5), (2, 2), (2, 3), (2, 4), (3, 1), (3, 2), (3, 3), (4, 1), (4, 2), (5, 1) ALBO
+obliczy lub poda liczbę wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A: $|A|=12$ ALBO
+sporządzi drzewo stochastyczne składające się z 36 gałęzi i zapisze na co najmniej jednym odcinku każdego z etapów prawdopodobieństwo $frac{1}{6}$ lub wskaże wszystkie istotne gałęzie na tym drzewie ALBO
+sporządzi fragment drzewa doświadczenia składający się jedynie z 12 istotnych gałęzi ALBO
+zapisze tylko $P(A)=frac{12}{36}$
+Zdający otrzymuje 2 p. gdy spełni warunki określone w zasadach oceniania za 1 punkt oraz zastosuje poprawną metodę obliczenia prawdopodobieństwa zdarzenia A i uzyska poprawny wynik: $P(A) = frac{|A|}{|Omega|} = frac{12}{36} = frac{1}{3}$.
+Uwagi:
+Jeżeli zdający zapisuje tylko liczby 12 lub 36 i z rozwiązania nie wynika znaczenie tych liczb, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający sporządzi jedynie pustą tabelę o 36 pustych polach, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający rozpatruje inne niż podane w treści zadania doświadczenie losowe, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe pełne rozwiązania Sposób 1. (klasyczna definicja prawdopodobieństwa) Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (a, b), gdzie a, $b in {1, 2, 3, 4, 5, 6}$. Liczba wszystkich zdarzeń elementarnych jest równa $|Omega|=36$. Zdarzeniu A sprzyjają następujące zdarzenia elementarne:  (1, 3), (1, 4), (1, 5), (2, 2), (2, 3), (2, 4), (3, 1), (3, 2), (3, 3), (4, 1), (4, 2), (5, 1), więc $|A|=12$. Prawdopodobieństwo zdarzenia A jest równe: $P(A) = frac{|A|}{|Omega|} = frac{12}{36} = frac{1}{3}$.
+Sposób 2. Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (a, b), gdzie a, $b in {1, 2, 3, 4, 5, 6}$.  Jest to model klasyczny. Budujemy tabelę ilustrującą sytuację opisaną w zadaniu. Zadanie zawiera obrazek ważny dla rozwiązania. Symbolem oznaczono zdarzenia elementarne sprzyjające zdarzeniu A. Wszystkich zdarzeń elementarnych w tym doświadczeniu jest 36. Wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A jest 12. Stąd $P(A) = frac{|A|}{|Omega|} = frac{12}{36} = frac{1}{3}$.
+Sposób 3. (drzewo stochastyczne) Rysujemy drzewo stochastyczne rozważanego doświadczenia. Prawdopodobieństwo zdarzenia A jest równe:
+
+$$P(A) = frac{1}{6} cdot frac{3}{6} + frac{1}{6} cdot frac{3}{6} + frac{1}{6} cdot frac{3}{6} + frac{1}{6} cdot frac{2}{6} + frac{1}{6} cdot frac{1}{6} = frac{12}{36} = frac{1}{3}$$
+
+Zadanie 35. (0-5)  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: Zdający: 8.1) wyznacza równanie prostej przechodzącej przez dane dwa punkty (w postaci kierunkowej lub ogólnej); 8.3) wyznacza równanie prostej, która jest równoległa lub prostopadła do prostej danej w postaci kierunkowej i przechodzi przez dany punkt; 8.4) oblicza współrzędne punktu przecięcia dwóch prostych; 8.6) oblicza odległość dwóch punktów.
+Zasady oceniania Zdający otrzymuje 1 p. gdy spełni jeden z poniższych warunków: 1) obliczy współczynnik kierunkowy równania prostej AB: $a_{AB} = -frac{1}{3}$ lub zapisze równanie prostej AB w postaci ogólnej $x+3y-16=0$ 2) obliczy współrzędne środka M odcinka AB: $M = left(-frac{13}{2}, frac{15}{2}right)$  3) przyjmie pierwszą współrzędną punktu C równą zeru i zapisze np. $C = (0, y_c)$ 4) zapisze równość $|AC|=|BC|$ w zależności od współrzędnych punktu $C=(x_c, y_c)$, np.: $sqrt{(x_c-(-20))^2+(y_c-12)^2} = sqrt{(x_c-7)^2+(y_c-3)^2}$ ALBO
+zastosuje poprawną metodę obliczenia długości boku AB trójkąta i uzyska poprawny wynik: $|AB|=9sqrt{10}$
+Zdający otrzymuje 2 p. gdy:
+spełni jeden z warunków 1)-4) określonych w punktorze pierwszym zasad oceniania za 1 punkt oraz obliczy długość boku AB trójkąta ALBO spełni jeden z poniższych warunków: 1) zapisze równanie symetralnej k odcinka AB: $y-frac{15}{2} = 3left(x+frac{13}{2}right)$ lub $y=3x+27$
+zapisze równanie, w którym niewiadomą jest druga współrzędna wierzchołka C, wynikające z prostopadłości odpowiednich wektorów, np. $vec{MA}$ oraz $vec{MC}$: $-frac{27}{2} cdot frac{13}{2} + frac{9}{2} cdot left(y_c-frac{15}{2}right) = 0$ 3) zapisze układ równań z dwiema niewiadomymi, np.: $sqrt{(x_c-(-20))^2+(y_C-12)^2} = sqrt{(x_c-7)^2+(y_C-3)^2} ; x_c=0$
+Zdający otrzymuje 3 p. gdy:
+spełni jeden z warunków 1)-3) określonych w punktorze drugim zasad oceniania za 2 punkty oraz obliczy długość boku AB trójkąta ALBO
+zastosuje poprawną metodę obliczenia drugiej współrzędnej punktu C i obliczy współrzędne punktu: $C=(0, 27)$
+Zdający otrzymuje 4 p. gdy zastosuje poprawną metodę obliczenia drugiej współrzędnej punktu C oraz poprawną metodę obliczenia jednego z boków trójkąta ABC i uzyska poprawne wyniki: $C=(0, 27)$ oraz $|AB|=9sqrt{10}$ (lub $|BC|=25$).
+Zdający otrzymuje 5 p. gdy zastosuje poprawną metodę wyznaczenia współrzędnych punktu C oraz obliczy obwód L trójkąta ABC i uzyska poprawne wyniki: $L=9sqrt{10}+50$, $C=(0, 27)$.
+Uwagi:
+Jeżeli zdający rozważa punkt C leżący na osi Oy i w rozwiązaniu popełnia tylko błędy rachunkowe, które nie przekreślają poprawności rozumowania, to za całe rozwiązanie może otrzymać co najwyżej 4 punkty.
+Jeżeli zdający przyjmie błędnie, że wierzchołek C leży poza osią Oy i korzysta z tego w rozwiązaniu, to może otrzymać za całe rozwiązanie co najwyżej 3 punkty.
+Rozwiązania odczytywane. a) Jeżeli zdający wyznacza współrzędne punktu C, wykorzystując punkty kratowe: zaznaczy w układzie współrzędnych poprawnie punkty A i B, narysuje trójkąt równoramienny ABC, a punkt (0, 27) oznaczy przez C, to za wyznaczenie współrzędnych punktu C może uzyskać 3 punkty. b) Jeżeli zdający rysuje w układzie współrzędnych symetralną odcinka AB i odczytuje współrzędne punktu C i zapisuje $C=(0, 27)$ oraz sprawdzi rachunkowo, że $|AC|=|BC|$, to za tę część rozwiązania otrzymuje 3 punkty (jeżeli tego sprawdzenia nie wykona, to otrzymuje za tę część rozwiązania 2 punkty, a gdy odczyta błędne współrzędne punktu C, to otrzymuje 0 punktów).
+Jeżeli zdający rozważa dwa różne położenia punktu C i nie odrzuca niewłaściwego rozwiązania, to otrzymuje co najwyżej 4 punkty.
+Jeżeli zdający nie sporządzi rysunku i zapisze tylko $C=(0, 27)$, to otrzymuje 0 punktów; jeżeli zdający nie sporządzi rysunku, lecz zapisze $C=(0, 27)$ i dalej kontynuuje rozwiązanie, to może otrzymać co najwyżej 2 punkty.
+Jeżeli zdający popełni błąd merytoryczny, to może otrzymać co najwyżej 3 punkty.
+Przykładowe pełne rozwiązania Sposób 1. Obliczamy współczynnik kierunkowy prostej AB:
+
+$$a_{AB} = frac{3-12}{7-(-20)} = -frac{9}{27} = -frac{1}{3}$$
+Zatem współczynnik kierunkowy symetralnej k odcinka AB jest równy $a_k = 3$.  Symetralna k przechodzi przez środek M odcinka AB. Obliczamy współrzędne punktu M:
+
+$$M = left(frac{-20+7}{2}, frac{12+3}{2}right) = left(-frac{13}{2}, frac{15}{2}right)$$
+Zatem prosta k ma równanie postaci:
+
+$$y - frac{15}{2} = 3left(x-left(-frac{13}{2}right)right)$$
+
+
+$$y - frac{15}{2} = 3x + frac{39}{2}$$
+
+
+$$y = 3x + 27$$
+Ponieważ punkt C leży na osi Oy i na prostej k, więc współrzędne punktu C są równe $C=(0, 27)$. Obliczamy długości boków trójkąta:
+
+$$|AC| [cite_start]= sqrt{(0-(-20))^2+(27-12)^2} = sqrt{400+225} = sqrt{625} = 25$$
+
+
+$$|AB| [cite_start]= sqrt{(7-(-20))^2+(3-12)^2} = sqrt{729+81} = sqrt{810} = 9sqrt{10}$$
+Obliczamy obwód L trójkąta ABC:
+
+$$L = |AB|+|BC|+|CA| [cite_start]= 9sqrt{10}+25+25 = 50+9sqrt{10}$$
+
+Sposób 2. Ponieważ wierzchołek C trójkąta równoramiennego ABC leży na osi Oy, więc jego współrzędne są równe $C=(0, y_c)$.  Ponieważ $|AC|=|BC|$ więc $|AC|^2=|BC|^2$. Stąd i ze wzoru na odległość między dwoma punktami otrzymujemy równanie:
+
+$$(0-(-20))^2+(y_c-12)^2 = (0-7)^2+(y_c-3)^2$$
+
+
+$$400+y_c^2-24y_c+144 = 49+y_c^2-6y_c+9$$
+
+
+$$-18y_c = -486$$
+
+
+$$y_c = 27$$
+Zatem $C=(0, 27)$. Obliczamy długości boków trójkąta:
+
+$$|AC| [cite_start]= sqrt{(0-(-20))^2+(27-12)^2} = sqrt{400+225} = sqrt{625} = 25$$
+
+
+$$|AB| [cite_start]= sqrt{(7-(-20))^2+(3-12)^2} = sqrt{729+81} = sqrt{810} = 9sqrt{10}$$
+Obliczamy obwód L trójkąta ABC:
+
+$$L = |AB|+|BC|+|CA| [cite_start]= 9sqrt{10}+25+25 = 50+9sqrt{10}$$
+
+Sposób 3.  Niech y oznacza drugą współrzędną wierzchołka C, tj. $C=(0, y)$. Obliczamy współrzędne środka M odcinka AB:
+
+$$M = left(frac{-20+7}{2}, frac{12+3}{2}right) = left(-frac{13}{2}, frac{15}{2}right)$$
+Obliczamy współrzędne wektorów $vec{MA}$ oraz $vec{MC}$:
+
+$$vec{MA} = left[-20+frac{13}{2}, 12-frac{15}{2}right] = left[-frac{27}{2}, frac{9}{2}right]$$
+
+
+$$vec{MC} = left[0+frac{13}{2}, y-frac{15}{2}right] = left[frac{13}{2}, y-frac{15}{2}right]$$
+Wektor $vec{MA}$ jest prostopadły do wektora $vec{MC}$ zatem:
+
+$$-frac{27}{2} cdot frac{13}{2} + frac{9}{2} cdot left(y-frac{15}{2}right) = 0$$
+
+
+$$frac{9}{2}y = frac{486}{4}$$
+
+
+$$y = 27$$
+Zatem punkt C ma współrzędne $C=(0, 27)$. Obliczamy długości boków trójkąta ABC:
+
+$$|AC| [cite_start]= sqrt{(0-(-20))^2+(27-12)^2} = sqrt{400+225} = sqrt{625} = 25$$
+
+
+$$|AB| [cite_start]= sqrt{(7-(-20))^2+(3-12)^2} = sqrt{729+81} = sqrt{810} = 9sqrt{10}$$
+Obliczamy obwód L trójkąta ABC:
+
+$$L = |AB|+|BC|+|CA| [cite_start]= 9sqrt{10}+25+25 = 50+9sqrt{10}$$
+
+Ocena prac osób ze stwierdzoną dyskalkulią Obowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej dyskalkulii z dodatkowym uwzględnieniem: I. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią (punkty 1.-12.); II. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią - matura z matematyki, poziom podstawowy, termin główny 2021.
+(Zasady ogólne - nie przepisano w całości ze względu na charakterystykę zapisu matematycznego, punkty od 1 do 12 zostały w dokumencie odpowiednio ponumerowane).
+II. Dodatkowe szczegółowe zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią
+Zadanie 29. Zdający otrzymuje 1 pkt, jeżeli:
+stosuje poprawną metodę obliczenia pierwiastków trójmianu kwadratowego $x^2-5x-14$ tzn. stosuje wzory na pierwiastki trójmianu kwadratowego i oblicza te pierwiastki, popełniając błędy o charakterze dyskalkulicznym ALBO
+zdający w wyniku obliczeń otrzyma wyróżnik ujemny, ale konsekwentnie narysuje parabolę ALBO
+poprawnie rozwiąże nierówność $x^2-5x le 0$. Zdający otrzymuje 2 pkt, jeżeli: pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $x in [7, -2]$. Uwaga: Jeżeli zdający zapisze zbiór rozwiązań nierówności w postaci przedziału otwartego, to może otrzymać co najwyżej 1 pkt.
+Zadanie 30. Zdający otrzymuje 1 pkt, jeżeli przekształci nierówność $frac{a}{b} &lt; frac{a+c}{b+c}$ do postaci $frac{a(b+c)}{b} &lt; a+c$ lub $a &lt; frac{b(a+c)}{b+c}$.
+Zadanie 31. Stosuje się zasady oceniania arkusza standardowego.
+Zadanie 32. Zdający otrzymuje 1 pkt, jeżeli: popełnia błąd przy przekształceniu równania $frac{3x+2}{3x-2} = 4-x$ do postaci równania kwadratowego, lecz dalej stosuje poprawną metodę rozwiązania otrzymanego równania i konsekwentnie oblicza pierwiastki tego równania.
+Zadanie 33. Zdający otrzymuje 1 pkt, jeżeli:
+zastosuje poprawną metodę obliczenia długości boku trójkąta ABC (stosuje wzór na pole trójkąta równobocznego) ALBO
+zapisze, że $frac{P_{ABC}}{P_{AKL}} = left(frac{3}{2}right)^2$. Zdający otrzymuje 2 pkt, jeżeli: zastosuje poprawną metodę wyznaczenia długości boku trójkąta AKL, popełnia jeden błąd o charakterze dyskalkulicznym i konsekwentnie doprowadza rozwiązanie do końca. Uwaga: W ocenie rozwiązania zadania 33. (dla zdających z dyskalkulią) nie stosuje się uwagi nr 2 ze standardowych zasad oceniania.
+Zadanie 34. Zdający otrzymuje 1 pkt, jeżeli:
+zapisze jedynie liczbę 36 (należy traktować to jako wyznaczenie liczby wszystkich zdarzeń elementarnych). ALBO
+zapisze liczbę 12, o ile z zapisów wynika, że interpretuje tę liczbę jako liczbę zdarzeń elementarnych sprzyjających zdarzeniu A. Zdający otrzymuje 2 pkt, jeżeli: poprawnie wypisze (lub zaznaczy) wszystkie zdarzenia elementarne sprzyjające zdarzeniu A, popełni błąd w ich zliczeniu i konsekwentnie zapisze wynik $frac{x}{36}$, gdzie x jest liczbą zliczonych zdarzeń elementarnych sprzyjających zdarzeniu A. Uwaga: W ocenie rozwiązania zadania 34. (dla zdających z dyskalkulią) nie stosuje się uwagi nr 1 ze standardowych zasad oceniania.
+Zadanie 35. Zdający otrzymuje 1 pkt, jeżeli:
+zastosuje poprawną metodę obliczenia długości boku AB trójkąta ALBO
+zastosuje poprawną metodę obliczenia współczynnika kierunkowego równania prostej AB. Zdający otrzymuje 2 pkt, jeżeli:
+zastosuje poprawną metodę wyznaczenia równania symetralnej odcinka AB ALBO
+stosuje poprawne metody wyznaczenia wielkości w punktach 1)-4) pierwszego punktora standardowych zasad oceniania za 1 pkt oraz zastosuje poprawną metodę obliczenia długości boku AB trójkąta.

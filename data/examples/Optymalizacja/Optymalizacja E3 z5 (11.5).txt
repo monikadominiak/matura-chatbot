@@ -1,0 +1,63 @@
+
+--- STRONA 1 ---
+Wyznacz pole największego trójkąta prostokątnego o przeciwprostokątnej c
+
+① uzależniamy od siebie zmienne
+
+P = ½ ah
+
+x
+
+c
+
+√(c^2 - x^2) (z tw. Pitagorasa)
+
+② zapisujemy wzór funkcji
+
+P(x) = ½ √(c^2 - x^2) · x = ½ x√(c^2 - x^2) =
+
+= ½ √(c^2 x^2 - x^4)
+
+③ wyznaczamy dziedzinę funkcji
+
+x > 0 ∧ c^2 - x^2 > 0 ⇒ x ∈ (0, c)
+
+c > 0
+
+④ wyznaczamy pochodną funkcji
+
+I sposób pomijamy pierwiastek
+
+funkcja f(x) = (a) jest rosnąca w przedziale (0, +∞), więc funkcja g(x) = a będzie osiągać wartość największą dla tego samego argumentu co f(x)
+
+niech f(x) = c^2 x^2 - x^4
+
+f'(x) = 2c^2 x - 4x^3 = 2x(c^2 - 2x^2)
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+f'(x) = 0 ⇔ 2x(c^2 - 2x^2) = 0
+
+x = 0 √
+
+2x^2 = c^2
+
+x = c / √2 √
+
+x = -c / √2
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+x | (0, 0) | (c/√2, c) 
+f'(x) | + | 0 | - 
+f(x) monot. | ↑ | max. lok. | ↓
+
+Funkcja f(x), a więc również P(x) osiąga w swojej dziedzinie wartość największą dla argumentu x = c/√2
+
+⑦ obliczamy pole
+
+P(c/√2) = ½ · c/√2 · c/√2 = c^2/4
+
+Odp: P = c^2/4

@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+W pudełku znajdują się 4 losy wygrywające i 6 losów pustych. Losujemy kolejno, bez zwracania, dwa razy po jednym losie. Oblicz prawdopodobieństwo wylosowania:
+a) dwóch losów wygrywających
+b) co najmniej jednego losu wygrywającego.
+
+➊ zapisujemy liczbę elementów poszczególnych zbiorów
+
+losy wygrywające: 4
+
+losy puste: 6
+
+＼{10 losów
+
+➋ liczymy prawdopodobieństwo z klasycznej definicji
+
+a) P = \frac{A}{\Omega}
+
+\Omega = 10 \cdot 9 = 90
+
+A \Rightarrow \frac{4}{10} \cdot \frac{3}{9} = 12
+
+P(A) = \frac{12}{90} = \frac{2}{15}
+
+Odp: \frac{2}{15}
+
+b) co najmniej 1 wygrywający
+
+czyli nie oba puste
+
+\overline{\Omega} = 10 \cdot 9 = 90
+
+B' \Rightarrow \frac{6}{10} \cdot \frac{5}{9} = 30
+
+B = \Omega - B' = 90 - 30 = 60
+
+P(B) = \frac{60}{90} = \frac{2}{3}
+
+Odp: \frac{2}{3}

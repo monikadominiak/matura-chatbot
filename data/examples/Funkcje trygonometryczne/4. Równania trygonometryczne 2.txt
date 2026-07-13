@@ -1,0 +1,112 @@
+
+--- STRONA 1 ---
+4. Równania trygonometryczne 2
+
+Rozwiąż równanie.
+
+a) sin^2 x = -sin x
+
+b) 2 cos^3 x - cos x = 0
+
+c) tg^3 x = tg x
+
+a)
+
+1️⃣ Przekształcamy równanie.
+
+sin^2 x = -sin x
+
+sin^2 x + sin x = 0
+
+sin x (sin x + 1) = 0
+
+sin x = 0 ∨ sin x + 1 = 0
+
+sin x = -1
+
+2️⃣ Szkicujemy wykres funkcji sinus oraz proste y = 0 i y = -1.
+
+3️⃣ Odczytujemy rozwiązania.
+
+sin x = 0 ∨ sin x = -1
+
+x = kπ ∨ x = 3π/2 + 2kπ   k ∈ ℤ
+
+Odp.: x = kπ ∨ x = 3π/2 + 2kπ,   k ∈ ℤ.
+
+--- STRONA 2 ---
+b) ① Przekształcamy równanie.
+
+2cos^3x - cosx = 0
+
+cosx (2cos^2x - 1) = 0
+
+cosx = 0 v 2cos^2x = 1
+
+cos^2x = 1/2
+
+cosx = -sqrt{2}/2 v cosx = sqrt{2}/2
+
+---
+
+② Szkicujemy wykres funkcji cosinus oraz proste y = 0, y = -sqrt{2}/2 i y = sqrt{2}/2.
+
+---
+
+③ Odczytujemy rozwiązania.
+
+cosx = 0
+
+x = π/2 + kπ
+
+cosx = -sqrt{2}/2
+
+x = 3π/4 + 2kπ
+x = -3π/4 + 2kπ
+
+cosx = sqrt{2}/2
+
+x = π/4 + 2kπ
+x = -π/4 + 2kπ
+
+, k ∈ ℤ
+
+Można zapisać jako x = π/4 + kπ/2
+ale nie jest to obowiązkowe.
+
+Odp.: x = π/2 + kπ , x = π/4 + kπ/2 , k ∈ ℤ.
+
+--- STRONA 3 ---
+c) ➊ Przekształcamy równanie.
+
+\[ \text{tg}^3 x = \text{tg} x \]
+
+\[ \text{tg}^3 x - \text{tg} x = 0 \]
+
+\[ \text{tg} x \cdot (\text{tg}^2 x - 1) = 0 \]
+
+\[ \text{tg} x = 0 \]
+
+\[ \text{tg}^2 x - 1 = 0 \]
+
+\[ \text{tg}^2 x = 1 \]
+
+\[ \text{tg} x = -1 \quad \text{tg} x = 1 \]
+
+➋ Szkicujemy wykres funkcji tangens oraz proste \( y=0, y=-1 \, i \, y=1 \).
+
+➌ Odczytujemy rozwiązanie.
+
+\[ \text{tg} x = 0 \]
+
+\[ x = k\pi \]
+
+\[ \text{tg} x = -1 \]
+
+\[ x = -\frac{\pi}{4} + k\pi \]
+
+\[ \text{tg} x = 1 \]
+
+\[ x = \frac{\pi}{4} + k\pi \quad , \, k \in \mathbb{Z} \]
+
+Odp.: \( x = k\pi, \, x = -\frac{\pi}{4} + k\pi, \, x = \frac{\pi}{4} + k\pi \quad , \, k \in \mathbb{Z}. \)

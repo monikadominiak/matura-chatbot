@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+Zadanie 22
+
+W chwili początkowej (t=0) termos z gorącą herbatą znajduje się w plecaku, a temperatura herbaty w termosie jest równa 88°C. Temperatura w plecaku jest stała i równa 18°C. Temperatura tej herbaty zmienia się w czasie zgodnie z zależnością:
+
+\( T(t) = (T_p - T_o) \cdot k^{-t} + T_o \text{ dla } t \geq 0 \)
+
+gdzie:
+
+T - temperatura herbaty wyrażona w stopniach Celsjusza,
+t - czas wyrażony w minutach, liczony od chwili początkowej,
+\( T_p \) - temperatura początkowa herbaty wyrażona w stopniach Celsjusza,
+\( T_o \) - temperatura otoczenia wyrażona w stopniach Celsjusza,
+k - stała charakterystyczna dla danej cieczy
+
+Po 20 minutach, licząc od chwili początkowej, herbata ostygła do temperatury 78°C.
+
+Oblicz temperaturę tej herbaty po następnych 10 minutach. Wynik podaj w stopniach Celsjusza, w zaokrągleniu do jedności. Zapisz obliczenia.
+
+\((1) \; \underline{Podstawiamy \; dane \; z \; zadania \; do \; wzoru.}\)
+
+\( T(t) = (88 - 18) \cdot k^{-t} + 18 \)
+
+\( T(t) = 70 \cdot k^{-t} + 18 \)
+
+\((2) \; \underline{Wykorzystujemy, \; że \; po \; 20 \; minutach \; herbata \; ostygła \; do \; 78^\circ C.}\)
+
+Można to zapisać jako \( T(20) = 78. \)
+
+\( T(20) = 70 \cdot k^{-20} + 18 \)
+
+\( 78 - 18 = 70k^{-20} \)
+
+\( k^{-20} = \frac{6}{7} \)
+
+\((3) \; \underline{Obliczamy, \; co \; się \; stanie \; po \; kolejnych \; 10 \; minutach.}\)
+
+Obliczamy \( T(30). \)
+
+\( T(30) = 70 \cdot k^{-30} + 18 = 70 \left( k^{-20} \right)^{1,5} + 18 = \)
+
+\( = 70 \left( \frac{6}{7} \right)^{1,5} + 18 = 70 \cdot \frac{6\sqrt{6}}{49} + 18 = \)
+
+\( = 10 \cdot \frac{6\sqrt{6}}{7} + 18 = 73,55 \approx 74^\circ C \)
+
+Odp.: Temperatura herbaty po następnych 10 minutach wynosi 74°C.

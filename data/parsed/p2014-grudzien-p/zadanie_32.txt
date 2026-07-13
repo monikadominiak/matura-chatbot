@@ -1,0 +1,57 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0-4)
+Punkty (A=(3,3)) i (B=(9,1)) są wierzchołkami trójkąta ABC, a punkt (M=(1,6)) jest środkiem boku AC. Oblicz współrzędne punktu przecięcia prostej AB z wysokością tego trójkąta, poprowadzoną z wierzchołka C.
+Wymagania: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 8.1., 8.5., 8.3., 8.4. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (w postaci kierunkowej lub ogólnej), wyznacza współrzędne środka odcinka, wyznacza równanie prostej, która jest równoległa lub prostopadła do prostej danej w postaci kierunkowej i przechodzi przez dany punkt, oblicza współrzędne punktu przecięcia dwóch prostych.
+
+Rozwiązanie:
+Wyznaczymy współrzędne punktu (C=(k,l)).
+Współrzędne punktu M muszą być średnimi arytmetycznymi współrzędnych punktów A i C.
+Zatem odpowiednio: (1=frac{3+k}{2}) i (6=frac{3+l}{2}).
+Obliczamy k i l.
+(k=-1)
+(l=9)
+Wyznaczymy równanie prostej AB.
+Współrzędne punktów A i B muszą spełniać równanie tej prostej: (y=ax+b).
+[begin{cases} 3=3a+b  1=9a+b end{cases}]
+Obliczamy a i b.
+(a=-frac{1}{3})
+(b=4)
+Prosta AB ma równanie
+(y=-frac{1}{3}x+4)
+Wyznaczymy równanie prostej prostopadłej do prostej AB, przechodzącej przez punkt C.
+Prosta ta musi mieć równanie postaci (y=3x+d).
+Punkt C należy do tej prostej, zatem: (9=-3+d).
+(d=12)
+Szukane równanie prostej ma postać: (y=3x+12).
+Wyznaczymy współrzędne punktu wspólnego dla tej prostej i prostej AB, gdyż jest to punkt przecięcia prostej AB i wysokości trójkąta poprowadzonej z wierzchołka C.
+Wystarczy rozwiązać układ równań
+[begin{cases} y=3x+12  y=-frac{1}{3}x+4 end{cases}]
+Szukane współrzędne mają wartości (x=-2,4) i (y=4,8).
+
+Schemat oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania zadania - 1 pkt
+albo
+- Wyznaczenie współrzędnych punktu C: (C=(-1,9))
+- Wyznaczenie równania prostej AB: (y=-frac{1}{3}x+4)
+
+Rozwiązanie, w którym jest istotny postęp - 2 pkt
+Wyznaczenie:
+- współrzędnych punktu C: (C=(-1,9))
+oraz równania prostej AB: (y=-frac{1}{3}x+4.)
+
+Pokonanie zasadniczych trudności zadania - 3 pkt
+Wyznaczenie równania prostej prostopadłej do prostej AB, przechodzącej przez punkt C: (y=3x+12).
+
+Rozwiązanie pełne - 4 pkt
+Obliczenie współrzędnych punktu przecięcia prostej AB z wysokością trójkąta ABC poprowadzoną z wierzchołka C.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

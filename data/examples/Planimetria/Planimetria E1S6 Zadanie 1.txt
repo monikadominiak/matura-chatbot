@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Zad.1 Dane są długości dwóch sąsiednich boków a = 6 i b = 8 równoległoboku oraz kąt γ = 120° zawarty między tymi bokami. Oblicz długości przekątnych tego równoległoboku.
+
+1) Tworzymy rysunek poglądowy:
+(dodany rysunek)
+
+2) Korzystamy z tw. cosinusów:
+
+w ∆ABD: |BD|^2 = 6^2 + 8^2 - 2·6·8·cos60°
+          |BD|^2 = 100 - 48 => |BD| = sqrt(52) = 2sqrt(13)
+
+w ∆ACD: |AC|^2 = 6^2 + 8^2 - 2·6·8·cos120°
+          |AC|^2 = 100 + 48 => |AC| = sqrt(148) = 2sqrt(37)
+
+cos120° = cos(180°-60°) = -cos60° = -1/2
+
+Odp. |AC| = 2sqrt(37), |BD| = 2sqrt(13).

@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) jest określona wzorem \( f(x) = x^6 - 2x^4 - x^3 + 1 \) dla każdego \( x \in \mathbb{R} \).
+
+Wykaż, że liczba 5 należy do zbioru wartości tej funkcji.
+
+\[ f(x) = x^6 - 2x^4 - x^3 + 1 \quad x \in \mathbb{R} \]
+teza: istnieje taki \( x \), że \( f(x) = 5 \)
+
+① Funkcja \( f \) (wielomianowa) jest funkcją ciągłą.
+
+② liczymy kilka kolejnych wartości funkcji \( f \)
+
+\( f(0) = 0 - 0 - 0 + 1 = 1 \quad < 5 \)
+
+\( f(1) = 1 - 2 - 1 + 1 = -1 \quad < 5 \)
+
+\( f(2) = 64 - 2 \cdot 16 - 8 + 1 = 25 \quad > 5 \)
+
+Twierdzenie Darboux:
+
+Jeśli funkcja f jest ciągła w przedziale domkniętym ⟨a, b⟩ oraz \( f(a) \neq f(b) \), natomiast k jest* dowolną liczbą pomiędzy liczbami f(a) i f(b), to istnieje taka liczba c, c ∈ (a, b), dla której f(c) = k.
+
+③ zatem z tw. Darboux istnieje takie \( c \in (1, 2) \), że \( f(c) = 5 \), zatem teza jest prawdziwa
+
+c.k.d.

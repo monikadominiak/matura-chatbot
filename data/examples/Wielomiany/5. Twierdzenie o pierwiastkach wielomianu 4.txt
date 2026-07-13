@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+5. Twierdzenie o pierwiastkach wielomianu 4  
+
+Dany jest wielomian w(x) = 2x^3 + ax^2 - (a^2 + 1)x + 1. Dla jakiej całkowitej wartości parametru a ma on dwa różne pierwiastki całkowite?  
+
+w(x) = 2x^3 + ax^2 - (a^2 +1)x + 1
+
+🟦 Wyznaczenie potencjalnych pierwiastków korzystając z twierdzeń o pierwiastkach całkowitych i wymiernych  
+
+1) twierdzenie o pierwiastkach całkowitych - jeżeli wielomian o współczynnikach całkowitych ma pierwiastek całkowity to jest on dzielnikiem wyrazu wolnego  
+
+2) twierdzenie o pierwiastkach wymiernych - jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, to ten pierwiastek musi być w postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze zmiennej  
+
+{-1 ; -1/2 ; 1/2 ; 1}  
+tylko te dwa pierwiastki są całkowite - polecenie
+
+🟦 Wyznaczenie a:
+w(1) = 0  -> | 2 + a - a^2 - 1 + 1 = 0 
+w(-1) = 0 -> |-2 + a + a^2 + 1 + 1 = 0 ➕
+
+                   2a + 2 = 0
+                   2a = -2
+                   a = -1
+
+Odp: dla a = -1.

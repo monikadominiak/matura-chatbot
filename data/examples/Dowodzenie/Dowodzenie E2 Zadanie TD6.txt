@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+Dane są funkcje \( f(x) = x^2 - 5x + 1 \) i \( g(x) = \frac{3x - 1}{x^2 + 1} \). Wykaż, że wykresy tych funkcji przecinają się w punkcie, którego pierwsza współrzędna należy do przedziału \( (4; 5) \), oraz w punkcie, którego pierwsza współrzędna nie należy do tego przedziału.
+
+\[
+\begin{cases} 
+f(x) = x^2 - 5x + 1 \\ 
+g(x) = \frac{3x - 1}{x^2 + 1} 
+\end{cases}
+\]
+
+\[
+\text{teza: } x, \text{ będący rozwiązaniem układu } \quad (1) \quad \epsilon(4;5)
+\]
+
+\( (1) \) punkt wspólny jest rozwiązaniem równania 
+
+\( f(x) = g(x) \Rightarrow f(x) - g(x) = 0 \)
+
+\( (2) \) tworzymy nową funkcję \( h(x) \), 
+
+gdzie \( h(x) = f(x) - g(x) \) 
+
+\( (h(x) \text{ jest różnicą funkcji ciągłych, więc sama również jest ciągła}) \)
+
+\( (3) \) chcemy, aby w przedziale \( (4;5) \) funkcja 
+
+\( h(x) \) przyjmowała wartość \( = 0 \)
+
+\[
+h(4) = -3 - \frac{11}{17} = -3\frac{11}{17}
+\]
+
+\[
+h(5) = 1 - \frac{14}{26} = \frac{12}{26}
+\]
+
+2W: \( \langle -3\frac{11}{17}, \frac{12}{26} \rangle \) czyli istnieje takie \( c \epsilon (4,5) \), że \( h(c) = 0 \) 
+
+\( (5) \) potrzebujemy teraz innego przedziału niż \( \langle 4,5 \rangle \) 
+
+niech \( x \epsilon \langle 0,4 \rangle \)
+
+\[
+h(4) = -3\frac{11}{17}
+\]
+
+\[
+h(0) = 1 - (-1) = 2 
+\]
+
+2W: \( \langle -3\frac{11}{17}, 2 \rangle \)
+
+czyli istnieje takie \( d \epsilon (0,4) \), że \( h(d) = 0 \)
+
+zatem na mocy tw. Darboux teza jest prawdziwa
+
+c.k.d.

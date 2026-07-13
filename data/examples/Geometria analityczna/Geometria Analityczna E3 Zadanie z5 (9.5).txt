@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Zadanie z5 (9.5) Czworokąt ABCD jest równoległobokiem. Dane są wektory:
+\(\overrightarrow {AB} = (7, -2)\), \(\overrightarrow {CB} = (3, 5)\)
+
+Oblicz pole tego równoległoboku.
+
+Rysunek poglądowy:
+
+\(AB=\vec{7,-2}\)
+
+\(BC=\vec{-2,5}=\vec{5,3}\)
+
+W przypadku, gdy w zadaniu nie mamy podanych wierzchołków wielokąta, Tutaj będzie trochę poglądowy rysunek bez układu współrzędnych.
+
+1) Wyznaczamy pole równoległoboku.
+
+\(\vec{1}\) sposób: Użycie wyznacznika
+
+\(BC \parallel AD\) i \(|BC|=|AD|\) \(\Rightarrow \vec{AD}=\vec{BC}=\vec{-2,3,5}\)
+
+\(\vec{AB}=\vec{7,-2}\) 
+\(\vec{AD}=\vec{5,-3}\)
+
+\(P_{ABCD}=|\vec{1}_{7,-2}\cdot\vec{-2,-3}|= |7(-3)-(-2)(5)|=|-35-61|=44\)
+
+\(\vec{2}\) sposób: Zakładamy dowolny punkt A i obliczamy pole ze wzoru wierzchołkowego:
+
+\(\overrightarrow{AB}=\vec{7,-2}\)
+\(\overrightarrow{BC}=\vec{-2,3,5}\)
+
+Dla \(A(0,0) \Rightarrow B(7,-2)\) \(\Rightarrow C(4,-7)\)
+
+\(P_{ABC}=\frac{1}{2}|(x_B-x_A)(y_C-y_A)-(y_B-y_A)(x_C-x_A)|=\)
+
+\(=\frac{1}{2}|7\cdot(-7)-(-2)\cdot(4)|=\frac{1}{2}|-49-81|=\frac{44}{2}\)
+
+\(P_{ABCD}=2P_{ABC}=2 \cdot\frac{44}{2}=44\)
+
+Odp. \(P_{ABCD}=44.\)

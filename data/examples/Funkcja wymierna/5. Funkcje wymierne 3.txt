@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+5. Funkcje wymierne 3
+
+Dla jakich wartości parametru k dziedziną funkcji f jest zbiór wszystkich liczb rzeczywistych?
+
+a) \( f(x) = \frac{4x-1}{x^2-kx+k} \)
+
+b) \( f(x) = \frac{4x-1}{x^2+kx+1} \)
+
+Aby spełniony był warunek zadania, nierówność (różna od zera) powstała w wyniku założenia musi być spełniona przez zbiór liczb rzeczywistych. Czyli inaczej mówiąc gdyby różność zamienić na równość, to ta równość nie może mieć rozwiązań.
+
+a) Rozwiązujemy warunek zadania dla \( x^2-kx+k=0 \).
+
+\( \Delta < 0 \)
+
+\( \Delta = (-k)^2-4 \cdot 1 \cdot k = k^2-4k = k(k-4) < 0 \)
+
+\( k = 0 \)
+
+\( k = 4 \)
+
+\( k \in (0,4) \)
+
+Odp.: Dziedziną funkcji \( f(x) = \frac{4x-1}{x^2-kx+k} \) jest zbiór liczb rzeczywistych dla \( k \in (0,4) \).
+
+--- STRONA 2 ---
+b)
+
+① Rozwiązujemy warunki zadania dla \(kx^2 + kx + 1\).
+
+\(1^\circ\) \(k = 0 \rightarrow\) w mianowniku funkcja liniowa
+
+\(0x^2 + 0x + 1 \neq 0\)
+
+\(1 \neq 0\)
+
+\(x \in \mathbb{R} \rightarrow\) spełniony warunek zadania.
+
+\(2^\circ\) \(k \neq 0 \rightarrow\) w mianowniku funkcja kwadratowa.
+
+\(kx^2 + kx + 1 = 0\)
+
+\(\Delta < 0\)
+
+\(\Delta = k^2 - 4k = k(k - 4) < 0\)
+
+\[
+\begin{align*}
+k = 0 \\
+k = 4 \\
+\end{align*}
+\]
+
+\(k \in (0, 4)\)
+
+② Wyznaczamy część wspólną wszystkich przedziałów.
+
+\(k \in [0, 4)\)
+
+Odp.: Dzieliną funkcji \(f(x) = \frac{4x - 1}{kx^2 + kx + 1}\) jest zbiór liczb rzeczywistych dla \(k \in [0, 4)\).

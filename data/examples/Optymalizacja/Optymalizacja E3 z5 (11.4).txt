@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Punkt \( P = (-1, 1) \) należy do wykresu funkcji \( f(x) = \frac{x^2 + ax + 1}{x + b} \), gdzie \( b \neq 1 \).
+ 
+Styczna do wykresu funkcji \( f \) poprowadzona w punkcie \( P \), jest nachylona do osi OX pod kątem, którego tangens jest równy \(-0{,}5\). Wyznaczać wartości współczynników \( a \) i \( b \).
+
+\[ P(-1,1) \in f \]
+
+\[ f(x) = \frac{x^2 + ax + 1}{x + b}, \, b \neq 1 \]
+
+\[\tag{-}0{,}5  = a = f'(x) \]
+
+styczna: \[ y = -0{,}5 x + b \]
+
+1️⃣ wyznaczamy pochodną funkcji \( f \)
+
+\[ f'(x) = \frac{(2x+a)(x+b) - 1 \cdot (x^2 + ax + 1)}{(x + b)^2} = \]
+
+\[ = \frac{2x^2 + 2xb + ax + ab - x^2 - ax - 1}{(x + b)^2} = \frac{x^2 + 2xb + ab - 1}{(x + b)^2} \]
+
+2️⃣ rozwiązujemy \( f'(-1) = -\frac{1}{2} \)
+
+\[ \frac{-x + 2b + ab - 1}{(b - 1)^2} = -\frac{1}{2} \]
+
+\[ \frac{ab - 2b}{(b - 1)^2} = -\frac{1}{2} \]
+
+\[ mamy \, 1 \, równanie \, i \, 2 \, zmienne, \, potrzebujemy \, drugiego \, równania \]
+
+3️⃣ wstawiamy punkt \( P \) do \( f(x) \)
+
+\[ f(-1) = 1 \Rightarrow \frac{1 - a + 1}{b - 1} = 1\]
+
+\[ 2 - a = b - 1 \]
+
+4️⃣ rozwiązujemy układ równań 
+
+\[ \begin{cases}
+\frac{ab - 2b}{(b - 1)^2} = -\frac{1}{2} \\ 
+2 - a = b - 1 \Rightarrow a  = 3 - b 
+\end{cases} \]
+
+\[ \frac{(3 - b)b - 2b}{(b - 1)^2} = -\frac{1}{2} \]
+
+\[ 6b - 2b^2 - 4b = -(b^2 - 2b + 1) \]
+
+\[ 2b - 2b^2 = -b^2 + 2b - 1 \]
+
+\[ b^2 = 1 \]
+
+\[ b = 1 \, sprzeczne \, \vee \, \begin{cases} b = -1 \\ a = 4 \end{cases} \]
+
+\[ \text{Odp: } a = 4, b = -1 \]

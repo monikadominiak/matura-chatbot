@@ -1,0 +1,14 @@
+=== ARKUSZ: 2019p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Równanie 
+((x - 1)(x + 2)) / (x - 3) = 0 A. ma trzy różne rozwiązania: x = 1, x = 3, x = -2 B. ma trzy różne rozwiązania: x = -1, x = -3, x = 2. C. ma dwa różne rozwiązania: x = 1, x = -2 D. ma dwa różne rozwiązania: x = -1, x = 2.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

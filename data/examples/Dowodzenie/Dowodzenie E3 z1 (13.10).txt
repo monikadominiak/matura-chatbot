@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Wykazać, że w trójkącie prostokątnym dwusieczna kąta prostego dzieli na połowę kąt między środkową i wysokością poprowadzoną z wierzchołka kąta prostego.
+
+1️⃣ tworzymy rysunek poglądowy
+
+\( | \angle DAE | = | \angle EAS | \)
+\( \beta = \gamma \)
+
+\( | AS | = R \Rightarrow \) odcinek od środka S do wierzchołka
+
+2️⃣ oznaczamy kąty
+
+niech \( | \angle ABS | = \alpha \), wtedy \( | \angle SAB | = \alpha \) (\( \triangle ABS \) - równoramienny)
+
+\( | \angle ACB | = 90^\circ - \alpha \Rightarrow | \angle CAD | = \alpha \)
+
+3️⃣ zapisujemy, to co wynika z def. dwusiecznej
+
+\[
+\left\{
+\begin{array}{ll}
+1. \alpha + \beta = 45^\circ \\
+2. \alpha + \gamma = 45^\circ
+\end{array}
+\right.
+\]
+
+\[ - \]
+
+\( \beta - \gamma = 0 \Rightarrow \beta = \gamma \)
+
+c.k.d.

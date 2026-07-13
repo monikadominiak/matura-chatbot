@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+Wysokość walca wpisanego w stożek jest równa promieniowi podstawy stożka. Stosunek objętości stożka do objętości walca jest równy 8 : 3. Oblicz tangens kąta zawartego między wysokością, a tworzącą stożka.
+
+1️⃣ rysujemy rzut z przodu (przekrój osiowy stożka) 
+
+i wprowadzamy oznaczenia
+
+α - kąt między tworzącą a wysokością stożka
+
+tgα = R/H
+
+2️⃣ zapisujemy zależności między objętościami
+
+(1/3)πR^2H / πr^2R = 8/3 => RH = 8r^2 => R = (8r^2)/H (*)
+
+3️⃣ zapisujemy zależności wynikające z podobieństwa trójkątów
+
+△CED ~ △CBS z cechy kkk (kąt prosty i α)
+
+|SB|/|DE|  = |CS|/|CD| => R/r = H/(H-R) => r = (R(H-R))/H (**)
+
+4️⃣ podnosimy (**) do kwadratu i ustawiamy do (*)
+
+R = (8/H) * (R(H-R)/H)^2 / R : R ≠ 0
+
+H^3 = 8R(H^2 - 2HR + R^2) 
+
+8R^3 - 16HR^2 + 8H^2R - H^3 = 0 / : H^3 ≠ 0
+
+8(R/H)^3 - 16(R/H)^2 + 8(R/H) - 1 = 0
+
+wiemy, że tgα = R/H => 8 tg^3α - 16 tg^2α + 8 tgα - 1 = 0
+
+niech tgα = t, t ∈ ℝ, ale R < H, więc t < 1
+
+w(t) = 8t^3 - 16t^2 + 8t + 1, znajdujemy pierwiastek w(1/2) = 0
+
+|8  -16  8  1|
+|   8  -12 8 | 0
+1/2 (schemat Hornera)
+
+w(t) = (t - 1/2)(8t^2 - 12t + 2) = 
+
+= 2(t - 1/2)(4t^2 - 6t + 1)
+
+Δₜ = 20 √Δₜ = 2√5
+
+t₁ = 1/2 , t₂ = (3 - √5)/4 < 1 , t₃ = (3 + √5)/4 > 1
+
+♆Dₜ
+
+Odp: tgα = 1/2 lub tgα = (3-√5)/4

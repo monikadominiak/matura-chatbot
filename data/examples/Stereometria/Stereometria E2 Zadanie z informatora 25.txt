@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+Dany jest sześcian ABCDEFGH o krawędzi długości a. Punkt P jest środkiem krawędzi CG tego sześcianu (zobacz rysunek poniżej).
+
+Oblicz odległość wierzchołka Cod płaszczyzny zawierającej punkty B, D oraz P.
+
+1️⃣ zaznaczamy na rysunku dany przekrój
+
+2️⃣ tworzymy rysunek pomocniczy ΔOCP
+
+\[
+|PG| = |PC|
+\]
+
+\[
+|OP|^2 = \left(\frac{a}{2}\right)^2 + \left(\frac{a\sqrt{2}}{2}\right)^2 \ \text{(tw. Pitagorasa)}
+\]
+
+\[
+|OP|^2 = \frac{a^2}{4} + \frac{2a^2}{4} = \frac{3a^2}{4}
+\]
+
+\[
+|OP| = \frac{a\sqrt{3}}{2}
+\]
+
+3️⃣ liczymy długości d wykorzystując pole Δ
+(d jest pod kątem prostym, więc jest też wysokością)
+
+\[
+P = \frac{a}{2} \cdot \frac{a\sqrt{2}}{2} = \frac{a}{2} \cdot \frac{a\sqrt{3}}{2} \cdot d \quad / \cdot \frac{2}{a} \neq 0
+\]
+
+\[
+\frac{a\sqrt{2}}{2} = d\sqrt{3} \quad / : \sqrt{3}
+\]
+
+\[
+d = \frac{a\sqrt{2}}{2\sqrt{3}} \cdot \frac{\sqrt{3}}{\sqrt{3}} = \frac{a\sqrt{6}}{6}
+\]
+
+Odp: \(d = \frac{a\sqrt{6}}{6}\)

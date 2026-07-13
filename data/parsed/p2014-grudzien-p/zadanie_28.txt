@@ -1,0 +1,13 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0–2)
+Uzasadnij, że jeżeli liczba całkowita nie dzieli się przez 3, to jej kwadrat przy dzieleniu przez 3 daje resztę 1.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

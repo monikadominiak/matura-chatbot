@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Rzucamy czterokrotnie kostką do gry. Oblicz prawdopodobieństwo zdarzenia A, że trzy kolejne wyniki utworzą ciąg geometryczny.
+
+① analizujemy polecenie
+
+4x rzut kostką \{1,2,3,4,5,6\}
+
+- trzy kolejne wyniki utworzą ciąg geometryczny
+
+② liczymy moc Ω
+
+|Ω| = 6^4 (cztery rzuty, w każdym sześć możliwości)
+
+③ ciąg o ilorazie = 1
+
+1111, 2222, ... → 6 przypadków
+
+\[
+\frac{1 \enspace 1 \enspace 1}{1 \enspace 1 \enspace 1} \text{ } \text{ } \text{6 możliwości}
+\]
+
+6 \cdot 5 \cdot 2 = 60
+
+czwarty wynik \hspace{10pt} pierwszy lub ostatni
+
+④ ciąg o ilorazie = 2
+
+\[
+\frac{1 \enspace 2 \enspace 4}{4 \enspace 2 \enspace 1} \text{ } \text{ } \text{2 możliwości}
+\]
+
+\rightarrow 2 \cdot 6 \cdot 2 = 24
+
+czwarty wynik \hspace{10pt} pierwszy lub ostatni
+
+⑤ liczymy prawdopodobieństwo
+
+P(A) = \frac{6+60+24}{6^4} = \frac{90}{6^4} = \frac{5}{72}
+
+odp: \frac{5}{72}

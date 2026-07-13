@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Zadanie 7 [4pkt] - TYP 3.2  
+Przy dzieleniu wielomianu W przez dwumian x - 1 otrzymujemy iloraz Q(x)=8x^2 + 4x - 14 oraz resztę R = -5. Oblicz pierwiastki wielomianu W.  
+
+1️⃣ Wyznaczenie wielomianu W(x)  
+Z treści zadania wynika, że:  
+
+W(x) : (x-1) = Q(x) + R    |.(x-1)  
+
+W(x) = Q(x)⋅(x-1) + R  
+
+W(x) = (8x^2 + 4x - 14)(x-1) - 5 =  
+
+= 8x^3 - 8x^2 + 4x^2 - 14x - 14x + 14 - 5 =  
+
+= 8x^3 - 4x^2 - 18x + 9  
+
+2️⃣ Wyznaczenie pierwiastków wielomianu w(x)  
+
+w(x) = 8x^3 - 4x^2 - 18x + 9  ← grupujemy  
+
+w(x) = 4x^2(2x - 1) - 9(2x - 1)  
+
+w(x) = (2x - 1)(4x^2 - 9)  
+a^2-b^2 = (a-b)(a+b)  
+
+w(x) = (2x-1)(2x-3)(2x+3)  
+
+\[
+\begin{align*}
+2x-1 &= 0 \\
+2x &= 1 \\
+x_1 &= \frac{1}{2}
+\end{align*}
+\]  
+
+\[
+\begin{align*}
+2x-3 &= 0 \\
+2x &= 3 \\
+x_2 &= \frac{3}{2}
+\end{align*}
+\]  
+
+\[
+\begin{align*}
+2x+3 &= 0 \\
+2x &= -3 \\
+x_3 &= -\frac{3}{2}
+\end{align*}
+\]  
+
+Odp: x∈ \left\{-\frac{3}{2}, \frac{1}{2}, \frac{3}{2}\right\}

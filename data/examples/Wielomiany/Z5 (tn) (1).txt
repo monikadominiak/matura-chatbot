@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+z5 (tn)
+
+Wyznacz wszystkie wartości parametru m, dla których jedynym rozwiązaniem rzeczywistym równania x^3 + m^3x^2 = m^2x + 1 jest liczba 1.
+
+x^3 + m^3x^2 = m^2x + 1
+x^3 + m^3x^2 - m^2x - 1 = 0
+
+"Jako, że 1 ma być rozwiązaniem równania i skorzystamy z tej informacji podstawiając 1 za x, wtedy równanie musi być nadal spełnione"
+
+1 + m^3 - m^2 - 1 = 0
+m^3 - m^2 = 0
+m^2 (m - 1) = 0
+
+m^2 = 0  m - 1 = 0
+m = 0    m = 1
+
+"Jedynka musi być jedynym rozwiązaniem, zatem musimy sprawdzić jakie równania powstaną w obu przypadkach i je rozwiązać, sprawdzając dla którego m jedynka będzie jedynym rozwiązaniem"
+
+dla m = 0:
+x^3 - 1 = 0
+x^3 = 1
+x = 1
+
+dla m = 1:
+x^3 + x^2 - x - 1 = 0
+x^2 (x + 1) - 1(x + 1) = 0
+(x^2 - 1)(x + 1) = 0
+
+x^2 - 1 = 0
+x_2 = 1
+x_2 = -1
+
+x + 1 = 0
+x_3 = -1
+
+"Widzimy, że dla m = 0 uzyskujemy równanie, którego jedynym rozwiązaniem jest liczba 1."
+
+Odp: m = 0.

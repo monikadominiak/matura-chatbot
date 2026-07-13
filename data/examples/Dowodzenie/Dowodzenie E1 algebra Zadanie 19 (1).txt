@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Wykaż, że dla kątów ostrych α i β, takich, że α + β = 90° równanie 2(sinα + sinβ)^2 + 2(sinα − sinβ)^2 = 4 jest prawdziwe.
+
+2(sinα + sinβ)^2 + 2(sinα − sinβ)^2 = 4, α, β - ostre, α + β = 90°
+
+1️⃣ przekształcamy równanie        (a + b)^2 = a^2 + 2ab + b^2
+
+2(sin^2α + 2sinαsinβ + sin^2β) + 2(sin^2α - 2sinαsinβ + sin^2β) = 4
+
+✳ 2(sin^2α + cos^2α + 2sinαsinβ) + 2(sin^2α + cos^2α - 2sinαsinβ) = 4
+
+sin^2α + cos^2α = 1
+
+          2 + 4sinαsinβ + 2 - 4sinαsinβ = 4  
+          4 = 4  
+          0 = 0            c. k. d.
+
+β = 90° - α
+
+sin(90° - α) = cosα
+
+sinβ = cosα ✳

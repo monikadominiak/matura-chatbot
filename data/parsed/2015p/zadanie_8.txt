@@ -1,0 +1,15 @@
+=== ARKUSZ: 2015p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0-1)
+Na rysunku przedstawiono wykres funkcji f.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zbiorem wartości funkcji f jest
+A. (-2, 2)
+B. &lt;-2, 2)
+C. 
+D. (-2, 2&gt;
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 8. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający odczytuje z wykresu własności funkcji (4.3).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

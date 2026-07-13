@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+x1 (3.1)
+
+Wykonaj dzielenie wielomianu W(x) przez wielomian P(x).
+
+W(x) = 2x^3 + 4x^2 - 7x - 10,   P(x) = -2x - 3
+
+- x^2 - \frac{1}{2}x + \frac{17}{4}
+
+  \underline{(2x^3 + 4x^2 - 7x - 10) : (-2x - 3)}
+
+⊖
+- 2x^3 - 3x^2
+  \underline{2x^2 - 7x}
+
+  x^2 - x 
+  \underline{-x^2 - \frac{3}{2}x}
+
+  - \frac{1}{2}x - 10
+  \underline{\frac{1}{2}x + \frac{15}{4}}
+  
+  \frac{-54}{4} + \frac{44}{4}
+  
+  \frac{44}{4}
+
+Odp: iloraz -x^2 - \frac{1}{2}x + \frac{17}{4}, reszta \frac{44}{4}.

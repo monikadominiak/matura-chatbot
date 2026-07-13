@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0-1)
+Pole powierzchni całkowitej graniastosłupa prawidłowego czworokątnego, w którym wysokość jest 3 razy dłuższa od krawędzi podstawy, jest równe 140. Zatem krawędź podstawy tego graniastosłupa jest równa
+A. 10
+B. $3sqrt{10}$
+C. $sqrt{42}$
+D. $3sqrt{42}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 21. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego (G11.2). 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

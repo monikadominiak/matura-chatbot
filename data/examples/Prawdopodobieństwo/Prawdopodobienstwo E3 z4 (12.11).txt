@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Mamy 2 urny. W pierwszej są 3 kule białe i 5 czarnych, w drugiej 5 białych i 3 czarne.
+Rzucamy raz symetryczną kostką sześcienną. Jeśli wypadnie liczba większa niż 4,
+losujemy jedną kulę z pierwszej urny. W przeciwnym wypadku losujemy jedną kulę
+z drugiej urny. Oblicz prawdopodobieństwo wylosowania kuli czarnej.
+
+1️⃣ analizujemy polecenie
+
+I.                II.
+⚪⚪⚪⚫⚫⚫⚫⚫    ⚪⚪⚪⚫
+3B  5C            3C  5B
+
+1x rzut kostką  {1,2,3,4,5,6}
+
+B1 - {5,6} -> los. z I urny
+
+B2 - {1,2,3,4} -> los. z II urny
+
+A - wylosowanie kuli czarnej
+
+2️⃣ tworzymy "drzewko"
+
+                                  rzut
+              P(B1)  1/3  ─────────▶
+                                               {5,6}
+                                               I urna
+                                               5/8 ↘
+P(B2)                                                C
+2/3 ◀──
+              rzut
+                                           {1,2,3,4}
+                                           II urna
+                                           3/8 ↘
+                                                C
+
+3️⃣ liczymy prawdopodobieństwo zdarzenia A
+
+P(A) = 1/3 * 5/8 + 2/3 * 3/8 = 5 + 6 / 24 = 11/24
+
+Odp: 11/24

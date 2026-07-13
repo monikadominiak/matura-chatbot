@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymagania szczegółowe: 8.5. Zdający wyznacza współrzędne środka odcinka.
+Poprawna odpowiedź: D
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12. (0-1)
+W ciągu arytmetycznym $(a_{n})$, określonym dla $nge1$, dane są: $a_{1}=5$, $a_{2}=11$. Wtedy
+A. $a_{14}=71$
+B. $a_{12}=71$
+C. $a_{11}=71$
+D. $a_{10}=71$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 12. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

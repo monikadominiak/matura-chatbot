@@ -1,0 +1,18 @@
+=== ARKUSZ: 2023p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej a wyrażenie $(2a-3)^{2}-(2a+3)^{2}$ jest równe
+A. $-24a$
+B. 0
+C. 18
+D. $16a^{2}-24a$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

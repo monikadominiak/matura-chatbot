@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zad.20 Odcinek \( A_1B_1 \) jest obrazem odcinka \( AB \) w jednokładności \( J \) o środku w punkcie \( S(-2, -1) \) i skali \( k \). Wyznacz współrzędne końców odcinka \( A_1B_1 \), jeśli: \( A(3, 8) \), \( B(-5, 13) \), \( k = -0{,}3 \).
+
+1.) Tworzymy rysunek poglądowy i wyznaczamy wektory:
+
+\[ \overrightarrow{SA} = [5, 9] \]
+\[ \overrightarrow{SB} = [-3, 13] \]
+
+Wektor \(\overrightarrow{SP}\) to inny słowy przesunięcie z punktu \( S \) do punktu \( P \), w układzie współrzędnych. W naszym przypadku przesuwamy się z punktu \( S \) na punkt \( A \), czyli 5 jednostek w górę i 5 w prawą. Wówczas \(\overrightarrow{SA} = [5, 9]\). Analogicznie dla \(\overrightarrow{SB} = [-3, 13]\) - idziemy z punktu \( S \) 3 jednostki w lewo i 13 w górę, do punktu \( A \).
+
+2.) Przemnażamy wektory \( \cdot \) skalar jednokładności:
+
+\[ \overrightarrow{SA_1} = k \cdot \overrightarrow{SA} \]
+\[ \overrightarrow{SB_1} = k \cdot \overrightarrow{SB} \]
+
+\[ \overrightarrow{SA_1} = -0{,}3 \cdot [5, 9] = [-1{,}5, -2{,}7] \]
+\[ \overrightarrow{SB_1} = -0{,}3 \cdot [-3, 13] = [0{,}9, -4{,}2] \]
+
+Jednokładność o środku w punkcie \( S \) i skali \( k = 0{,}3 \), nazywamy takie przekształcenie płaszczyzny, które każdemu punktowi \( P \) płaszczyzny przyporządkowuje taki punkt \( P_1 \), że \(\overrightarrow{SP_1} = k \cdot \overrightarrow{SP}\).
+
+3.) Wyznaczamy punkty \( A_1, B_1 \) z wektorów:
+
+\[ A_1 (-2 - 1{,}5; -1 - 2{,}7) \]
+\[ B_1 (-2 + 0{,}9; -1 - 4{,}2) \]
+
+\[ A_1 (-3{,}5; -3{,}7) \quad B_1 (-1{,}1; -5{,}2) \]
+
+Odp. \( A_1 (-3{,}5; -3{,}7) \quad B_1 (-1{,}1; -5{,}2) \).
+
+Rysunek poglądowy:

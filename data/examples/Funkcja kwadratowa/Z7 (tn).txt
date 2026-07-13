@@ -1,0 +1,146 @@
+
+--- STRONA 1 ---
+z7 (tn)
+
+Dana jest funkcja kwadratowa \( f(x) = (p-3)x^2 + 2x - 1 \). Wyznacz te wartości parametru p, dla których:
+a) Największa wartość funkcji f jest liczbą ujemną
+b) Najmniejsza wartość funkcji f jest mniejsza od -2
+
+\( f(x) = (p-3)x^2 + 2x - 1 \)
+
+\( a = (p-3) \)  
+\( b = 2 \)  
+\( c = -1 \)
+
+1️⃣ Powinniśmy zacząć od zastanowienia się, czy nasza funkcja dla dowolnej wartości parametru \( p \) jest funkcją kwadratową. Wszystko zależy od "a", które będąc równe zeru powoduje powstanie funkcji liniowej.
+
+\( a = 0 \)  
+\( p-3 = 0 \)  | +3  
+\( p = 3 \)  
+=> \( f(x) = 2x - 1 \)  (f. liniowa)  
+
+**UWAGA!**  
+Otrzymaliśmy funkcję liniową, która nie jest funkcją stałą, zatem nie osiąga wartości największej ani najmniejszej.
+
+\( a \neq 0 \)  
+\( p-3 \neq 0 \)  | +3  
+\( p \neq 3 \)  (f. kwadratowa)
+
+Funkcja kwadratowa jest w stanie osiągnąć zarówno wartość najmniejszą jak i największą.
+
+2️⃣ Największa wartość funkcji f jest liczbą ujemną.
+
+Aby tak było to ramiona paraboli muszą być skierowane w dół (\( a<0 \)) oraz druga współrzędna wierzchołka q musi być mniejsza od zera (Sposób I) lub funkcja nie może posiadać żadnych miejsc zerowych - \( \Delta<0 \) (Sposób II).
+
+**Sposób I**  
+\( \begin{cases} a < 0 \\ q < 0  \end{cases} \)
+
+\( a < 0 \)  
+\( p-3 < 0 \)  | +3  
+\( p < 3 \)
+
+\( q < 0 \)
+
+\( q = \frac{-\Delta}{4a} = f(p) \)  
+\( \Delta = b^2 - 4ac \)
+
+\( \Delta < 0 \)
+
+\( b = 2 \) ; \( 2^2 - 4(p-3) \cdot (-1) \)  
+\( \Delta = 4 + 4p - 12 = 4p - 8 \)
+
+\( \frac{8 - 4p}{4(p-3)} < 0 \)  | \(\cdot 4\)
+
+\( \frac{8 - 4p}{p-3} < 0 \)  |  \(\cdot (p-3)^2\)
+
+mnóżymy przez kwadrat mianownika  
+aby uniknąć zmiany znaku
+
+\( (8 - 4p)(p - 3) < 0 \)
+
+8 - 4p = 0  
+4p = 8  
+p = 2
+
+p - 3 = 0  
+p = 3
+
+\( p \in (-\infty,2) \cup (3,\infty) \)
+
+Zatem część wspólna to:  
+\( p \in (-\infty,2) \)
+
+--- STRONA 2 ---
+Sposób I
+
+\[\begin{cases}
+a<0 \implies \text{ramiona paraboli skierowane w dół} \\
+\Delta<0 \implies \text{brak miejsc zerowych}
+\end{cases}\]
+
+\[a<0\]
+\[p-3<0\]
+\[p<3\]
+
+\[\Delta=b^2-4ac\]
+
+\[2^2-4(p-3)\cdot(-1)<0\]
+\[4+4p-12<0\]
+\[4p-8<0 \mid +8\]
+\[4p<8 \mid :4\]
+\[p<2\]
+
+Zatem część wspólna to \(p \in (-\infty,2)\)
+
+Odp: \(p \in (-\infty,2)\).
+
+b) Najmniejsza wartość funkcji \(f\) jest mniejsza od \(-2\)
+
+\[\begin{cases}
+a>0 \implies \text{ramiona paraboli skierowane w górę} \\
+q<-2 \implies \text{druga współrzędna wierzchołka} \\
+\text{jest niżej na wykresie funkcji niż -2}
+\end{cases}\]
+
+\[a>0\]
+\[p-3>0 \rightarrow p>3\]
+
+\[q=-\frac{\Delta}{4a}\]
+
+\[\Delta=b^2-4ac\]
+
+\[q< -2\]
+
+\[\Delta=2^2-4(p-3)\cdot(-1)\]
+\[\Delta=4+4p-12=4p-8\]
+
+\[\frac{8-4p}{4(p-3)} < -2 \mid :4\]
+
+\[\frac{8-4p}{p-3}< -8 \mid (p-3)^2\]
+
+\[(8-4p)(p-3)< -8(p-3)^2 \]
+
+\[1+8(p-3)^2\]
+
+\[(8-4p)(p-3)+8(p-3)^2<0\]
+
+\[(p-3) [8-4p+8(p-3)]<0\]
+
+\[(p-3) [8-4p+8p-24]<0\]
+
+\[(p-3) [4p-16]<0\]
+
+\[p-3=0\]
+\[p=3\]
+
+\[4p-16=0 \mid +16 \]
+\[4p=16 \mid :4\]
+\[p=4\]
+
+\(p \in (3,4)\)
+
+Zatem: \(p>3\)
+
+\(p \in (3,4) \Rightarrow p \in (3,4)\)
+
+Odp: \(p \in (3,4)\).

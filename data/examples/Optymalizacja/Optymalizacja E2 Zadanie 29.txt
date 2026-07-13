@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+Zużycie paliwa przez pewien samochód (w litrach na 100 km) zależy od jego prędkości \( v \) (w km/h). Zależność tę dla \( v \in \langle 40, 130 \rangle \) można zapisać wzorem:
+\[ p(v) = 0{,}005v^2 - 0{,}8v + 40. \]
+
+a) Oblicz, przy jakiej prędkości samochód spala najmniej paliwa. Ile wtedy spala? [2 pkt]
+
+Dowód 1:
+Funkcja \( p(v) \) jest funkcją kwadratową o ramionach skierowanych w górę, zatem przyjmuje wartość najmniejszą w wierzchołku
+\[ \rho = -\frac{b}{2a} = \frac{0{,}8}{2 \cdot 0{,}005} = 80 \in \langle 40, 130 \rangle \]
+\[ p(80) = 0{,}005 \cdot 80^2 - 0{,}8 \cdot 80 + 40 = 8 \]
+
+Dowód 2:
+\[ p'(v) = 0{,}01v - 0{,}8 \]
+\[ p'(v) = 0 \Leftrightarrow 0{,}01v - 0{,}8 = 0 \]
+\[ v = 80 \]
+\[ \rho_{min} = p(80) \]
+
+Odp: Przy prędkości 80 km/h spalanie to 8 l/100 km
+
+b) Godzina korzystania z takiego samochodu wynajętego w pewnej wypożyczalni kosztuje 32,40 zł. Oprócz tego trzeba zapłacić za paliwo 4 zł za litr. Oblicz, przy jakiej prędkości podróżowania łączny koszt transportu będzie najmniejszy. [4 pkt]
+
+Dowód 1:
+do kosztu paliwa musimy jeszcze dodać koszt za wypożyczenie samochodu
+
+z fizyki: \( s = v \cdot t \), gdzie \( s = 100 \text{km} \)
+
+mamy \( t = \frac{100}{v} \), więc skoro \( 32{,}40zł \) za 1h
+
+to \( xh = 32{,}40 \cdot \frac{100}{v} = \frac{3240}{v} \)
+
+ostateczny wzór: \( g(v) = 0{,}02v^2 - 3{,}2v + 160 + \frac{3240}{v} \)
+
+Dowód 2:
+Wyznaczamy pochodną funkcji
+
+\[ g'(v) = 0{,}04v - 3{,}2 - \frac{3240}{v^2} = \frac{0{,}04v^3 - 3{,}2v^2 - 3240}{v^2} \]
+
+Wyznaczamy miejsca zerowe pochodnej
+
+\[ g'(v) = 0 \Leftrightarrow 0{,}04v^3 - 3{,}2v^2 - 3240 = 0 \]
+
+\[ v^3 - 80v^2 - 8100 = 0 \]
+
+\[ v(90) = 0 \Rightarrow (v - 90)(v^2 + 12v + 300) = 0 \]
+
+\[ v = 90 \in D \langle 40 \rangle \]
+
+Dowód 3:
+Badamy monotoniczność i ekstrema funkcji
+
+Sposób I:
+
+\[ v < 90 \]
+
+\[ g'(v) \]
+
+Sposób II:
+
+\[ v \]
+
+\( \langle 40,90 \rangle \)
+
+\[ g'(v) \]
+
+\(-\)
+
+\( g(v) \)
+
+Wartość minimalna
+
+\( \langle 90, 130 \rangle \)
+
+\( g'(v) \)
+
+\( + \)
+
+\( g(v) \)
+
+Odp: Łączny koszt transportu będzie najmniejszy przy prędkości 90 km/h.

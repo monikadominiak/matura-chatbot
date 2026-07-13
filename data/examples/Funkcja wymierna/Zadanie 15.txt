@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+Zadanie 15
+
+Dana jest funkcja wymierna \( f(x) = \frac{5}{x^2+4} + \frac{x^2+4}{5} \). Dla jakich argumentów funkcja \( f \) przyjmuje wartość 2?
+
+\(\circled{1}\) Zapisujemy równanie \( f(x)=2 \).
+
+\[
+\frac{5}{x^2+4} + \frac{x^2+4}{5} = 2
+\]
+
+\(\circled{2}\) Wyznaczamy dziedzinę równania.
+
+D: \( x^2+4 \neq 0 \)  
+\(\Delta<0 \)  
+D = \(\mathbb{R}\)
+
+\(\circled{3}\) Rozwiązujemy równanie.
+
+\[
+\frac{5 \cdot 5}{(x^2+4) \cdot 5} + \frac{(x^2+4)(x^2+4)}{5 \cdot (x^2+4)} = 2
+\]
+
+\[
+\frac{25+x^4+8x^2+16}{5 \cdot (x^2+4)} = 2
+\]
+
+\[
+x^4+8x^2+41=10(x^2+4)
+\]
+
+\[
+x^4-2x^2+1=0
+\]
+
+\[
+(x^2-1)^2=0
+\]
+
+\[
+x^2-1=0
+\]
+
+\[
+x^2=1
+\]
+
+\[
+x = 1 \quad \lor \quad x = -1
+\]
+
+Odp: \( x \in \{-1, 1\} \).

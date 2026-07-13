@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Rzucamy czterokrotnie symetryczną sześcienną kostką do gry. 
+Oblicz prawdopodobieństwo zdarzenia, że otrzymamy dokładnie dwie piątki lub 
+dokładnie dwie dwójki. 
+
+① analizujemy polecenie 
+    4x rzut kostką,  1,2,3,4,**5**,6 
+    2x „2” lub 2x „5” 
+
+② liczymy moc Ω 
+    |Ω| = 6^4 (cztery rzuty, w każdym sześć możliwości) 
+
+③ A_1 – dokładnie dwie „5” 
+    (4 po 2) ⋅ 5 ⋅ 5 = 150 
+    wybór 2 z 4 rzutów, w których wypadnie „5” 
+
+    A_2 – dokładnie dwie „2” 
+    (4 po 2) ⋅ 5 ⋅ 5 = 150 
+    wybór 2 z 4 rzutów, w których wypadnie „2” 
+
+zauważmy, że zarówno A_1 i A_2 zawierają warianty rzutu 5,5,2,2 
+
+④ A_3 – dwie „5” i dwie „2” 
+    ⇒ różne kombinacje elementów 5,5,2,2 
+    (4 po 2)⋅1 = 6 (5522, 5252, 5225, 2255, 2525, 2552) 
+
+⑤ P(A) = ( |A_1| + |A_2| - |A_3| ) / |Ω| = (150 + 150 - 6) / 6^4 = 49/216 
+
+Odp: 49/216

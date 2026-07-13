@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Ile ciągów literowych można utworzyć z liter A, A, B, B, C, D, D, D, E, E, E?
+
+1. analizujemy polecenie
+
+   litery: A, A, B, B, C, D, D, D, E, E, E → 11 liter
+
+   do określenia możliwości ciągów literowych użyjemy kombinacji, ponieważ
+
+   _ A _ A _ _ _ _ _ _ _ _
+   A    A
+   → ta sama sytuacja     A = A
+
+2. określamy możliwości:
+
+   (11 2) ⋅ (9 2) ⋅ (7 1) ⋅ (6 3) ⋅ 1 = 55 ⋅ 36 ⋅ 7 ⋅ 20 = 277200
+
+   (11 2)
+   ↳       2 z 11 miejsc dla A
+
+   (9 2)
+   ↳       2 z 9 (już) miejsc dla B
+
+   (7 1)
+   ↳       1 z 7 (już) miejsc dla C
+
+   (6 3)
+   ↳       3 z 6 (już) miejsc dla D
+
+   (3 3) - pozostałe miejsca dla E
+
+Odp: 277200

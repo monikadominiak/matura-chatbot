@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0-1)
+Liczba 2 log_3(6) - log_3(4) jest równa A. 4 B. 2 C. 2 log_3(2) D. log_3(8)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: D

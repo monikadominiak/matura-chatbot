@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+z4 (tn)  
+Zbiór Z jest zbiorem wartości funkcji w(x) = 2x^4 + x^3 + 4x + 6.  
+Ustal, czy 4 ∈ Z.
+
+w(x) = 2x^4 + x^3 + 4x + 6
+
+Aby sprawdzić czy do zbioru wartości  
+danej funkcji wielomianowej  
+należy jakaś konkretna liczba  
+należy rozwiązać równanie  
+w(x)=d (w tym przypadku). Rozwiązanie  
+jeżeli istnieją będą argumentami,  
+dla których funkcja przyjmuje  
+wartość d.
+
+w(x) = 4
+
+2x^4 + x^3 + 4x + 6 = 4    | -4
+
+2x^4 + x^3 + 4x + 2 = 0    ⬅ grupujemy
+
+x^3(2x + 1) + 2(2x - 1) = 0
+
+(2x + 1)(x^3 + 2) = 0
+
+2x + 1 = 0  
+2x = -1  
+x = -1/2
+
+x^3 + 2 = 0  
+x^3 = -2  
+x = -3√2  
+
+Otrzymaliśmy dwa rozwiązania
+
+Odp: 4 należy do zbioru  
+wartości funkcji w(x).

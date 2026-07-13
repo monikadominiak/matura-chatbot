@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z11 (tm) Na kwadracie, którego bok ma długość 2, opisano okrąg i w kwadrat ten wpisano okrąg. Oblicz pole pierścienia kołowego wyznaczonego przez te okręgi.
+
+1) Tworzymy rysunek poglądowy:
+
+[obrazek]
+
+Promień okręgu wpisanego w kwadrat jest równy połowie długości boku kwadratu.
+
+Promień okręgu opisanego na kwadracie jest równy połowie długości przekątnej tego kwadratu.
+
+r = \frac{1}{2}a = 1
+R = \frac{1}{2}a\sqrt{2} = \sqrt{2}
+
+2) Podstawiamy promienie do wzorów i obliczamy pole pierścienia:
+
+Wystarczy od pola koła zewnętrznego odjąć pole koła wewnętrznego.
+P_{Pierścienia} = \pi R^2 - \pi r^2 = 2\pi - \pi = \pi
+
+Odp. P_{Pierścienia} = \pi.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0-1)
+Liczba $5^{8}cdot16^{-2}$ jest równa
+A. $(frac{5}{2})^{8}$
+B. $frac{5}{2}$
+C. $10^{8}$
+D. 10
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

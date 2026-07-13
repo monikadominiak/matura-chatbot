@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Zadanie zZ (9.1) Podaj długość promienia i współrzędne środka okręgu o równaniu
+
+x^2 + y^2 + 3x – y + 1 = 0.
+
+1) Wyznaczamy środek i promień okręgu:
+
+I sposób: podstawienie
+
+x^2+y^2+3x-y+1=0 
+x^2+y^2-2ax-2by+c=0 , r^2=a^2+b^2-c
+
+-2ax=3x      -2by=-1y        c=1
+a=-3/2        b=1/2
+
+r^2=(-3/2)^2+(1/2)^2-1
+r^2=13/4-4/4
+r=√1/2     v r=-√1/2 ∉ bo r>0
+
+O: (x+3/2)^2+(y-1/2)^2=1/2 => S(-3/2,1/2) , r=√1/2
+
+II sposób: zwiniecie do wzorów skróconego mnożenia
+
+x^2+y^2+3x-y+1=0
+(x+3/2)^2+(y-1/2)^2=9/4+1/4-1
+o:(x+3/2)^2+(y-1/2)^2=1/2
+S(-3/2,1/2)   y=√1/2
+
+Odp. S(-3/2,1/2) ; r=√1/2.

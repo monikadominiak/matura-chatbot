@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+z4 (tn)
+
+Wykres funkcji \( f(x) = 3x^2 \) przesunięto o wektor v otrzymując wykres funkcji g, której miejscami zerowymi są liczby -3 i 1. Znajdź współrzędne wektora v.
+
+① Wyznaczenie pełnego wzoru funkcji g.
+
+Mamy podane miejsca zerowe tej funkcji, zatem możemy skorzystać z postaci iloczynowej:
+\[ f(x) = a(x-x_1)(x-x_2) \]
+
+tutaj: \\
+\( x_1 = -3 \) \\
+\( x_2 = 1 \)
+
+\[ g(x) = a(x-(-3))(x-1) \]
+\[ g(x) = a(x+3)(x-1) \]
+
+Funkcja \( g \) została otrzymana z przesunięcia wykresu funkcji \( f(x) = 3x^2 \), współczynniki "a" obu tych funkcji są takie same:
+
+\( a = 3 \)
+
+\[ g(x) = 3(x+3)(x-1) \]
+
+② Wyznaczenie współrzędnych wektora v
+
+Wektor przesunięcia wiąże się z postacią kanoniczną funkcji kwadratowej:
+\[ f(x) = a(x-p)^2 + q \]
+
+Doprowadzając postać iloczynową funkcji g do postaci kanonicznej:
+
+\[ g(x) = 3(x+3)(x-1) \]
+\[ g(x) = 3(x^2 - x + 3x - 3) \]
+\[ g(x) = 3x^2 + 6x - 9 \]
+
+\[ \Delta = b^2 - 4ac \]
+
+\[ p = \frac{-b}{2a} \]
+\[ p = \frac{-6}{2 \cdot 3} = -1 \]
+
+\[ q = \frac{-\Delta}{4a} \]
+\[ \Delta = 6^2 - 4 \cdot 3 \cdot (-9) \]
+\[ \Delta = 36 + 108 = 144 \]
+
+\[ q = \frac{-144}{4 \cdot 3} = \frac{-144}{12} = -12 \]
+
+Zatem \( [p; q] = [-1; -12] \)
+
+Odp: \( v = [-1; -12] \).

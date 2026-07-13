@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+W ostrosłupie ABCS podstawa ABC jest trójkątem równoramiennym o ramionach AC i BC długości 3 i kącie między nimi 60°. Punkt E – środek krawędzi AB – jest spodkiem wysokości tego ostrosłupa, a krawędź boczna CS tworzy z podstawą kąt 75°. Ostrosłup przecięto płaszczyzną przechodzącą przez krawędź AB i mającą z przeciwległą krawędzią boczną CS wspólny punkt D (jak na rysunku). Oblicz pole otrzymanego przekroju, wiedząc, że z podstawą ostrosłupa tworzy on kąt 60°.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+[powtórzony rysunek z nazwami punktów i długościami boków]
+
+2️⃣ w △SEC mamy kąt 80°, 75°,
+
+więc ∡ESC=15°
+
+3️⃣ w △EDC mamy: 3 kąty i 1 bok + 1 szukany
+
+2 tw. sinusów możemy zapisać:
+
+h / sin75° = (3√3/2) / sin45°
+
+4️⃣ wyznaczamy najpierw sin75°
+
+sin75° = sin(45°+30°) = sin45°cos30° + sin30°cos45°
+
+= (√2/2)(√3/2) + (1/2)(√2/2) = (√6+√2) / 4
+
+5️⃣ podstawiamy do tw. sinusów
+
+h / (√6+√2)/4 = (3√3/2) / √2/2
+
+⇒ h = (3√3/2) * (√6+√2)/4 * 2/√2 = (9 + 3√3) / 4
+
+6️⃣ obliczamy pole: P = 1/2 * 3 * (9 + 3√3)/4 = (9√3 + 27)/8
+
+Odp: P = (9√3 + 27) / 8

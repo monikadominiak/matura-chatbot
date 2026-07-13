@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zadanie z1 (8.5) W czworokąt ABCD można wpisać okrąg. Bok AB tego czworokąta jest siedem razy krótszy niż bok CD, zaś bok AD jest trzy razy krótszy niż bok BC. Ile razy bok BC jest dłuższy od boku AB?
+
+1) Tworzymy rysunek poglądowy:
+
+[rysunek]
+
+Sumy boków przeciwległych czworokąta muszą być sobie równe (Rysunek jest poglądowy, nie odzwierciedla rzeczywistych stosunków z treści zadania).
+
+z własności 4-kąta opisanego na okręgu:
+
+x + 7x = y + 3y
+
+8x = 4y
+
+2x = y
+
+|BC| = 3y = 3·2x = 6x
+
+|AB| = x
+
+|BC| / |AB| = 6x / x = 6
+
+Odp. Sześć razy.

@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Oblicz objętość ostrosłupa prawidłowego czworokątnego mając długość krawędzi podstawy a i miarę 2α kąta między dwiema sąsiednimi ścianami bocznymi.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+DANE: a, α
+ZMIENNE: x, y, H
+
+2️⃣ zapisujemy trzy równania
+
+1) tgα w ΔSC'B
+
+tgα = |SB| / |SC'| = a√2/2 / x
+
+2) tw. Pitagorasa w ΔSCC'
+
+x^2 + y^2 = (a√2/2)^2
+
+3) z podobieństwa trójkątów
+
+ΔCSE ~ ΔSCC' z cechy kkk
+
+H/x = a√2/2 / y
+
+3️⃣ z 1) wyznaczamy x
+
+tgα = a√2/2x => x = a√2/2tgα
+
+4️⃣ z 2) wyznaczamy y
+
+(a√2/2tgα)^2 + y^2 = (a√2/2)^2 => y^2 = 2a^2/4 - 2a^2/4tg^2α =>
+
+=> y^2 = (a^2(tg^2α-1))/(2tg^2α) => y = a√(tg^2α-1)/√2tgα
+
+5️⃣ z 3) wyznaczamy H
+
+H/a√2/2tgα = a√2/2 / a√(tg^2α-1)/√2tgα => H = a√2/2tgα * a√2/2 / a√(tg^2α-1)/√2tgα =>
+
+=> H = a√2/2√tg^2α-1
+
+6️⃣ wyznaczamy objętość
+
+V = 1/3 a^2 * a√2/2√tg^2α-1 = a^3√2/6√tg^2α-1
+
+odp: V = a^3√2/6√tg^2α-1

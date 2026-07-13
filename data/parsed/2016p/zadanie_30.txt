@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0-2)
+Ciąg (a_n) jest określony wzorem a_n = n^2 + 2n + 2 dla n &gt;= 1. Wykaż, że suma każdych dwóch kolejnych wyrazów tego ciągu jest kwadratem liczby naturalnej.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 30. $(0-2)$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia na $(a\pm b)^{2}$ oraz $a^{2}-b^{2}$ (2.1).
+Przykładowe rozwiązanie Rozważmy wyraz $a_{n}=2n^{2}+2n$. Wyraz $a_{n+1}$ można zapisać, jako $a_{n+1}=2(n+1)^{2}+2(n+1)=2n^{2}+6n+4$. Wtedy $a_{n}+a_{n+1}=2n^{2}+2n+2n^{2}+6n+4=4n^{2}+8n+4$. Zatem $a_{n}+a_{n+1}=(2n+2)^{2}$.  Liczba $2n+2$ jest naturalna. To kończy dowód.
+Schemat punktowania  Zdający otrzymuje 1 p. gdy poprawnie zapisze sumę dwóch kolejnych wyrazów tego ciągu, np. $a_{n}+a_{n+1}=2n^{2}+2n+2(n+1)^{2}+2(n+1)$ i na tym zakończy lub dalej popełnia błędy. Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie.
+Uwaga: Jeżeli zdający sprawdzi prawdziwość tezy tylko dla konkretnych wartości $n$, to otrzymuje 0 punktów.
+Strona 11 z 20

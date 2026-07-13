@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zad.17 Średnicą okręgu o środku O jest bok AB trójkąta ABC. Okrąg ten przecina bok AC w punkcie D i bok BC w punkcie E. Wiedząc, że |AB|=15 cm, |BE|=9 cm i |CE|=5 cm, oblicz |DC| i |AD|.
+
+1) Tworzymy rysunek poglądowy:
+
+uwaga na polecenie - co prawda bok AB jest średnicą okręgu, ale okrąg nie jest opisany na trójkącie więc wcale nie musi on być prostokątny
+
+ale możemy ten fakt wykorzystać w trójkątach ABD i AEB
+
+2) Korzystamy z tw. Pitagorasa:
+
+|AC|^2=|AE|^2+|CE|^2
+
+|AE|^2+|BE|^2=|AB|^2
+
+|AE|^2=15^2-9^2=144 \sqrt{}
+
+|AE|=12
+
+|AC|^2=12^2+5^2=169 \sqrt{}
+
+|AC|=13
+
+3) Korzystamy z tw. o siecznych:
+
+tw. o siecznych mówi nam, że jeśli istnieją 2 proste które przecinają okrąg w 2 punktach (w tym zdaniu A i D oraz B i E) i proste również przecinają się ze sobą, (tutaj punkt C) to wówczas:
+
+|AC|⋅|DC|=|BC|⋅|CE|
+
+13|DC|=14⋅5
+
+|DC|=\frac{70}{13}, \frac{169}{13}, \frac{70}{13}, \frac{93}{13}
+
+|AD|=13-\frac{70}{13}= \frac{169}{13}, \frac{93}{13}, \frac{93}{13}, \frac{93}{13}
+
+Odp. |DC|=\frac{70}{13}, |AD|=\frac{93}{13}

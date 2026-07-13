@@ -1,0 +1,16 @@
+=== ARKUSZ: 2022p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0-1)
+Ciąg $(a_{n})$ jest określony wzorem
+$a_{n}=frac{2n^{2}-30n}{n}$
+dla każdej liczby naturalnej $nge1.$
+Wtedy $a_{7}$ jest równy
+A. (-196)
+B. (-32)
+C. (-26)
+D. (-16)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

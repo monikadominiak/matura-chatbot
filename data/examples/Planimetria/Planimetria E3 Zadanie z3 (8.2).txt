@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+**Zadanie z3 (8.2)** Dwusieczna kąta prostego trójkąta prostokątnego dzieli przeciwprostokątną na odcinki o długościach a i b. Oblicz długości przyprostokątnych tego trójkąta.
+
+1) Tworzymy rysunek poglądowy:
+
+\[ \text{Rysunek trójkąta z zaznaczoną dwusieczną:} \]
+
+W zadaniu mamy dwie niewiadome - długości przyprostokątnych, "a" i "b" to dane.
+
+W związku z tym potrzebujemy 2 równań.
+
+2) Tworzymy układ 2 równań: tw. Pitagorasa oraz tw. o dwusiecznej:
+
+\[
+\begin{cases} 
+(x+a)^2 + x^2 = y^2 \\ 
+\frac{x}{a} = \frac{y}{b}
+\end{cases} \quad \text{(tw. Pitagorasa)} \quad \text{(tw. o dwusiecznej)}
+\]
+
+\[
+\frac{x}{a} = \frac{y}{b} \implies x = \frac{a}{b} \cdot y \implies x^2 = \frac{a^2}{b^2} \cdot y^2
+\]
+
+\[
+(x+a)^2 + \frac{a^2}{b^2} \cdot y^2 = y^2
+\]
+
+\[
+(a+b)^2 + \frac{a^2}{b^2} \cdot y^2 = \left( \frac{a+b}{b} \right)^2 \cdot y^2
+\]
+
+\[
+y^2 = \frac{(a+b)^2}{\left( \frac{a}{b} \right)^2 + 1}
+\]
+
+\[
+y = \frac{a+b}{\sqrt{\left( \frac{a}{b} \right)^2 + 1}} \implies x = \frac{a}{b} \cdot y = \frac{a(a+b)}{b\sqrt{\left( \frac{a}{b} \right)^2 + 1}}
+\]
+
+Odp. \quad y = \frac{a+b}{\sqrt{\left( \frac{a}{b} \right)^2 + 1}}, \quad x = \frac{a(a+b)}{b\sqrt{\left( \frac{a}{b} \right)^2 + 1}}.
+
+Trudniejsze układy równań najlepiej zazwyczaj rozwiązywać metodą podstawiania.
+
+Z prostego równania (z niższymi potęgami) można wyznaczyć x lub y.
+
+W tego typu zadaniu będzie kilka poprawnych odpowiedzi końcowych, w zależności od tego, jak bardzo upraszcza się ten wynik.
+
+Wynik tutaj jest równoważny wynikom na liście zadań. Za obie odpowiedzi przyznawany komplet punktów.

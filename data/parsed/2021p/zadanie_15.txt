@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Ciąg arytmetyczny $(a_{n})$ jest określony dla każdej liczby naturalnej $nge1$. Trzeci i piąty wyraz
+ciągu spełniają warunek $a_{3}+a_{5}=58$. Wtedy czwarty wyraz tego ciągu jest równy
+A. 28
+B. 29
+C. 33
+D. 40
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

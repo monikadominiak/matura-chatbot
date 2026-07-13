@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Zadanie z2 (9.6) Punkty A = (-3, -1) i B = (4, 0) są wierzchołkami rombu ABCD, którego wierzchołek D leży na prostej y = -x + 6. Wyznacz współrzędne wierzchołka C.
+
+1) Tworzymy rysunek poglądowy.
+
+2) Wyznaczamy długość boku rombu:
+
+|AB| = sqrt((x_b-x_a)^2 + (y_b-y_a)^2) = sqrt(7^2 + 1^2) = sqrt(50) = 5sqrt(2).
+
+3) Wyznaczamy wierzchołek D ze wzoru na długość odcinka:
+
+D(x,y) ε y = -x + 6 => y = -x + 6
+
+|AD| = sqrt((x+3)^2 + (y+1)^2) = 5sqrt(2)
+(x+3)^2 + ((-x+6)+1)^2 = 50
+x^2 + 6x + 9 + 49 - 12x + x^2 = 50
+2x^2 - 6x + 58 = 50
+x^2 - 3x + 4 = 0
+
+(x-2)(x-2) => x=2 => y=-2+6
+
+D(2,4)
+
+4) Wyznaczamy wierzchołek C z rachunku wektorów:
+
+Odcinki AD i BC są równą długością i do siebie równoległe, więc:
+
+\(\vec{AD} = \vec{BC}\)
+
+|x_c - x_b, y_c - y_b| = |-x_d + x_a, -y_d + y_a|
+
+|x_c - 4, y_c| = |-2-(-3), -4-(-1)|
+
+[5, 5] = [x_c - 4, y_c] => x_c = 9, y_c = 5
+
+C(9,5)
+
+Odp. C (9,5).
+
+W zadaniu skorzystaliśmy z złożonej własności wektorów. Wektory są równe (mają identyczne współrzędne), gdy są do siebie równoległe i tej samej długości.
+
+Alternatywnie można by wyznaczyć punkt przecięcia przekątnych AC i BD rombu i obliczyć ze wzoru na środek odcinka, jednak taka droga byłaby dłuższa.

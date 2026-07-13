@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Wykazać, że dla dowolnych kątów α, β zachodzi równość:
+
+(cosα + cosβ)^2 + (sinα + sinβ)^2 = 4cos^2 (α - β)/2
+
+teza: (cosα + cosβ)^2 + (sinα + sinβ)^2 = 4cos^2 (α - β)/2
+
+1. przekształcamy lewą stronę równania
+
+L = (cosα + cosβ)^2 + (sinα + sinβ)^2 = (2cos (α + β)/2 · cos (α - β)/2)^2 + (2sin (α + β)/2 · cos (α - β)/2)^2 = 
+
+= 4 · cos^2 (α + β)/2 · cos^2 (α - β)/2 + 4 · sin^2 (α + β)/2 · cos^2 (α - β)/2 = 4cos^2 (α - β)/2 (cos^2 (α + β)/2 + sin^2 (α + β)/2) = 4cos^2 (α - β)/2 · 1 = P
+
+sin^2 α + cos^2 α = 1
+
+c. k. d.

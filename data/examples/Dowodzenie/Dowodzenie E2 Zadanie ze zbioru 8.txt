@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+```   
+Wykazać, że liczba a = (sqrt(5) + 2)^{2022} + (sqrt(5) - 2)^{2022} jest wymierna.
+
+1⃣ pomysł:
+\{(a+b)^2 + (a-b)^2} \quad \Rightarrow \quad \frac{a^2 + 2ab + b^2}{a^2 - 2ab + b^2} \quad \frac{2a^2 + 2b^2}{}
+
+2⃣ rozpiszemy liczby (sqrt(5) + 2)^{2022} \quad i \quad (sqrt(5) - 2)^{2022} \quad korzystając \ ze \ wzorów
+
+(sqrt(5) + 2)^{2022} = \binom{2022}{0} \cdot (sqrt(5))^{2022} + \binom{2022}{1} \cdot (sqrt(5))^{2021} \cdot 2^1 + \binom{2022}{2} \cdot (sqrt(5))^{2020} \cdot 2^2 + ... + \binom{2022}{2021} \cdot (sqrt(5)) \cdot 2^{2021} + \binom{2022}{2022} \cdot 2^{2022} 
+
+3⃣ + (sqrt(5) - 2)^{2022} = \binom{2022}{0} \cdot (sqrt(5))^{2022} - \binom{2022}{1} \cdot (sqrt(5))^{2021} \cdot 2^1 + \binom{2022}{2} \cdot (sqrt(5))^{2020} \cdot 2^2 - ... - \binom{2022}{2021} \cdot (sqrt(5)) \cdot 2^{2021} + \binom{2022}{2022} \cdot 2^{2022}
+
+\underline{2 \cdot \binom{2022}{0} \cdot (sqrt(5))^{2022} + 2 \cdot \binom{2022}{2} \cdot (sqrt(5))^{2020} \cdot 2^2 + ... + 2 \cdot \binom{2022}{2022} \cdot 2^{2022}}
+
+4⃣ komentarz:
+wszystkie \ liczby \ 2 \ w \ różnych \ (całkowitych) \ potęgach \ oraz \ współczynniki \ wynikające \ z \ dwumianu \ Newtona \ są \ wymierne, \ a \ wszystkie \ niewymierne \ sqrt{5} \ są \ w \ potęgach \ parzystych \ i \ więc \ i \ one \ są \ ostatecznie \ wymierne \\
+c. \ k. \ d.
+
+Dla \ dowolnej \ liczby \ całkowitej \ dodatniej \ n \ oraz \ dla \ dowolnych \ liczb \ rzeczywistych \ a, \ b \ mamy: 
+(a + b)^n = \binom{n}{0} a^n + \binom{n}{1} a^{n-1}b + ... + \binom{n}{k} a^{n-k} b^k + ... + \binom{n}{n-1}a b^{n-1} + \binom{n}{n} b^n
+
+Dla \ dowolnej \ liczby \ całkowitej \ dodatniej \ n \ oraz \ dla \ dowolnych \ liczb \ rzeczywistych \ a, \ b: 
+(a - b)^n = \binom{n}{0} a^n - \binom{n}{1} a^{n-1}b + ... + (-1)^k \binom{n}{k} a^{n-k} b^k + ... + (-1)^n \binom{n}{n} b^n
+
+a = (sqrt(5) + 2)^{2022} + (sqrt(5) - 2)^{2022} 
+
+= 5^{1011}
+= 5^{1010}
+```

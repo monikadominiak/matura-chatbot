@@ -1,0 +1,69 @@
+
+--- STRONA 1 ---
+z4 (6.3)
+
+Skończony ciąg arytmetyczny \( (a_n) \) określony jest wzorem \( a_n = 2n + 3 \). Wzięto kilka końcowych wyrazów tego ciągu. Ich suma jest równa 145, a suma najmniejszego i największego z wziętych wyrazów jest równa 58. Z ilu wyrazów składa się ciąg \( (a_n) \)?
+
+**Wskazówka:** W obliczeniach istotne są tylko te wyrazy, które wzięto.
+
+Oznaczamy wzięte wyrazy jako \( a_1, a_2, \ldots, a_n \).
+
+Uwaga: \( a_1 \) nie oznacza tutaj pierwszego wyrazu ciągu, tylko pierwszy wzięty wyraz.
+
+1️⃣ Tworzymy układ równań.
+
+\[
+\begin{cases} 
+\frac{a_1 + a_n}{2} \cdot n = 145 \quad (1) \\
+a_1 + a_n = 58 \quad (2) 
+\end{cases}
+\]
+
+2️⃣ Rozwiązujemy układ równań.
+
+Z (2) do (1):
+
+\[
+\frac{58}{2} \cdot n = 145 \\
+29n = 145 \\
+n = 5
+\]
+
+Oznacza to, że wzięto 5 końcowych wyrazów ciągu.
+
+3️⃣ Wyznaczmy różnicę ze wzoru ciągu,
+
+\( a_n = 2n + 3 \)
+
+\( a_{n+1} = 2(n+1) + 3 = 2n + 5 \)
+
+\( r = a_{n+1} - a_n = (2n + 5) - (2n + 3) = 2 \)
+
+Znając różnicę można uzależnić wzięte 5 wyrazów od jednej zmiennej.
+
+4️⃣ Wyznaczamy \( a_1 \).
+
+\( a_1, a_1+2, a_1+4, a_1+6, a_1+8 \) - 5 wziętych wyrazów
+
+Suma pierwszego i ostatniego spośród wziętych wyrazów wynosi 58. Wobec tego:
+
+\( a_1 + (a_1 + 8) = 58 \)
+
+\( 2a_1 = 50 \)
+
+\( a_1 = 25 \)
+
+--- STRONA 2 ---
+⑤ Obliczamy liczbę wyrazów.
+
+a_n = 25
+
+2n + 3 = 25
+
+n = 11
+
+Wyraz równy 25 (pierwszy spośród wziętych) jest jedenastym wyrazem ciągu.
+
+Oznacza to, że łącznie było 15 wyrazów.
+
+Odp.: 15 wyrazów.

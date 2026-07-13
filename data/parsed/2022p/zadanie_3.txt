@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Liczba $4~log_{4}2+2~log_{4}8$ jest równa
+A. $6~log_{4}10$
+B. 16
+C. 5
+D. $6~log_{4}16$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

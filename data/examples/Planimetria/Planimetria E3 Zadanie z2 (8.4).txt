@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Zadanie z2 (8.4) W okrąg wpisano trójkąt KLM, a następnie poprowadzono średnicę AL. Wyznacz miary kątów trójkąta o wierzchołkach w punktach L, A, K wiedząc, że kąt KML ma miarę 29°.
+
+1) Oznaczamy i analizujemy kąty na rysunku: 
+
+Kąt wpisany oparty na średnicy jest kątem prostym, więc ∡LKA=90°.
+
+Kąty wpisane oparte na tym samym łuku są sobie równe, więc ∡L∠AK=∡LMK=29°.
+
+Z sumy kątów w ΔKAL:
+
+|∡KLA|+90°+29°=180°  →  |∡KLA|=61°
+
+Odp. |∡LAK|=29°, |∡KLA|=61°, |∡LKA|=90°.

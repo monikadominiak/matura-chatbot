@@ -1,0 +1,17 @@
+=== ARKUSZ: 2025p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (x, y) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej f (zobacz rysunek). Wierzchołek tej paraboli ma
+współrzędne (3, 6). Ta parabola przecina oś Oy w punkcie o współrzędnych (0, 3).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

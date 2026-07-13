@@ -1,0 +1,16 @@
+=== ARKUSZ: 2023p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30.
+1 pkt - zapisanie jedynie liczby 64 (należy traktować to jako wyznaczenie liczby wszystkich zdarzeń elementarnych).
+Uwagi:
+W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi ze standardowych zasad oceniania.
+Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające zdarzeniu A, lecz popełni błąd w ich zliczeniu ($|A|=5$) i konsekwentnie zapisze wynik $frac{5}{64}$, to otrzymuje 2 punkty.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

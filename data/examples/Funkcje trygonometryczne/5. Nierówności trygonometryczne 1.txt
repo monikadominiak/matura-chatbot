@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+5. Nierówności trygonometryczne 1
+
+Rozwiąż nierówność
+
+a) 2 sin x < sqrt(2)  
+
+b) 2cos x ≥ -sqrt(3)  
+
+c) sqrt(3)tgx ≤ -1  
+
+a) ① Przekształcamy nierówność.
+
+2 sin x < sqrt(2)
+sin x < sqrt(2)/2
+
+② Szkicujemy wykres funkcji sinus oraz y = sqrt(2)/2 .
+
+③ Odczytujemy rozwiązanie.
+
+x ∈ (3π/4 + 2kπ, 9π/4 + 2kπ), k ∈ ℤ
+
+Odp.: x ∈ (3π/4 + 2kπ, 9π/4 + 2kπ), k ∈ ℤ.
+
+--- STRONA 2 ---
+b) ① Przekształcamy nierówność.
+
+2 \cos x > -\sqrt{3}
+
+\cos x > -\frac{\sqrt{3}}{2}
+
+② Szkicujemy wykres funkcji sinus oraz y = -\frac{\sqrt{3}}{2}.
+
+③ Odczytujemy rozwiązanie.
+
+x \in [-\frac{5\pi}{6} + 2k\pi, \frac{5\pi}{6} + 2k\pi], \ k \in \mathbb{Z}
+
+Odp.: \ x \in [-\frac{5\pi}{6} + 2k\pi, \frac{5\pi}{6} + 2k\pi], \ k \in \mathbb{Z}.
+
+--- STRONA 3 ---
+c) ① Przekształcamy nierówność.
+\(\sqrt{3} \tg x \le -1\)
+\(\tg x \le -\frac{1}{\sqrt{3}}\)
+\(\tg x \le -\frac{\sqrt{3}}{3}\)
+
+② Szkicujemy wykres funkcji tangens oraz \(y = -\frac{\sqrt{3}}{3}\).
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad y \)
+  
+\(-\frac{2\pi}{3}\) \(\quad \quad \quad \quad -\frac{\pi}{2}\) \(\quad \quad \quad \quad -\frac{\pi}{6}\)  \(\quad \quad \quad \quad 0\) \(\quad \quad \quad \quad \frac{\pi}{6}\) \(\quad \quad \quad \quad \frac{\pi}{2}\) \(\quad \quad \quad \quad \frac{5\pi}{6}\)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad x \)
+
+\(y = -\frac{\sqrt{3}}{3}\)
+
+③ Odczytujemy rozwiązanie.
+
+\(x \in \left(-\frac{\pi}{2} + k\pi, -\frac{\pi}{6} + k\pi\right], \quad k \in \mathbb{Z}\)
+
+Odp.: \(x \in \left(-\frac{\pi}{2} + k\pi, -\frac{\pi}{6} + k\pi\right], \quad k \in \mathbb{Z}.\)

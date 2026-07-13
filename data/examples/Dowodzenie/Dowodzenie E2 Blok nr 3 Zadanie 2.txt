@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Wykazać, że dla dodatnich \( x, y \) prawdziwa jest nierówność \(\frac{\sqrt{xy}}{x+y} < 1\).
+
+\(x, y > 0\)
+
+teza: \(\frac{\sqrt{xy}}{x+y} < 1\)
+
+\( \ \) \((1)\) przekształcamy równoważnie tezę:
+
+\(\frac{\sqrt{xy}}{x+y} < 1 \ \ /\cdot(x+y)_{>0}\)
+
+\(\sqrt{xy} < x+y\)
+
+\(x - \sqrt{xy} + y > 0 \ \ /\cdot 2\)
+
+\(2x - 2\sqrt{xy} + 2y > 0\)
+
+\(x + \underset{\geq 0}{\underline{x - 2\sqrt{xy} + y}} + y > 0\)
+
+\((\sqrt{x} - \sqrt{y})^2 + \underset{>0}{\underline{x}} + \underset{>0}{\underline{y}} > 0\)
+
+\((2)\) komentarz:
+
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, \(x>0, y>0\) z założenia
+
+suma liczby nieujemnej i dwóch dodatnich jest dodatnia
+
+\(c.k.d.\)

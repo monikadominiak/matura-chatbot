@@ -1,0 +1,18 @@
+=== ARKUSZ: 2015p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-2)
+Jeżeli do licznika i do mianownika nieskracalnego dodatniego ułamka dodamy połowę jego licznika, to otrzymamy 4/7, a jeżeli do licznika i do mianownika dodamy 1, to otrzymamy 1/2.
+Wyznacz ten ułamek.
+Odpowiedź: ................................................................................................................................ .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 31. (0-2)  Jeżeli do licznika i do mianownika nieskracalnego dodatniego ułamka dodamy połowę jego licznika, to otrzymamy $frac{4}{7}$, a jeżeli do licznika i do mianownika dodamy 1, to otrzymamy $frac{1}{2}$. Wyznacz ten ułamek.  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: G7. Równania. Zdający za pomocą równań lub układów równań opisuje i rozwiązuje zadania osadzone w kontekście praktycznym, a także rozwiązuje układy równań stopnia pierwszego z dwiema niewiadomymi (G7.7, G7.6).
+I sposób rozwiązania  Niech x i y oznaczają odpowiednio licznik i mianownik szukanego ułamka nieskracalnego. Z treści zadania otrzymujemy układ równań $frac{x+frac{1}{2}x}{y+frac{1}{2}x}=frac{4}{7}$ oraz $frac{x+1}{y+1}=frac{1}{2}$. $7cdotfrac{3}{2}x=4(y+frac{1}{2}x)$ oraz $2(x+1)=y+1$, $frac{21}{2}x=4y+2x$ oraz $2x+1=y$. Stąd $frac{17}{2}x=4(2x+1)$, $17x=16x+8$, $x=8$, więc $y=2cdot8+1=17$. Zatem szukany ułamek to $frac{8}{17}$. Jest to ułamek nieskracalny.
+Schemat oceniania I sposobu rozwiązania Zdający otrzymuje 1 p. gdy zapisze układ równań z dwiema niewiadomymi, np.: $frac{x+frac{1}{2}x}{y+frac{1}{2}x}=frac{4}{7}$ i $frac{x+1}{y+1}=frac{1}{2}$ albo zapisze równanie z jedną niewiadomą, np.: $frac{17}{2}x=4(2x+1)$. Zdający otrzymuje 2 p. gdy wyznaczy szukany ułamek: $frac{8}{17}$.
+II sposób rozwiązania  Niech x i y oznaczają odpowiednio licznik i mianownik szukanego ułamka nieskracalnego. Z treści zadania otrzymujemy równanie $frac{x+frac{1}{2}x}{y+frac{1}{2}x}=frac{4}{7}$. $frac{frac{3}{2}x}{y+frac{1}{2}x}=frac{4}{7}$. $frac{21}{2}x=4y+2x$. $frac{17}{2}x=4y$. Stąd $frac{x}{y}=frac{8}{17}$. Otrzymany ułamek jest nieskracalny oraz $frac{x+1}{y+1}=frac{9}{18}=frac{1}{2}$. Stąd wynika, że $frac{8}{17}$ to jedyny szukany ułamek.
+Schemat oceniania II sposobu rozwiązania Zdający otrzymuje 1 p. gdy zapisze równanie z dwiema niewiadomymi: $frac{x+frac{1}{2}x}{y+frac{1}{2}x}=frac{4}{7}$ i na tym zakończy, lub doprowadzi je postaci $frac{x}{y}=frac{8}{17}$. Zdający otrzymuje 2 p. gdy zapisze równanie z dwiema niewiadomymi: $frac{x+frac{1}{2}x}{y+frac{1}{2}x}=frac{4}{7}$, doprowadzi je postaci $frac{x}{y}=frac{8}{17}$ i sprawdzi, że ułamek ten spełnia drugi z warunków podanych w treści zadania: $frac{x+1}{y+1}=frac{9}{18}=frac{1}{2}$.
+Uwagi:
+Jeżeli zdający od razu poda ułamek $frac{8}{17}$ i nie sprawdzi, że podanych w treści zadania $frac{8+1}{17+1}=frac{1}{2}$, to otrzymuje 0 punktów.
+Jeżeli zdający od razu poda ułamek $frac{8}{17}$ i sprawdzi, że spełnia on drugi z warunków, to otrzymuje 1 punkt.

@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+FZ2
+
+wzór na pochodną funkcji złożonej:
+
+[g(f(x))]' = g'(f(x))·f'(x)
+
+f(x) = (x^3 + 3x)^3
+
+f'(x) = 3(x^3 + 3x)^2 · (3x^2 + 3)
+
+   pochodna                          pochodna
+   funkcji zewnętrznej   funkcji wewnętrznej
+
+= 3(x^6 + 6x^4 + 9x^2)·3(x^2 + 1)
+
+= 9(x^6 + 6x^4 + 9x^2)(x^2 + 1)

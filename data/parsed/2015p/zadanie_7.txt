@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 7 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 7. (0-1)
+Równanie (x - 1)/(x + 1) = x - 1
+A. ma dokładnie jedno rozwiązanie: x = 1.
+B. ma dokładnie jedno rozwiązanie: x = 0.
+C. ma dokładnie jedno rozwiązanie: x = -1.
+D. ma dokładnie dwa rozwiązania: x = 0, x = 1.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 7. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych, np. $frac{x+1}{x}=2x$, $frac{x+1}{x+3}=2$ (3.8).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

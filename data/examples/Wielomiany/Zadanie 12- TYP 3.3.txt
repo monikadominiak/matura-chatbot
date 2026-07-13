@@ -1,0 +1,106 @@
+
+--- STRONA 1 ---
+Zadanie 12 [3pkt] - TYP 3.3 (połączenie metody 1 i 3)
+
+Rozwiąż równanie: x^6 - 7x^3 - 8 = 0
+
+Sposób I - wykorzystanie twierdzeń o pierwiastkach wymiernych i całkowitych
+
+1) twierdzenie o pierwiastkach całkowitych - jeżeli wielomian o współczynnikach całkowitych ma pierwiastek całkowity to jest on dzielnikiem wyrazu wolnego
+
+2) twierdzenie o pierwiastkach wymiernych - jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, to ten pierwiastek musi być w postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze zmiennej
+
+Potencjalne pierwiastki wielomianu x^6 - 7x^3 - 8 = 0
+
+{±1; ±2; ±4; ±8}
+
+W(1) = 1 - 7 - 8 = -14 ≠ 0
+
+W(-1) = 1 + 7 + 8 = 0
+
+(-1) jest pierwiastkiem właściwym
+
+Dzielimy schematem Hornera:
+
+```
+      x^6  x^5  x^4  x^3  x^2   x   R
+       1    0    0   -7   0   0  -8
+-1    -1   -1   -1    8  -8   8
+-------------------------------
+       1   -1   -1    1  -8   8   0
+```
+
+(x^5 - x^4 + x^3 - 8x^2 + 8x - 8)(x + 1) = 0
+
+grupujemy
+
+[x^3(x^2 - x + 1) - 8(x^2 - x + 1)](x + 1) = 0
+
+(x^2 - x + 1)(x^3 - 8)(x + 1) = 0
+
+x^2 - x + 1 = 0
+
+Δ = b^2 - 4∙a∙c
+
+Δ = 1 - 4 < 0
+
+brak rozwiązań
+
+x^3 - 8 = 0
+
+x^3 = 8
+
+x_3 = 2
+
+x + 1 = 0
+
+x_2 = -1
+
+Odp: x ∈ {-1, 2}.
+
+Sposób II - wprowadzenie zmiennej t
+
+x^6 - 7x^3 - 8 = 0
+
+Podstawiamy t = x^3
+
+t^2 - 7t - 8 = 0
+
+Δ = b^2 - 4∙a∙c
+
+x_1 = (-b - sqrt(Δ)) / 2a
+
+x_2 = (-b + sqrt(Δ)) / 2a
+
+--- STRONA 2 ---
+\(\Delta = 49 + 32 = 81\)
+
+\(\sqrt{\Delta} = 9\)
+
+\[
+t_1 = \frac{7-9}{2} = -1 
+\]
+
+\[
+t_2 = \frac{7+9}{2} = 8 
+\]
+
+Wracamy do \( t = x^3 \)
+
+\[
+x_1^3 = -1 
+\]
+
+\[
+x_2^3 = 8 
+\]
+
+\[
+x_1 = -1 \quad
+\]
+
+\[
+x_2 = 2 \quad
+\]
+
+Odp: \( x \in \{-1, 2\}. \)

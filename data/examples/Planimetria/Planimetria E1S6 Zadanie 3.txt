@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zad.3 Rozwiąż trójkąt o danych bokach i kącie: a = 7, b = 10, α = 45°.
+
+1) Tworzymy rysunek poglądowy:
+
+UNAGA-Polecenie "rozwiąż trójkąt" oznacza, że należy wyznaczyć miary jego brakujących kątów i długości brakujących boków.
+
+(Rysunek jest poglądowy i nie odzwierciedla dokładnie wymiarów ani kątów)
+
+2) Wyznaczamy \( x \) za pomocą tw. cosinusów:
+
+\( 7^2 = 10^2 + x^2 - 2 \cdot 10 \cdot x \cdot \cos 45^\circ \)
+
+\( 49 = 100 + x^2 - 10\sqrt{2}x \)
+
+\( x^2 - 10\sqrt{2}x + 51 = 0 \)
+
+\( \Delta = 200 - 4 \cdot 51 = 200 - 204 < 0 \)
+
+Równanie powstałe z tw. cosinusów nie ma rozwiązań, zatem trójkąt o podanych wymiarach nie istnieje.

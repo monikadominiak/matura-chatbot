@@ -1,0 +1,14 @@
+=== ARKUSZ: 2025p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0–2)
+Wykaż, że dla każdej nieparzystej liczby naturalnej n liczba 3n^2 + 2n + 7 jest
+podzielna przez 4.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

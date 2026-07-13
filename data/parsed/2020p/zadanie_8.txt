@@ -1,0 +1,17 @@
+=== ARKUSZ: 2020p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0-1)
+Największa wartość funkcji w przedziale (1, 4) jest równa
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. 0
+B. 1
+C. 2
+D. 4
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 8. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający wyznacza wartość najmniejszą i wartość największą funkcji kwadratowej w przedziale domkniętym (4.11).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: B

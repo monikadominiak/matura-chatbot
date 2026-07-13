@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+zZ2 (tn)
+
+Wierzchołkiem paraboli, która jest wykresem funkcji
+\[ g(x) = 2x^2 + bx + c, \]
+jest punkt \( (3, 4) \). Wyznacz wartości współczynników b i c.
+
+
+\[ g(x) = \underbrace{2x^2 + bx + c}_{a} \]
+
+
+\[ W \ (3,4) \]
+\[ (p,q) \]
+
+Znając współrzędne wierzchołka, możemy skorzystać z postaci kanonicznej funkcji kwadratowej:
+
+\[ f(x) = a(x-p)^2 + q \]
+
+Po podstawieniu współrzędnych wierzchołka oraz znanego nam współczynnika "a" otrzymujemy:
+
+\[ (a-b)^2 = a^2 - 2ab + b^2 \]
+
+\[ g(x) = 2(x - 3)^2 + 4 \]
+
+\[ g(x) = 2(x^2 - 2 \cdot x \cdot 3 + 3^2) + 4 \]
+
+\[ g(x) = 2(x^2 - 6x + 9) + 4 \]
+
+\[ g(x) = 2x^2 - 12x + 18 + 4 \]
+
+\[ g(x) = 2x^2 - \underbrace{12x}_{b} + \underbrace{22}_{c} \]
+
+Zatem współczynniki: \( b = -12, \ c = 22 \)
+
+Odp: \( b = -12, \ c = 22. \)

@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 7 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 7. (0-1)
+Równanie (x^2 + 2x) / (x^2 - 4) = 0 A. ma trzy rozwiązania: x = -2, x = 0, x = 2 B. ma dwa rozwiązania: x = 0, x = -2 C. ma dwa rozwiązania: x = -2, x = 2 D. ma jedno rozwiązanie: x = 0
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 7. (0-1)
+Wymagania ogólne: I. Wykorzystanie i tworzenie informacji
+Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych (3.8).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B

@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Fabryka wyprodukowała ten sam model samochodu w trzech kolorach: białym, czerwonym i niebieskim. Stosunek liczby wyprodukowanych samochodów w tych kolorach był odpowiednio równy 4:5:3. Prawdopodobieństwo, że samochód będzie miał usterki powłoki lakieru jest równe 0,01 dla koloru białego, 0,04 dla koloru czerwonego oraz 0,02 dla koloru niebieskiego. Wybrano losowo jeden samochód, który nie miał usterek powłoki lakieru. Oblicz prawdopodobieństwo zdarzenia, że ten samochód jest biały.
+
+1️⃣ wprowadzamy oznaczenia i tworzymy "drzewko"
+
+A - samochód bez usterek
+
+B_1 - samochód biały
+
+P(B_1)= \frac{4}{12}
+
+                u          \frac{5}{12}          \frac{3}{12}
+              
+      \frac{4}{12} \ \    --------------------     \  \ 
+
+                \         C1            \     \ \
+
+                  \  ---------------     \        \ 
+               
+                    \     \                  \    \
+
+                       \    \                    \  
+
+     \frac{99}{100}     \frac{36}{100}     \frac{98}{100}
+     BU                         BU                    BU    
+
+2️⃣ musimy policzyć P(B_1|A) -> samochód biały, pod warunkiem, że bez usterek
+
+wzór bayesa: P(B_1|A)=\frac{P(A|B_1)\cdot P(B_1)}{P(A)} , gdzie P(A) to prawd. całkowite
+
+3️⃣ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B_1) - określa prawd. braku usterek i jeśli auto jest białe czyli P(A|B_1)=\frac{99}{100}
+
+                        \frac{99}{100} \frac{4}{12}
+P(A)= \frac{4}{12} \cdot \frac{99}{100} + \frac{5}{12} \cdot \frac{96}{100} + \frac{3}{12} \cdot \frac{98}{100} = \frac{396}{1200} + \frac{480}{1200} + \frac{294}{1200} = \frac{1170}{1200}*
+
+4️⃣ liczymy docelowe P(B_1|A)
+
+P(B_1|A)=\frac{\frac{99}{100}\cdot \frac{4}{12}}{\frac{1170}{1200}} = \frac{396}{1170} \ \ \ Odp: \frac{396}{1170}
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B_1|A)=\frac{P(A \cap B_1)}{P(A)} , P(A) policzyliśmy już wyżej *
+
+P(A \cap B_1) \rightarrow prawd. że samochód bez usterek i biały
+
+P(A \cap B_1)= \frac{4}{12} \cdot \frac{99}{100} = \frac{396}{1200}
+
+P(B_1|A)= \frac{396}{1200} \cdot \frac{1200}{1170} = \frac{396}{1170}

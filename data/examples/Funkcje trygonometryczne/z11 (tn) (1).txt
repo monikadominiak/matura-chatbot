@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+z11 (tn)
+
+Wyznacz zbiór wartości f(x) = 3 + cos \left(2x - \frac{\pi}{6}\right) + sin 2x określonej dla wszystkich liczb rzeczywistych.
+
+➊ Przekształcamy wzór funkcji f(x).
+
+sin \alpha = cos(90^\circ - \alpha) = cos(\frac{\pi}{2} - x)
+
+f(x) = 3 + cos \left(2x - \frac{\pi}{6}\right) + cos\left(\frac{\pi}{2} - 2x\right)
+
+➋ Stosujemy wzór na sumę cosinusów
+
+f(x) = 3 + 2 \cdot cos \frac{(2x - \frac{\pi}{6}) + (\frac{\pi}{2} - 2x)}{2} \cdot cos \frac{(2x - \frac{\pi}{6}) - (\frac{\pi}{2} - 2x)}{2} =
+
+= 3 + 2 \cdot cos \frac{\pi}{6} \cdot cos \left(2x - \frac{\pi}{3}\right) = 3 + \sqrt{3} \cdot cos \left(2x - \frac{\pi}{3}\right)
+
+➌ Określamy zbiór wartości f(x)
+
+-1 < cos \left(2x - \frac{\pi}{3}\right) \leq 1 \;/ \cdot \sqrt{3}
+
+-\sqrt{3} \leq \sqrt{3} \cdot cos \left(2x - \frac{\pi}{3}\right) \leq \sqrt{3} \;/ +3
+
+3-\sqrt{3} \leq 3 + \sqrt{3} \cdot cos \left(2x - \frac{\pi}{3}\right) \leq 3+\sqrt{3}
+
+Zatem zbiorem wartości f(x) jest przedział \left[3-\sqrt{3}, 3+\sqrt{3}\right]
+
+Odp.: Zbiór wartości: \left[3-\sqrt{3}, 3+\sqrt{3}\right].

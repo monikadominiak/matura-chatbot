@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+z2 (tn)
+
+Zbadaj czy ciąg a_n = sqrt{5} - sqrt{2n} jest ciągiem arytmetycznym.
+
+Należy wykazać, że różnica dwóch sąsiednich wyrazów jest stała (czyli jest konkretną liczbą, a nie jest zależna od n).
+
+1. Wyznaczamy a_{n+1}.
+
+a_n = sqrt{5} - sqrt{2n}
+
+a_{n+1} = sqrt{5} - sqrt{2(n+1)}
+
+2. Badamy a_{n+1} - a_n.
+
+a_{n+1} - a_n = sqrt{5} - sqrt{2(n+1)} - (sqrt{5} - sqrt{2n}) =
+
+= -sqrt{2}n - sqrt{2} + sqrt{2}n = -sqrt{2}
+
+Różnica między dwoma sąsiednimi wyrazami jest stała, więc jest to ciąg arytmetyczny.
+
+Przy okazji w oparciu o rozumowanie powyżej można także stwierdzić, że jest to ciąg malejący.
+
+Odp.: Jest to ciąg arytmetyczny.

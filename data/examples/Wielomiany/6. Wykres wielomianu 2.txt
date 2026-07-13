@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+6. Wykres wielomianu 2  
+Naszkicuj wykres wielomianu w. Dla jakich argumentów wielomian ten przyjmuje wartości ujemne?  
+a) w(x)=(x−4)^2(x+3) b) w(x)=(x^2+6x+9)^2 c) w(x)=−3(x^2−4)(x−2)^2  
+
+a) w(x) = (x-4)^2 ⋅ (x+3)  
+
+x-4 = 0  
+x = 4  
+
+x+3 = 0  
+x = -3  
+
+Parzyste krotności wskazują na to, że wykres w takich punktach odbije się od osi
+
+← Czynnik przy najwyższej pochodnej zmiennej jest dodatni, zatem wykres zaczynamy rysować od prawej strony od góry.  
+
+Wartości ujemne dla x∈(-∞ ; -3).  
+Odp: x∈ (-∞ ; -3).
+
+b) w(x)=(x^2+6x+9)^2 = [(x+3)^2]^2 = (x+3)^4  
+
+Wielomian nie przyjmuje żadnych wartości ujemnych  
+Odp: brak rozwiązań.
+
+c) w(x) = -3(x^2−4)(x−2)^2 =  
+= -3(x−2)(x+2)(x−2)^2 =  
+= -3(x+2)(x−2)^3  
+
+x+2 = 0  
+x = -2  
+
+x-2 = 0  
+x = 2  
+
+--- STRONA 2 ---
+Wartości ujemne dla x ∈ (-∞; -2) ∪ (2; ∞)
+
+Odp: x ∈ (-∞; -2) ∪ (2; ∞).

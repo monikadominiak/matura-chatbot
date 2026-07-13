@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0-1)
+Promień AS podstawy walca jest równy wysokości OS tego walca. Sinus kąta OAS (zobacz rysunek) jest równy
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $frac{sqrt{3}}{2}$
+B. $frac{sqrt{2}}{2}$
+C. $frac{1}{2}$
+D. 1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 22. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w walcach i w stożkach kąt między odcinkami oraz kąt między odcinkami i płaszczyznami (9.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

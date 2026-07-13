@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Dany jest graniastosłup prawidłowy sześciokątny, którego wszystkie krawędzie mają długość 4 cm. Oblicz długości przekątnych BE₁ i BD₁ (rysunek poniżej).
+
+\[1\) \ \text{liczymy przekątną} \ BE₁ \]
+
+(tw. Pitagorasa)
+
+\[ |BE₁|^2 + |EE₁|^2 = |BE₁|^2 \]
+\[8^2 + 4^2 = |BE₁|^2 \]
+\[64 + 16 = |BE₁|^2 \]
+\[ |BE₁|^2 = 80 \]
+\[ |BE₁| = 4\sqrt{5} \]
+
+\[2\) \ \text{liczymy przekątną} \ BD₁ \]
+
+\[ |BD| = x = \frac{4 \sqrt{3}}{2} = 4\sqrt{3} \]
+
+(tw. Pitagorasa)
+
+\[ |BD₁|^2 + |DD₁|^2 = |BD₁|^2 \]
+\[ (4\sqrt{3})^2 + 4^2 = |BD₁|^2 \]
+\[ 48 + 16 = |BD₁|^2 \]
+\[64 = |BD₁|^2 \]
+\[ |BD₁| = 8 \]
+
+Odp: \(|BE₁| = 4\sqrt{5} \ \text{cm} \ \text{i} \ |BD₁| = 8 \ \text{cm}\)

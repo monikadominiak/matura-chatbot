@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zbadaj dla jakich wartości a funkcja f(x) = \frac{ax-1}{a-x} jest rosnąca w każdym przedziale, w którym jest określona.
+
+f(x) = \frac{ax-1}{a-x}, \; x \neq a
+
+1️⃣ wyznaczamy pochodną funkcji f
+
+\left[\frac{f(x)}{g(x)}\right]' = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2}
+
+f'(x) = \frac{a(a-x) - (ax-1)(-1)}{(a-x)^2} = \frac{a^2-ax+ax-1}{(a-x)^2} = 
+
+= \frac{a^2-1}{(a-x)^2} = \frac{(a-1)(a+1)}{(a-x)^2} , \; x \neq a
+
+2️⃣ wiemy, że f' \uparrow \iff f'(x) > 0 
+
+(a-x)^2 > 0 , \; więc \; (a-1)(a+1) > 0 
+
+a \in (-\infty, -1) \cup (1, +\infty)
+
+odp: dla \; a \in (-\infty, -1) \cup (1, +\infty)

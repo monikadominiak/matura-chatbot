@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Podstawą graniastosłupa prostego jest równoległobok o kącie ostrym α. Przekątne graniastosłupa są nachylone do płaszczyzny podstawy pod kątami β i γ (β < γ), a wysokość graniastosłupa ma długość H. Wyznacz objętość tego graniastosłupa. 
+ 
+1) sporządzamy rysunek pomocniczy i wyznaczamy przekątne podstawy 
+
+tg β = H / d_2 i tg γ = H / d_1
+
+d_2 = H / tg β     d_1 = H / tg γ
+
+2 - 1: d_2^2 - d_1^2 = 4ab cosα   / : 4cosα
+
+ab = (d_2^2 - d_1^2) / 4cosα
+
+P_p = ab sinα          =>         (d_2^2 - d_1^2) / 4cosα * sinα =
+
+              = 1/4 * tgα (d_2^2 - d_1^2), podstawiamy wartości d_1, d_2
+
+              = 1/4 * tgα [ (H / tg β)^2 - (H / tg γ)^2 ] 
+
+2) wykorzystujemy dany kąt α i tworzymy układ równań z tw. cosinusów
+
+d_1^2 = a^2 + b^2 - 2ab cosα 
+
+d_2^2 = a^2 + b^2 - 2ab cos(180° - α) = 2ab cosα
+
+      d_1^2 = a^2 + b^2 - 2ab cosα
+
+2 -
+
+d_2^2 = a^2 + b^2 + 2ab cosα
+
+3) liczymy objętość graniastosłupa 
+
+V = 1/4 * tgα * H^2 (1/tg^2β - 1/tg^2γ) * H
+
+Odp: V = 1/4 * tgα * H^3 (1/tg^2β - 1/tg^2γ)

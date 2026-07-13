@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+z7 (4.1)
+
+Wiadomo, że
+
+\[ 3a^2 - 5ab = 2b^2. \]
+
+Oblicz \(\frac{a}{b}\) wiedząc, że \(a \neq 0\) i \(b \neq 0\).
+
+1️⃣ Dzielimy przez \(b^2\).
+
+\[ 3\frac{a^2}{b^2} - 5\frac{a}{b} = 2 \]
+
+2️⃣ Korzystamy z pomocniczej zmiennej.
+
+\[ t = \frac{a}{b} \]
+
+\[ 3t^2 - 5t - 2 = 0 \]
+
+\[ \Delta = 25 + 24 = 49 , \ \sqrt{\Delta} = 7 \]
+
+\[ t_1 = \frac{5 - 7}{6} = -\frac{2}{6} = -\frac{1}{3} , \ t_2 = \frac{5 + 7}{6} = 2 \]
+
+3️⃣ Cofamy podstawienie.
+
+\[ \frac{a}{b} = -\frac{1}{3} \ \ , \ \ \frac{a}{b} = 2 \]
+
+Odp.: \(\frac{a}{b} \in \{ -\frac{1}{3}, 2 \} \)

@@ -1,0 +1,17 @@
+=== ARKUSZ: 2025p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0–3)
+Wyznacz wartość m, dla której trzywyrazowy ciąg
+
+(2m + 11, m^2 + 3, 5 − m)
+
+jest arytmetyczny i malejący. Zapisz obliczenia.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

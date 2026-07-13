@@ -1,0 +1,88 @@
+
+--- STRONA 1 ---
+Dany jest układ równań
+\[
+\begin{cases}
+mx + y = m^2 \\
+4x + my = 8
+\end{cases}
+\]
+z niewiadomymi \(x\) i \(y\) oraz parametrem \(m\).
+
+Wyznacz wszystkie wartości parametru \(m\), dla których układ jest oznaczony, a para liczb \((x, y)\) będąca rozwiązaniem układu spełnia warunek \(|x+y|<2\).
+
+1) Określamy dla jakich \(m\) układ jest oznaczony oraz wyznaczamy \(x\) i \(y\) w zależności od \(m\) za pomocą metody wyznaczników.
+
+\(W = \begin{vmatrix} m & 1 \\ 4 & m \end{vmatrix} = m^2 - 4 \neq 0 \; \text{oraz} \; m \neq \{ -2, 2 \} \)
+
+\[
+W_x = \begin{vmatrix} m^2 & 1 \\ 8 & m \end{vmatrix} = m^3 - 8 \; , \; x = \frac{W_x}{W} = \frac{m^3 - 8}{m^2 - 4} = \frac{m-2}{m+2} \cdot \frac{(m^2+2m+4)}{1} = \frac{m^2+2m+4}{m+2}
+\]
+
+\[
+W = \begin{vmatrix} m & m^2 \\ 4 & 8 \end{vmatrix} = 8m-m^3 \; , \; y = \frac{W_y}{W} = \frac{8m - m^3}{m^2 - 4} = \frac{-m(m-2)(m+2)}{m^2-4} = \frac{-m(m^2-4)}{m^2-4} = -m
+\]
+
+Metoda wyznaczników - rozwiązywanie układów równań liniowych
+\[
+\begin{cases}
+a_1x + b_1y = c_1 \\
+a_2x + b_2y = c_2
+\end{cases}
+\]
+
+\[
+W = \begin{vmatrix} a_1 & a_2 \\ b_1 & b_2 \end{vmatrix} \; , \; W_x = \begin{vmatrix} c_1 & a_1 \\ c_2 & a_2 \end{vmatrix} \; , \; W_y = \begin{vmatrix} a_1 & c_1 \\ b_1 & c_2 \end{vmatrix}
+\]
+
+\[
+x = \frac{W_x}{W} \; , \; y = \frac{W_y}{W}
+\]
+
+Układ oznaczony (1 i równ. lin. niezależy), gdy \(W \neq 0\) (\(W_x\) i \(W_y\) dowolne, mogą być znane, jak nie są znane)
+
+Układ nieoznaczony (nieskończenie wiele rozwiązań), gdy \(W=W_x=W_y=0\) (wszystkie trzy wyznaczniki muszą jednocześnie dawań zero)
+
+Układ sprzeczny (brak rozwiązań), wtedy, gdy \(W \neq 0\) lub \(W_x \neq 0\) lub \(W_y \neq 0\) (co najmniej jedno spośród \(W\), \(W_x\) lub \(W_y\) daje zero)
+
+2) Rozwiązujemy nierówność \(|x+y| < 2\) dla wartości ustal. bez żad.
+
+\[
+| x+y | < 2
+\]
+
+\[
+\begin{vmatrix} \frac{m^2+2m+4}{m+2} - m \end{vmatrix} < 2
+\]
+
+\[
+\frac{(m^2+2m+4)-(m^2+2m)-m^3+8}{m^2-4} < 2
+\]
+
+\[
+\frac{m^2-2m-4}{m^2-4} < 2/\cdot (m^2-4)^{1/2}
+\]
+
+\[
+(m^2-4)^{1/2}(m^2-2m-4)<2
+\]
+
+\[
+(m^2-4)(m^2-2m-4)<0 \Rightarrow (m-2)(m+2)(m-2)<0
+\]
+
+Obszary:
+\[
+m \in (-\infty, -2) \cup (0, 2)
+\]
+
+\[
+(x+y)^2 <4 \Rightarrow \text{miejsca zer. w (0;2]}
+\]
+
+Rozwiązania:
+\[
+m \in \{0, 2\} \cup (-\infty, -2, 0, 2) \cup (0, 2, \infty)
+\]
+
+Odp: \(m \in (0, 2) \cup (2, 4)\)

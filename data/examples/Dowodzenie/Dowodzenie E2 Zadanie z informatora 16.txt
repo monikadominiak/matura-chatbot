@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Wykazać, że równanie \(x^4 - 7x^3 + 9x^2 + 8x - 2 = 0\) ma w przedziale \((-2,2)\) co najmniej dwa różne rozwiązania.
+
+niech \(f(x) = x^4 - 7x^3 + 9x^2 + 8x - 2\)
+
+teza: funkcja \(f\) w przedziale \((-2,2)\) ma dwa różne rozwiązania 
+
+① funkcja \(f\) (wielomianowa) jest funkcją ciągłą,
+
+② liczymy kilka kolejnych wartości funkcji \(f\) dla \(x \in (-2,2)\)
+
+\(f(-1) = 1 - 7 \cdot (-1) + 9 \cdot 1 - 8 - 2 = 7 > 0\)
+
+\(f(0) = -2 < 0\)
+
+\(f(1) = 1 - 7 + 9 + 8 - 2 = 9 > 0\)
+
+③ zatem z tw. Darboux
+
+istnieje \(c_1 \in (-1,0)\), że \(f(c_1) = 0\) 
+
+istnieje \(c_2 \in (0,1)\), że \(f(c_2) = 0\)
+
+więc \(f\) ma co najmniej dwa rozwiązania, \(x \in (-2,2)\) 
+
+c.k.d.
+
+---
+
+Twierdzenie Darboux:
+
+Jeśli funkcja \(f\) jest ciągła w przedziale domkniętym \(\langle a, b \rangle\) oraz \(f(a) \neq f(b)\), natomiast \(k\) jest dowolną liczbą pomiędzy liczbami \(f(a)\) i \(f(b)\), to istnieje taka liczba \(c, c \in (a, b)\), dla której \(f(c) = k\).

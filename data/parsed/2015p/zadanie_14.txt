@@ -1,0 +1,14 @@
+=== ARKUSZ: 2015p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Tangens kąta alfa zaznaczonego na rysunku jest równy
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. -sqrt(3)/3
+B. -4/5
+C. -1
+D. -5/4
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 14. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 6. Trygonometria. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od $0^{circ}$ do $180^{circ}$ (6.1).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

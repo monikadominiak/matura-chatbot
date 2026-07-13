@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+Zadanie 3
+
+Suma trzech liczb tworzących ciąg arytmetyczny jest równa 15. Jeżeli od drugiej liczby odejmujemy jeden, a pozostałe zostawimy bez zmiany, to otrzymamy trzy kolejne wyrazy ciągu geometrycznego. Oblicz wyrazy ciągu arytmetycznego.
+
+➀ Tworzymy układ równań.
+
+\( (a,b,c) - \) ciąg arytmetyczny
+\( (a,b-1,c) - \) ciąg geometryczny
+\[
+\begin{cases} 
+a+b+c=15 & (1) \\ 
+(b-1)^2=ac & (2) \\ 
+b-a=c-b & (3) 
+\end{cases}
+\]
+
+➁ Rozwiązujemy układ równań.
+
+z (1): \( a = 15-b-c \)
+
+z (3): \( c = 2b-a \)
+
+z (1) do (3):
+\[
+c = 2b-(15-b-c) \\
+c = 2b-15+b+c \\
+3b=15 \ /:3 \\
+b=5
+\]
+
+\[
+\begin{cases} 
+a=15-5-c & (1) \\ 
+(5-1)^2=ac & (2) 
+\end{cases}
+\]
+
+\[
+\begin{cases} 
+a=10-c & (1) \\ 
+ac=16 & (2) 
+\end{cases}
+\]
+
+z (1) do (2):
+\[
+(10-c)c=16 \\
+10c-c^2=16 \\
+c^2-10c+16=0 \\
+\Delta = 100-64=36 \\
+c_1 = \frac{10-6}{2} = 2 \ ; \ c_2 = \frac{10+6}{2} = 8 \\
+a_1 = 10-c_1 = 10-2 = 8 \\
+a_2 = 10-c_2 = 10-8 = 2 \\
+\]
+
+Odp.: \( (8,5,2) \) lub \( (2,5,8) \).

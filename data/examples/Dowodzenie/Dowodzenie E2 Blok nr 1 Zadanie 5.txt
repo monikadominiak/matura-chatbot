@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+Wykaż, że dla dowolnych liczb rzeczywistych x, y zachodzi nierówność:
+14x^2 + y^2 + 1 ≥ 4xy - 6x.
+
+założenie: x, y ∈ ℝ
+
+teza: 14x^2 + y^2 + 1 ≥ 4xy - 6x
+
+➊ przekształcamy równoważnie tezę:
+
+14x^2 + y^2 + 1 ≥ 4xy - 6x
+
+14x^2 + y^2 + 1 - 4xy + 6x ≥ 0
+
+(2x - y)^2 + 10x^2 + 6x + 1 ≥ 0
+
+\[
+4x^2 - 4xy + y^2
+\]
+≥ 0
+
+Δ_x = 36 - 40 < 0
+
+\[
+\begin{align*}
+&\bigg\downarrow \text{ więc całe wyrażenie} \\
+&\text{nie ma miejsc zerowych i } 10 > 0 \\
+&\text{zatem jest zawsze } > 0
+\end{align*}
+\]
+
+➋ komentarz:
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, suma liczby nieujemnej i dodatniej jest ≥ 0 c.k.d.
+
+(a + b)^2 = a^2 + 2ab + b^2

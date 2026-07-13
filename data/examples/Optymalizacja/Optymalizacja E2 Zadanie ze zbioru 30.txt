@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Ciężarówka ma do pokonania trasę o długości S km, poruszając się po autostradzie ze stałą prędkością v km/h. Minimalna prędkość dla ciężarówek na autostradzie wynosi 40 km/h, maksymalna - 80 km/h. Wiemy, że litr paliwa kosztuje 8 złotych, a kierowca otrzymuje 42 złote za godzinę swojej pracy. Zużycie paliwa w ciągu jednej godziny jazdy autostradą w zależności od prędkości wyrażone w litrach można opisać funkcją
+
+f(v) = 7 + \frac{v^2}{400}
+
+Oblicz, przy jakiej prędkości koszt przejazdu będzie najmniejszy. Zapisz obliczenia.
+
+Wskazówka: przyjmij, że koszt przejazdu jest sumą kosztu paliwa oraz wynagrodzenia kierowcy.
+
+1️⃣ wypisujemy z polecenia potrzebne informacje
+
+droga: S km
+
+prędkość: v km/h
+
+v ∈ <40,80> - dziedzina
+
+litr paliwa: 8zł
+
+1h kierowca: 42zł
+
+[z fizyki: S=vt ⟹ t=\frac{S}{v} ]
+
+f(v) = 7 + \frac{v^2}{400} - zużycie paliwa w ciągu 1h
+
+2️⃣ zapisujemy wzór funkcji
+
+koszt przejazdu : 42 \cdot x godzin + 8 \cdot x godzin \cdot f(v)
+
+t t
+
+K(V) = \frac{S}{v}(42+56+\frac{8v^2}{400}) = S(\frac{98}{v} + \frac{v}{50})
+
+3️⃣ wyznaczamy pochodną funkcji
+
+K'(v) = S(-\frac{98}{v^2} + \frac{1}{50}) = S(-\frac{4900 + v^2}{50v^2})
+
+DK' = DK
+
+UWAGA: S jest pewną stałą dodatnią, i co oznacza, że tak naprawdę można by to pominąć jeszcze przed liczeniem pochodnej.
+
+4️⃣ wyznaczamy miejsca zerowe pochodnej
+
+K'(v) = 0 ⟺ -4900 + v^2 = 0 ⟹ v = 70 ∨ v = -70 ∉ D
+
+5️⃣ badamy monotoniczność i ekstrema funkcji
+
+(mianownik jest zawsze dodatni, więc to licznik decyduje o znaku wyrażenia)
+
+I sposób:
+
+\[
+\begin{array}{c|c|c}
+v & K'(v) & K(v) \\
+\hline
+<40,70) & - & \searrow \\
+70 & 0 & min. lok. \\
+(70,80> & + & \nearrow \\
+\end{array}
+\]
+
+Funkcja K(v) osiąga w swojej dziedzinie wartość najmniejszą, dla argumentu v=70
+
+Odp: v = 70 km/h

@@ -1,0 +1,88 @@
+
+--- STRONA 1 ---
+Zad.16 Napisz równania ogólne stycznych do danego okręgu o i przechodzących przez punkt A, jeśli o: x^2 + y^2 - 6x + 8y + 21 = 0, A(5, -1).
+
+1) Wyznaczamy środek i promień okręgu:
+
+I sposób: podstawienie
+
+x^2 + y^2 - 6x + 8y + 21 = 0
+x^2 - 6x + y^2 + 8y = -21 - c = 3, a = -6, b = 8
+
+-2ax = -6x -2by = 8y c - 21
+
+r^2 - c + a^2 + b^2 -21
+r^2 = 4
+
+r = 2
+
+r = 2, v = 2  (x + 6, y + 0)
+
+o(3,-4); (x-3)^2 + (y+4)^2 = 25(r2)=9 = r 2
+
+II sposób: znajdź w wzorów stosownego narzędzia
+
+x^2 + y^2 - 6x + 8y + 21 = 0
+(x-3)^2 + (y+4)^2 - (3)^2-8 = 25 + 16 = 0
+o: (x-3)^2 + (y+4)^2=4
+S(3,-4), r=2
+
+2) Tworzymy wykres prostych:
+
+(załączono wykres)
+
+3) Podstawiamy punkt A pod równanie prostej k i określamy jej równanie od jednej niewiadomej.
+
+k: y=kx+c
+
+dyk czk- . . -5+c+kx
+c kx-5 = . - 1A
+k: y=k--5x+1
+A - 4+ y A - 5+ y
+k: y=x=-5x +1 + x + 0 m
+
+4) Wyznaczamy równanie prostych na zwane na odległość punkt od prostej.
+
+r= |5(5 - 1) - 21 |
+| x2
+| - x + 5 x - 5 +=1
+| a1=-5
+
+2 sqrt 21 (-1a-3) | textsubscript{0}
+9 + b^3 = 9+24-21=2
+44a+ 56-8 = 4 c4 +87+20
+Aby a=-3  c + 6 + a1 = 21 = -21
+km 1. y A = kx - x = 5x = + x, A
+
+chw nół ew
+
+U\ (x,y) => klennium, 7, - vv 4/0
+
+B n. . .
+
+U) Konifikam 1, c.). . .
+
+u k, y=f+ فرد = x - 2 y~
+
+w 10, o = 5 4 y - s-= 17
+m- x= a
+
+C. k: yr x+ ≠ - x=
+
+U8A1. بر profitka - . ازباره
+Berkerak - arithmetical - formula of - Geb
+
+c)
+
+Rzeczą izntłem do środka rzeczyist x x opniku, by dwie
+rcybhwith| wzahracza_durektów brozarną od względnych przełożń, zwanym promienia
+r lecy odpowiednich wopian Noaminatowe
+a. kudę xal. je b = 2 + kciągl.: i y howdan], jest a ande wewną propech.
+ws xxjatio.
+(5.2 M)
+(x): poto marades - هلاج
+X(c) - Jeżon Kolorant Uzax
+
+i hacísne
+
+Odp. h wy solic (x=x÷2: x=..3 5. wos xs 5.

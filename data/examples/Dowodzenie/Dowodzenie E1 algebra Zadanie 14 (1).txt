@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Dane są trzy liczby naturalne takie, że reszta z dzielenia każdej z nich przez 6 jest równa jest równa 4. Uzasadnij, że suma tych liczb jest podzielna przez 6.
+
+a, b, c \in \mathbb{N}
+
+1️⃣ zapisujemy te liczby zgodnie z poleceniem
+
+a = 6x + 4
+
+b = 6y + 4
+
+c = 6z + 4
+
+x, y, z \in \mathbb{N}
+
+(uwaga: używamy innych oznaczeń literowych dla każdej z liczb a, b, c)
+
+2️⃣ zapisujemy sumę a+b+c
+
+6x + 4 + 6y + 4 + 6z + 4 = 6x + 6y + 6z + 12 = 6(x+y+z+2)_{\in \mathbb{N}}
+
+3️⃣ komentarz: sumę a+b+c da się zapisać jako iloczyn 6 i liczby naturalnej, zatem ta suma jest podzielna przez 6 c.k.d.

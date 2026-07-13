@@ -1,0 +1,84 @@
+
+--- STRONA 1 ---
+4. Ciągi geometryczne 3
+
+Liczby a, b, c, d są kolejnymi wyrazami malejącego ciągu geometrycznego. Suma dwóch liczb środkowych jest równa 24, a suma skrajnych jest równa 36. Wyznacz te liczby.
+
+a, b, c, d - ciąg geometryczny malejący
+
+➊ Układamy równanie.
+
+\[
+\begin{align*}
+b^2 &= ac \\
+c^2 &= bd \\
+b + c &= 24 \quad &c = 24-b \\
+a + d &= 36 \quad &d = 36-a
+\end{align*}
+\]
+
+➋ Rozwiązujemy układ równań.
+
+\[
+\begin{align*}
+b^2 &= a(24-b) \quad &=> \quad a = \frac{b^2}{24-b} \\
+(24-b)^2 &= b(36-a)
+\end{align*}
+\]
+
+\[
+(24-b)^2 = b \left( 36 - \frac{b^2}{24-b} \right) \quad /:(24-b)
+\]
+
+\[
+(24-b)^3 = b \left[ 36(24-b) - b^2 \right]
+\]
+
+\[
+13824 - 1728b + 72b^2 - b^3 = 864b - 36b^2 - b^3
+\]
+
+\[
+108b^2 - 2592b + 13824 = 0 \quad /:108
+\]
+
+\[
+b^2 - 24b + 128 = 0
+\]
+
+\[
+\Delta = (-24)^2 - 4 \cdot 1 \cdot 128 = 64
+\]
+
+\[
+b_1 = \frac{24-8}{2} = 8
+\]
+
+\[
+b_2 = \frac{24+8}{2} = 16
+\]
+
+➌ Obliczamy pozostałe liczby dla b=8.
+
+\[
+\begin{align*}
+a &= \frac{b^2}{24-b} = \frac{8^2}{24-8} = \frac{64}{16} = 4 \\
+c &= 24-b = 24-8 = 16 \\
+d &= 36-a = 36-4 = 32
+\end{align*}
+\]
+
+(a, b, c, d) = (4, 8, 16, 32) - ciąg nie jest malejący, więc nie spełnia warunków zadania.
+
+--- STRONA 2 ---
+4) Obliczamy pozostałe liczby dla b=16.
+
+a = \frac{b^2}{24-b} = \frac{256}{8} = 32
+
+c = 24-b = 24-16=8
+
+d = 36-a = 4
+
+(a,b,c,d)=(32,16,8,4) - ciąg jest malejący, więc spełnia warunek zadania.
+
+Odp.: (a,b,c,d)=(32,16,8,4).

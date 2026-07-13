@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+F23
+
+wzór na pochodną funkcji złożonej:
+
+\[ g(f(x))]' = g'(f(x)) \cdot f'(x)
+
+f(x) = \left(\frac{x^3}{5} + x\right)^4
+
+f'(x) = 4\left(\frac{x^3}{5} + x\right)^3 \cdot \left(\frac{3}{5}x^2 + 1\right)
+
+pochodna 
+funkcji zewnętrznej
+
+pochodna 
+funkcji wewnętrznej

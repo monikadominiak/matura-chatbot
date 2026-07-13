@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+z4 (4.2)
+
+Wyznacz wszystkie wartości parametru k, dla których dziedziną funkcji \( f(x) = \frac{1}{x^2+2x+k} \) jest zbiór liczb rzeczywistych.
+
+1️⃣ Wyznaczamy k tak aby dziedziną f(x) były liczby rzeczywiste.
+
+Mianownik funkcji musi być różny od zera.
+
+\( x^2 + 2x + k \neq 0 \)
+
+Aby powyższe założenie było spełnione w zbiorze liczb rzeczywistych
+
+\( x^2 + 2x + k = 0 \) nie może mieć żadnych rozwiązań,
+
+\( x^2 + 2x + k = 0 \)
+
+\( \Delta < 0 \)
+
+\( 4 - 4k < 0 \)
+
+\( -4k < -4 \)
+
+\( k > 1 \)
+
+Odp.: \( k \in (1, +\infty) \).

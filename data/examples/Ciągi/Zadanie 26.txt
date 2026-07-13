@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Zadanie 26
+
+Oblicz granicę lim n→∞  \(\frac{\sqrt{9n^2-2n-3n}}{\sqrt{n+5}-2}\).
+
+
+① Usuwamy nieoznaczoność.
+
+lim n→∞ \(\frac{\sqrt{9n^2-2n-3n} \cdot \sqrt{9n^2-2n}+3n}{\sqrt{9n^2-2n}+3n}\) = lim n→∞ \(\frac{9n^2-2n-9n^2}{(n+5-2)/\sqrt{9n^2-2n+3n}}\) =
+
+② Obliczamy granicę.
+
+lim n→∞ \(\frac{-2n}{\sqrt{n(1+\frac{5}{n})} \cdot \sqrt{n}(\sqrt{9-\frac{2}{n^2}}+3)}\) = lim n→∞ \(\frac{-2}{\sqrt{n} \cdot 1 \cdot (3+3)}\) = lim n→∞ \(\frac{\sqrt{n} \cdot \left(-\frac{2}{n}\right)}{\sqrt{n} \cdot 6}\) = 0
+
+Odp.: lim n→∞ \(\frac{\sqrt{9n^2-2n-3n}}{\sqrt{n+5}-2}\) = 0.

@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Zadanie 5 [3 pkt] – Typ 1.1
+
+Oblicz \(\left(6 - 2\sqrt{5}\right)^{\frac{1}{2}} - \left(6 + 2\sqrt{5}\right)^{\frac{1}{2}}\)^{2}
+
+Zauważmy że mamy do czynienia ze wzorem skróconego mnożenia:
+\((a-b)^2 = a^2 - 2ab + b^2\)
+
+\[
+\left(6 \cdot 2\sqrt{5}\right)^{\frac{1}{4}} - \left(6 + 20^{\frac{1}{4}}\right)^{2}
+\]
+
+\[
+= \left(6 \cdot 2\sqrt{5}\right)^{\frac{1}{4}} - \left(6 \cdot 20^{\frac{1}{4}} \right)^{2} = \left(6 \cdot 2\sqrt{5}\right)^{\frac{1}{4}} - \left(6 + 2\sqrt{5}\right)^{\frac{1}{4}}\right]^{2} = 
+\]
+
+\[
+= \left((6 - 2\sqrt{5})^{\frac{1}{4}} - 2 \cdot (6 - 2\sqrt{5})^{\frac{1}{4}} \cdot (6 + 2\sqrt{5})^{\frac{1}{4}} + ((6 + 2\sqrt{5})^{\frac{1}{2}})^{2} = 
+\]
+
+\[
+= 6 - 2\sqrt{5} - 2 \cdot (36\cdot20)^{\frac{1}{4}} + 6 + 2\sqrt{5} = 12 - 2 \cdot (16)^{\frac{1}{4}} = 12 - 2 \cdot \sqrt{16} = 
+\]
+
+\[
+= 12 - 2 \cdot 4 = 12 - 8 = 4
+\]
+
+Odp: 4.

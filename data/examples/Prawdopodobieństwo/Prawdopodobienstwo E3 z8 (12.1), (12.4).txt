@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Na każdym z sześciennych klocków, które ma Tomek, zapisana jest jedna cyfra. Pewnego dnia chłopiec ustawił w szereg siedem klocków, otrzymując liczbę siedmiocyfrową. Po chwili z utworzonego szeregu wysunął wszystkie klocki z cyfrą 5. Wówczas cyfry na pozostawionych klockach utworzyły liczbę 2010. Oblicz prawdopodobieństwo tego, że otrzymana liczba siedmiocyfrowa była:  
+a) większa od 5 000 000  
+b) podzielna przez 3  
+c) podzielna przez 5  
+d) podzielna przez 50  
+
+➊ analizujemy polecenie  
+
+liczba 7-cyfrowa ___ ___ ___ ___ ___ ___ ___
+
+cyfry: 2,1, 1̲0̲,0̲, 5,1̲ 5̲  
+
+           2x "0"              3x "5"
+
+➋ liczymy moc Ω (będzie taka sama dla wszystkich podpunktów)  
+
+Ω = (7 nad 3) = 7! / 3!.4! = 35  
+
+➌ a) > 5000000  
+
+⇒ pierwsza cyfra musi być 5  
+
+Ā = 1.(ĉ).1 = 15  
+
+           {2010}
+
+P(A)= 15/35 = 3/7  
+
+➍ podzielna przez 3
+
+warunek podzielności: suma cyfr podzielna przez 3  
+
+sprawdzimy ten warunek: 5+5+5+2+1=18  
+
+18:3=6 ⇒ jest podzielna  
+
+P(B)=1  
+
+➎ podzielna przez 5  
+
+warunek podzielności: ostatnia 0 lub 5  
+
+zawsze tak jest, na końcu może być 5 lub ostatnia cyfra liczby 2010 czyli 0  
+
+P(C)=1  
+
+➏ podzielna przez 50  
+
+warunek podzielności: ostatnie dwie: 5,0
+
+B̅ = (5 nad 2).1.1 = 10  
+
+                 miejsce dla 2x "5"
+
+P(D)= 10/35 = 2/7  
+
+Odp: a) 3/7, b) 1, c) 1, d) 2/7

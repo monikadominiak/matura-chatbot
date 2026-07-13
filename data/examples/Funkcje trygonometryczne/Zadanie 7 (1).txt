@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Zadanie 7  
+
+Rozwiąż równanie tg^4x - 4tg^2x + 3 = 0.
+
+1️⃣ Podstawiamy zmienną pomocniczą.
+
+t = tg^2x  
+t ∈ ⟨0,+∞⟩ , x ≠ π/2 + kπ  
+
+t^2 - 4t + 3 = 0  
+
+Δ = 16 - 12 = 4  
+
+t_1 = \frac{4 - 2}{2} = 1  
+t_2 = \frac{4 + 2}{2} = 3  
+
+(t - 1)(t - 3) = 0  
+t = 1  \ \ \ t = 3  
+
+2️⃣ Cofamy podstawienie.
+
+tg^2x = 1  \ \ \ \ \ tg^2x = 3  
+
+tgx = 1  \ \ \ \ \ ∨ \ \ tgx = -1  \ \ \ \ \ ∨ \ \ tgx = √3  \ \ \ \ \ ∨ \ \ tgx = -√3  
+
+x = \frac{π}{4} + kπ  \ \ \ ∨ \ \ \ x = -\frac{π}{4} + kπ  \ \ \ ∨ \ \ \ x = \frac{π}{3} + kπ  \ \ \ ∨ \ \ \ x = -\frac{π}{3} + kπ  \ \ \ , \ \ \ k ∈ ℤ  
+
+Odp.: \ x = \frac{π}{4} + kπ  \ , \ \ x = -\frac{π}{4} + kπ  \ , \ \ x = \frac{π}{3} + kπ  \ , \ \ x = -\frac{π}{3} + kπ  \ , \ \ k ∈ ℤ ,

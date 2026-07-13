@@ -1,0 +1,121 @@
+
+--- STRONA 1 ---
+Zadanie 213 (1h) Dany jest kwadrat \(ABCD\) o boku długości \(a\). Punkt \(E\) leży na boku \(DC\) w takim miejscu, że \(|ER| : |EF| = 1 : 2\). Przekątna \(BD\) dzieli trójkąt \(ACE\) na dwie figury: \(ACF\) i \(CEFG\) (zobacz rysunek). Oblicz pola figur \(ACF\) i \(CEFG\).
+
+I sposób: z geometrii analitycznej
+
+1) Wyznaczamy wzory prostych:
+
+\(y = x\)
+
+\(y = -x + a\)
+
+\(y = a - 2x\)
+
+2) Wyznaczamy punkty \(G\) i \(F\):
+
+\(G(x_G, y_G):\)
+
+\[
+\begin{cases} 
+y = x \\
+y = a - 2x 
+\end{cases} \Rightarrow 
+\begin{cases} 
+x_G = \frac{a}{3} \\
+y_G = \frac{a}{3}
+\end{cases} \Rightarrow 
+G(\frac{a}{3}, \frac{a}{3})
+\]
+
+\(F(x_F, y_F):\)
+
+\[
+\begin{cases} 
+y = a - 2x \\
+y = -x + a 
+\end{cases} \Rightarrow 
+\begin{cases} 
+x_F = \frac{a}{3} \\
+y_F = \frac{2a}{3}
+\end{cases} \Rightarrow 
+F(\frac{a}{3}, \frac{2a}{3})
+\]
+
+3) Obliczamy pole trójkąta \(AGE\) i \(ACE\) ze wzoru wyznacznikaż wzorca:
+
+Dla trójkąta \(AGE\) o wierzchołkach \((a,0), (G(\frac{a}{3},\frac{a}{3})), (E(a,0))\):
+
+\[
+P = \frac{1}{2} [| -\frac{a^2}{3} + \frac{a^2}{3} |] = 0
+\]
+
+D(0,0), G(\frac{a}{3}, \frac{a}{3}), F(a,0):
+p_{AGE} = \frac{a}{2} [ |0 + \frac{a^2}{3} - \frac{a^2}{3} |] = \frac{a^2}{8}
+
+For trójkąta ACG:
+
+A(a,0), C(a,a), G(\frac{a}{3}, \frac{a}{3}):
+\[
+P_{ACG} =\frac{a}{2} [ |\frac{a^2}{3} - 0 + \frac{a^2}{3} | ] = \frac{a^2}{3}
+\]
+
+3) Obliczamy pole czworokąta CEFG, zakładając dla boku a:
+
+p_{CEF}=\frac{2}{3}a^2-\frac{a^2}{3}=\frac{a^2}{3}
+
+Dla kwadratu o boku a, pole wynosi a^2, bo:
+CEFG=p_{AEG}-p_{AGE}-\frac{a^2}{2}a^2 = \frac{a^2}{3}-\frac{a^2}{3}=\frac{a^2}{3}
+=cEFR\)
+
+Odp: \(P_{ACG}=\frac{a^2}{6}\), \(P_{CEF}=\frac{5a^2}{12}\)
+
+4) II sposób: z planimetrii (w trójkątach o wspólnych wierzchołkach)
+
+Aktualizujemy rysunek, z obustronnym użyciem wysokości:
+
+I) Wyznaczamy atrybuty wzgórza ACE oraz trójkąt ACE:
+
+Trójkąt \(ACF\) ma dwie wspólne wierzchołki i podwójną liczbę skali krawędzi \(AE\), więc:
+\(P_{ACE} = \frac{1}{2}a (AE + FC + AG) = \frac{1}{2}[(EG)-a] \]
+
+ Pozostaje tylko wymiana, jeżeli: 
+\( ACE=\frac{1}{2}a + \frac{1}{8}f = \ep_h(-c+\frac{~~}{0}) \),
+
+II) Wyznaczamy pole trójkąta \(ACF\) i czworokątów \(CEFG\), ze względu na podobieństwa trójkątem:
+
+Trójkąty ACD i AFB mają wspólną wysokość z wierzchołka A na pas wyniku CEF:
+
+Wyznacz \( PAR = \frac{1}{8}A_2 \), \(PAE = 2A_R/AR\)
+
+Trójkąt \(CDF\) i \(EBG\) mają wspólną wysokość z wysokością E na pas A, a wartości prawd SOL = EF wynikają, że prowadzi do stosunku CEF:
+
+3a  
+b  
+G  
+
+\(F\)
+
+Z powodu tego, trójkąty \(AFB\) i \(CFD\) mają wspólno ekspresję na wierzchołku A TRóJkąty: \(EAN = FCE(CF)(EFD) \underline{Pole wskaźnik:} P_{CEFG} = EFG\)
+
+E
+
+Wobec \(ꀔ _{EA} = AE AD \over AD\times PR \times P_{CD}
+
+Wyznacz A_AEFG: Równanie V, że widzimy SO ef)^{ACG}: 3\sum (\gamma (CD)) \rightarrow A = \frac{0,5}{3}=\frac{0,75}{3})=\]
+
+V
+
+2{0AT} \text{ F}\) Proporcje: 25^{0})=\frac{1}) = a) = AN(CDF)= 
+A_{EF}
+
+Pole(cEF)
+
+Uzupełniające: trójkąty EBD i EFD mają wspólną wysokość z wierzchołka E w framebuffer:  
+
+EA FEM:
+
+\(P_{AEF}= AE(1E)\sum _{DCB}\sigma(\gamma(\frac{E}{a})) = \frac{\delta ; \vec{\sigma} {<a,0}A_{EF})})=A_{EF} |A|\)  
+
+A_{EFG})=bA= A_{IER})\sum_i{EF2{c\frac{}}{x})}, E\sum
+PNM_{BF}; \pi

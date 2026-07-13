@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zadanie z1 (7.5) Dla jakich wartości parametru m równanie |x - 2| = 2m + 1 ma dwa rozwiązania?
+
+1) Tworzymy wykres obu stron równania:
+
+y = 2m + 1
+
+---
+
+Wskazówka: równania, gdzie trzeba analizować liczbę rozwiązań w zależności od parametru najczęściej rozwiązują się graficznie, rysując wykresy funkcji po lewej i prawej stronie równania.
+
+Można tak robić, gdy wszystkie wyrażenia z niewiadomą są po jednej stronie równania, a wyrażenia z parametrem są po drugiej stronie.
+
+Po narysowaniu obu wykresów rozwiązania równania będą stanowić x-owe współrzędne punktów przecięcia obu wykresów.
+
+Ta strona równania, w której nie ma zmiennej "x", a jest tylko parametr, będzie reprezentowana przez funkcję liniową stałą, czyli będzie to linia pozioma.
+
+---
+
+Prosta y = 2m + 1 została narysowana poglądowo, na przeźroczowej wykładce. Należy się teraz zastanowić, na jakich wysokościach może znajdować się ta prosta, aby zgodnie z poleceniem przecinała się w dwóch punktach z wykresem funkcji z lewej strony równania.
+
+Można zauważyć, że prosta y = 2m + 1 musi przecinać oś y na wysokości powyżej zera. Zatem:
+
+2m + 1 > 0 => m ∈ (−1/2, ∞)
+
+Odp. m ∈ (−1/2, ∞).

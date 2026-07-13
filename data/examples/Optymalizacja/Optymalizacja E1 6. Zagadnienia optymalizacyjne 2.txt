@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+Prostokąt o bokach długości x i y jest wpisany w okrąg o średnicy równej 12 cm
+(rysunek poniżej). Jakie powinny być wymiary tego prostokąta, aby iloczyn x·y miał największą wartość?
+
+1️⃣ uzależniamy od siebie zmienne
+
+z tw. Pitagorasa:
+\[ x^2 + y^2 = 12^2 \]
+\[ y^2 = 144 - x^2 \]
+
+2️⃣ zapisujemy wzór funkcji
+
+\[ f(x) = x \cdot y^2 = x(144-x^2) = -x^3 + 144x \]
+
+3️⃣ wyznaczamy dziedzinę funkcji
+
+\[ \begin{cases} 
+x > 0 \\ 
+y > 0 \Rightarrow 144 - x^2 > 0 \Rightarrow x \in (-12, 12) 
+\end{cases} \]
+
+\[ D_f = (0,12) \]
+
+4️⃣ wyznaczamy pochodną funkcji
+
+\[ f'(x) = -3x^2 + 144 \]
+\[ D_{f'} = D_f \]
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\[ f'(x) = 0 \Leftrightarrow -3x^2 + 144 = 0 \]
+\[ x^2 = 48 \]
+\[ x = 4\sqrt{3} \quad \vee \quad x = -4\sqrt{3} \not\in D_f \]
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+**I sposób:**
+
+(min) \(-4\sqrt{3}\) \(\longrightarrow\) \(\) \((x)\) \(\longrightarrow\) \(4\sqrt{3}\) (max)
+
+**II sposób:**
+
+\[
+\begin{array}{c|c|c}
+x & j'(x) & f(x) \\
+\hline
+(0, 4\sqrt{3}) & + & \nearrow \\
+4\sqrt{3} & 0 & \text{max. lok.} \\
+(4\sqrt{3}, 12) & - & \searrow \\
+\end{array}
+\]
+
+Funkcja \(f(x)\) osiąga w swojej dziedzinie wartość największą dla argumentu \(x = 4\sqrt{3}\) \([cm]\)
+
+7️⃣ obliczamy \(y\)
+
+\[ y = \sqrt{144 - (4\sqrt{3})^2} = \sqrt{144 - 48} = \sqrt{96} = 4\sqrt{6} \]
+
+Odp: \(x = 4\sqrt{3}, y = 4\sqrt{6} \; [cm]\)

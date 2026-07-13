@@ -1,0 +1,87 @@
+
+--- STRONA 1 ---
+Zadanie 21 [5 pkt]- TYP 2.6
+
+Dana jest funkcja \( f(x) = \sqrt{(m-2)x^2 + (m-2)x + 1} \). Dla jakich wartości m jej dziedziną są liczby rzeczywiste?
+
+\( f(x) = \sqrt{(m-2)x^2 + (m-2)x + 1} \)
+
+Pod pierwiastkiem muszą znajdować się liczby nieujemne, zatem:
+
+\( (m-2)x^2 + (m-2)x + 1 \geq 0 \)
+
+\( a = m-2 \)
+
+\( b = m-2 \)
+
+\( c = 1 \)
+
+\( \circle 1 \) Zapisanie warunków wynikających z treści zadania:
+
+1° \( a > 0 \) ← chcemy aby nasza funkcja była spełniona przez wszystkie liczby większe, bądź równe zero, ramiona paraboli muszą być skierowane ku górze.
+
+2° \( \Delta \leq 0 \) ← chcemy uzyskać brak rozwiązań albo tylko jedno rozwiązanie.
+
+\(*\) \( a = 0 \) ← warunek dodatkowy, który nie łączy się z 2 pozostałymi. Musimy sprawdzić co się dzieje, gdy nasza funkcja nie będzie funkcją kwadratową.
+
+\(\circle 2\) Rozwiązanie pierwszego z warunków:
+
+1° \( a > 0 \)
+
+\( m-2 > 0 \) | +2
+
+\( m > 2 \)
+
+\(\circle 3\) Rozwiązanie drugiego z warunków:
+
+2° \( \Delta \leq 0 \)
+
+\( \Delta = b^2 - 4 \cdot a \cdot c \)
+
+\( (a-b)^2 = a^2 - 2ab + b^2 \)
+
+\( (m-2)^2 - 4 \cdot (m-2) \cdot 1 \leq 0 \)
+
+\( m^2 - 4m + 4 - 4m + 8 \leq 0 \)
+
+\( m^2 - 8m + 12 \leq 0 \)
+
+\( \Delta_m = (-8)^2 - 4 \cdot 1 \cdot 12 = 64 - 48 = 16 \)
+
+\( \sqrt{\Delta_m} = 4 \)
+
+\( x_1 = \frac{-b-\sqrt{\Delta}}{2a} \)
+
+\( x_2 = \frac{-b+\sqrt{\Delta}}{2a} \)
+
+\( m_1 = \frac{-(-8)-4}{2\cdot1} = \frac{4}{2} = 2 \)
+
+\( m_2 = \frac{-(-8)+4}{2\cdot1} = \frac{12}{6} = 6 \)
+
+\( m \in \langle 2, 6 \rangle \)
+
+--- STRONA 2 ---
+① Rozwiązanie warunku dodatkowego
+
+* ° a = 0  
+   m·2 = 0  
+   m = 2  
+
+Zauważmy że dla m = 2 współczynniki przy x^2 oraz x się wyzerują.  
+
+0·x^2 + 0·x + 2 = 0  
+y = 2  
+
+Otrzymaliśmy funkcję stałą, która jest spełniona przez wszystkie liczby dodatnie.  
+
+⑤ Wyznaczenie części wspólnej rozwiązań wszystkich warunków
+
+1° m > 2  
+
+2° m ∈ ⟨2, 6⟩  
+
+* ° m = 2  
+
+Zatem m ∈ ⟨2, 6⟩  
+
+Odp: m ∈ ⟨2, 6⟩.

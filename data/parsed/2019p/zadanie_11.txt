@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+W ciągu arytmetycznym (a_n), określonym dla n &gt;= 1, dane są dwa wyrazy: a_1 = 7 i a_8 = -49. Suma ośmiu początkowych wyrazów tego ciągu jest równa A. -168 B. -189 C. -21 D. -42
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

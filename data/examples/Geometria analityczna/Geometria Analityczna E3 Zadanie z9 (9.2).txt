@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+**Zadanie z9 (9.2)** Przez początek układu współrzędnych oraz przez punkt \( A = (1, 3) \) przechodzą dwie proste równoległe. Wyznacz równania tych prostych wiedząc, że odległość między nimi jest równa \( \sqrt{5} \).
+
+1) Tworzymy rysunek poglądowy:
+
+\( B \)
+\( A(1,3) \)
+\( \left(0,y_0\right) \)
+\( y-y_0=0 \)
+\( \sqrt{5} \)
+\( d=\sqrt{5} \)
+
+Odległość między dwiema prostymi równoległymi możemy
+interpretować jako odległość jednej prostej od
+dowolnego punktu na drugiej prostej.
+
+Skoro proste są równoległe, to mają
+identyczne współczynniki kierunkowe.
+Oznaczmy je jako \( a \).
+
+2) Podstawiamy punkty pod odpowiednie równania prostych:
+
+\( (0,0) \in y=ax+b_1 \iff b_1=0 \implies y=ax \)
+
+\( (1,3) \in y=ax+b_2 \iff b_2=3-a \implies y=ax+(3-a) \)
+
+3) Wyznaczamy współczynnik kierunkowy z odległości punktu \( A \) 
+od prostej \( y=ax \):
+
+\( y=ax \iff ax-y+0=0 \)
+
+\( Ax+By+C=0 \quad (A=a, B=-1, C=0) \)
+
+\( d=\sqrt{5} ; \quad A(1,3) \)
+
+\(\frac{|a\cdot1-3+0|}{\sqrt{1+a^2}}\)
+
+\(\sqrt{5}=\frac{|a-3|}{\sqrt{1+a^2}}\)
+
+Obie strony są nieujemne, więc możemy
+podnieść do kwadratu.
+
+\((\sqrt{5})^2=\left(\frac{|a-3|}{\sqrt{1+a^2}}\right)^2\)
+
+\(5=\frac{(a-3)^2}{1+a^2}\)
+
+\(5(1+a^2)=(a-3)^2\)
+
+\(5+5a^2=a^2-6a+9\)
+
+\(4a^2+6a-4=0/2\)
+
+\(2a^2+3a-2=0\)
+
+\(2a^2+4a-2a-4=0\)
+
+\(2a(a+2)-(a+2)=0\)
+
+\((a+2)(2a-1)=0\)
+
+\(a=-2 \quad \lor \quad a=\frac{1}{2}\)
+
+Odp. Dla \( a=-2: \quad y=-2x\) i \( y=-2x+5\),
+dla \( a=\frac{1}{2}: \quad y=\frac{1}{2}x \quad i \quad y=\frac{1}{2}x + \frac{5}{2}\).

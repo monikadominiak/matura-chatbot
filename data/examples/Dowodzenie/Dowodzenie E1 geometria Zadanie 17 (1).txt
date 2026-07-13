@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Uzasadnij, że krótsza przekątna rombu zawiera się w dwusiecznej kąta utworzonego przez wysokości tego rombu poprowadzone z wierzchołka kąta rozwartego.
+
+1️⃣ tworzymy rysunek poglądowy
+
+[ilustracja z rombem i kątami]
+
+teza: α = β
+
+2️⃣ własności rombu: przekątna BD jest dwusieczną kąta ABC
+
+wysokości DE i DF są oczywiście pod kątem prostym, więc w ΔBED i ΔBDF mamy po dwa kąty
+
+zatem: α = 180° - 90° - γ = 90° - γ
+
+β = 180° - 90° - γ = 90° - γ więc α = β
+
+c.k.d.

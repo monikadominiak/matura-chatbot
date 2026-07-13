@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+1. wykres funkcji \( f(x) = ax^2 \ 1 \)  
+Narysuj wykres funkcji f o dziedzinie D, podaj zbiór wartości tej funkcji:  
+a) \( f(x) = -0,5x^2, \ D=(-2;4) \)  
+b) \( f(x) = 3x^2, \ D=(-1;2) \)  
+
+a) \( f(x) = -0.5x^2, \quad D=(-2,4) \)  
+
+\(\large{\circled{1}}\) zrobienie tabelki, warto uwzględnić punkty skrajne dziedziny  
+
+\[
+\begin{array}{c|c|c|c|c|c}
+x & -2 & -1 & 0 & 2 & 4 \\
+\hline
+y & -2 & -\frac{1}{2} & 0 & -2 & -8 \\
+\end{array}
+\]
+
+\(\large{\circled{2}}\) narysowanie wykresu, pamiętając o uwzględnieniu dziedziny  
+
+\(\large{\circled{3}}\) odczytanie zbioru wartości funkcji (z osi OY)  
+
+Odp: \( Z_w=(-8,0\rangle \)  
+
+b) \( f(x) = 3x^2 \quad D=(-1,2) \)  
+
+\(\large{\circled{1}}\) zrobienie tabelki, warto uwzględnić punkty skrajne dziedziny  
+
+\[
+\begin{array}{c|c|c|c|c|c}
+x & -1 & 0 & 1 & 2 \\
+\hline
+y & 3 & 0 & 3 & 12 \\
+\end{array}
+\]
+
+\(\large{\circled{2}}\) narysowanie wykresu, pamiętając o uwzględnieniu dziedziny  
+
+\(\large{\circled{3}}\) odczytanie zbioru wartości  
+
+Odp: \( Z_w=\langle0,12) \)  

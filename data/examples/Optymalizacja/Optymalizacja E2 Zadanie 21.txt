@@ -1,0 +1,68 @@
+
+--- STRONA 1 ---
+Zbadaj przebieg zmienności funkcji f(x) = x/(x^2-4).
+
+1️⃣ wyznaczamy dziedzinę,
+
+f(x)= x/(x^2-4): x^2-4 ≠ 0 x^2 ≠ 4.
+
+=> Df: R\{-2,2}
+
+2️⃣ wyznaczamy punkty przecięcia z osiami
+
+f(0) = 0/-4 = 0 => P(0,0)
+
+3️⃣ liczymy granice na krańcach dziedziny i w przerwach w dziedzinie
+
+{ lim (x→-2) -2/0⁺ = -∞
+lim (x→-2) -2/0⁻ = +∞
+
+{ lim (x→2) -2/0⁺ = +∞
+lim (x→2) -2/0⁻ = -∞
+
+=> licząc granice prawo- i lewostronne w przerwach w dziedzinie wyznaczyliśmy od razu dwie asymptoty pionowe: x=-2 i x=2
+
+4️⃣ wyznaczamy pozostałe asymptoty ukośna: y=ax+b
+
+a = lim (x→±∞) f(x)/x = lim (x→±∞) x/(x^2-4) * 1/x = lim (x→±∞) 1/(x^2-4) = 0
+
+(zauważyliśmy, że we wzorze pozostał jedynie x², więc granice dla x→+∞ i x→-∞ będą równe)
+
+b = lim (x→±∞) (f(x)-ax) = lim (x→±∞) x/(x^2-4) - 0 = lim (x→±∞) 1/x = 0 = b
+
+as. pozioma: y = 0
+
+5️⃣ liczymy pochodną
+
+f'(x) = (1(x^2-4) - 2x²)/(x^2-4)² = (-x²-4)/(x^2-4)²
+
+6️⃣ wyznaczamy miejsca zerowe pochodnej
+
+f'(x) = 0 <=> -x²-4 = 0 x² ≠ 4
+
+7️⃣ badamy monotoniczność i ekstrema
+
+=> analizujemy sam licznik, bo mianownik >0
+
+f'(x) ≠ 0 , f'(x) > 0 , f'(x) < 0
+
+-x²-4 > 0
+x² < -4
+x ∈ ∅
+
+-x²-4 < 0
+x² > -4
+x ∈ R
+
+pochodna jest zawsze ujemna, zatem funkcja jest w swojej dziedzinie malejąca
+
+8️⃣ tabela podsumowująca
+
+│ x │ (-∞,-2) │ -2 │ (-2,2) │ 2 │ (2,+∞) │
+├───────┼────────┼────┼────────┼────┼────────┤
+│ f'(x) │    -   │  × │    -   │ × │    -   │
+│ f(x)  │    ↘   │  × │    ↘   │ × │    ↘   │
+
+Odp: 9️⃣ rysujemy wykres 
+
+(szkic wykresu funkcji z asymptotami w x=-2, x=2 i osi poziomą zgodnie z tabelą monotoniczności)

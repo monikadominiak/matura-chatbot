@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Zadanie 13 [2 pkt] - Typ 1.3  
+Oblicz log_{\sqrt{6}} 3 \cdot \log_3 36
+
+I Sposób - wykorzystanie wzoru na zamianę podstawy logarytmu  
+\log_b c = \frac{\log_a c}{\log_a b}
+
+Mamy wyrażenie \ \ \ \log_{\sqrt{6}} 3 \cdot \log_3 36
+
+nasz logarytm rozpiszemy właśnie z tego wzoru na logarytm o podstawie \sqrt{6}
+
+\log_3 36 = \frac{\log_{\sqrt{6}} 36}{\log_{\sqrt{6}} 3}
+
+wstawiając do wyrażenia z polecenia:
+
+\log_{\sqrt{6}} 3 \cdot \frac{\log_{\sqrt{6}} 36}{\log_{\sqrt{6}} 3} = \log_{\sqrt{6}} 36 = 4
+
+Odp: 4.
+
+II Sposób - wykorzystanie wzoru:
+
+\log_a b \cdot \log_b c = \log_a c
+
+\log_{\sqrt{6}} 3 \cdot \log_3 36 = \log_{\sqrt{6}} 36
+
+\log_a b = c \ \ \Rightarrow \ \ a^c = b  
+\log_{\sqrt{6}} 36 = c \ \ \Rightarrow \ \ \sqrt{6^c} = 36  
+
+c = 4
+
+Odp: 4.

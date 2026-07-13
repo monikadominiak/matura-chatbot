@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Wszystkie wyrazy nieskończonego ciągu geometrycznego $(a_{n})$, określonego dla każdej liczby naturalnej $nge1$, są dodatnie i $9a_{5}=4a_{3}$. Wtedy iloraz tego ciągu jest równy
+A. $frac{2}{3}$
+B. $frac{1}{2}$
+C. $frac{3}{2}$
+D. $frac{2}{9}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Kulisty balon ma promień równy 20 cm. Po dopompowaniu powietrza objętość balonu zwiększyła się o 25%. O ile wzrosło jego pole powierzchni? Wynik podaj z dokładnością do dwóch miejsc po przecinku.
+
+1️⃣ Liczymy pole powierzchni i objętość dla wyjściowego balonu (balon nr 1)
+
+r_1 = 20
+
+P_1 = 4πr^2 = 4π20^2 =
+
+= 1600π [cm^2]
+
+V_1 = 4/3 πr^3 = 4/3 π20^3 = 
+
+= 4/3 π · 8000 = 32/3 π · 10^3 [cm^3]
+
+2️⃣ Liczymy objętość balonu po dopompowaniu (balon nr 2)
+
+V_2 = 1,25 V_1 (125% V_1)
+
+V_2 = 5/4 · 32/3 π · 10^3 = 40/3 π · 10^3
+
+3️⃣ Wyznaczamy r_2 i następnie pole
+
+40/3 π · 10^3 = 4/3 π r_2^3 (wzór na V) /: 4/3 π
+
+r_2^3 = 10^4 => r_2 = 3√10^4 = 10^4/3
+
+P_2 = 4πr_2^2 = 4π · (10^4/3)^2 = 4π · 10^8/3 ≈ 1856,64π
+
+4️⃣ Liczymy o ile zmieniło się pole
+
+P_2 - P_1 = 1856,64π - 1600π = 256,64π
+
+Odp: wzrosło o około 256,64π

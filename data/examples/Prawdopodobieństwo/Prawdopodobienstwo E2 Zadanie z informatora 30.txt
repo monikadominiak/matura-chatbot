@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Pewna choroba dotyczy 0,2% całej populacji i w początkowym stadium nie daje widocznych objawów chorobowych. W ramach profilaktyki stosuje się pewien test przesiewowy, który daje wynik pozytywny lub negatywny. Prawdopodobieństwo tego, że test wykonany na osobie chorej da wynik pozytywny (oznaczający chorobę) jest równe 0,99. Ponadto wiadomo, że prawdopodobieństwo tego, że test wykonany na osobie zdrowej da wynik negatywny, jest równe 0,98.
+Pan X poddał się testowi, który dał wynik pozytywny. Pozytywny wynik oznacza podejrzenie choroby.
+
+Oblicz prawdopodobieństwo tego, że Pan X jest rzeczywiście chory.
+
+1️⃣ układamy "drzewko" na podstawie polecenia
+
+wiemy, że 
+
+pan X - wynik pozytywny -> B
+
+A ∩ B -> wynik pozytywny i osoba chora
+
+2️⃣ liczymy kolejno prawd. zdarzenia B i A ∩ B
+
+P(B) = 0,998 · 0,02 + 0,002 · 0,99 = 0,02194
+
+P(A ∩ B) = 0,002 · 0,99 = 0,00198
+
+3️⃣ obliczamy szukane prawd. warunkowe
+
+P(A | B) = 0,00198 / 0,02194 = 198 / 2194 ≈ 0,09
+
+odp: 0,09

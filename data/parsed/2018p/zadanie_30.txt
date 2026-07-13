@@ -1,0 +1,9 @@
+=== ARKUSZ: 2018p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0-2)
+Do wykresu funkcji wykładniczej, określonej dla każdej liczby rzeczywistej x wzorem f(x) = a^x (gdzie a &gt; 0 i a != 1), należy punkt P = (2, 9). Oblicz a i zapisz zbiór wartości funkcji g, określonej wzorem g(x) = f(x) - 2.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

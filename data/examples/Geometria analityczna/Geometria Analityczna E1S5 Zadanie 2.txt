@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zad.2 Wyznacz równanie krzywej, do której należą punkty równoodległe od prostej y = 5 i punktu (-4, -1).
+
+---
+
+(1) Tworzymy rysunek poglądowy
+
+---
+
+W zadaniach z geometrii analitycznej często nie mamy danych na początku poza punktu prostych itp.
+
+W takiej sytuacji warto w zadaniach poglądowych (w miarę możliwości na dużym etapie rozwiązywania) naszkicować je „na oko”, i w sposób pobieżnie jak to, misiany warunkom zadania. Wówczas na podstawie takiego rysunku, możemy snuć kolejne etapy rozwiązania.
+
+Zauważ, że konkretnymi liczbami oznaczone są tylko dane nam już informacje. Cała reszta obiektów na rysunku jest zaznaczona poglądowo.
+
+W tym zadaniu nie mamy jeszcze kształtu szukanej krzywej, a wpisanie się to dopiero poświętnie, w funkcję odległości. Możemy wstawić początkowe założę, że leży on między prostokątem P(y, u) (obszar rysunku).
+
+---
+
+(2) Wyznaczamy d1 i d2, gdzie wzorów na odległość między punktami oraz odległość punktu od prostej:
+
+d(P,A) = sqrt((x-(-4))^2+(y+1)^2) = sqrt((x+4)^2+(y+1)^2)
+
+l = y - 5 = 0 = (A=0, B=1, C=-5)
+
+d(P,L) = |(0)*x+(1)*y+(-5)| / sqrt(0^2+1^2) = |y-5|
+
+---
+
+(3) Przyrównujemy długości i wyznaczamy krzywą:
+
+d1(P,A) = d2(P,L)
+
+UWAGA: aby uprościć zapis, w którym występują jednocześnie pierwiastki i wyrazy bezwynikowe, można taki zapis obustronnie podnieść do kwadratu. Pozwoli to w jednym zamachem pozbyć się zarówna pierwiastków, jak i wartości bezwynikowych.
+
+(x+4)^2+(y+1)^2 - |y-5|^2 = 0
+
+(x+4)^2+(y+1)^2 - (y^2-5)^2
+
+Uprościliśmy jedno równanie z dwoma niewiadomymi. Równań jest mniej niż niewiadomych. Nie da się więc z takiego równania wyznaczyć ani x ani y. Można je za to uznać od siebie i o to chodzi w zadaniu.
+
+(x+4)^2+(y+1)^2 = y^2-10y+25
+
+x^2+40 = 15-x^2-8x-16-Λ
+
+4x_1 = -x -8x-8
+
+---
+
+y = -1/4x^2–3/4x+3/5
+
+---
+
+Odp.: y=-1/4x^2–3/4x+3/5.

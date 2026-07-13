@@ -1,0 +1,15 @@
+=== ARKUSZ: 2019p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0-1)
+Pudełko w kształcie prostopadłościanu ma wymiary 5 dm x 3 dm x 2 dm (zobacz rysunek). 
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przekątna KL tego prostopadłościanu jest - z dokładnością do 0,01 dm - równa A. 5,83 dm B. 6,16 dm C. 3,61 dm D. 5,39 dm
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

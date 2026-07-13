@@ -1,0 +1,103 @@
+=== ARKUSZ: 2020p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0-2)
+Wykaż, że dla każdych dwóch różnych liczb rzeczywistych a i b prawdziwa jest nierówność $a^{2}+b^{2}+2ab &gt; 0$ (uwaga: w treści oryginalnej prawdopodobnie występuje błąd typograficzny, zapis: $(a-b)^{2} &gt; 0$ lub podobny, tutaj przepisano zgodnie z plikiem: $a^{2}+b^{2}+2ab&gt;0$).
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 28. (0-2)
+Wymaganie ogólne: V. Rozumowanie i argumentacja.
+Wymaganie szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia $(apm b)^2$ oraz $a^2-b^2$ (2.1).
+Zasady oceniania I i II sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy:
+zapisze nierówność w postaci $(a-b)^2+b^2 &gt; 0$
+albo
+obliczy wyróżnik trójmianu kwadratowego w zależności od zmiennej a lub b, występującego po jednej stronie nierówności, gdy po drugiej stronie jest 0, i stwierdzi, że jest on niedodatni
+albo
+obliczy wyróżnik trójmianu kwadratowego w zależności od zmiennej a lub b, występującego po jednej stronie nierówności, gdy po drugiej stronie jest 0 oraz rozważy jeden z przypadków $Delta  2ab(1-sqrt{2})$, $(a+sqrt{2}b)^2 &gt; 2ab(1+sqrt{2})$, $a^2+2b^2 &gt; 0$ i na tym zakończy lub dalej popełni błędy.
+albo
+przeprowadzi pełne rozumowanie w dwóch spośród trzech przypadków i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+Zasady oceniania V sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy:
+przeprowadzając dowód nie wprost, zapisze nierówność $a(a-2b)+2b^2 le 0$ w postaci $(a-b)^2+b^2 le 0$ i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+Zasady oceniania VI sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy:
+zapisze nierówność w postaci równoważnej $a^2+2b^2 &gt; 2ab$ oraz zapisze, że dla dowolnych liczb rzeczywistych a, b prawdziwe są nierówności: $a^2+2b^2 ge a^2+b^2$ oraz $a^2+b^2 ge 2ab$ i na tym zakończy lub dalej popełni błędy
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe rozwiązania
+I sposób
+Przekształcamy równoważnie nierówność i otrzymujemy kolejno:
+$a^2-2ab+2b^2 &gt; 0$,
+$a^2-2ab+b^2+b^2 &gt; 0$,
+$(a-b)^2+b^2 &gt; 0$.
+Nierówność $(a-b)^2+b^2 &gt; 0$ jest prawdziwa, ponieważ:
+wyrażenie $(a-b)^2$ jest dodatnie, gdyż z założenia wynika $a-b neq 0$ i kwadrat każdej liczby rzeczywistej różnej od zera jest dodatni,
+wyrażenie $b^2$ jest nieujemne,
+suma dwóch liczb rzeczywistych, z których jedna jest liczbą dodatnią, a druga liczbą nieujemną, jest liczbą dodatnią.
+To kończy dowód.
+II sposób
+Przekształcamy równoważnie nierówność i otrzymujemy:
+$a^2-2ab+2b^2 &gt; 0$.
+Wyrażenie $a^2-2ab+2b^2$ traktujemy jako trójmian kwadratowy jednej zmiennej np. a.
+Wyróżnik trójmianu kwadratowego $a^2-2ab+2b^2$ jest równy: $Delta=4b^2-8b^2=-4b^2$.
+Ten wyróżnik jest niedodatni dla każdej rzeczywistej wartości b.
+Gdy $Delta  0$ dla każdej rzeczywistej wartości a.
+Gdy $Delta = 0$, to $b=0$, stąd $a^2 &gt; 0$, ponieważ z założenia $a neq b$.
+Oznacza to, że dla każdych dwóch różnych liczb rzeczywistych a i b prawdziwa jest nierówność $a^2-2ab+2b^2 &gt; 0$.
+To kończy dowód.
+III sposób
+Przekształcamy równoważnie nierówność $a(a-2b)+2b^2 &gt; 0$ i otrzymujemy:
+$a^2-2ab+2b^2 &gt; 0$.
+Z założenia wynika, że liczby a i b nie mogą jednocześnie przyjmować wartości 0. Jeżeli $b neq 0$, to $b^2 &gt; 0$. Dzielimy obie strony nierówności przez $b^2$ i otrzymujemy nierówność równoważną:
+$(frac{a}{b})^2-2frac{a}{b}+2 &gt; 0$.
+Niech $x=frac{a}{b}$. Otrzymujemy nierówność kwadratową $x^2-2x+2 &gt; 0$ z niewiadomą x. Zauważamy, że ta nierówność jest prawdziwa dla każdej liczby rzeczywistej x, bo z równości $x^2-2x+2=(x-1)^2+1$ wnioskujemy, że $(x-1)^2+1 &gt; 0$, wobec oczywistej nierówności $(x-1)^2 ge 0$.
+Natomiast jeżeli $a neq 0$, to $a^2 &gt; 0$. Dzielimy obie strony nierówności przez $a^2$ i otrzymujemy nierówność równoważną:
+$2(frac{b}{a})^2-2frac{b}{a}+1 &gt; 0$.
+Niech teraz $x=frac{b}{a}$. Otrzymujemy nierówność kwadratową $2x^2-2x+1 &gt; 0$ z niewiadomą x. Ponieważ wyróżnik trójmianu $2x^2-2x+1$ jest ujemny oraz współczynnik przy najwyższej potędze trójmianu jest dodatni, więc ten trójmian przyjmuje tylko wartości dodatnie dla każdej liczby rzeczywistej x.
+Z rozważonych przypadków wynika, że nierówność jest prawdziwa dla każdych dwóch różnych liczb rzeczywistych a i b.
+To kończy dowód.
+IV sposób
+Niech $a neq b$. Rozważmy następujące przypadki:
+Przypadek I: $a cdot b &gt; 0$.
+Przekształcamy równoważnie nierówność $a(a-2b)+2b^2 &gt; 0$ i otrzymujemy:
+$a^2+2b^2-2sqrt{2}ab &gt; 2ab-2sqrt{2}ab$.
+Stąd $(a-sqrt{2}b)^2 &gt; 2ab(1-sqrt{2})$.
+Wyrażenie $(a-sqrt{2}b)^2$ jest nieujemne. Wyrażenie $2ab(1-sqrt{2})$ jest ujemne, ponieważ $1-sqrt{2}  0$.
+Nierówność jest prawdziwa dla każdych dwóch liczb rzeczywistych a i b, takich, że $a cdot b &gt; 0$ i $a neq b$.
+Przypadek II: $a cdot b  0$ i otrzymujemy:
+$a^2+2b^2+2sqrt{2}ab &gt; 2ab+2sqrt{2}ab$.
+Stąd $(a+sqrt{2}b)^2 &gt; 2ab(1+sqrt{2})$.
+Wyrażenie $(a+sqrt{2}b)^2$ jest nieujemne. Wyrażenie $2ab(1+sqrt{2})$ jest ujemne, ponieważ $1+sqrt{2} &gt; 0$ i z założenia $ab &lt; 0$.
+Nierówność jest prawdziwa dla każdych dwóch liczb rzeczywistych a i b, takich, że $a cdot b  0$ i otrzymujemy:
+$a^2-2ab+2b^2 &gt; 0$.
+Ponieważ $a cdot b = 0$, więc nierówność $a^2-2ab+2b^2 &gt; 0$ możemy zapisać w postaci $a^2+2b^2 &gt; 0$.
+Suma kwadratów dwóch dowolnych liczb rzeczywistych a i b, takich, że $a neq b$ jest dodatnia.
+Nierówność jest prawdziwa dla każdych dwóch liczb rzeczywistych a i b, takich, że $a cdot b = 0$ i $a neq b$.
+To kończy dowód.
+V sposób (dowód nie wprost)
+Załóżmy, że istnieją różne liczby rzeczywiste a i b, dla których prawdziwa jest nierówność $a(a-2b)+2b^2 le 0$.
+Powyższa nierówność jest równoważna nierównościom:
+$a^2-2ab+2b^2 le 0$.
+$(a-b)^2+b^2 le 0$.
+Ponieważ lewa strona tej nierówności jest sumą dwóch liczb nieujemnych $(a-b)^2$ i $b^2$, więc może zachodzić jedynie przypadek $(a-b)^2+b^2=0$. Wynika stąd, że $a-b=0$ i $b=0$.
+Zatem $a=0$ i $b=0$, co przeczy założeniu, że liczby $a$ i $b$ są różne.
+Otrzymana sprzeczność oznacza, że nierówność $a(a-2b)+2b^2 le 0$ jest fałszywa.
+Prawdziwa zatem jest nierówność $a(a-2b)+2b^2 &gt; 0$, dla każdych dwóch różnych liczb rzeczywistych a i b.
+To kończy dowód.
+VI sposób (szacowanie)
+Nierówność $a(a-2b)+2b^2 &gt; 0$ jest równoważna nierówności $a^2+2b^2 &gt; 2ab$.
+Dla dowolnych liczb rzeczywistych a, b prawdziwe są nierówności $a^2+2b^2 ge a^2+b^2$ oraz $a^2+b^2 ge 2ab$, przy czym $a^2+b^2 = 2ab$ tylko wtedy, gdy $a=b$.
+Ale z założenia $a neq b$, więc otrzymujemy $a^2+2b^2 ge a^2+b^2 &gt; 2ab$.
+To kończy dowód.

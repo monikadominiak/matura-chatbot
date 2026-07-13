@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Z punktu \( A \) poprowadzono dwie proste: sieczną do okręgu, przecinającą ten okrąg kolejno w punktach \( B, C \), oraz styczną do okręgu w punkcie \( P \) (patrz rysunek). Wykaż, że jeśli \(|AB| = |PB|\), to \(|AP| = |PC|\).
+
+Założenie: \(|AB| = |PB|\)
+
+Teza: \(|AP| = |PC|\)
+
+1️⃣ niech \(\sphericalangle BAP = \alpha\)
+
+wtedy \(\sphericalangle APB = \alpha\)
+
+2️⃣ z tw. o kącie między styczną a cięciwą
+
+mamy \(\sphericalangle APB = \sphericalangle ACP = \alpha\)
+
+3️⃣ \(\triangle APC\) ma dwa kąty równe \(\alpha\) przy boku \( AC\),
+
+zatem \(\triangle APC\) jest równoramienny o podstawie \(AC\),
+
+więc \(|AP| = |PC|\)
+
+c.k.d.

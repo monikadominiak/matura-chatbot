@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+**Zadanie 22 (8.2)** Długości boków trójkąta są w stosunku 2:3:4. Oblicz cosinus oraz tangens największego kąta tego trójkąta.
+
+1) Tworzymy rysunek poglądowy:
+
+(Majac stosunki miedzy bokami jako najbadziej
+da sie obliczyc funkcje trygonometryczne katów.
+Oznaczyć boki jako 2x, 3x, 4x niewiadoma x
+skróci się podczas obliczeń.
+
+Najwiekszy kat trojkatu znajduje sie na przeciw
+najdłuższego boku (na rysunku kat alfa).
+
+2) Korzystamy z tw. cosinusów z wykorzystaniem szukanego kąta:
+
+(4x)^2 = (2x)^2 + (3x)^2 - 2 x 2x x 3x x cosα
+
+16x^2 = 4x^2 + 9x^2 - 12x^2 cos α
+
+3x^2 = -12x^2 x cos α / (-12x^2)
+
+cos α = -3/12 = -1/4
+
+x > 0, wiec -12x^2 ≠ 0, zatem
+na pewno nie dzielimy przez
+zero.
+
+3) Wykorzystujemy związki miedzy funkcjami trygonometrycznymi i wyznaczamy tangens kąta alfa:
+
+sin^2α + cos^2α = 1
+
+sin^2α + (-1/4)^2 = 1
+
+sin^2α = 1 - 1/16 = 15/16
+
+sin α = sqrt(15/16) = sqrt(15)/4 v sin α = - sqrt(15)/4
+
+Wybieramy wartość dodatnią, ponieważ
+kąty z przedziału (0°, 180°) mają sinus
+dodatni.
+
+tg α = sin α / cos α = (sqrt(15)/4) / (-1/4) = sqrt(15) / 4 x (-4/1) = -sqrt(15)
+
+Odp. cosα = -1/4, tgα = -sqrt(15).

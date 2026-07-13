@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0-1)
+Średnia arytmetyczna ośmiu liczb: 3, 5, 7, 9, x, 15, 17, 19 jest równa 11. Wtedy
+A. x=1
+B. x=2
+C. x=11
+D. x=13
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 24. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G9. Statystyka opisowa i wprowadzenie do rachunku prawdopodobieństwa. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych (G9.4).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B

@@ -1,0 +1,17 @@
+=== ARKUSZ: 2025p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0–2)
+Rozwiąż nierówność
+
+3(2x^2 + 1) &lt; 11x
+
+Zapisz obliczenia.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

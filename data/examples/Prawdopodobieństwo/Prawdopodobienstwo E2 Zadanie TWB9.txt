@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+W sakwie znajduje się 20 monet.
+a)  6 pierwszego rodzaju z orłem po obu stronach
+b) 4 drugiego rodzaju z reszką po obu stronach
+c) 10 trzeciego rodzaju z resztą po jednej stronie i orłem po drugiej stronie
+Wykonano dwa rzuty monetą losowo wybraną z sakwy i otrzymano dwa orły. Oblicz prawdopodobieństwo, że rzucano monetą typową.
+
+1. wprowadzamy oznaczenia i tworzymy „drzewko”
+
+A - wylosowanie 2 orłów po 2 rzutach wybraną monetą,
+B₁ - wylos. monetę OO
+B₂ - wylos. monetę RR
+B₃ - wylos. monetę OR     P(B₃)= 10/20
+
+      6       4       10
+     /        /        \
+    /        /          \ 
+   O         R          O
+  / \      / \        /   \
+ O  O    R  R   1/2 O  1/2 R
+1/1      1/1      1/2      1/2
+
+2. musimy policzyć P(B₃|A) → wylos. monetę typową pod warunkiem, że otrzymano 2 orły w 2 rzutach
+
+wzór bayesa: P(B₃|A) = (P(A|B₃)·P(B₃))/P(A), gdzie P(A) to prawd. całkowite
+
+3. wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B₃) - określa prawd. wylos. 2 orłów w 2 rzutach monetą OR
+
+P(A|B₃) = 1/2 · 1/2 = 1/4    czyli P(A|B₃) = 1/2 · 1/2 = 1/4
+
+P(A) - prawd. wylosowania 2 orłów w 2 rzutach
+
+P(A) = 1 · 6/20 + 0 · 4/20 + 1/4 · 10/20 = 24/80 + 10/80 = 34/80 = 17/40 *
+
+4. liczymy docelowe P(B₃|A)
+
+P(B₃|A) = (1/4 · 10/20)/(17/40) = (10/80)/(17/40) = 5/17
+
+Odp: 5/17
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B₃|A) = (P(A∩B₃))/P(A) , P(A) policzyliśmy już wyżej *
+
+P(A∩B₃) → prawd. że wylos. 2 orły w 2 rzutach i monetę OR
+
+P(A∩B₃) = 10/20 · 1/4 = 1/8
+
+P(B₃|A) = (1/8) / (17/40) = 1/8 · 40/17 = 40/136 = 5/17

@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zadanie 14 [3pkt] - TYP 3.5  
+Oblicz te wartości parametru m, dla których liniowym jest równanie.  
+(m^2-9)x^3 + (m-3)x + 2 = 0  
+
+(m^2-9)x^3 + (m-3)x + 2 = 0  
+
+Że względu na to, że równanie ma być liniowe, oznacza to, że musi:
+
+1. mieć ono zmienną x 
+podniesie 1. Współczynnik przy x^3
+musi być równy zero, a
+współczynnik przy x nie może być
+zerem:
+
+1^o m^2-9 = 0  
+m^2 = 9  
+
+m = 3 ∨ m = -3  
+
+2^o m-3 ≠ 0  
+m ≠ 3  
+
+Wartość parametru m = 3 z pierwszego warunku odrzucamy, ponieważ dla niej zeruje się współczynnik stojący przed zmienną x  
+
+Odp: m = -3.

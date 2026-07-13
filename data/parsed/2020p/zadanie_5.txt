@@ -1,0 +1,16 @@
+=== ARKUSZ: 2020p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Zbiorem wszystkich rozwiązań nierówności $3(1-x)&gt;2(3x-1)-12x$ jest przedział
+A. $(-infty,-frac{5}{3})$
+B. $(-frac{5}{3},+infty)$
+C. $(-infty,frac{5}{3})$
+D. $(frac{5}{3},+infty)$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 5. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą (3.3).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D

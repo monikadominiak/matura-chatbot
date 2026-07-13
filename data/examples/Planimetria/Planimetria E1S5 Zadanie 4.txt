@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zad.4 W romb o kącie ostrym 30° wpisano okrąg o promieniu 2 cm. Oblicz pole tego rombu.
+
+1) Tworzymy rysunek poglądowy:
+
+Średnica okręgu wpisanego w romb jest jednocześnie wysokością tego rombu.
+
+Trójkąt ADF jest trójkątem charakterystycznym o kątach wewnętrznych 30, 60, 90 stopni. Zależności między długościami boków w takim trójkącie są następujące:
+
+|DE| = a = 4
+
+|AE| = a√3 = 4√3
+
+|AD| = 2a = 8
+
+|AD| = |AB|
+
+P_rombu = |AB| · h = 8 · 4 = 32 cm²
+
+Odp. Promb = 32 cm².

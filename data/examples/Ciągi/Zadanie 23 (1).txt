@@ -1,0 +1,68 @@
+
+--- STRONA 1 ---
+Zadanie 23
+
+W kwadrat o boku długości a wpisano koło, w które wpisano kwadrat, a w ten kwadrat znów koło itd. Oblicz sumę wszystkich a) obwodów kół oraz b) pól kół.
+
+① Rysujemy rysunek pomocniczy.
+
+a
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+ã
+
+a) ② Określamy kolejne obwody kół,
+
+Ob = 2πr
+
+r_1 = 1/2 a
+
+Ob_1 = 2π·1/2 a = πa
+
+r_2 = a√2/4
+
+Ob_2 = 2π·a√2/4 = πa√2/2
+
+q = Ob_2/Ob_1 = πa√2/2 / πa = √2/2 ∈ (-1,1)
+
+Szereg geometryczny jest zbieżny gdy q ∈ (-1,1).
+
+③ Obliczamy sumę obwodów kół.
+
+S₀ = Ob₁/1-q = πa/1-√2/2 = πa/2-√2/2 = 2πa/2-√2 = 2+√2/2+√2 = 2πa(2+√2)/4-2 = πa(2+√2)
+
+b) ④ Określamy kolejne pola kół.
+
+P = πr²
+
+r_1 = 1/2 a
+
+P₁ = π (1/2 a)² = 1/4 πa²
+
+r_2 = a√2/4
+
+P₂ = π (a√2/4)² = 1/8 πa²
+
+q = P₂/P₁ = 1/8 πa²/1/4 πa² = 1/2 ∈ (-1,1)
+
+⑤ Obliczamy sumę pól kół.
+
+Sₚ = P₁/1-q = 1/4 πa²/1-1/2 = 1/2 πa²
+
+Odp.: a) S₀=(2+√2)πa, b) Sₚ=1/2πa².

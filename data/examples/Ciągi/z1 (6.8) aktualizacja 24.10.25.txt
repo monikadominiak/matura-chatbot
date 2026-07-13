@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+z4 (6.8)
+
+Wyznacz największą wartość parametru \( p \), dla której granica ciągu \( (a_n) \) o wyrazie ogólnym \( a_n = \frac{(p^3-2p+1)(4n^6-2n+1)}{(2n^2-2n+1)^3} \) jest równa 1.
+
+Najwyższe potęga n w liczniku i w mianowniku musi być taka sama. Wynikiem takiej granicy jest iloraz współczynników stojących przy najwyższych potęgach n.
+
+Najwyższą potęgą n w mianowniku i w liczniku jest potęga 6. Współczynnikiem stojącym przy \( n^6 \) w liczniku jest wyrażenie \( (p^3-2p+1) \cdot 4 \).
+
+W mianowniku natomiast, po zastosowaniu wzoru skróconego mnożenia, powstanie \( (2n^2)^3 = 8n^6 \). Czyli współczynnikiem stojącym przy \( n^6 \) jest 8.
+
+① Wyznaczamy parametr \( p \).
+
+\[
+\frac{(p^3-2p+1) \cdot 4}{8} = 1 \ \big/ \cdot 2
+\]
+
+\[
+p^3-2p+1 = 2
+\]
+
+\[
+p^3-2p-1 = 0
+\]
+
+\( W(p) \)
+
+\( W(-1) = 0 \)
+
+\[
+\begin{array}{c|cccc}
+-1 & 1 & 0 & -2 & -1 \\
+   &   & -1 & 1 & -1 \\
+\hline
+   & 1 & -1 & -1 & 0 \\
+\end{array}
+\]
+
+\[
+(p+1)(p^2-p-1) = 0
+\]
+
+\( p_1 = -1 \)
+
+\( \Delta = 1 + 4 = 5 \)
+
+\[
+p_2 = \frac{1-\sqrt{5}}{2}
+\]
+
+\[
+p_3 = \frac{1+\sqrt{5}}{2}
+\]
+
+② Wyznaczamy największą wartość \( p \).
+
+\( p_3 > p_2 > p_1 \)
+
+Odp.: Największą wartością parametru \( p \) jest wartość \(\frac{1+\sqrt{5}}{2}\).

@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+**1. Wykresy funkcji sinus i cosinus**
+
+Ile miejsc zerowych ma funkcja f w podanym przedziale jeśli:
+
+a) \( f(x) = \sin x \) dla \( x \in [0, 2\pi] \)
+
+b) \( f(x) = \cos x \) dla \( x \in \left( -\frac{5\pi}{2}, \frac{5\pi}{2} \right] \)
+
+a) \( \large{\circled{1}} \) Szkicujemy wykres funkcji sinus.
+
+\[
+\begin{array}{c}
+y = \sin x \\
+\text{(wykres z x od 0 do \(2\pi\), y od -1 do 1, z miejscami zerowymi zaznaczonymi na 0, \(\pi\), \(2\pi\))}
+\end{array}
+\]
+
+\( \large{\circled{2}} \) Odczytujemy miejsca zerowe.
+
+\[
+x = k\pi, \quad k \in \mathbb{Z} \quad \land \quad x \in [0, 2\pi]
+\]
+
+czyli 
+
+\[
+x \in \{ 0, \pi, 2\pi \}
+\]
+
+\(\text{Odp.: Funkcja } f(x) = \sin x \text{ w przedziale } [0, 2\pi] \text{ ma } 3 \text{ miejsca zerowe.}\)
+
+b) \( \large{\circled{1}} \) Szkicujemy wykres funkcji cosinus.
+
+\[
+\begin{array}{c}
+y = \cos x \\
+\text{(wykres z x od \(-\frac{5\pi}{2}\) do \(\frac{5\pi}{2}\), y od -1 do 1, z miejscami zerowymi zaznaczonymi na \(-\frac{3\pi}{2}, -\frac{\pi}{2}, \frac{\pi}{2}, \frac{3\pi}{2}, \frac{5\pi}{2}\))}
+\end{array}
+\]
+
+\( \large{\circled{2}} \) Odczytujemy miejsca zerowe.
+
+\[
+x = \frac{\pi}{2} + k\pi, \quad k \in \mathbb{Z} \quad \land \quad x \in \left( -\frac{5\pi}{2}, \frac{5\pi}{2} \right]
+\]
+
+czyli 
+
+\[
+x \in \left\{ -\frac{3\pi}{2}, -\frac{\pi}{2}, \frac{\pi}{2}, \frac{3\pi}{2}, \frac{5\pi}{2} \right\}
+\]
+
+\(\text{Odp.: Funkcja } f(x) = \cos x \text{ w przedziale } \left( -\frac{5\pi}{2}, \frac{5\pi}{2} \right] \text{ ma } 5 \text{ miejsc zerowych.}\)

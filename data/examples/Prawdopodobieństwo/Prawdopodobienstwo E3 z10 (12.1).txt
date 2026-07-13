@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Ile jest liczb naturalnych, które są dzielnikami liczby 10010?
+
+① rozkładamy 10010 na czynniki pierwsze
+
+\[
+\begin{array}{c|c}
+10010 & 2 \\
+5005 & 5 \\
+1001 & 11 \\
+91 & 13 \\
+7 & 7 \\
+1 & \\
+\end{array}
+\]
+
+5 różnych czynników: {2,5,11,13,7}
+
+② liczbę 10010 możemy zatem zapisać jako 2·5·11·13·7
+
+więc wszystkie dzielniki liczby 10010 są postaci:
+
+\(2^n \cdot 5^n \cdot 11^n \cdot 13^n \cdot 7^n, \, \text{gdzie} \, n \in \{0,1\}\)
+
+możliwe dzielniki: 2·2·2·2·2 = \(2^5\) = 32 możliwości
+
+Odp: 32

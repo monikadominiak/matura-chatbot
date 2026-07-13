@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z2 (8.7) W trapezie KLMN punkt P jest punktem przecięcia przekątnych trapezu. Oblicz długości podstawy KL wiedząc, że |MN| = 3, |NP| = 2 i |PL| = 5.
+
+1) Tworzymy rysunek poglądowy:
+
+(trapez KLMN z punktami N, M, K, L, P, i oznaczeniami kątów α i β)
+
+2) Wyznaczamy KL za pomocą podobieństwa trójkątów:
+
+Trójkąty NPM i KPL są podobne z cechy kąt-kąt-kąt.
+
+ΔNPM ~ ΔKPL (kkk)
+
+k = ΔNPM / ΔKPL = |NP| / |PL| = |NM| / |KL|
+
+\(\frac{2}{5} = \frac{3}{|KL|}\)
+
+2|KL| = 15 → |KL| = \(\frac{15}{2}\)
+
+Odp. |KL| = \(\frac{15}{2}\).

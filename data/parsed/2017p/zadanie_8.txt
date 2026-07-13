@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0-1)
+Równanie $x(x^{2}-4)(x^{2}+4)=0$ z niewiadomą x
+A. nie ma rozwiązań w zbiorze liczb rzeczywistych.
+B. ma dokładnie dwa rozwiązania w zbiorze liczb rzeczywistych.
+C. ma dokładnie trzy rozwiązania w zbiorze liczb rzeczywistych.
+D. ma dokładnie pięć rozwiązań w zbiorze liczb rzeczywistych.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 8. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A

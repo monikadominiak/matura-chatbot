@@ -1,0 +1,20 @@
+=== ARKUSZ: 2018p | ZADANIE 23 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 23. (0-1)
+W zestawie m liczb 2 i m liczb 4 (łącznie 2m liczb, gdzie m &gt;= 1):
+2, 2, 2, ..., 2, 4, 4, 4, ..., 4
+Odchylenie standardowe tego zestawu liczb jest równe 
+A. sqrt{2}
+B. 1
+C. 1/2
+D. 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 23. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza średnią ważoną i odchylenie standardowe zestawu danych (także w przypadku danych odpowiednio pogrupowanych), interpretuje te parametry dla danych empirycznych (10.1).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: D

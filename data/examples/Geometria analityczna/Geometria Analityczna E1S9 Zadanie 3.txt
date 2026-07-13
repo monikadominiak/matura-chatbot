@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zad.3 Dany jest wektor \(\vec{u} = [3, -1]\). Wyznacz wektor \(\vec{v}\), który ma ten sam kierunek co wektor \(\vec{u}\), ale przeciwny zwrot, jeśli \(|\vec{v}| = 3\).
+
+1) Zapisujemy informacje z zadania i tworzymy równanie:
+
+\(\vec{v}=[x,y]\)
+
+\(|\vec{v}| = 3\)
+
+\(|\vec{v}| = 3\)
+
+\(\vec{v} = \alpha \, \vec{u}\)
+
+\(\vec{v} = \alpha [3, -1]\)
+
+\(\vec{v} = [3\alpha, -\alpha]\)
+
+\(|\vec{v}|^2 = (3\alpha)^2 + (-\alpha)^2\)
+
+\(3^2 = 9\alpha^2 + \alpha^2\)
+
+\(9 = \dfrac{9}{10} \alpha^2\)
+
+\(\alpha^2 = \dfrac{9}{10} \vert \)
+
+\(\alpha = \dfrac{3\sqrt{10}}{10}\)
+
+\(\alpha \neq 0\)
+
+(przeciwny zwrot uzyskamy dla \(\alpha < 0\))
+
+\(\alpha = -\dfrac{3\sqrt{10}}{10}\)
+
+\(\vec{v} = [-\dfrac{9\sqrt{10}}{10}, \dfrac{3\sqrt{10}}{10}]\)
+
+\(\text{Odp. } \vec{v} = [-\dfrac{9\sqrt{10}}{10}, \dfrac{3\sqrt{10}}{10}].\)
+
+UWAGA: W zadaniach znamy tylko współrzędne wektorów. Wówczas przy tworzeniu interpretacji w układzie współrzędnych, umownie przyjmuje się punkt zaczepienia wektorów jako punkt (0,0).
+
+Szanse jednak na pojawienie się zadania wymagającego taki rysunek jest niska. (Tutaj również nie jest on wymagany, a jedynie poglądowy).

@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 7 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 7. (0-1)
+Wskaż rysunek, na którym jest przedstawiony zbiór wszystkich rozwiązań nierówności $2-3xge4$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A.
+B.
+C.
+D.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 7. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą (3.3).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

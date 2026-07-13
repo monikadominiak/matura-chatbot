@@ -1,0 +1,24 @@
+=== ARKUSZ: 2024p | ZADANIE 7 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Równanie
+
+(x + 1) / ((x + 2)(x − 3)) = 0
+
+w zbiorze liczb rzeczywistych
+
+A. nie ma rozwiązania.
+B. ma dokładnie jedno rozwiązanie: (−1).
+C. ma dokładnie dwa rozwiązania: (−2) oraz 3.
+D. ma dokładnie trzy rozwiązania: (−1), (−2) oraz 3.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+z3 (6.5)
+
+Trzywyrazowy malejący ciąg (a, b, c) o wyrazach ujemnych jest arytmetyczny, a ciąg (2a, 3b + a, 7c + b) jest geometryczny. Oblicz iloraz tego ciągu geometrycznego.
+
+1️⃣ Zapisanie układu równań i szukanego ilorazu.
+
+b = \frac{a+c}{2}
+
+(3b+a)^2 = 2a \left(7c+b \right)
+
+a, b, c < 0
+
+q = \frac{3b+a}{2a}
+
+2️⃣ Wyznaczamy c z pierwszego równania.
+
+2b = a+c
+
+c = 2b-a
+
+3️⃣ Wstawiamy c do drugiego równania.
+
+(3b+a)^2 = 2a \left(7(2b-a)+b \right)
+
+9b^2 + 6ab + a^2 = 2a \left(15b-4a \right)
+
+9b^2 + 6ab + a^2 = 30ab - 14a^2
+
+9b^2 - 24ab + 15a^2 = 0 / :3
+
+3b^2 - 8ab + 5a^2 = 0
+
+\Delta = (-8a)^2 - 4\cdot 3 \cdot 5a^2
+
+= 64a^2 - 60a^2 = 4a^2
+
+\sqrt{\Delta} = \sqrt{4a^2} = |2a|
+
+a jest ujemne zatem:
+
+|2a| = -2a
+
+b_1 = \frac{8a - (-2a)}{6} = \frac{10a}{6} = \frac{5a}{3}
+
+b_2 = \frac{8a + (-2a)}{6} = a
+
+Ciąg (a, b, c) jest malejący zatem odrzucamy b_2
+
+4️⃣ Obliczamy q.
+
+q = \frac{3b+a}{2a} = \frac{3 \cdot \frac{5}{3}a + a}{2a} = \frac{5a + a}{2a} = \frac{6a}{2a} = 3
+
+Odp.: q = 3.

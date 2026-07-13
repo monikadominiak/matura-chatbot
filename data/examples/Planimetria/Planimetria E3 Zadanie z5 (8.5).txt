@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zadanie z5 (8.5) Kąty ostre trapezu mają miary α i β, a pole tego trapezu jest równe P. Oblicz długość promienia okręgu wpisanego w ten trapez.
+
+1) Tworzymy rysunek poglądowy:
+
+|AB|+|CD| = |AD|+|BC|
+
+W zadaniach z trapezem warto dorysować doń jego wysokości. Wysokości te są jednocześnie środką okręgu wpisanego w trapez i tworzą po bokach trapezu przystające trójkąty prostokątne.
+
+Okrąg można wpisać w czworokąt jeśli sumy długości jego przeciwległych boków są sobie równe.
+
+Spróbujmy zapisać pole trapezu (które wynosi P), w taki sposób, aby jedyną niewiadomą w tym wzorze było h.
+
+2) Wyznaczamy |AD| i |BC| za pomocą trygonometrii trójkąta prostokątnego:
+
+z ΔAED : sin α = h / |AD|    →    |AD| = h / sin α
+z ΔBCF : sin β = h / |BC|    →    |BC| = h / sin β
+
+3) Podstawiamy dane pod wzór na pole trapezu, wyznaczamy h i później r:
+
+P = (|AB|+|CD|)/2 * h = (|AD|+|BC|)/2 * h
+|AD|+|BC| = h(1/sin α + 1/sin β) = h ((sin α + sin β)/(sin α * sin β))
+
+P = 1/2 * h^2 * sin α * sin β / (sin α + sin β)
+
+P * sin α * sin β / (sin α + sin β) = 1/2 * h^2 / 2,1
+
+h = sqrt((2P * sin α * sin β)/(sin α + sin β))
+
+r = 1/2 * h = 1/2 * sqrt((2P * sin α * sin β)/(sin α + sin β))
+
+Odp. r = 1/2 * sqrt((2P * sin α * sin β)/(sin α + sin β))

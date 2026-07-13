@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Z urny, w której znajduje się 20 kul białych i 2 kule czarne, losujemy bez zwracania n kul. Wyznacz najmniejszą wartość n, taką, że prawdopodobieństwo wylosowania co najmniej jednej kuli czarnej jest większe od 0,5.
+
+1️⃣ analizujemy polecenie
+
+20 białych  2 czarne, losujemy n kul bez zwracania
+
+n > 1 ∧ n < 22 ∧ n ∈ N+ 
+
+A - wylosowanie co najmniej jednej czarnej 
+
+czyli nie chcemy wszystkich białych - A'
+
+2️⃣ zapiszemy moc Ω 
+
+|Ω| = (22 n)
+
+3️⃣ zapiszemy P(A)
+
+P(A) = 1 - P(A') = 1 - (20 n) / (22 n) > 0,5
+
+(20!) / n!(20-n)! 
+
+(22!) / n!(22-n)! < 0,5
+
+4️⃣ rozwiązujemy nierówność
+
+(22-n)(21-n) / 21∙22 < 0,5
+
+(22-n)(21-n) < 231
+
+n^2 - 43n + 231 < 0 
+
+Δ = 925 √Δ = 5√37
+
+n₁ = (43 - 5√37) / 2 ≈ 6,3 
+
+n₂ = (43 + 5√37) / 2 ≈ 36,7
+
+Odp: nmin = 7

@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+Z urny, w której jest dwa razy więcej kul czarnych niż białych i trzy razy więcej kul zielonych niż białych, losujemy trzy kule. Prawdopodobieństwo wylosowania trzech kul różnokolorowych wynosi \(\frac{27}{136}\). Oblicz prawdopodobieństwo wylosowania trzech kul, wśród których dokładnie dwie będą tego samego koloru.
+
+1️⃣ analizujemy polecenie
+
+- x - białych
+- 2x - czarnych
+- 3x - zielonych
+
+\(x \in \mathbb{N}_{+}\)
+
+A - wylosowanie trzech różnokolorowych kul
+
+2️⃣ liczymy moc \(\Omega\)
+
+\[
+\overline{\Omega} = \binom{6x}{3} = \frac{6x!}{3!(6x-3)!} = \frac{(6x-2)(6x-1)6x}{6} =
+\]
+\[
+= x(6x-1)(6x-2)
+\]
+
+3️⃣ liczymy moc A
+
+\[
+\overline{A} = \binom{x}{1}\binom{2x}{1}\binom{3x}{1} = 6x^3
+\]
+
+4️⃣ rozwiązujemy równanie 
+
+\(P(A) = \frac{27}{136}\)
+
+\[
+\frac{6x^3}{x(6x-1)(6x-2)} = \frac{27}{136}
+\]
+
+\[
+27(6x-1)(6x-2) = 816x^2
+\]
+
+\[
+9(6x-1)(6x-2) = 272x^2
+\]
+
+\[
+26x^2 - 81x + 9 = 0
+\]
+
+\[
+\Delta = 5625 \quad \sqrt{\Delta} = 75
+\]
+
+\[
+x_1 = \frac{3}{26} \quad x_2 = 3 \quad \text{sprzeczne}
+\]
+
+\[
+\Rightarrow \quad 3 \, \text{białe} \quad 6 \, \text{czarnych} \quad 9 \, \text{zielonych} \quad \left\{ \begin{array}{c} 18 \end{array} \right.
+\]
+
+\[
+\overline{\Omega} = 816
+\]
+
+5️⃣ B - dwie tego samego koloru
+
+\[
+\overline{B} = \text{BB}\omega + \text{CC}\omega + \text{ZZ}\omega =
+\]
+
+\[
+= \binom{3}{2}\binom{15}{1} + \binom{6}{2}\binom{12}{1} + \binom{9}{2}\binom{9}{1} = 45 + 180 + 324 = 549
+\]
+
+\[
+P(B) = \frac{549}{816} = \frac{183}{272}
+\]
+
+Odp: \(\frac{183}{272}\)

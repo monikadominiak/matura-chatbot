@@ -1,0 +1,62 @@
+
+--- STRONA 1 ---
+Zadanie z11 (tn) Punkty A (0, -5) oraz D (-3, -1) są kolejnymi wierzchołkami trapezu równoramiennego ABCD, którego osią symetrii jest prosta o równaniu x + 2y = 0. Oblicz współrzędne pozostałych wierzchołków oraz długość odcinka łączącego środki ramion tego trapezu.
+
+1) Tworzymy rysunek poglądowy:
+
+Diagram na wykresie współrzędnych z zaznaczonymi punktami A(0,-5) i D(-3,-1), osią symetrii x+2y=0 oraz szukaną linią y=-1/2*x i innymi:
+
+- x+2y=0
+- y=-1/2*x
+- A(0,-5)
+- D(-3,-1)
+
+2) Wyznaczamy równania prostych AB i DC:
+
+Proste AB i DC są prostopadłe do osi symetrii trapezu.
+
+pr. AB: y = a*x + b
+pr. DC: y = a*x + b
+
+k: y = -1/2*x
+
+A(0,-5) ∈ pr. AB <=> -5=0*b, b_a=-5
+D(-3,-1) ∈ pr. DC <=> -1=-3*b, b_d=-5/3
+
+pr. AB: y = 2*x - 5
+pr. DC: y = 2*x + 5
+
+3) Wyznaczamy punkty E i F układami równań:
+
+Punkty E i F leżą na przecięciu osi symetrii i odpowiednio prostych AB i DC. Są one też środkami boków AB i CD, co pozwoli nam wyznaczyć brakujące wierzchołki.
+
+E(x,y) => {y=-1/2*x, y=2*x-5} => E(2,-4)
+
+F(x,y) => {y=-1/2*x, y=2*x+5} => F(2,4)
+
+4) Wyznaczamy wierzchołki B i C ze wzoru na środek odcinka:
+
+E = (2,-4)=((-3+xB)/2, (yA+yB)/2) = ((0+xB)/2, (-5+3)/2)
+
+4 = 0 + xB
+xB = 4
+B(4,3)
+
+F = (2,4)=((-3+xC)/2, (yD+yC)/2) = ((-3+2xC)/2, (-1+yC)/2)
+
+-4= -3 + xC
+xC = -4
+(yD+yC)/2 = 3
+yC = 3
+C(-4,3)
+
+5) Wyznaczamy odcinek łączący środki ramion trapezu:
+
+Długość takiego odcinka jest zawsze równa średniej arytmetycznej długości podstaw.
+
+|AB| = sqrt((4-0)^2 + (3-(-5))^2) = sqrt(16+64) = sqrt(80) = 4√5
+|CD| = sqrt((-4-(-3))^2 + (3-(-1))^2) = sqrt(1+16) = sqrt(17)
+
+(|AB|+ |CD|) = (4√5 + √17)/2 = 6√5/2 = 3√5
+
+Odp. B(4,3), C(-4,3), 3√5.

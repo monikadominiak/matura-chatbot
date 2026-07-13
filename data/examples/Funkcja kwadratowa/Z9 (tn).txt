@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+z9 (tn)  
+Wyznacz te wartości parametru m, dla których równanie (m-2)x^2 + (m-2)x + 1 = 0 ma jedno rozwiązanie.
+
+(m-2)x^2 + (m-2)x + 1 = 0  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a = m-2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b = m-2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c = 1  
+
+① Zadanie przypadku liniowego  
+
+a = 0  ← równanie liniowe  
+m-2 = 0  |+2  
+m = 2  
+
+Wówczas równanie miałoby postać:  
+0 ⋅ x^2 + 0 ⋅ x + 1 = 0  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 ≠ 0  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;∧  
+
+Sprzeczność ⇒ brak rozwiązań, równanie nie spełnia warunków zadania.
+
+a ≠ 0  
+m ≠ 2  ⇒ równanie kwadratowe
+
+② Wyznaczenie i rozwiązanie warunku dla równania kwadratowego, tak aby miało ono jedno rozwiązanie  
+
+Δ = 0  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Δ = b^2 - 4 ⋅ a ⋅ c  
+(m-2)^2 - 4 ⋅ (m-2) ⋅ 1 = 0  ← wyciągamy część wspólną przed nawias  
+
+(m-2)[(m-2)-4] = 0  
+(m-2)(m-6) = 0  
+
+m-2 = 0                    m-6 = 0  
+m = 2                     m = 6    
+↑  
+sprzeczne z m ≠ 2
+
+Zatem m=6  
+
+Odp: m = 6.

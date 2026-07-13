@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Zad.2 Na trapezie, którego wysokość jest równa 4 cm, opisano okrąg o promieniu 5 cm. Oblicz obwód tego trapezu, jeśli jedna z jego podstaw jest średnicą tego okręgu.
+
+1) Tworzymy rysunek poglądowy:
+
+Trapez wpisany w okrąg musi być trapezem równoramiennym.
+
+2) Korzystamy z tw. Pitagorasa:
+
+Z ΔDES: |DE|^2 + |ES|^2 = |DS|^2
+
+4^2 + |ES|^2 = 5^2 => |ES| = 3
+
+|AE| = |AS| - |ES| = 5 - 3 = 2
+
+Z ΔAED: |AE|^2 + |ED|^2 = |AD|^2
+
+2^2 + 4^2 = |AD|^2 => |AD| = 2√5
+
+|AD| = |BC| = 2√5
+
+|ES| = |SF| = 3 → |EF| = |ES| + |SF| = 6 = |DC|
+
+Ob = 10 + 2⋅2√5 + 6 = 16 + 4√5 cm
+
+Odp. Ob = 16 + 4√5 cm.

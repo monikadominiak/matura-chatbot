@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Zad. 2 Kąt β jest kątem wpisanym w okrąg opartym na tym samym łuku co kąt środkowy α. Wyznacz miary kątów α i β jeśli 0,5α + \(\frac{1}{3}\)β = 48°.
+
+1) Tworzymy układ dwóch równań i wyznaczamy kąty:
+
+\[
+\begin{cases} 
+\frac{1}{2}\alpha + \frac{1}{3}\beta = 48^\circ \\
+\alpha = 2\beta 
+\end{cases}
+\]
+
+Kąt β ma dwukrotnie mniejszą miarę niż kąt α (ponieważ α to kąt środkowy opisany na tym samym łuku co kąt wpisany β).
+
+\[
+\frac{1}{2} \cdot 2\beta + \frac{1}{3}\beta = 48^\circ 
+\]
+
+\[
+\frac{4}{3}\beta = 48^\circ \quad / \cdot \frac{3}{4} 
+\]
+
+\[
+\beta = 36^\circ , \quad \alpha = 2 \cdot 36^\circ = 72^\circ 
+\]
+
+Odp. α = 72°, β = 36°.

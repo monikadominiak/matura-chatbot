@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+1. Wykresy funkcji sinus i cosinus 2
+
+Ile rozwiązań w podanym przedziale ma poniższe równanie w zależności od parametru m ?
+
+a) sin x = m, [0,4π]
+
+b) cos x = m, (-π,3π)
+
+Uwaga: w równaniach postaci f(x)=m traktujemy prawą stronę jako funkcję stałą, y = m. Od wartości parametru m zależy, na jakiej wysokości znajduje się ta funkcja stała. Rozwiązaniami równania f(x)=m są x-owe współrzędne punktów przecięcia wykresów funkcji f(x) oraz funkcji stałej y=m.
+
+a) ① Szkicujemy wykres funkcji sinus.
+
+(y-axis: -1 to 1, x-axis: -π/2 to 5π/2)
+
+y=sinx
+
+② Odczytujemy liczbę rozwiązań w przedziale [0,4π] zależne od wartości m.
+
+5 rozwiązań dla m=0,
+
+2 rozwiązania dla m ∈ {-1,1},
+
+4 rozwiązania dla m ∈ (-1,0) ∪ (0,1)
+
+Brak rozwiązań dla m ∈ (-∞,-1) ∪ (1,+∞)
+
+Odp.: W przedziale [0,4π]: 5 rozwiązań dla m=0, 4 rozwiązania dla m ∈ (-1,0) ∪ (0,1), 2 rozwiązania dla m ∈ {-1,1}, brak rozwiązań dla m ∈ (-∞,-1) ∪ (1,+∞).
+
+--- STRONA 2 ---
+b) ① Szkicujemy wykres funkcji cosinus.
+
+② Odczytujemy liczbę rozwiązań w przedziale \((- \pi , 3\pi )\) 
+w zależności od wartości m.
+
+4 rozwiązania dla \(m \in (-1,1)\)
+
+2 rozwiązania dla \(m = 1\)
+
+1 rozwiązanie dla \(m = -1\)
+
+Brak rozwiązań dla \(m \in (-\infty, -1) \cup (1, +\infty)\)
+
+Odp.: W przedziale \((- \pi , 3\pi )\) : 4 rozwiązania dla \(m \in (-1,1)\), 2 rozwiązania dla \(m = 1\), 1 rozwiązanie dla \(m = -1\), brak rozwiązań dla \(m \in (-\infty, -1) \cup (1, +\infty)\).

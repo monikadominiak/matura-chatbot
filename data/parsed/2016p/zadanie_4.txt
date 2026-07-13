@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Równość (2*sqrt(2) - a)^2 = 17 - 12*sqrt(2) jest prawdziwa dla
+A. a=3
+B. a=1
+C. a=-2
+D. a=-3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 4. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia na $(a\pm b)^{2}$ oraz $a^{2}-b^{2}$ (2.1).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D

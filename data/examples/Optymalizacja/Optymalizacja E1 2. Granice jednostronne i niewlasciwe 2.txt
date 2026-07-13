@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Oblicz granicę jednostronną \(\lim_{{x \to -3^-}} \frac{{x+3}}{{\sqrt{{x^2-9}}}}\)
+
+1️⃣ podstawiamy -3 do wzoru
+
+\[
+\lim_{{x \to -3^-}} \frac{{x+3}}{{\sqrt{{x^2-9}}}} = \left[ \frac{0}{0} \right] = \frac{{\sqrt{(-3)^2-9}}}{{-3-3}} = \frac{{\sqrt{9-9}}}{{-6}} = \frac{0}{-6} = 0
+\]
+
+2️⃣ usuwamy niewymierności
+
+\[
+\lim_{{x \to -3^-}} \frac{{x+3}}{{\sqrt{{x^2-9}}}} \cdot \frac{{\sqrt{{x^2-9}}}}{{\sqrt{{x^2-9}}}} = \lim_{{x \to -3^-}} \frac{{(x+3)(\sqrt{{x^2-9}})}}{{x^2-9}} =
+\]
+
+\[
+= \lim_{{x \to -3^-}} \frac{{(x+3)(\sqrt{{x^2-9}})}}{{(x+3)(x-3)}} = \lim_{{x \to -3^-}} \frac{{\sqrt{{x^2-9}}}}{{x-3}} =
+\]
+
+\[
+\text{odp: } 0
+\]

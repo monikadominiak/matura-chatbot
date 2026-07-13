@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+\[
+\text{Parami różne punkty } A, B, C, D, E \text{ leżą na okręgu. Odcinki } DE \parallel AC,\\ 
+\text{zaś odcinek } BD \text{ jest średnicą tego okręgu. Wykaż, że prosta } BE \text{ zawiera wysokość }\\ 
+\text{trójkąta } ABC \text{ opuszczoną na bok } AC.
+\]
+
+\[
+1. \quad \text{Dane:}
+\]
+\[
+BD \text{ - średnica } \Rightarrow |\angle BED| = 90^\circ
+\]
+\[
+DE \parallel AC
+\]
+\[
+\text{teza: } BE \text{ - zawiera wysokość } \triangle ABC
+\]
+\[
+\Rightarrow \text{ czyli równoważnie kąt zaznaczony na fioletowo jest prosty}
+\]
+
+\[
+2. \quad |\angle BED| = 90^\circ,
+\]
+\[
+\text{a skoro } AC \parallel DE \text{ to } \angle BED \text{ i } \angle BFA \text{ to kąty } \text{odpowiadające},
+\]
+\[
+\text{zatem równe sobie: } |\angle BFA| = |\angle BED| = 90^\circ
+\]
+\[
+\text{więc prosta } BE \text{ zawiera wysokość } \triangle ABC
+\]
+\[
+\text{c.k.d.}
+\]

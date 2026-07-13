@@ -1,0 +1,63 @@
+
+--- STRONA 1 ---
+Rozważmy wszystkie graniastosłupy prawidłowe trójkątne o objętości V = 16. Wyznacz długość krawędzi tego z rozważanych graniastosłupów, którego pole powierzchni całkowitej jest najmniejsze. Oblicz to najmniejsze pole.
+
+1️⃣ uzależniamy od siebie zmienne
+
+V = 16 = \frac{x^2 \sqrt{3}}{4} \cdot H \cdot 1.4
+
+64 = x^2 \sqrt{3} \cdot H
+
+H = \frac{64}{x^2 \sqrt{3}}
+
+2️⃣ zapisujemy wzór funkcji
+
+P_c = 2 \cdot \frac{x^2 \sqrt{3}}{4} + 3x \cdot H = \frac{x^2 \sqrt{3}}{2} + 3x \cdot \frac{64}{x^2 \sqrt{3}} = \frac{1}{2} x^2 \sqrt{3} + \frac{64 \sqrt{3}}{x} = P_c(x)
+
+3️⃣ wyznaczamy dziedzinę funkcji
+
+\begin{cases} 
+x > 0 \\
+H > 0 \Rightarrow \frac{64}{x^2 \sqrt{3}} > 0 \end{cases} \Rightarrow x \in (0, \infty)
+
+4️⃣ wyznaczamy pochodną funkcji
+
+P_c'(x) = x \sqrt{3} - \frac{64 \sqrt{3}}{x^2}
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+P_c'(x) = 0 \Leftrightarrow x \sqrt{3} - \frac{64 \sqrt{3}}{x^2} = 0\ /\cdot x^2
+
+x^3 \sqrt{3} - 64 \sqrt{3} = 0
+
+x^3 = 64 \Rightarrow x = 4
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+(x) \\
+(+)
+---
+\min
+---
+
+II sposób:
+
+\begin{array}{c|c|c|c}
+x & (0, 4) & 4 & (4, +\infty) \\
+\hline
+P_c'(x) & - & 0 & + \\
+\hline
+P_c(x) & \searrow & \min. loc. & \nearrow \\
+\end{array}
+
+Funkcja P_c(x) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu x=4
+
+7️⃣ obliczamy H i najmniejsze pole
+
+H = \frac{64}{4^2 \sqrt{3}} = \frac{4 \sqrt{3}}{3}
+
+P_c(4) = \frac{1}{2} \cdot 16 \sqrt{3} + \frac{64 \sqrt{3}}{4} = 8 \sqrt{3} + 16 \sqrt{3} = 24 \sqrt{3}
+
+Odp: x = 4, H = \frac{4 \sqrt{3}}{3}, P_c = 24 \sqrt{3}

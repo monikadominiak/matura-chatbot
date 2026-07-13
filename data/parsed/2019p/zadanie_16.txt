@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0-1)
+Dany jest romb o boku długości 4 i kącie rozwartym 150°. Pole tego rombu jest równe A. 8 B. 12 C. 8sqrt(3) D. 16
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

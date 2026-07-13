@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Do zbioru rozwiązań nierówności $(x^{4}+1)(2-x)&gt;0$ nie należy liczba
+A. -3
+B. -1
+C. 1
+D. 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 6. $0-1$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający sprawdza, czy dana liczba rzeczywista jest rozwiązaniem równania lub nierówności (3.1).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: C
+Strona 2 z 24

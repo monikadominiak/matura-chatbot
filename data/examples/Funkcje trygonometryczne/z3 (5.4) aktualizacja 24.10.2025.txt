@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+z3 (5.4)
+
+Rozwiąż równanie na przedziale [0, 2π):
+
+sin(3x) = sin x.
+
+① Rozpisujemy sin(3x).
+
+sin(3x) = sin(x + x + x) = sin2x cosx + cos2x sinx =
+
+= (2sinx cosx)cosx + (cos^2x - sin^2x)sinx =
+
+= 2sinx cos^2x + sinx cos^2x - sin^3x =
+
+= sinx(2cos^2x + cos^2x - sin^2x)=
+
+= sinx(3cos^2x - sin^2x)
+
+cos^2x = 1 - sin^2x.
+
+= sinx(3(1-sin^2x) - sin^2x)=
+
+= sinx(3 - 4sin^2x)=3sinx - 4sin^3x
+
+② Rozwiązujemy równanie.
+
+3sinx - 4sin^3x = sinx
+
+4sin^3x - 2sinx = 0
+
+2sinx(2sin^2x - 1) = 0
+
+sinx = 0		sin^2x = 1/2
+
+sinx = sqrt(2)/2		sinx = -sqrt(2)/2
+
+x = kπ		x = π/4 + 2kπ		x = 3π/4 + 2kπ		x = 5π/4 + 2kπ		x = 7π/4 + 2kπ,		k ∈ ℤ
+
+Dla k=0: x=0, x=π, x=π/4, x=3π/4, x=5π/4, x=7π/4.
+
+Dla k=1: x=π
+
+Odp.: x ∈ {0, π/4, 3π/4, π, 5π/4, 7π/4}.

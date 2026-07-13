@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zad.13 W trójkąt ABC wpisano okrąg. Oblicz długości odcinków, na jakie punkty styczności podzieliły boki trójkąta, wiedząc, że: |AB|=20 cm, |AC|=16 cm, |BC|=32 cm.
+
+1) Tworzymy rysunek poglądowy:
+
+bazując na tw. o odcinkach stycznych, wyznaczamy pary odcinków tej samej długości (promienie poprowadzone pod kątem prostym wyznaczają nam punkty styczności; 
+
+tw. to wynika z tw. Pitagorasa, dorysowana na rysunku przerywaną linią część wysokości, jest także wspólną przeciwprostokątną trójkątów o przyprostokątnych r
+
+2) Tworzymy i rozwiązujemy układ równań:
+
+\[
+\begin{cases} 
+a+b=20 \\
+a+c=16 \\
+b+c=32 
+\end{cases}
+\]
+
+\Rightarrow a=20-b
+
+20-b+c=16 \Rightarrow c=b-4
+
+b+b-4=32
+
+2b=36
+
+b=18 \Rightarrow a=2 \Rightarrow c=14
+
+Odp. |AG|=|AE|=2, |EB|=|FB|=18, |GC|=|CF|=14

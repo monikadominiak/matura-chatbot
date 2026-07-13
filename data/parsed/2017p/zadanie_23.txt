@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 23 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 23. (0-1)
+Dany jest stożek o wysokości 4 i średnicy podstawy 12. Objętość tego stożka jest równa
+A. 576π
+B. 192π
+C. 144π
+D. 48π
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 23. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość stożka (G11.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

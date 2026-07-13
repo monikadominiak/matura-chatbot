@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+z3 (5,2. 5.7)
+
+Rozwiąż równanie:  
+a) 2 sin(3x) cos(7x) = sin(10x),  
+b) 2 cos(5x) cos(3x) = 2 cos^2(4x)
+
+a) ① Korzystamy ze wzoru na iloczyn sinusa i cosinusa.
+
+sin α cos β = 1/2 [sin (α+β) + sin (α−β)].  
+2 sin α cos β = sin (α+β) + sin (α−β).
+
+2 sin (3x) cos(7x) = sin(10x)
+
+sin (3x + 7x) + sin (3x - 7x) = sin(10x)
+
+sin (10x) + sin (-4x) = sin(10x)
+
+sin (10x) - sin (4x) = sin(10x)
+
+sin (4x) = 0
+
+② Rozwiązujemy równanie.
+
+4x = kπ,  k ∈ Z
+
+x = kπ/4
+
+Odp.: x = kπ/4,  k ∈ Z.
+
+b) ① Korzystamy ze wzoru z iloczynu cosinusów.
+
+2 cos α cos β = cos (α+β) + cos (α−β).
+
+2 cos(5x) cos(3x) = 2 cos^2(4x)
+
+cos(5x+3x) + cos(5x-3x) = 2 cos^2(4x)
+
+cos(8x) + cos(2x) = 2 cos^2(4x)
+
+② Korzystamy ze wzoru na podwójny kąt.
+
+2 cos^2 d = 1 + cos(2d),
+
+cos(8x) + cos(2x) = 1 + cos(8x)
+
+cos(2x) = 1
+
+--- STRONA 2 ---
+13. Rozwiązujemy równanie
+
+2x = 2kπ   ,   k ∈ ℤ
+
+x = kπ
+
+Odp.: x = kπ, k ∈ ℤ.

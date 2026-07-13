@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Test wykrywający pewną chorobę jest efektywny w 99% dla osób chorych (tzn. jeśli badany jest chory, to test w 99% potwierdza choroby) i w 98% dla osób zdrowych (tzn. jeśli badany jest zdrowy, to test w 98% wyklucza chorobę). W pewnym regionie średnio 150 na 10 000 osób cierpi na tą chorobę.
+
+a) oblicz prawdopodobieństwo, że test wykonany na losowo wybranej osobie z tego regionu wykaże u niej chorobę.
+b) u losowo badanej osoby z tego regionu test wykazał chorobę. Oblicz prawdopodobieństwo, że w rzeczywistości ta osoba cierpi na tę chorobę.
+
+1️⃣ wprowadzamy oznaczenia i tworzymy "drewko"
+
+```
+            150         9850
+           -----       -----
+           10000      10000
+             CH           Z
+            / \         / \
+           /   \       /   \
+         99/  \1    2/   \   98
+           CH  Z    CH   Z
+```
+
+A - test wykazał, że osoba jest chora
+
+2️⃣ a) liczymy P(A) - prawd. całkowite
+
+P(A) = (150/10000 * 99/100) + (9850/10000 * 2/100) = (14850 + 19700) / 1000000 = 34550 / 1000000
+
+3️⃣ b) B1 - osoba jest chora, P(B1) = 150/10000
+
+P(B1|A) - osoba jest chora pod warunkiem, że test wykazał chorobę
+
+Wzór Bayesa: P(B1|A) = (P(A|B1) * P(B1)) / P(A)
+
+4️⃣ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B1) - określa prawd. że test wykazał chorobę u osoby chorej, czyli P(A|B1) = 99/100
+
+5️⃣ liczymy docelowe P(B1|A)
+
+P(B1|A) = (99/100 * 150/10000) / (34550/1000000) = 14850 / 34550 = 297/691 Odp: 297/691
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B1|A) = P(A ∩ B1) / P(A), P(A) policzyliśmy już w a) 
+
+P(A ∩ B1) -> prawd. że test wykazał chorobę i os. jest chora
+
+P(A ∩ B1) = 150/10000 * 99/100 = 14850/1000000
+
+P(B1|A) = (14850/1000000) / (34550/1000000) = 297/691

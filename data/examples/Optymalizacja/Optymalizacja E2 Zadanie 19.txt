@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+Rozważmy te stożki, w których suma długości wysokości H i tworzącej l jest równa 6 cm. Podaj wymiary stożka, który spełnia powyższe warunki i jego objętość ma największą wartość.
+
+1️⃣ uzależniamy od siebie zmienne
+
+\( H + l = 6 \)
+
+\( l = 6 - H \)
+
+\( r^2 + H^2 = l^2 \)
+
+\( r = \sqrt{l^2 - H^2} = \sqrt{36 - 12H} \)
+
+2️⃣ zapisujemy wzór funkcji
+
+\( V = \frac{1}{3} \pi r^2 H \)
+
+\( V(H) = \frac{1}{3} \pi (36H - 12H^2) \)
+
+3️⃣ wyznaczamy dziedzinę funkcji
+
+\( H > 0, \, l > 0 \Rightarrow 6 - H > 0 \, , \, 36 - 12H > 0 \)
+
+\( H < 6 \quad \quad H < 3 \)
+
+\( \Rightarrow H \in (0,3) \)
+
+4️⃣ analiza funkcji sposób I
+
+\( V(H) \) jest funkcją kwadratową, o ramionach skierowanych w dół, zatem swoją największą wartość przyjmuje w wierzchołku paraboli
+
+\( p = \frac{-b}{2a} = \frac{-36}{-24} = \frac{3}{2} \in D \)
+
+4️⃣c.d.   sposób II   
+wyznaczamy pochodną funkcji
+
+\( V'(H) = \frac{1}{3} \pi (36 - 24H) \)
+
+5️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\( V'(H) = 0 \Leftrightarrow 36 - 24H = 0 \Rightarrow H = \frac{3}{2} \in D \)
+
+6️⃣ badamy monotoniczność i ekstrema funkcji
+
+\[
+\begin{array}{c}
++ & & - \\
+& \frac{3}{2} & \\
+V'(H) & H & \\
+& \vdots & \\
+V(H) & & \text{max} \\
+\end{array}
+\]
+
+Funkcja \( V(H) \) osiąga w swojej dziedzinie wartość  największą, dla argumentu \( H = \frac{3}{2} \)
+
+7️⃣ obliczamy l i r
+
+\( l = 6 - \frac{3}{2} = 4 \frac{1}{2} \)
+
+\( r = \sqrt{36 - 12 \cdot \frac{3}{2}} = \sqrt{18} = 3\sqrt{2} \quad [\text{cm}] \)
+
+\(\text{odp: } H = \frac{3}{2} \text{cm} \, , \, l = 4 \frac{1}{2} \text{cm} \, , \, r = 3 \sqrt{2} \text{cm} \)

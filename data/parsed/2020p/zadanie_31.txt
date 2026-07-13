@@ -1,0 +1,9 @@
+=== ARKUSZ: 2020p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-2)
+Kąt $alpha$ jest ostry i spełnia warunek $frac{2sinalpha+3cosalpha}{cosalpha}=4$. Oblicz tangens kąta $alpha$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

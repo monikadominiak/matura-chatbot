@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa jest kwadrat, a spodek wysokości znajduje się w jednym z wierzchołków tego kwadratu. Wiedząc, że wysokość tego ostrosłupa jest równa jednej z krawędzi podstawy, oblicz:
+
+a) miarę kąta nachylenia ścian bocznych, które nie zawierają wysokości ostrosłupa, do płaszczyzny podstawy,
+
+b) cosinus kąta nachylenia najdłuższej krawędzi bocznej ostrosłupa do krawędzi podstawy.
+
+a) 1) sporządzamy rysunek pomocniczy i zaznaczamy pierwszy kąt
+
+AE ⊥ AD oraz BC ⊥ AD, więc BC ⊥ AE, 
+zatem BC ⊥ BE ⇒ ∠CBE = 90°, 
+
+analogicznie da się wykazać, że ∠CDE = 90° 
+
+(w takim ostrosłupie wszystkie ściany boczne są trójkątami prostokątnymi)
+
+α = β, bo ściany ABS i ADS są przystające. 
+
+ściany CDS i BCS są nachylone do płaszczyzny podstawy pod tym samym kątem
+
+2) zapisujemy tgα
+
+(bo mamy dwie przyprostokątne)
+
+tgα = a/a = 1
+
+α = β = 45° (α, β - kąty ostre)
+
+b) 3) zaznaczamy kąt na rysunku i zapisujemy cosγ
+cosγ = |BC|/|SC| = a/|SC| = ?
+
+4) liczmy długości |SC|, a następnie cosγ
+
+    (a)
+ B ────── C
+ |      /
+ |   /  
+S
+ | 2 a
+(a√2  a√3)
+(a)
+    
+|SC| = a√3 
+(wz. Pitagorasa)
+
+cosγ = a/a√3 = √3/3
+
+Odp: a) 45° b) cosγ = √3/3

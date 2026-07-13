@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Wykazać, że dla dowolnego kąta α, gdzie α ≠ \(\frac{k\pi}{2}\), \(k \in \mathbb{C}\), równanie
+
+\[
+\frac{\cos 5\alpha + \cos 3\alpha}{\sin 2\alpha} = \frac{\cos 4\alpha}{\sin \alpha}
+\]
+
+jest prawdziwe.
+
+**teza:** \(\frac{\cos 5\alpha + \cos 3\alpha}{\sin 2\alpha} = \frac{\cos 4\alpha}{\sin \alpha}\) 
+
+\(\alpha \neq \frac{k\pi}{2}, k \in \mathbb{C}\)
+
+(1) przekształcamy lewą stronę równania
+
+\[
+L = \frac{\cos 5\alpha + \cos 3\alpha}{\sin 2\alpha} = \frac{2 \cdot \cos \frac{5\alpha + 3\alpha}{2} \cdot \cos \frac{5\alpha - 3\alpha}{2}}{\sin 2\alpha} = \frac{2\cos 4\alpha \cdot \cos \alpha}{2\sin \alpha \cos \alpha} = \frac{\cos 4\alpha}{\sin \alpha} = P
+\]
+
+cos α + cos β = 2 cos \(\frac{\alpha + \beta}{2}\) cos \(\frac{\alpha - \beta}{2}\)
+
+sin 2α = 2 sin α cos α
+
+c.k.d.

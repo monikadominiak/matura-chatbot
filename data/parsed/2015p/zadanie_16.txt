@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0-1)
+Miara kąta wpisanego w okrąg jest o 20 stopni mniejsza od miary kąta środkowego opartego na tym samym łuku. Wynika stąd, że miara kąta wpisanego jest równa
+A. 5 stopni
+B. 10 stopni
+C. 20 stopni
+D. 30 stopni
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 16. (0-1)  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 7. Planimetria. Zdający stosuje zależności między kątem środkowym i kątem wpisanym (7.1).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: B

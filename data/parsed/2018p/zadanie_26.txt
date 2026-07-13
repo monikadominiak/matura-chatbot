@@ -1,0 +1,65 @@
+=== ARKUSZ: 2018p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0-2)
+Rozwiąż nierówność: 2x^2 - 3x - 5 = 4 / (a + b)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 26. (0-2)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą (3.5).
+
+Przykładowe rozwiązanie
+Rozwiązanie nierówności kwadratowej składa się z dwóch etapów.
+Pierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego 2x^2 - 3x - 5.
+Drugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej.
+
+Pierwszy etap rozwiązania może zostać zrealizowany następująco:
+zapisujemy nierówność w postaci 2x^2 - 3x - 5 &gt; 0 i obliczamy pierwiastki trójmianu kwadratowego 2x^2 - 3x - 5
+albo
+
+* obliczamy wyróżnik tego trójmianu:
+Delta = 9 - 4 * 2 * (-5) = 49 i stąd x_1 = (3 - 7) / 4 = -1 oraz x_2 = (3 + 7) / 4 = 5/2
+* stosujemy wzory Viète'a:
+x_1 * x_2 = -5/2 oraz x_1 + x_2 = 3/2, stąd x_1 = -1 oraz x_2 = 5/2.
+
+Drugi etap rozwiązania: podajemy zbiór rozwiązań nierówności: (-nieskończoność, -1) suma (5/2, +nieskończoność) lub x należy do (-nieskończoność, -1) suma (5/2, +nieskończoność)
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, np.
+* obliczy lub poda pierwiastki trójmianu kwadratowego x_1 = -1 i x_2 = 5/2 i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności,
+* zaznaczy na wykresie miejsca zerowe funkcji f(x) = 2x^2 - 3x - 5 i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności
+albo
+
+
+* realizując pierwszy etap popełni błędy, ale otrzyma nierówność, w której po jednej stronie występuje pełny trójmian kwadratowy posiadający dwa różne pierwiastki i konsekwentnie do popełnionych błędów wyznaczy zbiór rozwiązań nierówności.
+
+Zdający otrzymuje 2 p. gdy:
+
+* poda zbiór rozwiązań nierówności: (-nieskończoność, -1) suma (5/2, +nieskończoność) lub x należy do (-nieskończoność, -1) suma (5/2, +nieskończoność), lub x  5/2
+
+Strona 6 z 25
+
+---
+
+albo
+
+* poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów
+-1
+5/2
+X
+
+Uwagi
+
+1. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy obliczony wyróżnik Delta jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+3. Akceptujemy zapisanie odpowiedzi w postaci: x  5/2, x  5/2, itp.
+4. Jeżeli zdający poprawnie obliczy pierwiastki trójmianu x_1 = -1, x_2 = 5/2 i błędnie zapisze odpowiedź, np. x należy do (-nieskończoność, 1) suma (5/2, +nieskończoność), popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to otrzymuje 2 punkty.
+5. Jeżeli zdający po poprawnym rozwiązaniu nierówności zapisuje w odpowiedzi, jako zbiór rozwiązań, zbiór, zawierający elementy nienależące do zbioru (-nieskończoność, -1) suma (5/2, +nieskończoność) lub zbiór pusty, to otrzymuje 1 punkt.
+Zapisanie w miejscu przeznaczonym na odpowiedź pierwiastków trójmianu kwadratowego nie jest traktowane jak opis zbioru rozwiązań.
+
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci (-nieskończoność, 5/2) suma (-1, +nieskończoność), (+nieskończoność, 5/2) suma (-1, -nieskończoność), to przyznajemy 2 punkty.

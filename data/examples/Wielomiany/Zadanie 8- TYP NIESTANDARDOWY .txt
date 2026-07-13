@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Zadanie 8 [4pkt] - TYP NIESTANDARDOWY
+
+Wielomiany Q(x) i P(x) określone są wzorami:
+
+Q(x)=x^4−8x^3+22x^2−24x+9, P(x)=2x^3−9x^2+7x+6.
+
+Dla jakich wartości m i n wielomian
+
+W(x)=x^4+(m−4)x^3−(2n+6)x^2−38x−3 jest równy wielomianowi Q(x)−2P(x)?
+
+1️⃣ Wyznaczenie Q(x)−2P(x)
+
+Q(x)−2P(x) = x^4−8x^3+22x^2−24x+9−
+
+−2(2x^3−9x^2+7x+6) = x^4−8x^3+22x^2−
+
+−24x+9−4x^3+18x^2−14x−12 =
+
+= x^4−12x^3+40x^2−38x−3
+
+✏️ m−4=−12
+m=−8
+
+✏️ −(2n+6)=40
+−2n−6=40
+−2n=46 |:(−2)
+n=−23
+
+Odp. m=−8, n=−23.
+
+2️⃣ Wyznaczenie m i n
+
+Dwa wielomiany jednej zmiennej są sobie równe wtedy i tylko wtedy, gdy są to wielomiany tego samego stopnia, posiadające jednakowe współczynniki przy odpowiednich potęgach zmiennej x lub są to wielomiany zerowe.
+
+W(x) = Q(x)−2P(x)
+
+x^4+(m−4)x^3−(2n+6)x^2−38x−3 = x^4−12x^3+40x^2−38x−3

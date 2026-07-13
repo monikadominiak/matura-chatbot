@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Funkcja f określona jest wzorem f(x) = \(\frac{x^3}{x+1}\), dla x ≠ -1. Prosta o równaniu x = -2 przecina wykres funkcji f w punkcie P. Znajdź równanie stycznej do wykresu funkcji f w punkcie P.
+
+f(x) = \(\frac{x^3}{x+1}\) , x ≠ -1 prosta x = -2
+
+P - punkt przecięcia P(-2, f(-2))
+
+① wyznaczamy punkt P
+
+f(-2) = \(\frac{-8}{-2+1} = \frac{-8}{-1}\) = 8 ⇒ P(-2, 8)
+
+② wyznaczamy pochodną funkcji f
+
+\(\left[\frac{f(x)}{g(x)}\right]' = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2}\)
+
+f'(x) = \(\frac{3x^2(x+1) - 1 \cdot x^3}{(x+1)^2} = \frac{3x^3 + 3x^2 - x^3}{(x+1)^2} = \frac{2x^3 + 3x^2}{(x+1)^2}\)
+
+③ liczymy brakujące f'(x_0)
+
+f'(-2) = \(\frac{2 \cdot (-2)^3 + 3 \cdot (-2)^2}{(-2+1)^2} = \frac{-16 + 12}{1} = -4\)
+
+④ zapisujemy równanie stycznej
+
+y = -4(x+2) + 8 = -4x - 8 + 8 = -4x
+
+odp: y = -4x

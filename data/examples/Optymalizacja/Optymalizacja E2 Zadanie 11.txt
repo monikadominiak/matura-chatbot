@@ -1,0 +1,56 @@
+
+--- STRONA 1 ---
+Oblicz najmniejszą i największą wartość funkcji \( f \) w podanym obok przedziale, gdy:
+
+\( f(x) = \frac{x}{x^2+1}, \, \langle -2, 2 \rangle \).
+
+\( f(x) = \frac{x}{x^2+1} \quad \mathbb{D}_f = \mathbb{R} \quad \text{w przedziale} \, \langle -2, 2 \rangle \)
+
+przedział obustronnie domknięty
+
+1️⃣ wyznaczamy pochodną
+
+\( f'(x) = \frac{x^2+1 - 2x^2}{(x^2+1)^2} = \frac{1-x^2}{(x^2+1)^2} = \frac{(1-x)(1+x)}{(x^2+1)^2} \)
+
+2️⃣ wyznaczamy miejsca zerowe pochodnej
+
+\( f'(x) = 0 \iff (1-x)(1+x) = 0 \)
+
+\( x = 1 \lor x = -1 \)
+
+3️⃣ badamy monotoniczność i ekstrema funkcji
+
+\[
+\begin{array}{c}
+\text{ rysunek: wykres zmian funkcji z oznaczeniem ekstremum lokalnego w } x = -1 \text{ (minimum lokalne) i } x = 1 \text{ (maksimum lokalne)}
+\end{array}
+\]
+
+4️⃣ liczymy wartości ekstremów
+
+\[
+\begin{array}{l}
+f_{min} = f(-1) = \frac{-1}{1+1} = -\frac{1}{2} \\
+f_{max} = f(1) = \frac{1}{2}
+\end{array}
+\]
+
+5️⃣ liczymy wartości na krańcach przedziałów
+
+\[
+\left\{
+\begin{array}{l}
+f(-2) = \frac{-2}{4+1} = -\frac{2}{5} \\
+f(2) = \frac{2}{5}
+\end{array}
+\right.
+\quad 
+\left\{
+\begin{array}{l}
+f_{min} = -\frac{1}{2} \\
+f_{max} = \frac{1}{2}
+\end{array}
+\right.
+\]
+
+odp: w badanym przedziale najmniejsza wartość jest równa \(-\frac{1}{2}\), a największa równa \(\frac{1}{2}\)

@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+z2 (6.12)
+
+Określamy kwadraty K_1, K_2, K_3, ... następująco:
+- K_1 ma bok długości a.
+- K_2 jest kwadratem, którego każdy wierzchołek leży na innym boku kwadratu K_1 i dzieli ten bok w stosunku 1 : 4 (bliższy koniec : dalszy koniec)
+- Dla n ≥ 2, K_{n+1} powstaje analogicznie z K_n-1: każdy jego wierzchołek leży na innym boku K_{n-1} i dzieli ten bok w stosunku 1 : 4.
+
+Obwody tych kwadratów tworzą nieskończony ciąg geometryczny. Oblicz sumę obwodów wszystkich kwadratów.
+
+1️⃣ Rysujemy rysunek pomocniczy.
+
+2️⃣ Zapisujemy kolejne obwody.
+
+x^2 = (\frac{1}{5}a)^2 + (\frac{4}{5}a)^2
+
+x^2 = \frac{17}{25}a^2
+
+x = \frac{\sqrt{17}}{5}a
+
+Zatem a_1 = a , a_2 = \frac{\sqrt{17}}{5}a .
+
+3️⃣ Zapisujemy kolejne obwody.
+
+Obw_1 = 4 \cdot a = 4a
+
+Obw_2 = 4 \cdot \frac{\sqrt{17}}{5}a = \frac{4\sqrt{17}}{5}a
+
+4️⃣ Obliczamy q.
+
+q = \frac{Obw_2}{Obw_1} = \frac{\frac{4\sqrt{17}}{5}a}{4a} = \frac{\sqrt{17}}{5}
+
+5️⃣ Obliczamy sumę obwodów.
+
+S = \frac{Obw_1}{1-q} = \frac{4a}{1-\frac{\sqrt{17}}{5}} = \frac{4a}{\frac{5-\sqrt{17}}{5}} = \frac{20a}{5-\sqrt{17}} \cdot \frac{5+\sqrt{17}}{5+\sqrt{17}} = \frac{20a(5+\sqrt{17})}{8}
+
+Odp: Suma wszystkich obwodów to S = \frac{20a(5+\sqrt{17})}{8} .

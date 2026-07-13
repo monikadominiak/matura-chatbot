@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0-1)
+Liczba log_sqrt(2) (2*sqrt(2)) jest równa
+A. 3/2
+B. 2
+C. 5/2
+D. 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 2. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A

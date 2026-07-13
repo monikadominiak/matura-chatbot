@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Hania i Marcin są w grupie składającej się z sześciu dziewcząt i pięciu chłopców. Wszystkie dzieci ustawiły się w sposób losowy w kolejce. Oblicz prawdopodobieństwo zdarzenia A - żadne dwie dziewczynki nie stały obok siebie.
+
+① analizujemy polecenie
+
+grupa: 6D i 5CH ⇒ 11 osób
+
+A - żadne dwie dziewczynki nie stały obok siebie
+
+② liczymy moc Ω
+
+$$\overline{\Omega} = 11!$$ → permutacja
+
+③ liczymy moc A
+
+6 * 5 * 5 * 4 * 4 * 3 * 3 * 2 * 2 * 1 * 1
+
+wybieramy 1 z 6 dziewczynek 
+wybieramy 1 z 5 chłopców
+wybieramy jedną z 6,5,... dziewczynek 
+i jednego z 5,4,... chłopców
+
+$$\overline{A} = 6! \cdot 5!$$
+
+④ liczymy prawdopodobieństwo zdarzenia A
+
+$$P(A) = \frac{6! \cdot 5!}{11!} = \frac{1\cdot 2\cdot 3\cdot 4\cdot 5}{7\cdot 8\cdot 9\cdot 10 \cdot 11} = \frac{1}{462}$$
+
+Odp: $$\frac{1}{462}$$

@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+```markdown
+Zad.14 Rozwiąż nierówność |3x^3 + x| > x^4 + 3.
+
+1) Określamy punkty krytyczne i wyznaczamy przypadki:
+
+|3x^3+x| = |x (3x^2+1)|
+
+siatka znaków:
+
+x |--------|+++++++++++++++++
+   -1       0
+
+1^o x ∈ (-∞,0)
+
+2^o x ∈ (0,+∞)
+
+3x^2+1 jest liczbą zawsze dodatnią,
+więc znak zależy jedynie od x.
+
+2) Rozwiązujemy wyznaczone przypadki:
+
+1^o x ∈ (-∞,0>:
+
+-(3x^3+x) - x^4 - 3 > 0
+
+x^4 + 3x^3 + x + 3 < 0
+
+x^2 (x+1)^4 (x+3) < 0
+
+(x+3)(x+1)^4 < 0
+
+(x+3)(x+1)(x-1)^4 < 0
+
+x ∈ (-3,-1) ∧ x ∈ (-∞,0)
+
+⟹ x ∈ (-3,-1)
+
+2^o x ∈ <0,+∞)
+
+3x^3+x-x^4-3 > 0
+
+x^4 - 3x^3 - x + 3 < 0
+
+x^3 (x-3)-(x-3) < 0
+
+(x-3)(x-1)^4 < 0
+
+(x-3)(x-1)(x+1)^4 < 0
+
+x ∈ (1,3) ∧ x ∈ <0,+∞)
+
+⟹ x ∈ (1,3)
+
+∨
+
+⟹ x ∈ <-3,-1) ∨ (1,3)
+
+Odp. x ∈ <-3,-1) ∨ (1,3).
+```

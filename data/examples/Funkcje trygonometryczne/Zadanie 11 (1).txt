@@ -1,0 +1,69 @@
+
+--- STRONA 1 ---
+Zadanie 11  
+Rozwiąż równanie 3 sin^3 x - cos^3 x = sin x cos^2 x - 3 sin^2 x cos x.
+
+① Przenosimy wszystko na jedną stronę.  
+3 sin^3 x - cos^3 x - sin x cos^2 x + 3 sin^2 x cos x = 0
+
+② Sprawdzamy równanie dla cosx = 0.  
+Będziemy dzielić przez cosx i sprawdzamy osobny przypadek dla cosx = 0.  
+3 sin^3 x - 0 - 0 + 0 = 0  
+sin x = 0  
+x = kπ,  k ∈ ℤ
+
+③ Dzielimy przez cos^3 x, by uzyskać tgx.  
+3 sin^3 x - cos^3 x - sin x cos^2 x + 3 sin^2 x cos x = 0  /: cos^3 x  
+3 tg^3 x - 1 - tgx + 3 tg^2 x = 0
+
+④ Stosujemy metodę grupowania.  
+3 tg^2 x (tgx + 1) - (tgx + 1) = 0  
+(tgx + 1)(3 tg^2 x - 1) = 0
+
+⑤ Rozwiązujemy równania.  
+tgx + 1 = 0  
+tgx = -1  
+x = -π/4 + kπ  
+
+3 tg^2 x - 1 = 0  
+tg^2 x = 1/3  
+tgx = sqrt{1/3}  v  tgx = -sqrt{1/3}  
+x = π/6 + kπ  v  x = -π/6 + kπ  
+
+Odp.: x = -π/4 + kπ,  x = π/6 + kπ,  x = -π/6 + kπ,  k ∈ ℤ.
+
+--- STRONA 2 ---
+II sposób
+
+Metoda grupowania.
+
+① Przenosimy wszystko na jedną stronę.
+
+3sin^3x - cos^3x - sinxcos^2x + 3sin^2xcosx = 0
+
+② Stosujemy metodę grupowania.
+
+3sin^3x + 3sin^2xcosx - cos^3x - sinxcos^2x = 0
+
+3sin^2x(sinx + cosx) - cos^2x(cosx + sinx) = 0
+
+(sinx + cosx)(3sin^2x - cos^2x) = 0
+
+sinx = -cosx
+
+3(1-cos^2x) - cos^2x = 0
+
+3 - 4cos^2x = 0
+
+cos^2x = 3/4
+
+cosx = sqrt(3)/2 ∨ cosx = -sqrt(3)/2
+
+x = π/6 + 2kπ x = 5π/6 + 2kπ
+
+x = -π/6 + 2kπ x = -5π/6 + 2kπ
+
+Można zapisać jako
+x = π/6 + kπ, x = -π/6 + kπ.
+
+Odp.: x = -π/4 + kπ, x = π/6 + kπ, x = -π/6 + kπ, k ∈ ℤ.

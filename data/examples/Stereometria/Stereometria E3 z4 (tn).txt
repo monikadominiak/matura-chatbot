@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Krawędź sześcianu ABCDFGH ma długość a. Na krawędziach AB i BC wybrano takie punkty X i Y, że |BX| = |BY| = \(\frac{3}{4}\)a. Przekrój tego sześcianu płaszczyzną XYH jest pięciokątem HWXYZ (rysunek niżej). Oblicz obwód tego pięciokąta. 
+
+1️⃣ wprowadzamy oznaczenia na rysunku
+
+|BX| = |BY| = \(\frac{3}{4}\)a ⇒ |AX| = |CY| = \(\frac{1}{4}\)a
+
+|WX| = |ZY| i |WH| = |ZH|
+
+a |XY| = \(\frac{3}{4}\)a√2 \((2\ \overset{\frown}{\small\angle}\ 45^\circ,45^\circ,90^\circ)\)
+
+2️⃣ przedłużamy kilka odcinków wyznaczających przekrój tak, aby utworzyły się nam trójkąty (podobne) 
+
+∆XBY ~ ∆XAA₁ z cechy kkk
+
+więc: |AA₁| = \(\frac{1}{4}\)a i |EH| = a, więc skala k = 4
+
+⇒ |AW| = \(\frac{1}{5}\)a i |WE| = \(\frac{4}{5}\)a
+
+∆AA₁W ~ ∆WEH
+
+3️⃣ pozostało skorzystać z tw. Pitagorasa 
+
+w ∆NAX
+
+\(|NX|^2 = \frac{a^2}{25} + \frac{a^2}{16} = \frac{41a^2}{400}\)
+
+|NX| = \(\frac{\sqrt{41}}{20}\)a = |ZY|
+
+w ∆WEH
+
+|WH|² = a² + \(\frac{16}{25}\)a² = \(\frac{41a^2}{25}\)
+
+|WH| = \(\frac{\sqrt{41}}{5}\)a = |ZH|
+
+4️⃣ liczymy obwód przekroju 
+
+Odp: \(\frac{3}{4}\)a√2 + 2 \(\cdot\) \(\frac{\sqrt{41}}{20}\)a + 2 \(\cdot\) \(\frac{\sqrt{41}}{5}\)a = \(\frac{3}{4}\)a√2a + \(\frac{1}{2}\)√41a
+
+Odp: \(\frac{3}{4}\)√2a + \(\frac{1}{2}\)√41a

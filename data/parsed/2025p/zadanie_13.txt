@@ -1,0 +1,22 @@
+=== ARKUSZ: 2025p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0–1)
+Funkcja liniowa f jest określona wzorem f(x) = (3 − m)x − 4.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Funkcja f nie ma miejsca zerowego dla m równego
+
+A. (−3)
+B. 0
+C. 3
+D. 4
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

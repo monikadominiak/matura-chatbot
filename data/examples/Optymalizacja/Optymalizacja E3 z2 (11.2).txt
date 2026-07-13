@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Oblicz granicę lim x/(x^2-4x+3)
+x→1^+
+
+① licząc granicę w punkcie podstawiamy ten punkt do wzoru
+
+lim x/(x^2-4x+3) = 1/(1^2-4⋅1+3) = 1/0?
+x→1^+
+
+② rozkładamy mianownik na czynniki, aby określić jaki znak będzie miał mianownik
+
+x^2-4x+3 = 0
+
+Δ = 16-12 = 4, √Δ = 2
+
+x_1 = (4-2)/2 = 1  x_2 = (4+2)/2 = 3
+
+⇒ x^2-4x+3=(x-1)(x-3)
+
+③ liczymy granicę
+
+lim x/((x-3)(x-1)) = 1/(-2⋅0^+) = 1/-2 ⋅ 1/0^+ = -1/2 ⋅ ∞ = -∞
+x→1^+
+
+odp: -∞

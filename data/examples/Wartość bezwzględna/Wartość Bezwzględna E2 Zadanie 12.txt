@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Zad.12 Dla jakich wartości parametru m równanie x^2 + 2(m - 3)|x| + m^2 - 1 = 0 ma trzy różne rozwiązania? Dla znalezionej wartości parametru m podaj rozwiązania tego równania.
+
+1) Podstawmy zmienną pomocniczą t za |x| i sprowadźmy równanie do kwadratowego:
+
+x^2 = (|x|)^2 => t^2 + 2(m-3)|t| + m^2 - 1 = 0
+
+Niech:
+|x| = t, a więc t >= 0
+
+Wówczas:
+t^2 + 2(m-3)t + m^2 - 1 = 0
+
+2) Określamy warunki istnienia 3 rozwiązań:
+
+⎧ Δ > 0                =>  dostrzymanie z zmowy t1, t2
+⎪ t1, t2 >= 0       => jedno z nich będzie dodatnie i da nam 2 rozwiązania
+⎪ t1, t2 < 0        =>  |(t1<0 => x^2 =t1^2 <0.| A drugie będzie rózne zero i da nam ostatnie, 3 rozwiązanie x3.
+⎩ (|x1|<1. =>  x >0.)
+
+3) Określamy dla jakich m warunki są spełnione:
+
+Δ > 0.
+
+4(m-3)^2-(4m^2-4)>0
+=> 4m^2-24m+36-4m^2+4>0
+-20m+40<0
+2m<4o
+m<3
+
+⎧  m < 3
+⎪ m = 4 / m = -1
+⎩ ( m <  4/5  =>) => m∈ <-1,4)
+
+4) Podstawiamy nasze m do równania i wyznaczamy szukane x:
+
+m=1:
+
+t^2-4t+0
+t(t-4)=0
+t=0 v t=4
+|x|=0 v |x|<4
+x=0 v x=-4 v x=4
+
+m=-1:
+
+t^2-8t+0
+t(t-8)=0
+t=0 v t=8
+k|x|=0 v |x|=8  
+x=0 v x=8 v x=-8
+
+Odp. m=-1 x∈ {-8,0,8}; m=1 x∈ {-4,0,4}.

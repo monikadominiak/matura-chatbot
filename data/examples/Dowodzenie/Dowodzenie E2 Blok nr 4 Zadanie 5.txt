@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Odcinek CD jest wysokością trójkąta równoramiennego ABC, w którym |AB| = |BC|. Punkt L jest rzutem punktu K wysokości CD na bok BC (patrz rysunek). Udowodnij, że |∠CAK| = |∠KDL|.
+
+|AB| = |BC|  
+teza: |∠CAK| = |∠KDL|  
+α = β  
+
+① zaznaczamy szukane kąty  
+
+② rysujemy kąt α, ale w drugiej połówce ΔABC  
+|∠CAK| = |∠KBL|  
+
+③ w 4-kącie KDBL mamy dwa kąty proste leżące naprzeciwko  
+zatem: |∠KLB| + |∠KDB| = 180° => na tym 4-kącie da się opisać okrąg,  
+a jeśli tak to kąt α (∠KBL) i kąt β są kątami opartymi na tym samym łuku (KL), a więc α = β  
+
+c.k.d.

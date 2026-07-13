@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Do wykresu funkcji f określonej wzorem \( f(x)=\frac{1}{3}x^3+x^2+px+q \) należy punkt \( P=(-1,-\frac{2}{3}) \). Styczna do wykresu tej funkcji w punkcie P jest nachylona do osi OX pod kątem \( 135^\circ \).
+
+a) Oblicz współczynniki \( p \) i \( q \).  
+b) Rozwiąż nierówność \( f(x) \geq 0 \).
+
+\[ f(x)=\frac{1}{3}x^3+x^2+px+q \quad P(-1,-\frac{2}{3}) \]
+
+a) ① uzależniamy od siebie \( p \) i \( q \)  
+wykonując punkt P
+
+\[ f(-1)=-\frac{2}{3} \]
+
+\[-\frac{2}{3}=\frac{1}{3}\cdot(-1)^3+(-1)^2-1\cdot p+q \]
+
+\[-\frac{2}{3}=-\frac{1}{3}+1-p+q \]
+
+\[ q=p-\frac{4}{3} \]
+
+② wyznaczamy pochodną
+
+\[ f'(x)=x^2+2x+p \]
+
+③ wyznaczamy \( p \) i \( q \)  
+wiemy, iż \( f'(x_0)=a \) oraz \( a=\tan\delta \)  
+\(\delta\) - kąt nachylenia do OX
+
+więc \( f'(-1)=\tan135^\circ=\tan(180^\circ-45^\circ)=-\tan45^\circ=-1 \)
+
+czyli \( 1-2+p=-1 \Rightarrow  
+\begin{cases} 
+p=0 \\ 
+q=-\frac{4}{3} 
+\end{cases} \)
+
+b) ④ podstawiamy \( p \) i \( q \) do wzoru na \( f \) i rozwiązujemy nierówność \( f(x) \geq 0 \)
+
+\[ \frac{1}{3}x^3+x^2-\frac{4}{3} \geq 0 | \cdot 3 \]
+
+\[ x^3+3x^2-4 \geq 0 \]
+
+\[ f(1)=1+3-4=0 \]
+
+\[
+\begin{array}{c|cccc}
+ & 1 & 3 & 0 & -4 \\
+\hline
+1 & 1 & 3 & 4 & 0 \\
+\end{array}
+\]
+
+\[ f(x)=(x-1)(x^2+4x+4) \geq 0 \]
+
+\[ (x-1)(x+2)^2 \geq 0 \]
+
+\[ x \in \{-2\} \cup \langle 1,+\infty) \]
+
+odp: a) \( p=0, q=-\frac{4}{3} \), b) \( x \in \{-2\} \cup \langle 1,+\infty) \)

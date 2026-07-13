@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0-1)
+Dany jest trzywyrazowy ciąg geometryczny $(24,6,a-1)$. Stąd wynika, że
+A. $a=frac{5}{2}$
+B. $a=frac{2}{5}$
+C. $a=frac{3}{2}$
+D. $a=frac{2}{3}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 13. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego (5.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Strona 3 z 24

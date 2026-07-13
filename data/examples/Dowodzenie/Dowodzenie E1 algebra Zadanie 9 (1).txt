@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Wykaż, że liczba \(3^{2018} + 3^{2019} + 3^{2020} + 3^{2021}\) jest podzielna przez 360.
+
+\(3^{2018} + 3^{2019} + 3^{2020} + 3^{2021}\) podzielna przez 360?
+
+① korzystając z własności potęg wyłączamy przed nawias największy wspólny składnik sumy
+
+\[ a^r \cdot a^s = a^{r+s} \]
+
+\(3^{2018} + 3^{2019} + 3^{2020} + 3^{2021} =\)
+
+\(= 3^{2018} \left(1 + 3^1 + 3^2 + 3^3\right) =\)
+
+\(= 3^{2018} (1 + 3 + 9 + 27) = 3^{2018} \cdot 40 =\)
+
+\(= 3^{2016} \cdot 3^2 \cdot 40 = 3^{2016} \cdot 9 \cdot 40 = 360 \cdot 3^{2016}\)
+
+\((360=40 \cdot 9)\)
+
+② komentarz: liczbę \(3^{2018} \cdot 3^{2019} \cdot 3^{2020} \cdot 3^{2021}\) da się zapisać jako iloczyn 360 i \(3^{2016} \in \mathbb{Z}\), zatem liczba ta jest podzielna przez 360
+
+c.k.d.

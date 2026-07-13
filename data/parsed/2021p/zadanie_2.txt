@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0-1)
+Liczba 78 stanowi 150% liczby c. Wtedy liczba c jest równa
+A. 60
+B. 52
+C. 48
+D. 39
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

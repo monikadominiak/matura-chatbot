@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zad.2 Punkt A' położony jest symetrycznie do punktu A względem początku układu współrzędnych. Oblicz długość odcinka AA', jeśli A = (-6,-8).
+
+1) Wyznaczamy współrzędne punktu A':
+
+\( A = (-6,-8) \)
+
+\( A' = (-x_A, -y_A) \)
+
+\( A' = (6,8) \)
+
+2) Obliczamy długość odcinka AA':
+
+\( A (-6,-8) \quad A' (6,8) \)
+
+\( |AA'|^2 = (-6-6)^2 + (-8-8)^2 \)
+
+\( |AA'|^2 = 144 + 256 \)
+
+\( |AA'|^2 = 400 \)
+
+\( |AA'| = 20 \)
+
+Odp. \( |AA'| = 20 \).

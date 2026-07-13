@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+Zad.3 Rozwiąż równanie.  
+a) |2 - 3x| = 5 + x  
+b) |x| - x = -10  
+c) 3x - 7 - |x + 7| = 0  
+
+1) Rozbijamy równanie na dwa przypadki:
+
+a) |2 - 3x| = 5 + x  
+|2 - 3x| = 
+\[
+\begin{cases} 
+2 - 3x \quad \text{dla} \quad 2 - 3x \geq 0 \quad \rightarrow \quad x \leq \frac{2}{3} \\
+-2 + 3x \quad \text{dla} \quad 2 - 3x < 0 \quad \rightarrow \quad x > \frac{2}{3} 
+\end{cases}
+\]
+
+1° \quad x \leq \frac{2}{3} \quad \vee \quad 2° \quad x > \frac{2}{3}  
+
+2 - 3x = 5 + x \quad \quad -2 + 3x = 5 + x
+
+-4x = 3  \quad \quad \quad \quad \quad 2x = 7
+
+\[
+cz.\ wspólna: 
+\]
+x = -\frac{3}{4} \quad \quad \vee \quad x = \frac{7}{2}
+
+Odp. a) x = -\frac{3}{4} \quad lub \quad x = \frac{7}{2}.
+
+b) |x| - x = -10
+
+\[
+|x| =
+\begin{cases}
+x \quad \text{dla} \quad x \geq 0 \\
+-x \quad \text{dla} \quad x < 0 
+\end{cases}
+\]
+
+1° \quad x \geq 0 \quad \vee \quad 2° \quad x < 0  
+
+x - x = -10 \quad \quad \quad \quad -x - x = -10
+
+0 = -10  \quad \quad \quad \quad \quad -2x = -10
+
+\[
+cz.\ wspólna: 
+\]
+ \quad \quad \vee \quad \quad x = 5
+
+Odp. b) Brak rozwiązań.
+
+c) 3x - 7 - |x + 7| = 0  
+\[
+|x + 7| =
+\begin{cases}
+x+7 \quad \text{dla} \quad x+7 \geq 0 \quad \rightarrow \quad x \geq -7 \\
+-x-7 \quad \text{dla} \quad x+7 < 0 \quad \rightarrow \quad x < -7 
+\end{cases}
+\]
+
+1° \quad x \geq -7 \quad \vee \quad 2° \quad x < -7  
+
+3x - 7 - (x + 7) = 0 \quad \quad 3x - 7 - (-x - 7) = 0 
+
+2x - 14 = 0 \quad \quad \quad \quad 3x - 7 + x + 7 = 0 
+
+2x = 14 \ : \ 2 \quad \quad \quad \quad \quad 4x = 0
+
+\[
+cz.\ wspólna: 
+\]
+x = 7 \quad \quad \vee \quad x = 0
+
+Odp. c) x = 7.

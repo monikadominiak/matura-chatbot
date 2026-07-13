@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Wykaż, że dla dowolnych liczb rzeczywistych \(x, y\) zachodzi nierówność:
+
+\[ x^2 + \frac{2}{3} xy + \frac{13}{36} y^2 \geq y - 1. \]
+
+założenie: \( x, y \in \mathbb{R} \)
+
+teza: \( x^2 + \frac{2}{3} xy + \frac{13}{36} y^2 \geq y - 1 \)
+
+🔄 przekształcamy równoważnie tezę:
+
+I sposób
+
+\[ x^2 + \frac{2}{3} xy + \frac{13}{36} y^2 \geq y - 1 \, / \cdot 36 \]
+
+\[ 36x^2 + 24xy + 13y^2 - 36y + 36 \geq 0 \]
+
+traktujemy nasze wyrażenie jako funkcję kwadratową zmiennej \(x\)
+
+\[ \Delta \leq 0 \]
+
+\[ 576y^2 - 1872y^2 + 5184y - 5184 \leq 0 \]
+
+\[ -1296y^2 + 5184y - 5184 \leq 0 \, / : (-1296) \]
+
+\[ y^2 - 4y + 4 \geq 0 \]
+
+\[ (y - 2)^2 \geq 0 \]
+
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, c.k.d.
+
+II sposób
+
+\[ x^2 + \frac{2}{3}xy + \frac{13}{36}y^2 \geq y - 1 \]
+
+\[ (x + \frac{1}{3}y)^2 + \frac{8}{36}y^2 - y + 1 \geq 0 \]
+
+\[ (x + \frac{1}{3}y)^2_{ \geq 0} + (\frac{1}{2}y - 1)^2_{ \geq 0} \geq 0 \]
+
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, suma dwóch liczb nieujemnych jest również nieujemna
+
+c.k.d.

@@ -1,0 +1,15 @@
+=== ARKUSZ: 2021p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0-1)
+Z wierzchołków sześcianu ABCDEFGH losujemy jednocześnie dwa różne wierzchołki.
+Prawdopodobieństwo tego, że wierzchołki te będą końcami przekątnej sześcianu
+ABCDEFGH, jest równe
+A. $frac{1}{7}$
+B. $frac{4}{7}$
+C. $frac{1}{14}$
+D. $frac{3}{7}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

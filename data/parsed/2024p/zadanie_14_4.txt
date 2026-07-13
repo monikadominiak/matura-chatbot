@@ -1,0 +1,30 @@
+=== ARKUSZ: 2024p | ZADANIE 14.4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14.4. (0–2)
+Funkcje kwadratowe g oraz h są określone za pomocą funkcji f (zobacz rysunek na stronie 13) następująco: g(x) = f(x + 3), h(x) = f(−x).
+Na rysunkach A–F przedstawiono, w kartezjańskim układzie współrzędnych (x, y), fragmenty wykresów różnych funkcji – w tym fragment wykresu funkcji g oraz fragment wykresu funkcji h.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij tabelę. Każdej z funkcji g oraz h przyporządkuj fragment jej wykresu. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną spośród oznaczonych literami A–F.
+
+Fragment wykresu funkcji y = g(x) przedstawiono na rysunku __________
+Fragment wykresu funkcji y = h(x) przedstawiono na rysunku __________
+
+A.
+B.
+C.
+D.
+E.
+F.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

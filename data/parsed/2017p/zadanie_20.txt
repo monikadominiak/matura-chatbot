@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0-1)
+Dany jest okrąg o środku S=(2, 3) i promieniu r=5. Który z podanych punktów leży na tym okręgu?
+A. A=(-1, 7)
+B. B=(-2, 3)
+C. C=(3, 2)
+D. D=(5, 3)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 20. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający oblicza odległość dwóch punktów (8.6).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: C
+Strona 4 z 24

@@ -1,0 +1,510 @@
+Matura podstawowa 2024 - arkusz oraz klucz odpowiedzi:
+
+
+Transkrypcja treści zadań z arkusza:
+Egzamin maturalny Formuła 2023
+MATEMATYKA
+Poziom podstawowy
+Symbol arkusza: MMAP-P0-100-2405
+DATA: 8 maja 2024 r.
+
+
+Zadanie 1. (0–1)
+Dana jest nierówność
+
+|x − 1| ≥ 3
+
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb rzeczywistych spełniających powyższą nierówność? Wybierz właściwą odpowiedź spośród podanych.
+
+A.
+B.
+C.
+D.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+
+Zadanie 2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba
+
+(1/16)^8 · 8^16
+
+jest równa
+
+A. 2^24
+B. 2^16
+C. 2^12
+D. 2^8
+
+
+Zadanie 3. (0–2)
+Wykaż, że dla każdej liczby naturalnej n ≥ 1 liczba
+
+n^2 + (n + 1)^2 + (n + 2)^2
+
+przy dzieleniu przez 3 daje resztę 2.
+
+
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba log_(√3) 9 jest równa
+
+A. 2
+B. 3
+C. 4
+D. 9
+
+
+Zadanie 5. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Dla każdej liczby rzeczywistej a i dla każdej liczby rzeczywistej b wartość wyrażenia
+
+(2a + b)^2 − (2a − b)^2
+
+jest równa wartości wyrażenia
+
+A. 8a^2
+B. 8ab
+C. −8ab
+D. 2b^2
+
+
+Zadanie 6. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Zbiorem wszystkich rozwiązań nierówności
+
+1 − (3/2)x &lt; 2/3 − x
+
+jest przedział
+
+A. (−∞, −2/3)
+B. (−∞, 2/3)
+C. (−2/3, +∞)
+D. (2/3, +∞)
+
+
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Równanie
+
+(x + 1) / ((x + 2)(x − 3)) = 0
+
+w zbiorze liczb rzeczywistych
+
+A. nie ma rozwiązania.
+B. ma dokładnie jedno rozwiązanie: (−1).
+C. ma dokładnie dwa rozwiązania: (−2) oraz 3.
+D. ma dokładnie trzy rozwiązania: (−1), (−2) oraz 3.
+
+
+Zadanie 8. (0–1)
+Dany jest wielomian W(x) = 3x^3 + 6x^2 + 9x.
+
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+
+1. Wielomian W jest iloczynem wielomianów F(x) = 3x i G(x) = x^2 + 2x + 3.  P  F
+2. Liczba (−1) jest rozwiązaniem równania W(x) = 0.  P  F
+
+
+Zadanie 9. (0–3)
+Rozwiąż równanie
+
+x^3 − 2x^2 − 3x + 6 = 0
+
+Zapisz obliczenia.
+
+
+Zadanie 10. (0–1)
+W październiku 2022 roku założono dwa sady, w których posadzono łącznie 1960 drzew.
+Po roku stwierdzono, że uschło 5% drzew w pierwszym sadzie i 10% drzew w drugim sadzie. Uschnięte drzewa usunięto, a nowych nie dosadzano.
+Liczba drzew, które pozostały w drugim sadzie, stanowiła 60% liczby drzew, które pozostały w pierwszym sadzie.
+Niech x oraz y oznaczają liczby drzew posadzonych – odpowiednio – w pierwszym i drugim sadzie.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Układem równań, którego poprawne rozwiązanie prowadzi do obliczenia liczby x drzew posadzonych w pierwszym sadzie oraz liczby y drzew posadzonych w drugim sadzie, jest
+
+A.
+{
+  x + y = 1960
+  0,6 · 0,95x = 0,9y
+}
+
+B.
+{
+  x + y = 1960
+  0,95x = 0,6 · 0,9y
+}
+
+C.
+{
+  x + y = 1960
+  0,05x = 0,6 · 0,1y
+}
+
+D.
+{
+  x + y = 1960
+  0,4 · 0,95x = 0,9y
+}
+
+
+Zadanie 11. (0–1)
+Na rysunku, w kartezjańskim układzie współrzędnych (x, y), przedstawiono dwie proste równoległe, które są interpretacją geometryczną jednego z poniższych układów równań A–D.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Układem równań, którego interpretację geometryczną przedstawiono na rysunku, jest
+
+A.
+{
+  y = −(3/2)x + 3
+  y = −(3/2)x − 1
+}
+
+B.
+{
+  y = (3/2)x + 3
+  y = −(2/3)x − 1
+}
+
+C.
+{
+  y = (3/2)x + 3
+  y = (3/2)x − 1
+}
+
+D.
+{
+  y = −(3/2)x − 3
+  y = (3/2)x + 1
+}
+
+
+Zadanie 12. (0–1)
+Funkcja liniowa f jest określona wzorem f(x) = (−2k + 3)x + k − 1, gdzie k ∈ ℝ.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Funkcja f jest malejąca dla każdej liczby k należącej do przedziału
+
+A. (−∞, 1)
+B. (−∞, −3/2)
+C. (1, +∞)
+D. (3/2, +∞)
+
+
+Zadanie 13. (0–1)
+Funkcje liniowe f oraz g, określone wzorami f(x) = 3x + 6 oraz g(x) = ax + 7, mają to samo miejsce zerowe.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Współczynnik a we wzorze funkcji g jest równy
+
+A. (−7/2)
+B. (−2/7)
+C. 2/7
+D. 7/2
+
+
+Zadanie 14.
+W kartezjańskim układzie współrzędnych (x, y) przedstawiono fragment paraboli, która jest wykresem funkcji kwadratowej f (zobacz rysunek). Wierzchołek tej paraboli oraz punkty przecięcia paraboli z osiami układu współrzędnych mają obie współrzędne całkowite.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+
+Zadanie 14.1. (0–1)
+Uzupełnij poniższe zdanie. Wpisz odpowiedni przedział w wykropkowanym miejscu tak, aby zdanie było prawdziwe.
+
+Zbiorem wszystkich rozwiązań nierówności f(x) ≥ 0 jest przedział ……………………… .
+
+
+Zadanie 14.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Funkcja kwadratowa f jest określona wzorem
+
+A. f(x) = −(x + 1)^2 − 9
+B. f(x) = −(x − 1)^2 + 9
+C. f(x) = −(x − 1)^2 − 9
+D. f(x) = −(x + 1)^2 + 9
+
+
+Zadanie 14.3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Dla funkcji f prawdziwa jest równość
+
+A. f(−4) = f(6)
+B. f(−4) = f(5)
+C. f(−4) = f(4)
+D. f(−4) = f(7)
+
+
+Zadanie 14.4. (0–2)
+Funkcje kwadratowe g oraz h są określone za pomocą funkcji f (zobacz rysunek na stronie 13) następująco: g(x) = f(x + 3), h(x) = f(−x).
+Na rysunkach A–F przedstawiono, w kartezjańskim układzie współrzędnych (x, y), fragmenty wykresów różnych funkcji – w tym fragment wykresu funkcji g oraz fragment wykresu funkcji h.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij tabelę. Każdej z funkcji g oraz h przyporządkuj fragment jej wykresu. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną spośród oznaczonych literami A–F.
+
+Fragment wykresu funkcji y = g(x) przedstawiono na rysunku __________
+Fragment wykresu funkcji y = h(x) przedstawiono na rysunku __________
+
+A.
+B.
+C.
+D.
+E.
+F.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+
+Zadanie 15. (0–1)
+Ciąg (a_n) jest określony wzorem a_n = (−1)^n · (n − 5) dla każdej liczby naturalnej n ≥ 1.
+
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+
+1. Pierwszy wyraz ciągu (a_n) jest dwa razy większy od trzeciego wyrazu tego ciągu.  P  F
+2. Wszystkie wyrazy ciągu (a_n) są dodatnie.  P  F
+
+
+Zadanie 16. (0–1)
+Trzywyrazowy ciąg (12, 6, 2m − 1) jest geometryczny.
+
+Dokończ zdanie. Wybierz odpowiedź A albo B oraz odpowiedź 1., 2. albo 3.
+
+Ten ciąg jest
+
+A. rosnący
+B. malejący
+
+oraz
+
+1. m = 1/2
+2. m = 2
+3. m = 3
+
+
+Zadanie 17. (0–2)
+Ciąg arytmetyczny (a_n) jest określony dla każdej liczby naturalnej n ≥ 1. Trzeci wyraz tego ciągu jest równy (−1), a suma piętnastu początkowych kolejnych wyrazów tego ciągu jest równa (−165).
+
+Oblicz różnicę tego ciągu. Zapisz obliczenia.
+
+
+Zadanie 18. (0–2)
+W kartezjańskim układzie współrzędnych (x, y) zaznaczono kąt o mierze α taki, że tg α = −3 oraz 90° &lt; α &lt; 180° (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami A–F i wpisz te litery w wykropkowanych miejscach.
+
+Prawdziwe są zależności: ............. oraz ............ .
+
+A. sin α &lt; 0
+B. sin α · cos α  0
+D. cos α &gt; 0
+E. sin α = −(1/3) cos α
+F. sin α = −3 cos α
+
+
+Zadanie 19. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba sin^3 20° + cos^2 20° · sin 20° jest równa
+
+A. cos 20°
+B. sin 20°
+C. tg 20°
+D. sin 20° · cos 20°
+
+
+Zadanie 20. (0–1)
+Dany jest trójkąt KLM, w którym |KM| = a, |LM| = b oraz a ≠ b. Dwusieczna kąta KML przecina bok KL w punkcie N takim, że |KN| = c, |NL| = d oraz |MN| = e (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+W trójkącie KLM prawdziwa jest równość
+
+A. a · b = c · d
+B. a · d = b · c
+C. a · c = b · d
+D. a · b = e · e
+
+
+Zadanie 21. (0–1)
+Dany jest równoległobok o bokach długości 3 i 4 oraz o kącie między nimi o mierze 120°.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Pole tego równoległoboku jest równe
+
+A. 12
+B. 12√3
+C. 6
+D. 6√3
+
+
+Zadanie 22. (0–1)
+W trójkącie ABC, wpisanym w okrąg o środku w punkcie S, kąt ACB ma miarę 42° (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Miara kąta ostrego BAS jest równa
+
+A. 42°
+B. 45°
+C. 48°
+D. 69°
+
+
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) proste k oraz l są określone równaniami
+
+k: y = (m + 1)x + 7
+l: y = −2x + 7
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Proste k oraz l są prostopadłe, gdy liczba m jest równa
+
+A. (−1/2)
+B. 1/2
+C. (−3)
+D. 1
+
+
+Zadanie 24. (0–2)
+W kartezjańskim układzie współrzędnych (x, y) dany jest równoległobok ABCD, w którym A = (−2, 6) oraz B = (10, 2). Przekątne AC oraz BD tego równoległoboku przecinają się w punkcie P = (6, 7).
+
+Oblicz długość boku BC tego równoległoboku. Zapisz obliczenia.
+
+
+Zadanie 25.
+Wysokość graniastosłupa prawidłowego sześciokątnego jest równa 6 (zobacz rysunek). Pole podstawy tego graniastosłupa jest równe 15√3.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+
+Zadanie 25.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Pole jednej ściany bocznej tego graniastosłupa jest równe
+
+A. 36√10
+B. 60
+C. 6√10
+D. 360
+
+
+Zadanie 25.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Kąt nachylenia najdłuższej przekątnej graniastosłupa prawidłowego sześciokątnego do płaszczyzny podstawy jest zaznaczony na rysunku
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+A.
+B.
+C.
+D.
+
+
+Zadanie 26. (0–1)
+Ostrosłup F1 jest podobny do ostrosłupa F2.
+Objętość ostrosłupa F1 jest równa 64.
+Objętość ostrosłupa F2 jest równa 512.
+
+Uzupełnij poniższe zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu tak, aby zdanie było prawdziwe.
+
+Stosunek pola powierzchni całkowitej ostrosłupa F2 do pola powierzchni całkowitej ostrosłupa F1 jest równy ………. .
+
+
+Zadanie 27. (0–1)
+Rozważamy wszystkie kody czterocyfrowe utworzone tylko z cyfr 1, 3, 6, 8, przy czym w każdym kodzie każda z tych cyfr występuje dokładnie jeden raz.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba wszystkich takich kodów jest równa
+
+A. 4
+B. 10
+C. 24
+D. 16
+
+
+Zadanie 28. (0–1)
+Średnia arytmetyczna trzech liczb: a, b, c, jest równa 9.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Średnia arytmetyczna sześciu liczb: a, a, b, b, c, c, jest równa
+
+A. 9
+B. 6
+C. 4,5
+D. 18
+
+
+Zadanie 29. (0–1)
+Na diagramie przedstawiono wyniki sprawdzianu z matematyki w pewnej klasie maturalnej.
+Na osi poziomej podano oceny, które uzyskali uczniowie tej klasy, a na osi pionowej podano liczbę uczniów, którzy otrzymali daną ocenę.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+
+A. 4,5
+B. 4
+C. 3,5
+D. 3
+
+
+Zadanie 30. (0–2)
+Dany jest pięcioelementowy zbiór K = {5, 6, 7, 8, 9}. Wylosowanie każdej liczby z tego zbioru jest jednakowo prawdopodobne. Ze zbioru K losujemy ze zwracaniem kolejno dwa razy po jednej liczbie i zapisujemy je w kolejności losowania.
+
+Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że suma wylosowanych liczb jest liczbą parzystą. Zapisz obliczenia.
+
+
+Zadanie 31. (0–4)
+W schronisku dla zwierząt, na płaskiej powierzchni, należy zbudować ogrodzenie z siatki wydzielające trzy identyczne wybiegi o wspólnych ścianach wewnętrznych.
+Podstawą każdego z tych trzech wybiegów jest prostokąt (jak pokazano na rysunku).
+Do wykonania tego ogrodzenia należy zużyć 36 metrów bieżących siatki.
+
+Schematyczny rysunek trzech wybiegów (widok z góry).
+Linią przerywaną zaznaczono siatkę.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Oblicz wymiary x oraz y jednego wybiegu, przy których suma pól podstaw tych trzech wybiegów będzie największa. W obliczeniach pomiń szerokość wejścia na każdy z wybiegów. Zapisz obliczenia.
+
+
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+
+CK CENTRALNA KOMISJA EGZAMINACYJNA Rodzaj dokumentu: Zasady oceniania rozwiązań zadań Egzamin: Egzamin maturalny Przedmiot: Matematyka Poziom: Poziom podstawowy Formy arkusza: MMAP-P0-100 (wersje arkusza: A i B), MMAP-P0-200, MMAP-P0-300, MMAP-P0-400, MMAP-P0-600, MMAP-P0-700, MMAP-P0-Q00, MMAP-P0-K00, MMAU-P0-100 Termin egzaminu: 8 maja 2024 r. Data publikacji dokumentu: 28 czerwca 2024 r. --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Uwagi ogólne: 1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania. 2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym zapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną liczbę punktów. 3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może otrzymać co najwyżej ((n-1)) punktów (gdzie n jest maksymalną możliwą do uzyskania liczbą punktów za dane zadanie). Zadanie 1. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: 1.7) stosuje interpretację geometryczną i algebraiczną wartości bezwzględnej, rozwiązuje równania i nierówności typu: [...] (|x+3| ge 4). Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: B Strona 2 z 41 --- Zadanie 2. (0-1) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych. Wymaganie szczegółowe: Zdający: 1.4) stosuje [...] prawa działań na potęgach [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: C Zadanie 3. (0-2) Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkukrokowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu. Wymaganie szczegółowe: Zdający: 1.2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia nie trudniejsze niż dowód podzielności przez 24 iloczynu czterech kolejnych liczb naturalnych. Zasady oceniania: 2 pkt – przekształcenie wyrażenia (n^2 + (n+1)^2 + (n+2)^2) do postaci (3(n^2 + 2n + 1) + 2) ALBO przekształcenie wyrażenia (n^2 + (n+1)^2 + (n+2)^2) do postaci (3n^2 + 6n + 5) oraz zapisanie, że składniki (3n^2) oraz (6n) są podzielne przez 3, a reszta z dzielenia liczby 5 przez 3 jest równa 2, ALBO zapisanie, że n, (n+1), (n+2), to trzy kolejne liczby całkowite, więc dokładnie jedna z nich jest podzielna przez 3, a dwie pozostałe nie są podzielne przez 3 oraz zapisanie, że kwadrat liczby podzielnej przez 3 jest podzielny przez 3, a kwadrat CENTRALNA KOMISJA EGZAMINACYJNA Strona 3 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. liczby niepodzielnej przez 3 przy dzieleniu przez 3 daje resztę 1, oraz zapisanie wniosku, że reszta z dzielenia przez 3 liczby (n^2 + (n+1)^2 + (n+2)^2) jest równa 2. 1 pkt – przekształcenie wyrażenia (n^2 + (n+1)^2 + (n+2)^2) do postaci (n^2 + n^2 + 2n + 1 + n^2 + 4n + 4) ALBO zapisanie, że n, (n+1), (n+2), to trzy kolejne liczby naturalne, więc dokładnie jedna z nich jest podzielna przez 3, a dwie pozostałe nie są podzielne przez 3 oraz zapisanie, że kwadrat liczby podzielnej przez 3 jest podzielny przez 3, a kwadrat liczby niepodzielnej przez 3 przy dzieleniu przez 3 daje resztę 1. 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Uwagi: 1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości n, to otrzymuje 0 punktów za całe rozwiązanie. 2. Jeżeli zdający przyjmuje np. (n = 3k + r), gdzie (k in mathbb{N}) i r jest resztą z dzielenia liczby n przez 3 (lub (n = 2k + r), gdzie (k in mathbb{N}) i r jest resztą z dzielenia liczby n przez 2), i przeprowadzi pełne rozumowanie dla wszystkich przypadków, to otrzymuje 2 punkty. Gdy przeprowadzi pełne rozumowanie dla co najmniej połowy przypadków, ale nie przeprowadzi pełnego rozumowania dla wszystkich przypadków, to otrzymuje 1 punkt za całe rozwiązanie. 3. Jeżeli zdający rozpatruje tylko jeden przypadek (n = 3k + 2), to otrzymuje 0 punktów za całe rozwiązanie. Przykładowe pełne rozwiązania Sposób I Przekształcamy równoważnie dane wyrażenie: [n^2 + (n+1)^2 + (n+2)^2 = n^2 + n^2 + 2n + 1 + n^2 + 4n + 4] [= 3n^2 + 6n + 5 = 3 cdot (n^2 + 2n + 1) + 2] Ponieważ n jest liczbą naturalną, więc (n^2 + 2n + 1) jest liczbą naturalną. Zatem (3 cdot (n^2 + 2n + 1)) jest wielokrotnością liczby 3. Stąd (3 cdot (n^2 + 2n + 1) + 2) przy dzieleniu przez 3 daje resztę 2. To należało wykazać. Sposób II Liczby n, (n+1), (n+2) to trzy kolejne liczby naturalne, więc dokładnie jedna z nich jest podzielna przez 3, a dwie pozostałe nie są podzielne przez 3. Kwadrat liczby podzielnej przez 3 jest również podzielny przez 3. Kwadrat liczby niepodzielnej przez 3 daje przy dzieleniu przez 3 resztę 1. Strona 4 z 41 --- Zasady oceniania rozwiązań zadań Zatem suma reszt z dzielenia przez 3 liczby (n^2 + (n+1)^2 + (n+2)^2) jest równa (0 + 1 + 1 = 2). To należało wykazać. Zadanie 4. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych. Wymaganie szczegółowe: Zdający: 1.1) wykonuje działania ([...] logarytmowanie) w zbiorze liczb rzeczywistych. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: C Wersja B: B CENTRALNA KOMISJA EGZAMINACYJNA Strona 5 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 5. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych. Wymaganie szczegółowe: Zdający: II.1) stosuje wzory skróconego mnożenia na: ((a+b)^2), ((a-b)^2), (a^2 - b^2). Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: D Zadanie 6. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: III.3) rozwiązuje nierówności liniowe z jedną niewiadomą. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: D Wersja B: D Strona 6 z 41 --- Zadanie 7. (0-1) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: III.6) rozwiązuje równania wymierne postaci (frac{V(x)}{W(x)} = 0), gdzie wielomiany V(x) i W(x) są zapisane w postaci iloczynowej. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: B Zadanie 8. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymagania szczegółowe: Zdający: II.2) [...] mnoży wielomiany jednej i wielu zmiennych. III.5) rozwiązuje równania wielomianowe postaci (W(x) = 0) dla wielomianów [...], które dają się doprowadzić do postaci iloczynowej metodą wyłączania wspólnego czynnika przed nawias [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: PF Wersja B: FP CENTRALNA KOMISJA EGZAMINACYJNA Strona 7 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 9. (0-3) Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych. Wymaganie szczegółowe: Zdający: III.5) rozwiązuje równania wielomianowe postaci (W(x) = 0) dla wielomianów [...] takich, które dają się doprowadzić do postaci iloczynowej [...] metodą grupowania. Zasady oceniania: 3 pkt – poprawna metoda rozwiązania równania i obliczenie wszystkich rozwiązań równania: (-sqrt{3}), (sqrt{3}), 2. 2 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co najwyżej drugiego oraz rozwiązanie jednego z równań wynikającego z tego rozkładu, np.: ((x-2)(x^2-3) = 0) i (x=2), ((x-2)(x^2-3) = 0) i (x=-sqrt{3}) oraz (x=sqrt{3}) ALBO przekształcenie równania (x^3 - 2x^2 - 3x + 6 = 0) do postaci alternatywy dwóch równań: kwadratowego i liniowego oraz rozwiązanie jednego z nich: ((x-2=0 text{ lub } x^2-3=0)) oraz (x=2), ((x-2=0 text{ lub } x^2-3=0)) oraz ((x = -sqrt{3}, x = sqrt{3}),,) ALBO rozłożenie wielomianu (W(x) = x^3 - 2x^2 - 3x + 6) na czynniki liniowe: (W(x) = (x-2)(x-sqrt{3})(x+sqrt{3})) ALBO przekształcenie równania (x^3 - 2x^2 - 3x + 6 = 0) do postaci alternatywy trzech równań liniowych: ((x-2=0, x-sqrt{3}=0, x+sqrt{3}=0)), ALBO obliczenie jednego z pierwiastków wielomianu (W(x) = x^3 - 2x^2 - 3x + 6) oraz poprawne podzielenie wielomianu W przez odpowiedni dwumian, np. (r=2 text{ i } (x^3 - 2x^2 - 3x + 6) : (x-2) = x^2 - 3). 1 pkt – zapisanie wielomianu (W(x) = x^3 - 2x^2 - 3x + 6) w postaci iloczynu wielomianów stopnia co najwyżej drugiego, np. (W(x) = (x-2)(x^2 - 3)) ALBO – przekształcenie równania (x^3 - 2x^2 - 3x + 6 = 0) do postaci alternatywy dwóch równań: ((x-2=0, x^2-3=0)), ALBO Strona 8 z 41 --- Zasady oceniania rozwiązań zadań – przekształcenie równania (x^3 - 2x^2 - 3x + 6 = 0) do postaci (x^2(x-2) - 3(x-2) = 0) lub do postaci (x^2(x-2) = 3(x-2)) oraz zapisanie rozwiązania (x=2) ALBO – zapisanie jednego z rozwiązań równania (x^3 - 2x^2 - 3x + 6 = 0) oraz zapisanie sprawdzenia, że ta liczba spełnia to równanie. 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Uwagi: 1. Jeżeli zdający zapisze tylko trzy poprawne rozwiązania równania, to otrzymuje 1 punkt za całe rozwiązanie. 2. Jeżeli zdający uzyska trzy poprawne pierwiastki wielomianu, lecz traktuje równanie jako nierówność (podaje zbiór rozwiązań w postaci przedziału / sumy przedziałów), to otrzymuje 2 punkty za całe rozwiązanie. 3. Jeżeli przy przekształcaniu lewej strony równania do postaci iloczynu zdający zapisuje czynnik ((x-2)) z wykładnikiem 2, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt za rozwiązanie równania ((x-2)^2 = 0) i 1 punkt za rozwiązanie równania (x^2 - 3 = 0)). 4. Jeżeli zdający zamiast równania ((x-2)(x^2 - 3) = 0) zapisze ((x-2) pm (x^2 - 3) = 0), ale z dalszego rozwiązania wynika, że traktuje lewą stronę równania jak iloczyn i rozwiąże zadanie do końca, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (1 punkt za rozwiązanie równania (x-2 = 0) i 1 punkt za rozwiązanie równania (x^2 - 3 = 0)). 5. Jeżeli zdający przy przekształcaniu równania do postaci ((x-2)(x^2 - 3) = 0) popełni błąd i zapisze: (x^2(x+2) - 3(x-2) = 0) lub (x^2(x-2) + 3(x-2) = 0) lub (x^2(x-2) - 3(x+2) = 0) lub (x(x^2+3) - 2(x^2-3) = 0) lub (x(x^2-3) + 2(x^2-3) = 0) lub (x(x^2-3) - 2(x^2+3) = 0) a następnie: 5.1. zapisze równanie ((x-2)(x^2 - 3) = 0) lub poprawną alternatywę ((x-2=0 text{ lub } x^2-3=0)) i konsekwentnie rozwiąże zadanie do końca, to otrzymuje co najwyżej 2 punkty za całe rozwiązanie (1 punkt za rozwiązanie równania (x-2 = 0) i 1 punkt za rozwiązanie równania (x^2 - 3 = 0)). 5.2. zapisze równanie ((x-2)(x^2 + 3) = 0) lub błędną alternatywę ((x-2=0 text{ lub } x^2+3=0)) i zapisze rozwiązanie (x=2), to otrzymuje 1 punkt za całe rozwiązanie. 5.3. zapisze równanie ((x+2)(x^2 - 3) = 0) lub błędną alternatywę CENTRALNA KOMISJA EGZAMINACYJNA Strona 9 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. ((x+2=0 text{ lub } x^2-3=0)) i zapisze oba rozwiązania równania (x^2-3=0): (x=-sqrt{3}) oraz (x=sqrt{3}), to otrzymuje 1 punkt za całe rozwiązanie. 5.4. zapisze błędne równanie (w którym jedna ze stron jest równa 0, a druga jest iloczynem wielomianów stopni dodatnich), inne niż w uwagach 5.2 oraz 5.3, np. ((x-2)(x+2)(x^2 pm 3) = 0) lub błędną alternatywę inną niż w uwagach 5.2 oraz 5.3, np. ((x-2=0 text{ lub } x+2=0 text{ lub } x^2 pm 3 = 0)), to otrzymuje 0 punktów za całe rozwiązanie. 6. Jeżeli zdający, przekształcając równanie (x^3 - 2x^2 - 3x + 6 = 0), popełni jeden błąd (który nie jest błędem znaku) albo dwa błędy znaku i otrzyma równanie trzeciego stopnia, które ma trzy rozwiązania rzeczywiste, oraz konsekwentnie rozwiąże zadanie do końca, to otrzymuje 1 punkt za całe rozwiązanie. 7. Jeżeli zdający dzieli obustronnie równanie (x^2(x-2) = 3(x-2)) przez dwumian ((x-2)) z podaniem odpowiedniego założenia i uzyska tylko dwa poprawne rozwiązania (x=sqrt{3}) oraz (x=-sqrt{3}), to otrzymuje 2 punkty za całe rozwiązanie, a jeżeli uzyska tylko jedno z tych rozwiązań, to otrzymuje 1 punkt za całe rozwiązanie. 8. Jeżeli zdający dzieli obustronnie równanie (x^2(x-2) = 3(x-2)) przez dwumian ((x-2)) bez podania odpowiedniego założenia i uzyska tylko dwa poprawne rozwiązania (x=sqrt{3}) oraz (x=-sqrt{3}), to otrzymuje 1 punkt za całe rozwiązanie, a jeżeli uzyska tylko jedno z tych rozwiązań, to otrzymuje 0 punktów za całe rozwiązanie. Przykładowe pełne rozwiązania Sposób I Przekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów: [x^3 - 2x^2 - 3x + 6 = 0] [x^2(x-2) - 3(x-2) = 0] [(x-2)(x^2 - 3) = 0] [(x-2)(x-sqrt{3})(x+sqrt{3}) = 0] (x-2=0) lub (x-sqrt{3}=0) lub (x+sqrt{3}=0) (x=2) lub (x=sqrt{3}) lub (x=-sqrt{3}) Rozwiązaniami równania są liczby: (-sqrt{3}), (sqrt{3}), 2. Sposób II Przekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów: Strona 10 z 41 [x^3 - 2x^2 - 3x + 6 = 0] [x(x^2 - 3) - 2(x^2 - 3) = 0] [(x-2)(x^2 - 3) = 0] --- Zasady oceniania rozwiązań zadań [(x-2)(x-sqrt{3})(x+sqrt{3}) = 0] (x-2=0) lub (x-sqrt{3}=0) lub (x+sqrt{3}=0) (x=2) lub (x=sqrt{3}) lub (x=-sqrt{3}) Rozwiązaniami równania są liczby: (-sqrt{3}), (sqrt{3}), 2. Sposób III Obliczamy (W(2) = 0) i stwierdzamy, że liczba 2 jest pierwiastkiem wielomianu (W(x) = x^3 - 2x^2 - 3x + 6). Zatem wielomian W jest podzielny przez dwumian ((x-2)). Dzielimy wielomian W przez dwumian ((x-2)) i otrzymujemy: [(x^3 - 2x^2 - 3x + 6) : (x-2) = x^2 - 3] Zatem (W(x) = (x-2)(x^2 - 3) = (x-2)(x-sqrt{3})(x+sqrt{3})). Obliczamy pierwiastki wielomianu (W(x)): [(x-2)(x-sqrt{3})(x+sqrt{3}) = 0] (x-2=0) lub (x-sqrt{3}=0) lub (x+sqrt{3}=0) (x=2) lub (x=sqrt{3}) lub (x=-sqrt{3}) Rozwiązaniami równania są liczby: (-sqrt{3}), (sqrt{3}), 2. Zadanie 10. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymaganie szczegółowe: Zdający: IV.2) stosuje układy równań do rozwiązywania zadań tekstowych. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: A Wersja B: D CENTRALNA KOMISJA EGZAMINACYJNA Strona 11 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 11. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: IV.1) rozwiązuje układy równań liniowych z dwiema niewiadomymi, podaje interpretację geometryczną układów [...] sprzecznych. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: A Wersja B: C Zadanie 12. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: V.5) interpretuje współczynniki występujące we wzorze funkcji liniowej. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: D Wersja B: B Strona 12 z 41 --- Zadanie 13. (0-1) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: V.6) wyznacza wzór funkcji liniowej na podstawie informacji o jej wykresie lub o jej własnościach. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: D Wersja B: A Zadanie 14.1. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: V.4) odczytuje z wykresu funkcji: [...] przedziały, w których funkcja przyjmuje wartości większe (nie mniejsze) lub mniejsze (nie większe) od danej liczby [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: ([-2, 4]) Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki: Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci ([4, -2]), to otrzymuje 1 punkt. CENTRALNA KOMISJA EGZAMINACYJNA Strona 13 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 14.2. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 2. Używanie języka matematycznego do tworzenia tekstów matematycznych, w tym do opisu prowadzonych rozumowań i uzasadniania wniosków, a także do przedstawiania danych. Wymaganie szczegółowe: Zdający: V.9) wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej wykresie. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: A Zadanie 14.3. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: V.3) odczytuje i interpretuje wartości funkcji określonych za pomocą [...] wykresów [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: A Wersja B: C Strona 14 z 41 --- Zadanie 14.4. (0-2) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: V.12) na podstawie wykresu funkcji (y=f(x)) szkicuje wykresy funkcji (y=f(x-a)), [...] (y=f(-x)). Zasady oceniania: 2 pkt – dwie poprawne odpowiedzi. 1 pkt – jedna poprawna odpowiedź. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: A, E Wersja B: A, E Zadanie 15. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: VI.1) oblicza wyrazy ciągu określonego wzorem ogólnym. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: PF Wersja B: PF CENTRALNA KOMISJA EGZAMINACYJNA Strona 15 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 16. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymagania szczegółowe: Zdający: VI.2) w prostych przypadkach bada, czy ciąg jest rosnący, czy malejący; VI.6) wykorzystuje własności ciągów [...] geometrycznych, do rozwiązywania zadań [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B2 Wersja B: A2 Zadanie 17. (0-2) Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych. Wymaganie szczegółowe: Zdający: VI.4) stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego. Zasady oceniania: 2 pkt – zastosowanie poprawnej metody i obliczenie różnicy ciągu: (r=-2). 1 pkt – zapisanie układu równań pozwalającego obliczyć r, np.: (-1 = a_1 + 2r) oraz (-165 = frac{2a_1 + 14r}{2} cdot 15), (-1 = a_1 + 2r) oraz (a_{15} = a_1 + 14r) oraz (-165 = frac{a_1 + a_{15}}{2} cdot 15), (a_3 = -1) oraz (-165 = frac{(a_3 - 2r) + (a_3 + 12r)}{2} cdot 15) ALBO – zapisanie równania z jedną niewiadomą r, np.: ((-1-2r) + (-1-r) + (-1) + (-1+r) + dots + (-1+12r) = -165), (frac{2(-1-2r) + 14r}{2} cdot 15 = -165), (frac{(-1-2r) + (-1+12r)}{2} cdot 15 = -165), Strona 16 z 41 --- Zasady oceniania rozwiązań zadań ALBO – obliczenie ósmego wyrazu ciągu ((a_n)) z wykorzystaniem własności ciągu arytmetycznego: (a_8 = -11) (dla sposobów IV oraz V), ALBO – zapisanie kolejnych piętnastu początkowych wyrazów ciągu ((a_n)): 3, 1, -1, -3, -5, -7, -9, -11, -13, -15, -17, -19, -21, -23, -25. 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Uwagi: 1. Jeżeli zdający myli ciąg arytmetyczny z geometrycznym, to otrzymuje 0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów. 2. Jeżeli zdający zapisze tylko (r = -2), to otrzymuje 1 punkt za całe rozwiązanie. 3. Jeżeli zdający błędnie interpretuje liczbę (-165) jako piętnasty wyraz ciągu, to otrzymuje 0 punktów za całe rozwiązanie. Przykładowe pełne rozwiązania Sposób I Korzystamy ze wzorów na n-ty wyraz i sumę n początkowych wyrazów ciągu arytmetycznego i otrzymujemy układ równań: [begin{cases} -1 = a_1 + 2r \ -165 = frac{2a_1 + 14r}{2} cdot 15 end{cases}] Przekształcając ten układ równoważnie, otrzymujemy: [begin{cases} -1 = a_1 + 2r \ -11 = a_1 + 7r end{cases}] Odejmując stronami równania układu, otrzymujemy: [10 = -5r] [r = -2] Różnica ciągu jest równa (-2). Sposób II Suma kolejnych piętnastu początkowych wyrazów ciągu arytmetycznego jest równa (-165), zatem: [a_1 + a_2 + a_3 + dots + a_{15} = -165] [(a_3 - 2r) + (a_3 - r) + a_3 + (a_3 + r) + (a_3 + 2r) + dots + (a_3 + 12r) = -165] [15a_3 + (-2r - r + 0 + r + 2r + 3r + dots + 12r) = -165] CENTRALNA KOMISJA EGZAMINACYJNA Strona 17 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. gdzie (a_3 = -1), a suma piętnastu liczb ((-2r - r + 0 + r + 2r + 3r + dots + 12r)) jest równa: [frac{-2r + 12r}{2} cdot 15 = 75r] Zatem: [15 cdot (-1) + 75r = -165] [75r = -150] [r = -2] Różnica ciągu jest równa (-2). Sposób III Suma kolejnych piętnastu początkowych wyrazów ciągu arytmetycznego jest równa (-165), zatem: [frac{a_1 + a_{15}}{2} cdot 15 = -165] [a_1 + a_{15} = -22] [(a_3 - 2r) + (a_3 + 12r) = -22] [2a_3 + 10r = -22] Stąd i z tego, że (a_3 = -1), otrzymujemy: [2 cdot (-1) + 10r = -22] [10r = -20] [r = -2] Różnica ciągu jest równa (-2). Sposób IV Suma kolejnych piętnastu początkowych wyrazów ciągu arytmetycznego jest równa (-165), zatem: [a_1 + a_2 + a_3 + dots + a_{15} = -165] [(a_8 - 7r) + (a_8 - 6r) + dots + a_8 + dots + (a_8 + 6r) + (a_8 + 7r) = -165] [15a_8 = -165] [a_8 = frac{-165}{15} = -11] Strona 18 z 41 --- Korzystamy z własności ciągu arytmetycznego i otrzymujemy: [a_8 = a_3 + 5r] [-11 = -1 + 5r] [r = -2] Różnica ciągu jest równa (-2). Sposób V Zasady oceniania rozwiązań zadań Korzystamy z własności ciągu arytmetycznego i otrzymujemy równania: [a_8 = frac{a_7 + a_9}{2}] [a_8 = frac{a_6 + a_{10}}{2}] [a_8 = frac{a_5 + a_{11}}{2}] [a_8 = frac{a_4 + a_{12}}{2}] [a_8 = frac{a_3 + a_{13}}{2}] [a_8 = frac{a_2 + a_{14}}{2}] [a_8 = frac{a_1 + a_{15}}{2}] Zatem: [a_1 + a_2 + dots + a_{14} + a_{15} = (a_1 + a_{15}) + (a_2 + a_{14}) + dots + (a_7 + a_9) + a_8 =] [= 15a_8 = -165] Stąd (a_8 = -11). Ponieważ [a_8 = a_3 + 5r] więc otrzymujemy: [-11 = -1 + 5r] [r = -2] Różnica ciągu jest równa (-2). CENTRALNA KOMISJA EGZAMINACYJNA Strona 19 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 18. (0-2) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymagania szczegółowe: Zdający: VII.1) wykorzystuje definicje funkcji [...] tangens dla kątów od (0^circ) do (180^circ) [...]; VII.2) korzysta z wzorów (sin^2alpha + cos^2alpha = 1), (tgalpha = frac{sinalpha}{cosalpha}). Zasady oceniania: 2 pkt – wybranie dwóch odpowiedzi, z których obie są poprawne. 1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B, F Wersja B: C, F Zadanie 19. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych. Wymaganie szczegółowe: Zdający: VII.2) korzysta z wzorów (sin^2alpha + cos^2alpha = 1), (tgalpha = frac{sinalpha}{cosalpha}). Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: A Strona 20 z 41 --- Zadanie 20. (0-1) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: VIII.7) stosuje twierdzenia: [...] o dwusiecznej kąta [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: B Zadanie 21. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: VIII.11) stosuje funkcje trygonometryczne do wyznaczania długości odcinków w figurach płaskich oraz obliczania pól figur. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: D Wersja B: B CENTRALNA KOMISJA EGZAMINACYJNA Strona 21 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 22. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu. Wymaganie szczegółowe: Zdający: VIII.5) stosuje własności kątów wpisanych i środkowych. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: C Wersja B: D Zadanie 23. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymaganie szczegółowe: Zdający: IX.2) posługuje się równaniem prostej na płaszczyźnie w postaci kierunkowej, w tym wyznacza równanie prostej o zadanych własnościach (takich jak na przykład [...] prostopadłość do innej prostej [...]). Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: A Wersja B: C Strona 22 z 41 --- Zadanie 24. (0-2) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych. Wymaganie szczegółowe: Zdający: IX.3) oblicza odległość dwóch punktów w układzie współrzędnych. Zasady oceniania: 2 pkt – zastosowanie poprawnej metody i obliczenie długości boku BC: (|BC| = sqrt{52}). 1 pkt – zapisanie współrzędnych punktu C: (C = (14, 8)) ALBO – zapisanie współrzędnych punktu D: (D = (2, 12)), ALBO – zapisanie współrzędnych środka S boku AB: (S = (4, 4)) oraz zapisanie równości (|BC| = 2|PS|), ALBO – zapisanie równości (vec{CB} = 2 cdot vec{PA} + vec{AB}) oraz obliczenie współrzędnych wektorów (vec{PA}) i (vec{AB}): (vec{PA} = [-8, -1]) oraz (vec{AB} = [12, -4]), ALBO – obliczenie długości odcinków AB, AP oraz BP i cosinusa kąta (alpha) oraz cosinusa kąta ((180^circ - alpha)), gdzie (alpha = |angle APB|): (|AB| = 4sqrt{10}) oraz (|AP| = sqrt{65}) oraz (|BP| = sqrt{41}), oraz (cosalpha = -frac{27}{sqrt{65} cdot sqrt{41}}) oraz (cos(180^circ - alpha) = frac{27}{sqrt{65} cdot sqrt{41}}). 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Uwagi: 1. Jeżeli zdający korzysta z punktów kratowych oraz błędnie zaznaczy w układzie współrzędnych co najmniej jeden z punktów A, B, C, P i na tej podstawie oblicza długość odcinka BC, to otrzymuje 0 punktów za całe rozwiązanie (o ile nie nabył praw do innej punktacji). 2. Jeżeli zdający korzysta z punktów kratowych oraz poprawnie zaznaczy w układzie współrzędnych punkty A, B, C, P, lecz błędnie odczyta współrzędne jednego z tych punktów, i na tej podstawie oblicza długość odcinka BC, to otrzymuje 1 punkt za całe rozwiązanie. 3. Jeżeli zdający obliczy długość odcinka BC, korzystając z przybliżonych wartości funkcji trygonometrycznych, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie. CENTRALNA KOMISJA EGZAMINACYJNA Strona 23 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Przykładowe pełne rozwiązania Sposób I Punkt P jest środkiem przekątnej AC. Ze wzoru na współrzędne środka odcinka otrzymujemy: [frac{-2 + x_C}{2} = 6 quad text{oraz} quad frac{6 + y_C}{2} = 7] Zatem (C = (14, 8)). Obliczamy długość odcinka BC: [|BC| = sqrt{(14 - 10)^2 + (8 - 2)^2} = sqrt{16 + 36} = sqrt{52} = 2sqrt{13}] Sposób II Punkt P jest środkiem przekątnej BD. Ze wzoru na współrzędne środka odcinka otrzymujemy: [frac{10 + x_D}{2} = 6 quad text{oraz} quad frac{2 + y_D}{2} = 7] Zatem (D = (2, 12)). Obliczamy długość odcinka BC: [|BC| = |AD| = sqrt{(2 + 2)^2 + (12 - 6)^2} = sqrt{16 + 36} = sqrt{52} = 2sqrt{13}] Sposób III Obliczamy współrzędne punktu S środka odcinka AB: [S = left(frac{-2 + 10}{2}, frac{6 + 2}{2}right)] [S = (4, 4)] Obliczamy długość odcinka BC: [|BC| = 2|PS| = 2sqrt{(4 - 6)^2 + (4 - 7)^2} = 2sqrt{4 + 9} = 2sqrt{13}] Strona 24 z 41 --- Zadanie 25.1. (0-1) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: X.4) oblicza [...] pola powierzchni graniastosłupów [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: C Wersja B: A Zadanie 25.2. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: X.2) posługuje się pojęciem kąta między prostą a płaszczyzną. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: D Wersja B: D CENTRALNA KOMISJA EGZAMINACYJNA Strona 25 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 26. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymaganie szczegółowe: Zdający: X.5) wykorzystuje zależność między objętościami graniastosłupów oraz ostrosłupów podobnych. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: 4 Zadanie 27. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymaganie szczegółowe: Zdający: XI.2) zlicza obiekty, stosując reguły mnożenia [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: C Wersja B: D Strona 26 z 41 --- Zadanie 28. (0-1) Zasady oceniania rozwiązań zadań Wymagania egzaminacyjne 2024: Wymaganie ogólne: IV. Rozumowanie i argumentacja. 2. Dostrzeganie regularności, podobieństw oraz analogii, formułowanie wniosków na ich podstawie i uzasadnianie ich poprawności. Wymaganie szczegółowe: Zdający: XII.2) oblicza średnią arytmetyczną [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: A Wersja B: C Zadanie 29. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych. Wymaganie szczegółowe: Zdający: XII.2) [...] znajduje medianę [...]. Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: C Wersja B: B CENTRALNA KOMISJA EGZAMINACYJNA Strona 27 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Zadanie 30. (0-2) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymaganie szczegółowe: Zdający: XII.1) oblicza prawdopodobieństwo w modelu klasycznym. Zasady oceniania: 2 pkt – zastosowanie poprawnej metody obliczenia prawdopodobieństwa zdarzenia A i uzyskanie poprawnego wyniku: (P(A) = frac{13}{25}). 1 pkt – wypisanie wszystkich zdarzeń elementarnych lub obliczenie/podanie liczby tych zdarzeń: (|Omega| = 5 cdot 5) lub sporządzenie tabeli o 25 polach odpowiadających zdarzeniom elementarnym, z których co najmniej jedno pole jest wypełnione, lub sporządzenie pełnego drzewa stochastycznego ALBO – wypisanie (lub zaznaczenie w tabeli) wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A i niewypisanie żadnego niewłaściwego, ALBO – podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A: (|A| = 13), o ile nie zostały zliczone błędne pary, ALBO – sporządzenie fragmentu drzewa stochastycznego, które zawiera wszystkie gałęzie sprzyjające zdarzeniu A oraz zapisanie prawdopodobieństwa na co najmniej jednym odcinku każdego z etapów doświadczenia, ALBO – podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego): (frac{1}{25}), ALBO – zapisanie tylko (P(A) = frac{13}{25}). 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Uwagi: 1. Jeżeli zdający zapisuje tylko liczby 13 lub 25 i z rozwiązania nie wynika znaczenie tych liczb, to otrzymuje 0 punktów za całe rozwiązanie. 2. Jeżeli zdający rozważa losowanie bez zwracania, to otrzymuje 0 punktów. Strona 28 z 41 --- Zasady oceniania rozwiązań zadań Przykładowe pełne rozwiązania Sposób I Zdarzeniami elementarnymi są wszystkie uporządkowane pary liczb (x, y), gdzie (x, y in {5, 6, 7, 8, 9}). Liczbę wszystkich zdarzeń elementarnych obliczamy, korzystając z reguły mnożenia. Moc zbioru (Omega) jest równa (5 cdot 5 = 25). Liczbę wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A obliczamy, korzystając z reguły mnożenia i reguły dodawania. Suma dwóch liczb naturalnych jest liczbą parzystą, gdy sumujemy dwie liczby parzyste lub dwie liczby nieparzyste. Stąd moc zbioru A jest równa (3 cdot 3 + 2 cdot 2 = 13). Zatem prawdopodobieństwo zdarzenia A jest równe (frac{13}{25}). Sposób II W tabeli literą A zaznaczamy zdarzenia elementarne sprzyjające zdarzeniu A (pary liczb, których suma jest liczbą parzystą). Tabela zdarzeń: Z lewej strony (pierwszy wybór): 5, 6, 7, 8, 9. U góry (drugi wybór): 5, 6, 7, 8, 9. Dla x=5: y=5 -&gt; A, y=7 -&gt; A, y=9 -&gt; A Dla x=6: y=6 -&gt; A, y=8 -&gt; A Dla x=7: y=5 -&gt; A, y=7 -&gt; A, y=9 -&gt; A Dla x=8: y=6 -&gt; A, y=8 -&gt; A Dla x=9: y=5 -&gt; A, y=7 -&gt; A, y=9 -&gt; A Moc zbioru (Omega) jest równa 25. Zdarzeń sprzyjających wylosowaniu liczb, których suma jest parzysta, jest 13. Zatem prawdopodobieństwo zdarzenia A jest równe (frac{13}{25}). CENTRALNA KOMISJA EGZAMINACYJNA Strona 29 z 41 --- Zadanie zawiera obrazek ważny dla rozwiązania. Na rysunku przedstawiono drzewo stochastyczne (dwuetapowe). W pierwszym etapie rozgałęzienie na: - "liczba parzysta" z prawdopodobieństwem (frac{2}{5}) - "liczba nieparzysta" z prawdopodobieństwem (frac{3}{5}) W drugim etapie od "liczba parzysta" rozgałęzienie na: - "liczba parzysta" z prawdopodobieństwem (frac{2}{5}) - "liczba nieparzysta" z prawdopodobieństwem (frac{3}{5}) Od "liczba nieparzysta" rozgałęzienie na: - "liczba parzysta" z prawdopodobieństwem (frac{2}{5}) - "liczba nieparzysta" z prawdopodobieństwem (frac{3}{5}) Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Sposób III (drzewo stochastyczne) Rysujemy drzewo stochastyczne rozważanego doświadczenia. Prawdopodobieństwo zdarzenia A jest równe: [P(A) = frac{2}{5} cdot frac{2}{5} + frac{3}{5} cdot frac{3}{5} = frac{13}{25}] Zadanie 31. (0-4) Wymagania egzaminacyjne 2024: Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymaganie szczegółowe: Zdający: XIII) rozwiązuje zadania optymalizacyjne w sytuacjach dających się opisać funkcją kwadratową. Zasady oceniania dla sposobów I–V: 4 pkt – poprawna metoda obliczenia obu wymiarów prostokąta oraz podanie poprawnego wyniku: (x = 4,5) m oraz (y = 3) m. 3 pkt – zapisanie poprawnego wzoru na sumę pól trzech prostokątów jako funkcji zmiennej x oraz obliczenie argumentu, dla którego ta funkcja przyjmuje wartość największą: (x = 4,5) m ALBO Strona 30 z 41 --- Zasady oceniania rozwiązań zadań – zapisanie poprawnego wzoru na sumę pól trzech prostokątów jako funkcji zmiennej y oraz obliczenie argumentu, dla którego ta funkcja przyjmuje wartość największą: (y = 3) m, ALBO – zapisanie poprawnego wzoru na pole jednego prostokąta jako funkcji zmiennej x oraz obliczenie argumentu, dla którego ta funkcja przyjmuje wartość największą: (x = 4,5) m, ALBO – zapisanie poprawnego wzoru na pole jednego prostokąta jako funkcji zmiennej y oraz obliczenie argumentu, dla którego ta funkcja przyjmuje wartość największą: (y = 3) m. 2 pkt – zapisanie poprawnego wzoru na sumę pól trzech prostokątów w zależności od jednej zmiennej, np.: (P(x) = 3xleft(6 - frac{2}{3}xright)), (P(x) = x(18 - 2x)), (P(y) = 3left(9 - frac{3}{2}yright)y) ALBO – zapisanie poprawnego wzoru na pole jednego prostokąta w zależności od jednej zmiennej, np.: (P(x) = xleft(6 - frac{2}{3}xright)), (P(y) = left(9 - frac{3}{2}yright)y). 1 pkt – zapisanie poprawnego związku między wymiarami jednego wybiegu a całkowitą długością siatki, np. (4x + 6y = 36). 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Uwagi: 1. Jeżeli zdający przyjmie (P = kxy), gdzie (k &gt; 0) i (k ne 1) i (k ne 3), ale nie zapisze, że dla przyjętej wartości współczynnika k pole P osiąga wartość największą wtedy i tylko wtedy, gdy największą wartość osiąga iloczyn xy, to może otrzymać co najwyżej 3 punkty (za zapisanie warunku początkowego, za obliczenie wymiaru x oraz obliczenie wymiaru y adekwatnie do obranego sposobu rozwiązania). 2. Jeżeli zdający zapisze błędną zależność między wymiarami jednego wybiegu a całkowitą długością siatki, ale jest ona postaci (ax + by = 36), gdzie (a, b in {2, 3, 4, 5, 6}), i rozwiąże zadanie konsekwentnie do końca, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie (za konsekwentne: wyznaczenie wzoru funkcji pola, obliczenie wymiaru x oraz obliczenie wymiaru y, adekwatnie do obranego sposobu rozwiązania). 3. Jeżeli zdający zapisze poprawnie warunek początkowy (4x + 6y = 36), a następnie sumę pól trzech prostokątów (lub pole jednego prostokąta) jako funkcję P jednej zmiennej i otrzyma wartość pierwszej współrzędnej wierzchołka paraboli zawierającej wykres funkcji P, która leży poza właściwą dziedziną funkcji P, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (za zapisanie warunku początkowego i wzoru na sumę pól lub pole jednego prostokąta). Jeżeli natomiast zdający zapisze błędny warunek początkowy, ale taki jak wymieniony w uwadze 2., a następnie konsekwentnie do tego warunku wyznaczy sumę pól trzech prostokątów (lub pole jednego prostokąta) jako funkcję P jednej zmiennej i otrzyma wartość pierwszej współrzędnej wierzchołka paraboli zawierającej wykres funkcji P, która CENTRALNA KOMISJA EGZAMINACYJNA Strona 31 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. leży poza dziedziną odpowiadającą wyznaczonej przez zdającego funkcji P, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie (za wyznaczenie wzoru funkcji P). 4. Jeżeli zdający zapisze sumę pól trzech prostokątów (lub pole jednego prostokąta) jako funkcję P jednej zmiennej, a następnie obliczy wartości tej funkcji dla pierwszej współrzędnej wierzchołka i dwóch argumentów leżących symetrycznie względem pierwszej współrzędnej wierzchołka, i nie odwoła się do własności wykresu funkcji kwadratowej, to otrzymuje co najwyżej 3 punkty za całe rozwiązanie. 5. Jeżeli zdający nie zapisze sumy pól trzech prostokątów (lub jednego prostokąta) jako funkcji jednej zmiennej, a jedynie oblicza wartości pola dla wybranych par liczb x oraz y i na tej podstawie wskazuje największą wartość pola, to za całe rozwiązanie otrzymuje 0 punktów, o ile nie nabył prawa do innej liczby punktów. 6. Jeżeli zdający oblicza największą wartość funkcji P, korzystając z rachunku różniczkowego, i nie uzasadni, że w punkcie będącym miejscem zerowym pochodnej funkcji P jest największa wartość funkcji P, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie. Za poprawne uzasadnienie, że w punkcie będącym miejscem zerowym pochodnej funkcji P jest największa wartość funkcji P, można uznać sytuację, gdy zdający bada znak pochodnej (np. szkicując wykres funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznaczając na rysunku, np. znakami „+” i „–”, znak pochodnej) oraz: – opisuje (słownie lub graficznie – np. przy użyciu strzałek) monotoniczność funkcji P LUB – zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja P ma maksimum lokalne i jest to jednocześnie jej największa wartość, LUB – zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja P ma maksimum lokalne i jest to jedyne ekstremum tej funkcji. Zasady oceniania dla sposobu VI: 4 pkt – poprawna metoda obliczenia obu wymiarów prostokąta oraz podanie poprawnego wyniku: (x = 4,5) m oraz (y = 3) m. 3 pkt – zapisanie, że spośród prostokątów o danym obwodzie największe pole ma kwadrat oraz zapisanie układu równań (begin{cases} 4x + 6y = 36 \ 2x = 3y end{cases}) oraz obliczenie (x = 4,5) m ALBO – zapisanie, że spośród prostokątów o danym obwodzie największe pole ma kwadrat oraz zapisanie układu równań (begin{cases} 4x + 6y = 36 \ 2x = 3y end{cases}) oraz obliczenie (y = 3) m. 2 pkt – zapisanie, że spośród prostokątów o danym obwodzie największe pole ma kwadrat oraz zapisanie układu równań: [begin{cases} 4x + 6y = 36 \ 2x = 3y end{cases}] 1 pkt – zapisanie związku między wymiarami prostokąta, np. (4x + 6y = 36). 0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania. Strona 32 z 41 --- Zasady oceniania rozwiązań zadań Przykładowe pełne rozwiązania Sposób I Przyjmijmy oznaczenia jak na rysunku w zadaniu. Długość siatki użytej do wykonania ogrodzenia – po uwzględnieniu warunków zadania – można zapisać równaniem: [4x + 6y = 36] Stąd wyznaczamy y: (y = 6 - frac{2}{3}x). Z warunków zadania wynika, że (x &gt; 0) i (y &gt; 0). Niech P oznacza sumę pól podstaw trzech wybiegów. Suma pól podstaw trzech wybiegów jest równa polu prostokąta o bokach długości x oraz 3y. Zatem: [P = 3xy] Sumę pól podstaw trzech wybiegów zapisujemy jako funkcję jednej zmiennej x. W tym celu podstawiamy (y = 6 - frac{2}{3}x) i otrzymujemy: [P(x) = 3xleft(6 - frac{2}{3}xright) = -2x^2 + 18x] Wyznaczamy dziedzinę funkcji P. Wykorzystamy związek między wymiarami x i y oraz wykorzystamy warunki, jakie te wymiary spełniają: [y = 6 - frac{2}{3}x &gt; 0 quad text{oraz} quad x &gt; 0] Zatem: [x  0] Zmienna x może przyjmować wartości z przedziału (0, 9). Wykresem funkcji P jest fragment paraboli skierowanej ramionami do dołu. Obliczamy pierwszą współrzędną wierzchołka paraboli: [p = -frac{18}{2 cdot (-2)} = 4,5 in (0, 9)] Zatem funkcja P przyjmuje wartość największą dla argumentu 4,5. Obliczamy drugi wymiar, dla którego suma pól podstaw trzech wybiegów jest największa: [y = 6 - frac{2}{3} cdot 4,5 = 3] Suma pól podstaw trzech wybiegów jest największa, gdy: (x = 4,5) m oraz (y = 3) m. CENTRALNA KOMISJA EGZAMINACYJNA Strona 33 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Sposób II Przyjmijmy oznaczenia jak na rysunku w zadaniu. Długość siatki użytej do wykonania ogrodzenia – po uwzględnieniu warunków zadania – można zapisać równaniem: [4x + 6y = 36] Stąd wyznaczamy x: (x = 9 - frac{3}{2}y). Z warunków zadania wynika, że (x &gt; 0) i (y &gt; 0). Niech P oznacza sumę pól podstaw trzech wybiegów. Suma pól podstaw trzech wybiegów jest równa polu prostokąta o bokach długości x oraz 3y. Zatem: [P = 3xy] Sumę pól podstaw trzech wybiegów zapisujemy jako funkcję jednej zmiennej y. W tym celu podstawiamy (x = 9 - frac{3}{2}y) i otrzymujemy: [P(y) = 3left(9 - frac{3}{2}yright)y = -frac{9}{2}y(y - 6)] Wyznaczamy dziedzinę funkcji P. Wykorzystamy związek między wymiarami x i y oraz wykorzystamy warunki, jakie te wymiary spełniają: [x = 9 - frac{3}{2}y &gt; 0 quad text{oraz} quad y &gt; 0] Zatem: [y  0] Zmienna y może przyjmować wartości z przedziału (0, 6). Wykresem funkcji P jest fragment paraboli skierowanej ramionami do dołu. Pierwsza współrzędna wierzchołka paraboli jest średnią arytmetyczną pierwiastków równania: [-frac{9}{2}y(y - 6) = 0] Zatem pierwsza współrzędna wierzchołka paraboli jest równa: [p = frac{0 + 6}{2} = 3 in (0, 6)] Zatem funkcja P przyjmuje wartość największą dla argumentu 3. Obliczamy drugi wymiar, dla którego suma pól podstaw trzech wybiegów jest największa: [x = 9 - frac{3}{2} cdot 3 = 4,5] Suma pól podstaw trzech wybiegów jest największa, gdy: (x = 4,5) m oraz (y = 3) m. Strona 34 z 41 --- Zasady oceniania rozwiązań zadań Sposób III Przyjmijmy oznaczenia jak na rysunku w zadaniu. Niech z oznacza łączną szerokość trzech wybiegów. Wtedy (z = 3y). Długość siatki użytej do wykonania ogrodzenia – po uwzględnieniu warunków zadania – można zapisać równaniem: [4x + 2z = 36] Stąd wyznaczamy z: (z = 18 - 2x). Z warunków zadania wynika, że (x &gt; 0) i (z &gt; 0). Niech P oznacza sumę pól podstaw trzech wybiegów. Suma pól podstaw trzech wybiegów jest równa polu prostokąta o bokach długości x oraz z. Zatem: [P = xz] Sumę pól podstaw trzech wybiegów zapisujemy jako funkcję jednej zmiennej x. W tym celu podstawiamy (z = 18 - 2x) i otrzymujemy: [P(x) = x(18 - 2x) = -2x^2 + 18x] Wyznaczamy dziedzinę funkcji P. Wykorzystamy związek między wymiarami x i z oraz wykorzystamy warunki, jakie te wymiary spełniają: [z = 18 - 2x &gt; 0 quad text{oraz} quad x &gt; 0] Zatem: [x  0] Zmienna x może przyjmować wartości z przedziału (0, 9). Wykresem funkcji P jest fragment paraboli skierowanej ramionami do dołu. Obliczamy pierwszą współrzędną wierzchołka paraboli: [p = -frac{18}{2 cdot (-2)} = 4,5 in (0, 9)] Zatem funkcja P przyjmuje wartość największą dla argumentu 4,5. Obliczamy drugi wymiar, dla którego suma pól podstaw trzech wybiegów jest największa: [z = 18 - 2 cdot 4,5 = 18 - 9 = 9] [y = frac{z}{3} = frac{9}{3} = 3] Suma pól podstaw trzech wybiegów jest największa, gdy (x = 4,5) m oraz (y = 3) m. CENTRALNA KOMISJA EGZAMINACYJNA Strona 35 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. Sposób IV Przyjmijmy oznaczenia jak na rysunku w zadaniu. Długość siatki użytej do wykonania ogrodzenia – po uwzględnieniu warunków zadania – można zapisać równaniem: [4x + 6y = 36] Stąd wyznaczamy y: (y = 6 - frac{2}{3}x). Z warunków zadania wynika, że (x &gt; 0) i (y &gt; 0). Niech P oznacza sumę pól podstaw trzech wybiegów. Suma pól podstaw trzech wybiegów jest równa polu prostokąta o bokach długości x oraz 3y. Zatem: [P = 3xy] Sumę pól podstaw trzech wybiegów zapisujemy jako funkcję jednej zmiennej x. W tym celu podstawiamy (y = 6 - frac{2}{3}x) i otrzymujemy: [P(x) = 3xleft(6 - frac{2}{3}xright) = 2x(9 - x)] Wyznaczamy dziedzinę funkcji P. Wykorzystamy związek między wymiarami x i y oraz wykorzystamy warunki, jakie te wymiary spełniają: [y = 6 - frac{2}{3}x &gt; 0 quad text{oraz} quad x &gt; 0] Zatem: [x  0] Zmienna x może przyjmować wartości z przedziału (0, 9). Z nierówności między średnią geometryczną i średnią arytmetyczną dla liczb dodatnich x i ((9 - x)) otrzymujemy: [sqrt{x(9 - x)} le frac{x + 9 - x}{2}] [sqrt{x(9 - x)} le 4,5] Stąd: [x(9 - x) le 20,25] przy czym równość zachodzi tylko wtedy, gdy (x = 9 - x), czyli dla (x = 4,5). Zatem funkcja P przyjmuje wartość największą dla argumentu 4,5. Obliczamy drugi wymiar, dla którego suma pól podstaw trzech wybiegów jest największa: [y = 6 - frac{2}{3} cdot 4,5 = 3] Suma pól podstaw trzech wybiegów jest największa, gdy: (x = 4,5) m oraz (y = 3) m. Strona 36 z 41 --- Zasady oceniania rozwiązań zadań Sposób V Przyjmijmy oznaczenia jak na rysunku w zadaniu. Długość siatki użytej do wykonania ogrodzenia – po uwzględnieniu warunków zadania – można zapisać równaniem: [4x + 6y = 36] Stąd wyznaczamy y: (y = 6 - frac{2}{3}x). Z warunków zadania wynika, że (x &gt; 0) i (y &gt; 0). Niech P oznacza sumę pól podstaw trzech wybiegów. Suma pól podstaw trzech wybiegów jest równa polu prostokąta o bokach długości x oraz 3y. Zatem: [P = 3xy] Sumę pól podstaw trzech wybiegów zapisujemy jako funkcję jednej zmiennej x. W tym celu podstawiamy (y = 6 - frac{2}{3}x) i otrzymujemy: [P(x) = 3xleft(6 - frac{2}{3}xright) = -2x^2 + 18x] Wyznaczamy dziedzinę funkcji P. Wykorzystamy związek między wymiarami x i y oraz wykorzystamy warunki, jakie te wymiary spełniają: [y = 6 - frac{2}{3}x &gt; 0 quad text{oraz} quad x &gt; 0] Zatem: [x  0] Zmienna x może przyjmować wartości z przedziału (0, 9). Wyznaczamy pochodną funkcji P: (P'(x) = -4x + 18) dla (x in (0, 9)). Obliczamy miejsce zerowe pochodnej funkcji P: [P'(x) = 0] [-4x + 18 = 0] [x = 4,5 in (0, 9)] Badamy znak pochodnej: (P'(x) &gt; 0) dla (x in (0, 4frac{1}{2})) (P'(x) &lt; 0) dla (x in (4frac{1}{2}, 9)) Zatem funkcja P jest rosnąca w przedziale ((0, 4frac{1}{2}]) oraz malejąca w przedziale ([4frac{1}{2}, 9)). Stąd dla (x = 4,5) funkcja P osiąga wartość największą. Obliczamy drugi wymiar, dla którego suma pól podstaw trzech wybiegów jest największa: CENTRALNA KOMISJA EGZAMINACYJNA Strona 37 z 41 --- Zadanie zawiera obrazek ważny dla rozwiązania. Na rysunku przedstawiono duży prostokąt podzielony na 6 mniejszych identycznych prostokątów (ułożonych w dwóch rzędach po trzy). Pionowe linie podziału mają długość x (w sumie są dwa rzędy, czyli wysokość całego boku to 2x). Poziome boki poszczególnych mniejszych prostokątów mają długość y (w sumie trzy obok siebie dają szerokość 3y). Na rysunku oznaczono: pionowe boki jako x i x, poziome górne boki jako y, y, y. Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. [y = 6 - frac{2}{3} cdot 4,5 = 3] Suma pól podstaw trzech wybiegów jest największa, gdy: (x = 4,5) m oraz (y = 3) m. Sposób VI Rozważmy prostokąt o bokach długości 2x oraz 3y (jak na rysunku poniżej). Obwód tego prostokąta jest równy długości siatki użytej do wykonania ogrodzenia wybiegów. Zatem obwód tego prostokąta jest równy (4x + 6y = 36). Ze wszystkich prostokątów o danym obwodzie największe pole ma kwadrat. Zatem pole rozważanego prostokąta będzie największe, gdy (2x = 3y). Rozwiązujemy układ równań: [begin{cases} 4x + 6y = 36 \ 2x = 3y end{cases}] i otrzymujemy: [begin{cases} x = 4,5 \ y = 3 end{cases}] Pole tego prostokąta jest największe, gdy (x = 4,5) oraz (y = 3). Pole tego prostokąta jest dwa razy większe od sumy pól podstaw trzech wybiegów. Stąd suma pól podstaw trzech wybiegów jest największa, gdy (x = 4,5) m oraz (y = 3) m. Strona 38 z 41 --- Zasady oceniania rozwiązań zadań Ocena prac osób ze stwierdzoną dyskalkulią Obowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej dyskalkulii z dodatkowym uwzględnieniem: I. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią (punkty 1.–12.); II. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią – egzamin maturalny z matematyki, poziom podstawowy, termin główny 2024. I. Ogólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią 1. Nie należy traktować jako błędy merytoryczne pomyłek, wynikających z: – błędnego przepisania – przestawienia cyfr – zapisania innej cyfry, ale o podobnym wyglądzie – przestawienia położenia przecinka – przestawienia położenia znaku liczby. 2. W przypadku błędów, wynikających ze zmiany znaku liczby, należy w każdym zadaniu oddzielnie przeanalizować, czy zdający opanował inne umiejętności, poza umiejętnościami rachunkowymi, oceniane w zadaniu. W przypadku opanowania badanych umiejętności zdający powinien otrzymać przynajmniej 1 punkt. 3. We wszystkich zadaniach otwartych, w których wskazano poprawną metodę rozwiązania części lub całości zadania, zdającemu należy przyznać przynajmniej 1 punkt, zgodnie z kryteriami do poszczególnych zadań. 4. Jeśli zdający przedstawia nieprecyzyjne zapisy, na przykład pomija nawiasy lub zapisuje nawiasy w niewłaściwych miejscach, ale przeprowadza poprawne rozumowanie lub stosuje właściwą strategię, to może otrzymać przynajmniej 1 punkt za rozwiązanie zadania. 5. W przypadku zadania wymagającego wyznaczenia pierwiastków trójmianu kwadratowego zdający może otrzymać 1 punkt, jeżeli przedstawi poprawną metodę wyznaczania pierwiastków trójmianu kwadratowego, przy podanych w treści zadania wartościach liczbowych. 6. W przypadku zadania wymagającego rozwiązania nierówności kwadratowej zdający może otrzymać 1 punkt, jeżeli stosuje poprawny algorytm rozwiązywania nierówności kwadratowej, przy podanych w treści zadania wartościach liczbowych. 7. W przypadku zadania wymagającego stosowania własności funkcji kwadratowej zdający może otrzymać 1 punkt za wykorzystanie konkretnych własności funkcji kwadratowej, istotnych przy poszukiwaniu rozwiązania. CENTRALNA KOMISJA EGZAMINACYJNA Strona 39 z 41 --- Egzamin maturalny z matematyki na poziomie podstawowym – termin główny 2024 r. 8. W przypadku zadania wymagającego zastosowania własności ciągów arytmetycznych lub geometrycznych zdający może otrzymać 1 punkt, jeżeli przedstawi wykorzystanie takiej własności ciągu, która umożliwia znalezienie rozwiązania zadania. 9. W przypadku zadania wymagającego analizowania figur geometrycznych na płaszczyźnie kartezjańskiej zdający może otrzymać punkty, jeżeli przy poszukiwaniu rozwiązania przedstawi poprawne rozumowanie, wykorzystujące własności figur geometrycznych lub zapisze zależności, pozwalające rozwiązać zadanie. 10. W przypadku zadania z rachunku prawdopodobieństwa zdający może otrzymać przynajmniej 1 punkt, jeśli przy wyznaczaniu liczby zdarzeń elementarnych sprzyjających rozważanemu zdarzeniu przyjmuje określoną regularność lub podaje prawidłową metodę wyznaczenia tej liczby zdarzeń elementarnych. 11. W przypadku zadania z geometrii zdający może otrzymać przynajmniej 1 punkt, jeżeli podaje poprawną metodę wyznaczenia długości odcinka potrzebnej do znalezienia rozwiązania. 12. W przypadku zadania wymagającego przeprowadzenia dowodu (z zakresu algebry lub geometrii), jeśli w przedstawionym rozwiązaniu zdający powoła się na własność, która wyznacza istotny postęp, prowadzący do przeprowadzenia dowodu, to może otrzymać 1 punkt. II. Dodatkowe szczegółowe zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią Zadanie 3. 1 pkt – zastosowanie wzoru skróconego mnożenia do wyrażenia ((n+1)^2) ALBO – zastosowanie wzoru skróconego mnożenia do wyrażenia ((n+2)^2), ALBO – przekształcenie wyrażenia ((n+1)^2) do postaci (n^2 + n + n + 1), ALBO – przekształcenie wyrażenia ((n+2)^2) do postaci (n^2 + 2n + 2n + 4). Zadanie 9. 1 pkt – przekształcenie wielomianu (x^3 - 2x^2 - 3x + 6) do postaci (x^2(x-2) - 3(x-2)) lub (x(x^2 - 3) - 2(x^2 - 3)) ALBO – zapisanie jednego z rozwiązań równania (x^3 - 2x^2 - 3x + 6 = 0). Strona 40 z 41 --- Zadanie 14.1. Stosuje się zasady oceniania arkusza standardowego. Zasady oceniania rozwiązań zadań Zadanie 17. 1 pkt – zapisanie równania z dwiema niewiadomymi, gdzie jedną z niewiadomych jest różnica ciągu arytmetycznego, np.: (-1 = a_1 + 2r) lub (-165 = frac{2a_1 + 14r}{2} cdot 15). Zadanie 24. 1 pkt – poprawne zaznaczenie w kartezjańskim układzie współrzędnych punktu C ALBO – poprawne zaznaczenie w kartezjańskim układzie współrzędnych punktu D, ALBO – zapisanie współrzędnych środka S boku AB: (S = (4, 4)). Zadanie 26. Stosuje się zasady oceniania arkusza standardowego. Zadanie 30. 1 pkt – zapisanie jedynie liczby 25 (należy traktować to jako wyznaczenie liczby wszystkich zdarzeń elementarnych). Uwagi: 1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi 1. ze standardowych zasad oceniania. 2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające zdarzeniu A, lecz popełni błąd w ich zliczeniu (np. (|A| = 12)) i konsekwentnie zapisze wynik (np. (frac{12}{25})), to otrzymuje 2 punkty. Zadanie 31. 1 pkt – zapisanie (x = 4,5) oraz (y = 3). CENTRALNA KOMISJA EGZAMINACYJNA Strona 41 z 41

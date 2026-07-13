@@ -1,0 +1,126 @@
+=== ARKUSZ: 2018p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0-5)
+W układzie współrzędnych punkty A = (4, 3) i B = (10, 5) są wierzchołkami trójkąta ABC. Wierzchołek C leży na prostej o równaniu y = 2x + 3. Oblicz współrzędne punktu C, dla którego kąt ABC jest prosty.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 32. (0–5)
+Wymagania ogólne: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (8.1). Zdający wyznacza równanie prostej, która jest równoległa lub prostopadła do prostej danej w postaci kierunkowej i przechodzi przez dany punkt (8.3). Zdający oblicza współrzędne punktu przecięcia dwóch prostych (8.4).
+
+Przykładowe rozwiązania
+I sposób – proste prostopadłe
+Obliczamy współczynnik kierunkowy prostej AB: a_AB = 1/3.
+Ponieważ kąt prosty w trójkącie ABC jest przy wierzchołku B, więc wyznaczamy równanie prostej prostopadłej do prostej AB i przechodzącej przez punkt B:
+y = -3x + 35.
+Obliczamy współrzędne punktu C, który jest punktem wspólnym prostych określonych równaniami x + 2y = 3 oraz y = -3x + 35:
+{ x + 2y = 3
+{ y = -3x + 35
+Stąd po rozwiązaniu układu równań otrzymujemy parę x = 32/5 i y = 79/5.
+Zatem punkt C ma współrzędne (32/5, 79/5).
+
+II sposób – twierdzenie Pitagorasa
+Ponieważ wierzchołek C trójkąta prostokątnego ABC leży na prostej o równaniu x + 2y = 3, więc jego współrzędne zapisujemy następująco:
+C(x, -1/2 * x + 3/2).
+Punkt B jest wierzchołkiem kąta prostego, zatem z twierdzenia Pitagorasa wynika, że
+AC^2 = AB^2 + BC^2.
+Po podstawieniu współrzędnych punktów A, B i C otrzymujemy równanie:
+[x - (-4)]^2 + [(-1/2 * x + 3/2) - (-3)]^2 = [5 - (-4)]^2 + [0 - (-3)]^2 + [x - 5]^2 + [(-1/2 * x + 3/2) - 0]^2
+
+---
+
+Strona 15 z 25
+czyli równanie
+x^2 + 8x + 16 + 1/4 * x^2 - 9/2 * x + 81/4 = 81 + 9 + x^2 - 10x + 25 + 1/4 * x^2 - 3/2 * x + 9/4,
+20x = 128
+Zatem x = 32/5.
+Jeśli x = 32/5, to y = 79/5. Zatem C = (32/5, 79/5).
+
+III sposób – iloczyn skalarny
+Wektory niezerowe są prostopadłe wtedy i tylko wtedy, gdy ich iloczyn skalarny jest równy 0. W tym przypadku oznacza to, że iloczyn skalarny wektorów AB i BC jest równy 0.
+Współrzędne wektora AB są równe AB = [6, 2].
+Punkt C ma współrzędne równe (x, -1/2 * x + 3/2), więc współrzędne wektora BC są równe
+BC = [x - 5, -1/2 * x + 3/2].
+Z warunku AB o BC = 0 otrzymujemy równanie
+6 * (x - 5) + 2 * (-1/2 * x + 3/2) = 0,
+6x - 30 - x + 3 = 0,
+5x = 27 -&gt; (Uwaga: w treści oryginalnej pojawia się 32/5 dla x, poprawne przepisanie symboli z dokumentu):
+5x = 32, stąd x = 32/5.
+Zatem C = (32/5, -1/2 * (32/5) + 3/2) = (32/5, 79/5).
+
+Schemat punktowania
+Rozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do pełnego rozwiązania: 1 p.
+Zdający
+
+* uzależni obie współrzędne punktu C od jednej zmiennej, np.: C(x, -1/2 * x + 3/2) lub C(3 - 2y, y)
+albo
+* zapisze równość AC^2 = AB^2 + BC^2 i obliczy długość AB: AB = pierwiastek(40),
+albo
+* zapisze równość AC^2 = AB^2 + BC^2 i zapisze jedną z długości AC lub BC w zależności od współrzędnych punktu C,
+albo
+* obliczy współrzędne wektora AB: AB = [6, 2] i zapisze, że AB o BC = 0,
+
+---
+
+Strona 16 z 25
+albo
+
+* wyznaczy współrzędne wektora BC w zależności od współrzędnych punktu C: BC = [x_C - 5, y_C - 0] i zapisze, że AB o BC = 0,
+albo
+* wyznaczy współrzędne wektora BC w zależności od jednej współrzędnej punktu C, np.: BC = [x - 5, -1/2 * x + 3/2],
+albo
+* obliczy współczynnik kierunkowy równania prostej AB: a_AB = 1/3
+i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie, w którym jest istotny postęp: 2 p.
+Zdający
+
+* wyznaczy współczynnik kierunkowy prostej prostopadłej do prostej AB i przechodzącej przez punkt B: a_BC = -3
+albo
+* zapisze równanie z dwiema niewiadomymi, np.: (x_C - 5)^2 + (y_C - 0)^2 + (5 - (-4))^2 + (0 - (-3))^2 = (x_C - (-4))^2 + (y_C - (-3))^2,
+albo
+* obliczy współrzędne wektora AB: AB = [6, 2], wyznaczy współrzędne wektora BC w zależności od jednej współrzędnej punktu C, np.: BC = [x - 5, -1/2 * x + 3/2] i zapisze, że AB o BC = 0,
+albo
+* zapisze równość wynikającą z warunku AB o BC = 0, w której niewiadomymi są dwie współrzędne punktu C, np.: 6 * (x_C - 5) + 2 * (y_C - 0) = 0
+i na tym zakończy lub dalej popełni błędy.
+
+Pokonanie zasadniczych trudności zadania: 3 p.
+Zdający zapisze równanie z jedną niewiadomą, która jest współrzędną punktu C, np.:
+6 * (x - 5) + 2 * (-1/2 * x + 3/2) = 0 lub [x - (-4)]^2 + [(-1/2 * x + 3/2) - (-3)]^2 = 90 + (x - 5)^2 + (-1/2 * x + 3/2)^2
+i na tym zakończy lub dalej popełni błędy.
+
+Rozwiązanie prawie pełne: 4 p.
+Zdający
+
+* obliczy x = 32/5 albo y = 79/5 i na tym zakończy lub dalej popełni błędy
+albo
+* obliczy obie współrzędne punktu C z błędami rachunkowymi.
+
+Rozwiązanie pełne: 5 p.
+Zdający obliczy i zapisze współrzędne punktu C = (32/5, 79/5).
+
+---
+
+Strona 17 z 25
+Uwagi
+
+1. Jeżeli zdający realizuje strategię rozwiązania i popełnia jedynie błędy rachunkowe, to może otrzymać 4 punkty, o ile popełnione błędy nie ułatwiają rozważanego zagadnienia na żadnym etapie rozwiązania.
+2. Jeżeli zdający realizuje strategię rozwiązania, ale popełnia błąd, który jednak nie ułatwia rozważanego zagadnienia na żadnym etapie rozwiązania i:
+a) jedynym błędem merytorycznym w rozwiązaniu jest błąd przy wyznaczaniu współczynnika a_AB, np. a_AB = (y_B - y_A) / (x_B - x_A) zamiast a_AB = (y_B - y_A) / (x_B - x_A) [z błędnym podstawieniem], to zdający otrzymuje co najwyżej 3 punkty;
+b) jedynym błędem merytorycznym w rozwiązaniu jest błąd przy wyznaczaniu równania prostej BC, to zdający otrzymuje co najwyżej 3 punkty;
+c) jedynym błędem merytorycznym w rozwiązaniu jest błąd, polegający na tym, że zdający zapisze błędną równość: AC^2 + AB^2 = BC^2, to zdający otrzymuje co najwyżej 3 punkty;
+d) w I sposobie rozwiązania przyjmie, że kąt prosty jest przy wierzchołku A, to otrzymuje co najwyżej 3 punkty;
+e) jedynym błędem merytorycznym w rozwiązaniu jest błąd przy podstawieniu do wzoru na odległość punktów, nawet trzykrotnie powtórzony, to zdający otrzymuje co najwyżej 3 punkty;
+f) jedynym błędem merytorycznym w rozwiązaniu jest zamiana miejscami współrzędnych punktu C w początkowym etapie rozwiązania, np.: C(-1/2 * x + 3/2, x), to zdający otrzymuje co najwyżej 3 punkty;
+g) jedynym błędem merytorycznym w rozwiązaniu jest przyjęcie bez obliczeń błędnego współczynnika b w równaniu prostej BC (np. b = 0), to zdający otrzymuje co najwyżej 3 punkty.
+3. Jeżeli zdający realizuje pełną strategię rozwiązania, ale popełnia błąd merytoryczny, który jednak nie ułatwia rozważanego zagadnienia na żadnym etapie rozwiązania i tym jedynym błędem merytorycznym jest błąd, polegający na zastosowaniu nieistniejącego wzoru „a_1 * a_2 = 1”, to zdający otrzymuje co najwyżej 3 punkty.
+4. Jeżeli zdający popełnia błąd, polegający na tym, że zapisuje błędną równość: AC^2 + BC^2 = AB^2, to otrzymuje co najwyżej 2 punkty.
+5. Jeżeli zdający wyznaczy równanie prostej prostopadłej do prostej o równaniu x + 2y = 3, to za rozwiązanie zadania otrzymuje 0 punktów, o ile w rozwiązaniu nie występują inne zapisy wymienione w schemacie oceniania, za które należy przyznać zdającemu punkty, np.: wyznaczenie współczynnika prostej AB.
+6. Jeżeli oprócz poprawnego rozwiązania (kąt prosty przy wierzchołku B) zdający podaje inne rozwiązanie (np. kąt prosty przy wierzchołku A), którego nie odrzuca, to otrzymuje co najwyżej 4 punkty.
+7. Jeżeli zdający zapisze równanie prostej AB w postaci ogólnej (np. dokona właściwego podstawienia współrzędnych punktów do równania prostej przechodzącej przez 2 punkty) i na tym zakończy lub dalej popełnia błędy, to otrzymuje 1 punkt.
+
+---
+
+Strona 18 z 25

@@ -1,0 +1,48 @@
+=== ARKUSZ: 2018p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0-2)
+Dwunasty wyraz ciągu arytmetycznego (a_n), określonego dla n &gt;= 1, jest równy 30, a suma jego dwunastu początkowych wyrazów jest równa 162. Oblicz pierwszy wyraz tego ciągu.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 31. (0–2)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).
+
+Przykładowe rozwiązania
+I sposób
+Korzystamy ze wzoru na n-ty wyraz ciągu arytmetycznego i zapisujemy wzór na a_12:
+a_12 = a_1 + (12 - 1) * r.
+Korzystamy ze wzoru na sumę n początkowych wyrazów ciągu arytmetycznego i zapisujemy wzór na S_12:
+S_12 = [2 * a_1 + (12 - 1) * r] / 2 * 12.
+Otrzymujemy układ równań a_1 + 11r = 30 i 12 * a_1 + 66r = 162.
+Stąd otrzymujemy a_1 = -3.
+
+II sposób
+Korzystamy ze wzoru na sumę n początkowych wyrazów ciągu arytmetycznego i zapisujemy wzór na S_12:
+S_12 = (a_1 + a_12) / 2 * 12.
+Otrzymujemy równanie:
+(a_1 + 30) / 2 * 12 = 162.
+Stąd otrzymujemy a_1 = -3.
+
+Schemat punktowania
+Zdający otrzymuje 1 p. gdy:
+
+* zapisze dwa równania z niewiadomymi a_1 i r wynikające z zastosowania poprawnych wzorów na n-ty wyraz ciągu arytmetycznego i sumę n początkowych wyrazów ciągu arytmetycznego:
+np.: a_1 + 11r = 30 i [2 * a_1 + 11r] / 2 * 12 = 162
+albo
+* zapisze równanie z jedną niewiadomą a_1 wynikające z zastosowania poprawnego wzoru na sumę n początkowych wyrazów ciągu arytmetycznego bez wykorzystywania różnicy ciągu:
+np.: (a_1 + 30) / 2 * 12 = 162
+i na tym zakończy lub dalej popełni błędy.
+
+---
+
+Strona 14 z 25
+Zdający otrzymuje 2 p. gdy zapisze równanie z jedną niewiadomą i obliczy pierwszy wyraz ciągu: a_1 = -3.
+
+Uwagi
+
+1. Jeżeli zdający, stosując metodę prób i błędów, zapisze poprawny ciąg poprzez wypisanie 12 początkowych kolejnych wyrazów i ustali, że a_1 = -3, to otrzymuje 2 punkty.
+2. Jeżeli zdający, stosując metodę prób i błędów, wypisze co najmniej trzy kolejne wyrazy i ustali, że a_1 = -3, ale nie zapisze wszystkich 12 początkowych wyrazów ciągu, to otrzymuje 1 punkt.
+3. Jeżeli zdający zapisze tylko a_1 = -3 lub a_1 = -3 i r = 3, to otrzymuje 0 punktów.

@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Przekrojem sześcianu o krawędzi \(a\) jest sześciokąt \(P_1P_2P_3P_4P_5P_6\) którego wierzchołki są środkami odpowiednich krawędzi sześcianu (rysunek poniżej). Wyznacz pole otrzymanego sześciokąta.
+
+1️⃣ rysujemy podstawę i wyznaczamy odcinek |P_1P_2| - bok sześciokąta
+
+\[
+|P_1P_2| = \frac{a\sqrt{2}}{2} \quad (\text{przekątna kwadratu o boku } \frac{a}{2})
+\]
+
+2️⃣ wykorzystujemy fakt, że 6-kąt foremny składa się z 6 \(\bigtriangleup\) równobocznych
+
+\[
+P = 3 \cdot \frac{\big(\frac{a\sqrt{2}}{2}\big)^2 \sqrt{3}}{4} = \frac{3}{2} \cdot \frac{a^2}{4} \cdot \sqrt{3} = \frac{3\sqrt{3}}{4}a^2
+\]
+
+(wzór na pole \(\bigtriangleup\) równobocznego)
+
+Odp: \(P = \frac{3\sqrt{3}}{4} a^2\)

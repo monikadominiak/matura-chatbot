@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa ABCS jest trójkąt prostokątny ABC, w którym przyprostokątne mają długość: |AC| = 9 cm, |BC| = 16 cm. Spodkiem wysokości ostrosłupa jest wierzchołek C. Wiedząc że wysokość ostrosłupa jest równa 12 cm, oblicz:
+
+a) długość boków trójkąta ABS,
+b) tangens kąta nachylenia płaszczyzny (ABS) do płaszczyzny podstawy tego ostrosłupa.
+
+a) 1) sporządzamy rysunek pomocniczy
+
+2) obliczamy |AB|
+
+9^2 + 16^2 = |AB|^2 (tw. Pitagorasa)
+
+337 = |AB|^2 => |AB| = sqrt(337)
+
+3) obliczamy |AS| i |BS|
+
+z ΔACS
+
+9^2 + 12^2 = |AS|^2
+
+|AS| = 15
+
+i z ΔCBS
+
+12^2 + 16^2 = |BS|^2
+
+|BS| = 20 (trójkąt pitagorejski)
+
+b) 1) zaznaczamy szukany kąt na rysunku i obliczamy |CD|
+
+P_ΔABC = 1/2 * 9 * 16 = 1/2 (|CD| * sqrt(337))
+
+|CD| = 144/sqrt(337)
+
+2) liczymy tgα
+
+tgα = H/|CD| = 12/(144/sqrt(337)) = 12 * sqrt(337)/144 = sqrt(337)/12
+
+Odp: a) sqrt(337), 15, 20 b) tgα = sqrt(337)/12

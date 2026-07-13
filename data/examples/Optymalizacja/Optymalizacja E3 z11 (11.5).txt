@@ -1,0 +1,85 @@
+
+--- STRONA 1 ---
+Suma długości wszystkich krawędzi podstawy i wysokości ostrosłupa prawidłowego trójkątnego wynosi 18 cm. Zbadaj, jaką wysokość powinien mieć ten ostrosłup, aby jego objętość była największa. Oblicz tę objętość.
+
+① uzależniamy od siebie zmienne
+
+\[
+3a + H = 18 \\
+H = 18 - 3a
+\]
+
+② zapisujemy wzór funkcji
+
+\[
+V = \frac{1}{3} P_p \cdot H , \quad P_p = \frac{a^2 \sqrt{3}}{4}
+\]
+
+\[
+V(a) = \frac{1}{3} \cdot \frac{a^2 \sqrt{3}}{4} \cdot (18 - 3a) = \frac{\sqrt{3}}{4} (6a^2 - a^3)
+\]
+
+③ wyznaczamy dziedzinę funkcji
+
+\[
+a > 0 , \, H > 0 \\
+18 - 3a > 0 \Rightarrow a < 6 \Rightarrow a \in (0, 6)
+\]
+
+④ wyznaczamy pochodną funkcji
+
+pomijamy stałą, dodatnią \(\frac{\sqrt{3}}{4}\) , nie ma ona wpływu na znak pochodnej
+
+\[
+niech \, f(a) = 6a^2 - a^3
+\]
+
+\[
+f'(a) = -3a^2 + 12a
+\]
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+\[
+f'(a)=0 \Leftrightarrow -3a^2 + 12a = 0 \\
+-3a(a - 4) = 0 \\
+a = 0 \; \vee \; a = 4
+\]
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+\[
+\begin{array}{c}
+\includegraphics[width=150, height=70]{function_plot.png} \\
+\end{array}
+\]
+
+II sposób:
+
+\[
+\begin{array}{|c|c|c|c|}
+\hline
+a & (0, 4) & 4 & (4, 6) \\
+\hline
+f'(a) & + & 0 & - \\
+\hline
+f(a) & \uparrow & \text{max. lok.} & \downarrow \\
+\hline
+\end{array}
+\]
+
+Funkcja \(f(a)\), a więc również \(V(a)\) osiąga w swojej dziedzinie wartość najwyższą dla argumentu \(a=4\)
+
+⑦ obliczamy wysokość i objętość
+
+\[
+H = 18 - 3a = 18 - 12 = 6 \; [\text{cm}]
+\]
+
+\[
+V(4) = \frac{\sqrt{3}}{4} (6 \cdot 4^2 - 4^3) = 8 \sqrt{3} \; [\text{cm}^3]
+\]
+
+Odp: \(H=6 \text{ cm} , V = 8 \sqrt{3} \text{ cm}^3\)

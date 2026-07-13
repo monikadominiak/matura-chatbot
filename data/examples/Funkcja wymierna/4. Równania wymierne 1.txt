@@ -1,0 +1,103 @@
+
+--- STRONA 1 ---
+4. Równania wymierne 1
+
+Rozwiąż równanie:
+
+a) \(\dfrac{x-3}{x-2} = \dfrac{x+3}{x+2}\)
+
+b) \(\dfrac{x+1}{x} = \dfrac{2x+1}{x}\)
+
+c) \(\dfrac{x+1}{2x-1} = \dfrac{2}{x} = 0\)
+
+a)
+
+\[
+\dfrac{x-3}{x-2} = \dfrac{x+3}{x+2}
+\]
+
+\(\textcircled{1}\) Wyznaczamy dziedzinę.
+
+\(D: \ x-2 \neq 0 \quad \land \quad x+2 \neq 0\)
+
+\[x \neq 2 \quad \quad x \neq -2\]
+
+\[D = \mathbb{R} \setminus \{-2, 2\}\]
+
+\(\textcircled{2}\) Rozwiązujemy równanie.
+
+\[
+\dfrac{x-3}{x-2} = \dfrac{x+3}{x+2}
+\]
+
+\[
+(x-3)(x+2) = (x+3)(x-2)
+\]
+
+\[
+x^2 + 2x - 3x - 6 = x^2 - 2x + 3x - 6
+\]
+
+\[
+-x = x
+\]
+
+\[
+-2x = 0
+\]
+
+\[x = 0 \in D\]
+
+\(\text{Odp: Rozwiązaniem równania jest } x = 0.\)
+
+--- STRONA 2 ---
+b) \[\frac{x+1}{x} = \frac{x+1}{2x+1}\]  
+
+① Wyznaczamy dziedzinę.  
+D: \(x \neq 0 \ \land \ 2x+1 \neq 0\)  
+\(2x \neq -1\)  
+\(x \neq -\frac{1}{2}\)  
+
+D = \(\mathbb{R} \ \backslash \ \{-\frac{1}{2}, 0\}\)  
+
+② Rozwiązujemy równanie.  
+\[\frac{x+1}{x} = \frac{x+1}{2x+1}\]  
+
+\((x+1)(2x+1) = (x+1) \cdot x\)  
+\((x+1)(2x+1) - x(x+1) = 0\)  
+\((x+1) \left[(2x+1) - x \right] = 0\)  
+\((x+1)(x+1) = 0\)  
+\((x+1)^2 = 0\)  
+\(x+1 = 0\)  
+\(x = -1 \in \mathcal{D}\)  
+
+Odp.: Rozwiązaniem równania jest \(x=-1\).
+
+--- STRONA 3 ---
+c) \(\frac{x+1}{2x-1} - \frac{2}{x} = 0\)
+
+① Wyznaczamy dziedzinę.
+
+\(D: \ 2x-1 \neq 0 \quad \land \quad x \neq 0\)
+
+\(2x \neq 1\)
+
+\(x \neq \frac{1}{2}\)
+
+\(D = \mathbb{R} \backslash \{0, \frac{1}{2} \}\)
+
+② Rozwiązujemy równanie.
+
+\(\frac{x+1}{2x-1} - \frac{2}{x} = 0 \quad /\cdot x (2x-1)\)
+
+\((x+1)x - 2(2x-1) = 0\)
+
+\(x^2 + x - 4x + 2 = 0\)
+
+\(x^2 - 3x + 2 = 0\)
+
+\(\Delta = (-3)^2 - 4 \cdot 1 \cdot 2 = 9 - 8 = 1\)
+
+\(x_1 = \frac{3-1}{2} = 1 \in D \quad \ \ \ \ \ \ x_2 = \frac{3+1}{2} = 2 \in D\)
+
+Odp.: Rozwiązaniem równania jest \(x \in \{1, 2\}\).

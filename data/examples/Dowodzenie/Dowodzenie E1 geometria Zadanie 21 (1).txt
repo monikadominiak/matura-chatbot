@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Dany jest trapez równoramienny o podstawach a i b oraz wysokości h. Wykaż, że jeżeli w ten trapez można wpisać okrąg, to h = \sqrt{ab}.
+
+① tworzymy rysunek poglądowy
+
+⓵ Teza: h = \sqrt{ab}
+
+⓶ W tezie mamy pierwiastek, co sugeruje, aby go otrzymać potrzebujemy najpierw h^2
+
+Z tw. Pitagorasa:
+\left(\frac{a-b}{2}\right)^2 + h^2 = \left(\frac{a+b}{2}\right)^2
+
+⓵ Suma przeciwległych boków są sobie równe
+
+czyli: a + b = 2c
+c = \frac{a+b}{2}
+
+③ Z otrzymanego równania wyznaczamy h
+
+h^2 = \left(\frac{a+b}{2}\right)^2 - \left(\frac{a-b}{2}\right)^2
+
+h^2 = \frac{a^2+2ab+b^2-(a^2-2ab+b^2)}{4} = \frac{4ab}{4} = ab \quad | \sqrt{}
+
+h = \sqrt{ab}
+
+c.k.d.

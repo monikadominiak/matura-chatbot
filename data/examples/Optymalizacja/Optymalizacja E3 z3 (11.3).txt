@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Wyznacz te wartości parametru \( m \), dla których funkcja \( f(x) = x^3 + 6x^2 + mx + 1 \) jest rosnąca w zbiorze liczb rzeczywistych.
+
+\( f(x) = x^3 + 6x^2 + mx + 1 \)
+
+1️⃣ zapisujemy warunek z polecenia
+
+\( f(x)\uparrow \iff f'(x) \geq 0 \)
+
+2️⃣ wyznaczamy pochodną funkcji \( f \)
+
+\( f'(x) = 3x^2 + 12x + m \geq 0 \)
+
+\( a = 3 > 0, \) więc ramiona paraboli w górę
+
+(graphical illustration)
+
+3️⃣ aby parabola wyglądała tak jak na rysunkach poglądowych musi być spełniony warunek \( \Delta \leq 0 \) (\( 0 \) lub \( 1 \) rozwiązanie)
+
+\( 12^2 - 4 \cdot 3 \cdot m \leq 0 \)
+
+\( 144 - 12m \leq 0 \)
+
+\( 12m \geq 144 \)
+
+\( m \geq 12 \)
+
+Odp: \( m \in \langle 12, +\infty) \)

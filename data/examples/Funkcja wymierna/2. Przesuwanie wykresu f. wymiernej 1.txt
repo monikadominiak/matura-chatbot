@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+2. Przesuwanie wykresu f. wymiernej 1
+
+Przesuń wykres funkcji f o dany wektor. Podaj wzór otrzymanej funkcji, jej dziedzinę, zbiór wartości i równania asymptot jej wykresu: 
+
+a) \( f(x) = \frac{-1}{x}, [-1;3] \)
+
+b) \( f(x) = \frac{-2}{x}, [2;-4] \)
+
+a) ① Wyznaczamy wzór nowej funkcji.
+
+\[ f(x) = \frac{-1}{x} \quad \underrightarrow{\vec{u}=[-1,3]} \quad g(x) = f(x-a)+b \]
+
+\[ g(x) = f(x-(-1)) + 3 = \frac{-1}{x+1} + 3 \]
+
+② Wyznaczamy dziedzinę, zbiór wartości oraz asymptoty funkcji \( g(x) \) na podstawie wykresu.
+
+\[ D: \; x+1 \neq 0 \]
+
+\[ \frac{x}{x+1} \neq -1 \]
+
+\[ D = \mathbb{R} \setminus \{-1\} \]
+
+\[ \text{ZW} = \mathbb{R} \setminus \{3\} \]
+
+Asymptota pionowa: \( x = -1 \) 
+
+Asymptota pozioma: \( y = 3 \) 
+
+Odp: Wzór funkcji \( g(x) = \frac{-1}{x+1} + 3 \), dziedzina: \( D = \mathbb{R} \setminus \{-1\} \), zbiór wartości: \( \text{ZW} = \mathbb{R} \setminus \{3\} \), asymptota pionowa: \( x = -1 \), asymptota pozioma: \( y = 3 \).
+
+--- STRONA 2 ---
+b) ➊ Wyznaczamy wzór nowej funkcji.
+
+\( f(x) \underset{u\rightarrow[a,b]}{\longrightarrow} g(x)=f(x-a)+b. \)
+
+\( f(x)=\frac{-2}{x} \underset{u\rightarrow[2,-4]}{\longrightarrow} g(x)=\frac{-2}{x-2}-4 \)
+
+➋ Wyznaczamy dziedzinę, zbiór wartości oraz asymptoty funkcji \( g(x) \) na podstawie wykresu.
+
+\( D: x-2 \neq 0 \)
+
+\( x \neq 2 \)
+
+\( D=\mathbb{R}\setminus\{2\} \)
+
+\( ZW=\mathbb{R}\setminus\{-4\} \)
+
+Asymptota pionowa : \( x=2 \)
+
+Asymptota pozioma : \( y=-4 \)
+
+Odp: Wzór funkcji \( g(x)=\frac{-2}{x-2}-4 \), dziedzina : \( D=\mathbb{R}\setminus\{2\} \),
+
+zbiór wartości : \( ZW=\mathbb{R}\setminus\{-4\} \), asymptota pionowa : \( x=2 \),
+
+asymptota pozioma : \( y=-4. \)

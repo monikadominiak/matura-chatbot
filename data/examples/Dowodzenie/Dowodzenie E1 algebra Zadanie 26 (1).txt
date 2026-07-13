@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Funkcja kwadratowa \( f(x) = x^2 + bx + c^2 \) nie ma miejsc zerowych. Wykazać, że \(|b| < 2|c|\).
+
+\( f(x) = x^2 + bx + c^2 - \text{nie ma miejsc zerowych} \)
+
+\(\Rightarrow \Delta_f < 0\)
+
+teza: \(|b| < 2|c|\)
+
+\( \ \ \ \ \ 1) \) wyznaczamy \(\Delta_f\)
+
+\(\Delta = b^2 - 4ac\)
+
+\(\Delta_f = b^2 - 4 \cdot 1 \cdot c^2 = b^2 - 4c^2 < 0\)
+
+\( \ \ \ \ \ 2) \) przekształcamy otrzymaną nierówność
+
+\(b^2 - 4c^2 < 0 \ \ \ \ \Rightarrow \ \ \ \ b^2 < 4c^2 \ / \sqrt{}\)
+
+\(\sqrt{a^2} = |a|\)
+
+\(|b| < 2|c| \ \ \ \ \ c.k.d\)

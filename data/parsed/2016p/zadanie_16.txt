@@ -1,0 +1,14 @@
+=== ARKUSZ: 2016p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0-1)
+Przedstawione na rysunku trójkąty ABC i PQR są podobne. Bok AB trójkąta ABC ma długość
+A. 8
+B. 8,5
+C. 9,5
+D. 10
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 16. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów (7.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

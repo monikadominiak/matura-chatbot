@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+Oblicz, ile jest liczb naturalnych trzycyfrowych podzielnych przez 9 lub podzielnych przez 12?
+
+1️⃣ 3-cyfrowe podzielne przez 9 lub 12
+
+przez 9 i przez 12
+
+___ ___ ___ przez 9 + przez 12 - jednocześnie przez 9 i 12
+
+ile jest wszystkich liczb 3-cyfrowych? 9⋅10⋅10 = 900
+
+liczymy ile jest liczb podzielnych przez 9, 12 na dwa sposoby:
+
+przez 9
+
+Ⅰ sposób: 9/9⋅900=100
+
+Ⅱ sposób: posługujemy się ciągiem arytmetycznym (najbardziej uniwersalny) 108,117,…,999
+
+999 = 108 + (n-1)⋅9
+
+891 = 9n - 9
+
+n = 100
+
+przez 12
+
+12/12⋅900 = 75
+
+an = a1+(n-1)⋅r
+
+3️⃣ sposobem Ⅰ liczymy ile jest liczb podzielnych przez 9 i 12 jednocześnie
+
+NWW(9,12)
+
+9 = 3⋅3  12=3⋅4
+
+NWW = 3⋅3⋅4 = 36
+
+1/36⋅900 = 25
+
+4️⃣ podajemy odpowiedź:
+
+100 + 75 - 25 = 150
+
+przez 3        przez 12        przez 9 i 12
+tutaj dwukrotnie liczone są przez 9 i 12, dlatego musimy je raz odjąć
+
+Odp: 150

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0–2)
+Rozwiąż nierówność 2x^2 - 3x - 9 &gt; 0.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

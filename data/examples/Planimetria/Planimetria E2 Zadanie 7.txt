@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zad.7 Dany jest trójkąt o bokach 4, 6, 8. Oblicz stosunek długości promienia okręgu wpisanego w ten trójkąt do długości promienia okręgu opisanego na tym trójkącie.
+
+1) Tworzymy rysunek pomocniczy:
+
+2) Obliczamy pole trójkąta ze wzoru Herona:
+
+p = \frac{4+6+8}{2} = 9
+
+P_{\Delta} = \sqrt{9 \cdot (9-4) \cdot (9-6) \cdot (9-8)} = \sqrt{9 \cdot 5 \cdot 3 \cdot 1} = \sqrt{9 \cdot 15} = 3\sqrt{15}
+
+3) Wyznaczamy stosunek R i r na podstawie pola trójkąta:
+
+P_{\Delta} = p \cdot r \Rightarrow r = \frac{P_{\Delta}}{p} = \frac{3\sqrt{15}}{9} = \frac{\sqrt{15}}{3}
+
+P_{\Delta} = \frac{abc}{4R} \Rightarrow R = \frac{abc}{4P_{\Delta}} = \frac{192}{4 \cdot 3 \sqrt{15}} = \frac{192 \sqrt{15}}{60} = \frac{16 \sqrt{15}}{5}
+
+\frac{r}{R} = \frac{\sqrt{15}}{3} \cdot \frac{15}{16 \sqrt{15}} = \frac{15}{48} = \frac{5}{16} \Rightarrow r = \frac{5}{16} R
+
+Odp. r = \frac{5}{16} R

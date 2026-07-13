@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zad.3 Dla jakich wartości a błąd względny, jaki popełniamy, przybliżając liczbę 440 liczbą a, jest równy 10%?
+
+1) Podstawiamy dane do wzoru na błąd względny i rozwiązujemy równanie:
+
+x = 440
+
+a = ?
+
+BW = 10%
+
+BW = |x-a| / |x| . 100%
+
+10% = |440-a| / 440 . 100% / : 100%
+
+0.1 = |440-a| / 440 / . 440
+
+|440-a| = 44
+
+440-a = 44 v 440-a = -44
+
+a = 396 v a = 484
+
+Odp. a = 396 lub a = 484.

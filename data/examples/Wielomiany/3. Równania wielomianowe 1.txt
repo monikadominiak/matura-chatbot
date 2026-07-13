@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+3. Równania wielomianowe 1  
+Rozwiąż równania  
+a) x^6 - 25x^2 = 0  
+b) x^5 + 4x^4 = 12x^3  
+c) 3x^5 = (x^7 + 3x^6) / 6
+
+a)  
+x^6 - 25x^2 = 0 ← wyciągamy czynnik przed nawias  
+x^2(x^4 - 25) = 0  
+x^2((x^2 - 5)(x^2 + 5)) = 0 ← a^2 - b^2 = (a-b)(a+b)  
+x^2(x - sqrt(5))(x + sqrt(5))(x^2 + 5) = 0  
+x^2 = 0  
+x = 0  
+x - sqrt(5) = 0  
+x = sqrt(5)  
+x + sqrt(5) = 0  
+x = -sqrt(5)  
+x^2 + 5 = 0  
+Δ < 0  
+Odp: x ∈ {-sqrt(5), 0, sqrt(5)}.
+
+b)  
+x^5 + 4x^4 = 12x^3 \ | -12x^3  
+x^5 + 4x^4 - 12x^3 = 0  
+x^3(x^2 + 4x - 12) = 0  
+x^3 = 0  
+x = 0  
+x^2 + 4x - 12 = 0 \  
+Δ = b^2 - 4ac  
+Δ = 16 + 48 = 64  
+sqrt(Δ) = 8  
+x_1 = (-4-8)/2 = -6  
+x_2 = (-4+8)/2 = 2  
+Odp: x ∈ {-6, 0, 2}.
+
+c)  
+3x^5 = (x^7 + 3x^6) / 6 \ | ⋅ 6  
+18x^5 = x^7 + 3x^6 \ | -18x^5  
+x^7 + 3x^6 - 18x^5 = 0 ← wyciągamy czynnik przed nawias  
+x^5(x^2 + 3x - 18) = 0  
+x^5 = 0  
+x = 0  
+x^2 + 3x - 18 = 0  
+Δ = b^2 - 4ac  
+Δ = 9 - 4⋅1⋅(-18) = 81  
+sqrt(Δ) = 9  
+x_1 = (-3-9)/2 = -6  
+x_2 = (-3+9)/2 = 3  
+Odp: x ∈ {-6, 0, 3}.

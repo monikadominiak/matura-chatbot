@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Oblicz, jakie wymiary powinna mieć puszka w kształcie walca o pojemności 128π cm³, aby na jej wyprodukowanie można było zużyć jak najmniejszą ilość blachy.
+
+① uzależniamy od siebie zmienne
+
+\[ V = 128\pi \, [\text{cm}^3] \]
+
+\[ V = \pi r^2 h \]
+
+\[ P = 2\pi r(r+h) \]
+
+\[ 128\pi = \pi r^2 h \]
+
+\[ h = \frac{128}{r^2} \]
+
+\[ r > 0 \, , \, h > 0 \]
+
+② zapisujemy wzór funkcji
+
+\[ P(r) = 2\pi r\left(r+\frac{128}{r^2}\right) = 2\pi r^2 + \frac{256\pi}{r} \]
+
+③ wyznaczamy pochodną funkcji
+
+\[ P'(r) = 4\pi r - \frac{256\pi}{r^2} \]
+
+④ wyznaczamy miejsca zerowe pochodnej
+
+\[ P'(r) = 0 \Leftrightarrow 4\pi r - \frac{256\pi}{r^2} = 0 \, / \cdot \frac{r^2}{4\pi} \]
+
+\[ r^3 = 64 \quad \Rightarrow \quad r = 4 \]
+
+⑤ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+\[ \begin{array}{c|c|c|c} 
+r & (0,4) & 4 & (4, \infty) \\ 
+\hline 
+P'(r) & - & 0 & + \\ 
+\hline
+P(r) & \searrow & \text{min. lok.} & \nearrow \\ 
+\end{array} \]
+
+Funkcja P(r) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu  \( r = 4 \, [\text{cm}] \)
+
+⑥ obliczamy wartość h
+
+\[ h = \frac{128}{4^2} = \frac{128}{16} = 8 \, [\text{cm}] \]
+
+odp: \( r = 4\text{cm} \, , \, h = 8\text{cm} \)

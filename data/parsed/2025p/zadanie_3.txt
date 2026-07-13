@@ -1,0 +1,20 @@
+=== ARKUSZ: 2025p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba log_3 108 − 2log_3 2 jest równa
+
+A. 3
+B. 9
+C. log_3 104
+D. 2log_3 54
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

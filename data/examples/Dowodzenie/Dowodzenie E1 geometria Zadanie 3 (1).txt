@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+W trójkącie prostokątnym ABC wysokość CD poprowadzona z wierzchołka kąta prostego C podzieliła przeciwprostokątną na odcinki AD i BD. Wykaż, że |CD| = sqrt(|AD| * |BD|).
+
+1️⃣ tworzymy rysunek poglądowy
+
+teza: sqrt(|AD| * |BD|)
+
+2️⃣ oznaczamy odpowiednie kąty
+
+niech |∠CAB| = α
+
+i |∠CBA| = β
+
+więc z ΔABC: β = 90° - α i α = 90° - β
+
+3️⃣ mamy zatem trójkąty podobne
+
+ΔABC ~ ΔADC ~ ΔCDB z cechy kkk
+
+Uwaga: Warto zapamiętać sytuację z tego zadania: Δ prostokątny przez, który poprowadzono odcinek prostopaty, i który tworzy podobne Δ prostokątne
+
+4️⃣ zapisujemy odpowiedni stosunek, tak aby wykorzystać odcinki z tezy
+
+|CD| / |BD| = |AD| / |CD|
+
+|CD| * |CD| = |AD| * |BD|
+
+|CD|^2 = |AD| * |BD|  / sqrt
+
+|CD| = sqrt(|AD| * |BD|)   |CD| > 0
+
+c.k.d.

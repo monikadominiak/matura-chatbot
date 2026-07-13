@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Zadanie z3 (7.1) Rozwiąż nierówność |x^2 + 6x - 1| ≤ 6.
+
+1) Rozwiązujemy nierówność za pomocą własności wart. bezwzgl.:
+
+|x^2 + 6x - 1| ≤ 6
+
+x^2 + 6x - 1 ≤ 6
+
+x^2 + 6x - 7 ≤ 0
+
+x^2 - x + 7x - 7 ≤ 0
+
+x(x - 1) + 7(x - 1) ≤ 0
+
+(x - 1)(x + 7) ≤ 0
+
+x^2 + 6x - 1 ≥ -6
+
+x^2 + 6x + 5 ≥ 0
+
+x^2 + x + 5x + 5 ≥ 0
+
+x(x + 1) + 5(x + 1) ≥ 0
+
+(x + 1)(x + 5) ≥ 0
+
+x ∈ <-7,1> ∧ x ∈ (-∞,-5> ∪ <-1,+∞)
+
+⟹ x ∈ <-7,-5> ∪ <-1,1>
+
+Odp. x ∈ <-7,-5> ∪ <-1,1>.
+
+Wskazówka: niewiadoma występuje tylko w jednym miejscu, wewnątrz wart. bezwzgl., co oznacza że można opuszczać poszczególne wart. bezwzgl. korzystając z poniższych schematów:
+
+|x| ≤ p <=> x ≤ p ∧ x ≥ -p
+
+|x| < p <=> x < p ∧ x > -p
+
+|x| ≥ p <=> x ≥ p ∨ x ≤ -p
+
+(zał. p>0)
+
+UNAGA: spójników lub (∨) oraz i (∧) nie trzeba pisać w rozwiązaniu, nie jest to obowiązkowe. Niemniej jednak trzeba oczywiście mieć świadomość czy w danym momencie należy wyznaczyć sumę (spójnik lub) czy część wspólną (spójnik i).

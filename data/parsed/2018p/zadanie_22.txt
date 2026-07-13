@@ -1,0 +1,15 @@
+=== ARKUSZ: 2018p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku przedstawiono bryłę zbudowaną z walca i półkuli. Wysokość walca jest równa r i jest taka sama jak promień półkuli oraz taka sama jak promień podstawy walca. Objętość tej bryły jest równa A. (5/3) * pi * r^3 B. (4/3) * pi * r^3 C. (2/3) * pi * r^3 D. (1/3) * pi * r^3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 22. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość walca, stożka, kuli (G11.2).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C

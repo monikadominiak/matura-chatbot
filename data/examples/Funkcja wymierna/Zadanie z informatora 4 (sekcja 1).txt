@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Zadanie 4 z informatora maturalnego - TYP 4.2 - funkcja homograficzna
+
+Funkcja \( f \) jest określona wzorem
+
+\[
+f(x) = \frac{-3x + 41}{x - 13}
+\]
+
+Punktem kratowym nazywamy punkt w układzie współrzędnych, którego obie współrzędne są liczbami całkowitymi.
+
+Wyznacz wszystkie punkty kratowe należące do wykresu funkcji \( f \).
+
+\[
+\textcolor{#1E90FF}{1) \text{ Przekształcamy wzór funkcji do postaci kanonicznej.}}
+\]
+
+\[
+f(x) = \frac{-3x + 41}{x - 13} = \frac{-3(x - 13) + 2}{x - 13} = \frac{2}{x - 13} - 3
+\]
+
+\[
+\textcolor{#009900}{\text{Aby }} \frac{2}{x - 13} - 3 \text{ było całkowite, } x - 13 \text{ musi być dzielnikiem 2.}
+\]
+
+\[
+\textcolor{#1E90FF}{2) \text{ Wypisujemy dzielniki 2.}}
+\]
+
+Dzielniki: \(-2, -1, 1, 2\)
+
+\[
+\textcolor{#1E90FF}{3) \text{ Obliczamy } x - 13 = \text{Dzielniki i obliczamy } y.}
+\]
+
+\[
+\begin{aligned}
+x - 13 &= -2 \\
+x &= 11 \\
+y &= \frac{2}{11 - 13} - 3 = -4 \\
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+x - 13 &= -1 \\
+x &= 12 \\
+y &= \frac{2}{12 - 13} - 3 = -5 \\
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+x - 13 &= 1 \\
+x &= 14 \\
+y &= \frac{2}{14 - 13} - 3 = -1 \\
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+x - 13 &= 2 \\
+x &= 15 \\
+y &= \frac{2}{15 - 13} - 3 = -2 \\
+\end{aligned}
+\]
+
+\[
+\textcolor{#FF4500}{\text{Odp.: } (11, -4), (12, -5), (14, -1), (15, -2).}
+\]

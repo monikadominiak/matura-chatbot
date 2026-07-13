@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Zadanie 1
+
+Punkt \( P = (x, y) \) leży na końcowym ramieniu kąta \(\alpha\). Oblicz rzędną y punktu \( P \), gdy \(\alpha = 300^\circ \land x = \sqrt{2}\).
+
+1️⃣ Rysujemy rysunek pomocniczy.
+\[ 
+\begin{array}{c}
+\includegraphics{rysunek.png}
+\end{array}
+\]
+
+Z karty wzorów: \(\tg \alpha = \frac{y}{x}\).
+
+2️⃣ Obliczamy \(\tg 300^\circ\).
+
+Wiemy, że \(\tg \alpha = \frac{\sin \alpha}{\cos \alpha}\).
+
+\[ 
+\begin{array}{c}
+\includegraphics{sin.png}
+\end{array}
+\]
+
+\(\sin 300^\circ = -\frac{\sqrt{3}}{2}\)
+
+\[ 
+\begin{array}{c}
+\includegraphics{cos.png}
+\end{array}
+\]
+
+\(\cos 300^\circ = \frac{1}{2}\)
+
+\[
+\tg 300^\circ = \frac{\sin 300^\circ}{\cos 300^\circ} = \frac{-\frac{\sqrt{3}}{2}}{\frac{1}{2}} = -\sqrt{3}
+\]
+
+3️⃣ Obliczamy rzędną \( y \).
+
+\[
+\tg 300^\circ = \frac{y}{\sqrt{2}}
+\]
+
+\[
+-\sqrt{3} = \frac{y}{\sqrt{2}}
+\]
+
+\[
+y = -\sqrt{6}
+\]
+
+Odp.: \( y = -\sqrt{6} \).

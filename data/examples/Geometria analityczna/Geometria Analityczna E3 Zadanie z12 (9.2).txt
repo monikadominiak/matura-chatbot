@@ -1,0 +1,141 @@
+
+--- STRONA 1 ---
+**Zadanie z12 (9.2)** Punkt C = (-1, 4) jest wierzchołkiem trójkąta równoramiennego ABC, którego podstawa zawiera się w prostej o równaniu y = 2x - 4. Znajdź współrzędne pozostałych wierzchołków trójkąta wiedząc, że długość podstawy AB jest równa długości wysokości opuszczonej z wierzchołka C.
+
+2) Tworzymy symetralną podstawy
+
+1) Wyznaczamy wierzchołek D odcinka AB:
+
+Punkt D leży na przecięciu prostych CD i AB.
+
+Podstawiamy nim znane nam prostej CD.
+
+Stosujemy do wzorów na prostą postać prostej oraz z punktu C.
+
+\( pr. \ CD \ y-x-4=0 \)
+
+\( pr. \ CD \ po \ wzorku \ pr. AB \ ex-b \ y+4=0 \)
+
+\( a_1 =2, b=4 \)
+
+\( a_2 =1, b=4 \)
+
+\( pr. \ CD : y - x-4+b \)
+
+\( C(-1, 4) \in pr. CD \ co \ 4r - 4-x+1=0 \)
+
+\( b=2 \)
+
+\( pr. \ CD \equiv y-x+4=0 \)
+
+\{
+\ y=x \frac{5}{3}
+
+\ y=2x-4 \}
+
+\{
+x=-3 \\
+y=-2
+\}
+
+\[
+D(3,2)
+\]
+
+\( pr. CD: y=1.5x
+b=2 \)
+
+3)Obliczamy h ze wzoru na odległość punktu od prostej:
+
+\( C(-1, 4):\)
+
+\( y=2x-4; \ -2x-y+4-0 \)
+
+\( 4.2 =4. ->C(-1, 4) \ C=4 \)
+
+\( -1. -2+1=0->h_AB \)
+
+\( c_0=- \frac{4}{3}; x_0=-1.4; \equiv 3 \|0. \ AB=2 \|4:=-4
+x_0=-2 \ \) do równ \ pr. \ CD:
+\((ab) \ 2 \) \( y=x
+
+2 \times 4=3. \)
+
+\( dla \ AB: A(x_0, b=4 \ C=4
+\equiv AB=AB \rightarrow A+B. \)
+
+\( z \ wzoru \ na \ AB=zdolne)\)
+
+\[
+D \left(\frac {1|x_0-B_0=|{C}} \right) = \frac{|Ax_0+B_0=C|}{\sqrt{A^2+B^2}}
+\]
+
+\{
+\( \underline{} \frac{1|-4(-2||}2-4=-14|-2|6 \)
+
+)
+
+4) Smienia zawsze w k \ na \ stereo \ D:x[indx]
+\)
+
+\( x-3=s+1=- \ 0.135 \)
+\( x=-3.5s+0+3)
+\)
+
+\( -1 \left( -1 \ b=-x \ dx(x-2,-1)(D, X_0). 2 - cx \ {(a, 2 \ + b=0-1/2 \ real) 18=as
+
+D: x \ \ x\]
+
+5) Wyznaczamy \ punkty)
+\[
+h_{max} = \sqrt{AB^2+ \ \triangle D_{ C x = \frac{1}{z}}
+\]
+
+UNIKA: Sykosym \ ze sk \ mini) \ \ \ \ +
+
+\( \begin{bmatrix}a \sqrt{4}\); \( y=2x-4
+\end{bmatrix}
+\)
+
+\( | h \ ||\|\ \ \ \ \ \ \ \ \ \ \)
+
+}${D, DMB} - a \mathit{y_y}=0 \ - a \frac{1}{|} \)
+
+(\)
+
+rozwiąza \ r\r \ \chebea; \ \, (25)\ \ \ 
+
+\( CD x a \ A: A x \ x-D$:
+\]
+
+Odp. \(C(x, y)=-\>t_{(2,0)}_0 \, o_xi.nioD \)
+
+Jest dopiero A, to) D, także \ 
+
+Dychłość \ **średnie**:| \( \ \ { C \ x= A =D 
+B:wB:\left(D={a}\right) \
+pr h + e=_A=[-x_c)
+\(
+\mathbb{^v
+C}
+\) . (całkHz \ w_e \ (= \ g: + \ xO=-x+2=4\ 
+
+*mac \ $wz \r.oR.level-C dy:=(- |}
+
+// c= x=(d,n\#,in
+wz$f(|^&`)" \)
+\ 
+jsx$ \ &D_D=\_{C_0}(\;)} 
+
+
+ jest; {3^2 D{\ +\)
+
+by mil
+
+& spr€{nN
+
+ \(m+1= CDxy:x+a \ \
+\mathbb_{\=4t_\odot}}))]}$   \) 
+
+Serna_{\frac{y=st})]+
+system C попра:-o \(-d$\). 偶⁠:| \ýärqa\":).

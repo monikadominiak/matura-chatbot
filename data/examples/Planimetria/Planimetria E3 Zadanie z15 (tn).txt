@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+**Zadanie z15 (tm)** W trójkącie prostokątnym długości wysokości i środkowej poprowadzonych z wierzchołka kąta prostego oraz długość przeciwprostokątnej tworzą ciąg geometryczny, którego iloczyn wyrazów jest równy 8. Oblicz długość promienia okręgu wpisanego w ten trójkąt.
+
+1) Tworzymy rysunek poglądowy:
+
+rysunek trójkąta prostokątnego ABC
+
+Środek przeciwprostokątnej jest środkiem okręgu opisanego na trójkącie prostokątnym, więc długość środkowej jest równa promieniowi tego okręgu.
+
+2) Korzystamy z informacji o ciągu geometrycznym i wyrażamy wysokość w zależności od promienia:
+
+Wyrazy ciągu geometrycznego z treści zadania oznaczmy w tej chwili jako h, R, 2R.
+
+To pozwala wyznaczyć iloraz tego ciągu:
+
+q = a2 / a1 = 2R / R = 2
+
+W związku z tym:
+
+q³ = a3 / a1 = 8 / R = 2 => R = 4
+
+3) Wyznaczamy promień z iloczynu wyrazów ciągu:
+
+√ a1 ⋅ R ⋅ 2R = 8
+
+R^3 = 8 => R = 2 => √ a1 ⋅ 4 ⋅ 8 = 4
+
+4) Wyznaczamy wszystkie boki trójkąta, przy użyciu tw. Pitagorasa:
+
+w Δ SOB:
+
+|SO|² + x² = |SB|²
+
+|AO|²=|AS|²+|OS|²=>|OS|=√49|AB|²⇒|AB|>=8=>4√3
+
+w Δ ABD:
+
+(2√3)² + r² = 18
+
+8 + 4√3 = 18 - |AB| / |r|
+
+|AB|=√8+8=|2+2√3|
+
+w Δ BCD:
+
+(2√3)² + r² + 18
+
+8 + 4√3 = 18 - |r|
+
+|BC| = (8 - 16) = 2(2√3)
+
+5) Wstawiamy boki do wzoru na promień okręgu wpisanego w trójkąt prostokątny:
+
+|AB|+|BC|−|AC|=2(2√3+2√3)-6
+
+r = |AB|+|BC|−|AC| = √ |2√3| + 2√3+2|
+
+= 2 / 2
+
+= √2(2√3)+√2
+
+Odp. r = √2-√3 -√2+√3-2.
+
+UWAGA: podano w pliku PDF odpowiedź różniącą się nieznacznie, to to samo, jednak aby wykonać to rób to samo. Numitor zadanie rozwiązujemy mniej standardową drogą, od pewnego momentu.

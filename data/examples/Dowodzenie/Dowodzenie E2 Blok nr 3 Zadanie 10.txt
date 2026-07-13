@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Uzasadnij, że dla dowolnej liczby całkowitej a liczba a^8 - (a-4)^8 jest podzielna przez 32.
+
+a ∈ Z
+
+teza: a^8 - (a-4)^8 → podzielne przez 32
+
+1️⃣ przekształcamy równoważnie tezę, korzystając z różnicy kwadratów
+
+a^8 - (a-4)^8 = (a^4 - (a-4)^4)(a^4 + (a-4)^4) = (a^2 - (a-4)^2)(a^2 + (a-4)^2)(a^4 + (a-4)^4) =
+
+= (a-(a-4))(a+(a-4))(a^2 + (a-4)^2)(a^4+(a-4)^4) =
+
+= 4(2a-4)(a^2 + (a-4)^2)(a^4+(a-4)^4) =
+
+= 8(a-2)(a^2 + (a-4)^2)(a^4+(a-4)^4) =
+
+2️⃣ komentarz:
+
+wyrażenie zapisano jako iloczyn 8 i liczby całkowitej, jest ono podzielne przez 8.
+
+liczby a i a-4 są tej samej parzystości, więc ich kwadraty i czwarte potęgi też są tej samej parzystości, suma liczb tej samej parzystości jest podzielna przez 2, więc całe wyrażenie jest podzielne przez 8·2·2=32
+
+c. k. d.

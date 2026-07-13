@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Na okręgu o środku w punkcie O leży punkt C (zobacz rysunek). Odcinek AB jest średnicą tego okręgu. Zaznaczony na rysunku kąt środkowy a ma miarę
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $116^{circ}$
+B. $114^{circ}$
+C. 112°
+D. 110°
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 15. $0-1$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 7. Planimetria. Zdający stosuje zależności między kątem środkowym i kątem wpisanym (7.1).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

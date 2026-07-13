@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Zad.26 Przekątne trapezu podzieliły trapez na cztery trójkąty. Niech P1, P2, P3 i P4 oznaczają pola tych trójkątów. Oblicz pole trapezu, wiedząc, że:
+a) P1 = 14, P2 = 35 
+b) P3 = 7, P4 = 3 
+
+1) Wyznaczamy stosunek między polami trójkątów P2 i P3:
+
+\[P_{ADD} = P_{ABC}\]
+
+Trójkąty ABD i ABC mają wspólną podstawę AB i wysokość H, nie mają półprzecinających się. 
+
+\[P_{2} + P_{3} = P_{3} + P_{4} - P_{3}\]
+
+\[P_{2} = P_{4} = 35\]
+
+2) Wyznaczamy skalę podobieństwa trójkątów o polach P1 i P3:
+
+Trójkąty o polach P1 i P3 mają wspólną wysokość h, więc:
+
+\[\frac{P_{3}}{2}kh = 14\]
+
+\[\frac{P_{2}}{4}yh = 35\]
+
+\[x = \frac{x - \frac{x}{20}}{\frac{x}{20}} = \frac{x}{8} \to x = \frac{35 - 14 - 20}{35 - 20}\to x = 4k\]
+
+\[k_{3} = k^{2}, P_{2} = 35 : 4, \quad  k^{1} = 87,5 = 27,5\]
+
+\[P_{ABCD} = P_{4} + P_{3} + P_{4} + P_{2} = 14 + 35 + 35 + 87,5 = H \]
+
+3) Analogicznie wykonujemy to samo dla podpunktu b:
+
+Trójkąty o polach P1 i P3 mają wspólną wysokość h, więc:
+
+\[\frac{P_{3}}{4}cx = h \quad x = \frac{h}{4}\]
+
+\[k_{3} = \frac{P_{2}}{2}4h - 7 \quad x = \frac{3}{4}\]
+
+\[P_{4} = \frac{3}{4} = P_{3}\]
+
+\[P_{ABCD} = P_{4} + P_{3} + P_{4} + P_{2} = 4,5 + 35 + 3 + 3 = H + 3\]
+
+Odp. a)  \[P_{ABCD} = 49,5\]
+
+b)  \[P_{ABCD} = 47,5\]

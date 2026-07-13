@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Zadanie z2 (tn) Punkty A = (3, 6) i B = (5, 9) są wierzchołkami rombu ABCD, którego przekątna AC ma długość 6. Oblicz długość przekątnej BD.
+
+1) Tworzymy rysunek poglądowy:
+
+Nie znamy współrzędnych wierzchołków C i D, są więc narysowane jedynie poglądowo.
+
+2) Wyznaczamy długość odcinka AB:
+|AB| = sqrt((5-3)^2 + (9-6)^2) = sqrt(2^2 + 3^2) = sqrt(13)
+
+3) Wyznaczamy |SB| z tw. Pitagorasa:
+|AS|^2 + |BS|^2 = |AB|^2
+3^2 + |SB|^2 = (sqrt(13))^2 → |SB| = 2
+
+|BD| = 2|SB| = 2*2 = 4
+
+Odp. |BD| = 4.

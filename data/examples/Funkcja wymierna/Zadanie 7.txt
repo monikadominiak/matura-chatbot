@@ -1,0 +1,76 @@
+
+--- STRONA 1 ---
+Zadanie 7
+
+Określ zbiór wartości \(Y_f\) funkcji \(f\) określonej wzorem:
+
+\[ 
+f(x) = \frac{x^2-x+1}{x-1}, \text{ gdzie } x \neq 1. 
+\]
+
+① Wprowadzamy parametr \(m\).
+
+Funkcję \(f(x)\) przyrównujemy do \(m\).
+
+\[
+f(x) = m
+\]
+
+\[
+\frac{x^2-x+1}{x-1} = m
+\]
+
+Z tego równania wyjdzie nam zbiór wartości.
+
+② Rozwiązujemy równanie.
+
+\[
+x^2-x+1 = mx-m 
+\]
+
+\[
+x^2-x+1 - mx + m = 0 
+\]
+
+\[
+x^2 - x(1+m) +1+m = 0 
+\]
+
+Obliczając warunek \(\Delta \geq 0\) wyjdzie nam przedział \(m\), który jest rozwiązaniem.
+
+\[
+\Delta \geq 0 
+\]
+
+\[
+m^2-2m+1 - 4-4m \geq 0 
+\]
+
+\[
+m^2-2m-3 \geq 0 
+\]
+
+\[
+\Delta = 4+12 = 16 
+\]
+
+\[
+m_1 = \frac{2-4}{2} = -1 
+\]
+
+\[
+m_2 = \frac{2+4}{2} = 3 
+\]
+
+③ Odczytujemy rozwiązanie.
+
+\[
+m \in (-\infty, -1] \cup [3, +\infty) 
+\]
+
+Odp: \(Y_f = (-\infty, -1] \cup [3, +\infty). \)
+
+Zarówno zadanie 7, jak i 8, można było rozwiązać na dwa sposoby:
+
+- albo z warunku \(\Delta \geq 0\) 
+- albo z warunku \(\Delta < 0\), wówczas wynikiem jest dopełnienie zbioru.

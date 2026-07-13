@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+```
+z3 (tn)
+
+Rozwiąż równanie sin^3x + cos^3x = 1.
+
+Równanie jest bardzo nietypowe i nie ma na takie sytuacje konkretnego 
+algorytmu. Samo rozłożenie lewej strony ze wzoru skróconego mnożenia nic 
+by nie dało, trzeba zrobić coś jeszcze.
+
+Wskazówka: można zastąpić "1" wyrażeniem sin^2x + cos^2x.
+
+1️⃣ Korzystamy z jedynki trygonometrycznej.
+
+sin^3x + cos^3x = 1
+
+sin^3x + cos^3x = sin^2x + cos^2x
+
+sin^3x - sin^2x + cos^3x - cos^2x = 0
+
+sin^2x (sinx - 1) + cos^2x (cosx - 1) = 0
+
+W tym miejscu trzeba poczynić dość nietypową (przynajmniej jak na 
+trygonometrię) obserwację.
+1) Kwadrat dowolnego wyrażenia jest zawsze nieujemny. 
+2) Ze względu na zbiór wartości funkcji sinus oraz cosinus wyrażenia 
+(sinx - 1) oraz (cosx - 1) są niedodatnie.
+
+3️⃣ Określamy znaki wyrażeń.
+
+sin^2x (sinx - 1) + cos^2x (cosx - 1) ＝ 0 
+≥ 0   ≤ 0   ≥ 0   ≤ 0
+
+Równanie ma w tym momencie następującą postać:
+Lewa strona jest suma, dwóch iloczynów. Iloczyny składają się z czynnika 
+niedodatniego i nieujemnego.
+
+sin^2x (sinx - 1) + cos^2x (cosx - 1) ＝ 0 
+≥ 0   ≤ 0   ≥ 0   ≤ 0 
+≤ 0   ≤ 0   ≤ 0   ≤ 0
+```
+
+--- STRONA 2 ---
+Iloczyn czynników ujemnego i dodatniego dałby wynik ujemny. Suma
+dwóch składników ujemnych nie może być równa zeru. Wynika z tego, że każdy
+z dwóch dodawanych iloczynów musi się zerować.
+
+sin^2 x (sin x - 1) = 0     ∧     cos^2 x (cos x - 1) = 0
+
+(sin^2 x = 0   ∨   sin x - 1 = 0)     ∧     (cos^2 x = 0   ∨   cos x - 1 = 0)
+
+(sin x = 0   ∨   sin x = 1)     ∧     (cos x = 0   ∨   cos x = 1)
+
+(x = kπ   ∨   x = π/2 + kπ)     ∧     (x = π/2 + kπ   ∨   x = 2kπ)   ,   k ∈ ℤ.
+
+4) Wyznaczamy część wspólną rozwiązań.
+
+Częścią wspólną będą kąty, które się rzadziej powtarzają, czyli mają
+okres 2kπ zamiast kπ.
+
+Ostatecznie: x = 2kπ   ∨   x = π/2 + 2kπ   ,   k ∈ ℤ.
+
+II sposób na rozwiązanie powstałych 4 prostych równań
+trygonometrycznych.
+
+5) Szkicujemy wykresy y = sin x i y = cos x oraz odczytujemy
+rozwiązania.
+
+--- STRONA 3 ---
+( \sin{x} = 0 \ \lor \ \sin{x} = 1 ) \ \land \ ( \cos{x} = 0 \ \lor \ \cos{x} = 1 ) \\
+
+( x = k \pi \ \ \ \ \ \ \lor \ x = \frac{\pi}{2} + 2k\pi ) \ \land \ ( x = \frac{\pi}{2} + k\pi \ \ \ \ \lor \ x = 2k\pi ), \ k \in \mathbb{Z}. \\
+
+Częścią wspólną będą kąty, które się rzadziej powtarzają, czyli mają okres \ 2k\pi \ zamiast \ k\pi. \\
+
+\text{Odp.: } x = \frac{\pi}{2} + 2k\pi, \ x = 2k\pi, \ k \in \mathbb{Z}.

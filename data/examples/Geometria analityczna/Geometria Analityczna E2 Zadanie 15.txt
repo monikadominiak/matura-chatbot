@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+Zad.15 Napisz równania ogólne stycznych do danego okręgu o i przechodzących przez punkt A, jeśli o: x^2 + y^2 + 10x - 6y + 30 = 0, A(-7, 9).
+
+1) Wyznaczamy środek i promień okręgu:
+
+I sposób - podstawienie
+
+x^2+y^2+10x-6y+30=0
+
+x^2+10x+y^2-6y+30=0, p. o. +p. o. +c
+
+-2ax+bx+c=0
+
+(x+5)^2-25+(y-3)^2-9=0
+
+r^2=64, r^2=4; 64=49, r^2=a-b
+
+o: (x+5)^2+(y-3)^2=64
+
+S(-5, 3), r=4
+
+2) Tworzymy wykres poglądowy.
+
+3) Podstawiamy punkt A pod równanie prostej k i obliczamy jej równanie od jednej zmiennej.
+
+k: y=ax+b
+
+A(-7, 9): 9=a*-7+b
+
+k: y=ax+b
+
+9=-7a+b
+
+k: y=ax-7a+9
+
+4) Wyznaczamy równanie prostej na wzorze na odległość punktu od prostej.
+
+r=d(S, y=ax+b)=2
+
+2=|ax+by+c|/sqrt(a^2+b^2)
+
+2=|-7a+9|/sqrt(a^2+1)
+
+2sqrt(1+a^2)=|-7a+9|
+
+4*(1+a^2)=(-7a+9)=25=144
+
+a=a0=b; 2a^2+c+b+c-s=d(4*a_0)*v_i=5/2
+
+4*a^2-14a+25=25
+
+a=-7/3, b=1, 3-136(*f)=(-j)
+
+k: y=-1x+1/x*3=x-j
+
+UWAGA: Rozwiązując to równanie otrzymujemy tylko jedno wzór równania prostej. Jednak to zadanie jak widać na rysunku przedstawia poradniki 2 wzory.
+
+Taki przykład wymaga najwięcej norm (w drugich rozwiązaniach te słupki znów podział na położenie).
+
+W naszym przypadku należy zsumować x do Shroku okręgu o wartości r promienia r; następnie znajdującego się kierowania inną w liniach. Na oświetlonym skończ, aby bądź jakie prosta w kierunku drugiego podziału nie ma się wycofać.
+
+k1+y=x=7
+
+Wyjaśniam, iż ten warunek dotyczący do otrzymujemy jeden r do przewodu w otoczeniu znalezisk prześladu-y prostej to powtórz kierunkowości kolejnej poziomu epoki nie zgodnie.
+
+Odp. k, y=x+7-x*x=x-7.

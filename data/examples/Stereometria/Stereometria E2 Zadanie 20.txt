@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa jest romb, którego bok ma długość \(8 \frac{1}{3}\), a jedna z przekątnych ma długość \(13 \frac{1}{3}\). Spodek wysokości ostrosłupa jest środkiem symetrii podstawy. Przekrój tego ostrosłupa wyznaczony przez wysokości przeciwległych ścian bocznych jest trójkątem równobocznym. Wyznacz pole tego przekroju.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+UWAGA: ze względu na romb w podstawie ściany boczne nie są a równoramiennymi, a punkty N i M nie są środkami boków \(\overline{AD}\) i \(\overline{BC}\)
+
+punkt O jest środkiem okręgu wpisanego w podstawę
+
+\(\Delta MNS\) - równoboczny
+
+|MN| = \(h_{rombu} = 2r\)
+
+2️⃣ korzystamy z dwóch wzorów na pole
+
+\(P_{abco} = \frac{1}{2}ef = a \cdot h\)
+
+(ef - przekątne)
+
+3️⃣ wykorzystujemy fakt, że przekątne w rombie przecinają się w połowie
+
+3️⃣ z tw. Pitagorasa
+
+\(\left( \frac{1}{2}e \right)^2 + \left( \frac{1}{2}f \right)^2 = \left( \frac{25}{3} \right)^2\)
+
+\(\frac{e^2}{4} = \frac{625}{9} - \frac{400}{9}\) (podstawiamy przekątną z polecenia)
+
+\(\frac{e^2}{4} = \frac{225}{9}\)
+
+\(e = \sqrt{\frac{225 \cdot 4}{9}} = \frac{15 \cdot 2}{3} = 10\)
+
+4️⃣ wracamy do wzorów na pole
+
+\(P = \frac{1}{2} \cdot 10 \cdot \frac{40}{3} = \frac{25}{3} \cdot h \ /\cdot \frac{3}{25}\)
+
+\(h = \frac{1}{3} \cdot \frac{25}{8} \cdot \frac{3}{5} \cdot 3 = 8\)
+
+5️⃣ wyznaczamy pole przekroju
+
+\(P_p = \frac{8^2 \sqrt{3}}{4} = 16 \sqrt{3}\) (wzór na pole \(\Delta\) równobocznego)
+
+Odp: \(P_p = 16 \sqrt{3}\)

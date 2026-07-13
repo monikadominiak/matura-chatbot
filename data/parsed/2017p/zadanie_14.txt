@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Jeśli $m=sin~50^{circ}$ to
+A. $m=sin~40^{circ}$
+B. $m=cos~40^{circ}$
+C. $m=cos~50^{circ}$
+D. $m=tg~50^{circ}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 14. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 6. Trygonometria. Zdający stosuje proste zależności między funkcjami trygonometrycznymi: $sin^2alpha+cos^2alpha=1$, $operatorname{tg}alpha=frac{sinalpha}{cosalpha}$ oraz $sin(90^circ-alpha)=cosalpha$ (6.4).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

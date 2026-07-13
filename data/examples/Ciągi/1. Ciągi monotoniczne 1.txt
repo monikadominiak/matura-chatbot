@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+1. Ciągi monotoniczne 1
+
+Wyznacz wyraz \(a_{n+1}\) ciągu o podanym wzorze ogólnym:
+
+a) \(a_n = \frac{2-3n}{4n-5}\)  
+b) \(a_n = \frac{2n^2+3}{2n+6}\)  
+c) \(a_n = \frac{4-2n^2}{2n^2-1}\)  
+
+a) \(\ \ ①\) Wyznaczamy \(a_{n+1}\).
+
+Wszędzie we wzorze \(n\) zamieniamy na \((n+1).\)
+
+\(a_n = \frac{2-3n}{4n-5}\)
+
+\(a_{n+1} = \frac{2-3(n+1)}{4(n+1)-5} = \frac{2-3n-3}{4n+4-5} = \frac{-3n-1}{4n-1}\)
+
+Odp.: \(a_{n+1} = \frac{-3n-1}{4n-1}.\)
+
+b) \(\ \ ①\) Wyznaczamy \(a_{n+1}\).
+
+\(a_n = \frac{2n^2+3}{2n+6}\)
+
+\(a_{n+1} = \frac{2(n+1)^2+3}{2(n+1)+6} = \frac{2n^2+4n+2+3}{2n+2+6} = \frac{2n^2+4n+5}{2n+8}\)
+
+Odp.: \(a_{n+1} = \frac{2n^2+4n+5}{2n+8}.\)
+
+c) \(\ \ ①\) Wyznaczamy \(a_{n+1}\).
+
+\(a_n = \frac{4-2n^2}{2n^2-1}\)
+
+\(a_{n+1} = \frac{4-2(n+1)^2}{2(n+1)^2-1} = \frac{4-2n^2-4n-2}{2n^2+4n+2-1} = \frac{-2n^2-4n+2}{2n^2+4n+1}\)
+
+Odp.: \(a_{n+1} = \frac{-2n^2-4n+2}{2n^2+4n+1}.\)

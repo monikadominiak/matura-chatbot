@@ -1,0 +1,14 @@
+=== ARKUSZ: 2022p | ZADANIE 25 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 25. (0–1)
+Podstawą graniastosłupa prostego jest romb o przekątnych długości 7 cm i 10 cm. Wysokość tego graniastosłupa jest krótsza od dłuższej przekątnej rombu o 2 cm.
+Wtedy objętość graniastosłupa jest równa
+A. 560 cm3
+B. 280 cm3
+C. $frac{280}{3}$ cm3
+D. $frac{560}{3}$ cm3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

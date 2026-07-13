@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Ile jest liczb naturalnych pięciocyfrowych, w których zapisie występują co najmniej dwie czwórki?
+
+① analizujemy polecenie
+
+liczby 5-cyfrowe , co najmniej dwie "4"
+
+_ _ _ _ _
+
+"4" w najmniej 2 razy oznacza:
+2x "4" lub 3x "4" lub 4x "4" lub 5x "4"
+
+② mniej przypadków będzie dla przeciwnej sytuacji
+0x "4" lub 1x "4"
+
+③ licząc wersję z mniejszą ilością wariantów musimy dodatkowo policzyć ile jest wszystkich liczb 5-cyfrowych
+
+wszystkie: 9_{bez 0,..} \cdot 10 \cdot 10 \cdot 10 \cdot 10 = 90000
+
+④ bez "4"
+
+8 \cdot 9 \cdot 9 \cdot 9 \cdot 9 = 52488
+
+⑤ jedna "4"
+
+• na początku:
+1_4 \cdot 9 \cdot 9 \cdot 9 \cdot 9 = 6561
+
+• nie na początku
+8 \cdot (4_1) \cdot 9 \cdot 9 \cdot 9 = 23328
+
+⑥ ostatecznie poszukiwanych liczb jest:
+
+90000 - (52488 + 6561 + 23328) = 7623
+
+Odp: 7623

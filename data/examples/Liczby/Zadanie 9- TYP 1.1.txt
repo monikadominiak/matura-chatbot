@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Zadanie 9 [2 pkt] - Typ 1.1  
+Stosując wzory skróconego mnożenia, wykonaj działanie  
+(∛3x + ∛2y)(∛9y² - ∛6xy + ∛4y²)  
+
+W tym zadaniu należy dobrać odpowiedni wzór z karty wzorów. W tym procesie szczególną uwagę poświęcamy zwrócić na znaki w porównaniu oraz na wzorce skróconego mnożenia  
+
+a³+b³=(a+b)(a²-ab+b²)
+
+(∛3x + ∛2y)(∛9y² - ∛6xy + ∛4y²) =  
+= (∛3x + ∛2y)[(∛3x)² - 3∛3x·∛2y + (∛2y)²] =  
+= (∛3x)³ + (∛2y)³ =  
+= 3x + 2y
+
+Odp: 3x + 2y.

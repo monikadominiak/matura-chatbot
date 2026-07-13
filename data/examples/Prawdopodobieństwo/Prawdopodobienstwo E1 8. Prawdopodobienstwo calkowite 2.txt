@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Cztery maszyny M1, M2, M3, M4 produkują żarówki. Maszyny M1, M2 i M3 wyprodukowały taką samą liczbę żarówek, maszyna M4 - dwa razy więcej niż każda z pozostałych. Maszyny M1 i M2 produkują po 2% wadliwych żarówek, a M3 i M4 - po 4%. Wszystkie wytworzone żarówki znajdują się w magazynie. Oblicz prawdopodobieństwo tego, że losowo wybrana z magazynu żarówka jest wadliwa, jeśli nie została wyprodukowana przez maszynę M1.
+
+1) rysujemy schemat zdarzenia (drzewko)
+
+\[
+\begin{array}{cccccc}
+& & \frac{1}{5} & & \frac{1}{5} & \\
+& M_1 & \quad & M_2 & \quad & \frac{1}{5} & \\
+& & 2\%/98\% & & 2\%/98\% & \quad &  \\
+& \frac{1}{5} & & M_3 & & \frac{2}{5} & \\
+& & 4\%/96\% & & 4\%/96\% & \quad & \\
+\end{array}
+\]
+
+2) tworzymy nowy schemat:
+
+\[
+\begin{array}{cccccc}
+& & \frac{1}{4} & & \frac{1}{4} & \\
+& M_2 & \quad & M_3 & \quad & \frac{2}{4} & \\
+& & \frac{2}{100}/\frac{98}{100} & & \frac{4}{100}/\frac{96}{100} & \\
+& & & M_4 & & \\
+& & & \frac{4}{100}/\frac{96}{100} & & \\
+\end{array}
+\]
+
+ale wiemy, że dana wadliwa żarówka nie została wyprodukowana przez maszynę M1, co zmienia prawdopodobieństwo wyboru maszyn
+
+\[
+\begin{align*}
+P(A) & = \frac{1}{4} \cdot \frac{2}{100} + \frac{1}{4} \cdot \frac{4}{100} + \frac{2}{4} \cdot \frac{4}{100} \\
+& = \frac{2 + 4 + 8}{400} = \frac{14}{400} = 0,0035
+\end{align*}
+\]
+
+odp: 0,0035

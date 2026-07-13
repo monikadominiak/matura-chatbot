@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa jest trójkąt, którego dwa boki mają długość po 39 cm, a długość trzeciego boku wynosi 30 cm. Każda ściana boczna tworzy z płaszczyzną podstawy kąt 45°. Oblicz objętość ostrosłupa.
+
+tw. ściany boczne nachylane do podstawy pod tym samym kątem => środek wysokości w środku okręgu wpisanego w podstawę
+
+1⃣ sporządzamy rysunek pomocniczy
+
+2⃣ liczymy pole podstawy
+
+\( h = \sqrt{39^2 - 15^2} \)  
+\( h = \sqrt{1521 - 225} \)  
+\( h = \sqrt{1296} = 36 \)  
+
+\( P = \frac{1}{2} \cdot 36 \cdot 30 = 540 \)  
+
+3⃣ wyznaczamy r ze wzoru na pole  
+\( P_{\triangle} = \rho \cdot r, \ gdzie \ \rho = \frac{1}{2} obw \)  
+
+\( \rho = \frac{1}{2} (2 \cdot 39 + 30) = 54 \)  
+
+\( 540 = 54 \cdot r \Rightarrow r = 10 \)  
+
+4⃣ obliczamy H  
+\( H = r = 10 \)  
+
+(można również policzyć za pomocą \(\tan 45^\circ\))
+
+5⃣ obliczamy objętość ostrosłupa  
+
+\( V = \frac{1}{3} \cdot 540 \cdot 10 = 1800 \ [cm^3]\)
+
+Odp: \( V = 1800 \ cm^3 \)

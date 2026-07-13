@@ -1,0 +1,108 @@
+
+--- STRONA 1 ---
+**znając liczbę pierwiastków można zapisać wzór wielomianu w postaci iloczynowej.**
+
+1️⃣ Zapisujemy \( W(x) \) w postaci iloczynowej.
+
+\( W(x) = a \cdot (x - x_1)(x - x_2)(x - x_3) \)
+
+Z treści wiemy, że współczynnik przy najwyższej potędze jest równy 1, więc:
+
+\( W(x) = (x - x_1)(x - x_2)(x - x_3) \)
+
+Jeśli pierwiastki \( x_1, x_2, x_3 \) tworzą ciąg geometryczny, można je zapisać
+
+W następujący sposób:
+
+\( x_1, x_1q, x_1q^2 \)
+
+W tym konkretnym przypadku \( q = 2 \), więc:
+
+\( x_1, 2x_1, 4x_1 \)
+
+Podstawiając to do postaci iloczynowej mamy:
+
+\( W(x) = (x - x_1)(x - 2x_1)(x - 4x_1) \)
+
+Można przemnożyć nawiasy z postaci iloczynowej oraz porównać powstałe współczynniki ze współczynnikami z postaci ogólnej.
+
+\( W(x) = (x - x_1)(x - 2x_1)(x - 4x_1) = \)
+
+\( = (x^2 - 3x_1x + 2x_1^2)(x - 4x_1) = \)
+
+\( = x^3 - 7x_1x^2 + 14x_1^2x - 8x_1^3 \)
+
+*Jednocześnie postać ogólna wygląda tak:*
+
+\( W(x) = x^3 + 21x^2 + ax + b \)
+
+--- STRONA 2 ---
+Porównujemy w obu postaciach współczynniki:
+
+\[
+\begin{cases}
+-7x_1 = 21 \quad (1) \\
+14x_1^2 = a \quad (2) \\
+-8x_1^3 = b \quad (3)
+\end{cases}
+\]
+
+Z (1): \quad x_1 = -3
+
+Do (2): \quad a = 14 \cdot (-3)^2 = 126
+
+Do (3): \quad b = -8 \cdot (-3)^3 = 216
+
+Odp.: \quad a = 126, \quad b = 216.
+
+--- STRONA 3 ---
+II sposób
+
+Wzory Viete'a 3 stopnia:
+
+Jeśli mamy x^3 + bx^2 + cx + a, a ≠ 0 to
+\[
+\begin{cases}
+x_1 + x_2 + x_3 = -\frac{b}{a} \\
+x_1 x_2 + x_1 x_3 + x_2 x_3 = \frac{c}{a} \\
+x_1 x_2 x_3 = -\frac{d}{a}
+\end{cases}
+\]
+
+1️⃣ Zapisujemy informacje podane w zadaniu.
+
+W(x) = x^3 + 21x^2 + ax + b
+
+(x_1, x_2, x_3) - c. geometryczny, q = 2
+
+(x_1, x_1q, x_1q^2) = (x, 2x, 4x)
+
+2️⃣ Korzystamy ze wzorów Viete'a.
+
+\[
+\begin{cases}
+x_1 + x_2 + x_3 = -21 \quad (1) \\
+x_1 x_2 + x_1 x_3 + x_2 x_3 = a \quad (2) \\
+x_1 x_2 x_3 = -b \quad (3)
+\end{cases}
+\]
+
+2(1): x_1 + 2x_1 + 4x_1 = -21
+
+7x_1 = -21
+
+x_1 = -3
+
+Zatem
+
+(x_1, x_2, x_3) = (-3, -6, -12)
+
+3️⃣ Obliczamy a i b.
+
+a = (-3)(-6) + (-3)(-12) + (-6)(-12) =
+
+= 18 + 36 + 72 = 126
+
+b = - x_1 x_2 x_3 = -(-3)(-6)(-12) = 216
+
+Odp.: a = 126, b = 216.

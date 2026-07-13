@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Liczby a i c są dodatnie. Liczba b stanowi 48% liczby a oraz 32% liczby c. Wynika stąd, że
+A. c=1,5a
+B. c=1,6a
+C. c=0,8a
+D. c=0,16a
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 3. $(0-1)$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

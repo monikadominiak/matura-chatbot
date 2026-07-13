@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+**Oblicz objętość ostrosłupa prawidłowego czworokątnego mając długość krawędzi podstawy 6 i miarę 120° kąta między dwiema sąsiednimi ścianami bocznymi.**
+
+1) sporządzamy rysunek pomocniczy
+
+x - krawędź boczna
+
+|DS| = |SB| = \(\frac{6\sqrt{2}}{2}\) = 3\(\sqrt{2}\) (połowa przekątnej kwadratu)
+
+2) zapisujemy 4 równania
+
+   (wspólny kąt α i prosty)
+   
+   1) z Δ charakterystycznego 30°, 60°, 90° C'BS
+   
+   a\(\sqrt{3}\) = 3\(\sqrt{2}\) => 2a = 2\(\sqrt{6}\) = |BC'|
+
+   2) ΔC'EC ~ ΔC'BC z cechy kkk
+   
+   \(\frac{|BC'|}{|BC|}\) = \(\frac{|B'E|}{|EC|}\)
+
+   3) z tw. Pitagorasa w ΔB'CE
+   
+   |B'C'|^2 + h^2 = x^2
+   
+   = 3^2
+
+   4) z tw. Pitagorasa w ΔSBE
+   
+   |SB|^2 + H^2 = x^2
+
+   = (3\(\sqrt{2}\))^2
+
+3) rozwiązujemy równania
+
+   z ② \(\frac{|BC'|}{|BC|}\) = \(\frac{|B'E|}{|EC|}\) => \(\frac{x\sqrt{6}}{6\sqrt{2}}\) = \(\frac{h}{x}\)
+
+   wyznaczamy h = \(\frac{x\sqrt{6}}{3}\)
+
+   podstawiamy do ③ \((\frac{x\sqrt{6}}{3})^2\) + 3^2 = x^2
+
+   \(\frac{6x^2}{9}\) + 9 = x^2 |:3
+
+   2x^2 + 27 = 3x^2
+
+   x^2 = 27
+
+   x = 3\(\sqrt{3}\)
+
+   podstawiamy do ④ (3\(\sqrt{2}\))^2 + H^2 = (3\(\sqrt{3}\))^2
+
+   H^2 = 9 => H = 3
+
+4) liczymy objętość graniastosłupa
+
+\(V = \frac{1}{3} P_p \cdot H = \frac{1}{3} \cdot 6^2 \cdot 3 = 36\)
+
+**Odp. V = 36**

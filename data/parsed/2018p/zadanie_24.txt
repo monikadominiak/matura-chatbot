@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0-1)
+Ile jest wszystkich liczb naturalnych czterocyfrowych mniejszych od 2018 i podzielnych przez 5? A. 402 B. 403 C. 203 D. 204
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 24. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania (10.2).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B

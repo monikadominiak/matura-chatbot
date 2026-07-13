@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Przez przekątną podstawy sześcianu mającego krawędź o długości a poprowadzono płaszczyznę, która tworzy z płaszczyzną podstawy kąt 45°. Oblicz pole otrzymanego przekroju sześcianu.
+
+1) sporządzamy rysunek pomocniczy 
+
+i ustalamy kształt przekroju
+
+dla ∠KLC = 45° i |KC| = a√2/2
+
+tg45° = 1 = |LC|/a√2/2 => |LC| = a√2/2 < a
+
+zatem punkt L leży między punktami G i C, a przekrój jest trójkątem
+
+2) obliczamy długość h 
+
+w ΔKCL (45°, 45°, 90°)
+
+h = a√2/2 * √2 = a
+
+3) wyznaczamy pole przekroju
+
+P = 1/2*a*a√2 = a²√2/2
+
+Odp: P = a²√2/2

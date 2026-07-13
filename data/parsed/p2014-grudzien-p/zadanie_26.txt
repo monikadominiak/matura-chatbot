@@ -1,0 +1,42 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0-2)
+Uzasadnij, że żadna liczba całkowita nie jest rozwiązaniem równania (frac{2x+4}{x-2}=2x+1).
+Wymagania: IV. Użycie i tworzenie strategii.
+Wymagania szczegółowe: 3.8. Zdający rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych, np. (frac{x+1}{x+3}=2), (frac{x+1}{x}=2x).
+
+I sposób rozwiązania:
+Zauważamy, że (xne 2).
+Mnożymy obie strony równania przez (x-2) i przekształcamy równanie do postaci równania kwadratowego, np. (2x^2-5x-6=0).
+Obliczamy wyróżnik trójmianu kwadratowego, znajdującego się po lewej stronie równania.
+(Delta=25+48=73)
+Zauważamy, że (sqrt{Delta}=sqrt{73}) jest liczbą niewymierną.
+Stwierdzamy, że jeżeli z jednej strony równania występuje trójmian kwadratowy o współczynnikach całkowitych, a z drugiej strony równania liczba zero i (sqrt{Delta}) tego trójmianu kwadratowego jest liczbą niewymierną, to równanie nie ma rozwiązań w zbiorze liczb całkowitych.
+
+II sposób rozwiązania:
+Zauważamy, że (xne 2).
+Przenosimy wyrażenie z prawej strony równania na lewą i przekształcamy lewą stronę równania do postaci ilorazu.
+Otrzymujemy (frac{-2x^2+5x+6}{x-2}=0)
+Mnożymy obie strony równania przez (x-2) i otrzymujemy (-2x^2+5x+6=0)
+Obliczamy miejsca zerowe funkcji kwadratowej (f(x)=-2x^2+5x+6).
+(Delta=5^2-4cdot(-2)cdot 6=25+48=73)
+(sqrt{Delta}=sqrt{73})
+(x_1=frac{-5-sqrt{73}}{-4}=frac{5+sqrt{73}}{4}) oraz
+(x_2=frac{-5+sqrt{73}}{-4}=frac{5-sqrt{73}}{4})
+Zauważamy, że rozwiązania są liczbami niewymiernymi.
+Stwierdzamy, że żadna liczba całkowita nie jest rozwiązaniem równania.
+
+Schemat oceniania
+Zdający otrzymuje 1 pkt
+jeżeli doprowadzi równanie do postaci (ax^2+bx+c=0), np. (2x^2-5x-6=0), i obliczy wyróżnik trójmianu kwadratowego (ax^2+bx+c), np. (Delta=73)
+Zdający otrzymuje 2 pkt
+jeżeli poprawnie uzasadni, że równanie (frac{2x+4}{x-2}=2x+1) nie ma rozwiązań w zbiorze liczb całkowitych, np. przez wyznaczenie wszystkich rozwiązań równania i zauważenie, że żadne z rozwiązań nie jest liczbą całkowitą.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+z5 (1.3)  
+Dane są liczby a = 16^{\log_{4}{75}} oraz b = \frac{\log_{\frac{3}{4}}{81}}{\log_{64}{81}} 
+Oblicz a + 3b.  
+
+① Obliczamy a:   
+a = 16^{\log_{4}{75}} = 4^{2} \cdot {\log_{4}{75}} = 4^{\log_{4}{75^2}} = \log_{4}{75^2}   
+a = 75^2 = 5625  
+
+② Obliczamy b:  
+b = \frac{\log_{8}{81}}{\log_{64}{81}}  
+
+Mianownik:  
+\log_{64}{81} = \frac{\log_{8}{81}}{\log_{8}{64}} = \frac{\log_{8}{81}}{2}  
+
+Licznik:  
+\log_{8}{81} = \frac{\log_{8}{81}}{\log_{8}{8}} = \frac{\log_{8}{81}}{2} = 2 \log_{8}{81}  
+
+Cały ułamek:  
+b = \frac{2 \log_{8}{81}}{\frac{\log_{8}{81}}{2}} = 2 \log_{8}{81} \cdot \frac{2}{\log_{8}{81}} = 2 \cdot 2 = 4  
+
+③ Obliczenie a + 3b:   
+a + 3b = 5625 + 3 \cdot 4 = 5625 + 12 = 5637  
+
+Odp: a + 3b = 5637.

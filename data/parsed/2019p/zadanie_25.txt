@@ -1,0 +1,14 @@
+=== ARKUSZ: 2019p | ZADANIE 25 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 25. (0–1)
+W pudełku jest 40 kul. Wśród nich jest 35 kul białych, a pozostałe to kule czerwone. 
+Prawdopodobieństwo wylosowania każdej kuli jest takie samo. Z pudełka losujemy jedną kulę. Prawdopodobieństwo zdarzenia polegającego na tym, że otrzymamy kulę czerwoną, jest równe A. 1/8 B. 1/5 C. 1/40 D. 1/35
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

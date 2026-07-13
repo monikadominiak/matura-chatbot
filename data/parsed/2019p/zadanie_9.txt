@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9. (0-1)
+Największa wartość funkcji f w przedziale  jest równa A. -3 B. -4 C. 4 D. 0
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

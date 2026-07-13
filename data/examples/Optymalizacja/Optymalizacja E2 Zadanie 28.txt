@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+Miesięcznie pewna firma jest w stanie wyprodukować co najwyżej 500 sztuk towaru. Cena C złotych, jaką firma uzyskuje za jedną sztukę, zależy od liczby wyprodukowanych miesięcznie egzemplarzy towaru t zgodnie ze wzorem: C(t) = 500 - 0,02t. Koszty K złotych, jakie firma ponosi, by wyprodukować t sztuk towaru miesięcznie, można obliczyć ze wzoru: K(t) = 0,001t^3 - 0,5t^2 + 500t. Oblicz, ile sztuk towaru powinna miesięcznie produkować ta firma, żeby osiągnąć jak największy dochód.
+
+1️⃣ wypisujemy z polecenia potrzebne informacje
+
+C(t)=500-0,02t - cena za sztukę w zależności od t
+
+t - liczba wyprodukowanych miesięcznie egzemplarzy
+
+t ∈ (0,500> t ∈ N_t, (bo t oznacza sztukę towaru)
+
+K(t) = 0,001t^3 - 0,5t^2 + 500t - koszty 2 t sztuk
+
+2️⃣ zapisujemy wzór funkcji
+
+D(t) = C(t) ⋅ t - K(t) = (500 - 0,02t)t - 0,001t^3 + 0,5t^2 - 500t =
+
+= -0,001t^3 + 0,48t^2
+
+3️⃣ wyznaczamy pochodną funkcji
+
+D'(t) = -0,003t^2 + 0,96t D_D(t) = D'(t) = (0,500> i t ∈ N_t
+
+4️⃣ wyznaczamy miejsca zerowe pochodnej
+
+D'(t) = 0 <=>
+
+-0,003t^2 + 0,96t = 0
+
+t(-0,003t + 0,96) = 0
+
+t = 0 v
+
+-0,003t = -0,96
+
+t = 320
+
+5️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+--------D'(t)--------
+-   0   +  320    -
+min        max
+-----------------------
+            D(t)
+ 
+II sposób:
+
+t        | <0,320)       |   320  | (320,500>      |
+-------------------------------------------------
+D'(t)   |      +         |    0   |      -         |
+D(t)    | ↑        max. lok.     ↓    |
+
+Funkcja D(t) osiąga w swojej dziedzinie wartość największą dla argumentu t=320.
+
+Odp: t = 320 sztuk

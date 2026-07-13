@@ -1,0 +1,127 @@
+
+--- STRONA 1 ---
+Zadanie 11
+
+Trzy liczby są kolejnymi wyrazami ciągu geometrycznego, którego iloraz jest różny od 1. Jeśli weźmiemy kolejno drugą z nich, pierwszą i trzecią, to otrzymamy trzy kolejne wyrazy ciągu arytmetycznego. Jeżeli pierwszy wyraz tego ciągu arytmetycznego zmniejszymy o 7, drugi pozostawimy bez zmian, a trzeci powiększymy o 3, to otrzymamy trzy kolejne wyrazy ciągu geometrycznego. Oblicz te liczby.
+
+1️⃣ Zapisujemy informacje podane w zadaniu.
+
+\[ q \neq 1 \]
+
+\[ (a, aq, aq^2) - \text{ciąg geometryczny} \]
+
+\[ (aq, a, aq^2) - \text{ciąg arytmetyczny} \]
+
+\[ 2a = aq + aq^2 \]
+
+\[ (aq - 7, a, aq^2 + 3) - \text{inny ciąg geometryczny}. \]
+
+\[ a^2 = (aq - 7)(aq^2 + 3) \]
+
+2️⃣ Tworzymy układ równań.
+
+\[ 
+\begin{cases} 
+2a = aq + aq^2 \quad (1) \\
+a^2 = (aq - 7)(aq^2 + 3) \quad (2) 
+\end{cases} 
+\]
+
+3️⃣ Rozwiązujemy układ równań.
+
+\[ 2(1): \quad 2a = aq + aq^2 \quad /: a, \quad a \neq 0 \]
+
+\[ q^2 + q = 2 \]
+
+\[ q^2 + q - 2 = 0 \]
+
+\[ \Delta = 1 + 8 = 9 \]
+
+\[ q_1 = \frac{-1 - 3}{2} = -2 \]
+
+\[ q_2 = \frac{-1 + 3}{2} = 1 \quad \text{odrzucamy} \]
+
+Do (2):
+
+\[ a^2 = (-2a - 7)(4a + 3) \]
+
+\[ a^2 = -8a^2 - 6a - 28a - 21 \]
+
+\[ 9a^2 + 34a + 21 = 0 \]
+
+\[ \Delta = 1156 - 756 = 400, \quad \sqrt{\Delta} = 20 \]
+
+\[ a_1 = \frac{-34 - 20}{18} = -3, \quad a_1q = 6, \quad a_1q^2 = -12 \]
+
+\[ a_2 = \frac{-34 + 20}{18} = -\frac{7}{9}, \quad a_2q = \frac{14}{9}, \quad a_2q^2 = -\frac{28}{9} \]
+
+Odp.: \((-3, 6, -12)\) lub \(\left(-\frac{7}{9}, \frac{14}{9}, -\frac{28}{9}\right)\)
+
+--- STRONA 2 ---
+II sposób
+
+➀ Zapisujemy informacje podane w zadaniu.
+
+q≠1
+
+(a, b, c) - ciąg geometryczny  =>  b^2 = ac
+
+(b, a, c) - ciąg arytmetyczny
+
+2a = b + c
+
+(b-7, a, c+3) - inny ciąg geometryczny
+
+a^2 = (b-7)(c+3)
+
+➁ Tworzymy układ równań.
+
+{ 
+b^2 = ac  (1)
+
+2a = b + c  (2)
+
+a^2 = (b-7)(c+3)  (3)
+}
+
+Z (2): c = 2a - b
+
+Do (1):
+
+b^2 = a(2a-b)
+
+b^2 = 2a^2 - ab
+
+a^2 - b^2 + ab = 0
+
+a^2 - b^2 + ab = 0
+
+(a-b)(a+b) + a(a-b) = 0
+
+(a-b)(a+b+a) = 0
+
+a-b = 0   v   2a+b = 0
+
+a = b  (odrzucamy bo q≠1)
+
+b = -2a
+
+Do (3):
+
+a^2 = (b-7)(2a-b+3)
+
+a^2 = (-2a-7)(2a+2a+3)
+
+a^2 = (-2a-7)(4a+3)
+
+a^2 = -8a^2 - 6a - 28a - 21
+
+9a^2 + 34a + 21 = 0
+
+Δ = 1156 - 756 = 400,  √Δ = 20
+
+a_1 = -34 - 20 / 18 = -3  ;  b_1 = -2a_1 = 6  ;  c = 2a_1 - b_1 = 2(-3) - 6 = -12 
+
+a_2 = -34 + 20 / 18 = -7/9  ;  b_2 = -2a_2 = 14/9  ;  c = 2a_2 - b_2 = 2(-7/9) - 14/9 = -28/9 
+
+Odp.: (-3, 6, -12) lub (-7/9, 14/9, -28/9).

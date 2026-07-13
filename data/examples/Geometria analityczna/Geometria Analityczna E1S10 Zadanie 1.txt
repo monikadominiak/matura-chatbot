@@ -1,0 +1,82 @@
+
+--- STRONA 1 ---
+Zad.1 Obrazem punktu A = (2, -2) w jednokładności o środku P jest punkt A' = (-4, 0). 
+Obrazem punktu B = (4, 0) w tej samej jednokładności jest punkt B' = (2, 6). Wyznacz współrzędne punktu P i skalę jednokładności. 
+
+1) Wyznaczamy skalę jednokładności:
+
+\[\overrightarrow{A'B'} = k \cdot \overrightarrow{AB}\]
+
+\[
+\begin{bmatrix}
+    2 - (-4) \\
+    6 - 0
+\end{bmatrix}
+= k \cdot 
+\begin{bmatrix}
+    4 - 2 \\
+    0 - (-2)
+\end{bmatrix}
+\]
+
+\[
+\begin{bmatrix}
+    6 \\
+    6
+\end{bmatrix}
+=
+k \cdot
+\begin{bmatrix}
+    2 \\
+    2
+\end{bmatrix}
+\]
+
+k = 3
+
+Odp. k = 3, P(5, -3).
+
+2) Wyznaczamy współrzędne punktu P:
+
+\[\overrightarrow{PA'} = k \cdot \overrightarrow{PA}\]
+
+P(x, y)
+
+\[
+\begin{bmatrix}
+    -4 - x \\
+    0 - y
+\end{bmatrix}
+=
+3 \cdot
+\begin{bmatrix}
+    2 - x \\
+    -2 - y
+\end{bmatrix}
+\]
+
+\[
+\begin{bmatrix}
+    -4 - x \\
+    -y
+\end{bmatrix}
+=
+\begin{bmatrix}
+    6 - 3x \\
+    -6 - 3y
+\end{bmatrix}
+\]
+
+-4 - x = 6 - 3x
+
+-y = -6 - 3y
+
+2x = 10 
+
+2y = -6
+
+x = 5
+
+y = -3
+
+P(5, -3)

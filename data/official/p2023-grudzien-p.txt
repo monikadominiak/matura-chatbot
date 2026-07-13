@@ -1,0 +1,263 @@
+Matura próbna podstawowa - grudzień 2023 - arkusz oraz klucz odpowiedzi:
+
+
+Zadanie 1. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba $(3^{-2,4}cdot3^{frac{2}{5}})^{frac{1}{2}}$ jest równa
+A. $sqrt{3}$
+B. $frac{sqrt{3}}{3}$
+C. $frac{1}{3}$
+D. 0,3
+Zadanie 2. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba $log_{2}96-log_{2}3$ jest równa
+A. $log_{2}93$
+B. $log_{2}30$
+C. 4
+D. 5
+Zadanie 3. (0-1)
+Pan Grzegorz wpłacił do banku pewną kwotę na lokatę dwuletnią. Po każdym rocznym okresie oszczędzania bank doliczał odsetki w wysokości 5% od kwoty bieżącego kapitału znajdującego się na lokacie. Po dwóch latach oszczędzania pan Grzegorz odebrał z tego banku wraz z odsetkami kwotę 4851 zł (bez uwzględnienia podatków).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Kwota wpłacona przez pana Grzegorza na tę lokatę była równa
+A. 4300 zł
+B. 4400 zł
+C. 4500 zł
+D. 4600 zł
+Zadanie 4. (0-1)
+Na osi liczbowej zaznaczono przedział.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiór zaznaczony na osi jest zbiorem wszystkich rozwiązań nierówności
+A. $|x-2|5$
+C. $|x-5|2$
+Zadanie 5. (0-2)
+Wykaż, że dla każdej liczby całkowitej nieparzystej n liczba $3n^{2}+4n+1$ jest podzielna przez 4.
+Zadanie 6. (0-1)
+Dany jest układ równań
+$begin{cases}x-3y+5=0 2x+y+3=0end{cases}$
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Rozwiązaniem tego układu równań jest para liczb
+A. $x=1$ i $y=2$
+B. $x=0$ i $y=-3$
+C. $x=-2$ i $y=1$
+D. $x=-1$ i $y=-1$
+Zadanie 7. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej x różnej od (-3) i (-2) wartość wyrażenia $frac{x+3}{x^{2}+4x+4}cdotfrac{x^{2}+2x}{2x+6}$ jest równa wartości wyrażenia
+A. $frac{x}{2}$
+B. $frac{x}{4}$
+C. $frac{x}{2x+4}$
+D. $frac{x^{3}+3x^{2}}{6x^{2}+24x+24}$
+Zadanie 8. (0-1)
+Dany jest wielomian $W(x)=-3x^{3}-x^{2}+kx+1$, gdzie k jest pewną liczbą rzeczywistą. Wiadomo, że wielomian W można zapisać w postaci $W(x)=(x+1)cdot Q(x)$ dla pewnego wielomianu Q.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba k jest równa
+A. 29
+B. (-3)
+C. 0
+D. 3
+Zadanie 9. (0-3)
+Rozwiąż równanie
+$2x^{3}+3x^{2}=10x+15$
+Zapisz obliczenia.
+Zadanie 10. (0-1)
+Funkcja liniowa f jest określona wzorem $f(x)=-frac{1}{6}x+frac{2}{3}$
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F - jeśli jest fałszywe.
+"Miejscem zerowym funkcji jest liczba 4." (P/F)
+"Punkt przecięcia wykresu funkcji z osią Oy ma współrzędne $(0,-frac{1}{6}).$" (P/F)
+Zadanie 11.
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) przedstawiono fragment wykresu funkcji kwadratowej 𝑓. Wierzchołek paraboli, która jest wykresem funkcji 𝑓, oraz punkty przecięcia paraboli z osiami układu współrzędnych mają współrzędne całkowite.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 11.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiorem wartości funkcji 𝑓 jest przedział
+A. (−∞, −2]
+B. (−∞, 4]
+C. [−2, +∞)
+D. [4, +∞)
+Zadanie 11.2. (0–1)
+Zapisz poniżej w postaci przedziału zbiór wszystkich argumentów, dla których funkcja 𝒇 przyjmuje wartości ujemne.
+Zadanie 11.3. (0–2)
+Uzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami A–F i wpisz te litery w wykropkowanych miejscach.
+Wzór funkcji 𝑓 można przedstawić w postaci: ………. oraz ………. .
+A. $f(x) = frac{1}{2}(x - 2)(x - 6)$
+B. $f(x) = frac{1}{2}(x - 4)^2 - 2$
+C. $f(x) = 2(x - 2)(x - 6)$
+D. $f(x) = frac{1}{2}(x + 4)^2 - 2$
+E. $f(x) = 2(x + 2)(x + 6)$
+F. $f(x) = 2(x + 4)^2 - 2$
+Zadanie 11.4. (0–1)
+Funkcja kwadratowa 𝑔 jest określona za pomocą funkcji 𝑓 następująco: $g(x) = f(x + 1)$. Na jednym z rysunków A–D przedstawiono, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), fragment wykresu funkcji 𝑦 = 𝑔(𝑥). Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Fragment wykresu funkcji 𝑦 = 𝑔(𝑥) przedstawiono na rysunku A, B, C lub D.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 12. (0–1)
+Proces stygnięcia naparu z ziół w otoczeniu o stałej temperaturze 22 °C opisuje funkcja wykładnicza $T(x) = 78 cdot 2^{-0,05x} + 22$, gdzie $T(x)$ to temperatura naparu wyrażona w stopniach Celsjusza (°C) po 𝑥 minutach liczonych od momentu 𝑥 = 0, w którym zioła zalano wrzątkiem.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Temperatura naparu po 20 minutach od momentu zalania ziół wrzątkiem jest równa
+A. 22 °C
+B. 39 °C
+C. 78 °C
+D. 61 °C
+Zadanie 13. (0–1)
+Ciąg arytmetyczny (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1. W tym ciągu $a_2 = 4$ oraz $a_3 = 9$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Szósty wyraz ciągu (𝑎𝑛) jest równy
+A. 24
+B. 29
+C. 36
+D. 69
+Zadanie 14. (0–1)
+Ciąg (𝑎𝑛) jest określony dla każdej liczby naturalnej 𝑛 ≥ 1. Suma 𝑛 początkowych wyrazów tego ciągu jest określona wzorem $S_n = 4 cdot (2^n - 1)$ dla każdej liczby naturalnej 𝑛 ≥ 1. Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+"Pierwszy wyraz ciągu (𝑎𝑛) jest równy 4." (P/F)
+"Drugi wyraz ciągu (𝑎𝑛) jest równy 12." (P/F)
+Zadanie 15. (0–1)
+Trzywyrazowy ciąg $(1 - 2a, 12, 48)$ jest geometryczny.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba 𝑎 jest równa
+A. (−1)
+B. 3
+C. 4
+D. 12,5
+Zadanie 16. (0–2)
+Dane są dwa kąty o miarach 𝛼 oraz 𝛽, spełniające warunki: $𝛼 in (0°, 180°)$ i $tg 𝛼 = -23$ oraz $𝛽 in (0°, 180°)$ i $cos 𝛽 = frac{1}{sqrt{10}}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+16.1. Kąt 𝛼 jest zaznaczony na rysunku (A-F).
+16.2. Kąt 𝛽 jest zaznaczony na rysunku (A-F).
+Zadanie 17. (0–1)
+Kąt 𝛼 jest ostry oraz $sin 𝛼 = frac{sqrt{5}}{3}$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Tangens kąta 𝛼 jest równy
+A. $frac{sqrt{5}}{2}$
+B. $frac{2}{3}$
+C. $frac{2sqrt{5}}{5}$
+D. $frac{3sqrt{5}}{5}$
+Zadanie 18. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dana jest prosta 𝑙 o równaniu $y = frac{3}{2}x - frac{15}{2}$. Prosta 𝑘 jest prostopadła do prostej 𝑙 i przechodzi przez punkt 𝑃 = (6, 0).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prosta 𝑘 ma równanie
+A. $y = frac{3}{2}x + 6$
+B. $y = -frac{2}{3}x + 6$
+C. $y = frac{3}{2}x - 9$
+D. $y = -frac{2}{3}x + 4$
+Zadanie 19. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dane są proste 𝑘 oraz 𝑙 o równaniach $k: y = -frac{1}{2}x - 7$, $l: y = (2m - 1)x + 13$.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste 𝑘 oraz 𝑙 są równoległe, gdy
+A. $m = -frac{1}{2}$
+B. $m = frac{1}{4}$
+C. $m = frac{3}{2}$
+D. $m = 2$
+Zadanie 20. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dany jest okrąg 𝒪 o środku w punkcie 𝑆 = (4, −2). Okrąg 𝒪 jest styczny do osi 𝑂𝑥 układu współrzędnych.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒪 jest określony równaniem
+A. $(x - 4)^2 + (y + 2)^2 = 4$
+B. $(x - 4)^2 + (y + 2)^2 = 2$
+C. $(x + 4)^2 + (y - 2)^2 = 4$
+D. $(x + 4)^2 + (y - 2)^2 = 2$
+Zadanie 21. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) punkty 𝐾 = (−7, −2) oraz 𝐿 = (−1, 4) są wierzchołkami trójkąta równobocznego 𝐾𝐿𝑀.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole trójkąta 𝐾𝐿𝑀 jest równe
+A. $17sqrt{2}$
+B. $17sqrt{3}$
+C. $18sqrt{2}$
+D. $18sqrt{3}$
+Zadanie 22. (0–1)
+Punkty 𝐴, 𝐵 oraz 𝐶 leżą na okręgu o środku w punkcie 𝑂. Prosta 𝑘 jest styczna do tego okręgu w punkcie 𝐴 i tworzy z cięciwą 𝐴𝐵 kąt o mierze 32°. Ponadto odcinek 𝐴𝐶 jest średnicą tego okręgu.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta rozwartego 𝐵𝑂𝐶 jest równa
+A. 148°
+B. 116°
+C. 154°
+D. 122°
+Zadanie 23. (0–1)
+W rombie 𝐴𝐵𝐶𝐷 dłuższa przekątna 𝐴𝐶 ma długość 12 i tworzy z bokiem 𝐴𝐵 kąt o mierze 30°.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole rombu 𝐴𝐵𝐶𝐷 jest równe
+A. 24
+B. 36
+C. $24sqrt{3}$
+D. $36sqrt{2}$
+Zadanie 24. (0–2)
+Dany jest okrąg 𝒪 o środku w punkcie 𝑆. Średnica 𝐴𝐵 tego okręgu przecina cięciwę 𝐶𝐷 w punkcie 𝑃. Ponadto: $|𝑃𝐵| = 4, |𝑃𝐶| = 8$ oraz $|𝑃𝐷| = 5$. Oblicz promień okręgu 𝓞. Zapisz obliczenia.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 25. (0–1)
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 o krawędzi długości 5. Wewnątrz sześcianu znajduje się punkt 𝑃.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Suma odległości punktu 𝑃 od wszystkich ścian sześcianu 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 jest równa
+A. 15
+B. 20
+C. 25
+D. 30
+Zadanie 26. (0–3)
+Objętość ostrosłupa prawidłowego czworokątnego jest równa 384. Wysokość ściany bocznej tego ostrosłupa tworzy z płaszczyzną podstawy kąt o mierze 𝛼 taki, że $tg 𝛼 = frac{4}{3}$. Oblicz wysokość ściany bocznej tego ostrosłupa. Zapisz obliczenia.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 27. (0–2)
+E-dowód ma zapisany na pierwszej stronie specjalny sześciocyfrowy numer CAN, który zabezpiecza go przed odczytaniem danych przez osoby nieuprawnione. Oblicz, ile jest wszystkich sześciocyfrowych numerów CAN o różnych cyfrach, spełniających warunek: trzy pierwsze cyfry są kolejnymi wyrazami ciągu arytmetycznego o różnicy (−3). Zapisz obliczenia.
+Zadanie 28. (0–1)
+Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry, która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia polegającego na tym, że iloczyn liczb wyrzuconych oczek jest liczbą nieparzystą, jest równe
+A. 1/2
+B. 1/5
+C. 1/4
+D. 3/4
+Zadanie 29.
+W hurtowni owoców wyselekcjonowane jabłko spełnia normę jakości, gdy jego masa (po zaokrągleniu do pełnych dekagramów) mieści się w przedziale [19 dag, 21 dag]. Pobrano próbę kontrolną liczącą 50 jabłek i następnie zważono każde z nich. Na poniższym wykresie słupkowym przedstawiono rozkład masy jabłek w badanej próbie.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 29.1. (0–1)
+Spośród 50 zważonych jabłek z pobranej próby kontrolnej losujemy jedno jabłko. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia polegającego na tym, że wylosowane jabłko spełnia normę jakości, jest równe
+A. 3/7
+B. 5/7
+C. 18/25
+D. 9/10
+Zadanie 29.2. (0–1)
+Dokończ zdanie tak, aby było prawdziwe. Wybierz odpowiedź A albo B oraz jej uzasadnienie 1., 2. albo 3.
+Dominanta masy 50 zważonych jabłek (w zaokrągleniu do pełnych dekagramów) z pobranej próby kontrolnej jest równa:
+A. 20 dag
+B. 23 dag
+ponieważ:
+ta masa jest największa w tej próbie.
+iloczyn tej masy i liczby jabłek o takiej masie jest największy w tej próbie.
+ta masa występuje najliczniej w tej próbie.
+Zadanie 30. (0–4)
+Zgodnie z założeniem architekta okno na poddaszu ma mieć kształt trapezu równoramiennego, który nie jest równoległobokiem. Dłuższa podstawa trapezu ma mieć długość 12 dm, a suma długości krótszej podstawy i wysokości tego trapezu ma być równa 18 dm. Oblicz, jaką długość powinna mieć krótsza podstawa tego trapezu, tak aby pole powierzchni okna było największe. Oblicz to pole. Zapisz obliczenia.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+Więcej arkuszy znajdziesz na stronie: arkusze.pl CENTRALNA KOMISJA EGZAMINACYJNA
+Rodzaj dokumentu: Zasady oceniania rozwiązań zadań Egzamin: Egzamin maturalny, Test diagnostyczny Przedmiot: Matematyka Poziom: Poziom podstawowy Formy arkusza: MMAP-P0-100, MMAP-P0-200, MMAP-P0-300, MMAP-P0-400, MMAP-P0-660, MMAP-P0-700, MMAP-P0-Q00, MMAP-P0-K00, MMAU-P0-100 Termin egzaminu: 7 grudnia 2023 r. Data publikacji dokumentu: 12 grudnia 2023 r.
+Egzamin maturalny z matematyki (poziom podstawowy). Test diagnostyczny - grudzień 2023 r.
+Uwagi ogólne:
+Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym zapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną liczbę punktów.
+Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może otrzymać co najwyżej $(n-1)$ punktów (gdzie $n$ jest maksymalną możliwą do uzyskania liczbą punktów za dane zadanie).
+Zadanie 1. (0-1) Wymaganie ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych. Wymagania szczegółowe: Zdający: 1.1) wykonuje działania ([...] potęgowanie [...]) w zbiorze liczb rzeczywistych; 1.4) stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach i pierwiastkach.
+Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie C
+Zadanie 2. (0-1) Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych. Wymagania szczegółowe: Zdający: 1.1) wykonuje działania ([...] logarytmowanie) w zbiorze liczb rzeczywistych; 1.9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na logarytm [...] ilorazu [...].
+Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie D
+Zadanie 3. (0-1) Wymaganie ogólne: I. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych. Wymaganie szczegółowe: Zdający: 1.8) wykorzystuje własności potęgowania i pierwiastkowania w sytuacjach praktycznych, w tym do obliczania procentów składanych z kapitalizacją roczną i zysków z lokat.
+Zasady oceniania 1 pkt - odpowiedź poprawna. 0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie B
+Zadanie 4. (0-1) Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych. Wymaganie szczegółowe: Zdający: 1.7) stosuje interpretację geometryczną i algebraiczną wartości bezwzględnej, rozwiązuje równania i nierówności typu: [...] $|x-2|0$ oraz $h=18-b&gt;0$ oraz $b0$ oraz $b&lt;18$ oraz $b&lt;12$. Zmienna $b$ może przyjmować wartość z przedziału $(0, 12)$. Obliczamy pierwszą współrzędną wierzchołka paraboli:
+$$p=frac{-12+18}{2}=frac{6}{2}=3 in (0,12)$$
+Dla $b=3$ pole tego trapezu jest równe:
+$$P(3)=frac{1}{2}(12+3)(18-3)=112,5$$
+Największe pole równe $112,5 text{ dm}^2$ ma trapez, którego krótsza podstawa ma $3 text{ dm}$.
+
+Sposób IIIPrzyjmujemy oznaczenia:$a = 12$ – dłuższa podstawa trapezu,$b$ – krótsza podstawa trapezu,$h$ – wysokość trapezu.Z warunków zadania otrzymujemy:$$b + h = 18$$Stąd wyznaczamy $h$:$$h = 18 - b$$Pole trapezu wyrażamy jako funkcję zmiennej $b$:$$P(b) = frac{1}{2}(12 + b)(18 - b)$$Z nierówności między średnią geometryczną i średnią arytmetyczną dla liczb dodatnich $(12 + b)$ i $(18 - b)$ otrzymujemy$$sqrt{(12 + b)(18 - b)} le frac{12 + b + 18 - b}{2}$$$$sqrt{(12 + b)(18 - b)} le 15$$Stąd$$(12 + b)(18 - b) le 225$$przy czym równość zachodzi tylko wtedy, gdy $12 + b = 18 - b$, czyli dla $b = 3$.Wtedy pole trapezu jest największe i równe $P(3) = frac{1}{2} cdot 225 = 112,5$.

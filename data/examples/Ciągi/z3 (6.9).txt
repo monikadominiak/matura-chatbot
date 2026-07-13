@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+z3 (6.9)
+
+Wyznacz te wartości parametru p, dla których ciąg (a_n) o wyrazie ogólnym a_n = n^2 + pn jest rosnący.
+
+1️⃣ Określamy monotoniczność.
+
+Monotoniczność określa się analizując znak wyrażenia a_{n+1} - a_n.
+
+a_n = n^2 + pn
+
+a_{n+1} = (n+1)^2 + p(n+1)
+
+a_{n+1} - a_n = (n+1)^2 + p(n+1) - n^2 - pn =
+
+= n^2 + 2n + 1 + pn + p - n^2 - pn =
+
+= 2n + 1 + p
+
+Ciąg jest rosnący, gdy a_{n+1} - a_n > 0.
+
+2️⃣ Wyznaczamy p.
+
+Trzeba sprawdzić dla jakiej wartości parametru p nierówność 2n + 1 + p > 0 jest spełniona dla n ∈ N+, czyli de facto zbiorem rozwiązań ma być przedział [1,+∞) lub szerszy, więc liczba krańcowa (początek przedziału) musi być mniejsza od 1.
+
+2n + 1 + p > 0
+
+n > \frac{-1-p}{2} => n ∈ (\frac{-1-p}{2}, +∞)
+
+\frac{-1-p}{2} < 1
+
+1 - p < 2
+
+p > -3
+
+Odp: p ∈ (-3,+∞).

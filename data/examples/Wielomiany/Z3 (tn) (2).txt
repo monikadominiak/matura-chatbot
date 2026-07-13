@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+z3 (tn)
+
+Funkcja v określona jest wzorem w(x) = x^3 - 5x^2 + 5x - 1. 
+
+a) Znajdź współrzędne punktów wspólnych wykresu funkcji v i osi odciętych.  
+b) Wyznacz zbiór wartości funkcji f(x) = w(x) - x^3.
+
+w(x) = x^3 - 5x^2 + 5x - 1
+
+a)  
+Oś odciętych to oś x, zatem wyznaczamy punkty przecięcia wielomianu z osią x:
+
+w(x) = 0  
+x^3 - 5x^2 + 5x - 1 = 0  
+x^3 - 1 - 5x^2 + 5x = 0  
+a^3 - b^3 = (a - b)(a^2 + ab + b^2)
+
+(x - 1)(x^2 + x + 1) - 5x(x - 1) = 0  
+(x - 1)[x^2 + x + 1 - 5x] = 0  
+(x - 1)(x^2 - 4x + 1) = 0
+
+x - 1 = 0  
+x_1 = 1
+
+x^2 - 4x + 1 = 0
+
+Δ = b^2 - 4ac  
+x_{2,3} = \frac{-b±\sqrt{Δ}}{2a}
+
+Δ = 16 - 4 = 12  
+√Δ = 2√3
+
+x_2 = \frac{4 + 2√3}{2} = 2 + √3  
+x_3 = \frac{4 - 2√3}{2} = 2 - √3
+
+Zatem:  
+P_1 = (1, 0) ; P_2 = (2 - √3, 0) ; P_3 = (2 + √3, 0)
+
+Odp: P_1 = (1; 0) ; P_2 = (2 - √3 ; 0) ; P_3 = (2 + √3 ; 0).
+
+b) 
+1) Wyznaczenie wzoru funkcji f(x)
+f(x) = w(x) - x^3  
+f(x) = x^3 - 5x^2 + 5x - 1 - x^3  
+f(x) = -5x^2 + 5x - 1
+
+2) Wyznaczenie zbioru wartości funkcji  
+f(x) to funkcja kwadratowa, zatem wyznaczamy współrzędne wierzchołka W(p, q).
+
+--- STRONA 2 ---
+\( N = (\varrho, q), \text{ gdzie } \varrho = \frac{-b}{2a}, q = \frac{\Delta}{4a} = f(\varrho) \)
+
+\[
+\varrho = \frac{-5}{-10} = \frac{1}{2}
+\]
+
+\[
+q = f(\frac{1}{2}) = -\frac{5}{4} + \frac{5}{2} \cdot \frac{1}{4} = \frac{1}{4}
+\]
+
+\( W(\frac{1}{2}, \frac{1}{4}) \)
+
+\[
+\includegraphics[width=0.5\textwidth]{sketch.png}
+\]
+
+Zatem \( \Sigma_{w} = (-\infty, \frac{1}{4} \rangle \)
+
+Odp: \( \Sigma_{w} = (-\infty, \frac{1}{4} \rangle \).

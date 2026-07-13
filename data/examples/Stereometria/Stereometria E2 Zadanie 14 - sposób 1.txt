@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+W ostrosłupie prawidłowym czworokątnym wysokość ma długość H, a kąt między sąsiednimi ścianami bocznymi ma miarę α. Wyznacz objętość tego ostrosłupa.
+
+1) sporządzamy rysunek pomocniczy
+
+Zmienne: a, b, h1, h2
+
+Dane: H, α
+
+2) zapisujemy 4 równania
+
+1) tw. cosinusów w ΔDEB:
+
+(a√2)^2 = h2^2 + h1^2 - 2·h1·h2·cosα
+
+2a^2 = 2h2^2 - 2h2^2cosα
+
+a^2 = h2^2(1 - cosα)
+
+2) równość pól ściany bocznej:
+
+PΔBCS = (1/2)a·h2 = (1/2)b·h
+
+3) tw. Pitagorasa w ΔSOF
+ 
+(1/2a)^2 + H^2 = h^2
+
+1/4 a^2 + H^2 = h^2
+
+4) tw. Pitagorasa w ΔOBS
+
+(1/2a√2)^2 + H^2 = b^2
+
+1/2 a^2 + H^2 = b^2
+
+3) rozwiązujemy powstały układ równań
+
+(wyznaczamy a lub a^2 uzależnione od danych)
+
+| a^2 = h2^2(1 - cosα) (1)
+| a·h2 = b·h (2)
+| 1/4 a^2 + H^2 = h2^2 (3)
+| 1/2 a^2 + H^2 = b^2 (4)
+
+z (2): h1 = a·h2/b
+
+do (1): a^2 = a^2·h2^2/b^2 (1 - cosα)/: a^2 ≠ 0
+
+1 = h2^2/b^2(1 - cosα) => h2^2 = b^2/1 - cosα
+
+wstawiamy do (*)
+
+2b^2/1 - cosα = b^2 + H^2 => b^2(2/1 - cosα - 1) = H^2 => b^2 = H^2(1 - cosα)/1 + cosα
+
+wstawiamy b^2 do równania a^2 = 2(b^2 - H^2)
+
+a^2 = 2(H^2(1 - cosα)/1 + cosα - H^2) = 2(-2cosαH^2)/1 + cosα = -4cosαH^2/1 + cosα
+
+4) wyznaczamy objętość
+
+V = 1/3 · -4cosαH^2/1 + cosα · H = -4cosαH^3/3(1 + cosα)
+
+Odp: V = -4cosαH^3/3(1 + cosα)

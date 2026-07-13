@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Całkowity koszt wykonania prostopadłościennego zbiornika o kwadratowej podstawie (zamkniętego z góry) o pojemności 200 m³ ustalono w następujący sposób:
+- 350 zł za 1 m² dna i pokrywy
+- 112 zł za 1 m² ściany bocznej
+
+Oblicz wymiary akwarium, dla którego tak ustalony koszt wykonania będzie najmniejszy. Oblicz ten najmniejszy koszt.
+
+➊ uzależniamy od siebie zmienne
+
+V = x² * H = 200
+
+⇒ H = \frac{200}{x²}
+
+➋ zapisujemy wzór funkcji
+
+Pc(x) = 2x² + 4x * \frac{200}{x²} = 2x² + \frac{800}{x}
+
+K(x) = 350 * 2x² + 112 * \frac{800}{x} = 700x² + \frac{89600}{x}
+
+➌ wyznaczamy dziedzinę funkcji
+
+\begin{cases} x > 0 \\ H > 0 \end{cases} \frac{200}{x²} > 0 \ spełnione \ x≠0 ⇒ x∈(0, +∞)
+
+➍ wyznaczamy pochodną funkcji
+
+K'(x) = 1400x - \frac{89600}{x²}
+
+➎ wyznaczamy miejsca zerowe pochodnej
+
+K'(x) = 0 ⇔ 1400x - \frac{89600}{x²} = 0 \ /.x²
+
+1400x³ - 89600 = 0
+
+x³ = \frac{89600}{1400} = 64 ⇒ x = 4
+
+➏ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+[Wykres]
+
+Funkcja K(x) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu x = 4 [m]
+
+➐ obliczamy H oraz najmniejszy koszt
+
+H = \frac{200}{4²} = 12,5 [m]
+
+K(4) = 700 * 4² + \frac{89600}{4} = 11200 + 22400 = 33600 zł
+
+Odp: 4 x 4 x 12,5 [m], koszt: 33600 zł

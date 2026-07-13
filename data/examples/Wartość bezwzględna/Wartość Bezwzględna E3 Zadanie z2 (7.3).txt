@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Zadanie z2 (7.3) Rozwiąż równanie: |3x - 15| + |x - 5| = |10 - 2x| + |x + 4| - 3.
+
+1) Upraszczamy równanie:
+
+|3x-15|+|x-5|=|10-2x|+|x+4|-3
+
+|3x-15|=3|x-5|
+
+|10-2x|=2|5-x|=2|x-5|
+
+(bo |3x-15|=3|x-5|+|-1| |x-5|=|x-5|)
+
+3|x-5|+|x-5|=2|x-5|+|x-4|-3
+
+2|x-5|-|x-4|=3
+
+UWAGA: przed moduł można wystawiać tylko liczby dodatnie, ponieważ dla liczb ujemnych minus zredukuje się przy rozwinięciu modułu na dwie moduły. Na przykład:
+
+| -2x-8 | = 2|x+4|, ponieważ:
+
+|-2x-8|=|2(x+4)|=|-2| |x+4|=2|x+4|
+
+2) Tworzymy siatkę znaków:
+
+0 1 2
+| ----0----| 0 |++0++|++0++|++x++|++0++| 0
+
+1° x ∈ (-∞, -4)
+2° x ∈ ⟨-4, 5)
+3° x ∈ ⟨5, +∞)
+
+3) Rozwiązujemy wyznaczone przypadki:
+
+1° x ∈ (-∞,-4) v 2° x ∈ ⟨-4,5) v 3° x ∈ ⟨5,+∞)
+
+-2x+10-x-4-3=0       -2x+10-x-4+3=0       2x-10-x-4+3=0
+-2x+10+x-4=0         -3x+9=0                x-11=0
+-x+14=0               3x=9                    x=11
+x=14                  x=3                    x=11
+x ∉ ⟨-∞,-4)         x=3                       x=11 A x ∈ ⟨5,+∞)
+
+4) Wyznaczamy sumę rozwiązań ze wszystkich przypadków:
+
+1° ∪ 2° ∪ 3° => xε {3,11}
+
+Odp. xε {3,11}.

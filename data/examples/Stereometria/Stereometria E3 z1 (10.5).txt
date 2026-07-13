@@ -1,0 +1,56 @@
+
+--- STRONA 1 ---
+Oblicz objętość graniastosłupa prawidłowego trójkątnego, w którym długość krawędzi podstawy jest równa 20 cm oraz kąt nachylenia przekątnej ściany bocznej do sąsiedniej ściany bocznej ma miarę 45°.
+
+1. Sporządzamy rysunek pomocniczy
+
+α = 45°
+a = 20 cm
+
+2. Liczymy wartość h ze wzoru \(h=\frac{a\sqrt{3}}{2}\) oraz d korzystając z kąta 45°
+
+\[
+h = \frac{20\sqrt{3}}{2} = 10\sqrt{3}
+\]
+
+\[
+\sin 45° = \frac{\sqrt{2}}{2}
+\]
+
+\[
+\frac{h}{d} = \frac{\sqrt{2}}{2} \implies d = \frac{2}{\sqrt{2}}h
+\]
+
+\[
+d = \frac{2}{\sqrt{2}} \cdot 10\sqrt{3} = \frac{20\sqrt{3}}{\sqrt{2}} \cdot \frac{\sqrt{2}}{\sqrt{2}} = \frac{20\sqrt{6}}{2} = 10\sqrt{6}
+\]
+
+3. Liczymy wartość H potrzebną do objętości stosujemy tw. Pitagorasa w Δ o bokach a,d,H
+
+\[
+H^2 + a^2 = d^2
+\]
+
+\[
+H^2 + 20^2 = (10\sqrt{6})^2
+\]
+
+\[
+H^2 + 400 = 600
+\]
+
+\[
+H^2 = 200
+\]
+
+\[
+H = \sqrt{200} = 10\sqrt{2}
+\]
+
+4. Liczymy objętość \(V = P_p \cdot H = \frac{a^2\sqrt{3}}{4} \cdot H\)
+
+\[
+V = \frac{20^2\sqrt{3}}{4} \cdot 10\sqrt{2} = \frac{400\sqrt{3}}{4} \cdot 10\sqrt{2} = 1000\sqrt{6}
+\]
+
+odp: \(V = 1000\sqrt{6} \text{ cm}^3\)

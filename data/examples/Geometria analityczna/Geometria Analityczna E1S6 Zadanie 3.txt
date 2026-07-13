@@ -1,0 +1,75 @@
+
+--- STRONA 1 ---
+Zad. 3 Dane są okręgi O_1 i O_2. Oblicz odległość między środkami tych okręgów i określ ich wzajemne położenie. O_1: x^2 - 14x + y^2 - 4y + 4 = 0, O_2: x^2 + 10x + y^2 + 6y + 9 = 0.
+
+1) Wyznaczamy środki i promienie obu okręgów:
+
+I sposób: podstawienie
+
+x^2 - 14x + y^2 - 4y + 4 = 0
+
+x^2 + y^2 - 2ax - 2by + c = 0 , r^2 = a^2 + b^2 - c
+
+-2ax = -14x  -2by = -4y  c = 4
+
+a = 7   b = 2
+
+r^2 = 7^2 + 2^2 - 4 = 49 + 4 - 4
+
+r^2 = 49
+
+r = 7  v r = -7 ale bo r > 0
+
+O_1: (x - 7)^2 + (y - 2)^2 = 49  =>  S(7,2) , r = 7
+
+x^2 + 10x + y^2 + 6y + 9 = 0
+
+x^2 + y^2 - 2ax - 2by + c = 0 , r^2 = a^2 + b^2 - c
+
+-2ax = 10x  -2by = 6y  c = 9
+
+a = -5   b = -3
+
+r^2 = (-5)^2 + (-3)^2 - 9
+
+r^2 = 25 + 9 - 9 = 25
+
+r = 5  v r = -5 ale bo r > 0
+
+O_2: (x + 5)^2 + (y + 3)^2 = 25  =>  S(-5,-3) , r = 5
+
+II sposób: zamiana do wzorów skróconego mnożenia
+
+x^2 - 14x + y^2 - 4y + 4 = 0
+
+(x-7)^2 + (y-2)^2 = 49 + 4 - 4
+
+O_1: (x-7)^2 + (y-2)^2 = 49
+
+S(7,2) , r = 7
+
+x^2 + 10x + y^2 + 6y + 9 = 0
+
+(x+10x/2)^2 + (y + 6y/2)^2 = 25 + 9 - 9
+
+O_2: (x+5)^2 + (y+3)^2 = 25
+
+S(-5,-3) , r = 5
+
+2) Obliczamy odległość między środkami okręgów:
+
+O_1: S(7,2)    r=7         O_2: S(-5,-3)         r=5
+
+|O_2,O_1| = sqrt((7+5)^2 + (2+3)^2)
+
+|O_2,O_1| = sqrt(144 + 25 = 169) sqrt
+
+|O_2,O_1| = 13
+
+3) Sprawdzamy wzajemne położenie okręgów:
+
+r_1 + r_2 = 7 + 5 = 12
+
+|O_2,O_1| = 13     =>  |O_1,O_2| > R_1 + R_2
+
+Odp. Okręgi są rozłączne zewnętrznie.

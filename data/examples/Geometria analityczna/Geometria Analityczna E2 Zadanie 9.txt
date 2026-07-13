@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+**Zad.9** Na osi OX wyznacz taki punkt B, aby pole trójkąta ABC, gdzie A(2, -3), C(6, 3), było równe 12.
+
+Rysunek poglądowy:
+
+a) Wyznaczamy punkt B ze wzoru na pole trójkąta:
+
+I sposób: Wzór ze współrz. wierzchołków:
+
+B(x,0)
+
+\[
+\Delta = \frac{1}{2} |(x-2)(3-0) + (x-6)(0+3) + (6-2)(0-3)|
+\]
+
+24 = |6x - 12 - 3x - 18 + 12|
+
+24 = |6x - 24| / 1
+
+576 = (6x-24)^2
+
+576 = 36x^2 - 288x + 576   6x - 24 - 24
+                            
+36x^2 - 288x = 0 /36       6x = 48       6x = 0
+
+x^2 - 8x = 0               x = 8          x = 0
+
+x(x-8)=0
+
+x=0     v    x=8
+
+II sposób: Wektor wyznacz :|:
+
+\[
+\vec{AC} = [6-2, 3-(-3)] = [4,6]
+\]
+\[
+\vec{AB} = [x-2, 0-(-3)] = [x-2, 3]
+\]
+
+\[
+\Delta = \frac{1}{2} \left| \begin{array}{cc} 
+4 & 6 \\ 
+x-2 & 3 
+\end{array} \right| 
+\]
+
+24 = |42 - 6x - 24|
+
+24 = |18-6x|
+
+24 - 6x = 24    v    24 - 6x = -24
+-6x = 0         -6x = -48
+x = 0           x = 8
+
+Odp. B(0,0) lub B(8,0).

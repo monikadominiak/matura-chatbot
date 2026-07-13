@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Długość przekątnej prostopadłościanu jest równa 5√3. Stosunek długości krawędzi podstawy jest równy 1 : 3. Wyznacz wymiary prostopadłościanu wiedząc, że jego objętość jest największa z możliwych.
+
+① uzależniamy od siebie zmienne
+
+przekątna D = 5√3
+
+krawędzie podstawy: x i 3x  
+a = x  
+b = 3x  
+
+wzór na przekątną prostopadłościanu:  
+
+D = √a^2+b^2+c^2  
+
+5√3 = √x^2+9x^2+c^2  
+
+75 = 10x^2 + c^2  
+
+c^2 = 75-10x^2 => c = √75-10x^2  
+
+② zapisujemy wzór funkcji  
+
+V(x) = x·3x·√75-10x^2 = √9x^4(75-10x^2)  
+
+③ wyznaczamy dziedzinę funkcji  
+
+x > 0 i 75 - 10x^2 > 0  
+x^2 < 7,5  
+x ∈ (0; √7,5)  
+≈ 2,74  
+
+④ wyznaczamy pochodną funkcji  
+
+I sposób pomijamy pierwiastek  
+
+f(x)=9x^4(75-10x^2)  
+= 615x^4 - 90x^6  
+
+f'(x) = 2700x^3 - 540x^5  
+
+II sposób pochodna funkcji złożonej  
+
+V'(x) = 1/2√9x^4(75-10x^2)·(2700x^3-540x^5)  
+
+(zauważmy, że w II mianownik jest >0, więc będziemy analizować licznik, pod względem analizy miejsc zerowych da ten sam wynik co f'(x) z I)
+
+⑤ wyznaczamy miejsca zerowe pochodnej  
+
+f'(x)=0 <=>
+2700x^3 - 540x^5 = 0  
+540x^3(x^2-5) = 0  
+x = 0 ∨ x = -√5 ∨ x = √5  
+
+⑥ badamy monotoniczność i ekstrema funkcji  
+
+I sposób:  
+
+[wykres]  
+
+II sposób:  
+
+x ∈ (0, √5) | √5 | (√5, √7,5)  
+f'(x) + | 0 | -  
+f(x)     max. lok.  
+
+⑦ wyznaczamy wymiary:  
+
+b = 3x = 3√5, c = √75-50 = 5
+
+Odp: √5 x 3√5 x 5

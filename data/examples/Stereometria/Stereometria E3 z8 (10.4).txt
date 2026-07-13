@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+**Tworząca stożka jest nachylona do płaszczyzny podstawy pod kątem o mierze α. Płaszczyzna prostopadła do wysokości stożka dzieli ten stożek na dwie bryły o równych polach powierzchni całkowitych. Oblicz stosunek objętości tych brył.**
+
+1️⃣ sporządzamy rysunek pomocniczy i wprowadzamy oznaczenia 
+
+niech V_1 - objętość dużego stożka 
+V_2 - objętość małego stożka 
+V_S - objętość stożka ściętego, V_S = V_1 - V_2 
+
+(analagiczne oznaczenia dla P_c)
+
+2️⃣ zapisujemy wzorami objętości brył oraz ich stosunek
+
+V_1 = 1/3 π r_1^2 ⋅ h_1
+V_2 = 1/3 π r_2^2 ⋅ h_2
+
+V_s / V_2 = (V_1 - V_2) / V_2 = V_1 / V_2 - 1 = 
+(1/3 π r_1^2 ⋅ h_1) / (1/3 π r_2^2 ⋅ h_2) - 1 = 
+(r_1^2 ⋅ h_1) / (r_2^2 ⋅ h_2) - 1 ⓐ
+
+3️⃣ zapisujemy wzorami równości pól powierzchni 
+
+P_c₂ = P_cS ⇒ π r_2^2 + π r_2 l_2 = π r_1^2 + π r_1 l_1 - π r_2 l_2 + π r_1^2 / :π
+
+2 r_2 l_2 = r_1^2 + r_1 l_1 ⇒ 2 r_2 l_2 = r_1 (r_1 + l_1) (*)
+
+4️⃣ wykorzystujemy dany kąt α w dwóch Δ-ach 
+
+cosα = v_2 / l_2 ⇒ l_2 = r_2 / cosα i cosα = r_1 / l_1 ⇒ l_1 = r_1 / cosα
+
+wstawiamy do (*):
+
+2v_2 ⋅ (v_2 / cosα) = r_1 (r_1 + r_1 / cosα) / :cosα
+
+2v_2^2 = r_1^2 cosα + r_1^2 
+
+r_2^2 = r_1^2 (cosα + 1) / 2 ⇒ r_2 = r_1√(cosα + 1)/2  (**)
+
+5️⃣ wyznaczamy wartość przynajmniej h_1 / h_2 ⓑ (potrzebne do ⓐ)
+
+Δ o bokach v_2, l_2, h_2    ∿    Δ o bokach r_1, l_1, h_1 z cechy kkk (kąt α i kąt prosty)
+
+zatem h_1 / h_2 = r_1 / r_2
+
+6️⃣ podstawiamy do ⓐ i liczymy stosunek V_S / V_2 
+
+V_s / V_2 = r_1^3 / r_2^3 - 1 (**) = 1 / (√[3]((cosα+1)/2))^3 - 1 = 1 - (√[3](cosα+1)/2 )^3 / (√[3]((cosα+1)/2))^3
+
+upraszczając: 1 + cosα / 2 = cos^2 α / 2 (wzór na cos podwojonego kąta)
+
+V_s / V_2 = 1 - (cos^3 α / 2) / cos^3 α / 2
+
+**Odp: V_s / V_2 = 1 - cos^3 α / 2 / cos^3 α / 2**

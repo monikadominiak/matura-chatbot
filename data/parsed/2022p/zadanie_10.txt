@@ -1,0 +1,16 @@
+=== ARKUSZ: 2022p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0-1)
+Na rysunku 1. przedstawiono wykres funkcji określonej na zbiorze (-4, 5).
+Funkcję g określono za pomocą funkcji f. Wykres funkcji g przedstawiono na rysunku 2.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Wynika stąd, że
+A. $g(x)=f(x)-2$
+B. $g(x)=f(x-2)$
+C. $g(x)=f(x)+2$
+D. $g(x)=f(x+2)$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

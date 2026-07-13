@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Ze zbioru punktów o współrzędnych (x, y), gdzie x ∈ {1, 2, 3}, zaś y ∈ {2, 4}, wybrano losowo dwa różne punkty.
+Oblicz prawdopodobieństwo zdarzeń:
+a) A - wylosowane punkty należą do prostej o równaniu y = 2x
+b) B - wylosowane punkty są końcami odcinka równoległego do osi OX.
+
+x ∈ {1, 2, 3}   y ∈ {2, 4}   punkty (x, y)
+
+1️⃣ wypiszemy najpierw możliwe punkty
+
+P_1(1,2), P_2(1,4), P_3(2,2), P_4(2,4), P_5(3,2), P_6(3,4)
+
+2️⃣ tworzymy tabelę możliwości wybrania dwóch punktów
+
+\[
+\begin{array}{c|c|c|c|c|c|c}
+  & P_1 & P_2 & P_3 & P_4 & P_5 & P_6 \\
+\hline
+P_1 & X &   &   &   &   &   \\
+\hline
+P_2 &   & X &   &   &   &   \\
+\hline
+P_3 &   &   & X &   &   &   \\
+\hline
+P_4 & O &   &   & X &   &   \\
+\hline
+P_5 &   & O & O &   & X &   \\
+\hline
+P_6 &   &   &   & O &   & X \\
+\end{array}
+\]
+
+nie możemy wybrać dwa razy jednego punktu
+
+3️⃣ liczymy moc Ω
+
+\[
+\overline{\Omega} = 36 - 6 = 30
+\]
+
+4️⃣ a) A - punkty należą do prostej y = 2x
+
+więc są postaci (x, 2x)
+
+(P_1, P_4) i (P_4, P_1) \overline{A} = 2
+
+uwaga: zauważmy, iż tak jak przy liczeniu \overline{\Omega} również tutaj zakładamy, że kolejność ma znaczenie
+(sposób liczenia musi być konsekwentny)
+
+\[ 
+P(A) = \frac{2}{30} = \frac{1}{15}
+\]
+
+5️⃣ b) B - końce odcinka || OX
+
+czyli ich współrzędne y muszą być równe
+
+z tabeli: \overline{B} = 12
+
+\[
+P(B) = \frac{12}{30} = \frac{2}{5}
+\]
+
+Odp: P(A) = \frac{1}{15}, P(B) = \frac{2}{5}

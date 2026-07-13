@@ -1,0 +1,24 @@
+
+--- STRONA 1 ---
+5. Sumy początkowych wyrazów 1  
+Oblicz sumę wszystkich liczb parzystych zawartych między 13 a 2013.
+
+Te liczby parzyste to: {14, 16, 18, ..., 2010, 2012}  
+Tworzą ciąg arytmetyczny.  
+Aby obliczyć sumę należy najpierw dowiedzieć się, ile ten ciąg ma wyrazów - ze wzoru na n-ty wyraz.  
+
+\[ a_n = a_1 + (n-1) \cdot r \]  
+
+🔵 Obliczamy n.  
+
+\[ 2012 = 14 + (n-1) \cdot 2 \]  
+\[ 1998 = (n-1) \cdot 2 \ \ \Rightarrow : 2 \]  
+\[ 999 = n - 1 \]  
+\[ n = 1000 \]  
+
+🔵 Obliczamy \ S_{1000}.  
+
+\[ S_n = \frac{a_1 + a_n}{2} \cdot n \]  
+\[ S_{1000} = \frac{14 + 2012}{2} \cdot 1000 = 1013000 \]  
+
+Odp.: \ S_{1000} = 1013000.

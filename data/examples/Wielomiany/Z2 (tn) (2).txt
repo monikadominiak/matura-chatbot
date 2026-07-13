@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+z1 (tn)  
+Rozłóż na czynniki liniowe wielomian W(x) = (x^2 + 4x - 1)^2 - 16 i podaj jego pierwiastki.
+
+ω(x) = (x^2 + 4x - 1)^2 - 16
+
+ω(x) = (x^2 + 4x - 1)^2 - 4^2
+
+ω(x) = [x^2 + 4x - 1 - 4] * [x^2 + 4x - 1 + 4]
+
+ω(x) = (x^2 + 4x - 5)(x^2 + 4x + 3)
+
+Δ = b^2 - 4 * a * c
+
+x_a = -b + sqrt(Δ) / 2a     x_2 = -b - sqrt(Δ) / 2a
+
+x^2 + 4x - 5 = 0           x^2 + 4x + 3 = 0
+
+Δ_1 = 16 + 20 = 36  
+sqrt(Δ_1) = 6  
+x_1 = -4 + 6 / 2 = 1  
+x_2 = -4 - 6 / 2 = -5  
+
+Δ_2 = 16 - 12 = 4  
+sqrt(Δ_2) = 2  
+x_3 = -4 + 2 / 2 = -1  
+x_4 = -4 - 2 / 2 = -3  
+
+Zatem :  
+ω(x) = (x + 5)(x - 1)(x + 3)(x + 1)
+
+Wyznaczamy pierwiastki tego wielomianu:  
+(x + 5)(x - 1)(x + 3)(x + 1) = 0  
+
+x + 5 = 0  
+x = -5  
+
+x - 1 = 0  
+x = 1  
+
+x + 3 = 0  
+x = -3  
+
+x + 1 = 0  
+x = -1  
+
+Odp: ω(x) = (x + 5)(x - 1)(x + 3)(x + 1),  
+pierwiastki to: x ∈ {-5, -3, -1, 1}.

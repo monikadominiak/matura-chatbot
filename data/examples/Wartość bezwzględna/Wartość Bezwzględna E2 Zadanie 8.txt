@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zad.8 Określ liczbę rozwiązań równania |x^2 + 2x - 3| = m w zależności od wartości parametru m (m ∈ R).
+
+1) Wykonujemy etapowe przekształcenia funkcji i rysujemy jej wykres w układzie współrzędnych:
+
+Niech y = |x^2 + 2x - 3|
+
+f(x) = x^2 + 2x -3        |δ f(x) = |x^2 + 2x - 3|
+
+Δ = 4 + 4*2 = 4, (p = ^4√=4
+
+x_1 = -2-√^2/2 = -3, x_2 = -2+√^2/2 = -1
+
+p = -2/2 = -1, g = f(-1) - = - 4
+
+W naszej funkcji a=1, więc parabola będzie skierowana ramionami do góry, a dla x∈(-3,1) wartości będą ujemne. Wykonując jednak nasze przekształcenie |x(1) robimy częśći, symetrii względem OX, „odbicie, lustarzenie" wykresu w tym przedziale i uzyskujemy y = |x^2 + 2x - 3|.
+
+
+2) Analizujemy wykres i określamy liczbę rozwiązań w zależności od m:
+
+Odp. 0 rozw. gdy m∈(-∞,0), 
+2 rozw. gdy m=F-(4,∞)
+3 rozw. gdy m = 4, oraz 
+4 rozw. gdy m ∈(0, 4).

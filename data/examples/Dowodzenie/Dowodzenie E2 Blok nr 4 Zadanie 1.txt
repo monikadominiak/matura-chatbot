@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Boki trójkąta mają długości \(a, b, c\) natomiast miary kątów są odpowiednio równe \(\alpha, \beta, \gamma\). Wykaż, że jeśli \(\frac{a}{c} \cdot \sin\alpha + \frac{b}{c} \cdot \sin\beta = \sin\gamma\), to trójkąt ten jest prostokątny.
+
+1️⃣ tworzymy rysunek poglądowy
+
+(rysunek trójkąta z oznaczeniami)
+
+UWAGA: na rysunku są domyślne oznaczenia dla \(\triangle ABC\), gdy nie mamy danych
+
+założenie:
+\(\frac{a}{c} \cdot \sin\alpha + \frac{b}{c} \cdot \sin\beta = \sin\gamma\)
+
+teza:
+\(\triangle ABC\) - prostokątny
+
+2️⃣ zapiszmy fragment tw. sinusów:
+
+\[
+\frac{a}{\sin\alpha} = \frac{c}{\sin\gamma} = \frac{b}{\sin\beta}
+\]
+
+3️⃣ możemy wyznaczyć \(\frac{a}{c}\) i \(\frac{b}{c}\)
+
+\[
+\frac{a}{c} = \frac{\sin\alpha}{\sin\gamma} \quad i \quad \frac{b}{c} = \frac{\sin\beta}{\sin\gamma}
+\]
+
+4️⃣ podstawiamy \(\frac{a}{c}\) i \(\frac{b}{c}\) do założenia
+
+\[
+\frac{\sin\alpha}{\sin\gamma} \cdot \sin\alpha + \frac{\sin\beta}{\sin\gamma} \cdot \sin\beta = \sin\gamma \big/ :\sin\gamma
+\]
+
+\[
+\frac{\sin^2\alpha}{\sin^2\gamma} + \frac{\sin^2\beta}{\sin^2\gamma} = 1
+\]
+
+\[
+\left(\frac{a}{c}\right)^2 + \left(\frac{b}{c}\right)^2 = 1 \cdot c^2
+\]
+
+\[ 
+a^2 + b^2 = c^2
+\]
+
+tw. Pitagorasa jest spełnione w \(\triangle ABC\), więc \(\triangle ABC\) jest prostokątny
+
+c.k.d.

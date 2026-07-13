@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Uzasadnij, że w trójkącie prostokątnym suma przyprostokątnych jest równa sumie średnic okręgu wpisanego i okręgu opisanego na tym trójkącie.
+
+1️⃣ tworzymy rysunek poglądowy
+
+przeciwprostokątna trójkąta prostokątnego jest średnicą okręgu opisanego dla tym trójkącie i jest równa 2R
+
+ze środka okręgu wpisanego prowadzimy 3 promienie do punktów styczności (pod kątem prostym)
+
+2️⃣ fragmenty \( b-r \) i \( a-r \) wynikają z przystawania trójkąta (jak na nagraniu) lub wprost z tw. o odcinkach stycznych
+
+3️⃣ zapisujemy tezę używając naszych oznaczeń:
+
+suma przyprostokątnych: \( a+b \)
+
+suma średnic: \( 2r+2R \Rightarrow 2r+b-r+a-r = a+b \) 
+
+c.k.d.

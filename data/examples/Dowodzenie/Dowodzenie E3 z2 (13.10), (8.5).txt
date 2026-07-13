@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Punkt S jest środkiem okręgu wpisanego w trapez ABCD (AB || CD).
+Wykaż, że trójkąt SBC jest prostokątny.
+
+1️⃣ tworzymy rysunek poglądowy
+
+teza: γ = 90°
+
+UWAGA: taki dowód najczęściej pojawia się jako element bardziej złożonego zadania
+
+2️⃣ środek S okręgu wpisanego w 4-kąt leży na przecięciu dwusiecznych kątów {BS i CS dwusieczne
+
+3️⃣ z własności kątów w trapezie:
+2α + 2β = 180° ⇒ α + β = 90°
+
+4️⃣ w ΔSCB: γ = 180° - (α + β) = 180° - 90° = 90°
+c.k.d.

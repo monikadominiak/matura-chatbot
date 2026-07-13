@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+Z E1  
+Dane są funkcje kwadratowe f(x)=x^2-5 oraz g(x)=x^2+3x+2. Funkcja h jest określona wzorem h(x)=2f(x+1)+2g(x+2)-2x. Oblicz najmniejszą wartość funkcji kwadratowej h.
+
+f(x) = x^2 - 5  
+g(x) = x^2 + 3x + 2  
+
+1️⃣ Wyznaczenie wzoru:
+
+h(x) = 2f(x+1) + 2g(x+2) - 2x  
+
+(a+b)^2 = a^2 + 2ab + b^2  
+
+f(x+1) = (x+1)^2 - 5 = x^2 + 2x + 1 - 5 =  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= x^2 + 2x - 4  
+
+g(x+2) = (x+2)^2 + 3(x+2) + 2 = x^2 + 4x + 4 + 3x + 6 + 2 =  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= x^2 + 7x + 12  
+
+h(x) = 2*(x^2 + 2x - 4) + 2(x^2 + 7x + 12) - 2x =  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 2x^2 + 4x - 8 + 2x^2 + 14x + 24 - 2x =  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= 4x^2 + 16x + 16  
+
+2️⃣ Obliczenie najmniejszej wartości funkcji h(x)
+
+h(x) = 4x^2 + 16x + 16  
+
+Δ = b^2 - 4 * a * c  
+Δ = 16^2 - 4 * 4 * 16  
+
+q_y = -Δ / 4 * a  
+
+q_y = -0 / 4 * 4 = 0  
+
+Odp: Wartość najmniejsza to 0.

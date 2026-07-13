@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Krawędź podstawy graniastosłupa prawidłowego sześciokątnego ma długość a.
+Najdłuższa przekątna graniastosłupa jest cztery razy dłuższa od najkrótszej przekątnej podstawy. Oblicz objętość graniastosłupa.
+
+1) sporządzamy rysunek pomocniczy i oznaczamy przekątne
+
+podstawa w kształcie sześciokąta foremnego 
+dzieli się na 6 takich samych trójkątów równobocznych
+
+2) wyznaczamy długości przekątnych (dwie wysokości trójkąta równobocznego)
+
+krótsza przekątna podstawy: d = \frac{a\sqrt{3}}{2} = a\sqrt{3}
+dłuższa przekątna graniastosłupa: 4 \cdot a\sqrt{3}
+
+3) wyznaczamy długość H i liczymy pole podstawy
+
+(2a)^2 + H^2 = (4a\sqrt{3})^2 (tw. Pitagorasa)
+
+4a^2 + H^2 = 48a^2
+
+H^2 = 44a^2 \quad \Rightarrow \quad H = 2a\sqrt{11}
+
+P_p = 6 \cdot pole \, \Delta \, równobocznego = 6 \cdot \frac{a^2\sqrt{3}}{4} = \frac{3a^2\sqrt{3}}{2}
+
+4) liczymy objętość \, V = P_p \cdot H
+
+V = \frac{3a^2\sqrt{3}}{2} \cdot 2a\sqrt{11} = 3a^3\sqrt{33}
+
+Odp: \, V = 3\sqrt{33}a^3

@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Na bokach \(AB\) i \(BC\) kwadratu \(ABCD\) obrano odpowiednio punkty \(E\) i \(F\) takie, że \(EB + BF = AB\). Udowodnij, że suma kątów \(BAF\), \(EDF\) i \(ECB\) wynosi \(90^\circ\).
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+\(\mathbf{1\)} tworzymy rysunek poglądowy i zaznaczamy kąty z polecenia
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+teza: \(|\angle BAF| + |\angle EDF| + |\angle ECB| = 90^\circ\)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+\( \mathbf{EB + BF = AB} \)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+\( \mathbf{2}\) wprowadzimy oznaczenia, aby skorzystać z zależności z polecenia
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad |AE| = |AB| - |EB| = \mathbf{x} \quad , \quad |BF| = |AE| \)
+\(|EB| = \mathbf{y} \quad \mathbf{(1)} \quad \text{i } |EB| = |CF|\)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+bok kwadratu: \(x+y\)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+\(\mathbf{3}\) znajdujemy trójkąty przystające
+
+\(\triangle DCF \equiv \triangle EBC \quad \text{z cechy bkb} \quad \longrightarrow \quad |\angle COF| = \beta \)
+
+oraz \(\triangle AED \equiv \triangle ABF \quad \text{z cechy bkb} \quad \longrightarrow \quad |\angle ADE| = \alpha \)
+
+\( \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \)
+
+\(\mathbf{4}\) mamy zatem:
+
+\(\quad \quad \quad \quad \quad \quad \quad \quad \)
+
+wracamy do równania z tezy:
+
+\(|\angle BAF| + |\angle EDF| + |\angle ECB| = 90^\circ \)
+
+\(\alpha + 90^\circ - \alpha - \beta + \beta = 90^\circ \)
+
+\(90^\circ = 90^\circ\)
+
+\(L = P \quad \mathbf{c.k.d.}\)

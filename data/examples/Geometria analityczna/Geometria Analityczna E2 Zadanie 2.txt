@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+Zad. 2 W trójkącie ABC punkt K(-5, 1) jest środkiem boku AC, zaś punkt L - środkiem boku BC. Wiedząc, że \(\overrightarrow{AK} = [1, 6]\) oraz \(\overrightarrow{KL} = [8, 4]\), wyznacz równania kierunkowe prostych, w których zawierają się boki trójkąta ABC.
+
+1) Tworzymy rysunek poglądowy.
+
+2) Wyznaczamy punkty A oraz L z przesunięć wektorowych:
+
+\[
+\begin{cases}
+K(-5, 1) \\
+\overrightarrow{AK} = [1, 6]
+\end{cases}
+\rightarrow A(5-1, 4-6) \\
+A(-6, -5)
+\]
+
+\[
+\begin{cases}
+K(-5, 1) \\
+\overrightarrow{KL} = [8, 4]
+\end{cases}
+\rightarrow L(-5+8, 1+4) \\
+L(3, 5)
+\]
+
+Wektor \(\overrightarrow{BL}\) to inaczej iloczyn przesunięcia z punktu B do punktu L, we współrzędnych. Dla naszego przypadku: \(\overrightarrow{KL}=[1, 6]\) czyli z punktu A przemieszczamy się po obach o 1 jednostkę w prawo oraz o 6 jednostek w górę w 1 ruchu, gdzie znajduje się punkt K. Rozpisany jednokrotki punkt końcowy, a nie inny przypadkowy: mamy miejsce, doprowadzić się do punktu A (czyli wrócić o jedną w lewo i o ciąg w dół!). Dla \(\overrightarrow{KL}\) jest wzór: przemieszczamy się z K do L: 8 jednost. w prawo i 4 w górę.
+
+3) Wyznaczamy punkty B i C z informacji o środkach K i L:
+
+\(K\left(\frac{x_1+c_2}{2}, \frac{y_1+y_2}{2}\right)\)
+\(A(-6,-5)\)
+
+\(L\left(\frac{x_2+x_3}{2}, \frac{y_2+y_3}{2}\right)\)
+\(L(3, 5)\)
+
+\(-5 = \frac{-6+c_2}{2}\)
+\(1 = \frac{-5+y_c}{2}\)
+\(c_2 = -4\)
+\(y_c = -7\)
+\(C(-4, -7)\)
+
+\(3 = \frac{x_2+10}{2}\)
+\(5 = \frac{y_2+3}{2}\)
+\(x_2 = -4\)
+\(y_2 = 8\)
+\(B(10, 3)\)
+
+4) Wyznaczamy równania prostych AB, BC i AC przez podstawienie punktów:
+
+\(y - y_A = a_{AB}(x - x_A)\)
+\(y - y_C = a_{AC}(x - x_C)\)
+\(y - y_B = a_{BC}(x - x_B)\)
+
+\(a_{AB} = \frac{y_B - y_A}{x_B - x_A} = \frac{3+5}{10+6} = \frac{8}{16} = \frac{1}{2}\)
+
+\(a_{AC} = \frac{y_C - y_A}{x_C - x_A} = \frac{-7+5}{-4+6} = -6\)
+
+\(a_{BC} = \frac{y_C - y_B}{x_C - x_B} = \frac{-7-3}{-4+10} = -\frac{1}{2}\)
+
+pr. AB: \(y = \frac{1}{2}x - 2\)
+
+pr. AC: \(y = -6x + 34\)
+
+pr. BC: \(y = -\frac{1}{2}x + \frac{41}{2}\)
+
+Odp. pr. AB: \(y = \frac{1}{2}x - 2\), pr. AC: \(y = -6x + 34\), pr. BC: \(y = -\frac{1}{2}x + \frac{41}{2}\).

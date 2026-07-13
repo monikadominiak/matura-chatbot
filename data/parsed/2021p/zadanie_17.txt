@@ -1,0 +1,17 @@
+=== ARKUSZ: 2021p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Prosta k jest styczna w punkcie A do okręgu o środku O. Punkt B leży na tym okręgu
+i miara kąta AOB jest równa $80^{circ}$.
+Przez punkty O i B poprowadzono prostą, która przecina prostą k w punkcie C (zobacz rysunek).
+Miara kąta BAC jest równa
+A. $10^{circ}$
+B. $30^{circ}$
+C. $40^{circ}$
+D. $50^{circ}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

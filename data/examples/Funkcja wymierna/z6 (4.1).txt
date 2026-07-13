@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+z6 (4.1)
+
+Rozwiąż równanie sqrt(x)/(6-x) + (6-x)/sqrt(x) = 2.
+
+Wskazówka: Ułamki dodawane po lewej stronie równania są do siebie „zbliżone". Jeden ułamek jest odwrotnością drugiego, dlatego warto wprowadzić zmienną pomocniczą, t. Tego równania, ze względu na pierwiastki z x, nie da się rozwiązać żadną inną metodą.
+
+1️⃣ Wyznaczamy dziedzinę.
+
+D 6-x≠0 ∧ x>0
+x≠6
+
+D=(0,6)∪(6,+∞)
+
+2️⃣ Wprowadzamy zmienną pomocniczą, t.
+
+t = sqrt(x)/(6-x)
+
+wtedy: 1/t = (6-x)/sqrt(x)
+
+Mamy wówczas:
+
+t + 1/t = 2 | *t
+
+t^2 + 1 = 2t
+
+t^2 - 2t + 1 = 0
+
+(t-1)^2 = 0
+
+t - 1 = 0
+
+t = 1
+
+3️⃣ Cofamy podstawienie.
+
+sqrt(x)/(6-x) = 1, x ∈ (0,6)∪(6,+∞)
+
+--- STRONA 2 ---
+Dzięki zastosowaniu zmiennej pomocniczej otrzymaliśmy nieco prostsze równanie. W nim co prawda też są wykładniki wymierne z naturalnymi, ale ten przypadek można łatwo sprowadzić do równania kwadratowego (czego nie dało się zrobić w przypadku równania na drugiej stronie rozwiązania).
+
+\[\frac{\sqrt{x}}{6-x} = 1 \, /\cdot (6-x)\]
+
+\[\sqrt{x} = 6-x\]
+
+\[x + \sqrt{x} - 6 = 0\]
+
+\[ \large{\textcircled{\footnotesize{4}}} \quad \text{Wprowadzamy kolejną zmienną, pomocniczą } s.\]
+
+\[s = \sqrt{x}\]
+
+\[s^2 = (\sqrt{x})^2 = x\]
+
+\[s^2 + s - 6 = 0\]
+
+\[\Delta = 1 + 24 = 25\]
+
+\[s_1 = \frac{-1-5}{2} = -3 \quad \Rightarrow \sqrt{x} = -3 \quad \text{sprzeczność}\]
+
+\[s_2 = \frac{-1+5}{2} = 2 \quad \Rightarrow \sqrt{x} = 2\]
+
+\[x = 4 \in \mathbb{D}\]
+
+\[\text{Odp.: } x = 4.\]

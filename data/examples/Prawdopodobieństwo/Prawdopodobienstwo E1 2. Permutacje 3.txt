@@ -1,0 +1,13 @@
+
+--- STRONA 1 ---
+Oblicz: \(\frac{(n+1)! - n!}{(n-1)!}\)
+
+\(\frac{(n+1)! - n!}{(n-1)!} = ?\)
+
+1️⃣ zapisujemy dane wyrażenie zgodnie z definicją silni
+
+\(x! = 1.2.3...\cdot x\)
+
+\(\frac{(n+1)! - n!}{(n-1)!} = \frac{(n-1)! \cdot n \cdot (n+1) - (n-1)! \cdot n}{(n-1)!} = \frac{(n-1)! \cdot (n^2 + n - n)}{(n-1)!} = n^2\)
+
+Odp: \(n^2\)

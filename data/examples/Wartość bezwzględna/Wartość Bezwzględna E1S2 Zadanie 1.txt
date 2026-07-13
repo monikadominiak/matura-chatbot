@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+Zad.1 Rozwiąż równanie.
+
+a) |−x + 3| = 2   b) |3x − 6| = 7 + |x − 2|   c) |6 − x| + |x/2 − 3| = 3  
+d) 2 |4 − 5x| = −1   e) |x + 1| − |x| = 0
+
+1) Rozwiązujemy równania korzystając z własności wartości bezwzględnej.:
+
+a) |−x+3|=2
+
+−x+3=2 ∨ −x+3=−2
+
+−x=−1 ∨ −x=−5
+
+x=1 ∨ x=5
+
+Odp. a) x=1 lub x=5.
+
+
+b) |3x−6|=7+|x−2|
+
+|3x−6|≥|3|⋅|x−2|−|x−2|
+
+3|x−2|=7−|x−2| /+|x−2|
+
+2|x−2|=7 / :2
+
+|x−2|=7/2
+
+x−2=7/2 ∨ x−2=−7/2
+
+x=11/2 ∨ x=−3/2
+
+Odp. b) x=11/2 lub x=−3/2.
+
+
+c) |6−x|+|x/2−3|=3
+
+|6−x|=|x−6|={x−6 dla x≥6, 6−x dla x<6}
+
+x/2−3=1/2x−3
+
+16−x|−|x/2−3|=3
+
+|x−6|+|x/2−3|=3
+
+3/2|x−6|=3/2∗3
+
+|x−6|=2
+
+x=6+2 ∨ x=6−2
+
+x=8 ∨ x=4
+
+Odp. c) x=8 lub x=4.
+
+
+d) 2|4−5x|=−1
+
+|4−5x|=−1/2
+brak rozwiązań
+
+Odp. d) brak rozwiązań.
+
+
+e) |x+1|−|x|=0
+
+|x+1|=|x|
+
+x+1=x ∨ x+1=−x
+
+1≠0 2x=−1
+
+sprzeczność x=−1/2
+
+Odp. e) x=−1/2.

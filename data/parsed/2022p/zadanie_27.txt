@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0–1)
+Wszystkich różnych liczb naturalnych czterocyfrowych nieparzystych podzielnych przez 5 jest
+A. 9 ⋅ 8 ⋅ 7 ⋅ 2
+B. 9 ⋅ 10 ⋅ 10 ⋅ 1
+C. 9 ⋅ 10 ⋅ 10 ⋅ 2
+D. 9 ⋅ 9 ⋅ 8 ⋅ 1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

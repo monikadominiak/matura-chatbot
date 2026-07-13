@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Zad.1 W trójkącie ABC dany jest wierzchołek A(-6,-2), środek E(0,-1) boku AB i wektor BC = [-8,4]. Wyznacz równania kierunkowe prostych, w których zawierają się boki trójkąta ABC.
+
+1) Tworzymy rysunek poglądowy:
+
+A(-6,-2)
+E(0,-1)
+BC=[-8,4]
+
+2) Wyznaczamy punkt B z informacji o środku E boku AB:
+
+E \left( \frac{x_A + x_B}{2}, \frac{y_A + y_B}{2} \right)
+A(-6,-2) \quad B(x_B,y_B)
+E(0,-1)
+
+0 = \frac{-6 + x_B}{2} \quad -1 = \frac{-2 + y_B}{2}
+x_B = 6 \quad y_B = 0
+
+B(6,0)
+
+3) Wyznaczamy punkt C z przesunięcia wektorowego \vec{BC}:
+
+\beta (6,0) \quad \Rightarrow \quad C(6-8,0+4)
+C(-2,4)
+
+Wektor \; BC \; to \; inny \; sposób \; przesunięcia \; z \; punktu \; B \; do \; punktu \; C \; w \; układzie \; współrzędnych. \; Dla \; naszego \; przypadku \; BC \; = \; [-8,4], \; czyli \; z \; punktu \; B \; przesuwamy \; się \; po \; x-ach \; 8 \; jednostek \; w \; lewo \; oraz \; 4 \; jednostki \; w \; górę \; po \; y-ach, \; gdzie \; znajduje \; się \; punkt \; C.
+
+4) Wyznaczamy równania prostych AB, BC i AC poprzez podstawianie punktów:
+
+a_{AB} = \frac{y_C - y_A}{x_C - x_A}
+a_{AC} = \frac{y_C - y_A}{x_C - x_A}
+a_{BC} = \frac{y_C - y_B}{x_C - x_B}
+
+a_{AB} = \frac{0 - (-2)}{6 - (-6)} = \frac{2}{12} = \frac{1}{6}
+a_{AC} = \frac{4 - (-2)}{-2 - (-6)} = \frac{6}{4} = \frac{3}{2}
+a_{BC} = \frac{4 - 0}{-2 - 6} = -\frac{1}{2}
+
+pr. AB: y = \frac{1}{6}x + b
+B(6,0) \; \epsilon \; pr. \; AB, \; 0 = 6b
+b = -1
+
+pr. AC: y = \frac{3}{2}x + b
+C(-2,4) \; \epsilon \; pr. \; AC, \; 4 = -3 + 6b
+b = 7
+
+pr. BC: y = -\frac{1}{2}x + b
+B(6,0) \; \epsilon \; pr. \; BC, \; 0 = -\frac{1}{2} \cdot 6 + b
+b = 3
+
+Odp. pr. AB: y = \frac{1}{6}x - 1, \; pr. AC: y = \frac{3}{2}x + 7, \; pr. BC: y = -\frac{1}{2}x + 3

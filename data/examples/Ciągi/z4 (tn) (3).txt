@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+z4 (tn)
+
+Dla pewnej liczby naturalnej k suma k początkowych wyrazów nieskończonego ciągu geometrycznego (a_n) jest równa 5, a suma 2k początkowych wyrazów tego ciągu jest równa 25. Oblicz sumę 3k początkowych wyrazów ciągu (a_n).
+
+1️⃣ Wypisujemy dane z treści zadania.
+
+S_k = a_1 \cdot \frac{1-q^k}{1-q} = 5
+
+S_{2k} = a_1 \cdot \frac{1-q^{2k}}{1-q} = a_1 \cdot \frac{(1-q^k)(1+q^k)}{1-q} = 5 \cdot (1+q^k) = 25
+
+Zatem 1+q^k = 5
+
+q^k = 4
+
+Łącząc wzory na sumę k wyrazów oraz na sumę 2k wyrazów wyznaczyliśmy wartość wyrażenia q^k. Sprawdzamy, co to daje w kontekście sumy 3k wyrazów.
+
+2️⃣ Wyznaczamy S_{3k}.
+
+S_{3k} = a_1 \cdot \frac{1-q^{3k}}{1-q} = a_1 \cdot \frac{(1-q^k)(1+q^k+(q^k)^2)}{1-q} = 
+
+= 5 \cdot (1+4+4^2) = 105
+
+Odp.: S_{3k} = 105.

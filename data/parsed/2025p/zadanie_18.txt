@@ -1,0 +1,17 @@
+=== ARKUSZ: 2025p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18.
+Dany jest trójkąt prostokątny ABC, w którym bok BC jest przeciwprostokątną,
+przyprostokątna AB ma długość 6, a środkowa CD ma długość 5.
+Oznaczmy kąt ADC przez α, natomiast kąt ABC – przez β (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

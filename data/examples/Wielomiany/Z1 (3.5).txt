@@ -1,0 +1,73 @@
+
+--- STRONA 1 ---
+z1 (3.5)
+
+Znajdź te wartości współczynnika b, dla których wielomian W(x) = x^3 + bx^2 + x ma trzy różne nieujemne pierwiastki.
+
+W(x) = x^3 + bx^2 + x
+
+W(x) = (x^2 + bx + 1) = 0
+
+x = 0
+
+niezależne rozwiązanie
+
+zero nie jest ani 
+ujemne ani dodatnie, 
+więc jest nieujemne
+
+x^2 + bx + 1 = 0
+
+Wyznaczamy warunki, które zagwarantują nam dokładnie dwa rozwiązania:
+
+1^o Δ > 0 < dwa rozwiązania
+
+2^o x_1 + x_2 >= 0 \ 
+  oba pierwiastki 
+  nieujemne 
+
+x_1 * x_2 >= 0
+
+wykluczamy możliwość , że 
+zero będzie pierwiastkiem podwójnym
+
+3^o f(0) ≠ 0
+
+   ^1 ≠ 0
+
+1^o Δ > 0
+
+b^2 - 4 > 0
+(b - 2)(b + 2) > 0
+
+b = 2   b = -2
+
+b ∈ (-∞, -2) ∪ (2, ∞)
+
+2^o x_1 + x_2 >= 0
+
+x_1 + x_2 = -b/a
+
+-b ≯ 0
+
+b ≤ 0
+
+x_1 * x_2 >= 0
+
+x_1 * x_2 = c/a
+
+1 ≥ 0
+
+b ∈ ℝ
+
+b ∈ (-∞, 0]
+
+3^o f(0) ≠ 0
+
+1 ≠ 0
+
+b ∈ ℝ
+
+Zatem część wspólna rozwiązań powyższych trzech warunków: b ∈ (-∞, -2).
+
+Odp: b ∈ (-∞, -2).

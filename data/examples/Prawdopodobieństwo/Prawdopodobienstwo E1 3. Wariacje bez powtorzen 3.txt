@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Do windy zatrzymującej się na 10 piętrach wsiadły 4 osoby. Na ile sposobów osoby te mogą opuścić windę, jeśli każda z nich wysiada na innym piętrze.
+
+⑴ wypisujemy dane z polecenia  
+10 pięter , 4 osoby - każda ma wysiąść na innym piętrze
+
+⑵ zapisujemy schematycznie piętra (4 wybrane przez dane 4 osoby)  
+___ . ___ . ___ . ___  korzystamy z reguły mnożenia
+
+⑶ zapisujemy kolejno ile jest możliwości wyboru dla każdej kolejnej osoby  
+10 . 9 . 8 . 7 = 5040  ⇒ przydzielamy piętra do osób  
+(piętra nie mogą się powtarzać!)
+
+Odp: 5040

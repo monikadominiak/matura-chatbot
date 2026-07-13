@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+W turnieju startowało 10 drużyn. Każda z drużyn rozegrała po dwa mecze z każdą z pozostałych, po czym część drużyn odpadła z turnieju, a pozostałe drużyny rozegrały jeszcze po jednym meczu każda z każdą. Ile drużyn odpadło po pierwszej fazie, jeśli rozegrano łącznie 111 meczów?
+
+➊ wypisujemy dane z polecenia
+
+10 drużyn, łącznie 111 meczów
+
+n - ile drużyn zostało po pierwszej rundzie
+
+(łatwiejsze rachunki)
+
+➋ zapisujemy docelowe równanie
+
+2(10 po 2) + (n po 2) = 111
+
+➌ rozwiązujemy równanie
+
+2 * (10 po 2) + (n po 2) = 111
+
+2 * 10! / 2! 8! + n! / 2!(n-2)! = 111
+
+1/2(n-1)n = 111 - 90 / :2
+
+n(n-1) = 42
+
+n^2 - n - 42 = 0
+
+(n-7)(n+6) = 0
+
+n = 7, n ∈ N
+
+⟹ 2 kolejne liczby naturalne, których iloczyn = 42
+
+⟹ n > n-1
+
+n = 7, n-1 = 6
+
+Odp: 10 - 7 = 3

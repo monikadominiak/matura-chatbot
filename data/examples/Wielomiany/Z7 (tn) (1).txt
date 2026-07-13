@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+z7 (tn)
+
+Dany jest wielomian W(x) = x^3 + 4x + p, gdzie p jest liczbą pierwszą. Znajdź p wiedząc, że W(x) ma pierwiastek całkowity.
+
+W(x) = x^3 + 4x + p
+
+twierdzenie o pierwiastkach wymiernych -
+jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, 
+to ten pierwiastek musi być! W postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze zmiennej.
+
+na podstawie tego twierdzenia można powiedzieć, że skoro przy najwyższej
+potędze we wzorze stoi 1, to potencjalne pierwiastki wymierne
+muszą być dzielniki lp. Liczba p jest pierwsza, więc dzieli się przez
+1, przez p oraz przez (-1) i (-p).
+
+{-/+1, -/+ p}
+
+Rozważamy wszystkie możliwe warianty
+
+I W(1)=0 -> 5+p=0 -> p=-5
+
+II W(-1)=0 -> -5+p=0 -> p=5
+
+III W(p)=0 -> p^3+5p=0
+
+p(p^2+5)=0
+
+p=0 p^2+5=0 p<0
+
+IV W(-p)=0 -> -p^3-3p=0
+
+-p(p^2+3)=0
+
+p=0 p^2+3=0 p<0
+
+tylko w wariancie II otrzymana wartość p jest liczbą pierwszą
+
+Odp: p=5.

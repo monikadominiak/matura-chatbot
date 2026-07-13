@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Wykazać, że jeśli liczby a, b są różne, to równanie x^2 + y^2 + ax + by + 0,5ab = 0 jest równaniem okręgu.
+
+założenie a ≠ b
+
+\(*\) teza: x^2 + y^2 + ax + by + 0,5ab = 0 => równanie okręgu
+
+\(1\) spróbujemy zapisać równanie z tezy w postaci kanonicznej
+
+(x-a)^2 + (y-b)^2 = r^2
+
+(x+\frac{a}{2})^2 = x^2 + ax + \frac{a^2}{4}
+
+(y+\frac{b}{2})^2 = y^2 + by + \frac{b^2}{4}
+
+(x+\frac{a}{2})^2 + (y+\frac{b}{2})^2 - (\frac{a^2+b^2}{4}) + \frac{1}{2}ab = 0
+
+tak, aby nie zmienić \(*\) => na prawo
+
+(x+\frac{a}{2})^2 + (y+\frac{b}{2})^2 = \frac{a^2-2ab+b^2}{4}
+
+\(2\) według równania okręgu:
+
+\frac{a^2-2ab+b^2}{4} = r^2
+
+\frac{(a-b)^2}{4} = r^2
+
+dla a ≠ b r istnieje (r ≠ 0) zatem jest to równanie okręgu
+
+c.k.d.

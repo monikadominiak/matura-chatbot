@@ -1,0 +1,153 @@
+
+--- STRONA 1 ---
+5. Równania kwadratowe 3  
+Wyznacz miejsca zerowe funkcji f, g, h:  
+a) f(x) = 2x^2 - 8x + 5; g(x)=2(x - 0,25)^2 - 8(x - 0,25) + 5;  
+
+h(x)=2(x - sqrt(6)/2)^2 - 8(x - sqrt(6)/2) + 5  
+
+b) f(x)=−0,5x^2 + 4x + 6; g(x)=-0,5(x + 3,5)^2 + 4(x + 3,5) + 6;  
+h(x)=-0,5(x + 2√7)^2 + 4(x + 2√7) + 6  
+
+Kiedy we wzorze powtarza się to samo wyrażenie więcej niż raz, można za to wyrażenie podstawić tzw. zmienną pomocniczą, co pozwala uprościć równanie.
+
+a) 
+
+f(x) = 2x^2 - 8x + 5  
+g(x) = 2(x - 0,25)^2 - 8(x - 0,25) + 5  
+h(x) = 2(x - sqrt(6)/2)^2 - 8(x - sqrt(6)/2) + 5  
+
+1️⃣ f(x) = 2x^2 - 8x + 5  
+
+2x^2 - 8x + 5 = 0 
+
+a = 2  
+b = -8  
+c = 5  
+
+Δ = b^2 - 4 * a * c  
+Δ = (-8)^2 - 4 * 2 * 5 = 64 - 40 = 24  
+sqrt(Δ) = sqrt(24) = 2√6  
+
+x_1 = (-b - sqrt(Δ)) / 2a = (-(-8) - 2√6) / (2 * 2) = 8 - 2√6 / 4 = 2 - √6/2  
+
+x_2 = (-b + sqrt(Δ)) / 2a = (-(-8) + 2√6) / (2 * 2) = 8 + 2√6 / 4 = 2 + √6/2  
+
+2️⃣ g(x) = 2(x - 0,25)^2 - 8(x - 0,25) + 5  
+
+niech t = x - 0,25  
+
+2t^2 - 8t + 5 = 0  
+
+a = 2  
+b = -8  
+c = 5  
+
+Δ = b^2 - 4 * a * c  
+Δ = (-8)^2 - 4 * 2 * 5 = 64 - 40 = 24  
+sqrt(Δ) = sqrt(24) = 2√6  
+
+t_1 = (-b - sqrt(Δ)) / 2a = (-(-8) - 2√6) / (2 * 2) = 8 - 2√6 / 4 = 2 - √6/2  
+
+t_2 = (-b + sqrt(Δ)) / 2a = (-(-8) + 2√6) / (2 * 2) = 8 + 2√6 / 4 = 2 + √6/2  
+
+t_1 = x_1 - 0,25 => x_1 = t_1 + 0,25  
+
+x_1 = 2,25 - √6/2  
+
+t_2 = x_2 - 0,25 => x_2 = t_2 + 0,25  
+
+x_2 = 2,25 + √6/2  
+
+3️⃣ h(x) = 2(x - sqrt(6)/2)^2 - 8(x - sqrt(6)/2) + 5  
+
+niech t = x - sqrt(6)/2  
+
+2t^2 - 8t + 5 = 0 => t_1 = 2 - √6/2  
+
+t_2 = 2 + √6/2  
+
+--- STRONA 2 ---
+t_1 = x_1 - 2  =>  x_1 = t_1 + \frac{\sqrt{6}}{2}
+
+x_1 = 2 - \frac{\sqrt{6}}{2} = 2
+
+t_2 = x_2 - 2  =>  x_2 = t_2 + \frac{\sqrt{6}}{2}
+
+x_2 = 2 + 2 + \frac{\sqrt{6}}{2} = 2 + \sqrt{6}
+
+Odp: 
+f(x)=0 \ dla \ x=2 - \frac{\sqrt{6}}{2}, \ x=2+\frac{\sqrt{6}}{2}, \ \sqrt{6}, 
+g(x)=0 \ dla \ x=2,25-\frac{\sqrt{6}}{2}; \ x=2,25+\frac{\sqrt{6}}{2};
+h(x)=0 \ dla \ x=2; \ x=2+\sqrt{6}
+
+b) \quad f(x) = -0,5 \ x^2 + 4x + 6
+
+g(x) = -0,5 \ (x + 3,5)^2 + 4(x+3,5) + 6
+
+h(x) = -0,5 \ (x + 2\sqrt{7})^2 + 4 \ (x + 2\sqrt{7}) + 6
+
+① \quad f(x) = -0,5 \ x^2 + 4x + 6
+
+\ \ \  \ -\frac{1}{2}x^2 + 4x + 6 = 0 \ | \cdot 2
+
+\ \ \ \ -x^2 + 8x + 12 = 0
+
+\Delta = b^2 - 4ac
+
+a = -1
+
+b = 8
+
+c = 12
+
+\Delta = {8^2 - 4 \cdot (-1) \cdot 12 = 64+48 = 112}
+
+\sqrt{\Delta} = \sqrt{112} = 4\sqrt{7}
+
+x_1 = \frac{-b - \sqrt{\Delta}}{2a} = \frac{-8-4\sqrt{7}}{2 \cdot (-1)} = 4+2\sqrt{7}
+
+x_2 = \frac{-b + \sqrt{\Delta}}{2a} = \frac{-8+4\sqrt{7}}{2 \cdot (-1)} = 4-2\sqrt{7}
+
+② \quad g(x) = -0,5 \ (x + 3,5)^2 + 4(x+3,5) + 6
+
+Niech \ \ t = x + 3,5
+
+-\frac{1}{2}t^2 + 4t + 6 = 0 \ | \cdot 2
+
+-t^2 + 8t + 12 = 0
+
+t_1 = 4 + 2\sqrt{7}
+
+t_2 = 4 - 2\sqrt{7}
+
+t_1 = x_1 + 3,5 \ \Rightarrow \ \ x_1 = t_1 - 3,5
+
+x_1 = 0,5+2\sqrt{7}
+
+t_2 = x_2 + 3,5 \ \Rightarrow \ \ x_2 = t_2 - 3,5
+
+x_2 = 0,5-2\sqrt{7}
+
+③ \quad h(x) = -0,5 \ (x + 2\sqrt{7})^2 + 4 \ (x + 2\sqrt{7}) + 6
+
+Niech \ \ t = x + 2\sqrt{7}
+
+-\frac{1}{2}t^2 + 4t + 6 = 0 \ | \cdot 2
+
+-t^2 + 8t + 12 = 0
+
+t_1 = 4+2\sqrt{7} \quad t_2 = 4 - 2\sqrt{7}
+
+t_1 = x_1 + 2\sqrt{7} \ \Rightarrow \ \ x_1 = t_1 - 2\sqrt{7}
+
+x_1 = 4
+
+t_2 = x_2 + 2\sqrt{7} \ \Rightarrow \ \ x_2 = t_2 - 2\sqrt{7}
+
+x_2 = 4-4\sqrt{7}
+
+--- STRONA 3 ---
+Odp: f(x) = 0 dla x = 4 - 2√7, x = 4 + 2√7
+g(x) = 0 dla x = 0,5 - 2√7, x = 0,5 + 2√7,
+h(x) = 0 dla x = 4, x = 4 - 4√7

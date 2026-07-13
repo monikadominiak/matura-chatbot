@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Oblicz granicę \(\lim_{x \to +\infty} \left( \frac{x^2}{x+5} + \frac{1-x^3}{x^2-11} \right)\)
+
+1️⃣ sprowadzamy wyrażenie do wspólnego mianownika
+
+uwaga: dla granic wyrażeń w postaci ułamków z wielomianami w liczniku i mianowniku mamy trzy możliwości:
+
+1. stopień licznika = stopień mianownika \(\rightarrow \lim_{x \to \pm\infty} = \text{liczba} \neq 0\)
+2. stopień licznika < stopień mianownika \(\rightarrow \lim_{x \to \pm\infty} = 0\)
+3. stopień licznika > stopień mianownika \(\rightarrow \lim_{x \to \pm\infty} = \pm\infty\)
+
+\[
+\lim_{x \to +\infty} \left( \frac{x^2(x^2-11)+(1-x^3)(x+5)}{(x+5)(x^2-11)} \right) = \lim_{x \to +\infty} \frac{x^4-11x^2+x+5-5x^3-5x^3}{x(x+\frac{5}{x})x^2(1-\frac{11}{x^2})}
+\]
+
+2️⃣ wyłączamy \(x\) we wspólnej, najwyższej potędze
+
+\[
+\lim_{x \to +\infty} \frac{x^3\left(-5-\frac{11}{x}+\frac{1}{x}+\frac{5}{x^2}\right)}{x^3(1+\frac{5}{x})(1-\frac{11}{x^2})} = \frac{-5}{1\cdot 1} = -5
+\]
+
+odp: -5

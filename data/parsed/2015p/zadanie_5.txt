@@ -1,0 +1,18 @@
+=== ARKUSZ: 2015p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Układ równań
+{
+  x - y = 3
+  2x + 0,5y = 4
+}
+opisuje w układzie współrzędnych na płaszczyźnie
+A. zbiór pusty.
+B. dokładnie jeden punkt.
+C. dokładnie dwa różne punkty.
+D. zbiór nieskończony.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 5. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający wykorzystuje interpretację geometryczną układu równań pierwszego stopnia z dwiema niewiadomymi (3.2).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Zad.3 Punkty: A = (6, 4), B = (-3, 7), C = (-2, 0) są kolejnymi wierzchołkami równoległoboku ABCD. Oblicz odległość punktu C od prostej AB i pole tego równoległoboku.
+
+1) Tworzymy rysunek poglądowy:
+
+W zadaniach z geometrii analitycznej często nie mamy danych na początku współrzędnych np. punktu itp.
+
+W takiej sytuacji warto w celach poglądowych (w miarę możliwośći do danych rozwiązywania) pooznaczać je na oko... I sposób możliwie jak najbliżej warunkom zadania. Wówczas na podstawie takiego rysunku, możemy śmiało kolejne etapy rozwiązywania.
+
+Zauważ, że konkretnymi liczbami oznaczone są tylko dane nam już informacje. Cała reszta obiektów na rysunku jest oznaczona poglądowo.
+
+2) Wyznaczamy prostą AB poprzez podstawienie współrz. punktu A i B:
+
+A(6,4) : y=ax+b => 4=6a+b  
+B(-3,7) : y=ax+b => 7=-3a+b  
+
+\{ 
+\begin{array}{l} 
+4=6a+b \\
+7=-3a+b \end{array} 
+
+4=6a+b \\
+7=-3a+b
+
+4=6a+b \  
+7=-3a+b
+
+4=6a+b \\ 
+7=-3a+b \\
+
+9=9a  \  
+a=1
+
+a=-\frac{2}{3} => b=7+\frac{3}{2}\cdot6
+
+pr.AB.: y=-\frac{2}{3}x+6 => -\frac{y}{4}x-y+6=0
+
+3) Obliczamy odległość punktu C od prostej AB:
+
+d (C,pr.AB) = \dfrac{| -\frac{2}{3}\cdot(-2)-0+6|}{\sqrt{1+\left(\frac{-2}{3}\right)^2}} = \dfrac{6 3}{\frac{3}{9}} = \dfrac{2\cdot3\sqrt{10}}{3} = \dfrac{2\sqrt{10}}{\sqrt{10}\cdot\sqrt{4}} = 2\sqrt{10}[j]
+
+4) Obliczamy długość odcinka AB, a następnie pole równoległoboku:
+
+|AB|^2= (6+3)^2+(4-7)^2 \\
+|AB|^2= 64+9 \\
+|AB|^2= 30\ [j^2] \\
+|AB|=3\sqrt{10}\ [j]
+
+P= |AB| \cdot d(C,pr.AB) = 3\sqrt{10} \cdot 2\sqrt{10} = 6(10) = 60 (j^2)
+
+Odp. d=2\sqrt{10}\ [j], P=60(j^2).

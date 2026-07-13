@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+Do sklepu jest dostarczona herbata z Chin oraz herbata z Indii, przy czym w jednej dostawie jest dwa razy więcej Paczek z herbatą chińską niż herbatą indyjską. Wśród Paczek z Chin 75% stanowią paczki z herbatą czarną, a 25% paczki z herbatą zieloną. Natomiast z Indii paczek z zieloną herbatą jest tyle samo, co Paczek z herbatą czarną. Po wylosowaniu jednej paczki herbaty z dostawy okazało się, że jest to herbata czarna. Oblicz prawdopodobieństwo zdarzenia, że ta Paczka herbaty pochodzi z Indii.
+
+1️⃣ wprowadzamy oznaczenia i tworzymy "drzewko"
+
+```
+                                B1 - herbata z Indii
+                                B2 - herbata z Chin
+                                A - herbata czarna
+                                
+                                  2/3
+                              ┌────────┐
+                           3/4│        │1/4
+                              │        │
+                            CH│        │J
+                              │        │
+                          ┌───┘        └──────┐
+                         c2                      c2
+                        2                      2
+                                  1/3
+                           ┌────────┐
+                        1/2│        │1/2
+                           │        │
+                         c2        z2
+                        2           2
+```
+
+P(B1) = 1/3
+
+2️⃣ musimy policzyć P(B1|A) → herbata z Indii pod warunkiem, że czarna
+
+wzór Bayesa: P(B1|A) = P(A|B1)·P(B1) / P(A) , gdzie P(A) to prawd. całkowite  
+
+3️⃣ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B1) - określa prawd. czarnej herbaty, jeśli jest z Indii  
+czyli P(A|B1) = 1/2
+
+P(A) - prawd. niewadliwego towaru
+
+P(A) = 2/3 · 3/4 + 1/3 · 1/2 = 6/12 + 1/6 = 2/3 ★
+
+4️⃣ liczymy docelowe P(B1|A)
+
+P(B1|A) = 1/2 · 1/3 / 2/3 = 1/4  
+odp: 1/4
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B1|A) = P(A∩B1) / P(A) , P(A) policzyliśmy już wyżej ★
+
+P(A∩B1) → prawd. że herbata jest czarna i z Indii
+
+P(A∩B1) = 1/3 · 1/2 = 1/6
+
+P(B1|A) = 1/6 ÷ 2/3 = 1/4

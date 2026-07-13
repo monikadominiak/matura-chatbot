@@ -1,0 +1,9 @@
+=== ARKUSZ: 2020p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0-4)
+Wszystkie wyrazy ciągu geometrycznego $(a_{n})$, określonego dla $nge1$, są dodatnie. Wyrazy tego ciągu spełniają warunek $a_{1}+a_{2}+a_{3}=6$ oraz $a_{2}+a_{3}=5$. Oblicz iloraz q tego ciągu należący do przedziału $(2, frac{3}{2})$ (uwaga: przedział w oryginale prawdopodobnie błędny, przepisano zgodnie z dokumentem).
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

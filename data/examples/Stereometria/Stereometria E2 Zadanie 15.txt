@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Pole ściany bocznej ostrosłupa prawidłowego czworokątnego jest równe S. Kąt płaski przy wierzchołku ostrosłupa ma miarę 2α. Oblicz objętość ostrosłupa.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+\[ S = \frac{1}{2}ah \]
+
+2️⃣ najpierw wykorzystujemy kąt α
+
+\[
+\tan \alpha = \frac{a}{2h} \implies a = \tan \alpha \cdot 2h
+\]
+
+podstawiamy do S
+
+\[
+S = \frac{1}{2} \cdot \tan \alpha \cdot 2h \cdot h
+\]
+
+\[
+h^2 = \frac{S}{\tan \alpha} \implies h = \sqrt{\frac{S}{\tan \alpha}}
+\]
+
+podstawiamy do a
+
+\[
+a = \tan \alpha \cdot 2 \sqrt{\frac{S}{\tan \alpha}} = 2\sqrt{S \cdot \tan \alpha}
+\]
+
+3️⃣ uzależniamy H od danych
+
+w \(\triangle OES \quad H^2 = h^2 - \frac{a^2}{4} \quad (\text{tw. Pitagorasa})\)
+
+\[
+H^2 = \frac{S}{\tan \alpha} - S \tan \alpha
+\]
+
+\[
+H^2 = \frac{S - S \tan^2 \alpha}{\tan \alpha} = \frac{S(1 - \tan^2 \alpha)}{\tan \alpha}
+\]
+
+\[
+H = \frac{\sqrt{S(1 - \tan^2 \alpha)}}{\tan \alpha}
+\]
+
+4️⃣ wyznaczamy objętość
+
+\[
+V = \frac{1}{3}(2\sqrt{S \cdot \tan \alpha})^2 \cdot \frac{\sqrt{S(1 - \tan^2 \alpha)}}{\tan \alpha} = \frac{1}{3} \cdot 4S \cdot \tan \alpha \cdot \frac{\sqrt{S(1 - \tan^2 \alpha)}}{\tan \alpha} =
+\]
+
+\[
+= \frac{4}{3} \sqrt{S^2 \cdot \tan \alpha} \cdot \frac{\sqrt{S(1 - \tan^2 \alpha)}}{\tan \alpha} = \frac{4}{3} \sqrt{S^3 \tan \alpha (1 - \tan^2 \alpha)}
+\]
+
+\[
+\text{Odp: } V = \frac{4}{3} \sqrt{S^3 \tan \alpha (1 - \tan^2 \alpha)}
+\]

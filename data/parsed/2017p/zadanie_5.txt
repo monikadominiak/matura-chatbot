@@ -1,0 +1,13 @@
+=== ARKUSZ: 2017p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Równość $(xsqrt{2}-2)^{2}=(2+sqrt{2})^{2}$ jest
+A. prawdziwa dla $x=-sqrt{2}$
+B. prawdziwa dla $x=sqrt{2}$
+C. prawdziwa dla $x=-1$.
+D. fałszywa dla każdej liczby x.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 5. $0-1$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

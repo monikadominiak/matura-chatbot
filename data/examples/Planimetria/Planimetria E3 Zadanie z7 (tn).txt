@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zadanie z7 (tn) Wysokość trapezu równoramiennego ma długość \(\sqrt{6}\), a jedna z podstaw jest trzy razy dłuższa od drugiej. Oblicz pole trapezu wiedząc, że sinus kąta ostrego jest równy 0,2.
+
+1) Tworzymy rysunek poglądowy:
+
+Dzięki podanej zależności między podstawami możemy je oznaczyć jako 3x oraz x.
+
+2) Wyznaczamy ramię trapezu poprzez trygonometrię trójkąta prostokątnego:
+
+\( \sin \alpha = \frac{\sqrt{6}}{y} \rightarrow y = \frac{\sqrt{6}}{\sin \alpha} = \frac{\sqrt{6}}{0,2} = 5\sqrt{6} \)
+
+3) Wyznaczamy x z tw. Pitagorasa:
+
+\( x^2 + (\sqrt{6})^2 = y^2 \)
+
+\( x^2 + (\sqrt{6})^2 = (5\sqrt{6})^2 \)
+
+\( x^2 = 144 \rightarrow x = 12, x > 0 \)
+
+4) Podstawiamy dane do wzoru na pole i je wyznaczamy:
+
+\( P_{\triangle} = \frac{12 + 36}{2} \cdot \sqrt{6} = 24\sqrt{6} \)
+
+Odp. \( P_{\triangle} = 24\sqrt{6} \).

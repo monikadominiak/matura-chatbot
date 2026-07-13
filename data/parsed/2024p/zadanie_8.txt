@@ -1,0 +1,18 @@
+=== ARKUSZ: 2024p | ZADANIE 8 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 8. (0–1)
+Dany jest wielomian W(x) = 3x^3 + 6x^2 + 9x.
+
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+
+1. Wielomian W jest iloczynem wielomianów F(x) = 3x i G(x) = x^2 + 2x + 3.  P  F
+2. Liczba (−1) jest rozwiązaniem równania W(x) = 0.  P  F
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

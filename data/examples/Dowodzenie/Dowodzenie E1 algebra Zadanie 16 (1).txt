@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Wykazać, że suma kolejnych dwóch wyrazów ciągu o wzorze \(a_n = 8n^2 + 16n + 6\) jest kwadratem liczby naturalnej.
+
+\[
+a_n = 8n^2 + 16n + 6, \ n \in \mathbb{N} \ (\text{bo mamy ciąg})
+\]
+
+\(\circled{1}\) zapisujemy i upraszczamy wyraz \(a_{n+1}\) (kolejny)
+
+\[
+a_{n+1} = 8(n+1)^2 + 16(n+1) + 6 =
+\]
+\[
+= 8(n^2 + 2n + 1) + 16n + 16 + 6 =
+\]
+\[
+= 8n^2 + 16n + 8 + 16n + 22 =
+\]
+\[
+= 8n^2 + 32n + 30
+\]
+
+\(\circled{2}\) zapisujemy sumę \(a_n + a_{n+1}\)
+
+\[
+a_n + a_{n+1} = 8n^2 + 16n + 6 + 8n^2 + 32n + 30 =
+\]
+\[
+= 16n^2 + 48n + 36 =
+\]
+\[
+= (4n + 6)^2, \ a \ 4n + 6 \in \mathbb{N}, \ \text{więc teza z zadania jest prawdziwa}
+\]
+\[
+\text{c.k.d.}
+\]
+
+\[
+(a + b)^2 = a^2 + 2ab + b^2
+\]

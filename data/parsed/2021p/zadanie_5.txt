@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Różnica 0,(3) $-frac{23}{33}$ jest równa
+A. -0,(39)
+B. $-frac{39}{100}$
+C. -0,36
+D. $-frac{4}{11}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

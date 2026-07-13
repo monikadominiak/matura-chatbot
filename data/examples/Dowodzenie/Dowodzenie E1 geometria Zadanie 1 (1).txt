@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Boki trójkąta ABC są równoległe do odpowiednich boków trójkąta DEF. Uzasadnij, że trójkąty te są podobne.
+
+|AB| || |DE|
+|AC| || |DF|
+|CB| || |FE|
+
+\(2\) aby wykazać podobieństwo określimy kąty w naszych dwóch trójkątach
+
+niech \(\alpha = \angle CAB\) \((\angle COB)\) - \(\alpha\) jest kątem wspólnym obu trójkątów
+
+niech \(\angle ACB\) = \(\beta\), wtedy \(\angle AFE\) = \(\beta\), ponieważ \(|CB|\ ||\ |FE|\)
+
+niech \(\angle ABC\) = \(\gamma\), wtedy \(\angle AEC\) = \(\gamma\), ponieważ \(|CB|\ ||\ |FE|\)
+
+zatem \(\triangle DEF \sim \triangle ABC\) z cechy kkk
+
+c.k.d.

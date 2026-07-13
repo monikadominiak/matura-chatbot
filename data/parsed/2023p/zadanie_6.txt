@@ -1,0 +1,18 @@
+=== ARKUSZ: 2023p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Zbiorem wszystkich rozwiązań nierówności $-2(x+3)lefrac{2-x}{3}$ jest przedział
+A. $(-infty,-4]$
+B. $(-infty,4]$
+C. $[-4,infty)$
+D. $[4,infty)$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

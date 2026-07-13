@@ -1,0 +1,63 @@
+
+--- STRONA 1 ---
+Zadanie 7
+
+Wyznacz wszystkie wartości parametru m, dla których równanie
+
+4x + (m - 2)∙2x + 4 = 0 ma dwa różne rozwiązania.
+
+➊ Wprowadzamy pomocniczą zmienną t.
+
+2^x = t, t > 0 
+
+Przedział t ∈ (0, +∞) jest równy zbiorowi wartości 2^x.
+
+t^2 + (m - 2)t + 4 = 0
+
+➋ Wypisujemy warunki podane w zadaniu.
+
+W przypadku podstawienia t = 2^x wyłącznie dodatnie wartości t dadzą rozwiązania x-owe. t = 0 lub t < 0 nie da żadnego rozwiązania x-owego. Przykładowo dla t = 8 mamy 8 = 2^x, czyli x = 3. A przykładowo dla t = -1 mamy -1 = 2^x, czyli równanie jest sprzeczne. Dlatego musieliśmy zagwarantować sobie przy pomocy wzorów Viete'a, że oba rozwiązania t muszą być dodatnie i każde z nich do wtedy po jednym rozwiązaniu x-owym. 
+
+1° Δ > 0
+
+Podstawiając zmienną pomocniczą ZAWSZE założenie będzie wynikać ze zbioru wartości wyrażenia, za które podstawiamy zmienną.
+
+2° t_1, t_2 > 0
+
+3° t_1 + t_2 > 0
+
+➌ Rozwiązujemy powyższe warunki.
+
+1° (m - 2)^2 - 16 > 0 
+
+m^2 - 4m + 4 - 16 > 0 
+
+m^2 - 4m - 12 > 0 
+
+Δ_m = 16 + 48 = 64 
+
+√Δ_m = 8 
+
+m_1 = 4 + 8 / 2 = -2 
+
+m_2 = 4 + 8 / 2 = 6 
+
+m ∈ (-∞, -2) ∪ (6, +∞)
+
+2° 4 > 0 
+
+m ∈ ℝ
+
+3° t_1 + t_2 > 0 
+
+- (m - 2) > 0 
+
+2 - m > 0 
+
+m < 2 
+
+m ∈ (-∞, 2)
+
+➍ Wyznaczamy część wspólną.
+
+Odp: m ∈ (-∞, -2).

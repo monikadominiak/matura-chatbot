@@ -1,0 +1,10 @@
+=== ARKUSZ: 2021p | ZADANIE 32 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 32. (0-2)
+Rozwiąż równanie:
+$frac{3x+2}{3x-2} = 4-x$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,597 @@
+Matura próbna podstawowa - wrzesień 2022 - arkusz oraz klucz odpowiedzi:
+
+
+Zadanie 1. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $(1+3cdot2^{-1})^{-2}$ jest równa
+A. $frac{25}{4}$
+B. $frac{4}{25}$
+C. $frac{36}{49}$
+Zadanie 2. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia $2~log_{5}5+1-frac{1}{2}log_{5}625$ jest równa
+A. 1
+B. 5
+C. 10
+D. 25
+Zadanie 3. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich różnych liczb naturalnych czterocyfrowych, które są nieparzyste i podzielne przez 25, jest
+A. 9.9.2
+B. 9.10.2
+C. 9.9.4
+D. 9.10.4
+Zadanie 4. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dla każdej liczby rzeczywistej $xne1$ wyrażenie $frac{2}{x-1}-5$ jest równe
+A. $frac{-5x+1}{x-1}$
+B. $frac{-5x+7}{x-1}$
+C. $frac{-5x+3}{x-1}$
+D. $frac{-5x-3}{x-1}$
+Zadanie 5. (0-2)
+Dokończ zdanie. Wybierz dwie właściwe odpowiedzi spośród podanych.
+Dla każdej liczby rzeczywistej x i dla każdej liczby rzeczywistej y wyrażenie $9-(x^{2}-2xy+y^{2})$ jest równe
+A. $[3-(x-2y)]^{2}$
+B. $[3+(x-2y)]^{2}$
+C. $[3-(x+2y)]^{2}$
+D. $[3-(x-y)]cdot[3+(x-y)]$
+E. $[3-(x+2y)]cdot[3+(x+2y)]$
+F $-[(x-y)-3]cdot[(x-y)+3]$
+Zadanie 6. (0-3)
+Rozwiąż równanie
+Zapisz obliczenia.
+$3x^{3}-6x^{2}-27x+54=0$
+Zadanie 7. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Równanie
+$frac{(x^{2}+x)(x+3)(x-1)}{x^{2}-1}=0$
+ma w zbiorze liczb rzeczywistych dokładnie
+A. jedno rozwiązanie: $x=-3$
+B. dwa rozwiązania: $x=-3$, $x=0$.
+C. trzy rozwiązania: $x=-3$ $x=-1,$ $x=0.$
+D. cztery rozwiązania: $x=-3$ $x=-1$, $x=0,$ $x=1$
+Zadanie 8. (0-1)
+Spośród nierówności A-D wybierz tę, której zbiór wszystkich rozwiązań zaznaczono na osi liczbowej.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $|x+2|le2$
+B. $|x-2|le2$
+C. $|x+2|ge2$
+D. $|x-2|ge2$
+Zadanie 9. (0-1)
+Klient banku wypłacił z bankomatu kwotę 1040 zł. Bankomat wydał kwotę w banknotach o nominałach 20 zł, 50 zł oraz 100 zł.
+Banknotów 100-złotowych było dwa razy więcej niż 50-złotowych, a banknotów 20-złotowych było o 2 mniej niż 50-złotowych.
+Niech x oznacza liczbę banknotów 50-złotowych, a y liczbę banknotów 20-złotowych, które otrzymał ten klient.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Poprawny układ równań prowadzący do obliczenia liczb x i y to
+A. $begin{cases}20y+50x+100cdot2x=1040\ y=x-2end{cases}$
+B. $begin{cases}20y+50x+50xcdot2=1040\ y=x-2end{cases}$
+C. $begin{cases}20y+50x+100cdot2x=1040\ x=y-2end{cases}$
+D. $begin{cases}20y+50x+50xcdot2=1040\ x=y-2end{cases}$
+Zadanie 10.
+Na rysunku, w kartezjańskim układzie współrzędnych $(x,y)$, przedstawiono wykres funkcji f określonej dla każdego $xin[-5,4)$ Na tym wykresie zaznaczono punkty o współrzędnych całkowitych.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 10.1. (0-1)
+Zapisz w wykropkowanym miejscu zbiór wartości funkcji f.
+Zadanie 10.2. (0-1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F - jeśli jest fałszywe.
+Dla każdego argumentu z przedziału $(-4,-2)$ funkcja f przyjmuje wartości ujemne. (P/F)
+Funkcja f ma trzy miejsca zerowe. (P/F)
+Zadanie 10.3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Najmniejsza wartość funkcji 𝑓 w przedziale [−4, 0] jest równa
+A. (−4) B. (−3) C. (−2) D. 0
+Zadanie 11. (0–1)
+W kartezjańskim układzie współrzędnych (𝑥, 𝑦) dane są: punkt 𝐴 = (8, 11) oraz okrąg o równaniu (𝑥 − 3)2 + (𝑦 + 1)2 = 25.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Odległość punktu 𝐴 od środka tego okręgu jest równa
+A. 25 B. 13 C. √125 D. √265
+Zadanie 12.
+Basen ma długość 25 m. W najpłytszym miejscu jego głębokość jest równa 1,2 m. Przekrój podłużny tego basenu przedstawiono poglądowo na rysunku.
+Głębokość 𝑦 basenu zmienia się wraz z odległością 𝑥 od brzegu w sposób opisany funkcją: 𝑦 = {𝑎𝑥 + 𝑏 dla 0 ≤ 𝑥 ≤ 15 m0,18𝑥 − 0,9 dla 15 m ≤ 𝑥 ≤ 25 m
+Odległość 𝑥 jest mierzona od płytszego brzegu w poziomie na powierzchni wody (zobacz rysunek).
+Wielkości 𝑥 i 𝑦 są wyrażone w metrach.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 12.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Największa głębokość basenu jest równa
+A. 5,4 m B. 3,6 m C. 2,2 m D. 1,8 m
+Zadanie 12.2. (0–2)
+Oblicz wartość współczynnika 𝒂 oraz wartość współczynnika 𝒃. Zapisz obliczenia.
+Zadanie 13.
+Funkcja kwadratowa 𝑓 jest określona wzorem 𝑓(𝑥) = −(𝑥 − 1)2 + 2.
+Zadanie 13.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Wykresem funkcji 𝑓 jest parabola, której wierzchołek ma współrzędne
+A. (1, 2) B. (−1, 2) C. (1, −2) D. (−1, −2)
+Zadanie 13.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Zbiorem wartości funkcji 𝑓 jest przedział
+A. (−∞, 2] B. (−∞, 2) C. (2, +∞) D. [2, +∞)
+Zadanie 14.
+Dany jest ciąg (𝑎𝑛) określony wzorem 𝑎𝑛 =7𝑛21 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Zadanie 14.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Pięćdziesiątym wyrazem ciągu (𝑎𝑛) jest
+A. 749 3 B. 7503 C. 7513 D. 7523
+Zadanie 14.2. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+Ciąg (𝑎𝑛) jest geometryczny. (P/F)
+Suma trzech początkowych wyrazów ciągu (𝑎𝑛) jest równa 20. (P/F)
+Zadanie 15. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dana jest prosta 𝑘 o równaniu 𝑦 = 3𝑥 + 𝑏, przechodząca przez punkt 𝐴 = (−1, 3).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Współczynnik 𝑏 w równaniu tej prostej jest równy
+A. 0 B. 6 C. (−10) D. 8
+Zadanie 16.
+Dany jest ciąg (𝑎𝑛) określony wzorem 𝑎𝑛 = 3𝑛 − 1 dla każdej liczby naturalnej 𝑛 ≥ 1.
+Zadanie 16.1. (0–1)
+Dokończ zdanie tak, aby było prawdziwe. Wybierz odpowiedź A, B albo C oraz jej uzasadnienie 1., 2. albo 3.
+Ciąg (𝑎𝑛) jest A. rosnący, B. malejący, C. stały, ponieważ dla każdej liczby naturalnej 𝑛 ≥ 1
+𝑎𝑛+1 − 𝑎𝑛 = −1
+𝑎𝑛+1 − 𝑎𝑛 = 0
+𝑎𝑛+1 − 𝑎𝑛 = 3
+Zadanie 16.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Najmniejszą wartością 𝑛, dla której wyraz 𝑎𝑛 jest większy od 25, jest
+A. 8 B. 9 C. 7 D. 26
+Zadanie 16.3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Suma 𝑛 początkowych wyrazów ciągu (𝑎𝑛) jest równa 57 dla 𝑛 równego
+A. 6 B. 23 C. 5 D. 11
+Zadanie 17. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dane są:
+• prosta 𝑘 o równaniu 𝑦 =12𝑥 + 5
+• prosta 𝑙 o równaniu 𝑦 − 1 = −2𝑥.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Proste 𝑘 i 𝑙
+A. się pokrywają. B. nie mają punktów wspólnych.
+C. są prostopadłe. D. przecinają się pod kątem 30°.
+Zadanie 18. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia (1 − cos 20°) ⋅ (1 + cos 20°) − sin220° jest równa
+A. (−1) B. 0 C. 1 D. 20
+Zadanie 19. (0–1)
+W pojemniku są wyłącznie kule białe i czerwone. Stosunek liczby kul białych do liczby kul czerwonych jest równy 4 ∶ 5. Z pojemnika losujemy jedną kulę.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Prawdopodobieństwo wylosowania kuli białej jest równe
+A. 4 9 B. 45 C. 19 D. 14
+Zadanie 20. (0–1)
+Punkty 𝐴, 𝐵 oraz 𝐶 leżą na okręgu o środku w punkcie 𝑂.
+Kąt 𝐴𝐵𝑂 ma miarę 40°, a kąt 𝑂𝐵𝐶 ma miarę 10° (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta 𝐴𝐶𝑂 jest równa
+A. 30° B. 40° C. 50° D. 60°
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 21. (0–2)
+Dany jest trójkąt 𝐴𝐵𝐶 o bokach długości 6, 7 oraz 8. Oblicz cosinus największego kąta tego trójkąta.
+Zapisz obliczenia.
+Zadanie 22. (0–1)
+W trójkącie 𝐴𝐵𝐶 bok 𝐴𝐵 ma długość 4, a bok 𝐵𝐶 ma długość 4,6.
+Dwusieczna kąta 𝐴𝐵𝐶 przecina bok 𝐴𝐶 w punkcie 𝐷 takim, że |𝐴𝐷| = 3,2 (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Odcinek 𝐶𝐷 ma długość
+A. 64 23 B. 165 C. 234 D. 9225
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 23. (0–4)
+Rodzinna firma stolarska produkuje małe wiatraki ogrodowe.
+Na podstawie analizy rzeczywistych wpływów i wydatków stwierdzono, że:
+• przychód 𝑃 (w złotych) z tygodniowej sprzedaży 𝑥 wiatraków można opisać funkcją 𝑃(𝑥) = 251𝑥
+• koszt 𝐾 (w złotych) produkcji 𝑥 wiatraków w ciągu jednego tygodnia można określić funkcją 𝐾(𝑥) = 𝑥2 + 21𝑥 + 170.
+Tygodniowo w zakładzie można wyprodukować co najwyżej 150 wiatraków.
+Oblicz, ile tygodniowo wiatraków należy sprzedać, aby zysk zakładu w ciągu jednego tygodnia był największy. Oblicz ten największy zysk.
+Zapisz obliczenia. Wskazówka: przyjmij, że zysk jest różnicą przychodu i kosztów.
+Zadanie 24.
+Firma ℱ zatrudnia 160 osób. Rozkład płac brutto pracowników tej firmy przedstawia poniższy diagram. Na osi poziomej podano – wyrażoną w złotych – miesięczną płacę brutto, a na osi pionowej podano liczbę pracowników firmy ℱ, którzy otrzymują płacę miesięczną w danej wysokości.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zadanie 24.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Średnia miesięczna płaca brutto w firmie ℱ jest równa
+A. 4 593,75 zł B. 4 800,00 zł C. 5 360,00 zł D. 2 399,33 zł
+Zadanie 24.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Mediana miesięcznej płacy pracowników firmy ℱ jest równa
+A. 4 000 zł B. 4 800 zł C. 5 000 zł D. 5 500 zł
+Zadanie 24.3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba pracowników firmy ℱ, których miesięczna płaca brutto nie przewyższa 5 000 zł, stanowi (w zaokrągleniu do 1%)
+A. 91% liczby wszystkich pracowników tej firmy.
+B. 78% liczby wszystkich pracowników tej firmy.
+C. 53% liczby wszystkich pracowników tej firmy.
+D. 22% liczby wszystkich pracowników tej firmy.
+Zadanie 25. (0–3)
+Każda z krawędzi podstawy trójkątnej ostrosłupa ma długość 10√3, a każda jego krawędź boczna ma długość 15. Oblicz wysokość tego ostrosłupa.
+Zapisz obliczenia.
+Zadanie 26. (0–2)
+Wykaż, że dla każdej liczby naturalnej 𝒏 liczba 𝟏𝟎𝒏𝟐 + 𝟑𝟎𝒏 + 𝟖 przy dzieleniu przez 𝟓 daje resztę 𝟑.
+
+
+
+
+
+
+
+
+
+ZASADY OCENIANIA:
+
+Więcej arkuszy znajdziesz na stronie: arkusze.pl
+CK CENTRALNA KOMISJA EGZAMINACYJNA
+OKF E Gdansk OKE ORE W JAWORZNIE
+
+Rodzaj dokumentu: Zasady oceniania rozwiązań zadań
+Egzamin: Egzamin maturalny Arkusz diagnostyczny
+Przedmiot: Matematyka
+Poziom: Poziom podstawowy
+Formy arkusza: MMAP-P0-100, MMAP-P0-200, MMAP-P0-300, MMAP-P0-400, MMAP-P0-660, MMAP-P0-700, MMAP-PO-Q00
+Data publikacji dokumentu: 30 września 2022 r.
+
+Egzamin maturalny z matematyki. Test diagnostyczny - wrzesień 2022 r.
+
+Uwaga: Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+
+Zadanie 1. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe: Zdający: 1.1) wykonuje działania (dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie, pierwiastkowanie, logarytmowanie) w zbiorze liczb rzeczywistych.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Obliczamy wartość wyrażenia:
+[(1+3cdot 2^{-1})^{-2}=left(1+3cdotfrac{1}{2}right)^{-2}=left(1+frac{3}{2}right)^{-2}=left(frac{5}{2}right)^{-2}=left(frac{2}{5}right)^2=frac{4}{25}]
+
+Zadanie 2. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe: Zdający: 1.9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na logarytm iloczynu, logarytm ilorazu i logarytm potęgi.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+A
+
+Komentarz
+Obliczamy wartość wyrażenia:
+[2log_5 5+1-frac{1}{2}log_5 625=2cdot 1+1-frac{1}{2}cdot 4=2+1-2=1]
+
+Zadanie 3. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymaganie szczegółowe: Zdający: XI.2) zlicza obiekty, stosując reguły mnożenia i dodawania [...].
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Wśród wielokrotności liczby 25 nieparzyste to te, których końcówka dwucyfrowa to 25 lub 75, co daje dwie możliwości. Cyfrę setek możemy wybrać na 10 sposobów, natomiast cyfrę tysięcy na 9 sposobów.
+
+Zadanie 4. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: II.6) dodaje i odejmuje wyrażenia wymierne [...].
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Przekształcamy wyrażenie
+[frac{2}{x-1}-5=frac{2}{x-1}-frac{5cdot(x-1)}{x-1}=frac{2-5x+5}{x-1}=frac{-5x+7}{x-1}]
+
+Zadanie 5. (0-2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: II.1) stosuje wzory skróconego mnożenia na: ((a+b)^2), ((a-b)^2), (a^2-b^2); II.2) dodaje, odejmuje i mnoży wielomiany jednej i wielu zmiennych;
+
+Zasady oceniania
+2 pkt - wybranie dwóch poprawnych odpowiedzi: D i F.
+1 pkt - wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna: D albo F.
+0 pkt - odpowiedź całkowicie niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+DF
+
+Komentarz
+Przekształcamy wyrażenia, stosując wzór skróconego mnożenia na różnicę kwadratów dwóch wyrażeń:
+[[3-(x-y)]cdot[3+(x-y)]=9-(x-y)^2=9-(x^2-2xy+y^2)]
+oraz
+[-[(x-y)-3]cdot[(x-y)+3]=-[(x-y)^2-9]=9-(x^2-2xy+y^2)]
+
+Zadanie 6. (0-3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: III.5) rozwiązuje równania wielomianowe postaci (W(x)=0) dla wielomianów doprowadzonych do postaci iloczynowej lub takich, które dają się doprowadzić do postaci iloczynowej metodą wyłączania wspólnego czynnika przed nawias lub metodą grupowania.
+
+Zasady oceniania
+3 pkt - zastosowanie poprawnej metody rozwiązania równania i podanie wszystkich rozwiązań równania: (x=-3) lub (x=2) lub (x=3).
+2 pkt - rozwiązanie jednego z równań: (x^2-9=0) albo (x-2=0).
+1 pkt - przekształcenie lewej strony równania (3x^3-6x^2-27x+54=0) do postaci iloczynu wielomianów stopnia co najwyżej drugiego.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Przykładowe pełne rozwiązanie
+Przekształcamy lewą stronę równania do postaci iloczynu:
+[3x^3-6x^2-27x+54=0]
+[3x^2(x-2)-27(x-2)=0]
+[(x-2)(3x^2-27)=0]
+[3(x-2)(x^2-9)=0]
+Stąd otrzymujemy kolejno
+(x-2=0) lub (x^2-9=0)
+(x-2=0) lub ((x-3)(x+3)=0)
+(x-2=0) lub (x-3=0) lub (x+3=0)
+(x=2) lub (x=3) lub (x=-3)
+Rozwiązaniami równania są liczby: (-3), 2 oraz 3.
+
+Zadanie 7. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: III.6) rozwiązuje równania wymierne postaci (frac{V(x)}{W(x)}=0), gdzie wielomiany (V(x)) i (W(x)) są zapisane w postaci iloczynowej.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Wyznaczamy dziedzinę równania: (D=mathbb{R}setminus{-1,1}).
+Licznik ułamka jest równy 0, gdy
+((x^2+x)=0) lub ((x+3)=0) lub ((x-1)=0)
+Zatem
+(x(x+1)=0) lub (x=-3) lub (x=1)
+(x=0) lub (x=-1) lub (x=-3) lub (x=1)
+Spośród tych czterech liczb do dziedziny należą tylko (x=-3) oraz (x=0).
+
+Zadanie 8. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: 1.6) posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej; 1.7) stosuje interpretację geometryczną i algebraiczną wartości bezwzględnej, rozwiązuje równania i nierówności typu: (|x+4|=5), (|x-2|25);
+(3n-1&gt;25)
+(3n&gt;26)
+(n&gt;8frac{2}{3})
+Najmniejszą liczbą naturalną, która spełnia tę nierówność, jest (n=9).
+
+Zadanie 16.3 (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: Zdający: VI.1) oblicza wyrazy ciągu określonego wzorem ogólnym; VI.3) sprawdza, czy dany ciąg jest arytmetyczny lub geometryczny; VI.4) stosuje wzór [...] na sumę n początkowych wyrazów ciągu arytmetycznego.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+A
+
+Komentarz
+Wypisujemy kilka początkowych wyrazów ciągu ((a_n)) i obliczamy ich sumy:
+(2+5=7)
+(2+5+8=15)
+(2+5+8+11=26)
+(2+5+8+11+14=40)
+(2+5+8+11+14+17=57)
+Suma sześciu początkowych wyrazów ciągu ((a_n)) jest równa 57.
+
+Zadanie 17. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: IX. 2) posługuje się równaniem prostej na płaszczyźnie w postaci kierunkowej, w tym wyznacza równanie prostej o zadanych własnościach (takich jak na przykład przechodzenie przez dwa dane punkty, znany współczynnik kierunkowy, równoległość lub prostopadłość do innej prostej, styczność do okręgu).
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+C
+
+Zadanie 18. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: VII.2) korzysta z wzorów (sin^2alpha+cos^2alpha=1), (operatorname{tg}alpha=frac{sinalpha}{cosalpha})
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Przekształcamy dane wyrażenie:
+((1-cos 20^circ)cdot(1+cos 20^circ)-sin^2 20^circ=)
+(=(1-cos^2 20^circ)-sin^2 20^circ=)
+(=sin^2 20^circ-sin^2 20^circ=0)
+
+Zadanie 19. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych; 3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących, w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+Wymaganie szczegółowe: Zdający: XII.1) oblicza prawdopodobieństwo w modelu klasycznym.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+A
+
+Komentarz
+Niech A oznacza zdarzenie polegające na wylosowaniu kuli białej. Przyjmujemy, że w pojemniku jest 4n kul białych oraz 5n kul czerwonych i obliczamy prawdopodobieństwo wylosowania kuli białej spośród 9n wszystkich kul:
+(P(A)=frac{4n}{9n}=frac{4}{9})
+
+Zadanie 20. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 3. Tworzenie pomocniczych obiektów matematycznych na podstawie istniejących, w celu przeprowadzenia argumentacji lub rozwiązania problemu.
+Wymaganie szczegółowe: Zdający: VIII.5) stosuje własności kątów wpisanych i środkowych.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Każdy z trójkątów ABO, BCO oraz ACO jest równoramienny (ramionami są promienie okręgu). Wynika stąd, że
+(|angle AOB|=180^circ-2cdot 40^circ=100^circ)
+(|angle BOC|=180^circ-2cdot 10^circ=160^circ)
+Kąty AOB, BOC oraz AOC tworzą razem kąt pełny, stąd
+(|angle AOC|=360^circ-(100^circ+160^circ)=100^circ)
+Stąd
+(|angle ACO|=(180^circ-100^circ):2=40^circ)
+
+Zadanie 21. (0-2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii przy rozwiązywaniu zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: VII.4) oblicza kąty trójkąta i długości jego boków przy odpowiednich danych (rozwiązuje trójkąty m.in. z wykorzystaniem twierdzenia cosinusów). VIII.2) [...] stosuje twierdzenie: w trójkącie naprzeciw większego kąta wewnętrznego leży dłuższy bok.
+
+Zasady oceniania
+2 pkt - zastosowanie twierdzenia cosinusów i obliczenie cosinusa największego kąta trójkąta: (cosalpha=frac{1}{4}).
+1 pkt - zastosowanie twierdzenia cosinusów i zapisanie równania (8^2=6^2+7^2-2cdot 6cdot 7cdotcosalpha).
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Przykładowe pełne rozwiązanie
+Oznaczmy miarę największego kąta w rozpatrywanym trójkącie przez (alpha).
+W trójkącie największy kąt wewnętrzny znajduje się naprzeciw najdłuższego boku. Korzystamy z twierdzenia cosinusów i obliczamy cosinus największego kąta:
+[8^2=6^2+7^2-2cdot 6cdot 7cdotcosalpha]
+[64=36+49-84cosalpha]
+[cosalpha=frac{1}{4}]
+
+Zadanie 22. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: VIII.7) stosuje twierdzenia: Talesa, odwrotne do twierdzenia Talesa, o dwusiecznej kąta oraz o kącie między styczną a cięciwą.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+D
+
+Komentarz
+Korzystając z twierdzenia o dwusiecznej kąta otrzymujemy proporcję
+[frac{|AD|}{|CD|}=frac{|AB|}{|CB|}]
+Podstawiając długości odpowiednich odcinków, mamy
+[frac{3,2}{|CD|}=frac{4}{4,6}]
+Stąd
+[|CD|=frac{3,2cdot 4,6}{4}=frac{92}{25}]
+
+Zadanie 23. (0-4)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymaganie szczegółowe: Zdający: XIII. rozwiązuje zadania optymalizacyjne w sytuacjach dających się opisać funkcją kwadratową.
+
+Zasady oceniania
+4 pkt - zastosowanie poprawnej metody obliczenia liczby wiatraków maksymalizującej zysk oraz poprawny wynik: (x=115) oraz (Z(115)=13,055) zł.
+3 pkt - zapisanie dziedziny funkcji Z: (xin[0,150]capmathbb{Z}) oraz obliczenie pierwszej współrzędnej wierzchołka paraboli i zapisanie, że 115 należy do dziedziny funkcji Z.
+2 pkt - zapisanie poprawnego wzoru funkcji Z zysku w postaci jawnej: (Z(x)=-x^2+230x-170).
+1 pkt - zapisanie funkcji Z zysku w postaci (Z(x)=P(x)-K(x)).
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Przykładowe pełne rozwiązanie
+Zysk ze sprzedaży jest różnicą przychodu ze sprzedaży wiatraków oraz kosztu ich wytworzenia:
+[Z(x)=P(x)-K(x)=-x^2+230x-170]
+Tygodniowo w zakładzie można wyprodukować maksymalnie 150 wiatraków, więc dziedziną funkcji Z jest zbiór wszystkich liczb całkowitych z przedziału ([0, 150]).
+Ponieważ funkcja (Z(x)=-x^2+230x-170) jest funkcją kwadratową, największą wartość przyjmuje dla argumentu będącego pierwszą współrzędną wierzchołka paraboli. Korzystając ze wzoru (p=-frac{b}{2a}) obliczamy
+[x=-frac{230}{2cdot(-1)}=frac{-230}{-2}=115]
+Liczba (x=115) należy do dziedziny funkcji Z.
+Największy tygodniowy zysk jest osiągany przy produkcji 115 wiatraków tygodniowo. Obliczymy go, przyjmując (x=115):
+[Z(115)=-115^2+230cdot 115-170=13,055 text{ zł}]
+Przy produkcji 115 wiatraków tygodniowo zysk firmy będzie równy 13 055 zł.
+
+Zadanie 24.1. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: XII.2) oblicza średnią arytmetyczną i średnią ważoną [...].
+
+Zasady oceniania
+1 pkt - rozwiązanie poprawne.
+0 pkt - rozwiązanie niepoprawne albo brak rozwiązania.
+
+Rozwiązanie
+A
+
+Komentarz
+Dodając wszystkie płace pracowników firmy F, otrzymujemy sumę
+[75cdot 4000+50cdot 4800+20cdot 5000+10cdot 6000+5cdot 7000=735,000]
+Dzieląc ją przez liczbę pracowników, mamy
+[735,000 : 160=4,593,75]
+
+Zadanie 24.2. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: XII.2) [...] znajduje medianę i dominantę.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+B
+
+Komentarz
+Mediana jest średnią arytmetyczną płac pracownika nr 80 i 81 przy uporządkowaniu ich w porządku niemalejącym.
+Obaj pracownicy otrzymują płacę miesięczną równą 4800 zł.
+
+Zadanie 24.3. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymagania ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe: Zdający: 1.1) wykonuje działania [...] w zbiorze liczb rzeczywistych.
+
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie
+A
+
+Komentarz
+Do grupy, o której mowa w zadaniu, zaliczamy pracowników z płacą 4000 zł, 4800 zł oraz 5000 zł.
+Jest ich razem
+[75+50+20=145]
+Obliczamy, jakim procentem liczby wszystkich pracowników jest liczba pracowników w danej grupie:
+[frac{145}{160}cdot 100%=90,625%approx 91%]
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku oznaczono: Ostrosłup prawidłowy trójkątny o wierzchołku S i podstawie ABC. Spodek wysokości oznaczono jako S'. Zaznaczono wysokość H oraz promień R okręgu opisanego na podstawie.
+
+Zadanie 25. (0-3)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii podczas rozwiązywania zadań, również w sytuacjach nietypowych.
+Wymagania szczegółowe: Zdający: VII.4) oblicza kąty trójkąta i długości jego boków przy odpowiednich danych (rozwiązuje trójkąty m.in. z wykorzystaniem twierdzenia cosinusów). VIII.2) [...] stosuje twierdzenie: w trójkącie naprzeciw większego kąta wewnętrznego leży dłuższy bok.
+
+Zasady oceniania
+3 pkt - obliczenie promienia okręgu opisanego na podstawie ostrosłupa, poprawne zastosowanie twierdzenia Pitagorasa do obliczenia wysokości H bryły i poprawny wynik: (H=5sqrt{5}).
+2 pkt - obliczenie promienia okręgu opisanego na podstawie ostrosłupa oraz poprawne zastosowanie twierdzenia Pitagorasa do obliczenia wysokości H bryły.
+1 pkt - obliczenie promienia R okręgu opisanego na trójkącie równobocznym: (R=10).
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Przykładowe pełne rozwiązanie
+Podstawą ostrosłupa jest trójkąt równoboczny o boku (10sqrt{3}).
+Ponieważ krawędzie boczne ostrosłupa mają taką samą długość, spodek wysokości ostrosłupa jest punktem jednakowo odległym od wierzchołków podstawy bryły, czyli jest środkiem okręgu opisanego na podstawie.
+Obliczamy promień R okręgu opisanego na podstawie: (R=frac{10sqrt{3}cdotsqrt{3}}{3}=10).
+Oznaczmy przez A, B, C, S wierzchołki ostrosłupa, przez S' spodek wysokości H opuszczonej z wierzchołka S na podstawę ABC (patrz rysunek). Stosujemy do trójkąta AS'S twierdzenie Pitagorasa i otrzymujemy kolejno
+[|AS'|^2+|S'S|^2=|SA|^2]
+[R^2+H^2=|SA|^2]
+[10^2+H^2=15^2]
+[H^2=225-100]
+[H=5sqrt{5}]
+Wysokość ostrosłupa jest równa (5sqrt{5}).
+
+Zadanie 26. (0-2)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe: Zdający: 1.2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia nie trudniejsze niż dowód podzielności przez 24 iloczynu czterech kolejnych liczb naturalnych.
+
+Zasady oceniania
+2 pkt - przekształcenie danego wyrażenia do postaci (5cdot(2n^2+6n+1)+3) oraz zapisanie, że (2n^2+6n+1) jest liczbą całkowitą.
+1 pkt - przekształcenie wyrażenia (10n^2+30n+8) do postaci (5cdot(2n^2+6n+1)+3).
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Przykładowe pełne rozwiązanie
+Przekształcamy równoważnie dane wyrażenie
+[10n^2+30n+8=10n^2+30n+5+3=5cdot(2n^2+6n+1)+3]
+Ponieważ wartość wyrażenia (2n^2+6n+1) jest liczbą całkowitą, to (5cdot(2n^2+6n+1)) jest wielokrotnością liczby 5, zatem (5cdot(2n^2+6n+1)+3) przy dzieleniu przez 5 daje resztę 3. To należało wykazać.

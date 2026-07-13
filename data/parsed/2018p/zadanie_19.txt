@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 19 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 19. (0-1)
+Proste o równaniach y = (m + 2)x + 3 oraz y = (2m - 1)x - 3 są równoległe, gdy A. m = 2 B. m = 3 C. m = 0 D. m = 1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 19. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych (8.2).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: C

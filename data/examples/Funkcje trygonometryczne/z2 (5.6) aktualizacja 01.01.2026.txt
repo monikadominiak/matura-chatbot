@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+z2 (5.6)
+
+Rozwiąż na [-π,π]:
+
+√3 cos^2 x - 2 sin x cos x - √3 sin^2 x = 0.
+
+1️⃣ Sprawdzamy dla cos x = 0.
+
+√3·0 - 2·1·0 - √3·1 = 0
+
+-√3 = 0
+
+sprzeczność
+
+2️⃣ Dzielimy przez cos^2 x ≠ 0
+
+√3 \(\frac{cos^2 x}{cos^2 x}\) - 2 \(\frac{sin x cos x}{cos^2 x}\) - √3 \(\frac{sin^2 x}{cos^2 x}\) = 0
+
+√3 - 2 tg x - √3 tg^2 x = 0
+
+√3 tg^2 x + 2 tg x - √3 = 0
+
+3️⃣ Korzystamy z pomocniczej zmiennej.
+
+t = tg x
+
+√3 t^2 + 2t - √3 = 0
+
+Δ = 4 + 4·√3·√3 = 16  √Δ = 4
+
+t_1 = \(\frac{-2-4}{2√3}\) = \(\frac{-3}{√3}\) = -√3
+
+t_2 = \(\frac{-2+4}{2√3}\) = \(\frac{1}{√3}\) = \(\frac{√3}{3}\)
+
+4️⃣ Cofamy podstawienie.
+
+tg x = -√3   tg x = \(\frac{√3}{3}\)
+
+x = -\(\frac{π}{3}\) + kπ   x = \(\frac{π}{6}\) + kπ,   k ∈ ℤ
+
+Dla k = 0
+
+x = -\(\frac{π}{3}\)
+
+x = \(\frac{π}{6}\)
+
+Dla k = 1
+
+x = \(\frac{2π}{3}\)
+
+x = \(\frac{7π}{6}\) ∉ [-π,π] 
+
+Dla k = -1
+
+x = -\(\frac{4π}{3}\) ∉ [-π,π] 
+
+x = -\(\frac{5π}{6}\)
+
+Odp.: x ∈ {- \(\frac{π}{3}\), \(\frac{2π}{3}\), \(\frac{π}{6}\), -\(\frac{5π}{6}\)}.

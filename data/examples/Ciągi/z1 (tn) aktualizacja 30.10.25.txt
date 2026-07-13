@@ -1,0 +1,113 @@
+
+--- STRONA 1 ---
+z1 (tn)
+
+Rozstrzygnij, czy istnieją takie dwa wyrazy ciągu \( (a_n) \) o wyrazie ogólnym 
+\[ a_n = n^3 + 10n + 2010, \] które różnią się o 219.
+
+Uwaga: nie musi chodzić o dwa kolejne wyrazy, tylko o dwa dowolne wyrazy.
+
+Oznaczamy dwa wyrazy ciągu jako \( a_k \) oraz \( a_m \).
+
+1️⃣ Sprawdzamy, czy istnieją takie \( k \) i \( m \), dla których zachodzi warunek.
+
+\[ a_k - a_m = 219 \]
+
+\[ a_k = k^3 + 10k + 2010 ; \quad a_m = m^3 + 10m + 2010 \]
+
+\[ a_k - a_m = k^3 + 10k + 2010 - (m^3 + 10m + 2010) = \]
+
+\[ = k^3 - m^3 + 10k - 10m = 219 \]
+
+Jeśli chcemy określać własności wyrażeń składających się z więcej niż jednej niewiadomej, warto spróbować doprowadzić to wyrażenie do postaci iloczynowej, o ile to jest możliwe.
+
+2️⃣ Sprowadzamy do postaci iloczynowej.
+
+\[ k^3 - m^3 + 10k - 10m = (k-m)(k^2 + km + m^2) + 10(k-m) = \]
+
+\[ = (k-m)(k^2 + km + m^2 + 10) \]
+
+\[ (k-m)(k^2 + km + m^2 + 10) = 219 \]
+
+Jedynym możliwym rozkładem liczby 219 na czynniki pierwsze jest 3⋅73 
+(73 to liczba pierwsza i nie rozkłada się dalej) oraz 1⋅219. Mamy więc:
+
+\[ (k-m)(k^2 + km + m^2 + 10) = 3⋅73 \quad \text{lub} \quad (k-m)(k^2 + km + m^2 + 10) = 1⋅219 \]
+
+\[
+\begin{cases} 
+k-m = 3 \\ 
+k^2 + km + m^2 + 10 = 73 
+\end{cases} (1) 
+\]
+
+\[
+\begin{cases} 
+k-m = 1 \\ 
+k^2 + km + m^2 + 10 = 219 
+\end{cases} (2) 
+\]
+
+Mamy zatem do rozwiązania dwa układy równań. Ze względu na to, że liczby \( k \) i \( m \) są naturalne (jako numery wyrazów ciągu) mamy pewność, że nawias \( k-m \) przyjmuje wartości mniejsze, niż drugi nawias, nie ma więc sensu rozważać sytuacji, w której np. pierwszy nawias = 219, a drugi = 1.
+
+--- STRONA 2 ---
+3) Rozwiązujemy układy równań.
+
+Najwygodniej będzie je rozwiązać metodą podstawiania.
+
+(1) 
+\[
+\begin{cases} 
+k - m = 3 \\
+k^2 + km + m^2 + 10 = 73 
+\end{cases}
+\Rightarrow k = m + 3
+\]
+
+\((m+3)^2 + (m+3)m + m^2 + 10 = 73\)
+
+\(m^2 + 6m + 9 + m^2 + 3m + m^2 + 10 - 73 = 0\)
+
+\(3m^2 + 9m - 54 = 0 \quad / : 3\)
+
+\(m^2 + 3m - 18 = 0\)
+
+\(\Delta = 3^2 - 4 \cdot 1 \cdot (-18) = 81\)
+
+\(m_1 = \frac{-3 - 9}{2} = -6 \quad \Rightarrow k_1 = m_1 + 3 = -3\)
+
+\(m_2 = \frac{-3 + 9}{2} = 3 \quad \Rightarrow k_2 = m_2 + 3 = 6\)
+
+Układ spełniają dwie pary liczb, ale tylko w jednej z tych par obie liczby są naturalne, co było konieczne do spełnienia warunków zadania.
+
+\[
+\begin{cases} 
+k = 6 \\
+m = 3 
+\end{cases}
+\]
+
+(2) 
+\[
+\begin{cases} 
+k - m = 1 \\
+k^2 + km + m^2 + 10 = 219 
+\end{cases}
+\Rightarrow k = m + 1
+\]
+
+\((m+1)^2 + (m+1)m + m^2 + 10 = 219\)
+
+\(m^2 + 2m + 1 + m^2 + m + m^2 + 10 - 219 = 0\)
+
+\(3m^2 + 3m - 208 = 0\)
+
+\(\Delta = 3^2 - 4 \cdot 3 \cdot (-208) = 9 + 2496 = 2505\)
+
+\(\sqrt{\Delta} = \sqrt{2505} \not\in \mathbb{Q}\)
+
+Widać, że żadne liczby wymierne, a tym bardziej naturalne nie są, rozwiązaniem tego układu równań, czyli nie spełniają warunków zadania.
+
+Ostatecznie, podsumowując rozważania na temat obu układów równań okazuje się, że różnica między wyrazami a_6 i a_3 ciągu wynosi 219.
+
+Odp.: Tak, istnieją takie dwa wyrazy.

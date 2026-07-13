@@ -1,0 +1,13 @@
+
+--- STRONA 1 ---
+Oblicz: \( \binom{102}{2} \).
+
+\( \binom{102}{2} = ? \)
+
+1️⃣ zapisujemy dane wyrażenie zgodnie ze wzorem na dwumian Newtona
+
+\[ \binom{n}{k} = \frac{n!}{k!(n-k)!} \]
+
+\[ \binom{102}{2} = \frac{102!}{2!(102-2)!} = \frac{102 \cancel{\cdot 101 \cdot 102}}{2! \cdot \cancel{100!}} = \frac{\cancel{102} \cdot 101 \cdot 102}{1 \cdot 2} = 5151 \]
+
+odp: 5151

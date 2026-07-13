@@ -1,0 +1,25 @@
+=== ARKUSZ: 2023p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0-1)
+Wymagania egzaminacyjne 2023 i 2024
+Wymaganie ogólne:
+I. Sprawność rachunkowa.
+Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe:
+Zdający:
+XI.1) zlicza obiekty w prostych sytuacjach kombinatorycznych.
+Zasady oceniania
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie
+Wersja A: B
+Wersja B: B
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

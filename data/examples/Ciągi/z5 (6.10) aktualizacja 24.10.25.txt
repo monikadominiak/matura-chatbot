@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+z4 (6.10)
+
+Ciąg (a_n), określony dla n ≥ 1 jest geometryczny i zbieżny. Wiadomo, że
+
+a_1 + a_3 = 30 oraz a_1^3 + a_3^3 = 14040.
+
+Oblicz sumę wszystkich wyrazów tego ciągu. Rozważ wszystkie możliwe wartości ilorazu q spełniające warunki zbieżności.
+
+1️⃣ Rozwiązujemy układ równań.
+
+a_1 + a_3 = 30
+
+a_1^3 + a_3^3 = 14040
+
+a_1 + a_1q^2 = 30
+
+a_1^3 + a_1^3q^6 = 14040
+
+a_1(1 + q^2) = 30 (1)
+
+a_1^3(1 + q^6) = 14040 (2)
+
+Z (1): a_1 = \frac{30}{1+q^2}
+
+Do (2):
+
+(\frac{30}{1+q^2})^3 (1+q^6)=14040
+
+\frac{1+q^6}{(1+q^2)^3} = \frac{14040}{27000} = \frac{13}{25}
+
+t = q^2,\ t \in \langle 0, +\infty)
+
+\frac{1 + t^3}{(1+t)^3} = \frac{13}{25}
+
+\frac{(1+t)(1 - t + t^2)}{(1+t)(1+t)^2} = \frac{13}{25}
+
+25(1+t+t^3) = 13(1+t)^2
+
+25 - 25t + 25t^2 = 13 + 26t + 13t^2
+
+12t^2 - 51t + 12 = 0
+
+4t^2 - 17t + 4 = 0
+
+Δ = 225, \sqrt{Δ} = 15
+
+t_1 = \frac{17-15}{8} = \frac{1}{4} \quad t_2 = \frac{17+15}{8} = 4
+
+q_1= \frac{1}{2} \vee q_1= -\frac{1}{2}
+
+q_2= 2 \vee q_2= -2
+
+a_1= \frac{30}{1+\frac{1}{4}}= 24 odrzucamy bo |q_1|>1.
+
+--- STRONA 2 ---
+\( \circled{12} \) Obliczamy sumę wszystkich wyrazów.
+
+Dla \( q = \frac{1}{2} \)
+
+\[ 
+S = \frac{24}{1 - \frac{1}{2}} = 48 
+\]
+
+Dla \( q = -\frac{1}{2} \)
+
+\[ 
+S = \frac{24}{1 + \frac{1}{2}} = 24 \cdot \frac{2}{3} = 16 
+\]
+
+Odp.: \( S = 48 \) dla \( q = \frac{1}{2} \), \( S = 16 \) dla \( q = -\frac{1}{2} \).

@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zad.9 Określ liczbę rozwiązań równania w zależności od parametru m w równaniu |5x - 4| = |m + 3|.
+
+1) Szkicujemy wykres funkcji lewej strony równania i wyznaczamy m:
+
+Niech y = |5x-4|.
+
+Po prawej stronie mamy tym razem parametr wewnątrz modułu (|m+3|). Wówczas dla naszego wykresu nie istnieje taka m, dla którego uzyskalibyśmy 0 rozwiązań (osiągalibyśmy to dla wartości ujemnych, których moduł nigdy nie osiągnie).
+
+Analizując samo równanie możemy stwierdzić już, że istnieją dwie możliwości:
+
+1 rozw. dla |m+3|=0 (wówczas równanie |5x-4|=0 można po prostu opuścić z modułu).
+
+lub 2 rozw. dla |m+3|>0 (wówczas równanie rozwiązuje się na 2 przypadki z własności |x|=a <=> x=a v x=-a). Czyli:
+
+Odp. 1 rozw. dla m=-3 oraz 2 rozw. dla m∈R\{-3}.

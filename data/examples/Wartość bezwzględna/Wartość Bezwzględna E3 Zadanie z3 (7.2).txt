@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Zadanie z3 (7.2) Rozwiąż równanie \[ \left| \frac{1}{x} \right| = \left| \frac{-2x}{|x-2|} \right|. \]
+
+1) Wyznaczamy dziedzinę równania:
+
+\[ x \neq 0 \quad x \neq 2 \]
+\[ x \neq 2 \]
+\[ x \in \mathbb{R} \setminus \{ 0, 2 \} \]
+
+2) Opuszczamy zewnętrzny moduł z własności wart. bezwzgl.:
+
+\[
+\left| \frac{1}{x} \right| = \left| \frac{-2x}{|x-2|} \right|
+\]
+
+\[
+\frac{1}{x} = \frac{-2x}{|x-2|} \quad \vee \quad \frac{1}{x} = \frac{2x}{|x-2|}
+\]
+
+\[
+|x-2| = 2x^2 \quad \vee \quad |x-1 -2| = 2x^2
+\]
+
+Alternatywnie można też zauważyć, że to równanie będzie spełnione tylko wtedy, gdy:
+
+\[ |x-1| = 0 \quad \wedge \quad -2x^2 = 0 \]
+
+\[ x = 2 \quad \wedge \quad x = 0 \]
+
+\[ x \in \emptyset \]
+
+3) Rozbijamy oba równania na po 2 przypadki z definicji wart. bezwzgl.:
+
+\[
+|x-2| = 2x^2 \quad \leftarrow 2x^2 daje nam sprowadzać liczby nieujemne, więc alternatywnie można użyć własności:
+\]
+
+1^o \quad x-2 \geq 0 \\
+x \geq 2 \\
+
+x-2 = 2x^2 \\
+2x^2 - x - 2 = 0 \\
+\Delta = 17 \\
+a < 0 \\
+x \in \emptyset
+
+2^o \quad x-2 < 0 \\
+x < 2 \\
+
+-x + 2 = 2x^2 \\
+2x^2 + x - 2 = 0 \\
+\Delta = 17 \\
+a = -4 \\
+x \in \emptyset
+
+\[
+x \in \emptyset \quad \vee \quad x \in \left\{ \frac{-4-\sqrt{17}}{4}, \frac{-4+\sqrt{17}}{4} \right\}
+\]
+
+\[
+|x-1 = 2x^2
+\]
+
+x-2 = 2x^2 \quad \vee \quad x - 2 = 2x^2
+2x^2 - x - 2 = 0 \quad \vee \quad 2x^2 + x - 2 = 0
+
+x_s = \frac{-4-\sqrt{17}}{4}, \frac{-4+\sqrt{17}}{4} \quad  a < 0 
+
+x \in \emptyset \quad \vee \quad x \in \{ \frac{-4-\sqrt{17}}{4}, \frac{-4+\sqrt{17}}{4} \}
+
+Odp.: \quad x \in \left\{ \frac{-4-\sqrt{17}}{4}, \frac{-4+\sqrt{17}}{4} \right\}.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0–2)
+Ze zbioru liczb {1, 2, 3, 4, 5} losujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz prawdopodobieństwo zdarzenia A polegającego na wylosowaniu liczb, których iloczyn jest liczbą nieparzystą.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Zadanie 11
+
+Rozwiąż równanie: log 5 + log(x + 10) = 1 - log(2x - 1) + log(21x - 20)
+
+1️⃣ Wyznaczamy dziedzinę równania.
+
+D: x + 10 > 0  
+x > -10  
+
+2x - 1 > 0  
+2x > 1  
+x > \frac{1}{2}  
+
+21x - 20 > 0  
+21x > 20  
+x > \frac{20}{21}  
+
+D = (\frac{20}{21}, +\infty)
+
+2️⃣ Rozwiązujemy równanie.
+
+Zamieniamy 1 na log 10.
+
+log 5 + log(x + 10) = log 10 - log(2x - 1) + log(21x - 20)
+
+log(5x + 50) = log \frac{10}{2x + 4} + log(21x - 20)
+
+log(5x + 50) = log \frac{10(21x - 20)}{2x + 4}
+
+5x + 50 = \frac{10(21x - 20)}{2x - 1}  | \cdot (2x - 1)
+
+10x^2 + 100x - 5x - 50 = 210x - 200
+
+10x^2 - 115x + 150 = 0
+
+2x^2 - 23x + 30 = 0
+
+\Delta = 529 - 240 = 289
+
+x_1 = \frac{23 - 17}{4} = \frac{3}{2} \in D
+
+x_2 = \frac{23 + 17}{4} = 10 \notin D
+
+Odp.: x \in \{ \frac{3}{2}, 10 \}.

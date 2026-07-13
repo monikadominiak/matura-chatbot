@@ -1,0 +1,100 @@
+
+--- STRONA 1 ---
+3. Ciągi arytmetyczne 3
+
+Oblicz pierwszy wyraz i różnicę ciągu arytmetycznego \( a_n \) spełniającego podane warunki.
+
+a) \(\begin{cases} a_2^2 + a_4^2 = 16 \\ a_3 + a_5 = 8 \end{cases}\)
+
+b) \(\begin{cases} a_5 : a_1 = -1 \\ a_2 \cdot a_7 = -1 \end{cases}\)
+
+a)
+
+Rozwiązujemy układ równań i wyznaczamy \( a_1 \) i \( r \).
+
+\(\begin{cases} a_2^2 + a_4^2 = 16 \\ a_3 + a_5 = 8 \end{cases}\)
+
+\(\begin{cases} (a_1 + r)^2 + (a_1 + 3r)^2 = 16 \\ a_1 + 2r + a_1 + 4r = 8 \end{cases}\)
+
+\(\begin{cases} (a_1^2 + 2a_1r + r^2) + (a_1^2 + 6a_1r + 9r^2) = 16 \\ 2a_1 + 6r = 8 \end{cases} \ / : 2\)
+
+\(\begin{cases} 2a_1^2 + 8a_1r + 10r^2 = 16 \ / : 2 \\ a_1 + 3r = 4 \end{cases}\)
+
+\(\begin{cases} a_1^2 + 4a_1r + 5r^2 = 8 \\ a_1 + 3r = 4 \end{cases}\)
+
+\( a_1 + 3r = 4 \quad \Rightarrow \quad a_1 = 4 - 3r \)
+
+\((4 - 3r)^2 + 4(4 - 3r) \cdot r + 5r^2 = 8\)
+
+\(16 - 24r + 9r^2 + 16r - 12r^2 + 5r^2 = 8\)
+
+\(2r^2 - 8r + 8 = 0 \ / : 2\)
+
+\(r^2 - 4r + 4 = 0\)
+
+\((r - 2)^2 = 0\)
+
+\(r = 2\)
+
+\(a_1 = 4 - 3 \cdot 2 = -2\)
+
+Odp. : \(a_1 = -2, \ r = 2\).
+
+Uwaga: układ równań można rozwiązać szybciej nie wymnażając nawiasów \((a_1 + r)^2\) i \((a_1 + 3r)^2\) w pierwszym równaniu. Rozwiążemy w ten sposób b).
+
+--- STRONA 2 ---
+b) 1️⃣ Rozwiązujemy układ równań i wyznaczamy aₙ i r.
+
+\[
+\begin{cases} 
+\frac{a₅}{a₁} = -1 \\
+a₂, \, a₃ = -1 
+\end{cases}
+\]
+
+\[
+\begin{cases} 
+\frac{a₂ + 4r}{aₙ} = -1 \, / a₁ \\
+(aₙ + r)(aₙ + 6r) = -1 
+\end{cases}
+\]
+
+\[
+\begin{cases} 
+a₂ + 4r = -a₁ \Rightarrow 2a₁ = -4r \Rightarrow a₁ = -2r \\
+(aₙ + r)(aₙ + 6r) = -1 
+\end{cases}
+\]
+
+\[
+(-2r + r)(-2r + 6r) = -1 
+\]
+
+\[
+(-r) \cdot 4r = -1 
+\]
+
+\[
+-4r^2 = -1 \Rightarrow r^2 = \frac{1}{4} 
+\]
+
+\[
+r = \frac{1}{2} \quad \text{lub} \quad r = -\frac{1}{2} 
+\]
+
+Dla \( r = \frac{1}{2} \): \( aₙ = -2 \cdot \frac{1}{2} = -1 \)
+
+Dla \( r = -\frac{1}{2} \): \( aₙ = -2 \cdot \left(-\frac{1}{2}\right) = 1 \)
+
+Odp.: 
+\[
+\begin{cases} 
+aₙ = -1 \\
+r = \frac{1}{2} 
+\end{cases}
+\quad \text{lub} \quad 
+\begin{cases} 
+aₙ = 1 \\
+r = -\frac{1}{2} 
+\end{cases}
+\]

@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Dwa walce mają taką samą wysokość. Promień podstawy jednego z nich jest o 50% większy od promienia podstawy drugiego. Oblicz stosunek objętości tych walców.
+
+1️⃣ sporządzamy rysunki pomocnicze
+
+(walec nr 1 rysunek) 
+walec nr 1
+H
+r
+
+(walec nr 2 rysunek)
+walec nr 2
+H
+R
+
+2️⃣ zapisujemy informacje z polecenia
+
+R = 1,5r  ❗
+czyli R to jest 150% długości r
+
+3️⃣ zapisujemy ze wzoru obie objętości i liczymy stosunek
+
+V₁ = πr²H
+
+V₂ = π(1,5r)²·H = 2,25πr²H
+
+V₂ / V₁ = 2,25πr²H / πr²H = 2,25 = 9/4
+
+odp: V₂ / V₁ = 9/4

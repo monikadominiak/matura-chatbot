@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zad.1 Podaj miarę kąta, jaki tworzy z osią x prosta dana równaniem ogólnym (przekształć najpierw równanie ogólne na równanie kierunkowe).
+
+a) x + y - 7 = 0  
+b) √3 x - 3y + 15 = 0  
+c) x - √3 = 0.  
+
+1) Przekształcamy równanie na kierunkowe i wyznaczamy kąt ze współczynnika kierunkowego:
+
+a) 
+\[ 
+x + y - 7 = 0 \\
+y = -x + 7 \\
+a = -1 \Rightarrow -1 = \operatorname{tg} \alpha \Rightarrow \alpha = 135^\circ \\
+\text{Odp. a) } \alpha = 135^\circ.
+\]
+
+b) 
+\[ 
+\sqrt{3} x - 3y + 15 = 0 \\
+3y = \sqrt{3} x + 15 \div 3 \\
+y = \frac{\sqrt{3}}{3} x + 5 \\
+a = \frac{\sqrt{3}}{3} \Rightarrow \frac{\sqrt{3}}{3} = \operatorname{tg} \alpha \Rightarrow \alpha = 30^\circ \\
+\text{Odp. b) } \alpha = 30^\circ.
+\]
+
+c) 
+\[ 
+x - \sqrt{3} = 0 \\
+x = \sqrt{3} \Rightarrow \alpha = 90^\circ 
+\]
+
+Prosta pionowa (brak postaci kierunkowej)  
+Tworzy z osią OX miarę kąta równą 90°.
+
+Odp. c) α = 90°.

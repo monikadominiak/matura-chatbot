@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Graniastosłup prawidłowy czworokątny przecięto płaszczyzną przechodzącą przez przekątną dolnej podstawy i jeden z wierzchołków górnej podstawy. Otrzymany przekrój jest trójkątem równoramiennym, którego ramiona tworzą kąt α taki, że cosα = \(\frac{1}{3}\). Pole podstawy tego graniastosłupa jest równe 32 cm². Oblicz jego objętość.
+
+\( \textcolor{deepskyblue}{\huge \textcircled{1}} \) sporządzamy rysunek pomocniczy i wprowadzamy oznaczenia
+
+\( \textcolor{deepskyblue}{\huge \textcircled{2}} \) wyznaczamy \( a \) korzystając z pola podstawy
+\[ P_p = 32 \, [\text{cm}^2] \]
+\[ 32 = a^2 \]
+\[ a = 4\sqrt{2} \, [\text{cm}] \]
+
+\( |DB| - \) przekątna kwadratu \( = 4\sqrt{2} \cdot \sqrt{2} = 8 \)
+
+\( \textcolor{limegreen}{\huge \textcircled{3}} \) wyznaczamy długość \( d \) z tw. cosinusów w \( \triangle BDC' \)
+\[ 8^2 = d^2 + d^2 - 2d^2 \cdot \cos\alpha  \quad \text{(z polecenia } \cos\alpha = \frac{1}{3}) \]
+\[ 64 = 2d^2 - 2d^2 \cdot \frac{1}{3} \]
+\[ 64 = \frac{4}{3}d^2 / \cdot \frac{3}{4} \]
+\[ d^2 = 48 \Rightarrow d = 4\sqrt{3} \]
+
+\( \textcolor{deepskyblue}{\huge \textcircled{4}} \) wyznaczamy wysokość \( H \) w \( \triangle BCC' \) 
+\[ H^2 = d^2 - a^2 \quad \text{(tw. Pitagorasa)} \]
+\[ H^2 = 48 - 32 = 16 \Rightarrow H = 4 \]
+
+\( \textcolor{limegreen}{\huge \textcircled{5}} \) wyznaczamy objętość graniastosłupa
+\[ V = P_p \cdot H = (4\sqrt{2})^2 \cdot 4 = 128 \, [\text{cm}^3] \]
+
+\(\textbf{Odp:} \ V = 128 \text{ cm}^3 \)

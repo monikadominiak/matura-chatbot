@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Zad.2 Wyznacz wektor jednostkowy równoległy do wektora \(\vec{u} = [1, 1]\).
+
+1\) Obliczamy długość wektora \(\vec{u}\):
+
+\[
+|\vec{u}| = \sqrt{u_x^2 + u_y^2} = \sqrt{2}
+\]
+
+2\) Wyznaczamy wektor jednostkowy \(\vec{v}\):
+
+\[
+\vec{v} = \frac{1}{|\vec{u}|} \cdot \vec{u}
+\]
+
+\[
+\vec{c} = \frac{1}{|\vec{u}|} = \frac{1}{\sqrt{2}} = \frac{\sqrt{2}}{2}
+\]
+
+\[
+\vec{v_1} = \frac{\sqrt{2}}{2} [1, 1] = [\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}] \quad , \quad \vec{v_2} = -\frac{\sqrt{2}}{2} [1, 1] = [-\frac{\sqrt{2}}{2}, -\frac{\sqrt{2}}{2}]
+\]
+
+Długość obu wektorów jest równa 1, więc istnieją 2 przypadki dla wektora równoległego - w tym samym kierunku i w przeciwnym.
+
+Odp. \(\vec{v_1} = [\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}]\) oraz \(\vec{v_2} = [-\frac{\sqrt{2}}{2}, -\frac{\sqrt{2}}{2}]\).
+
+Aby znaleźć wektor jednostkowy równoległy do \(\vec{u}\), należy podzielić go przez jego długość.
+
+UNAGA! W zadaniu znamy tylko współrzędne wektorów. Wówczas przy tworzeniu interpretacji w układzie współrzędnych, umownie przyjmuje się punkt zaczepienia wektorów jako punkt (0,0).
+
+Szanse jednak na pojawienie się zadania wymagającego taki rysunek jest niska. (Tutaj również nie jest on wymagany, a jedynie poglądowy).

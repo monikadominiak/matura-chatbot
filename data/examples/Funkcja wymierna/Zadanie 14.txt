@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Zadanie 14
+
+Rozwiąż równanie: \(\frac{x-1}{x+2} + \frac{2}{x} = \frac{4}{x^2+2x}\)
+
+\((\circled{1})\) Wyznaczamy dziedzinę równania.
+
+\(D: x+2 \neq 0 \ \land \ x \neq 0 \ \land \ x^2+2x \neq 0\)
+\[x \neq -2 \quad x(x+2) \neq 0\]
+\[x \neq 0 \quad x+2 \neq 0 \]
+\[x \neq -2\]
+
+\(D = \mathbb{R} \setminus \{-2,0\}\)
+
+\((\circled{2})\) Rozwiązujemy równanie.
+
+\(\frac{x-1}{x+2} + \frac{2}{x} = \frac{4}{x^2+2x}\)
+
+\(\frac{(x-1) \cdot x}{(x+2) \cdot x} + \frac{2 \cdot (x+2)}{x \cdot (x+2)} = \frac{4}{x \cdot (x+2)}\)
+
+\(\frac{x^2-x + 2x+4 - 4}{x \cdot (x+2)} = 0\)
+
+\[x^2+x = 0\]
+
+\[x(x+1) = 0\]
+
+\[x=0 \notin D\]
+
+\[x = -1 \in D\]
+
+Odp.: \(x = -1\).

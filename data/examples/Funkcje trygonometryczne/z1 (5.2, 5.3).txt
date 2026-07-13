@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+z1 (5.2, 5.3)  
+Rozwiąż równanie cos 2x + 2 cos x + 1 = 0.
+
+Należy użyć któregoś ze wzorów na funkcje podwojonego kąta.  
+Trzeba wybrać taki wzór, aby w równaniu zostało tylko jedna funkcja, zwykle sinus lub cosinus.
+
+① Korzystamy ze wzoru na cosinus podwojonego kąta.
+
+cos 2x = 2cos^2x - 1
+
+(2cos^2x - 1) + 2cos x + 1 = 0  
+2cos^2x + 2cos x = 0
+
+② Wyłączamy wspólny czynnik przed nawias.
+
+2cos x (cos x + 1) = 0
+
+③ Rozwiązujemy równania
+
+cos x = 0   v   cos x + 1 = 0
+
+x = π/2 + kπ       cos x = -1  
+x = π + 2kπ          ,     k ∈ ℤ
+
+Odp.: x = π/2 + kπ ,   x = π + 2kπ ,   k ∈ ℤ.

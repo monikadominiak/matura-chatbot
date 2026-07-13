@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zad.2 Przed startem w biegu maratońskim Piotr oszacował, że potrzebuje 5 godzin na pokonanie dystansu 42,195 km, ale biegł o 17 minut dłużej. Czy błąd względny, jaki popełnił przy planowaniu czasu przekroczył 5%?
+
+1) Podstawiamy dane do wzoru na błąd względny i podejmujemy odpowiedź:
+
+x = 5h 17 min = 5 \frac{17}{60} h = \frac{317}{60} h
+
+a = 5h
+
+|x-a|=|5 \frac{17}{60} - 5|=\frac{17}{60}
+
+BW = \frac{|x-a|}{|x|} \cdot 100\% = \frac{\frac{17}{60}}{\frac{317}{60}} \cdot 100\% \approx 5,36\%
+
+5,36\% > 5\%
+
+Odp. Tak.

@@ -1,0 +1,56 @@
+
+--- STRONA 1 ---
+zZ (2.2)
+
+Wyznacz te wartości parametru m, dla których równanie
+x^2 + mx + m = 0 ma dwa różne pierwiastki takie, że ich iloczyn jest
+mniejszy od 6.
+
+x^2 + mx + m = 0
+
+a = 1
+b = m
+c = m
+
+① Zapisanie warunków wynikających z treści zadania
+
+1° Δ > 0       dwa różne rozwiązania, nie
+                bierzemy pod uwagę podwójnych
+                miejsc zerowych
+
+2° x_1 * x_2 < 6
+
+② Rozwiązanie pierwszego z warunków
+
+1° Δ > 0
+
+Δ = b^2 - 4*a*c
+
+m^2 - 4*1*m > 0
+m^2 - 4m > 0
+m(m - 4) > 0
+
+m = 0
+m - 4 = 0
+m = 4
+
+m ∈ (-∞;0) ∪ (4;∞)
+
+③ Rozwiązanie drugiego z warunków
+
+2° x_1 * x_2 < 6
+
+korzystamy ze wzorów Viète'a:
+x_1 * x_2 = c/a
+
+m/1 < 6
+m < 6
+
+④ Wyznaczenie części wspólnej rozwiązań obu warunków
+
+1° m ∈ (-∞;0) ∪ (4;∞)
+2° m < 6
+
+Zatem m ∈ (-∞;0) ∪ (4;6)
+
+Odp: m ∈ (-∞;0) ∪ (4;6).

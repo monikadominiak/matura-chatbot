@@ -1,0 +1,11 @@
+
+--- STRONA 1 ---
+Zadanie 27
+
+Oblicz granicę lim_{n \to \infty} \frac{2^n + 7 \cdot 3^{n-1} - 1}{2^n + 2 \cdot 3^n}.
+
+1️⃣ Obliczamy granicę.
+
+lim_{n \to \infty} \frac{2^n + 7 \cdot 3^{n-1}}{2^n + 2 \cdot 3^n} = lim_{n \to \infty} \frac{2^n + 7 \cdot \frac{3^n}{3}}{2^n + 2 \cdot 3^n} = lim_{n \to \infty} \frac{\frac{2^n}{3^n} + \frac{7}{3}}{\frac{2^n}{3^n} + 2} = \frac{7}{3 \cdot 2} = \frac{7}{6}.
+
+Odp: \lim_{n \to \infty} \frac{2^n + 7 \cdot 3^{n-1}}{2^n + 2 \cdot 3^n} = \frac{7}{6}.

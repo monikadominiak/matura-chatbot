@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0-1)
+Wszystkich liczb naturalnych trzycyfrowych, większych od 700, w których każda cyfra należy
+do zbioru {1, 2, 3, 7, 8, 9} i żadna cyfra się nie powtarza, jest
+A. 108
+B. 60
+C. 40
+D. 299
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

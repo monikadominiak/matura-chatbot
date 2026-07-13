@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Sześć osób, które oznaczymy literami A, B, C, D, E, F, ma zająć 6 kolejnych miejsc w jednym rzędzie w kinie. Na ile sposobów mogą one usiąść tak, aby:
+a) osoby D, E siedziały obok siebie w podanym porządku
+b) osoby A, B, C, D siedziały obok siebie w podanym porządku
+c) osoby A, B, C siedziały obok siebie w dowolnym porządku
+d) między osobami A i B siedziały dwie osoby
+
+sześć osób: A, B, C, D, E, F
+
+① a) D, E obok siebie (nie E, D)
+
+D E _ _ _ _  
+5 możliwości dla D, E
+
+5 · 4! = 120  
+(pozostali)
+
+② b) A, B, C, D obok siebie (w podanym porządku)
+
+A B C D _ _  
+3 możliwości dla A, B, C, D
+
+3 · 2! = 6
+
+③ c) A, B, C obok siebie (w dowolnym porządku)
+
+A B C _ _ _  
+4 możliwości dla A, B, C (w tej kolejności)
+
+4 · 3! · 3! = 144  
+(pozostali)  
+możliwe różne układy A, B, C
+
+④ d) dwie osoby między A, B
+
+A _ _ B _ _  
+3 możliwości dla A, B (w tej kolejności)
+
+3 · 2! · 4! = 144  
+(pozostali)  
+kolejność: A, B lub B, A
+
+Odp: a) 120 , b) 6 , c) 144 , d) 144

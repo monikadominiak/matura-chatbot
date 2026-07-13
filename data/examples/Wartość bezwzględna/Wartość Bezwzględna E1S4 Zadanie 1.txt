@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zad.1 Wyznacz wartość parametru k, dla których równanie x - |4 - 2x| = 2k ma dwa rozwiązania różnych znaków.
+
+1) Rysujemy wykres dla prawej strony równania:
+
+x - |4 - 2x| = 2k
+f(x) = x - |4 - 2x| = 
+
+f(x) = x - |4 - 2x| = 
+\[
+\begin{cases} 
+x - (4 - 2x)=3x-4 \quad \text{dla} \quad 4-2x \ge 0 \\
+x - (-4 + 2x)=x+4 \quad \text{dla} \quad 4-2x < 0 
+\end{cases}
+\]
+
+f_1(x) = 3x-4 \quad \Rightarrow \quad  f_1(2)=3*2-4=2.
+f_2(x) = x+4 \quad \Rightarrow \quad  f_2(2)=2+4=6.
+
+f_1(2) \ne  f_2(2) \Rightarrow \ \text{ funkcja } f(x) \text{ nie jest ciagła w } x=2.
+
+Aby określić liczbę rozwiązań równania w zależności od parametru, można to zrobić graficznie, o ile jesteśmy w stanie narysować wykresy obu stron równania i o ile parametr k oraz zmienna x są odsperarowane po osobnych stronach równania.
+
+W tym zadaniu należy posłużyć się rozbiciem wzoru funkcji na 2 przypadki z definicji wartości bezwzględnej, pominąć nierówności, w związku z tym wzorem możemy uzyskać wzór funkcji bezwzględnej, jak i poza nią, co uniemożliwia skorzystanie z przekształceń f(x) lub |f(x)|.
+
+2) Wyznaczamy parametri k sposobem graficznym:
+
+Patrząc na wykres f(x) nalezy teraz odpowiednio dobrać wysokość prostej poziomej y=2k, w taki sposób, aby przecinało się z wykresem f(x) w dwóch punktach, których pierwsze współrzędne są różnych znaków, czyli jeden punkt ma współrzędną ujemną, a drugi dodatnią.
+
+Poglądowo narysowano dwie proste: y=2k. Zielona nie spełnina warunków zadania, miłbieska spełnia. Można zauważyć, że warunki spełnia każda prosta leżąca poniżej wartości równej -4.
+
+2k < -4 \quad \Rightarrow \quad  k < -2
+ 
+Odp. k < -2.

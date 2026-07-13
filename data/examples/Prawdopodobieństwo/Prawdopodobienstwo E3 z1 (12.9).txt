@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Zdarzenia A i B są podzbiorami zbioru zdarzeń elementarnych Ω pewnego doświadczenia losowego. Oblicz prawdopodobieństwo zdarzenia A' ∩ B, jeżeli prawdopodobieństwo zdarzeń A i A ∪ B są równe odpowiednio 0,3 i 0,9.
+
+① DANE:
+{\( 
+\begin{align*}
+P(A) &= 0,3 \\
+P(A \cup B) &= 0,9 \\
+\end{align*} 
+\)}
+DO OBLICZENIA:
+\( P(A' \cap B) \)
+
+② czym jest \( P(A' \cap B) \) ?
+
+\[ 
+P(A' \cap B) = P(B) - P(A \cap B) \quad \underline{P(B - A)} 
+\]
+\[ 
+= \underline{P(A \cup B) - P(A)} 
+\]
+
+* można wywnioskować z diagramu lub wyprowadzić
+
+ze wzoru \( P(A \cup B) = P(A) + P(B) - P(A \cap B) \)
+
+⇒ \( P(A \cup B) - P(A) = P(B) - P(A \cap B) \)
+
+③ podstawiamy dane
+
+\( 
+\begin{align*}
+&= 0,9 - 0,3 = 0,6 \\
+\end{align*}
+\)
+
+odp: 0,6

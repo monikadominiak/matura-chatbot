@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zad.1 Sprawdź, czy okrąg o średnicy AB jest symetryczny do okręgu o średnicy CD względem osi OX lub osi OY, jeżeli: A = (-4, -6), B = (2, 2), C = (3, 5), D = (-5, -1).
+
+1) Wyznaczamy środki okręgów i porównujemy ich współrzędne:
+
+A(-4,-6) B(2,2)
+
+S_1(\frac{-4+2}{2}, \frac{-6+2}{2})
+
+S_1(-1,-2)
+
+C(3,5) D(-5,-1)
+
+S_2(\frac{3-5}{2}, \frac{5-1}{2})
+
+S_2(-1,2)
+
+x_{S_1} = x_{S_2}
+
+y_{S_1} = -y_{S_2}
+
+Aby okręgi były symetryczne względem którejś z osi układu współrzędnych, to muszą mieć równe promienie, a współrzędne środka powiązane ze sobą, w zależności od tego, o którą oś chodzi:
+
+→ symetria względem osi x: S_1(x,y) i S_2(x,-y)
+
+→ symetria względem osi y: S_1(x,y) i S_2(-x,y)
+
+2) Wyznaczamy długości średnic okręgów i je porównujemy:
+
+|AB|= \sqrt{(-4-2)^2+(-6-2)^2} = 10
+
+|CD|= \sqrt{(3-(-5))^2+(5-(-1))^2} = 10
+
+|AB|=|CD|
+
+Odp. Symetryczne względem osi OX.

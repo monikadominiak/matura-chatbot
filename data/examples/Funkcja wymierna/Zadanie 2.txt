@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Zadanie 2
+
+Wykres funkcji \(f(x) = \frac{a}{x}, x \neq 0 \i a \neq 0\), przesunięto o wektor \(\vec{w} = [-3,2]\) i otrzymano wykres funkcji \(g\). Do wykresu funkcji \(g\) należy punkt \(A = (-4,6)\). Oblicz współczynnik \(a\) oraz rozwiąż nierówność \(g(x) < 4\).
+
+1️⃣ Przesuwamy wykres funkcji \(f(x)\) o wektor \(\vec{w} = [-3,2]\).
+
+\(f(x) = \frac{a}{x} \quad \overset{\vec{w} = [-3,2]}{\longrightarrow} \quad g(x) = \frac{a}{x-(-3)} + 2\).
+
+\(g(x) = \frac{a}{x+3} + 2\)
+
+2️⃣ Obliczamy \(a\) podstawiając punkt \(A=(-4,6)\) do funkcji \(g(x)\).
+
+\(6 = \frac{a}{-4+3} + 2\)
+
+\(6 = -a + 2\)
+
+\(a = -4\)
+
+3️⃣ Rozwiązujemy nierówność \(g(x) < 4\).
+
+\[
+\frac{-4}{x+3} + 2 < 4
+\]
+
+\[
+\frac{-4}{x+3} < 2 \quad / \cdot (x+3)^2 , x \neq -3
+\]
+
+\[
+-4(x+3) < 2(x+3)^2
+\]
+
+\[
+-4x-12 < 2x^2 + 12x + 18
+\]
+
+\[
+2x^2 + 16x + 30 > 0
+\]
+
+\[
+x^2 + 8x + 15 > 0
+\]
+
+\[
+\Delta = 64-60 = 4
+\]
+
+\[
+x_1 = \frac{-8-2}{2} = -5, \quad x_2 = \frac{-8+2}{2} = -3
+\]
+
+\[ 
+x \in (-\infty, -5) \cup (-3, +\infty)
+\]
+
+Odp.: Współczynnik \(a = -4\), rozwiązaniem \(g(x)<4\) jest \(x \in (-\infty,-5) \cup (-3,+\infty)\).

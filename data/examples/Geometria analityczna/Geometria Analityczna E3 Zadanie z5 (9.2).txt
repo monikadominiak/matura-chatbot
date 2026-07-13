@@ -1,0 +1,92 @@
+
+--- STRONA 1 ---
+Zadanie z5 (9.2) Podstawa AB trójkąta równoramiennego ABC zawarta jest w prostej x + y + 1 = 0. Ramię BC zawiera się w prostej 2x - y - 1 = 0. Wyznacz równanie prostej k zawierającej ramię AC wiedząc, że punkt P = (-4, 0) należy do prostej k.
+
+1) Tworzymy rysunek pomocniczy.
+
+Skoro wiemy, że do szukanej prostej należy punkt P(-4,0), wyznaczymy równanie prostej przechodzącej przez P i równoległej do prostej zawierającej AB (na pr. PQ) i znajdziemy jej punkt przecięcia z prostą zawierającą się z koleją w bij wersacie, dla tak znalezionego odcinka (na pr. PQ) wyznaczy jego środek (czyli t + i) i posłużymy się punktem przecięcia z prostą zawierającą BC (dale znalezyny punkt C).
+
+2) Wyznaczamy równanie prostej równoległej do pr. AB oraz przechodzącej przez punkt P.
+
+pr. PQ : y=x+4
+pr.PQ || pr. AB <=> a(AB)=a(PQ)
+
+a(pq)=a -> a=a+0= -1
+pr.PQ=x=b
+P(-4,0) należy do pr. PQ: w = -2, c = b
+
+0 = (-x-b)+4
+b = -4
+
+pr.PQ: y=x-4
+
+3) Wyznaczamy punkt przecięcia prostej PQ z prostą B a następny środek odcinka PQ:
+
+{ y=x-4
+{ 2x-y-1=0
+
+{ y=x-4  
+{ 2x-(x-4)+1=0
+
+{ y=x-4
+{ 3x-3=0
+
+{ x=4 
+{ y=3  => Q(-4,3)
+
+(Q=(x_3+y_3)/2) => S(Q)=(x_3+y_3)
+
+S(Q)=(-6/8)
+
+4) Wyznaczamy równanie prostej prostopadłej do PQ, przechodzącej przez środek odcinka PQ (wykreśla odwiedza PQ).
+
+k: y=x+a+b
+
+k || pr.PQ <=> a(PQ)+(-2)(x+a) <=> 
+
+-2x-a+(-3)x  
+a=-6  
+
+k: y=-x+a+b
+
+S(Q)(-x_2/2) => k <=>
+
+b= -4  
+
+k: y=x+4
+
+5) Wyznaczamy punkt C (punkt przecięcia prostej k z prostą zawierającą BC):
+
+{ y=x+4  
+{ 2x-y-1=0
+
+{ y=x+4
+{ 2x-x-4+1=0
+
+{ y=3
+{ x=2   => C(2,3)
+
+6) Wyznaczamy równanie prostej zawierającej bok AC:
+
+pr. AC: y= ax+b
+
+P(-4,0) należy do pr. AC <=> 0 = -6x+4b  
+
+C(2,3) należy do pr. AC <=> 3=2a+6b
+
+3=2a+6
+0=-4a+6b
+
+{ 3=2a+4b
+{ 6=4a+2b
+
+3=2a+4b
+
+{ a=-2  
+{ b=2  
+
+pr.AC: y=2x=4
+
+pr.AC: x-2y+4=0
+
+Odp. pr.AC: x-2y+4=0.

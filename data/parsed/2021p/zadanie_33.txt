@@ -1,0 +1,12 @@
+=== ARKUSZ: 2021p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0-2)
+Trójkąt równoboczny ABC ma pole równe 9$sqrt{3}$. Prosta równoległa do boku BC przecina
+boki AB i AC – odpowiednio – w punktach K i L. Trójkąty ABC i AKL są podobne,
+a stosunek długości boków tych trójkątów jest równy $frac{3}{2}$.
+Oblicz długość boku trójkąta AKL.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

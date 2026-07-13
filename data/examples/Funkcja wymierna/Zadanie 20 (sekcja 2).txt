@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Zadanie 20
+
+Punkt \( A = (2,1) \) należy do wykresu funkcji \( f(x) = \log_2(x+k)+m \). Dziedziną funkcji \( f \) jest przedział \( (-2; \infty) \). Wyznacz \( k \) i \( m \) oraz znajdź zbiór tych argumentów, dla których funkcja ta przyjmuje wartości dodatnie.
+
+⒈ Wyznaczymy \( k \) wykorzystując dziedzinę.
+
+\[ D: \quad x+k>0 \]
+
+\[ x > -k \]
+
+\[ -k = -2 \]
+
+\[ k = 2 \]
+
+⒉ Podstawiamy punkt \( A \) aby wyznaczyć \( m \).
+
+\[ 1 = \log_2(2+2)+m \]
+
+\[ 1 = 2 + m \]
+
+\[ m = -1 \]
+
+\[ f(x) = \log_2(x+2)-1 \]
+
+⒊ Rozwiązujemy nierówność \( f(x) > 0 \).
+
+\[ \log_2(x+2)-1 > 0 \]
+
+\[ \log_2(x+2) > \log_2 2 \]
+
+\[ x+2 > 2 \]
+
+\[ x > 0 \]
+
+Odp.: \( k=2, \, m=-1, \, x \in (0, +\infty) \).

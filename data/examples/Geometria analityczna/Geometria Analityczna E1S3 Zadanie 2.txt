@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+Zad.2 Napisz wzór prostej, która jest prostopadła do prostej k i przechodzi przez punkt A, jeśli:
+
+a) k: y = 3/2 x + 3 A(-8, 3) b) k: y = -2x + 5 A(-1/2, 4) c) k: y = 1/8 x - 1 A(8/3, 2/3)
+
+1) Wyznaczmy współczynnik kierunkowy z definicji prostej prostopadłej:
+
+a) k: y = 3/2 x
+m = -1/a1 = -1/(3/2) = -2/3
+klm ca a1 * a2 = -1 a2 = -2/3
+
+b) k: y = -2x + 5
+m = -1/a1 = -1/(-2) = 1/2
+klm ca a1 * a2 = -1 a2 = 1/2
+
+c) k: y = 1/8 x - 1
+m = -1/a1 = -1/(1/8) = -8
+klm ca a1 * a2 = -1 a2 = -8
+
+2) Podstawiamy punkt A i wyznaczamy wyraz wolny.
+
+a) m: y = -3/2 x + b
+A(-8, 3) => y = -3/2 * x + b <=> 3 = -3/2 * (-8) + b
+3 = 12 + b
+b = 3 - 12
+b = -9
+Odp. a) y = -3/2 x - 9.
+
+b) m: y = 1/2 x + b
+A(-1/2, 4) => y = 1/2 * x + b <=> 4 = 1/2*(-1/2) + b
+4 = -1/4 + b
+b = 4 + 1/4
+b = 17/4
+Odp. b) y = 1/2 x + 17/4.
+
+c) m: y = -8x + b
+A(8/3, 2/3) => y = -8x + b <=> 2/3 = -8 * (8/3) + b
+2/3 = -64/3 + b
+b = 2/3 + 64/3
+b = 66/3 = 22
+Odp. c) y = -8x + 22.

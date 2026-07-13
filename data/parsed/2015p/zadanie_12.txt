@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12. (0-1)
+Ile liczb całkowitych x spełnia nierówność 2/7 &lt; x/14 = 1, spełniony jest warunek a_4 = 3a_1. Iloraz q tego ciągu jest równy
+A. q = 1/3
+B. q = 1/(pierwiastek sześcienny z 3)
+C. q = pierwiastek sześcienny z 3
+D. q = 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 12. (0-1)  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą (3.3).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D

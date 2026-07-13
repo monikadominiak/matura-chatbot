@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Rozwiąż nierówność: \(\binom{5}{n} \binom{n}{2} > \frac{2}{3}\)
+
+① rozpisujemy wyrażenie według wzoru:
+\[
+\frac{\frac{5!}{2!3!}\cdot\frac{n!}{2!(n-2)!}}{n!}
+\]
+\[
+\frac{2! \cdot 3!}{n! \cdot (n-2)!}
+\]
+\(> \frac{2}{3}\)
+
+\[
+\binom{n}{k} = \frac{n!}{k!(n-k)!}
+\]
+
+② rozwiązujemy nierówność
+
+\[
+\frac{10 \cdot 2 \cdot (n-2)!}{n! \cdot 2!(n-2)! \cdot n}
+\]
+\(> \frac{2}{3}\)
+
+skracamy wiedząc, że: 
+\(n! = 1 \cdot 2 \cdot \ldots \cdot (n-2) \cdot (n-1) \cdot n\)
+\((n-2)!\)
+
+\(\frac{20}{n(n-1)} > \frac{2}{3}\)
+
+\(n \neq 0, n \neq 1\)
+
+\(\frac{60 - 2n(n-1)}{3n(n-1)} > 0 / \cdot 3\)
+
+③ doprowadzamy do postaci iloczynowej
+
+\[
+\frac{60 - 2n^2 + 2n}{n(n-1)} > 0
+\]
+
+\(-2n(n^2 - n - 30)(n-1) > 0\)
+
+\(\Delta = 121 \sqrt{\Delta} = 11\)
+
+\(n_1 = \frac{1 - 11}{2} = -5 \quad n_2 = \frac{1 + 11}{2} = 6\)
+
+\(-2n(n+5)(n-6)(n-1) > 1\)
+
+\(n \in (-5,0) \cup (1,6) \quad i \quad z \quad def. \quad n \in \mathbb{N}_+\)
+
+odp: \(n \in \{2,3,4,5\}\)

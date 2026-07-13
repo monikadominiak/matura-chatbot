@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Zadanie 11 [4pkt] – TYP 3.3  
+Rozwiąż równanie: (x^2 + 4x - 5)(2x^2 + 9x - 35) = 0  
+
+(x^2 + 4x - 5)(2x^2 + 9x - 35) = 0  
+
+x^2 + 4x - 5 = 0  
+2x^2 + 9x - 35 = 0  
+
+Δ = b^2 - 4·a·c  
+
+x_1 = \frac{-b-\sqrt{\Delta}}{2a}  
+x_2 = \frac{-b+\sqrt{\Delta}}{2a}  
+
+Δ_1 = 16 + 20 = 36  
+\sqrt{\Delta_1} = 6  
+
+x_1 = \frac{-4-6}{2} = -5  
+x_2 = \frac{-4+6}{2} = 1  
+
+Δ_2 = 81 + 280 = 361  
+\sqrt{\Delta_2} = 19  
+
+x_3 = \frac{-9-19}{4} = -7  
+x_4 = \frac{-9+19}{4} = 2,5  
+
+Odp: x ∈ {-7, -5, 1, 2 \frac{1}{2}}.

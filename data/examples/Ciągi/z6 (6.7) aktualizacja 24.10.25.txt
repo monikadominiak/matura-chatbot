@@ -1,0 +1,104 @@
+
+--- STRONA 1 ---
+z6 (6.7)
+
+Liczby x_1 i x_2 są pierwiastkami równania x^2 - 3x + A = 0, a liczby x_3 i x_4 pierwiastkami równania x^2 - 12x + B = 0. Wiadomo, że liczby x_1, x_2, x_3, x_4 tworzą ciąg geometryczny. Znajdź A i B.
+
+1️⃣ Korzystamy ze wzoru Viète'a.
+
+| x_1 + x_2 = 3  
+| x_1 x_2 = A  
+| x_3 + x_4 = 12  
+| x_3 x_4 = B  
+
+Można by wykorzystać fakt, że śród 3 kolejnych wyrazów ciągu geometrycznego kwadrat środkowego jest równy iloczynowi sąsiednich, ale po dopisaniu takich dwóch równań: 
+x'_3 = x_1 x_3; x'_3 = x_2 x_4 powstałby układ aż 6 równań z 6 niewiadomymi.
+
+Zamiast tego wygodniej będzie rozpisać każdy wyraz przy pomocy a_1 oraz q.
+
+| x_1 + x_1 q = 3   (1)
+| x_1^2 q = A       (2)
+| x_1 q^2 (1 + q) = 12   (3)
+| x_1 q^2 x_1 q^3 = B     (4)
+
+| x_1 (1 + q) = 3     (1)
+| x_1^2 q = A        (2)
+| x_1 q^2 (1 + q) = 12  (3)
+| x_1^2 q^5 = B      (4)
+
+Będziemy dzielić równanie 3 przez 1 i 4 przez 2, gdyż w jednym przypadku dzielimy liczbę przez liczbę, a w drugim literę przez literę, więc łatwiej się wszystko upraszcza.
+
+--- STRONA 2 ---
+(2) Rozwiązujemy układ równań.
+
+Z dzielenia (3) przez (1) mamy:
+
+\[
+\frac{x_1q^2(1+q)}{x_1(1+q)} = \frac{12}{3}
+\]
+
+\[ 
+q^2 = 4 
+\]
+
+\[
+q = 2 \quad \vee \quad q = -2 
+\]
+
+Z dzielenia (4) przez (2) mamy:
+
+\[
+\frac{x_1^2q^5}{x_1^2q} = \frac{B}{A}
+\]
+
+\[
+q^4 = \frac{B}{A}
+\]
+
+\[
+16 = \frac{B}{A} \quad (*)
+\]
+
+Należy rozważyć oba przypadki ze względu na wartość \( q \).
+
+Dla \( q = 2 \):
+
+z (1): \quad \( x_1 (1+2) = 3 \quad \Rightarrow \quad x_1 = 1 \)
+
+z (2): \quad \( 1^2 \cdot 2 = A \quad \Rightarrow \quad A = 2 \)
+
+z (3): \quad \( 16 = \frac{B}{2} \quad \Rightarrow \quad B = 32 \)
+
+Dla \( q = -2 \):
+
+z (1): \quad \( x_1 (1+(-2)) = 3 \quad \Rightarrow \quad x_1 = -3 \)
+
+z (2): \quad \( (-3)^2 \cdot (-2) = A \quad \Rightarrow \quad A = -18 \)
+
+z (3): \quad \( 16 = \frac{B}{-18} \quad \Rightarrow \quad B = -288 \)
+
+Ostatecznie:
+
+\[
+\begin{cases} 
+A = 2 \\ 
+B = 32 
+\end{cases}
+\quad \vee \quad 
+\begin{cases} 
+A = -18 \\ 
+B = -288 
+\end{cases}
+\]
+
+Odp.: \quad 
+\(\begin{matrix}
+\begin{cases}
+A = 2 \\
+B = 32 
+\end{cases} \quad \text{lub} \quad
+\begin{cases}
+A = -18 \\
+B = -288
+\end{cases}
+\end{matrix}\)

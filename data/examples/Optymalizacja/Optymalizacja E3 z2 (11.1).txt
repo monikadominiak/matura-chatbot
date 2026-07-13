@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Oblicz wartość pochodnej funkcji \( f(x) = \frac{x}{x^2-8} \) w punkcie \( x_0 = \sqrt{2} \).
+
+\( f(x) = \frac{x}{x^2-8} , \quad D: x^2-8 \neq 0 \Rightarrow x \in \mathbb{R} - \{ -2\sqrt{2}, 2\sqrt{2} \} \)
+
+\[ \left[ \frac{f(x)}{g(x)} \right]' = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2} \]
+
+1️⃣ wyznaczamy pochodną funkcji \( f \)
+
+\( f'(x) = \frac{1 \cdot (x^2-8) - 2x \cdot x}{(x^2-8)^2} = \frac{x^2-8-2x^2}{(x^2-8)^2} = \)
+
+\[ = \frac{-x^2-8}{(x^2-8)^2} \]
+
+2️⃣ podstawiamy \( x_0 = \sqrt{2} \)
+
+\( f'(\sqrt{2}) = \frac{-(\sqrt{2})^2 - 8}{((\sqrt{2})^2 - 8)^2} = \frac{-2-8}{(2-8)^2} = \frac{-10}{36} = -\frac{5}{18} \)
+
+odp: \( f'(\sqrt{2}) = -\frac{5}{18} \)

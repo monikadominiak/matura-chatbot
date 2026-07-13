@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Zadanie 19 [4pkt]- TYP 2.6  
+Dla jakich wartości parametru m dana nierówność  
+x^2 + (m + 1)x + 3m + 3 > 0 jest spełniona przez każdą liczbę rzeczywistą?
+
+x^2 + (m+1)x + 3m + 3 > 0
+
+Ze względu na to, że współczynnik przy x^2 jest większy od zera, nasza funkcja f (x) będzie mieć ramiona skierowane ku górze.
+
+Nierówność ma być spełniona przez każdą liczbę rzeczywistą i dlatego nie chcemy mieć żadnych pierwiastków tej nierówności.
+
+Δ < 0     Δ = b^2 - 4ac  
+
+(a±b)^2 = a^2±2ab±b^2
+
+(m+1)^2 - 4⋅1⋅(3m+3) < 0
+
+m^2 + 2m + 1 - 12m - 12 < 0  
+m^2 - 10m - 11 < 0
+
+Δ_m = (-10)^2 - 4⋅1⋅(-11) = 100 + 44 = 144  
+√Δ_m = 12
+
+x_1 = \frac{-b-\sqrt{Δ}}{2a}
+
+x_2 = \frac{-b+\sqrt{Δ}}{2a}
+
+m_1 = \frac{-(-10)-12}{2⋅1} = \frac{-2}{2} = -1
+
+m_2 = \frac{-(-10)+12}{2⋅1} = \frac{22}{2} = 11
+
+m ∈ (-1; 11)
+
+Odp: m ∈ (-1; 11).

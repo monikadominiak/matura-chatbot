@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie 22
+
+Rozwiąż nierówność tgx ≥ tg\(\frac{7\pi}{6}\), gdy x ∈ [−π, 2π].
+
+① Obliczamy tg \(\frac{7\pi}{6}\).
+
+tg \(\frac{7\pi}{6}\) = tg(π + \(\frac{\pi}{6}\)) = tg \(\frac{\pi}{6}\) = \(\frac{\sqrt{3}}{3}\)
+
+tgx ≥ \(\frac{\sqrt{3}}{3}\)
+
+② Szkicujemy wykres tgx,
+
+x ≠ \(\frac{\pi}{2}\) + kπ, k ∈ \(\mathbb{Z}\)
+
+③ Odczytujemy rozwiązanie z wykresu.
+
+x ∈ [−\(\frac{5\pi}{6}\), −\(\frac{\pi}{2}\)) ∪ [\(\frac{\pi}{6}\), \(\frac{\pi}{2}\)) ∪ [\(\frac{7\pi}{6}\), \(\frac{3\pi}{2}\))
+
+Odp: x ∈ [−\(\frac{5\pi}{6}\), −\(\frac{\pi}{2}\)) ∪ [\(\frac{\pi}{6}\), \(\frac{\pi}{2}\)) ∪ [\(\frac{7\pi}{6}\), \(\frac{3\pi}{2}\)).

@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) określona jest wzorem \( f(x) = \frac{x^2+ax+a}{x^2+5x+6} \), gdzie \( a \) jest liczbą Znajdź miejsca zerowe funkcji \( f \) wiedząc, że istnieje granica \( \lim_{x \to -3} f(x) \).
+
+\[ f(x) = \frac{x^2+ax+a}{x^2+5x+6} \]
+
+\[
+\lim_{x \to -3} f(x) - \text{istnieje}
+\]
+
+\(\circled{1}\) wstawiamy -3 do mianownika
+
+\( M(x) = x^2 + 5x + 6 \)
+
+\( M(-3) = 9 - 15 + 6 = 0 \)
+
+\(\circled{2}\) aby granica w punkcie -3 istniała to musi być również pierwiastkiem licznika
+
+\( L(x) = x^2 + ax + a \)
+
+\( L(-3) = 0 \Rightarrow 9 - 3a + a = 0 \)
+
+\[
+-2a = -9 \\
+a = \frac{9}{2}
+\]
+
+\( L(x) = x^2 + \frac{9}{2}x + \frac{9}{2} \)
+
+\(\circled{3}\) szukamy drugiego miejsca zerowego
+
+\( x^2 + \frac{9}{2}x + \frac{9}{2} = 0 / \cdot 2 \)
+
+\( 2x^2 + 9x + 9 = 0 \)
+
+I sposób:
+
+znamy już -3, więc
+
+\( 2x^2 + 9x + 9 \) można rozpisać jako: \( (x+3)(\circled{1} \quad \circled{2}) \), z tej równości wynika, że:
+
+\[
+\begin{cases} 
+x \cdot \circled{1} = 2x^2 & \Rightarrow \circled{1} = 2x \\
+3 \cdot \circled{2} = 9 & \Rightarrow \circled{2} = 3
+\end{cases}
+\]
+
+\( 2x^2 + 9x + 9 = (x+3)(2x+3) = 0 \)
+
+\( x = -3 \lor x = -\frac{3}{2} \)
+
+\( \text{(spr.: x}\cdot 3 + 3\cdot 2x = 9x) \)
+
+II sposób:
+
+\( \Delta = 9^2 - 4 \cdot 2 \cdot 9 = 9 \, , \sqrt{\Delta} = 3 \)
+
+\[
+x_1 = \frac{-9 - 3}{4} = -3 \, (\text{znamy})
+\]
+
+\[
+x_2 = \frac{-9 + 3}{4} = -1,5
+\]
+
+\(\text{odp: } -1,5\)

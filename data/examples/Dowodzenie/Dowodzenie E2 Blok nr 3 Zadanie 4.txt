@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Uzasadnij, że dla dowolnej liczby nieparzystej n wyrażenie n^3 + 3n^2 - n - 27 jest podzielne przez 24.
+
+założenie : n - liczba nieparzysta
+
+teza: n^3 + 3n^2 - n - 27 podzielne przez 24
+
+(1) przekształcamy równoważnie tezę:
+
+n^3 + 3n^2 - n - 27 = n^3 + 3n^2 - n - 3 - 24
+
+wystarczy wykazać podzielność wyrażenia n^3 + 3n^2 - n - 3 przez 24 , bo -24 jest już podzielne
+
+(2) doprowadzamy wyrażenie n^3 + 3n^2 - n - 3 do postaci iloczynowej
+
+n^3 + 3n^2 - n - 3 = n^2(n + 3) - (n + 3) =
+
+= (n + 3)(n^2 - 1) = (n + 3)(n - 1)(n + 1)
+
+(3) skoro n jest nieparzyste , to n ma postać 2k + 1 , k ∈ ℤ
+
+podstawiamy n = 2k + 1 do *
+
+2k(2k + 4)(2k + 2) =
+
+= 8k(k + 1)(k + 2)
+
+iloczyn trzech kolejnych liczb całkowitych
+
+(4) komentarz:
+
+pośród trzech kolejnych liczb całkowitych znajduje się jedna liczba podzielna przez 3, zatem cały iloczyn 8k(k + 1)(k + 2) jest podzielny przez 8 * 3 = 24
+
+co równoważnie dowodzi, że teza jest prawdziwa
+
+c.k.d.

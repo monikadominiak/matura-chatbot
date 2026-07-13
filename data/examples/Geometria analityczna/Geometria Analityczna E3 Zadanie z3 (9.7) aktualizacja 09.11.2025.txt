@@ -1,0 +1,116 @@
+
+--- STRONA 1 ---
+Zadanie 23 (9.6) Dane są punkty A = (-2,5), B = (3,-5). Punkt C należy do okręgu o równaniu (x+2)^2 + y^2 = 25. Znajdź współrzędne punktu C tak, aby pole trójkąta ABC było największe. Oblicz to pole.
+
+1) Tworzymy rysunek poglądowy.
+
+2) Wyznaczamy długość boku AB:
+
+\(|AB|=\sqrt{(x_B-x_A)^2+(y_B-y_A)^2}\)
+\(|AB|=\sqrt{(3-(-2))^2+(-5-5)^2}=\sqrt{25+100}=\sqrt{5^2+10^2}=\sqrt{5^2+10^2}=\sqrt{25+100}=\sqrt{125}\)
+
+Aby pole trójkąta było jak największe musi on mieć maksymalną możliwą wysokość opuszczoną na bok AB.
+
+Najdłuższą odcinek poprowadzony do dowolnej cięciwy będzie zawsze prostopadły i przez środek okręgu.
+
+Mierząc można zobaczyć kąt powyższego rysunku poglądowy.
+
+3) Wyznaczamy równanie prostej maksymalnej wysokości.
+
+Punkty wzoru:
+
+A (-2,5) B (3,-5)
+
+\[
+S_{AB}=( \frac{x_A+x_B}{2}, \frac{y_A+y_B}{2})=(0.5,0)
+\]
+
+Długość S_{AB}=0.5
+
+\[
+y=\frac{-\frac{5}{2}}{2.5}(x-0.5)
+\]
+
+\[
+y=-\frac{1}{2}x+0
+\]
+
+4) Wyznaczamy punkt C z układu równań:
+
+\[
+(x+2)^2+y^2=25
+\]
+\[
+y=-\frac{1}{2}x
+\]
+
+\[
+(x+2)^2+(-\frac{1}{2}x)^2=25
+\]
+
+\[
+(x+2)^2+\frac{1}{4}x^2=25
+\]
+
+\[
+(x^2+4x+4)+\frac{1}{4}x^2=25
+\]
+
+\[
+x^2+4x+4+\frac{1}{4}x^2=25
+\]
+
+\[
+\frac{5}{4}x^2+4x+4-25=0
+\]
+
+\[
+\frac{5}{4}x^2+4x-21=0
+\]
+
+\[
+4(x^2+4x-21\times4)=0
+\]
+
+\[
+4x^2+16x-(4\times21)+4x^2+16x-84=0
+\]
+
+\[
+4x^2+16x-84=0
+\]
+
+D = 16^2−4×4×(−84) = 256+336 = 592
+
+x_1=\frac{-16-2\sqrt{148}}{8}=\frac{-16+2\sqrt{148}}{8}
+
+x_2=\frac{-16+2\sqrt{148}}{8}=\frac{-32-8\sqrt{37}}{8}=\frac{-3-\sqrt{37}}{2}
+
+Gdy obliczono x, jest daleki od podję AB
+
+Policzyliśmy punkty C_1 oraz wyraziliśmy i pole się największe
+
+C_1= C=(-2+\sqrt{-3,5}) \rightarrow
+
+5) Obliczamy pole trójkąta ze wzoru wykorzystująccego sinesoídas wytyczne.
+
+\[
+|ABC|=\sqrt{(x_B-x_A)^2+(y_B-y_A)^2}\left | \sin \left( C \right) \right| =\frac{(x_C-x_A)(y_C+y_A)-(y_C-y_A)(x_C-x_A)}{\sqrt{x^2+y^2}
+\]
+
+\[
+|(C_1)\left \|\right | \le -84=1\frac{-3-\sqrt{-37}}{2}(C \times C \rightarrow \ldots \,\ldots \ldots)
+\]
+
+Pole= \[\left |\left | (cosa \left | \ldots/2)73 \approx \ldots \right |) = \frac - (-3-\sqrt{-16})=2
+ 
+Odp. C(-2+\sqrt{37))
+
+5) Pole = \sqrt{x^2+y^2} \times \frac{3-\sqrt{-6})
+
+
+Pole= \frac{5-2\sqrt{37}}{2} \approx\frac{37}{\mathbf{-}\cos 2+\frac{-1+2\sqrt{-37}}{2} = 2}  
+
+Pole \le 2-\sqrt{13,5}\)
+
+Odp. C(-2+(37))+=\approx \frac{167}{(\ldots \) π \approx C) }\Rightarrow-11+eqE CS_INC= (-).= 2(\ldots/2+-37)      

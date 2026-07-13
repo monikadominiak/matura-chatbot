@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Funkcja f(x) jest określona wzorem \( f(x) = \frac{x+7}{1-x+x^2} \). Oblicz wartość pochodnej funkcji f(x) dla \( x = -2 \).
+
+\( f(x) = \frac{x+7}{1-x+x^2} \)
+
+\( D_f = \mathbb{R} \quad (1-x+x^2 \neq 0) \quad \Delta < 0 \)
+
+1️⃣ liczymy pochodną funkcji f korzystając ze wzoru: \(\left[\frac{d(x)}{g(x)}\right]' = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2} \)
+
+\( f'(x) = \frac{1 \cdot (x^2-x+1) - (2x-1)(x+7)}{(x^2-x+1)^2} = \)
+
+\[ = \frac{x^2-x+1 - (2x^2+14x-x-7)}{(x^2-x+1)^2} = \]
+
+\[ = \frac{-x^2-14x+8}{(x^2-x+1)^2} \]
+
+\( D_{f'} = D_f \)
+
+2️⃣ wyznaczamy wartość \( f'(-2) \),
+
+\( f'(-2) = \frac{-4+28+8}{(4+2+1)^2} = \frac{32}{49} \)
+
+odp: \( f'(-2) = \frac{32}{49} \)

@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+W ostrosłupie prawidłowym czworokątnym krawędź boczna tworzy z krawędzią podstawy kąt α. Wyznacz cosinus kąta między sąsiednimi ścianami bocznymi.
+
+1) sporządzamy rysunek pomocniczy
+2) zapisujemy dwa równania
+
+1) z tw. cosinusów:
+(a√2)^2 = h^2 + h^2 - 2h·h·cosβ
+
+2) wykorzystując sinα w ΔBCC'
+sinα = h/a
+
+⎧2a^2 = 2h^2 - 2h^2cosβ  (1)
+⎨
+⎩sinα = h/a             (2)
+
+3) wyznaczamy h z (2)
+h = sinα·a
+
+4) podstawiamy h do (1)
+
+2a^2 = 2a^2sin^2α - 2a^2sin^2αcosβ  /:2a^2 ≠ 0
+
+sin^2α - 1 = sin^2αcosβ  /:sin^2α
+
+cosβ = (sin^2α - 1)/sin^2α  =>  (z "1" trygonometrycznej)
+
+cosβ = (1 - cos^2α - 1)/sin^2α = -cos^2α/sin^2α = -1/tg^2α
+
+odp: cosβ = -1/tg^2α

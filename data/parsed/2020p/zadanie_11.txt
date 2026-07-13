@@ -1,0 +1,18 @@
+=== ARKUSZ: 2020p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji liniowej f określonej wzorem $f(x)=ax+b$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Współczynniki a oraz b we wzorze funkcji f spełniają zależność
+A. $a+b&gt;0$
+B. $a+b=0$
+C. $acdot b&gt;0$
+D. $acdot b 6x^{2}-1$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 11. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji liniowej (4.7).
+Poprawna odpowiedź: Wersja X: D; Wersja Y: A

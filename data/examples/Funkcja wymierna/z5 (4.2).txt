@@ -1,0 +1,70 @@
+
+--- STRONA 1 ---
+z5 (4.2)
+
+Wyznacz te wartości parametru \( p \), dla których dziedziną funkcji \( f(x) = \frac{x+p}{(p^2-9)x^2+(p+3)x+1} \) jest zbiór liczb rzeczywistych.
+
+1️⃣ Wyznaczamy warunki dla \( D = \mathbb{R} \).
+
+Mianownik musi być różny od zera, czyli:
+
+\((p^2-9)x^2+(p-3)x+1 \neq 0\)
+
+Powyższy warunek ma zachodzić dla \( x \in \mathbb{R} \).
+
+Czyli równanie \((p^2-9)x^2+(p-3)x+1 = 0\)
+
+nie może mieć rozwiązań. Wtedy będzie spełniony
+
+warunek zadania..
+
+\((p^2-9)x^2+(p+3)x+1 = 0\)
+
+\(1^o\) przypadek liniowy:  \( p^2-9=0 \)
+
+\(2^o\) \(\Delta < 0\)  dla  \( p^2-9 \neq 0 \)
+
+2️⃣ Obliczamy  \(1^o\).
+
+\(p^2-9 = 0\)
+
+\(p^2 = 9\)
+
+\(p = 3 \quad p = -3\)
+
+Dla \( p = 3 \) mamy: \(6x+1=0\)
+
+\[ x = -\frac{1}{6} \]
+
+Równanie ma rozwiązanie więc warunek zadania nie jest spełniony.
+
+Dla \( p = -3 \) mamy: \(1=0\)
+
+\[ x \in \emptyset \]
+
+Równanie nie ma rozwiązań, więc warunek zadania jest spełniony.
+
+--- STRONA 2 ---
+3️⃣ Obliczamy ∆° dla ρ∈R\{-3, 3}.
+
+∆<0: (ρ+3)^2-4(ρ^2-9)<0
+
+(ρ+3)^2-4ρ^2+36<0
+
+ρ^2+6ρ+9-4ρ^2+36<0
+
+-3ρ^2+6ρ+45<0 /:(-3)
+
+ρ^2-2ρ-15>0
+
+∆ρ=4+60=64
+
+ρ₁ = \frac{2-8}{2} = -3
+
+ρ₂ = \frac{2+8}{2} = 5
+
+ρ ∈ (-∞, -3) ∪ (5, +∞)
+
+4️⃣ Wyznaczamy część wspólną.
+
+Odp.: ρ ∈ (-∞, -3] ∪ (5, +∞).

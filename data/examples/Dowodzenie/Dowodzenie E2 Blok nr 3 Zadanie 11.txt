@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Liczby 2, 4, 6 są pierwiastkami wielomianu stopnia trzeciego, w którym współczynnik przy najwyższej potędze zmiennej jest równy 2. Uzasadnij, że dla każdej liczby całkowitej parzystej wartość tego wielomianu jest liczbą podzielną przez 96.
+
+2, 4, 6 – pierwiastki wielomianu 3°, a = 2
+
+1️⃣ zapiszemy analizowany wielomian (w postaci iloczynowej)
+
+w(x) = 2(x-2)(x-4)(x-6)
+
+teza: dla x–parzystych w(x) jest podzielne przez 96
+
+2️⃣ x – parzysty = 2k, k ∈ ℤ i
+
+podstawiamy x = 2k do wielomianu
+
+w(2k) = 2(2k-2)(2k-4)(2k-6) =
+
+= 2 ⋅ 2 ⋅ 2 ⋅ (k-1)(k-2)(k-3) =
+
+= 16 ⋅ (k-1)(k-2)(k-3)
+
+3️⃣ komentarz:
+
+wśród trzech kolejnych liczb całkowitych znajduje się co najmniej jedna liczba parzysta (podzielna przez 2) i dokładnie jedna podzielna przez 3, zatem taki iloczyn jest podzielny przez 2 ⋅ 3 = 6
+
+całe wyrażenie jest więc podzielne przez 16 ⋅ 6 = 96
+
+c.k.d.

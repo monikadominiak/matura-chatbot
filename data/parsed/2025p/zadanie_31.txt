@@ -1,0 +1,38 @@
+=== ARKUSZ: 2025p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0–4)
+Rozważamy wszystkie prostopadłościany ABCDEFGH, w których krawędź BC ma długość 4
+oraz suma długości wszystkich krawędzi wychodzących z wierzchołka B jest równa 15
+(zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Niech P(x) oznacza funkcję pola powierzchni całkowitej takiego prostopadłościanu
+w zależności od długości x krawędzi AB.
+
+Wyznacz wzór i dziedzinę funkcji P. Oblicz długość x krawędzi AB tego
+z rozważanych prostopadłościanów, którego pole powierzchni całkowitej jest
+największe. Zapisz obliczenia.
+
+
+
+
+ZASADY OCENIANIA:
+
+Plaintext
+--- PAGE 1 ---
+
+CENTRALNA
+KOMISJA
+EGZAMINACYJNA
+
+Rodzaj dokumentu:
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

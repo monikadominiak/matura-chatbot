@@ -1,0 +1,83 @@
+
+--- STRONA 1 ---
+Zadanie 6
+
+Trzy liczby, których suma jest równa 7 są kolejnymi wyrazami malejącego ciągu geometrycznego. Największa z nich jest iloczynem liczby \( \frac{4}{3} \) przez sumę pozostałych. Wyznacz te liczby.
+
+① Tworzymy układ równań.
+
+\((a,b,c) - \text{malejący ciąg geometryczny}\)
+
+\[
+\begin{cases}
+a+b+c = 7 & (1) \\
+b^2 = ac & (2) \\
+a = \frac{4}{3}(b+c) & (3)
+\end{cases}
+\]
+
+② Rozwiązujemy układ równań.
+
+Z (1): \quad b+c = 7-a
+
+Do (3): \quad a = \frac{4}{3}(7-a)
+
+\[
+a = \frac{28}{3} - \frac{4}{3}a
+\]
+
+\[
+\frac{7}{3}a = \frac{28}{3}
+\]
+
+\[
+7a = 28
+\]
+
+\[
+a = 4
+\]
+
+\[
+\begin{cases}
+b+c = 7-4 & (1) \\
+b^2 = 4c & (2)
+\end{cases}
+\]
+
+\[
+\begin{cases}
+b = 3 - c & (1) \\
+b^2 = 4c & (2)
+\end{cases}
+\]
+
+Z (1) do (2): \quad (3-c)^2 = 4c
+
+\[
+9-6c+c^2 = 4c
+\]
+
+\[
+c^2 - 10c + 9 = 0
+\]
+
+\[
+\Delta = 100 - 36 = 64
+\]
+
+\[
+c_1 = \frac{10+8}{2} = 9 \quad ; \quad c_2 = \frac{10-8}{2} = 1
+\]
+
+\( b_1 = 3 - 9 = -6 \)
+
+\( b_2 = 3 - 1 = 2 \)
+
+Nie jest malejący
+
+Odp.: \quad \(\begin{cases}
+a = 4 \\
+b = 2 \\
+c = 1
+\end{cases}\)

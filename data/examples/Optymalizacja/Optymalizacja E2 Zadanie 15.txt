@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Przygotowując książkę do druku przyjęto, że na każdej stronie tekst ma zajmować powierzchnię 150 cm², marginesy dolny i górny mają być równe po 3 cm, a prawy i lewy po 2 cm. Oblicz, jakie powinny być wymiary strony, aby na druk tej książki zużyć jak najmniej papieru.
+
+➊ uzależniamy od siebie zmienne
+
+a * b = 150
+
+\( a = \frac{150}{b} \)
+
+➋ zapisujemy wzór funkcji
+
+P = (a+4)(b+6) = \left(\frac{150}{b} + 4\right)(b+6)
+
+\( P(b) = 4b + \frac{900}{b} + 174 \)
+
+➌ wyznaczamy dziedzinę funkcji
+
+\( a, b \in (0, +\infty) \)
+
+➍ wyznaczamy pochodną funkcji
+
+\( P'(b) = 4 - \frac{900}{b^2} \)
+
+➎ wyznaczamy miejsca zerowe pochodnej
+
+\( P'(b) = 0 \Leftrightarrow 4 - \frac{900}{b^2} = 0 \)
+
+4b² = 900
+
+b² = 225 => b = 15 ∨ b = -15
+
+➏ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+[minimalna, maksymalna]
+
+b ∈ (0, 15)   →  P'(b) -   →  P(b) ↓
+
+15               →  P'(b) 0   →  min. lok.
+
+(15, +∞)    →  P'(b) +   →  P(b) ↑
+
+Funkcja P(b) osiąga w swojej dziedzinie wartość najmniejszą dla argumentu b = 15
+
+➐ obliczamy wymiary strony
+
+15 + 2 * 3 = 21   i   \( a = \frac{150}{15} = 10 \), 10 + 2 * 2 = 14 [cm]
+
+Odp: 21cm x 14cm

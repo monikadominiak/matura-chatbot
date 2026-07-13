@@ -1,0 +1,187 @@
+
+--- STRONA 1 ---
+z6 (tn)
+
+Funkcja f określona jest wzorem \( f(x) = mx^2 + mx - 1 \). Wyznacz te wartości parametru m, dla których:
+
+a) Największa wartość funkcji przyjmuje tylko wartości ujemne  
+b) Zbiorem wartości funkcji f jest przedział \( (-\infty; 0> \).
+
+\( f(x) = mx^2 + mx - 1 \)  
+\( a = m \)  
+\( b = m \)  
+\( c = -1 \)
+
+Na samym początku warto zastanowić się, czy nasza funkcja zawsze jest funkcją kwadratową - nie, wszystko zależy od "a" stojącego przed \( x^2 \).
+
+Dla \( a = 0 \), funkcja będzie funkcją liniową  
+
+\( a = m \)  
+\( m = 0 \rightarrow f(0) = -1 \leftarrow \) jest to funkcja liniowa, stała.  
+
+Zatem dla \( m \neq 0 \) będziemy mieć do czynienia z funkcją kwadratową.
+
+a) największa wartość funkcji przyjmuje tylko wartości ujemne.  
+
+Aby tak było to ramiona paraboli muszą być skierowane w dół oraz druga współrzędna wierzchołka "q" musi być ujemna (Sposób I) lub musimy wskazać dla jakich wartości parametru m funkcja nie będzie mieć żadnych miejsc zerowych (Sposób II).
+
+Sposób I
+
+\[
+\begin{cases}
+a < 0 & \leftarrow \text{ramiona paraboli skierowane w dół} \\
+q < 0 & \leftarrow \text{druga współrzędna wierzchołka znajduje się pod osią } x. \\
+\end{cases}
+\]
+
+\( a < 0 \)  
+\( m < 0 \)
+
+\( q = \frac{-\Delta}{4a} = f(p) \)  
+
+\( \Delta = b^2 - 4 \cdot a \cdot c \)  
+\( \Delta = m^2 - 4 \cdot m \cdot (-1) \)  
+\( \Delta = m^2 + 4m \)
+
+\[
+q = \frac{-(m^2 + 4m)}{4 \cdot m} < 0 
+\]
+
+\[
+\frac{-m^2 - 4m}{4m} < 0 
+\]
+
+\[
+\frac{-m^2}{4m} - \frac{4m}{4m} < 0 
+\]
+
+\[
+\frac{-m}{4} - 1 < 0 | +1 
+\]
+
+\[
+\frac{-m}{4} < 1| \cdot 4 
+\]
+
+\[
+-m < 4 | \cdot (-1) 
+\]
+
+\( m > -4 \)
+
+Zatem:  
+\[
+\begin{cases}
+m \leq 0 \\
+m > -4
+\end{cases}
+\]
+
+\( m \in (-4; 0> \)
+
+--- STRONA 2 ---
+Sposób II
+
+a<0 ← ramiona parabolii skierowane w dół
+
+∆<0 ← brak miejsc zerowych
+
+a<0 
+
+m<0 
+
+ale ustaliliśmy wcześniej, że m=0 , to f. liniowa, która tutaj spełnia warunki
+
+m^2 - 4m⋅(-1) < 0
+
+m^2 + 4m < 0
+
+m(m+4) < 0
+
+m=0
+
+m+4=0
+
+m=-4
+
+m∈(-4;0)
+
+Zatem, po uwzględnieniu warunku związanego z funkcją liniową otrzymujemy:
+
+m∈(-4;0⟩.
+
+Odp: m∈(-4;0⟩.
+
+
+Sposób I
+
+a<0 ← ramiona paraboli skierowane w dół
+
+q_y = 0 ← druga współrzędna wierzchołka to „0”
+
+a<0 
+
+m<0.0
+
+q_y = \frac{-m^2 - 4m}{4m} = 0
+
+Wzór nie spełnia tutaj warunków
+
+- \frac{m}{4} - 1 = 0 |+1
+
+- \frac{m}{4} = 1 |⋅4
+
+-m=4 |⋅(-1)
+
+m=-4
+
+Zatem:
+
+m<0
+
+m=-4
+
+=> m∈{-4}
+
+Sposób II
+
+a<0 ← ramiona paraboli skierowane w dół
+
+∆=0 ← dokładnie jedno miejsce zerowe
+
+a<0 
+
+m<0
+
+∆ = 0
+
+m^2 - 4m⋅(-1) = 0
+
+m^2 + 4m = 0
+
+m(m+4) = 0
+
+m=0
+
+m+4=0
+
+m=-4
+
+Zatem:
+
+m<0
+
+m∈{-4,0}
+
+=> m∈[-4;0⟩
+
+Odp: m∈[-4;0⟩
+
+
+b) Zbiorem wartości funkcji jest przedział (-∞;0⟩
+
+Aby zbiorem wartości był przedział (-∞;0⟩ ramiona paraboli muszą
+
+być skierowane w dół oraz q_y=0 (Sposób I)
+
+lub funkcja musi mieć dokładnie jedno miejsce zerowe (∆=0 - Sposób II)

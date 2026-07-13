@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Podaj miarę kąta utworzonego przez dwie sąsiednie ściany boczne graniastosłupa:
+
+a) pięciokątnego
+
+b) sześciokątnego.
+
+Kąt utworzony przez dwie sąsiednie ściany boczne to kąt między dwiema sąsiednimi krawędziami podstawy. (w graniastosłupach prostych)
+
+a) 5-kąt foremny w podstawie
+
+1️⃣ wykorzystujemy wzór na miarę pojedynczego kąta dla n=5 
+
+(n-liczba boków)
+
+\((n-2) \cdot \frac{180^\circ}{n} = \frac{(5-2) \cdot 180^\circ}{5} = \frac{3 \cdot 180^\circ}{5} = \frac{540^\circ}{5} = 108^\circ\)
+
+odp: dla n=5, kąt=108°
+
+b) 6-kąt foremny w podstawie
+
+2️⃣ wykorzystujemy wzór na miarę pojedynczego kąta dla n=5 
+
+(n-liczba boków)
+
+\((n-2) \cdot \frac{180^\circ}{n} = \frac{(6-2) \cdot 180^\circ}{6} = \frac{4 \cdot 180^\circ}{6} = \frac{720^\circ}{6} = 120^\circ\)
+
+odp: dla n=6, kąt=120°

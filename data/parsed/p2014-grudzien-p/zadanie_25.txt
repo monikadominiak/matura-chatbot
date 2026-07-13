@@ -1,0 +1,45 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 25 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 25. (0-2)
+Rozwiąż nierówność: (-x^2-4x+21&lt;0).
+Wymagania: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 3.5. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą.
+
+Rozwiązanie
+Obliczamy miejsca zerowe funkcji kwadratowej (f(x)=-x^2-4x+21).
+(Delta=(-4)^2-4cdot(-1)cdot 21=16+84=100)
+(sqrt{Delta}=10)
+(x_1=frac{4-10}{-2}=3) oraz (x_2=frac{4+10}{-2}=-7)
+lub zapisujemy nierówność w postaci (-(x-3)(x+7)&lt;0).
+Szkicujemy fragment wykresu funkcji kwadratowej f i na jego podstawie odczytujemy rozwiązanie nierówności
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Odpowiedź: (xin(-infty,-7)cup(3,+infty))
+
+Schemat oceniania
+Zdający otrzymuje 1 pkt
+jeżeli:
+- prawidłowo obliczy pierwiastki trójmianu kwadratowego (x_1=3) oraz (x_2=-7) i na tym poprzestanie lub dalej popełni błędy
+albo
+- rozłoży trójmian kwadratowy (-x^2-4x+21) na czynniki liniowe i zapisze nierówność (-(x-3)(x+7)&lt;0) i na tym poprzestanie lub dalej popełni błędy
+albo
+- popełni błąd rachunkowy przy obliczaniu pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże nierówność
+np. (x_1=frac{4-2sqrt{17}}{-2}=-2+sqrt{17}) oraz (x_2=frac{4+2sqrt{17}}{-2}=-2-sqrt{17}), czyli (xin(-infty,-2-sqrt{17})cup(-2+sqrt{17},+infty))
+
+Zdający otrzymuje 2 pkt
+jeżeli:
+- poda zbiór rozwiązań nierówności w postaci: ((-infty,-7)cup(3,+infty)) lub (xin(-infty,-7)cup(3,+infty)) lub (x3)
+albo
+- poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów:
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uwaga:
+Akceptujemy zapis: (x3).
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

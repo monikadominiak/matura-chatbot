@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+z1 (6.9)
+
+Oblicz drugi i trzeci wyraz ciągu \( a_n \) określonego rekurencyjnie:
+
+\[
+\begin{cases}
+a_1 = 4 \\
+a_{n+1} = n a_n - n^2 \text{ dla } n \geq 1
+\end{cases}
+\]
+
+Trzeba je liczyć po kolei, jeden po drugim. Z pierwszego wynika drugi,
+z drugiego trzeci itd. Przejście ze wzoru rekurencyjnego na ogólny jest
+dość skomplikowane i nie wymagane na maturze.
+
+\[
+\begin{cases}
+a_1 = 4 \\
+a_{n+1} = n a_n - n^2 \text{ dla } n \geq 1
+\end{cases}
+\]
+
+1️⃣ Obliczamy drugi wyraz ciągu.
+
+\( a_2 = 1 \cdot a_1 - 1^2 = 4 - 1 = 3 \)
+
+2️⃣ Obliczamy trzeci wyraz ciągu.
+
+\( a_3 = 2 \cdot a_2 - 2^2 = 2 \cdot 3 - 4 = 2 \)
+
+Odp.: \( a_2 = 3, \, a_3 = 2. \)

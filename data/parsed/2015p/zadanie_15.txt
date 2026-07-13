@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 15 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 15. (0-1)
+Jeżeli 0 stopni &lt; alfa &lt; 90 stopni oraz tg alfa = 2 sin alfa, to
+A. cos alfa = 1/2
+B. cos alfa = sqrt(2)/2
+C. cos alfa = sqrt(3)/2
+D. cos alfa = 1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 15. (0-1)  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 6. Trygonometria. Zdający stosuje proste zależności między funkcjami trygonometrycznymi: $sin^2alpha+cos^2alpha=1$, $frac{sinalpha}{cosalpha}=tgalpha$ oraz $sin(90^{circ}-alpha)=cosalpha$ (6.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B

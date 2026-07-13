@@ -1,0 +1,25 @@
+=== ARKUSZ: 2018p | ZADANIE 25 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 25. (0-1)
+W pudełku jest 50 kuponów, wśród których jest 15 kuponów przegrywających, a pozostałe kupony są wygrywające. Z tego pudełka w sposób losowy wyciągamy jeden kupon. Prawdopodobieństwo zdarzenia polegającego na tym, że wyciągniemy kupon wygrywający, jest równe 
+A. 15/35
+B. 1/50
+C. 15/50
+D. 35/50
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 25. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Poprawna odp. (1 p.):
+Wersja I: D
+Wersja II: B
+
+Strona 5 z 25
+
+---
+
+Ogólne zasady oceniania zadań otwartych
+Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania.

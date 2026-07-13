@@ -1,0 +1,9 @@
+=== ARKUSZ: 2022p | ZADANIE 31 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 31. (0–2)
+Wykaż, że dla każdej liczby rzeczywistej 𝑎 i każdej liczby rzeczywistej 𝑏 takich, że 𝑏 ≠ 𝑎, spełniona jest nierówność $frac{a^2 + b^2}{2} &gt; (frac{a+b}{2})^2$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

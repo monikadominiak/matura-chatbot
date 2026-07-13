@@ -1,0 +1,15 @@
+=== ARKUSZ: 2021p | ZADANIE 18 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 18. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przyprostokątna AC trójkąta prostokątnego ABC ma długość 8 oraz tg α = $frac{2}{5}$ (zobacz rysunek).
+Pole tego trójkąta jest równe
+A. 12
+B. $frac{37}{3}$
+C. $frac{62}{5}$
+D. $frac{64}{5}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

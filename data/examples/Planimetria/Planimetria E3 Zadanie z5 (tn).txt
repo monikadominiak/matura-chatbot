@@ -1,0 +1,14 @@
+
+--- STRONA 1 ---
+Zadanie z5 (tn) Ramiona trapezu mają długości 4 i 8, a obwód trapezu jest równy 30. Oblicz długość odcinka łączącego środki ramion tego trapezu.
+
+1) Wyznaczamy sumę podstaw z informacji o obwodzie i podstawiamy ją pod wzór na odcinek łączący środki ramion trapezu:
+
+a+b+4+8=30  
+a+b=18  /:2  
+
+\(\frac{a+b}{2} = 9\)
+
+Odcinek łączący środki ramion trapezu jest równy średniej arytmetycznej podstaw.
+
+Odp. 9.

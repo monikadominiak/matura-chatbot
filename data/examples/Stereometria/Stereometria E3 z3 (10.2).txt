@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Graniastosłup prawidłowy trójkątny przecięto płaszczyzną przechodzącą przez krawędź dolnej podstawy i przeciwległy wierzchołek górnej podstawy. Płaszczyzna ta tworzy z podstawą kąt α, a pole otrzymanego przekroju jest równe S. Wyznacz objętość graniastosłupa.
+
+1) sporządzamy rysunek pomocniczy
+
+potrzebujemy wyznaczyć zmienne a i H za pomocą danych z polecenia
+
+2) wyznaczamy a
+
+w ΔF'CF cosα = \frac{a\sqrt{3}}{2h} => h = \frac{a\sqrt{3}}{2\cosα}
+
+S = \frac{1}{2}ah podstawiamy wyliczone h
+
+S = \frac{1}{2}a \cdot \frac{a\sqrt{3}}{2\cosα} = \frac{a^{2}\sqrt{3}}{4\cosα}
+
+\cdot\cosα => S\cosα = \frac{a^{2}\sqrt{3}}{4}
+
+wyznaczamy a S = \frac{a^{2}\sqrt{3}}{4\cosα} pole podstawy
+
+a^{2} = \frac{4S\cosα}{\sqrt{3}} = \frac{4\sqrt{3}S\cosα}{3}
+
+a = 2\sqrt{\frac{\sqrt{3} \cdot S\cosα}{3}}
+
+3) wyznaczamy H
+
+w ΔF'CF tgα = \frac{H}{\frac{a\sqrt{3}}{2}} (wysokość podstawy)
+
+H = \frac{a\sqrt{3}\cdot tgα}{2} podstawiamy a
+
+H = 2\sqrt{\frac{\sqrt{3}\cdot S\cosα}{3}} \cdot \frac{\sqrt{3}\cdot tgα}{2} =
+
+= tgα \sqrt{\frac{3\cdot S\cosα}{3}}
+
+= tgα \sqrt{3\cdot S\cosα}
+
+4) liczymy objętość graniastosłupa
+
+V = P_{p}\cdot H = S\cosα \cdot tgα \sqrt{3\cdot S\cosα} =
+
+= \cosα \cdot \frac{\sinα}{\cosα} \sqrt{\frac{3}{\cdot}}\sqrt{S^{3}\cosα}= sinα\sqrt{3\cdot S^{3}\cosα}
+
+Odp: V = sinα\sqrt{3\cdot S^{3}\cosα}

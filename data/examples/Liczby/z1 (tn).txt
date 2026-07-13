@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+z1 (tn)  
+Ile par liczb całkowitych spełnia równanie x^2 - y^2 = 7?
+
+Zapiszmy lewą stronę za pomocą wzorów skróconego mnożenia, liczbę po prawej stronie rozłóżmy na czynniki.
+
+a^2-b^2=(a-b)(a+b)
+
+x^2-y^2=7
+
+(x-y)(x+y)=7
+
+7=1*7  7=7*1  =(-1)*(-7)  =(-7)*(-1)  
+
+Rozpisujemy przypadki:
+
+1^o \begin{cases} x-y=1 \\ x+y=7 \end{cases} => 2x=8:2 \\ x=4 \\ y=7-4=3 => \begin{cases} x=4 \\ y=3 \end{cases} 1 
+
+2^o \begin{cases} x-y=7 \\ x+y=1 \end{cases} => 2x=8:2 \\ x=4 \\ y=1-4=-3 => \begin{cases} x=4 \\ y=-3 \end{cases} 2 
+
+3^o \begin{cases} x-y=-1 \\ x+y=-7 \end{cases} => 2x=-8:2 \\ x=-4 \\ y=-7-(-4)=-3 => \begin{cases} x=-4 \\ y=-3 \end{cases} 3 
+
+4^o \begin{cases} x-y=-7 \\ x+y=-1 \end{cases} => 2x=-8:2 \\ x=-4 \\ y=-1-(-4)=3 => \begin{cases} x=-4 \\ y=3 \end{cases} 4 
+
+Odp.: cztery.

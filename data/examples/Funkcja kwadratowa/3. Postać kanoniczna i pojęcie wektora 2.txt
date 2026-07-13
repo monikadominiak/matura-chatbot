@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+3. Postać kanoniczna i pojęcie wektora 2
+
+Punkty F i G są wierzchołkami parabol będących wykresami funkcji f i g. wyznacz współrzędne wektora FG:
+
+a) f(x)=(x-5)^2, g(x)=(x-2)^2+2  
+b) f(x)=0,125(x+4)^2-1, g(x)=0,125(x-3)^2+4  
+c) f(x)=4-\frac{3}{2}(x+0,5)^2, g(x)=7-1,5(x+\frac{1}{3})^2  
+
+a) f(x) = (x - 5)^2, \quad g(x) = (x - 2)^2 + 2  
+
+🔘 1) Odczytujemy współrzędne wierzchołka  
+F = ( \overset{x_F}{5}, \overset{y_F}{0} ) \quad G = ( \overset{x_G}{2}, \overset{y_G}{2} )  
+
+🔘 2) Używamy wzoru na współrzędne wektora  
+
+Gdy mamy punkty A = (x_A, y_A) oraz B = (x_0, y_0), współrzędne wektora \overrightarrow{AB} w kartezjańskim układzie współrzędnych zaczepionego w punkcie A_0:  
+
+\overrightarrow{AB} = \left[ x_0 - x_A, \, y_0 - y_A \right]  
+
+\overrightarrow{FG} = \left[ 2 - 5 \, ; \, 2 - 0 \right] = \left[ -3, 2 \right]  
+\text{Odp:} \overrightarrow{FG} = \left[ -3, 2 \right]  
+
+b) f(x) = 0,125(x+4)^2-1 \quad , \quad g(x) = 0,125(x-3)^2+4  
+
+🔘 1) Odczytujemy współrzędne wierzchołka  
+F = ( \overset{x_F}{-4}, \overset{y_F}{-1} ) \quad G = ( \overset{x_G}{3}, \overset{y_G}{4} )  
+
+🔘 2) Używamy wzoru na współrzędne wektora  
+
+\overrightarrow{FG} = \left[ 3 - (-4) \, ; \, 4 - (-1) \right] = \left[ 7, 5 \right]  
+\text{Odp:} \overrightarrow{FG} = \left[ 7, 5 \right]  
+
+c) f(x) = 4 - \frac{3}{2}(x + 0,5)^2 \quad , \quad g(x) = 7 - 1,5 \left( x + \frac{1}{3} \right)^2  
+
+🔘 1) Odczytujemy współrzędne wierzchołka  
+F = ( \overset{x_F}{-0,5}, \overset{y_F}{4} ) \quad G = ( \overset{x_G}{-\frac{1}{3}}, \overset{y_G}{7} )  
+
+🔘 2) Używamy wzoru na współrzędne wektora  
+
+\overrightarrow{FG} = \left[ -\frac{1}{3} - (-0,5) \, ; \, 7 - 4 \right] = \left[ \frac{1}{6}, 3 \right]  
+\text{Odp:} \overrightarrow{FG} = \left[ \frac{1}{6}, 3 \right]  

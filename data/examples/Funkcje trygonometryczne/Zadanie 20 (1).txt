@@ -1,0 +1,110 @@
+
+--- STRONA 1 ---
+Zadanie 20
+
+Rozwiąż równanie cos 4x = cos^4 x - sin^4 x.
+
+① Korzystamy ze wzoru skróconego mnożenia.
+
+cos 4x = cos^4 x - sin^4 x
+
+cos 4x = (cos^2 x - sin^2 x)(cos^2 x + sin^2 x)
+
+② Korzystamy z jedynki trygonometrycznej.
+
+cos 4x = cos^2 x - sin^2 x
+
+③ Korzystamy ze wzoru na cosinus podwojonego kąta.
+
+cos 2α = cos^2 α - sin^2 α
+
+cos 4x = cos 2x
+
+④ Przenosimy na jedną stronę.
+
+cos 4x - cos 2x = 0
+
+⑤ Korzystamy ze wzoru na cosinus podwojonego kąta.
+
+cos 2α = 2 cos^2 α - 1
+
+2 cos^2 2x - 1 - cos 2x = 0
+
+2 cos^2 2x - cos 2x - 1 = 0
+
+⑥ Podstawiamy zmienną pomocniczą.
+
+t = cos 2x , t ∈ [-1,1]
+
+2t^2 - t - 1 = 0
+
+Δ = 1 + 8 = 9   √Δ = 3
+
+t_1 = (1 - 3)/4 = -1/2
+
+t_2 = (1 + 3)/4 = 1
+
+--- STRONA 2 ---
+7) Cofamy podstawienie.
+
+cos 2x = -\frac{1}{2} \quad \lor \quad cos 2x = 1
+
+8) Rozwiązujemy równania.
+
+\boxed{
+\begin{align*}
+2x &= \frac{2\pi}{3} + 2k\pi \quad \lor \quad 2x = \frac{4\pi}{3} + 2k\pi \\
+x &= \frac{\pi}{3} + k\pi \\
+2x &= 2k\pi \\
+x &= k\pi
+\end{align*}
+}, \quad k \in \mathbb{Z}
+
+Możemy zapisać jako \quad x = \frac{k\pi}{3}, \quad k \in \mathbb{Z}.
+
+Odp.: \quad x = \frac{k\pi}{3}, \quad k \in \mathbb{Z}.
+
+--- STRONA 3 ---
+II sposób
+
+① Korzystamy ze wzoru skróconego mnożenie.
+
+cos 4x = cos^4x - sin^4x
+
+cos 4x = (cos^2x - sin^2x)(cos^2x + sin^2x)
+
+② Korzystamy z jedynki trygonometrycznej.
+
+cos 4x = cos^2x - sin^2x
+
+③ Korzystamy ze wzoru na cosinus podwojonego kąta.
+
+cos 2α = cos^2α - sin^2α.
+
+cos 4x = cos 2x
+
+④ Przenosimy na jedną stronę.
+
+cos 4x - cos 2x = 0
+
+⑤ Korzystamy ze wzoru na różnicę cosinusów.
+
+cos α - cos β = -2 sin (α+β)/2 sin (α-β)/2.
+
+-2 sin (4x+2x)/2 sin (4x-2x)/2 = 0 |:(-2)
+
+sin 3x sin x = 0
+
+⑥ Rozwiązujemy równania.
+
+sin 3x = 0
+
+3x = kπ
+
+x = kπ/3
+
+sin x = 0
+
+x = kπ , k ∈ Z
+
+Odp.: x = kπ/3 , k ∈ Z.

@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zad.26 Dany jest trapez prostokątny ABCD o kątach prostych przy wierzchołkach A i D. Ramię BC trapezu ma długość 5. W ten trapez wpisano okrąg o środku w punkcie S i promieniu r. Punkt P jest punktem styczności okręgu i dłuższej podstawy AB tego trapezu (zobacz rysunek).
+
+Wykaż, że trójkąty BPS i BSC są trójkątami podobnymi, oraz oblicz skalę tego podobieństwa.
+
+1) Korzystamy z tw. o odcinkach stycznych oraz z własności czworokąta opisanego na okręgu:
+\(z\ własności\ czworokąta\ opisanego\ na\ okręgu\ wiemy,\ że\ wszystkie\ odcinki\ poprowadzone\ z\ wierzchołków\ czworokąta\ do\ środka\ okręgu\ są\ dwusiecznymi\ (dodatkowo\ w\ każdym\ trapezie\ suma\ kątów\ przy\ ramieniu\ wynosi\ 180^\circ,\ stąd\ α\ i\ \ 180^\circ-α)\)
+
+z\ sumy\ kątów\ w\ trójkącie\ BSG:
+\(\alpha+90^\circ+1/2\cdot CSB=\ 180^\circ\) 
+\(1/2\cdot CSB=\ 90^\circ-\alpha\)
+
+z\ sumy\ kątów\ w\ trójkącie\ PSB: 
+\(\alpha+90^\circ+\beta=\ 180^\circ\) 
+\(1/2\cdot PSB=\ 90^\circ-\alpha\)
+
+tym\ samym:
+\(\Delta\ BPS\sim\Delta\ CSB\ (kkk)\)
+c.n.d. \(\blacksquare\)
+
+2) Korzystamy z tw. o wysokości opadającej na przeciwprostokątną w trójkącie prostokątnym:
+\(z^2=x\cdot(5-x))\ gdzie\ x\in(0,5)\)
+\(4=5x-x^2\)
+\(x^2-5x+4=0\)
+\(x^2-x-4x+4=0\)
+\(x(x-1)-4(x-1)=0\)
+\((x-4)(x-1)=0\)
+
+\[
+\begin{cases}
+x=1\\
+x=4\\
+\end{cases}
+\]
+
+\(\Longrightarrow\)
+\(5-x=4\ \ \ \ 5-x=1\)
+
+Żaden\ bok\ nie\ może\ być\ niedodani\ więc\ x\ nie\ może\ przekroczyć lub\ osiągnąć\ 5\ (tzn\ uwzględnia\ na\ 5-x\) tak\ naprawde\ to\ te\ same\ rozwiązania,\ zależy\ jedynie\ od\ tego,\ którą\ część\ boku\ BC\ opiszemy\ jako\ x,\ a\ którą\ jako\ 5-x
+
+3) Wyznaczamy \(|BS|\ z\ tw.\ Pitagorasa,\ a\ następnie\ przekształcamy\ skalę\ podobieństwa:\)
+
+\(|BS|^2=z^2+r^2\Longrightarrow4+16=20\)
+\(|BS|=\sqrt{20}=\ 2\sqrt{5}\)
+
+\(k=\frac{\Delta\ CSB}{\Delta\ BSP}=\frac{5}{2\sqrt{5}}=\frac{5\sqrt{5}}{10}=\frac{\sqrt{5}}{2}\)
+
+Odp.: \(k=\frac{5\sqrt{5}}{2}\)

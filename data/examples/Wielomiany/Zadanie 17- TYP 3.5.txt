@@ -1,0 +1,188 @@
+
+--- STRONA 1 ---
+Zadanie 17 [7pkt] - TYP 3.5  
+Określ w zależności od parametru m liczbę rozwiązań równania  
+x^4 - 2mx^2 = m^2 - 4  
+
+x^4 - 2mx^2 = m^2 - 4  
+x^4 - 2mx^2 - m^2 + 4 = 0  
+
+Gdy w równaniu jedna z potęg przy x jest dwa razy większa od drugiej, to wprowadzając parametr t, sprowadzimy wielomian do postaci funkcji kwadratowej  
+
+Podstawiając x^2 = t :  
+t^2 - 2mt - m^2 + 4 = 0  
+
+W pierwotnej formie występuje najwyższa potęga x^4, oznacza to, że możemy otrzymać maksymalnie 4 rozwiązania.  
+
+🟢 Cztery rozwiązania, dla:  
+
+1° Δ > 0 <-- dwa rozwiązania, które po podstawieniu do t = x^2 zamienią się na 4 rozwiązania, pod warunkiem, że t_1 i t_2 > 0  
+
+2° t_1 + t_2 > 0  
+t_1, t_2 > 0  
+{ oba pierwiastki dodatnie  
+
+1° Δ>0  
+(-2m)^2 - 4 * 1 * (-m^2 + 4) > 0  
+4m^2 + 4m^2 - 16 > 0  
+8m^2 - 16 > 0 : 8  
+m^2 - 2 > 0 <- a^2 - b^2 = (a+b)(a-b)  
+
+(m + √2)(m - √2) > 0  
+
+m + √2 = 0  
+m = -√2  
+
+m - √2 = 0  
+m = √2  
+
+m ∈ (-∞; -√2) ∪ (√2; ∞)  
+
+2° t_1 + t_2 > 0  
+t_1, t_2 > 0  
+
+Korzystamy ze wzoru Viète'a:  
+x_1 * x_2 = -b/a  
+
+2m  
+1 > 0  
+2m > 0  
+m > 0  
+
+x_1 * x_2 = c/a  
+
+-4 - m^2  
+1 > 0  
+4 - m^2 > 0  
+m^2 < 4  
+
+m ∈ (-2; 2)  
+
+Część wspólna : m ∈ (√2; 2)  
+
+Odp: cztery rozwiązania dla m ∈ (√2; 2).
+
+--- STRONA 2 ---
+2° Trzy rozwiązania dla: 
+
+Z równania z parametrem t musimy otrzymać dwa rozwiązania, z czego jedno musi być zerem, a drugie większe od zera. Zatem:
+
+3° Δ > 0 ⇐ dwa rozwiązania
+
+4° { t_1 + t_2 > 0  ⇐ suma zera i liczby dodatniej będzie większa od zera
+    { t_1 ∙ t_2 = 0  ⇐ iloczyn zera i liczby dodatniej będzie zerem.
+
+3° Δ > 0
+
+m ∈ (-∞ ; -√2) ∪ (√2 ; ∞)
+
+4° { t_1 + t_2 > 0
+    { t_1 ∙ t_2 = 0
+    m^2 = 4
+    m = -2   m = 2
+
+Zatem część wspólna to: m = 2.
+
+Odp: trzy rozwiązania dla m=2.
+
+3° Dwa rozwiązania
+
+5° Δ > 0   ⇒ m ∈ (-∞ ; -√2) ∪ (√2 ; ∞)
+
+     t_1, t_2 < 0  ⇐ jedno z rozwiązań ujemne
+
+     4 - m^2 < 0
+
+     m^2 > 4
+
+ m = -2   m = 2  
+
+        ⊗−2     2⊗
+⟐━━━━━━━━━⟐━━━━━━━━━━⟐
+      m
+m ∈ (-∞ ; -2) ∪ (2 ; ∞)
+    
+
+6° Δ = 0  i  t_0 > 0
+
+    m = -√2
+    m = √2
+          2m
+          2 > 0
+  m > 0
+
+                m = √2,
+
+Suma rozwiązań: m ∈ (-∞ , -2) ∪ {√2} ∪ (2, ∞)
+
+Odp: dwa rozwiązania dla m ∈ (-∞ , -2) ∪ {√2} ∪ (2, ∞).
+
+4° Jedno rozwiązanie
+
+Gdy z równania z parametrem t, otrzymamy dwa rozwiązania z czego jedno będzie zerem, a drugie ujemne. Lub gdy Δ = 0 (jedno rozwiązanie).
+
+--- STRONA 3 ---
+7° Δ>0 => m ∈ (-∞, -√2) ∪ (√2; ∞)
+
+t1 + t2 < 0
+
+t1; t2 = 0
+
+\(\frac{2m}{1}\) < 0
+
+m = -2
+m = 2
+
+m < 0
+
+Część wspólna m = -2
+
+8° Δ=0
+
+m = √2
+
+t0 = 0
+
+m = -√2
+
+m = 0
+
+brak rozwiązań
+
+Odp: jedno rozwiązanie dla m = -2.
+
+10° Δ=0
+
+t0 < 0
+
+m = -√2
+
+m < 0
+
+m = √2
+
+Część wspólna: m = -√2
+
+11° Δ<0
+
+m ∈ (-√2 ; √2)
+
+Suma rozwiązań: m ∈ (-√2 ; √2).
+
+Odp: brak rozwiązań dla m ∈ (-√2 ; √2).
+
+⑤ Brak rozwiązań:
+
+Gdy rozwiązanie równanie z parametrem t będą dwa ujemne
+
+9° Δ>0 => m ∈ (-∞, -√2) ∪ (√2; ∞)
+
+t1 + t2 < 0
+
+t1, t2 > 0
+
+m < 0
+
+m ∈ (-2 ; 2)
+
+Część wspólna: m ∈ (-2 ; √2)

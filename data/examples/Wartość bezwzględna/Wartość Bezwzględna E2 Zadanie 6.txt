@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Zad.6 Rozwiąż nierówność |2|x - 1| - 3| < 5.
+
+a) Rozwiązujemy nierówność korzystając z własności wart. bezwzg.!
+
+|2|x-1|-3| < 5
+
+2|x-1|-3 < 5   ∧   2|x-1|-3>-5
+2|x-1| < 8        2|x-1|>-2
+|x-1| < 4           |x-1|>-1
+
+x-1 < 4   ∧   x-1>-4         x∈R
+x < 5       ∧   x>-3
+
+x∈(-3,5)
+
+x∈(-3,5)   ∧   x∈R  ⇒  x∈(-3,5)
+
+Odp. x∈(-3,5).
+
+UWAGA: Zgodnie z wykorzystującą własnością, możemy mieć do czynienia tutaj z dwiema spójnikami: "∧" (dla n- część ujemnej dla nierówności skierowanej mniejszą stroną w kierunku modułu (czyli np. |x|< a – tak jak w tym zadaniu), lub q “v” (lub - suma) dla nierówności skierowanej w drugą stronę (np. w zadaniu 2).
+
+Dość łatwym sposobem na zapamiętanie kiedy używamy który spójnik jest obecnie znać nierówność do 0 na drugiej stronie i używana równości (dla ≤ zatrzymujemy” ∧”, dla > używamy “v”).
+
+UWAGA 2: W sytuacji w której nierówność znajduję się również w innym wydarztwinkowym module lub masz bez modula, co prostk im innym miejscach - s kierowanie nierówności ma ona jeść znaczenia i ZAWSZE stosujemy spójnik lub "v".

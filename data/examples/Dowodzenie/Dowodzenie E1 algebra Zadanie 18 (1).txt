@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+Udowodnij, że równanie \( (8 - \sqrt{15})^{\frac{1}{2}} + (8 + \sqrt{15})^{\frac{1}{2}} = \sqrt{30} \) jest prawdziwe.
+
+\[
+(a)
+\underbrace{(8 - \sqrt{15})^{\frac{1}{2}}}_{a} + \underbrace{(8 + \sqrt{15})^{\frac{1}{2}}}_{b} = 
+(b)
+\sqrt{30}
+\]
+
+\[
+a^{\frac{1}{2}} = \sqrt{a}
+\]
+
+1️⃣ podnosimy całość do kwadratu
+
+\[
+(a + b)^2 = a^2 + 2ab + b^2
+\]
+
+\[
+(8 - \sqrt{15})^{\frac{1}{2}} + (8 + \sqrt{15})^{\frac{1}{2}} = \sqrt{30} \quad /()^2
+\]
+
+\[
+8 - \sqrt{15} + 2 \sqrt{(8 - \sqrt{15})(8 + \sqrt{15})} + 8 + \sqrt{15} = 30
+\]
+
+\[
+16 + 2 \sqrt{64 - 15} = 30
+\]
+
+\[
+16 + 2 \sqrt{49} - 30 = 0
+\]
+
+\[
+16 + 14 - 30 = 0
+\]
+
+\[
+30 - 30 = 0
+\]
+
+\[
+0 = 0
+\]
+
+c.k.d.

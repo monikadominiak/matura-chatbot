@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+W pierwszej urnie są dwie białe i trzy czarne kule, a w drugiej urnie trzy białe i pięć czarnych. Rzucamy sześcienną kostką do gry. Jeżeli wypadnie co najmniej pięć oczek, to losujemy kulę z drugiej urny, a jeżeli mniej oczek, to losujemy z pierwszej urny. Oblicz prawdopodobieństwo wylosowania kuli białej.
+
+① analizujemy polecenie
+
+I
+
+II
+
+2B   3C                                    3B   5C
+
+A – wylosowanie kuli białej
+
+B1 – co najmniej 5 {5,6} => II urna
+
+B2 – mniej niż 5 {1,2,3,4} => I urna
+
+② liczymy kolejne prawdopodobieństwa potrzebne do wzoru na prawdopodobieństwo całkowite
+
+\( P(A) = P(A|B_1) \cdot P(B_1) + P(A|B_2) \cdot P(B_2) + ... + P(A|B_n) \cdot P(B_n) \)
+
+\( P(B_1) = \frac{1}{3} \)
+
+\( P(A|B_1) = \frac{3}{8} \) (wylosowanie białej z II urny)
+
+\( P(B_2) = \frac{2}{3} \)
+
+\( P(A|B_2) = \frac{2}{5} \) (wylosowanie białej z I urny)
+
+③ \( P(A) = \frac{3}{8} \cdot \frac{1}{3} + \frac{2}{5} \cdot \frac{2}{3} = \frac{3}{24} + \frac{4}{15} = \frac{15+32}{120} = \frac{47}{120} \)
+
+zadanie można rozwiązać również metodą 'drzewka':
+
+\( P(B_1) \ \frac{1}{3} \)
+
+\( P(B_2) \ \frac{2}{3} \)
+
+{5,6} \ \ II urna \ \ \frac{3}{8} \ \ P(A|B_1) \ \ biała
+
+{1,2,3,4} \ I urna \ \ \frac{2}{5} \ \ P(A|B_2) \ \ biała
+
+*rysujemy tylko istotne gałęzie
+
+Odp: \(\frac{47}{120}\)

@@ -1,0 +1,73 @@
+
+--- STRONA 1 ---
+Koszt \( K(x) \) (w złotych) zorganizowania balu dla \( x \) par opisuje funkcja 
+\[ K(x) = 2x^2 + \frac{32000}{x}, \]
+gdzie \( x \in \{10, 11, 12, ..., 100\}. \)
+
+a) Dla jakiej liczby par koszt zorganizowania balu jest najmniejszy? Jaki jest wówczas średni koszt przypadający na jedną parę?
+
+b) Dla jakiej liczby par średni koszt zorganizowania balu przypadający na jedną parę jest najmniejszy? Jaki to koszt? Ile wtedy wyniesie całkowity koszt zorganizowania tego balu?
+
+a) 
+
+\[ K(x) = 2x^2 + \frac{32000}{x} \quad x \in \{10,11,...,100\} \]
+
+① wyznaczamy pochodną funkcji
+
+\[ K'(x) = 4x - \frac{32000}{x^2} \]
+
+② wyznaczamy miejsca zerowe pochodnej
+
+\[ K'(x)=0 \Leftrightarrow 4x - \frac{32000}{x^2} = 0 \quad /. x^2 \]
+
+\[ 4x^3 = 32000 \]
+
+\[ x^3 = 8000 \quad \Rightarrow x = 20 \]
+
+③ badamy monotoniczność
+
+(Narysowany wykres K'(x) i K(x))
+
+Najmniejsza wartość funkcji w dziedzinie istnieje dla argumentu \( x = 20 \) [par]
+
+\[ K(20) = 2 \cdot 20^2 + \frac{32000}{20} = 2400zł \]
+
+\[ \bar{y} = \frac{2400}{20} = 120zł \]
+
+b) ④ zapisujemy wzór nowej funkcji
+
+\[ M(x) = \frac{2x^2 + \frac{32000}{x}}{x} \]
+
+(Wzór na średnią arytmetyczną)
+
+⑤ wyznaczamy pochodną funkcji
+
+\[ M(x) = 2x + \frac{32000}{x^2} \]
+
+\[ M'(x) = 2 - \frac{64000}{x^3} \]
+
+⑥ wyznaczamy miejsca zerowe pochodnej
+
+\[ M'(x)=0 \Leftrightarrow 2 - \frac{64000}{x^3} = 0 \quad /. x^3 \]
+
+\[ 2x^3 = 64000 \]
+
+\[ x^3 = 32000 = 20^3 \cdot 4 \quad \Rightarrow x = 20 \sqrt[3]{4} \approx 31,7 \]
+
+⑦ badamy monotoniczność i ekstrema funkcji
+
+(Narysowany wykres M'(x) i M(x))
+
+Wartość minimalna funkcji \( M(x) \) nie jest liczbą całkowitą, więc szukamy najmniejszego kosztu dla najbliższych argumentów całkowitych
+
+\[ M(31) = 2 \cdot 31 + \frac{32000}{31^2} \approx 95,30zł \]
+
+\[ M(32) = 2 \cdot 32 + \frac{32000}{32^2} = 95,25zł \]
+
+Wtedy koszt całkowity: 
+
+\[ 32 \cdot 95,25 = 3048zł \]
+
+odp: a) dla 20 par, 120zł/parę
+
+b) śr.koszt: 95,25zł, 32 pary, koszt całkowity: 3048zł

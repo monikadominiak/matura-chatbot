@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0-1)
+Rzucamy trzy razy symetryczną monetą. Niech p oznacza prawdopodobieństwo otrzymania dokładnie dwóch orłów w tych trzech rzutach. Wtedy
+A. 0 &lt;= p &lt; 0,2
+B. 0,2 &lt;= p &lt;= 0,35
+C. 0,35 &lt; p &lt;= 0,5
+D. 0,5 &lt; p  (x^2 - 2x) / 2.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 22. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: B

@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Zadanie 10
+
+Oblicz granicę ciągu \(a_n\), gdy \(a_n=\frac{1+3+3^2+\ldots+3^n}{1+5+5^2+\ldots+5^n}\)
+
+\( \textcircled{1} \ \ \text{Obliczamy granicę ciągu } a_n. \)
+
+\[
+\lim_{n \to \infty} \frac{1+3+3^2+\ldots+3^n}{1+5+5^2+\ldots+5^n} = \left( \lim_{n \to \infty} \frac{3 \left(1+\frac{1}{3}+\frac{3}{3}+\ldots+\frac{3^n}{3^n}\right)}{5 \left(1+\frac{1}{5}+\frac{5}{5}+\ldots+\frac{5^n}{5^n}\right)} \right) = \lim_{n \to \infty} \frac{1}{\left(\frac{5}{3}\right)^n} = 0
+\]
+
+\[
+\text{Odp. :} \ \lim_{n \to \infty} a_n = 0.
+\]

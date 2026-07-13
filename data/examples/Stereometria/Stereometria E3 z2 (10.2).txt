@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Sześcian podzielono płaszczyzną przechodzącą przez krawędź podstawy na dwie bryły z których jedna ma pięć, a druga sześć ścian. Pole powierzchni całkowitej tej bryły, która ma pięć ścian jest równe połowie pola powierzchni sześcianu. Oblicz tangens kąta nachylenia płaszczyzny dzielącej sześcian do płaszczyzny podstawy.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+aby były spełnione warunki zadania punkty A', B' mogą leżeć odpowiednio na odcinkach AE i BF lub odcinkach EH i FG z wyłączeniem wierzchołków sześcianu
+
+⇒ spodziewamy się dwóch rozwiązań
+
+Niech: |B'C'| = y i |BB'| = x
+
+α ∈ (0°, 90°) i α ≠ 45°
+
+2️⃣ wykorzystujemy informacje o polach
+
+P - pole powierzchni sześcianu
+
+P5 - pole powierzchni bryły, która ma 5 ścian
+
+1️⃣ P5 = 1/2 P = 1/2 ⋅ 6a^2 = 3a^2
+
+3️⃣ zapisujemy pole P5:
+
+P5 = a^2 + ay + ax + 2⋅1/2xa
+
+        ABCO      COAB'      ABBA'     ADA' i BCB'
+
+3a^2 = a^2 + ay + ax + 2⋅1/2xa
+
+2a^2 - 2ax - ay = 0    / :a ≠ 0  (bok sześcianu)
+
+(*) y = 2a - 2x
+
+4️⃣ szukamy równania, z którego wyznaczymy tgα = x/a
+
+w ΔBCB' (tw. Pitagorasa)
+
+a^2 + x^2 = y^2
+
+podstawiamy wyliczone wcześniej (*)
+
+a^2 + x^2 = (2a - 2x)^2
+
+a^2 + x^2 = 4a^2 - 8ax + 4x^2
+
+3a^2 - 8ax + 3x^2 = 0  / :a^2 ≠ 0
+
+więc: 3tg^2α - 8tgα + 3 = 0
+
+Δ = 28   ⇒   √Δ = 2√7
+
+b^2 - 4ac
+
+tgα1 = 8 - 2√7/6 = 4 - √7/3
+
+tgα2 = 4 + √7/3  (oba spełniają założenia)
+
+Odp: tgα = 4 - √7/3 lub tgα = 4 + √7/3

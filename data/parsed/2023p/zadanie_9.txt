@@ -1,0 +1,14 @@
+=== ARKUSZ: 2023p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9.
+2 pkt - zapisanie dwóch pierwiastków wielomianu $3x^3-2x^2-12x+8$ (o ile nie zostały one uzyskane w wyniku błędnej metody).
+1 pkt - przekształcenie wielomianu $3x^3-2x^2-12x+8$ do postaci $3(x^2-4)-2(x^2-4)$ lub $x^2(3x-2)-4(3x-2)$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

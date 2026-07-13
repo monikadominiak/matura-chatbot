@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Rzucamy trzy razy symetryczną kostką sześcienną. Oblicz prawdopodobieństwo zdarzenia, że w każdym rzucie uzyskamy cyfrę parzystą.
+
+① analizujemy polecenie
+
+3x rzut kostką {1,2,3,4,5,6}
+
+{2,4,6} i {1,3,5}
+
+A - w każdym rzucie wypadła parzysta
+
+② Ⅰ sposób: reguła mnożenia * Ⅱ sposób: "drzewko"
+
+Sac = 6·6·6 = 216
+
+Aac = 3·3·3 = 27
+
+P(A) = 27/216 = 1/8
+
+P(A) = 1/2 · 1/2 · 1/2 = 1/8
+
+* w tej metodzie można też uprościć "drzewko" rysując tylko gałęzie, które odpowiadają zd. A

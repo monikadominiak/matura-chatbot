@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zad.2 W trójkącie ABC mamy dane: |AC|=4, |BC|=|AB|-2, oraz |∡ACB|=60°. Oblicz sinusy kątów CAB i ABC.
+
+1) Tworzymy rysunek poglądowy:
+
+(rysunek trójkąta)
+
+2) Wyznaczamy niewiadomą "a" za pomocą tw. cosinusów:
+
+a^2 = 4^2 + (a-2)^2 - 2 * 4 * (a-2) * cos 60°
+
+a^2 = 16 + a^2 - 4a + 4 - 4 * (a-2) * 1/2
+
+0 = 16 - 4a + 4 - 4a + 8
+
+0 = 28 - 8a  |+8a
+
+8a = 28
+
+a = 28/8 = 7/2 => |AB|= 7/2 , |BC|= 3/2
+
+3) Wyznaczamy sin α i sin β poprzez twierdzenie sinusów:
+
+4/sin β = 7/2/sin 60° 
+
+4/sin β = 7/2 * 2/sqrt(3) | * sqrt(3)
+
+4 = 7/sqrt(3) sin β | : (7/sqrt(3))
+
+sin β = 4sqrt(3)/7
+
+3/2/sin α = 7/2/sin 60° 
+
+3/2 = 7/2 * 2/sqrt(3) * sin α
+
+3/2 = 7/sqrt(3) * sin α | : (7/sqrt(3))
+
+sin α = 3sqrt(3)/14 
+
+Odp. sin α= 3sqrt(3)/14 , sin β = 4sqrt(3)/7.

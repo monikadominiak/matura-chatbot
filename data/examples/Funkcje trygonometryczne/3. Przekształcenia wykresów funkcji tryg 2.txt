@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+3. Przekształcenia wykresów funkcji tryg 2
+
+Podaj zbiór wartości funkcji \( f \).
+
+a) \( f(x) = \sin x + 4 \) \hspace{1cm} b) \( f(x) = 1 - \cos^2 x \) \hspace{1cm} c) \( f(x) = -1 - \sin x \)
+
+a) ① Obliczamy zbiór wartości funkcji \( f(x) \).
+
+Zbiorem wartości funkcji \( y = \sin x \) jest zbiór \([-1, 1]\).
+
+\[ -1 \leq \sin x \leq 1 \, \mid +4 \]
+
+\[ 3 \leq \sin x + 4 \leq 5 \]
+
+\[ \mathbb{Z}_W_f = [3, 5] \]
+
+Odp.: \(\mathbb{Z}_W_f = [3, 5]\).
+
+b) ① Obliczamy zbiór wartości funkcji \( f(x) \).
+
+Zbiorem wartości funkcji \( y = \cos x \) jest zbiór \([-1, 1]\).
+
+\[ -1 \leq \cos x \leq 1 \]
+
+\[ 0 \leq \cos^2 x \leq 1 \quad / (-1) \]
+
+\[ -1 \leq -\cos^2 x \leq 0 \quad / +1 \]
+
+\[ 0 \leq 1 - \cos^2 x \leq 1 \]
+
+\[ \mathbb{Z}_W_f = [0, 1] \]
+
+Odp.: \(\mathbb{Z}_W_f = [0, 1]\).
+
+c) ① Obliczamy zbiór wartości funkcji \( f(x) \).
+
+Zbiorem wartości funkcji \( y = \sin x \) jest zbiór \([-1, 1]\).
+
+\[ -1 \leq \sin x \leq 1 \quad / (-1) \]
+
+\[ -1 \leq -\sin x \leq 1 \quad / -1 \]
+
+\[ -2 \leq -1 - \sin x \leq 0 \]
+
+\[ \mathbb{Z}_W_f = [-2, 0] \]
+
+Odp.: \(\mathbb{Z}_W_f = [-2, 0]\).

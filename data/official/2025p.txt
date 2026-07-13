@@ -1,0 +1,1115 @@
+Matura podstawowa 2025 - arkusz oraz klucz odpowiedzi:
+
+
+
+Transkrypcja treści zadań z arkusza PDF
+MMAP-P0-100-2505
+MATEMATYKA
+Poziom podstawowy
+Formuła 2023
+
+
+Zadanie 1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba (√32 − √2)^2 jest równa
+
+A. 16
+B. 18
+C. 30
+D. 34
+
+
+Zadanie 2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba (5^12 + 5^13 + 5^14) / 5^12 jest równa
+
+A. 30
+B. 31
+C. 5^12
+D. 5^27
+
+
+Zadanie 3. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Liczba log_3 108 − 2log_3 2 jest równa
+
+A. 3
+B. 9
+C. log_3 104
+D. 2log_3 54
+
+
+Zadanie 4. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Dla każdej liczby rzeczywistej x wartość wyrażenia (3x + 2)^2 − (2x − 3)^2
+jest równa wartości wyrażenia
+
+A. 5x^2 − 5
+B. 5x^2 + 13
+C. 5x^2 + 24x − 5
+D. 5x^2 + 24x − 13
+
+
+Zadanie 5. (0–2)
+Wykaż, że dla każdej nieparzystej liczby naturalnej n liczba 3n^2 + 2n + 7 jest
+podzielna przez 4.
+
+
+Zadanie 6. (0–1)
+Dana jest nierówność
+
+3 − 2(1 − 2x) ≥ 2x − 17
+
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb
+rzeczywistych spełniających powyższą nierówność? Wybierz właściwą odpowiedź
+spośród podanych.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+A.
+B.
+C.
+D.
+
+
+Zadanie 7. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Równanie 2x(x + 3)(x^2 + 25) = 0 w zbiorze liczb rzeczywistych ma dokładnie
+
+A. dwa rozwiązania: (−3) oraz 0.
+B. dwa rozwiązania: (−3) oraz 2.
+C. trzy rozwiązania: (−5), (−3) oraz 0.
+D. cztery rozwiązania: (−5), (−3), 0 oraz 5.
+
+
+Zadanie 8. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Dla każdej liczby rzeczywistej x różnej od (−2) oraz różnej od 0 wartość wyrażenia
+
+((x^2 + x) / (x^2 + 4x + 4)) · ((x + 2) / x)
+
+jest równa wartości wyrażenia
+
+A. (x + 2) / (4x + 4)
+B. (x + 1) / (4x + 5)
+C. (x + 1) / (x + 2)
+D. 2x / (x + 2)
+
+
+Zadanie 9. (0–2)
+Zarząd firmy wydzielił z budżetu kwotę 1 200 000 złotych łącznie na projekty badawcze dla
+dwóch zespołów: A i B. W pierwszym półroczu realizacji tych projektów oba zespoły
+wykorzystały łącznie 146 700 złotych – zespół A wykorzystał 13% przyznanych mu
+środków, a zespół B wykorzystał 11% przyznanych mu środków.
+
+Oblicz kwotę przyznaną zespołowi A na realizację projektu badawczego.
+Zapisz obliczenia.
+
+
+Zadanie 10. (0–2)
+Rozwiąż nierówność
+
+3(2x^2 + 1) &lt; 11x
+
+Zapisz obliczenia.
+
+
+Zadanie 11. (0–4)
+Funkcja f jest określona następująco:
+
+f(x) = {
+  x + 5       dla x ∈ [−4, −2]
+  3           dla x ∈ (−2, 2]
+  −3x + 9     dla x ∈ (2, 4)
+}
+
+Wykres funkcji y = f(x) przedstawiono w kartezjańskim układzie współrzędnych (x, y)
+na rysunku poniżej.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby
+zdania były prawdziwe.
+
+1. Dziedziną funkcji f jest przedział …………………… .
+2. Zbiorem wartości funkcji f jest przedział …………………… .
+3. Zbiorem wszystkich argumentów, dla których funkcja f przyjmuje wartości dodatnie, jest
+   przedział …………………… .
+4. Zbiorem wszystkich rozwiązań równania f(x) = 3 jest przedział …………………… .
+
+
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (x, y) przedstawiono fragment paraboli, która jest
+wykresem funkcji kwadratowej f (zobacz rysunek). Wierzchołek tej paraboli ma
+współrzędne (3, 6). Ta parabola przecina oś Oy w punkcie o współrzędnych (0, 3).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 12.1. (0–2)
+Wyznacz wzór funkcji f w postaci kanonicznej. Zapisz obliczenia.
+
+
+Zadanie 12.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Osią symetrii wykresu funkcji f jest prosta o równaniu
+
+A. x = 3
+B. x = −3
+C. y = 6
+D. y = −6
+
+
+Zadanie 12.3. (0–1)
+Funkcja g jest określona dla każdej liczby rzeczywistej x wzorem g(x) = f(x) − 3.
+Liczby x_1 oraz x_2 są różnymi miejscami zerowymi funkcji g.
+
+Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie
+było prawdziwe.
+
+Suma x_1 + x_2 jest równa ……… .
+
+
+Zadanie 13. (0–1)
+Funkcja liniowa f jest określona wzorem f(x) = (3 − m)x − 4.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Funkcja f nie ma miejsca zerowego dla m równego
+
+A. (−3)
+B. 0
+C. 3
+D. 4
+
+
+Zadanie 14.
+Ciąg (a_n) jest określony następująco:
+
+{
+  a_1 = 2
+  a_(n+1) = 2a_n + 1     dla każdej liczby naturalnej n ≥ 1
+}
+
+Zadanie 14.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Trzeci wyraz ciągu (a_n) jest równy
+
+A. 4
+B. 5
+C. 7
+D. 11
+
+
+Zadanie 14.2. (0–1)
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+
+Ciąg (a_n) jest arytmetyczny. P F
+Ciąg (a_n) jest geometryczny. P F
+
+
+Zadanie 15. (0–3)
+Wyznacz wartość m, dla której trzywyrazowy ciąg
+
+(2m + 11, m^2 + 3, 5 − m)
+
+jest arytmetyczny i malejący. Zapisz obliczenia.
+
+
+Zadanie 16. (0–1)
+Dany jest ciąg geometryczny (a_n) określony dla każdej liczby naturalnej n ≥ 1, w którym
+a_1 = 27 oraz a_2 = 9.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Czwarty wyraz ciągu (a_n) jest równy
+
+A. 1/3
+B. 1
+C. 3
+D. 729
+
+
+Zadanie 17. (0–1)
+Kąt α jest ostry i spełnia warunek √3 tg α = 2 sin α.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Cosinus kąta α jest równy
+
+A. 1/2
+B. √2/2
+C. √3/2
+D. √3/3
+
+
+Zadanie 18.
+Dany jest trójkąt prostokątny ABC, w którym bok BC jest przeciwprostokątną,
+przyprostokątna AB ma długość 6, a środkowa CD ma długość 5.
+Oznaczmy kąt ADC przez α, natomiast kąt ABC – przez β (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 18.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Tangens kąta α jest równy
+
+A. 2/3
+B. 3/4
+C. 4/5
+D. 4/3
+
+
+Zadanie 18.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Sinus kąta β jest równy
+
+A. 2/√13
+B. 3/√13
+C. 5/(2√13)
+D. 4/5
+
+
+Zadanie 19. (0–1)
+Punkty A, B oraz C leżą na okręgu o środku w punkcie O.
+Miara kąta BCA jest równa 50° (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Miara kąta ostrego ABO jest równa
+
+A. 20°
+B. 35°
+C. 40°
+D. 50°
+
+
+Zadanie 20. (0–1)
+W trójkącie równoramiennym ABC dane są: |AC| = |BC| = 4 i |AB| = 3.
+Na boku BC, między punktami B i C, wybrano taki punkt D, że trójkąty ABC i BDA są
+podobne (zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Odcinek BD ma długość
+
+A. 2
+B. 2,25
+C. 2,5
+D. 3
+
+
+Zadanie 21. (0–1)
+Dany jest trójkąt ABC, w którym |AB| = 11, |BC| = 12 oraz |∡ABC| = 60° (zobacz
+rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest
+prawdziwe, albo F – jeśli jest fałszywe.
+
+Trójkąt ABC jest równoramienny. P F
+Pole trójkąta ABC jest równe 33√3. P F
+
+
+Zadanie 22. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) dany jest kwadrat ABCD, w którym
+A = (4, −1). Przekątne tego kwadratu przecinają się w punkcie S = (1, 3).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Przekątna kwadratu ABCD ma długość
+
+A. 5
+B. 7
+C. 10
+D. 14
+
+
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) proste k oraz l są określone równaniami
+
+k: y = (m − 2)x + 5
+l: y = −4x + (m + 3)
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Proste k oraz l są równoległe, gdy liczba m jest równa
+
+A. (−4)
+B. (−2)
+C. 2
+D. 5
+
+
+Zadanie 24. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) punkt P = (0, 0) leży na okręgu O
+o środku w punkcie S = (2, 4).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Okrąg O jest określony równaniem
+
+A. (x − 2)^2 + (y − 4)^2 = 2√5
+B. (x − 2)^2 + (y − 4)^2 = 20
+C. (x + 2)^2 + (y + 4)^2 = 2√5
+D. (x + 2)^2 + (y + 4)^2 = 20
+
+
+Zadanie 25. (0–3)
+Tworząca stożka ma długość 8. Kąt rozwarcia tego stożka ma miarę 120°.
+
+Oblicz objętość tego stożka. Zapisz obliczenia.
+
+
+Zadanie 26. (0–1)
+Objętość sześcianu jest równa 729.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Długość przekątnej tego sześcianu jest równa
+
+A. 9√3
+B. 9√2
+C. 3√3
+D. 3√2
+
+
+Zadanie 27. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Wszystkich liczb naturalnych trzycyfrowych nieparzystych, w których zapisie dziesiętnym
+występuje dokładnie jeden raz cyfra 0, jest
+
+A. 45
+B. 50
+C. 54
+D. 81
+
+
+Zadanie 28. (0–1)
+Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry,
+która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.
+Zdarzenie A polega na tym, że suma liczb wyrzuconych oczek będzie równa 11.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Prawdopodobieństwo zdarzenia A jest równe
+
+A. 1/36
+B. 6/36
+C. 11/36
+D. 2/36
+
+
+Zadanie 29. (0–1)
+Średnia arytmetyczna siedmiu liczb: 1, 2, 3, 4, 5, x, y, jest równa 3.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Suma x + y jest równa
+
+A. 4
+B. 5
+C. 6
+D. 7
+
+
+Zadanie 30. (0–2)
+Na diagramie przedstawiono wyniki sprawdzianu z matematyki w pewnej klasie maturalnej
+liczącej 24 uczniów. Na osi poziomej podano oceny, które uzyskali uczniowie tej klasy,
+a na osi pionowej podano liczbę uczniów, którzy otrzymali daną ocenę.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania
+były prawdziwe.
+
+1. Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+   ………… .
+2. Dominanta ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa
+   ………… .
+
+
+Zadanie 31. (0–4)
+Rozważamy wszystkie prostopadłościany ABCDEFGH, w których krawędź BC ma długość 4
+oraz suma długości wszystkich krawędzi wychodzących z wierzchołka B jest równa 15
+(zobacz rysunek).
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Niech P(x) oznacza funkcję pola powierzchni całkowitej takiego prostopadłościanu
+w zależności od długości x krawędzi AB.
+
+Wyznacz wzór i dziedzinę funkcji P. Oblicz długość x krawędzi AB tego
+z rozważanych prostopadłościanów, którego pole powierzchni całkowitej jest
+największe. Zapisz obliczenia.
+
+
+
+
+ZASADY OCENIANIA:
+
+Plaintext
+--- PAGE 1 ---
+
+CENTRALNA
+KOMISJA
+EGZAMINACYJNA
+
+Rodzaj dokumentu: Zasady oceniania rozwiązań zadań
+Egzamin: Egzamin maturalny
+Przedmiot: Matematyka
+Poziom: Poziom podstawowy
+Formy arkusza: MMAP-P0-100 (wersje arkusza: A i B), MMAP-P0-200, MMAP-P0-300, MMAP-P0-400, MMAP-P0-700, MMAP-P0-Q00, MMAP-P0-K00, MMAU-P0-100
+Termin egzaminu: 6 maja 2025 r.
+Data publikacji dokumentu: 27 czerwca 2025 r.
+
+--- PAGE 2 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Uwagi ogólne:
+1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym zapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną liczbę punktów.
+3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może otrzymać co najwyżej ((n-1)) punktów (gdzie (n) jest maksymalną możliwą do uzyskania liczbą punktów za dane zadanie).
+
+Zadanie 1. (0-1)
+Wymagania określone w podstawie programowej¹
+Wymaganie ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: Zdający: 1.3) stosuje własności pierwiastków dowolnego stopnia [...]; 1.4) stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach i pierwiastkach.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: B; Wersja B: C
+
+¹ Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz.U. z 2024 r. poz. 1019).
+Strona 2 z 40
+
+--- PAGE 3 ---
+
+Zasady oceniania rozwiązań zadań
+
+Zadanie 2. (0-1)
+Wymaganie ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymaganie szczegółowe: Zdający: 1.4) stosuje [...] prawa działań na potęgach [...].
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: B; Wersja B: D
+
+Zadanie 3. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: 1.9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na [...] logarytm ilorazu i logarytm potęgi.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: A; Wersja B: C
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 3 z 40
+
+--- PAGE 4 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Zadanie 4. (0-1)
+Wymaganie ogólne: 1. Sprawność rachunkowa. Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: Zdający: II.1) stosuje wzory skróconego mnożenia na: ((a+b)^2), ((a-b)^2), (a^2-b^2); II.2) dodaje, odejmuje i mnoży wielomiany jednej i wielu zmiennych.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: C; Wersja B: D
+
+Zadanie 5. (0-2)
+Wymaganie ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymaganie szczegółowe: Zdający: 1.2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia [...].
+
+Zasady oceniania:
+2 pkt – zapisanie, że (n=2l+1), oraz przekształcenie wyrażenia (3n^2+2n+7) do postaci (4(3l^2+4l+3))
+ALBO
+– przekształcenie wyrażenia (3n^2+2n+7) do postaci sumy algebraicznej liczb podzielnych przez 4 oraz uzasadnienie, że każdy ze składników tej sumy jest podzielny przez 4,
+ALBO
+– rozpatrzenie przypadku, gdy (n=4l+1), tj. przekształcenie wyrażenia (3n^2+2n+7) do postaci (4(12l^2+8l+3)), oraz rozpatrzenie przypadku, gdy (n=4l+3), tj. przekształcenie wyrażenia (3n^2+2n+7) do postaci (4(12l^2+20l+10)boxclose),
+ALBO
+Strona 4 z 40
+
+--- PAGE 5 ---
+
+Zasady oceniania rozwiązań zadań
+
+– zapisanie, że liczba (3n^2) przy dzieleniu przez 4 daje resztę 3 oraz zapisanie, że liczba (2n) przy dzieleniu przez 4 daje resztę 2 oraz zapisanie, że suma reszt z dzielenia przez 4 liczb: (3n^2), (2n), (7), jest podzielna przez 4.
+1 pkt – zapisanie, że (n=2l+1), oraz przekształcenie wyrażenia (3n^2+2n+7) do postaci (3(4l^2+4l+1)+2(2l+1)+7)
+ALBO
+– przekształcenie wyrażenia (3n^2+2n+7) do postaci sumy algebraicznej liczb podzielnych przez 4, w której podzielność przez 4 jednego ze składników nie wymaga uzasadnienia: (4(n^2+n+2)-(n+1)^2), ((3n-1)(n+1)+8), (4(n^2+n+1)-(n+3)(n-1)),
+ALBO
+– przekształcenie wyrażenia (3n^2+2n+7) do postaci sumy algebraicznej liczb podzielnych przez 4: (2n(n+1)+(n^2+7)), ((n+1)^2+2(n^2+3)), oraz uzasadnienie podzielności przez 4 jednego ze składników tej sumy,
+ALBO
+– rozpatrzenie przypadku, gdy (n=4l+1), tj. przekształcenie wyrażenia (3n^2+2n+7) do postaci (4(12l^2+8l+3)),
+ALBO
+– rozpatrzenie przypadku, gdy (n=4l+3), tj. przekształcenie wyrażenia (3n^2+2n+7) do postaci (4(12l^2+20l+10)),
+ALBO
+– zapisanie, że liczba (3n^2) przy dzieleniu przez 4 daje resztę 3 oraz zapisanie, że liczba (2n) przy dzieleniu przez 4 daje resztę 2.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Uwagi:
+1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości (n), to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający wykazuje, że dla każdej liczby naturalnej nieparzystej (n) wyrażenie (3n^2-2n+7) (zamiast (3n^2+2n+7)) jest podzielne przez 4, to otrzymuje 1 punkt.
+3. Jeżeli zdający przedstawia (n) w postaci (2l+1), a następnie przekształca wyrażenie (3n^2+2n+7) np. do postaci (4(3l^2+4l+3)) i kontynuuje rozumowanie, popełniając błędy we wnioskowaniu, to otrzymuje 1 punkt za całe rozwiązanie.
+4. Jeżeli zdający przedstawia (n) w postaci (2l+1), a następnie błędnie przekształca wyrażenie (3(2l+1)^2+2(2l+1)+7), ale uzyskuje całkowitą wielokrotność liczby 4 postaci (4cdot(acdot l^2+bcdot l+c)), gdzie (a,b,c in mathbb{Z}) i (a ne 0), to może otrzymać 1 punkt za całe rozwiązanie.
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 5 z 40
+
+--- PAGE 6 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Przykładowe pełne rozwiązania
+
+Sposób I
+Ponieważ liczba (n) jest nieparzysta, więc zapisujemy ją w postaci (n=2l+1), gdzie (l in mathbb{Z}) i (l ge 0). Wówczas
+[3n^2+2n+7=3(2l+1)^2+2(2l+1)+7=3(4l^2+4l+1)+4l+2+7=]
+[=12l^2+12l+3+4l+9=12l^2+16l+12=4(3l^2+4l+3)]
+Ponieważ (l in mathbb{Z}), więc również suma (3l^2+4l+3) jest liczbą całkowitą. Zatem iloczyn (4(3l^2+4l+3)) jest podzielny przez 4. To należało wykazać.
+
+Sposób II
+Zapisujemy liczbę (3n^2+2n+7) w postaci sumy algebraicznej liczb podzielnych przez 4, np.:
+[3n^2+2n+7=4n^2-n^2+4n-2n+8-1=4(n^2+n+2)-(n+1)^2]
+Liczba (4(n^2+n+2)) jest podzielna przez 4 dla dowolnej liczby całkowitej (n).
+Liczba (n) jest nieparzysta, zatem liczba (n+1) jest parzysta. Stąd jej kwadrat jest liczbą podzielną przez 4. Zatem liczba (3n^2+2n+7) jest podzielna przez 4 jako różnica liczb podzielnych przez 4. To należało wykazać.
+
+Sposób III
+Reszty z dzielenia liczby naturalnej nieparzystej przez 4 mogą być równe jedynie 1 lub 3. Rozważmy dwa przypadki.
+Przypadek pierwszy - gdy (n) jest liczbą, która przy dzieleniu przez 4 daje resztę 1. Wtedy możemy ją zapisać w postaci (n=4l+1), gdzie (l in mathbb{Z}) i (l ge 0). Wówczas
+[3n^2+2n+7=3(4l+1)^2+2(4l+1)+7=3(16l^2+8l+1)+8l+2+7=]
+[=48l^2+24l+3+8l+9=48l^2+32l+12=4(12l^2+8l+3)]
+Ponieważ (l in mathbb{Z}), więc również suma (12l^2+8l+3) jest liczbą całkowitą. Zatem iloczyn (4(12l^2+8l+3)) jest podzielny przez 4.
+Przypadek drugi - gdy (n) jest liczbą, która przy dzieleniu przez 4 daje resztę 3. Wtedy możemy ją zapisać w postaci (n=4l+3), gdzie (l in mathbb{Z}) i (l ge 0). Wówczas
+[3n^2+2n+7=3(4l+3)^2+2(4l+3)+7=3(16l^2+24l+9)+8l+6+7=]
+[=48l^2+72l+27+8l+13=48l^2+80l+40=4(12l^2+20l+10)]
+Ponieważ (l in mathbb{Z}), więc również suma (12l^2+20l+10) jest liczbą całkowitą. Zatem iloczyn (4(12l^2+20l+10)) jest podzielny przez 4. To należało wykazać.
+
+Strona 6 z 40
+
+--- PAGE 7 ---
+
+Zasady oceniania rozwiązań zadań
+
+Sposób IV
+Ponieważ liczba (n) jest nieparzysta, więc liczba (n^2) przy dzieleniu przez 4 daje resztę 1. Stąd wynika, że liczba (3n^2) daje przy dzieleniu przez 4 resztę 3, a liczba (2n) daje przy dzieleniu przez 4 resztę 2. Ponadto liczba 7 daje przy dzieleniu przez 4 resztę 3. Zatem reszta z dzielenia przez 4 liczby (3n^2+2n+7) jest równa reszcie z dzielenia przez 4 liczby (3+2+3=8). Liczba 8 jest podzielna przez 4, zatem liczba (3n^2+2n+7) jest również podzielna przez 4. To należało wykazać.
+
+Zadanie 6. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymagania szczegółowe: Zdający: III.3) rozwiązuje nierówności liniowe z jedną niewiadomą; 1.6) posługuje się pojęciem przedziału liczbowego, zaznacza przedziały na osi liczbowej.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: D; Wersja B: D
+
+Zadanie 7. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: III.5) rozwiązuje równania wielomianowe postaci (W(x)=0) dla wielomianów doprowadzonych do postaci iloczynowej.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: A; Wersja B: A
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 7 z 40
+
+--- PAGE 8 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Zadanie 8. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: II.4) mnoży [...] wyrażenia wymierne.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: C; Wersja B: B
+
+Zadanie 9. (0-2)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymaganie szczegółowe: Zdający: IV.2) stosuje układy równań do rozwiązywania zadań tekstowych.
+
+Zasady oceniania:
+2 pkt – zastosowanie poprawnej metody i poprawny wynik: 735000 zł.
+1 pkt – zapisanie układu równań pozwalającego obliczyć kwoty przyznane poszczególnym zespołom, np. (x+y=1200000) oraz (0,13x+0,11y=146700)
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć kwotę przyznaną zespołowi A, np.:
+[2%cdot x=14700] (uwaga: błędny wpis w OCR, poprawne równania to poniższe)
+[0,13x+0,11cdot(1200000-x)=146700]
+ALBO
+– zapisanie równania z jedną niewiadomą pozwalającego obliczyć kwotę przyznaną zespołowi B, np.:
+[0,13cdot(1200000-y)+0,11y=146700]
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Strona 8 z 40
+
+--- PAGE 9 ---
+
+Zasady oceniania rozwiązań zadań
+
+Uwagi:
+1. Jeżeli zdający sprawdza warunki zadania dla wybranych par liczb (x) oraz (y) i wskaże właściwą odpowiedź, ale nie uzasadni, że jest to jedne rozwiązanie zadania, to otrzymuje 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający w rozwiązaniu używa wartości przybliżonych i otrzymuje wynik różny od 735 000, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+
+Przykładowe pełne rozwiązanie
+Oznaczmy:
+(x) – kwota przyznana zespołowi A,
+(y) – kwota przyznana zespołowi B.
+Po uwzględnieniu warunków zadania otrzymujemy:
+(x+y=1200000) oraz (0,13x+0,11y=146700)
+Z pierwszego z tych równań wyznaczamy (y=1200000-x) i podstawiamy w miejsce (y) do drugiego z równań, otrzymując:
+[0,13x+0,11cdot(1200000-x)=146700]
+[0,13x+132000-0,11x=146700]
+[0,02x=14700]
+[x=735000]
+Zespół A otrzymał 735 000 zł.
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 9 z 40
+
+--- PAGE 10 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Zadanie 10. (0-2)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: III.4) rozwiązuje [...] nierówności kwadratowe.
+
+Zasady oceniania:
+2 pkt – zastosowanie poprawnej metody i zapisanie zbioru rozwiązań nierówności: (x in left(frac{1}{3},frac{3}{2}right))
+ALBO
+– zastosowanie poprawnej metody i przedstawienie zbioru rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziału, np. na osi liczbowej przedział o końcach frac{1}{3} i frac{3}{2}.
+1 pkt – obliczenie pierwiastków trójmianu kwadratowego (6x^2-11x+3): (x_1=frac{1}{3}) oraz (x_2=frac{3}{2}).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Uwagi:
+1. Jeżeli zdający, obliczając pierwiastki trójmianu (6x^2-11x+3), popełni błędy (ale otrzyma dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór rozwiązań nierówności, to otrzymuje 1 punkt za całe rozwiązanie.
+2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego, w przypadku gdy błędnie obliczony przez zdającego wyróżnik (Delta) jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.
+3. Jeżeli zdający rozpatruje inny niż podany w zadaniu trójmian kwadratowy, który nie wynika z błędu przekształcenia (np. (3(2x^2+1))), i w konsekwencji rozpatruje inną nierówność (np. (3(2x^2+1)&lt;0)), to otrzymuje 0 punktów za całe rozwiązanie.
+4. Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi końcami przedziału i jednocześnie zapisze niewłaściwy przedział jako zbiór rozwiązań (np. (x in left[frac{1}{3},frac{3}{2}right])), to otrzymuje 1 punkt za całe rozwiązanie.
+
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki:
+Jeśli zdający spełni kryterium za 1 punkt, a następnie zapisze zbiór rozwiązań nierówności w postaci (left(frac{3}{2},frac{1}{3}right)), to otrzymuje 2 punkty.
+
+Strona 10 z 40
+
+--- PAGE 11 ---
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku przedstawiono oś liczbową x z zaznaczonymi punktami o współrzędnych frac{1}{3} oraz frac{3}{2} (punkty są niezamalowanymi kółkami). Przez te punkty przechodzi parabola skierowana ramionami do góry, z wierzchołkiem poniżej osi. Obszar nad osią pomiędzy punktami frac{1}{3} a frac{3}{2} jest zacieniowany prostokątnym fioletowym paskiem, symbolizującym rozwiązanie nierówności.
+
+Zasady oceniania rozwiązań zadań
+
+Przykładowe pełne rozwiązanie
+Zapisujemy nierówność w postaci (6x^2-11x+3m^2+3 implies m in (-2,4)]
+[m^2+3&gt;5-m implies m in (-infty,-2) cup (1,+infty)]
+[2m+11&gt;5-m implies m in (-2,+infty)]
+ALBO
+– obliczenie wszystkich wartości (r), dla których ciąg ((2m+11, m^2+3, 5-m)) jest arytmetyczny: (r=-frac{27}{4}) lub (r=0),
+ALBO
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 17 z 40
+
+--- PAGE 18 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+– obliczenie wartości (r), dla której ciąg ((2m+11, m^2+3, 5-m)) jest arytmetyczny i malejący: (r=-frac{27}{4}).
+1 pkt – zapisanie równania z jedną niewiadomą (m), np.:
+[frac{2m+11+5-m}{2}=m^2+3]
+[(m^2+3)-(2m+11)=(5-m)-(m^2+3)]
+ALBO
+– zapisanie układu równań z dwiema niewiadomymi pozwalającego obliczyć (m) i (r), np. (m^2+3=2m+11+r) oraz (5-m=2m+11+2r),
+ALBO
+– rozwiązanie co najmniej jednej z trzech nierówności:
+[2m+11&gt;m^2+3 implies m in (-2,4)]
+[m^2+3&gt;5-m implies m in (-infty,-2) cup (1,+infty)]
+[2m+11&gt;5-m implies m in (-2,+infty)]
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Uwagi:
+1. Jeżeli zdający myli ciąg arytmetyczny z geometrycznym, to otrzymuje 0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów (np. za rozwiązanie nierówności (2m+11&gt;m^2+3)).
+2. Jeżeli zdający nie uwzględnia istotnych nawiasów i rozwiązuje równanie postaci ((m^2+3)-2m+11=(5-m)-m^2+3), to otrzymuje 0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów (np. za rozwiązanie nierówności (2m+11&gt;m^2+3)).
+3. Jeżeli zdający zapisze tylko (m=frac{5}{2}), to otrzymuje 0 punktów. Natomiast jeżeli zdający dodatkowo sprawdzi, zapisując odpowiednie obliczenia, że dla tej wartości (m) spełnione są warunki zadania, ale nie uzasadni, że jest to jedyne rozwiązanie, to otrzymuje 1 punkt za całe rozwiązanie.
+4. Jeżeli zdający wyznaczy wartości (m), dla których ciąg ((2m+11, m^2+3, 5-m)) jest arytmetyczny: (m=-2) oraz (m=frac{5}{2}), i zapisze, że dla (m=-2) ciąg nie jest malejący, to otrzymuje 3 punkty.
+5. Jeżeli zdający wyznaczy wartości (m), dla których ciąg ((2m+11, m^2+3, 5-m)) jest arytmetyczny: (m=-2) oraz (m=frac{5}{2}), a następnie obliczy dla każdej z tych wartości (m) wyrazy ciągu i nie wskaże, że (m=frac{5}{2}) jest jedyną szukaną wartością, to otrzymuje 2 punkty za całe rozwiązanie.
+
+Strona 18 z 40
+
+--- PAGE 19 ---
+
+Przykładowe pełne rozwiązania
+
+Sposób I
+Z własności ciągu arytmetycznego otrzymujemy:
+[frac{2m+11+5-m}{2}=m^2+3]
+[m+16=2m^2+6]
+[2m^2-m-10=0]
+Obliczamy wyróżnik trójmianu (2m^2-m-10):
+[Delta=(-1)^2-4cdot2cdot(-10)=81]
+Stąd
+[m_1=frac{-(-1)-sqrt{81}}{2cdot2}=-2]
+[m_2=frac{-(-1)+sqrt{81}}{2cdot2}=frac{5}{2}]
+Zasady oceniania rozwiązań zadań
+Dla (m=-2) otrzymujemy ciąg ((7,7,7)boxclose), który jest stały.
+Dla (m=frac{5}{2}boxclose) otrzymujemy ciąg (left(16,frac{37}{4},frac{5}{2}right)boxclose), który jest malejący.
+Zatem ciąg ((2m+11, m^2+3, 5-m)boxclose) jest malejącym ciągiem arytmetycznym, gdy (m=frac{5}{2}boxclose).
+
+Sposób II
+Ciąg ((2m+11, m^2+3, 5-m)boxclose) jest malejący, gdy ((m^2+3)-(2m+11)&lt;0) i ((5-m)-(m^2+3)&lt;0).
+[m^2-2m-8&lt;0 quad text{i} quad -m^2-m+2&lt;0]
+[m^2-4m+2m-8&lt;0 quad text{i} quad -m^2-2m+m+2&lt;0]
+[m(m-4)+2(m-4)&lt;0 quad text{i} quad -m(m+2)+(m+2)&lt;0]
+[boxopen(m-4)(m+2)&lt;0 quad text{i} quad -(m+2)(m-1)5-m). Stąd (m&gt;-2).
+Strona 20 z 40
+
+--- PAGE 21 ---
+
+Zasady oceniania rozwiązań zadań
+
+Dla (m=frac{5}{2}boxclose) otrzymujemy ciąg arytmetyczny (left(16,frac{37}{4},frac{5}{2}right)boxclose), który jest malejący. Zatem ciąg ((2m+11, m^2+3, 5-m)boxclose) jest malejącym ciągiem arytmetycznym, gdy (m=frac{5}{2}boxclose).
+
+Sposób IV
+Ze wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy:
+[begin{cases} m^2+3=2m+11+r \ 5-m=2m+11+2r end{cases}]
+gdzie r jest różnicą ciągu arytmetycznego. Stąd
+[begin{cases} m^2-2m-r-8=0 \ 3m+2r+6=0 end{cases}]
+Z drugiego z tych równań wyznaczamy (m=-frac{2}{3}r-2) i podstawiamy w miejsce m do pierwszego z równań, otrzymując:
+[left(-frac{2}{3}r-2right)^2-2cdotleft(-frac{2}{3}r-2right)-r-8=0]
+[frac{4}{9}r^2+frac{8}{3}r+4+frac{4}{3}r+4-r-8=0]
+[frac{4}{9}r^2+3r=0 quad / :r quad text{(ciąg jest malejący, więc } r0) i (H&gt;0). Ponieważ O jest spodkiem wysokości stożka, to (|angle OSB|=60^{circ}). W trójkącie prostokątnym OBS mamy:
+Strona 28 z 40
+
+--- PAGE 29 ---
+
+[sin 60^{circ}=frac{|OB|}{|SB|}=frac{r}{8}]
+Zatem
+[r=8cdotsin 60^{circ}=8cdotfrac{sqrt{3}}{2}=4sqrt{3}]
+Ponadto
+[cos 60^{circ}=frac{|SO|}{|SB|}=frac{H}{8}]
+Stąd
+[H=8cdotcos 60^{circ}=8cdotfrac{1}{2}=4]
+Obliczamy objętość V stożka:
+[V=frac{1}{3}cdotpicdot r^2cdot H=frac{1}{3}cdotpicdot(4sqrt{3})^2cdot4=64pi]
+
+Sposób II
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Rysunek przekroju osiowego stożka jest identyczny jak w Sposobie I: trójkąt ASB, wysokość H, promień r, tworząca 8, kąt rozwarcia przy wierzchołku S wynosi (120^{circ}).
+
+Przyjmujemy oznaczenia jak na rysunku przedstawiającym przekrój osiowy rozważanego stożka:
+S – wierzchołek stożka, O – spodek wysokości stożka, r – promień podstawy stożka, H – wysokość stożka.
+Zauważamy, że (r&gt;0) i (H&gt;0). Korzystamy z twierdzenia cosinusów dla trójkąta ABS i otrzymujemy:
+[(2r)^2=8^2+8^2-2cdot8cdot8cdotcos 120^{circ}]
+[4r^2=128-128cdotcos 120^{circ}]
+Ponieważ (cos 120^{circ}=-cos 60^{circ}=-frac{1}{2}), więc
+[4r^2=128-128cdotleft(-frac{1}{2}right)]
+[4r^2=192]
+[r^2=48]
+Korzystamy z twierdzenia Pitagorasa dla trójkąta OBS i obliczamy wysokość stożka:
+[H^2=8^2-r^2]
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 29 z 40
+
+--- PAGE 30 ---
+
+[H^2=64-48]
+[H^2=16]
+[H=4]
+Obliczamy objętość V stożka:
+[V=frac{1}{3}cdotpicdot r^2cdot H=frac{1}{3}cdotpicdot48cdot4=64pi]
+
+Sposób III
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Rysunek przekroju osiowego stożka jest identyczny jak w Sposobach I i II: trójkąt ASB z wysokością H, promieniem r, tworzącą 8 oraz kątem rozwarcia przy wierzchołku S równym (120^{circ}).
+
+Przyjmujemy oznaczenia jak na rysunku przedstawiającym przekrój osiowy rozważanego stożka:
+S – wierzchołek stożka, O – spodek wysokości stożka, r – promień podstawy stożka, H – wysokość stożka.
+Zauważamy, że (r&gt;0) i (H&gt;0). Pole trójkąta ABS jest równe:
+[P_{ABS}=frac{1}{2}cdot8cdot8cdotsin 120^{circ}=32cdotsin 60^{circ}=32cdotfrac{sqrt{3}}{2}=16sqrt{3}]
+Zatem
+[frac{1}{2}cdot2rcdot H=16sqrt{3}]
+stąd
+[rcdot H=16sqrt{3}]
+Korzystamy z twierdzenia cosinusów dla trójkąta ABS i otrzymujemy:
+[(2r)^2=8^2+8^2-2cdot8cdot8cdotcos 120^{circ}]
+[4r^2=128-128cdot(-cos 60^{circ})]
+[4r^2=128-128cdotleft(-frac{1}{2}right)]
+[4r^2=192]
+[r^2=48]
+[r=4sqrt{3}]
+Obliczamy objętość V stożka:
+[V=frac{1}{3}cdotpicdot r^2cdot H=frac{1}{3}cdotpicdot rcdot rcdot H=frac{1}{3}cdotpicdot4sqrt{3}cdot16sqrt{3}=64pi]
+
+Strona 30 z 40
+
+--- PAGE 31 ---
+
+Zasady oceniania rozwiązań zadań
+
+Zadanie 26. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: X.5) oblicza objętości [...] graniastosłupów [...].
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: A; Wersja B: D
+
+Zadanie 27. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymaganie szczegółowe: Zdający: XI.2) zlicza obiekty, stosując reguły mnożenia i dodawania [...].
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: A; Wersja B: D
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 31 z 40
+
+--- PAGE 32 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Zadanie 28. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymaganie szczegółowe: Zdający: XII.1) oblicza prawdopodobieństwo w modelu klasycznym.
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: D; Wersja B: B
+
+Zadanie 29. (0-1)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymaganie szczegółowe: Zdający: XII.2) oblicza średnią arytmetyczną [...].
+
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+
+Rozwiązanie:
+Poprawna odp. (1 p.): Wersja A: C; Wersja B: A
+
+Strona 32 z 40
+
+--- PAGE 33 ---
+
+Zasady oceniania rozwiązań zadań
+
+Zadanie 30. (0-2)
+Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel.
+Wymaganie szczegółowe: Zdający: XII.2) [...] znajduje medianę i dominantę.
+
+Zasady oceniania:
+2 pkt – poprawne uzupełnienie dwóch zdań.
+1 pkt – poprawne uzupełnienie jednego zdania.
+0 pkt – brak spełnienia powyższych kryteriów.
+
+Uwaga: Nie akceptuje się zaokrągleń otrzymanych wyników.
+
+Rozwiązanie:
+1. Mediana ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa 4,5.
+2. Dominanta ocen uzyskanych z tego sprawdzianu przez uczniów tej klasy jest równa 6.
+
+Zadanie 31. (0-4)
+Wymaganie ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymaganie szczegółowe: Zdający: XIII) rozwiązuje zadania optymalizacyjne w sytuacjach dających się opisać funkcją kwadratową.
+
+Zasady oceniania:
+4 pkt – zastosowanie poprawnej metody i poprawne wyniki, np. (P(x)=-2x^2+22x+88) oraz (D=(0,11)) oraz (x=frac{11}{2}).
+3 pkt – wyznaczenie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu ABCDEFGH w zależności od zmiennej x oraz wyznaczenie dziedziny D tej funkcji, np. (P(x)=-2x^2+22x+88) oraz (D=(0,11)),
+ALBO
+– wyznaczenie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu ABCDEFGH w zależności od zmiennej x (bez wyznaczonej dziedziny funkcji P) oraz prawidłowe obliczenie pierwszej współrzędnej wierzchołka wykresu funkcji P, np. (P(x)=-2x^2+22x+88) oraz (x=frac{11}{2}).
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 33 z 40
+
+--- PAGE 34 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+2 pkt – wyznaczenie poprawnego wzoru na pole powierzchni całkowitej prostopadłościanu ABCDEFGH w zależności od zmiennej x (bez wyznaczonej dziedziny funkcji P), np. (P(x)=-2x^2+22x+88),
+ALBO
+– zapisanie zależności między długościami krawędzi BF i AB prostopadłościanu oraz wyznaczenie zakresu zmienności x, np. (x+4+|BF|=15) oraz (x in (0,11)).
+1 pkt – zapisanie zależności między długościami krawędzi BF i AB prostopadłościanu, np. (x+4+|BF|=15),
+ALBO
+– zapisanie wzoru na pole powierzchni całkowitej prostopadłościanu w zależności od długości x krawędzi AB oraz długości krawędzi BF: (P=2cdot(4x+xcdot|BF|+4cdot|BF|)),
+ALBO
+– wyznaczenie zakresu zmienności (x): (x in (0,11)).
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+
+Uwagi:
+1. Jeżeli zdający zapisze jedynie zakres zmienności (x): (x in (0,11)) oraz zapisze, że szukaną wartością x jest liczba (frac{11}{2}), to otrzymuje 1 punkt za całe rozwiązanie. Jeżeli zdający zapisze jedynie, że szukaną wartością x jest liczba (frac{11}{2}), to otrzymuje 0 punktów za całe rozwiązanie.
+2. Jeżeli zdający nie zapisze pola powierzchni całkowitej prostopadłościanu jako funkcji P zmiennej x, a jedynie obliczy wartości pola dla wybranych długości krawędzi i na tej podstawie wskaże największą wartość pola, to za całe rozwiązanie otrzymuje 0 punktów, o ile nie nabył prawa do innej liczby punktów (np. za zapisanie zależności między długościami krawędzi BF i AB prostopadłościanu: (x+4+|BF|=15)).
+3. Jeżeli zdający przyjmuje, że ściany ABFE oraz BCGF są przystającymi prostokątami i na tym opiera swoje rozwiązanie, to może otrzymać co najwyżej 2 punkty za całe rozwiązanie (za zapisanie zależności między długościami krawędzi AB i BF oraz za wyznaczenie dziedziny funkcji).
+4. Jeżeli zdający zamiast funkcji (P(x)) rozważa w całym rozwiązaniu funkcję postaci (frac{1}{2}cdot P(x)) albo funkcję pola powierzchni całkowitej w zależności od długości krawędzi BF, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie (za związek między długościami krawędzi AB i BF, za wyznaczenie dziedziny funkcji i za poprawne wyznaczenie argumentu, dla którego pole powierzchni całkowitej jest największe).
+5. Jeżeli zdający stosuje rachunek różniczkowy i nie uzasadni, że w punkcie będącym miejscem zerowym pochodnej funkcji P jest największa wartość funkcji P, to może otrzymać co najwyżej 3 punkty za całe rozwiązanie.
+
+Strona 34 z 40
+
+--- PAGE 35 ---
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na rysunku przedstawiono prostopadłościan ABCDEFGH. Dolna podstawa to prostokąt ABCD, górna podstawa to prostokąt EFGH. Krawędź dolna AB oznaczona jest jako x, krawędź boczna podstawy BC oznaczona jest jako 4. Krawędzie pionowe (wysokość prostopadłościanu) to AE, BF, CG, DH. Krawędzie niewidoczne zaznaczono liniami przerywanymi.
+
+Zasady oceniania rozwiązań zadań
+
+Za poprawne uzasadnienie, że w punkcie będącym miejscem zerowym pochodnej funkcji P jest największa wartość funkcji P, można uznać sytuację, gdy zdający bada znak pochodnej (np. szkicuje wykres funkcji, która w ten sam sposób jak pochodna zmienia znak, i zaznacza na rysunku, np. znakami „+” i „–”, znak pochodnej), oraz: opisuje przedziały monotoniczności funkcji P (słownie lub graficznie – np. przy użyciu strzałek) LUB zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja P ma maksimum lokalne i jest to jednocześnie jej największa wartość, LUB zapisuje, że dla wyznaczonego miejsca zerowego pochodnej, funkcja P ma maksimum lokalne i jest to jedyne ekstremum tej funkcji.
+
+Przykładowe pełne rozwiązanie
+Przyjmijmy oznaczenia jak na rysunku.
+Suma długości wszystkich trzech krawędzi prostopadłościanu wychodzących z wierzchołka B jest równa 15, zatem:
+[|AB|+|BC|+|BF|=15]
+[x+4+|BF|=15]
+[|BF|=11-x]
+Pole P powierzchni całkowitej prostopadłościanu ABCDEFGH jest równe:
+[P=2cdot(|AB|cdot|BC|+|AB|cdot|BF|+|BC|cdot|BF|)]
+Ponieważ (|AB|=x), (|BC|=4boxclose), (|BF|=11-xboxclose), więc wzór funkcji P zmiennej x ma postać:
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 35 z 40
+
+--- PAGE 36 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+[P(x)=2cdot[xcdot4+xcdot(11-x)+4cdot(11-x)]]
+[P(x)=2cdot(4x+11x-x^2+44-4x)]
+[P(x)=2cdot(-x^2+11x+44)]
+[P(x)=-2x^2+22x+88]
+Wyznaczamy dziedzinę funkcji P. Z warunków zadania wynika, że:
+[|AB|=x&gt;0 quad text{oraz} quad |BF|=11-x&gt;0]
+Zatem
+[x&gt;0 quad text{oraz} quad x&lt;11]
+Zmienna x może przyjmować wartości z przedziału (D=(0,11)).
+Wykresem funkcji P jest fragment paraboli skierowanej ramionami do dołu. Obliczamy pierwszą współrzędną wierzchołka tej paraboli:
+[p=frac{-22}{2cdot(-2)}=frac{-22}{-4}=frac{11}{2} in (0,11)]
+Zatem funkcja P przyjmuje wartość największą dla argumentu (frac{11}{2}).
+Spośród rozważanych prostopadłościanów największe pole powierzchni całkowitej ma ten, w którym (x=frac{11}{2}).
+
+Strona 36 z 40
+
+--- PAGE 37 ---
+
+Zasady oceniania rozwiązań zadań
+
+Ocena prac osób ze stwierdzoną dyskalkulią
+
+Obowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej dyskalkulii z dodatkowym uwzględnieniem:
+I. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią (punkty 1.-12.);
+II. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią - egzamin maturalny z matematyki, poziom podstawowy, termin główny 2025.
+
+I. Ogólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią
+1. Nie należy traktować jako błędy merytoryczne pomyłek, wynikających z:
+– błędnego przepisania
+– przestawienia cyfr
+– zapisania innej cyfry, ale o podobnym wyglądzie
+– przestawienia położenia przecinka
+– przestawienia położenia znaku liczby.
+2. W przypadku błędu, wynikających ze zmiany znaku liczby, należy w każdym zadaniu oddzielnie przeanalizować, czy zdający opanował inne umiejętności, poza umiejętnościami rachunkowymi, oceniane w zadaniu. W przypadku opanowania badanych umiejętności zdający powinien otrzymać przynajmniej 1 punkt.
+3. We wszystkich zadaniach otwartych, w których wskazano poprawną metodę rozwiązania, części lub całości zadania, zdającemu należy przyznać przynajmniej 1 punkt, zgodnie z kryteriami do poszczególnych zadań.
+4. Jeśli zdający przedstawia nieprecyzyjne zapisy, na przykład pomija nawiasy lub zapisuje nawiasy w niewłaściwych miejscach, ale przeprowadza poprawne rozumowanie lub stosuje właściwą strategię, to może otrzymać przynajmniej 1 punkt za rozwiązanie zadania.
+5. W przypadku zadania wymagającego wyznaczenia pierwiastków trójmianu kwadratowego zdający może otrzymać 1 punkt, jeżeli przedstawi poprawną metodę wyznaczania pierwiastków trójmianu kwadratowego, przy podanych w treści zadania wartościach liczbowych.
+6. W przypadku zadania wymagającego rozwiązania nierówności kwadratowej zdający może otrzymać 1 punkt, jeżeli stosuje poprawny algorytm rozwiązywania nierówności kwadratowej, przy podanych w treści zadania wartościach liczbowych.
+7. W przypadku zadania wymagającego stosowania własności funkcji kwadratowej zdający może otrzymać 1 punkt za wykorzystanie konkretnych własności funkcji kwadratowej, istotnych przy poszukiwaniu rozwiązania.
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 37 z 40
+
+--- PAGE 38 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+8. W przypadku zadania wymagającego zastosowania własności ciągów arytmetycznych lub geometrycznych zdający może otrzymać 1 punkt, jeżeli przedstawi wykorzystanie takiej własności ciągu, która umożliwia znalezienie rozwiązania zadania.
+9. W przypadku zadania wymagającego analizowania figur geometrycznych na płaszczyźnie kartezjańskiej zdający może otrzymać punkty, jeżeli przy poszukiwaniu rozwiązania przedstawi poprawne rozumowanie, wykorzystujące własności figur geometrycznych lub zapisze zależności, pozwalające rozwiązać zadanie.
+10. W przypadku zadania z rachunku prawdopodobieństwa zdający może otrzymać przynajmniej 1 punkt, jeśli przy wyznaczaniu liczby zdarzeń elementarnych sprzyjających rozważanemu zdarzeniu przyjmuje określoną regularność lub podaje prawidłową metodę wyznaczenia tej liczby zdarzeń elementarnych.
+11. W przypadku zadania z geometrii zdający może otrzymać przynajmniej 1 punkt, jeżeli podaje poprawną metodę wyznaczenia długości odcinka potrzebnej do znalezienia rozwiązania.
+12. W przypadku zadania wymagającego przeprowadzenia dowodu (z zakresu algebry lub geometrii), jeśli w przedstawionym rozwiązaniu zdający powoła się na własność, która wyznacza istotny postęp, prowadzący do przeprowadzenia dowodu, to może otrzymać 1 punkt.
+
+II. Dodatkowe szczegółowe zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną dyskalkulią
+
+Zadanie 5.
+1 pkt – zapisanie, że (n=2l+1), oraz przekształcenie wyrażenia (3n^2+2n+7) do postaci (3(2l+1)^2+2(2l+1)+7).
+
+Zadanie 9.
+1 pkt – zapisanie równania (13%cdot x+11%cdot y=146700).
+
+Zadanie 10.
+1 pkt – zastosowanie poprawnej metody obliczenia pierwiastków trójmianu kwadratowego (6x^2-11x+3), tzn. zastosowanie wzorów na pierwiastki trójmianu kwadratowego i obliczenie tych pierwiastków
+ALBO
+– konsekwentne (do otrzymanego w wyniku popełnienia błędów o charakterze dyskalkulicznym ujemnego wyróżnika) narysowanie paraboli,
+ALBO
+– poprawne rozwiązanie nierówności (3(2x^2+1)m^2+3]
+[m^2+3&gt;5-m]
+[2m+11&gt;5-m]
+1 pkt – zapisanie co najmniej jednej z trzech nierówności:
+[2m+11&gt;m^2+3]
+[m^2+3&gt;5-m]
+[2m+11&gt;5-m]
+ALBO
+– zapisanie równania z dwiema niewiadomymi: (m) oraz (r) (gdzie r jest różnicą ciągu arytmetycznego), np. (2m+11+r=m^2+3).
+
+CENTRALNA KOMISJA EGZAMINACYJNA
+Strona 39 z 40
+
+--- PAGE 40 ---
+
+Egzamin maturalny z matematyki na poziomie podstawowym - termin główny 2025 r.
+
+Zadanie 25.
+1 pkt – zastosowanie definicji funkcji trygonometrycznej lub związków miarowych w trójkącie o kątach (30^{circ}), (60^{circ}), (90^{circ}) i zapisanie równania z jedną niewiadomą (wysokością stożka lub promieniem podstawy stożka), np.: (frac{H}{8}=cos 60^{circ}), (frac{r}{8}=frac{sqrt{3}}{2}).
+
+Zadanie 30.
+Stosuje się zasady oceniania arkusza standardowego.
+
+Zadanie 31.
+2 pkt – zapisanie zależności między długościami krawędzi BF i AB prostopadłościanu, np. (x+4+|BF|=15) oraz zapisanie wzoru na pole powierzchni całkowitej prostopadłościanu w zależności od długości x krawędzi AB oraz długości krawędzi BF: (P=2cdot(4x+xcdot|BF|+4cdot|BF|)).
+
+Strona 40 z 40

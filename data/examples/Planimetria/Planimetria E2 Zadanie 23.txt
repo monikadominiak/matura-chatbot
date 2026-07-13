@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Zad.23 W trapez ABCD wpisano okrąg. Punkty E i F są punktami styczności odpowiednio z podstawą AB i podstawą DC. Wiedząc, że |DF|=5 cm i |AE|=20 cm, oblicz długość promienia tego okręgu.
+
+1) Tworzymy rysunek poglądowy:
+
+(rysunek)
+
+Jeśli poprowadzimy odcinek GS pod kątem prostym do odcinka AD, również będzie on promieniem. Wobec tego, możemy wyznaczyć |AG|, |GB| i |GD| poprzez przystawanie trójkątów.
+
+2) Korzystamy z przystawania trójkątów:
+
+ΔABE ≅ ΔAGS (bbb)  
+ΔGDS ≅ ΔDFS (bbb)  
+
+więc:
+
+|AG|=|AE|=20  
+|GD|=|DF|=5  
+
+alternatywnie można też było skorzystać z tzw. odcinkach stycznych i złożyć na jego podstawie stwierdzenie, że |AG|-|AE| oraz |GD|-|DF| (E,F,G są punktami styczności).
+
+3) Wykazujemy, że |∡ASD| jest kątem prostym:
+
+z własności trapezu wiemy, że:
+
+1∡BAD|+1∡ADC|=180°   
+2∡α+2∡β=180°|:2  
+∡α+∡β=90°  
+
+1∡θASD|+1∡DSI|+1∡ASD|=180°  
+α+P+1∡ASD|=180°  
+1∡ASD|=180°-90°-90°  
+
+4) Wyznaczamy wysokość (i tym samym promień) z tw. o wysokości opuszczonej na przeciwprostokątną trójkąta prostokątnego:
+
+h^2=|AG|·|GD|  
+h^2=20·5=400  
+h=20  
+h=2r => 2r=10/2  
+r=5  
+
+Odp. r=5 cm.

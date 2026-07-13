@@ -1,0 +1,70 @@
+
+--- STRONA 1 ---
+Zadanie 12
+
+Rozwiązać równanie sin^3x - sin^2x cos x = -2 sin x cos^2 x + 2 cos^3 x.
+
+1️⃣ Przenosimy wszystko na jedną stronę.
+
+sin^3x - sin^2x cos x + 2sin x cos^2x - 2cos^3x = 0
+
+2️⃣ Korzystamy z metody grupowania.
+
+sin^2x (sin x - cos x) + 2cos^2x (sin x - cos x) = 0
+
+(sin^2x + 2cos^2x)(sin x - cos x) = 0
+
+3️⃣ Korzystamy z jedynki trygonometrycznej.
+
+(sin^2x + cos^2x + cos^2x)(sin x - cos x) = 0
+
+(1 + cos^2x)(sin x - cos x) = 0
+
+4️⃣ Rozwiązujemy równania.
+
+1 + cos^2x = 0  v  sin x - cos x = 0
+
+cos^2x = -1    sin x = cos x
+
+sprzeczność    x = π/4 + kπ,    k ∈ ℤ
+
+Odp.: x = π/4 + kπ, k ∈ ℤ.
+
+--- STRONA 2 ---
+II sposób
+
+1️⃣ Przenosimy wszystko na jedną stronę.
+
+sin^3x - sin^2xcosx + 2sinxcos^2x - 2cos^3x = 0
+
+2️⃣ Sprawdzamy równanie dla cosx = 0.
+
+Będziemy dzielić przez cosx i sprawdzimy osobny przypadek dla cosx = 0.
+
+sin^3x = 0
+
+sinx = 0
+
+x = kπ, k ∈ ℤ
+
+3️⃣ Dzielimy przez cos^3x by uzyskać tgx.
+
+sin^3x - sin^2xcosx + 2sinxcos^2x - 2cos^3x = 0 /: cos^3x, x ≠ π/2 + kπ, k ∈ ℤ
+
+tg^3x - tg^2x + 2tgx - 2 = 0
+
+4️⃣ Stosujemy metodę grupowania.
+
+tg^2x(tgx - 1) + 2(tgx - 1) = 0
+
+(tgx - 1)(tg^2x + 2) = 0
+
+5️⃣ Rozwiązujemy równania.
+
+tgx - 1 = 0 ∨ tg^2x + 2 = 0
+
+tgx = 1 brak rozwiązań
+
+x = π/4 + kπ
+
+Odp.: x = π/4 + kπ, k ∈ ℤ.

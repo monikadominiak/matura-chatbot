@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Uzasadnij, że różnica kwadratów liczby pierwszej p oraz liczby o 6 mniejszej jest podzielna przez 24, jeśli p > 2.
+
+liczby p - pierwsza i p - 6 , p > 2
+
+① zapisujemy i następnie przekształcamy różnicę kwadratów
+
+p^2 - (p - 6)^2 = p^2 - (p^2 - 12p + 36) =
+= 12p - 36 = 12(p - 3)
+
+② komentarz: badaną różnicę kwadratów można zapisać jako
+iloczyn 12 i (p - 3), gdzie p - 3 jest różnicą dwóch
+liczb nieparzystych (p - pierwsza, > 2) zatem jest parzysta,
+więc cały iloczyn jest podzielny przez 12 * 2 = 24
+c.k.d.

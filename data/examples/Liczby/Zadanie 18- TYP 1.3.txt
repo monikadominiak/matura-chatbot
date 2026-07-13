@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Zadanie 18 [3 pkt] - Typ 1.3  
+Oblicz log_6 16, jeśli log_3 2 = x  
+
+Musimy log_6 16 przekształcić w taki sposób, aby w zapisie znalazło się log_3 2 = x  
+
+Korzystamy ze wzoru na zamianę podstawy logarytmu  
+
+log_a C = log_b C / log_b a
+
+log_a x^r = r·log_a x 
+
+log_6 16 = log_3 16 / log_3 6 = log_3 2^4 / log_3 (2·3) = 4·log_3 2 / log_3 2 + log_3 3 = 4·x / x + 1 
+
+log(x·y) = log x + log y
+
+Odp: 4x / x+1 .

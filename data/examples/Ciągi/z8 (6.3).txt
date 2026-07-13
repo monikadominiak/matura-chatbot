@@ -1,0 +1,68 @@
+
+--- STRONA 1 ---
+z8 (6.3)
+
+Wyznacz wzór ciągu geometrycznego \( (a_n) \), w którym 
+\[ 
+\begin{cases} 
+a_7 - a_4 = 20 \\
+a_{10} - a_7 = 160 
+\end{cases} 
+\]
+
+① Rozpisujemy równania.
+
+Najlepiej w takiej sytuacji rozpisać równania przy pomocy \( a_1 \) i \( r \) dla ciągu arytmetycznego lub \( a_1 \) oraz \( q \) dla ciągu geometrycznego.
+
+\[
+\begin{cases} 
+a_1 q^6 - a_1 q^3 = 20 \quad (1) \\
+a_1 q^9 - a_1 q^6 = 160 \quad (2)
+\end{cases} 
+\]
+
+② Rozwiązujemy układ równań.
+
+Uniwersalnym sposobem na rozwiązanie takiego układu równań jest np. wyznaczenie \( a_1 \) obu równań i przyrównanie do siebie wzorów (powstanie równanie ze zmienną \( q \)).
+
+Jednak w tym przykładzie można zauważyć, że da się wyznaczyć \( q \) szybciej: dzieląc (2) przez (1).
+
+\[
+\frac{a_1 q^9 - a_1 q^6}{a_1 q^6 - a_1 q^3} = \frac{160}{20}
+\]
+
+\[
+\frac{a_1 q^6 (q^3 - 1)}{a_1 q^3 (q^3 - 1)} = 8
+\]
+
+\[
+q^3 = 8
+\]
+
+\[
+q = 2
+\]
+
+\[
+a_1 \cdot 2^6 - a_1 \cdot 2^3 = 20
+\]
+
+\[
+56a_1 = 20
+\]
+
+\[
+a_1 = \frac{5}{14}
+\]
+
+③ Wyznaczamy wzór ogólny.
+
+\[
+a_n = a_1 q^{n-1}
+\]
+
+\[
+a_n = \frac{5}{14} \cdot 2^{n-1}
+\]
+
+Odp.: \( a_n = \frac{5}{14} \cdot 2^{n-1} \)

@@ -1,0 +1,58 @@
+
+--- STRONA 1 ---
+4. Równania trygonometryczne 1
+
+Rozwiąż równanie.
+
+a) sin 4x = 1
+
+\[ a) \ \ \  \text{\small{\textcircled{\raisebox{-0.9pt}{\textbf{1}}}}} \ \ \ \ \text{Szkicujemy wykres funkcji } \sin x \ \text{oraz prostą } y=1. \]
+
+\[ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \y = \sin x \ \ \ \ \ \ \ \ \ \ \ \ \ \y=1 \]
+
+\[ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -1 \]
+
+\[ \text{\small{\textcircled{\raisebox{-0.9pt}{\textbf{2}}}}} \ \ \ \ \text{Odczytujemy rozwiązania.} \]
+
+\[ 4x = \frac{\pi}{2} + 2k\pi, \ \ \ \ \ k \in \mathbb{Z} \]
+
+\[ x = \frac{\pi}{8} + \frac{k\pi}{2} \]
+
+\[ \text{Odp.: } x = \frac{\pi}{8} + \frac{k\pi}{2}. \]
+
+b) 2cos(\frac{\pi}{4} - x) = -\sqrt{2}
+
+\[ \ \ \ b) \ \ \ \text{\small{\textcircled{\raisebox{-0.9pt}{\textbf{1}}}}} \ \ \ \ \text{Szkicujemy wykres funkcji } \cos x \ \text{oraz prostą } y=-\sqrt{2}. \]
+
+\[ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \y = \cos x \ \ \ \ \ \ \ \ \ \ \ \ \y=-\sqrt{2} \]
+
+\[ \text{\small{\textcircled{\raisebox{-0.9pt}{\textbf{2}}}}} \ \ \ \ \text{Odczytujemy rozwiązania.} \]
+
+\[ \frac{\pi}{4} - x = \frac{3\pi}{4} + 2k\pi \ \ \ \ \  \vee  \ \ \ \ \ \frac{\pi}{4} - x = \frac{5\pi}{4} + 2k\pi \]
+
+\[ -x = \frac{2\pi}{2} + 2k\pi \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \vee  \ \ \ \ \ \ \ \ \ -x = \pi + 2k\pi \]
+
+\[ x = -\frac{\pi}{2} - 2k\pi \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \vee  \ \ \ \ \ x = -\pi - 2k\pi, \ \ \ \ \ \ k \in \mathbb{Z} \]
+
+\[ \text{Można zapisać rozwiązania bez mnożenia } k\pi \ \text{przez minus.} \]
+
+\[ \text{Odp.: } x = -\frac{\pi}{2} + 2k\pi \ \ \ \vee  \ \ \ x = -\pi + 2k\pi, \ \ k \in \mathbb{Z}. \]
+
+--- STRONA 2 ---
+c) ➊ Przekształcamy równanie.
+
+\[ 3 \tg \left( \frac{x}{2} + \frac{\pi}{6} \right) = -\sqrt{3} \]
+
+\[ \tg \left( \frac{x}{2} + \frac{\pi}{6} \right) = -\frac{\sqrt{3}}{3} \]
+
+➋ Szkicujemy wykres funkcji \(\tg x\) oraz prostą \(y = -\frac{\sqrt{3}}{3}\).
+
+➌ Odczytujemy rozwiązania.
+
+\[ \frac{x}{2} + \frac{\pi}{6} = -\frac{\pi}{6} + k\pi \]
+
+\[ \frac{x}{2} = -\frac{\pi}{3} + k\pi \]
+
+\[ x = -\frac{2\pi}{3} + 2k\pi , \; k \in \mathbb{Z} \]
+
+Odp.: \( x = -\frac{2\pi}{3} + 2k\pi , \; k \in \mathbb{Z} \).

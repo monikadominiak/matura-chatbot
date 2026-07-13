@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Punkty \( A, B, C, D \) są położone w tej kolejności na okręgu o środku \( O \).
+Odcinek \( DB \) jest średnicą tego okręgu i \( |∠BAC| = α, |∠CBD| = β \).
+Wykaż, że \( α + β = 90^\circ \).
+
+teza: \( α + β = 90^\circ \)
+
+Dane:
+\( |∠BAC| = α \)
+\( |∠CBD| = β \)
+\( DB \) - średnica okręgu
+
+\[
+\begin{aligned}
+1 &\quad \text{jeśli } DB \text{ jest średnicą, to kąt oparty na } DB \text{ jest kątem prostym} \\
+&\quad \text{czyli: } |∠DAB|=90^\circ \Rightarrow |∠DAC|=90^\circ-α \\
+&\quad \text{i } |∠DCA|=90^\circ \Rightarrow |∠CDB|=90^\circ-β
+\end{aligned}
+\]
+
+\( 2 \quad \text{z własności kątów opartych na tym samym łuku:} \)
+
+\( |∠CDB| = |∠BAC| \)
+
+\( 90^\circ - β = α \)
+
+\( α + β = 90^\circ \)
+
+c.k.d.

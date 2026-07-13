@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Z urny, w której jest 6 kul białych i 8 kul czarnych, losujemy kolejno 3 kule bez zwracania. Oblicz prawdopodobieństwo tego, że za trzecim razem wylosujemy kulę czarną, jeśli pierwsze dwie wylosowane kule były różnego koloru.
+
+1️⃣ wypisujemy dane z polecenia
+
+[obrazek z urną z 6 białymi i 8 czarnymi kulami]
+
+losujemy kolejno 3 bez zwracania
+
+6 białych  
+8 czarnych
+
+2️⃣ wprowadzamy oznaczenia
+
+A - w trzecim ruchu kula czarna  
+B - w pierwszym i drugim ruchu kule różnych kolorów
+
+3️⃣ rysujemy schemat zdarzenia
+
+(schemat drzewa z prawdopodobieństwami)
+
+P(A ∩ B) = (6/14) * (8/13) * (7/12) + (8/14) * (6/13) * (7/12) = 672/2184 = 4/13
+
+P(B) = (6/14) * (8/13) + (8/14) * (6/13) = 96/182 = 48/91
+
+P(A|B) = P(A ∩ B) / P(B) = (4/13) * (91/48) = 7/12
+
+Odp: 7/12

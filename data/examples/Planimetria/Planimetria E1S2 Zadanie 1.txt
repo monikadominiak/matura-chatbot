@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zad.1 Dany jest okrąg o promieniu 6. Podaj miarę kąta wpisanego opartego na łuku tego okręgu, jeśli łuk ten ma długość: a) 2π; b) \(\frac{π}{4}\).
+
+1) Wyznaczamy stosunek długości łuku do długości okręgu i tworzymy rysunek poglądowy:
+
+\(L = 2πr = 2π \cdot 6 = 12π\)
+
+\(\frac{2π}{12π} = \frac{1}{6}\)
+
+a) \(\frac{1}{6}\) długości okręgu
+
+\(\frac{1}{6}\) kąta pełnego: \(\frac{1}{6} \cdot 360° = 60°\)
+
+kąt wpisany = \(\frac{1}{2}\) kąta środkowego: \(\frac{1}{2} \cdot 60 = 30°\)
+
+\(\frac{π}{4} \div 12π = \frac{1}{48}\)
+
+b) \(\frac{1}{48}\) długości okręgu
+
+\(\frac{1}{48}\) kąta pełnego: \(\frac{1}{48} \cdot 360° = 7,5°\)
+
+kąt wpisany = \(\frac{1}{2}\) kąta środkowego: \(\frac{1}{2} \cdot 7,5 = 3,75°\)
+
+Odp. a) 30°, b) 3,75°.

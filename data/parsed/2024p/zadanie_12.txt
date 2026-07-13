@@ -1,0 +1,22 @@
+=== ARKUSZ: 2024p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12. (0–1)
+Funkcja liniowa f jest określona wzorem f(x) = (−2k + 3)x + k − 1, gdzie k ∈ ℝ.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Funkcja f jest malejąca dla każdej liczby k należącej do przedziału
+
+A. (−∞, 1)
+B. (−∞, −3/2)
+C. (1, +∞)
+D. (3/2, +∞)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

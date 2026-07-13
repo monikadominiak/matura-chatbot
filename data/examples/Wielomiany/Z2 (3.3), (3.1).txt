@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+zZ (3.3), (3.1)
+
+Wielomian W(x) = x^4 + 4x^3 + cx^2 + dx + 1, gdzie c, d ∈ C, ma dwa różne pierwiastki wymierne. Znajdź niewymierne pierwiastki tego wielomianu.
+
+W(x) = x^4 + 4x^3 + cx^2 + dx + 1
+
+1️⃣ Określenie pierwiastków wymiernych wielomianu W(x) i wyznaczenie c i d:
+
+Jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, to musi on być postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze.
+
+Tutaj jedyne możliwe pierwiastki to 1 oraz -1
+
+{ 
+  ω(1)=0 
+  ω(-1)=0 
+}
+
+{ 
+  1 + 4 + c + d + 1 = 0 
+  1 - 4 + c - d + 1 = 0 
+}
+
+2 + 2c + 2 = 0
+
+2c = -4
+
+c = -2
+
+d = -4 
+
+Zatem:
+
+W(x) = x^4 + 4x^3 - 2x^2 - 4x + 1
+
+2️⃣ Wyznaczenie pozostałych pierwiastków wielomianu
+
+Podzielimy przez: (x-1)(x+1) = x^2 - 1
+
+x^2 + 4x - 1
+————————————————
+ (x^4 + 4x^3 - 2x^2 - 4x + 1) : (x^2 - 1)
+
+  - x^4 + x^2
+  —————————
+     4x^3 - x^2 - 4x
+   -4x^3 + 4x
+   —————————
+       - x^2 + 1
+
+        x^2 - 1
+       ————————
+             = 
+
+(x^2 - 1)(x^2 + 4x - 1) = 0
+
+x^2 - 1 = 0
+
+x^2 = 1
+
+x_1 = 1   x_2 = -1
+
+x^2 + 4x - 1 = 0
+
+Δ = b^2 - 4 • Q • c
+
+x_3 = (-b - √Δ) / 2a
+
+x_4 = (-b + √Δ) / 2a
+
+Δ = 16 + 4 = 20
+
+√Δ = 2√5
+
+x_3 = (-4 - 2√5) / 2 = -2 - √5
+
+x_4 = (-4 + 2√5) / 2 = -2 + √5
+
+Odp: pozostałe pierwiastki: -2 - √5 , -2 + √5.

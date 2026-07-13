@@ -1,0 +1,137 @@
+
+--- STRONA 1 ---
+Zadanie 23 [4 pkt]- TYP NIESTANDARDOWY
+
+Wyznacz wszystkie wartości parametru m, dla których zbiorem wartości funkcji \( f(x) = \frac{1}{4}mx^2 + (m-1)x - m^2 + m + 1 \) jest przedział \( <1; \infty) \).
+
+\( f(x) = \frac{1}{4}mx^2 + (m-1)x - m^2 + m + 1 \)
+
+\( a = \frac{1}{4}m \)
+
+\( b = m-1 \)
+
+\( c = -m^2 + m + 1 \)
+
+Skoro zbiorem wartości funkcji jest przedział \( <1; \infty) \) to funkcja ma postać:
+
+\[ 
+\begin{align*}
+& y & \\
+ & \quad & \\
+ & & N(p, q)
+\end{align*}
+\]
+
+\[
+\begin{align*}
+ & x &
+\end{align*}
+\]
+
+\( ❶ \) Zapisanie warunków wynikających z treści zadania - posiłkujemy się wykresem
+
+\( 1^\circ \, a > 0 \) \( \Leftarrow \) ramiona paraboli będą wtedy skierowane ku górze
+
+\( 2^\circ \, q = 1 \) \( \Leftarrow \) zbiór wartości ma zaczynać się w 1
+
+\( ❷ \) Rozwiązanie pierwszego z warunków
+
+\( 1^\circ \, a > 0 \)
+
+\[
+\frac{1}{4}m > 0 \, \vert \times 4 
+\]
+
+\( m > 0 \)
+
+\( ❸ \) Rozwiązanie drugiego z warunków:
+
+\( 2^\circ \, q = 1 \)
+
+\[
+q = \frac{-\Delta}{2a}
+\]
+
+\( \Delta = b^2 - 4 \cdot a \cdot c \)
+
+\[
+(a-b)^2 = a^2 - 2ab + b^2 
+\]
+
+\[
+\Delta = (m-1)^2 - 4 \cdot \frac{1}{4}m \cdot (-m^2 + m + 1) = m^2 - 2m + 1 + m^3 - m - m^3 + m^2 - m = m^2 - 3m + 1 
+\]
+
+\( m^3 - 3m + 1 = 0 \)
+
+\( m = m^3 - 2m + 1 \)
+
+Korzystając ze schematu Hornera:
+
+\[
+\begin{align*}
+ & N(1) = 1 - 2 + 1 = 0 \\
+\end{align*}
+\]
+
+\( m = (m^2 + m - 1)(m-1) \)
+
+\[
+m^2 + m - 1 = 0 
+\]
+
+\[
+\Delta m = 1 + 4 = 5 
+\]
+
+\[
+m_{1} = \frac{-1 - \sqrt{5}}{2} 
+\]
+
+\[
+m_{2} = \frac{-1 + \sqrt{5}}{2} 
+\]
+
+\[
+\begin{align*}
+ & \qquad & 1 \quad 0 \quad -2 \quad 1 \\
+ & 1 & \\
+ & 1 & 1 \quad 1 \quad \\
+ & 1 \\
+ & 1 & 1 \quad -1 \quad -1
+\end{align*}
+\]
+
+\( m - 1 = 0 \)
+
+m = 1
+
+\[
+m \in \left(-\frac{1+\sqrt{5}}{2}, \; \frac{1+\sqrt{5}}{2}, \; 1\right)
+\]
+
+--- STRONA 2 ---
+\( 4) \) Wyznaczenie części wspólnej rozwiązani wszystkich warunków:
+
+\( 1^o \ m \in \langle 0,1) \)
+
+\( 2^o \ m \in \left \langle \frac{-1-\sqrt{5}}{2} , \frac{-1+\sqrt{5}}{2} \right \rangle \)
+
+\[ 
+\begin{tikzpicture}
+\draw[->] (-2,0) -- (2,0);
+\draw[dashed] (-0.618,0) -- (-0.618,0.2);
+\draw[dashed] (0.618,0) -- (0.618,0.2);
+\draw[dashed] (1,0) -- (1,0.2);
+\draw[fill=white] (-0.618,0) circle (0.05);
+\draw[fill=black] (0.618,0) circle (0.05);
+\draw[fill=black] (1,0) circle (0.05);
+\node[below] at (-0.618,0) {$\frac{-1-\sqrt{5}}{2}$};
+\node[below] at (0,0) {$0$};
+\node[below] at (0.618,0) {$\frac{-1+\sqrt{5}}{2}$};
+\node[below] at (1,0) {$1$};
+\node[above right] at (1,0) {$m$};
+\end{tikzpicture}
+\]
+
+Odp: \( m \in \left \langle \frac{-1+\sqrt{5}}{2} , 1 \right ) . \)

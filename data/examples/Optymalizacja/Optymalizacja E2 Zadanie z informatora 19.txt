@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Na rysunku obok przedstawiono położenie miejscowości A, B i C oraz zaznaczono odległości między nimi. O godzinie 9:00 z miejscowości A do C wyruszył zastęp harcerzy „Tropiciele” i przemieszczał się z prędkością 4 km/h. O tej samej porze z miejscowości B do A wyruszył zastęp harcerzy „Korsarze” i przemieszczał się z prędkością 2 km/h.
+
+Wyznacz godzinę, o której odległość między tymi zastępami harcerzy będzie najmniejsza.
+
+1️⃣ wprowadzamy oznaczenia
+
+Po 1h:                       => Po t [h]
+
+A🡢⬜⬜⬛B                 A🡢⬛B  
+4⬇                              2t⬅⬅⬅⬅⬅⬅⬅⬅⬅⬅⬅⬢  
+C                                4t⬇                   S  
+
+2️⃣ zapisujemy wzór funkcji
+
+S(t) = √(4t)^2+(15−2t)^2 = √20t^2 − 60t + 225
+
+3️⃣ wyznaczamy dziedzinę funkcji
+
+15:2 = 7,5h => t∈⟨0,7,5⟩
+20:4 = 5h   => t∈⟨0,5⟩
+=> t∈⟨0,5⟩
+
+4️⃣ można dalej policzyć pochodną funkcji złożonej:
+
+S'(t) = (20t−30) / √20t^2−60t+225
+
+i dalej szukać miejsca zerowego licznika
+
+🔹 lub możemy pominąć pierwiastek 
+niech f(t) = 20t^2−60t+225 , t∈⟨0,5⟩
+
+funkcje S(t) i f(t) przyjmują najmniejszą wartość dla tego samego argumentu
+
+f(t) jest funkcją kwadratową o ramionach skierowanych ku górze, zatem swoją najmniejszą wartość przyjmuje w wierzchołku
+
+(można również wyznaczyć i przeanalizować pochodną, która będzie postaci f'(t)= 40t−60)
+
+       f(t)
+W(p,q)
+
+ρ = −b/2a = 60/40 = 3/2 h => 1h 30min
+
+5️⃣ wyznaczamy godzinę:
+
+9:00 ➖ 1,5h ➡️ 10:30
+
+Odp: o godzinie 10:30

@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Dwie fabryki dostarczyły do magazynu kartony, przy czym 70%, pochodzi z pierwszej fabryki, a pozostałe kartony — z drugiej. Kartony wadliwe stanowią 1% dostawy z pierwszej fabryki i 3% dostawy z drugiej fabryki. Z magazynu wzięto losowo jeden karton. Oblicz prawdopodobieństwo, że został on wzięty z pierwszej fabryki, jeśli wiadomo, że był wadliwy.
+
+① wprowadzamy oznaczenia i tworzymy "drzewko"
+
+                     70%          30%
+                    /                \
+               I fabryka        II fabryka
+                /   \                  /   \
+              1%    W           3%    W
+
+B1 - towar z I fabryki
+
+B2 - towar z II fabryki
+
+A - towar wadliwy
+
+P(B1) = \frac{7}{10}
+
+② musimy policzyć P(B1|A) -> towar z I fabryki pod warunkiem, że wadliwy
+
+wzór Bayesa: P(B1|A) = \frac{P(A|B1) \cdot P(B1)}{P(A)}, gdzie P(A) to prawd. całkowite
+
+③ wyznaczamy potrzebne prawdopodobieństwa:
+
+P(A|B1) - określa prawd. wadliwego towaru z I fabryki
+
+czyli P(A|B1) = \frac{1}{100}
+
+P(A) - prawd. wadliwego towaru
+
+P(A) = \frac{7}{10} \cdot \frac{1}{100} + \frac{3}{10} \cdot \frac{3}{100} = \frac{16}{1000} *
+
+④ liczymy docelowe P(B1|A)
+
+P(B1|A) = \frac{\frac{1}{100} \cdot \frac{7}{10}}{\frac{16}{1000}} = \frac{7}{16}
+
+Odp: \frac{7}{16}
+
+alternatywnie możemy rozwiązać zadanie wykorzystując klasyczne prawd. warunkowe
+
+P(B1|A) = \frac{P(A \cap B1)}{P(A)}, i P(A) policzyliśmy już wyżej *
+
+P(A \cap B1) - prawd. że towar będzie wadliwy i z I fabryki
+
+P(A \cap B1) = \frac{7}{10} \cdot \frac{1}{100} = \frac{7}{1000}
+
+P(B1|A) = \frac{7}{1000} \cdot \frac{1000}{16} = \frac{7}{16}

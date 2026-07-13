@@ -1,0 +1,69 @@
+
+--- STRONA 1 ---
+Wyznacz wymiary prostokąta o maksymalnym polu powierzchni, którego dwa wierzchołki należą do osi OX, a dwa pozostałe, o rzędnych dodatnich, należą do paraboli o równaniu y = 3 - \(\frac{1}{3}\)x^2.
+
+\[ \large{\circled{1}} \] uzależniamy od siebie zmienne
+
+(-x,3-\(\frac{1}{3}\)x^2) \quad \quad \quad \quad (x,3-\(\frac{1}{3}\)x^2)
+
+(-x,0) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad (x,0)
+
+x=a \quad \quad \quad \quad \quad \quad \quad x
+
+y=3-\(\frac{1}{3}\)x^2
+
+\[ \large{\circled{2}} \] zapisujemy wzór funkcji
+
+P(x) = 2x\cdot (3-\frac{1}{3}x^2) = -\frac{2}{3}x^3+6x
+
+\[ \large{\circled{3}} \] wyznaczamy dziedzinę funkcji
+
+\[
+\begin{cases} 
+2x > 0 \Rightarrow x > 0 \\
+3-\frac{1}{3}x^2 > 0 \Rightarrow x \in (-\sqrt{3}, 3) 
+\end{cases}
+\Rightarrow x \in (0, 3)
+\]
+
+\[ \large{\circled{4}} \] wyznaczamy pochodną funkcji
+
+P'(x) = -2x^2 + 6
+
+\[ \large{\circled{5}} \] wyznaczamy miejsca zerowe pochodnej
+
+P'(x) = 0 \Leftrightarrow -2x^2 + 6 = 0
+
+x^2 = 3
+
+x = -\sqrt{3} \vee x = \sqrt{3}
+
+\[ \large{\circled{6}} \] badamy monotoniczność i ekstrema funkcji
+
+I sposób: 
+
++  \quad \quad \quad \quad \quad \quad \quad \quad \quad p'(x)
+
+   -\sqrt{3} \quad \quad \quad \quad \sqrt{3}              
+
+\quad \quad \quad \quad \quad \quad      x  
+
+Funkcja P(x) osiąga w swojej dziedzinie wartość największą, dla argumentu x=\sqrt{3}
+
+II sposób:
+
+\[
+\begin{array}{c|c|c|c|c}
+x & (0, \sqrt{3}) & \sqrt{3} & (\sqrt{3}, 3) \\
+\hline
+p'(x) & + & 0 & - \\
+\hline
+P(x) & \nearrow & \text{max. lok.} & \searrow \\
+\end{array}
+\]
+
+\[ \large{\circled{7}} \] obliczamy długości boków
+
+2x = 2\sqrt{3} \quad i \quad 3-\frac{1}{3}x^2 = 3-\frac{1}{3} \cdot 3 = 2
+
+Odp: boki: 2\sqrt{3} i 2

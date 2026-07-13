@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+Zadanie 12 [3 pkt] - Typ 1.1  
+Oblicz wartość wyrażenia \( (x^2 - y^2) \left( \frac{x^2}{x-y} \right) \), gdy \( x = -\frac{3}{\sqrt{2}} \) i \( y = \frac{3}{\sqrt{3}} \)  
+
+\(\circled{1}\) Sprowadzimy do wspólnego mianownika wyrażenie w drugim nawiasie  
+
+\[
+(x^2 - y^2) \left( \frac{x^2}{x-y} - y \right) = (x^2 - y^2) \left( \frac{x^2 - y(x-y)}{x-y} \right) = 
+\]
+
+\[
+= (x^2 - y^2) \left( \frac{x^2 - xy + y^2}{x-y} \right) = (x-y)(x+y) \left( \frac{x^2 - xy + y^2}{x-y} \right) = 
+\]
+
+\[
+= (x+y)(x^2 - xy + y^2)
+\]
+
+\(\circled{2}\) Korzystamy ze wzoru skróconego mnożenia:
+
+\[
+a^3 + b^3 = (a+b)(a^2-ab+b^2)
+\]
+
+oraz podstawiamy wartości liczbowe \( x = -\frac{3}{\sqrt{2}}; y = \frac{3}{\sqrt{3}} \)
+
+\[
+(x+y)(x^2 - xy + y^2) = x^3 + y^3 = (-\frac{3}{\sqrt{2}})^3 + (\frac{3}{\sqrt{3}})^3 = 
+\]
+
+\[
+= -2 + 3 = 1 
+\]
+
+Odp: \( 1 \).

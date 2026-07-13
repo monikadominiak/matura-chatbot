@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Zbadaj liczbę rozwiązań równania 2x^3 - mx^2 + 9m = 0 w zależności od wartości parametru m.
+
+1️⃣ rozwiązemy zadanie graficznie, przenosimy stałą m na lewą stronę.
+
+2x^3 - mx^2 + 9m = 0
+
+2x^3 = m(x^2 - 9) / (x^2 - 9) => x=3 ^ x=-3
+
+Df: R - {-3,3}
+
+aby narysować wykres f(x) musimy kolejno:
+
+2️⃣ wyznaczyć punkty przecięcia z osiami
+
+f(0)=0 => P(0,0)
+
+3️⃣ policzyć granice na krańcach dziedziny i w przerwach w dziedzinie
+
+{lim_{x->-3^-} 2x^3/(x^2-9) = -54/0^- = +∞
+
+lim_{x->-3^+} 2x^3/(x^2-9) = 54/0^+ = +∞
+
+lim_{x->3^-} 2x^3/(x^2-9) = -54/0^- = -∞
+
+lim_{x->3^+} 2x^3/(x^2-9) = 54/0^+ = +∞}
+
+=> licząc granice prawo- i lewostronne w przerwach w dziedzinie wyznaczyliśmy od razu dwie asymptoty pionowe x=-3 i x=3
+
+4️⃣ wyznaczyć pozostałe asymptoty
+
+ukośna: y=ax+b
+
+a = lim_{x->∞} f(x) x^2 / x^2 = lim_{x->∞} 2 = 2 = a
+
+b = lim_{x->±∞} (f(x) - ax) = lim_{x->±∞} (2x^3/(x^2-9) - 2x) = lim_{x->±∞} -18x/(x^2-9) = 0
+
+as. pozioma: y=2x
+
+5️⃣ policzyć pochodną
+
+f'(x) = (2x^3/(x^2-9))' = 6x^2(x^2-9) - 2x(2x^3) / (x^2-9)^2 = (6x^4 - 54x^2 - 4x^4) / (x^2-9)^2 = 2x^2(x^2-27) / (x^2-9)^2
+
+6️⃣ wyznaczyć miejsca zerowe pochodnej i zbadać monotoniczność funkcji
+
+f'(x) = 0 <=> 2x(x^2-27) = 0
+
+x = 0 ∨ x = 3√3 ∨ x = -3√3
+
+fmax = f(-3√3) = -9√3, fmin = f(3√3) = 9√3
+
+7️⃣ rysujemy wykres f(x)
+
+Odp: 3 rozw. dla m ∈ (-∞, -9√3) ∪ (9√3, +∞) 
+
+2 rozw. dla m ∈ {-9√3, 9√3}
+
+1 rozw. dla m ∈ (-9√3, 9√3)

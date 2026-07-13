@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+z6 (6.8, 6.11, 6.7)
+
+Rozwiąż równanie
+
+\(\lim_{n \to \infty} (\log_2^x + \log_3^x + \log_8^x + \ldots + \log_n^x) = \lim_{n \to \infty} \frac{1+2+3+\cdots+n}{\sqrt{n^4+4}}\).
+
+Wskazówka: można najpierw obliczyć granicę po prawej stronie równania.
+
+① Obliczamy granicę po prawej stronie.
+
+\(\lim_{n \to \infty} \frac{1+2+3+\cdots+n}{\sqrt{n^4+4}}\)
+
+W liczniku można zauważyć sumę ciągu arytmetycznego, czyli będzie można zapisać licznik ze wzoru: \(S_n = \frac{a_1 + a_n}{2} \cdot n\).
+
+\(1+2+3+\ldots+n = \frac{1+n}{2} \cdot n = \frac{1}{2}n^2 + \frac{1}{2}n\)
+
+Mamy teraz do policzenia granicę ciągu, w którego wzorze zarówno w liczniku, jak i w mianowniku występuje \(n\) w pewnej potędze. Można taką granicę policzyć wyłączając przed nawias \(n\) w najwyższej potędze z mianownika.
+
+\(\lim_{n \to \infty} \frac{\frac{1}{2}n^2 + \frac{1}{2}n}{\sqrt{n^4+4}} = \lim_{n \to \infty} \frac{n(\frac{1}{2}n + \frac{1}{2})}{\sqrt{n(n^4(\frac{4}{n^4}))}} = \lim_{n \to \infty} \frac{n \cancel{1} (\frac{1}{2} + \frac{1}{2n})}{n^{2} \sqrt{1 + \frac{4}{n^4}}} =\)
+
+\(\frac{1 \cdot (\frac{1}{2} + 0)}{1 \cdot 1 + 0} = \frac{1}{2}\)
+
+\(\sqrt{n^4 \cdot \cancel{1} \cdot\sqrt{1+\frac{4}{n^4}} = n^2 \cdot\sqrt{1+\frac{4}{n^4}}\)
+
+\(n \to \infty \) więc można opuścić wartość bezwzględną, bez zmiany znaku.
+
+Uwaga: po lewej stronie mamy sumę \(n\) logarytmów, ale jednocześnie \(n\) dąży do nieskończoności. Jest to zatem suma nieskończenie wielu logarytmów i trzeba ją traktować jako szereg geometryczny zbieżny.
+
+--- STRONA 2 ---
+Symbol granicy po lewej stronie równania nie ma wpływu na obliczenia. 
+Suma logarytmów w nawiasie musi tak czy inaczej stanowić szereg geometryczny zbieżny. 
+Oznacza to |q| < 1 => q ∈ (-1, 1) 
+
+➋ Wyznaczamy przedział zbieżności szeregu geometrycznego. 
+q = a₂/a₁ = log₈ x / log₈ x² = log₈ x / log₈ 8 , x > 0 
+
+-1 < log₈ x < 1 
+
+log₈ ⅛ < log₈ x < log₈ 8 
+
+⅛ < x < 8 
+
+x ∈ (⅛, 8) 
+
+➌ Przekształcamy lewą stronę równania. 
+Lewą stronę równania zapiszemy ze wzoru Sₙ = a₁ / 1-q . 
+
+lim 
+n→∞ ( log₈ x + log₈² x + log₈³ x + … + log₈ⁿ x ) = log₈ x / 1-log₈ x 
+
+➍ Zapisujemy przekształcone równanie. 
+
+log₈ x / 1-log₈ x = ¹/₂ ; x ∈ (⅛, 8) 
+
+➎ Rozwiązujemy równanie. 
+
+Niech t = log₈ x 
+
+-t / 1-t = ¹/₂ 
+
+2t = 1-t 
+
+t = ¹/₃
+
+--- STRONA 3 ---
+\[
+\log_8 x = \frac{1}{3}
+\]
+
+\[
+x = 8^{\frac{1}{3}}
+\]
+
+\[
+x = 2 \quad \epsilon \ ( \frac{1}{8}, 8)
+\]
+
+Odp.: \ x = 2.

@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Zadanie 13
+
+Ciąg (a_n) określony jest wzorem a_n = \frac{3n+2}{(k+1)n-1}. Dla jakich wartości parametru k ciąg (a_n) jest rozbieżny do -\infty?
+
+1) Określamy k.
+
+W mianowniku musi być mniejsza potęga n niż w liczniku.
+
+k+1 = 0
+
+k = -1
+
+Odp.: k = -1.

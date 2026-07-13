@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 23 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 23. (0-1)
+W każdym n-kącie wypukłym (n ≥ 3) liczba przekątnych jest równa $frac{n(n-3)}{2}$.
+Wielokątem wypukłym, w którym liczba przekątnych jest o 25 większa od liczby boków, jest
+A. siedmiokąt.
+B. dziesięciokąt.
+C. dwunastokąt.
+D. piętnastokąt.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

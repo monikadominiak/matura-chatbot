@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+z3 (6.1)
+
+Trzywyrazowy ciąg (a, b, c) ma wyrazy dodatnie i jest arytmetyczny, a ciąg \( \left( \frac{1}{a}, \frac{1}{b}, \frac{1}{a+b+c} \right) \) jest geometryczny. Oblicz jego iloraz q.
+
+\(\circled{1}\) Tworzymy układ równań.
+\[
+\begin{cases}
+2b = a + c \\
+\left( \frac{b}{a} \right)^2 = \frac{1}{a} \cdot \frac{1}{a+b+c}
+\end{cases}
+\]
+Chcemy \( q = \frac{1}{3} = \frac{a}{b} \)
+
+\(\circled{2}\) Rozwiązujemy układ równań.
+\[
+\begin{cases}
+c = 2b - a \quad (1) \\
+\frac{b^2}{a} = a(a+b+c) \quad (2)
+\end{cases}
+\]
+Z (1) do (2):
+\[
+b^2 = a(a+b+2b-a) \\
+b^2 = 3ab \quad /:b>0 \\
+b = 3a
+\]
+
+\(\circled{3}\) Obliczamy iloraz.
+\[
+q = \frac{a}{b} = \frac{a}{3a} = \frac{1}{3}
+\]
+
+Odp.: \( q = \frac{1}{3}. \)

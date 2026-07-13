@@ -1,0 +1,43 @@
+=== ARKUSZ: 2024p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0–1)
+Na rysunku, w kartezjańskim układzie współrzędnych (x, y), przedstawiono dwie proste równoległe, które są interpretacją geometryczną jednego z poniższych układów równań A–D.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Układem równań, którego interpretację geometryczną przedstawiono na rysunku, jest
+
+A.
+{
+  y = −(3/2)x + 3
+  y = −(3/2)x − 1
+}
+
+B.
+{
+  y = (3/2)x + 3
+  y = −(2/3)x − 1
+}
+
+C.
+{
+  y = (3/2)x + 3
+  y = (3/2)x − 1
+}
+
+D.
+{
+  y = −(3/2)x − 3
+  y = (3/2)x + 1
+}
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

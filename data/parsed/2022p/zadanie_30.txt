@@ -1,0 +1,9 @@
+=== ARKUSZ: 2022p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0–2)
+W ciągu arytmetycznym (𝑎𝑛), określonym dla każdej liczby naturalnej 𝑛 ≥ 1, 𝑎1 = −1 i 𝑎4 = 8. Oblicz sumę stu początkowych kolejnych wyrazów tego ciągu.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

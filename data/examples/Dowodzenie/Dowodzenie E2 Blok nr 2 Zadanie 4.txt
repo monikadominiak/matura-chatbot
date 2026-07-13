@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+W czworokąt ABCD, w którym |AD| = 4 i |CD| = 6, można wpisać okrąg. Przekątna BD tworzy z bokiem AB czworokąta kąt o mierze 45°, natomiast z bokiem AD tworzy kąt, którego sinus jest równy \(\frac{1}{4}\). Wykaż, że |AB| + |BC| + |BD| = 3 + \sqrt{15} + 2\sqrt{2}.
+
+① tworzymy rysunek poglądowy
+
+|AD|=4
+
+|CD|=6
+
+sin\(\delta\) = \(\frac{1}{4}\)
+
+② skoro w ten 4-kąt można wpisać okrąg, to |AB| + |DC| = |AD| + |BC| 
+
+⇒ |AB| + 6 = 4 + |BC| \(*\)
+
+③ z tw. sinusów w ΔABD
+
+\(\frac{4}{\sin45^\circ} = \frac{|AB|}{\sin\delta}\)
+
+|AB| = 4 \cdot \(\frac{1}{\frac{1}{4}}\) \cdot \(\frac{2}{\sqrt{2}}\) = \sqrt{2}
+
+④ wracamy do równania \(*\)
+
+|BC| = \sqrt{2} + 6 - 4 = \sqrt{2} + 2
+
+⑤ pozostało policzyć |BD|, użyjemy tw. cosinusów w ΔABD
+
+(układamy tw. tak, aby wykorzystać znany kąt = 45°)
+
+\(4^2 = (\sqrt{2})^2 + x^2 - 2 \cdot \sqrt{2} \cdot x \cdot \cos45^\circ\)
+
+\(16 = 2 + x^2 - 2\sqrt{2} \cdot \frac{\sqrt{2}}{2}\)
+
+\(x^2 - 2x - 14 = 0\)
+
+\(\Delta = 60\)
+
+\(\sqrt{\Delta} = 2\sqrt{15}\)
+
+\(x_1 = 1 - \sqrt{15} < 0 \; \text{sprzeczne}\)
+
+\(x_2 = 1 + \sqrt{15} = |BD|\)
+
+zatem: |AB| + |BC| + |BD| = \sqrt{2} + \sqrt{2} + 2 + 1 + \sqrt{15} = 3 + \sqrt{15} + 2\sqrt{2}
+
+c.k.d.

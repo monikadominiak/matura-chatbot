@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zad.2 Rozwiąż równanie.
+
+a) √(x + 5)^2 = 5  
+b) √x^2 - 2x + 1 = 1  
+c) √9x^2 - 12x + 4 = 6  
+
+1) Rozwiązujemy równania korzystając z własności wart. bezwgl.:  
+
+a) √(x+5)^2 = 5  
+|x+5| = 5  
+
+x+5 = 5 ∨ x+5 = -5  
+
+x=0 ∨ x=-10  
+
+Odp. a) x=0 lub x=-10.  
+
+b) √x^2-2x+1 = 4  
+√(x-1)^2 = 4  
+
+|x-1| = 4  
+
+x-1=4 ∨ x-1=-4  
+
+x=2 ∨ x=0  
+
+Odp. b) x=2 lub x=0.  
+
+c) √9x^2-12x+4 = 6  
+√(3x-2)^2 = 6  
+
+|3x-2|=6  
+
+3x-2=6 ∨ 3x-2=-6  
+
+3x=8 ∨ 3x=-4  
+
+x=8/3 ∨ x=-4/3  
+
+Odp. c) x=8/3 lub x=-4/3.  
+
+Dla równań, w których występuje jedna wartość bezwzględna, i tylko tam znajduje się niewiadoma, możemy korzystać z własności: |x| = p  
+
+x=p ∨ x=-p  
+(zał. p≥0)
+
+UWAGA: w tych zadaniach nie jest wymagane pisanie dziedziny, bo pod pierwiastkiem jest kwadrat, który zawsze jest nieujemny, więc dziedzina to i tak x∈R (można ją więc zapinać, ale nie trzeba).

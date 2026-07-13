@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+z1 (6.1)
+
+Trzy liczby tworzą rosnący ciąg arytmetyczny. Jeżeli pierwszą z nich zwiększymy o 1, to otrzymamy ciąg geometryczny. Jeżeli drugi wyraz otrzymanego ciągu geometrycznego pomnożymy przez 2, a trzeci zwiększymy o 11, to znów otrzymamy ciąg arytmetyczny. Wyznacz te liczby.
+
+1️⃣ Tworzymy układ równań.
+
+Należy ułożyć układ 3 równań z 3 niewiadomymi w oparciu o zależności między sąsiednimi wyrazami ciągu arytmetycznego oraz geometrycznego.
+
+Oznaczamy szukane liczby jako a, b, c.
+
+(a, b, c) - ciąg arytmetyczny
+
+(a+1, b, c) - ciąg geometryczny
+
+(a+1, 2b, c+11) - ciąg arytmetyczny
+
+\[
+\begin{cases} 
+b = \frac{a+c}{2} \\ 
+b^2 = (a+1) \cdot c \\ 
+2b = \frac{(a+1)+(c+11)}{2} 
+\end{cases} 
+\]
+
+\[
+\begin{cases} 
+2b = a+c \quad (1) \\ 
+b^2 = (a+1) \cdot c \quad (2) \\ 
+4b = a+c+12 \quad (3) 
+\end{cases} 
+\]
+
+Układy z więcej niż 2 równaniami zwykle najwygodniej rozwiązwać metodą podstawiania.
+
+Układ 3 równań sprowadzi się do układu dwóch równań, a potem do równania z jedną niewiadomą.
+
+Z (1): c = 2b-a
+
+Do (2) i (3):
+
+\[
+\begin{cases} 
+b^2 = (a+1)(2b-a) \quad (2) \\ 
+4b = a + (2b-a) + 12 \quad (3)
+\end{cases} 
+\]
+
+--- STRONA 2 ---
+Można zauważyć, że w (3) równaniu skraca się, a więc będzie można wyznaczyć b.
+
+2(3): \(4b = 2b + 12 \Rightarrow b = 6\)
+
+Do (2): 
+\(36 = (a + 1)(12 - a)\)
+
+\(36 = 12a - a^2 + 12 - a\)
+
+\(a^2 - 11a + 24 = 0\)
+
+\(\Delta = (-11)^2 - 4 \cdot 1 \cdot 24 = 25\)
+
+\(a_1 = \frac{11 - 5}{2} = 3\)
+
+\(a_2 = \frac{11 + 5}{2} = 8\)
+
+\(c = 2b - a \Rightarrow c_1 = 2 \cdot 6 - 3 = 9\)
+
+\(\phantom{c = 2b - a \Rightarrow} c_2 = 2 \cdot 6 - 8 = 4\)
+
+Odp.: \((a, b, c) = (3, 6, 9) \quad \text{lub} \quad (a, b, c) = (8, 6, 4).\)

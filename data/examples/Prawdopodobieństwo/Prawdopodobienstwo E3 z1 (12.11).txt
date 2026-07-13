@@ -1,0 +1,163 @@
+
+--- STRONA 1 ---
+W urnie U₁ znajduje się 5 kul srebrnych i 10 złotych, a w urnie U₂ 10 kul srebrnych i 10 złotych. Losujemy jedną kulę z urny U₁ i wrzucamy ją wraz z czterema innymi w tym samym kolorze do urny U₂. Następnie losujemy jedną kulę z urny U₂. Oblicz prawdopodobieństwo wylosowania złotej kuli z urny U₂.
+
+➊ analizujemy polecenie
+
+\[ 
+\begin{array}{c}
+U_1 & {} & U_2 \\
+\begin{array}{|c|}
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+\end{array} 
+& 
+\quad & 
+\begin{array}{|c|}
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+S \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+Z \\
+\hline
+\end{array} 
+\\
+5S \,\,\, 10Z & {} & 10S \,\, 10Z \\
+
+\end{array} 
+\]
+
+A - złota z U₂  
+B₁ - srebrna z U₁  
+B₂ - złota z U₁  
+
+zadanie można rozwiązać również metodą 'drzewka':  
+
+(najprostszą)  
+
+\[ 
+\begin{array}{ccc}
+{} & U_1 & {} \\
+{} & \begin{array}{r} 
+\tfrac{1}{3} \\ 
+\rightarrow 
+\end{array} & \\ 
+S & {} & Z \\
+| & \nearrow & \searrow \\
+U_2 & {} & U_2 \\
+| & \nearrow & \searrow \\
+\begin{array}{|c|} 
+\hline
+S \\
+\hline
+Z \\
+\hline
+\end{array} & {} & \begin{array}{|c|} 
+\hline
+S \\
+\hline
+Z \\
+\hline
+\end{array} \\
+\end{array} 
+\]
+
+na tym etapie dokładamy do U₂ 5 kul  
+wszystkich kul w U₂ = 25  
+
+\[
+\tfrac{15}{25} = \tfrac{3}{5} 
+\quad \quad 
+\tfrac{10}{25} = \tfrac{2}{5} 
+\quad 
+\quad 
+\tfrac{2}{3}
+\]
+
+➋ liczymy kolejne prawdopodobieństwa potrzebne do wzoru na prawdopodobieństwo całkowite  
+
+\[ 
+P(A) = P(A|B₁) \cdot P(B₁) + P(A|B₂) \cdot P(B₂) + \ldots + P(A|B_n) \cdot P(B_n) 
+\]
+
+\[ 
+P(B₁) = \tfrac{1}{3} \quad \quad  
+P(A|B₁) = \tfrac{10}{25} = \tfrac{2}{5} 
+\]
+
+\[ 
+P(B₂) = \tfrac{2}{3} \quad \quad  
+P(A|B₂) = \tfrac{15}{25} = \tfrac{3}{5} 
+\]
+
+➌ 
+
+\[ 
+P(A) = \tfrac{2}{5} \cdot \tfrac{1}{3} + \tfrac{3}{5} \cdot \tfrac{2}{3} = \tfrac{2+6}{15} = \tfrac{8}{15} 
+\]
+
+Odp: \(\tfrac{8}{15}\)

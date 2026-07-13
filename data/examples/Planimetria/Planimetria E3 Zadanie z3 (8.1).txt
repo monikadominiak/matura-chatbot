@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+**Zadanie z3 (8.1)** Długości boków trójkąta wpisanego w okrąg o promieniu R są równe \(\frac{1}{2}R\) i \(R\sqrt{3}\). Oblicz długość trzeciego boku. 
+
+1) Tworzymy rysunek poglądowy:
+
+(Rysunek jest poglądowy i nie musi idealnie
+odwzorowywać sytuacji w zadaniu)
+
+2) Stosujemy tw. sinusów dla danych podanych długości boków:
+
+\(\frac{\frac{1}{2}R}{\sin \alpha} = 2R \rightarrow \sin \alpha = \frac{1}{2} = \frac{x}{2}\)
+
+\(\frac{R\sqrt{3}}{\sin \beta} = 2R \rightarrow \sin \beta = \frac{R\sqrt{3}}{2} = \frac{\sqrt{3}}{2}\)
+
+Jedną z uzyskanych przez nas wartości sinusów
+jest wartość „charakterystyczną” osiąganą przez
+kąty \(30, 15, 60\) stopni lub ich wielokrotności.
+
+\(\sin \beta = \left( \frac{\pi}{3} \right)\)
+ \(\therefore \beta \in \{0^\circ, 180^\circ\} \rightarrow \beta = 60^\circ \rightarrow \beta= 120^\circ\)
+
+Będziemy musieli zatem rozważyć dwa przypadki trójkąta
+ze względu na kąt gamma.
+
+**Odp:** \(x_{1} = \frac{R(\sqrt{37}-4)}{4}\) lub \(x_{2} = \frac{R(\sqrt{37}+4)}{4}\).
+
+3) Wyznaczamy długość trzeciego boku za pomocą tw. cosinusów:
+
+Przypadek 1: \( \beta = 60^\circ \)
+
+\((R/S)^2 = x^2 + \left(\frac{R}{2}\right)^2 - 2 \cdot x \cdot \frac{R}{2} \cdot \cos 60^\circ\)
+
+\(3R^2 = x^2 + \frac{R^2}{4} + ixR/4\)
+
+\(4x^2 - 2xR - k_R^2 = 0\)
+\( \Delta = 4R^2 - 4 \cdot ( - \frac{R^2}{4}) \rightarrow 180^2R^2, \sqrt{\Delta} =6R/2, R>0 \)
+
+\(x_+ = \frac{2R - 6R}{8} < 0\)
+
+\(x_- = \frac{2R + 6R}{8} = \left(\frac{3(\sqrt{37}+1)R}{4}\right) > 0\)
+
+Przypadek 2: \( \beta = 120^\circ \)
+
+\(-\frac{1}{4} \)
+
+\((R/S)^2 = x^2 + \left(\frac{R}{2}\right)^2 - 2 \cdot x \cdot \frac{R}{2} \cdot \cos 120^\circ\)
+
+\(3R^2 = x^2 + \frac{R^2}{4} + \frac{xR}{4}\)
+
+\(4x^2 - 2xR - k_R^2 = 0\)
+\(\Delta = 4R^2 - 4 \cdot ( - y_R^2) \rightarrow 6R^2, \sqrt{\Delta} = 6|R|, R>0 \)
+
+\(x_+ = \frac{-2x - 6R}{8} < 0\)
+
+\(x_- = \frac{2 - 6R}{8} = \left(\frac{3(\sqrt{37}-1)R}{4}\right) > 0\)
+
+Spośród liczenia 6 rozwiązań wybieramy oczywiście te,
+które są dodatnie.

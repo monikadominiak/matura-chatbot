@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Zad.6 Na boku AB trójkąta ABC wybrano punkt D w ten sposób, że |AD|=3|BD|=3. Bok BC tego trójkąta ma długość 2. Oblicz stosunek długości boków AC i DC.
+
+1) Tworzymy rysunek poglądowy:
+
+do wyznaczenia stosunku boków AC i DC przydatne będzie tw. cosinusów. Nie mamy co prawda nie znamy dokładnej wartości kąta, jednak nie jest to problem, gdyż przy 2 równaniach i obliczaniu stosunku boków, będzie w stanie go skrócić.
+
+UWAGA: zapis "|AD|=3|BD|=3" oznacza, że |AD|=3 oraz jednocześnie 3|BD|=3 (czyli |BD|=1).
+Ten zapis to zupełnie co innego niż |AD|=3,|BD|=3" (z przecinkiem).
+
+2) Korzystamy z tw. cosinusów:
+
+{|DC|^2 = 4+1-2·2·1·cos α /·4
+|AC|^2 = 16+4-2·2·4·cos α
+
+{|4|DC|^2 = 20 - 16 cos α
+-|AC|^2 = 20 - 16 cos α
+
+4|DC|^2-|AC|^2 = 0
+
+|AC|^2 = 4|DC|^2 [÷|DC|^2]
+
+|AC|^2/|DC|^2 = 4 √
+
+|AC|/|DC| = 2
+
+|AC|=2|DC|
+
+Odp: |AC|=2|DC|

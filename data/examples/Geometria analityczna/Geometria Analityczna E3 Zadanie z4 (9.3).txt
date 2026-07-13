@@ -1,0 +1,83 @@
+
+--- STRONA 1 ---
+**Zadanie z4 (9.3)** Wierzchołkami trójkąta ABC są punkty A = (-3, 0), B = (1, 3), C = (-1, 4).
+a) oblicz długość wysokości opuszczonej z wierzchołka C
+b) oblicz pole trójkąta ABC
+
+**Rysunek poglądowy:**
+
+**a) Obliczmy długość wysokości k\_c:**
+
+Strzałką wyznaczyć miejsce *t*skmcr2 plaos 
+odległą punkę *C* od prosty *AB*. Wystarcza wjąż prostą *AB* w postaci ogólnej.
+
+\[
+p: \ AB: \ y = ax + b
+\]
+
+A(-3,0) i B(1,3). 
+
+0 = -3a + b 
+3 = a + b 
+
+\[
+\begin{cases} 
+0 = -3a + b \\
+3 = a + b 
+\end{cases} 
+\begin{cases} 
+0 = -3a + b \\
+3 = a + b 
+\end{cases} 
+\begin{cases} 
+a = \frac{3}{4} \\
+b = \frac{9}{4} 
+\end{cases} 
+\]
+
+p:AB: \ \frac{3}{4}x - y +\frac{9}{4} = 0 \\
+
+C(-1,4). Odległość połka od prosty AB.
+
+\[
+k_c= d(C, p(AB)) = \left| \frac{3}{4}(-1) - 4 + \frac{9}{4} \right| \cdot \frac{1}{\sqrt{\left( \frac{3}{4} \right)^2 + (-1)^2}}
+= \frac{\left| \frac{-3}{4} - \frac{16}{4} + \frac{9}{4} \right|}{\frac{\sqrt{25}}{4}}
+= \frac{\left| \frac{-10}{4} \right|}{\frac{5}{4}}
+= 2
+\]
+
+Odp. \ a) \ k_c = 2.
+
+**b) Obliczmy pole trójkąta ABC:**
+
+I sposób: wzór Pana Śmitka
+
+\[ 
+P\_{abc} = \frac{1}{2} \cdot AB \cdot k\_c 
+\]
+
+|AB| = 5 
+
+A(−3,0) B(1,3) C(−1,4) |A(−3,0)|
+
+P\_abc = \frac{1}{2} \cdot 5 \cdot 2 = 5
+
+**Drugi sposób używając 3 punktem wierzchołek trujkąta ABC**
+
+x\_1x\_2 + x\_1x\_3y_3 + x\_2y_2 + x\_2y_3 + x\_3y\_2 + x\_3y_3 = x\_2 + x\_3 + x\_3 + y\_2 
+
+Pole trójkąta o wierzchołkach \ (x\_1,y\_1), \ (x\_2,y\_2), \ (x\_3,y\_3) danz jest wzzorchem
+
+\[
+P\_{abc} = \frac{1}{2} | (x_2 + x_3)(y_3 - y_1) - (y_3 - y_2)(x_3-x_1) |
+\]  
+
+\[
+P\_{abc} = \left| \frac{1}{2} \left( |4 + (-1 - 3) | \right) (3 - 0 - 4 - (-1 -1-\ 4 - \ (-3-0\ | \right)\\ 
+\]
+
+\[
+P_{abc} = \frac{1}{2} \left| ( |(x_3)(x_3) - (y_3-y_2)(x_3-x_1) \right|
+\]
+
+Odp. \ b) \ P\_{abc} = 5.

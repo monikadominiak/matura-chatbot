@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+2. Przesuwanie wykresu funkcji 3  
+Oblicz największą i najmniejszą wartość funkcji f:  
+a) f(x) = (x + 2)^2 + 3 w przedziale <-4, 1>  
+b) f(x) = (x - 3)^2 - 6 w przedziale <2, 5>  
+  
+Aby wyznaczyć zbiór wartości f. kwadratowej w przedziale domkniętym <a, b>, należy:  
+1) obliczyć p i sprawdzić, czy należy ono do przedziału  
+2) jeśli należy to wybrać ymin i ymax spośród q, f(a) i f(b) a jeśli nie należy to spośród f(a) i f(b)
+
+a) f(x) = (x + 2)^2 + 3 <-4, 1>
+
+Mamy podaną postać kanoniczną funkcji kwadratowej: f(x) = (x - p)^2 + q, i możemy odczytać współrzędne wierzchołka:  
+W (-2, 3)  
+
+q = 3 \leftarrow wartość najmniejsza \ y_{min}  
+
+f(-4) = (-4 + 2)^2 + 3 = 4 + 3 = 7 \leftarrow wartość największa \ y_{max}  
+
+f(-1) = (-1 + 2)^2 + 3 = 1 + 3 = 4  
+
+Odp: \ y_{min} = 3 , \ y_{max} = 7
+
+b) f(x) = (x - 3)^2 - 6 <2, 5>
+
+W (3, -6)  
+
+q = -6 \leftarrow wartość najmniejsza \ y_{min}  
+
+f(2) = (2 - 3)^2 - 6 = 1 - 6 = -5  
+
+f(5) = (5 - 3)^2 - 6 = 4 - 6 = -2  
+\uparrow wartość największa \ y_{max}  
+
+Odp: \ y_{min} = -6 , \ y_{max} = -2

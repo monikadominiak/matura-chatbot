@@ -1,0 +1,97 @@
+
+--- STRONA 1 ---
+Zbadaj przebieg zmienności funkcji \( f(x) = \frac{x^2}{x-2} \).
+
+① wyznaczamy dziedzinę
+
+\[
+f(x) = \frac{x^2}{x-2}
+\]
+\( x-2 \neq 0 \quad \Rightarrow \quad x \neq 2 \)
+
+\[
+\Rightarrow \quad D_f = \mathbb{R} - \{2\}
+\]
+
+② wyznaczamy punkty przecięcia z osiami
+
+\[
+f(0) = \frac{0}{0-2} = 0 \quad \Rightarrow \quad P(0,0)
+\]
+
+③ liczymy granice na krańcach dziedziny i w przerwach w dziedzinie
+
+\[
+\lim_{x \to 2^-} \frac{?^2}{0^-} = -\infty
+\]
+
+\[
+\lim_{x \to 2^+} \frac{?^2}{0^+} = +\infty
+\]
+
+\[
+\Rightarrow \text{licząc granice prawo- i lewostronne w przerwie w dziedzinie wyznaczyliśmy od razu asymptotę pionową,}: \quad x = 2
+\]
+
+④ wyznaczamy pozostałe asymptoty
+
+ukośna: 
+
+\[
+a = \lim_{x \to \pm \infty} \frac{f(x)}{x} = \lim_{x \to \infty} \frac{x^2}{x-2} \cdot \frac{1}{x} = \lim_{x \to \infty} \frac{x}{1-\frac{2}{x}} = 1 = a
+\]
+
+\[
+b = \lim_{x \to \infty} (f(x)-ax) = \lim_{x \to \infty} \left( \frac{x^2}{x-2} - x \right) = \lim_{x \to \infty} \frac{2x}{x-2} = \lim_{x \to \infty} \frac{2x}{x(1-\frac{2}{x})} = 2 = b
+\]
+
+\[
+\text{as. ukośna: } y = x + 2
+\]
+
+⑤ liczymy pochodną
+
+\[
+f'(x) = \frac{2x(x-2)' - x^2}{(x-2)^2} = \frac{x^2 - 4x}{(x-2)^2}
+\]
+
+⑥ wyznaczamy miejsca zerowe pochodnej
+
+\[
+f'(x) = 0 \Leftrightarrow x^2 - 4x = 0
+\]
+
+\[
+x(x-4) = 0 \Rightarrow x = 0 \lor x = 4
+\]
+
+⑦ badamy monotoniczność i ekstrema
+
+\[
+\Rightarrow \text{analizujemy sam licznik, bo mianownik } > 0
+\]
+
+\[
+\int_{x} \begin{vmatrix} + & 0 & - & 0 & + \end{vmatrix}
+\]
+
+\[
+\int f(x) \begin{vmatrix} x_{max} & x_{min} \end{vmatrix}
+\]
+
+\[
+\int_{x} = f(0) = 0 \quad \int_{x} = f(4) = \frac{16}{4-2} = 8
+\]
+
+⑧ tabela podsumowująca
+
+\[
+\begin{array}{c|c|c|c|c|c|c}
+x & (-\infty, 0) & 0 & (0, 2) & 2 & (2, 4) & 4 & (4, \infty) \\
+\hline
+f'(x) & + & 0 & - & \chi & - & 0 & + \\
+f(x) & \nearrow & \max \, lok. & \searrow & \chi & \searrow & \min \, lok. & \nearrow \\
+\end{array}
+\]
+
+Odp: ⑨ rysujemy wykres

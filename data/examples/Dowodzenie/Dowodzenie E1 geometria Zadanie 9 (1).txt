@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Dany jest równoległobok \(ABCD\) o kącie ostrym przy wierzchołku \(A\). Na półprostych \(AB\) i \(CB\) obrano odpowiednio punkty \(E\) i \(F\) takie, że \(|CB| = |CE|\) i \(|AB| = |AF|\). Wykaż, że trójkąty \(DAF\) i \(ECD\) są przystające.
+
+\(1\) tworzymy rysunek poglądowy
+
+\(|CB| = |CE| = x\)
+
+\(|AB| = |AF| = y\)
+
+teza: \(\triangle DAF \equiv \triangle ECD\)
+
+\(2\) oznaczamy kąty, zaczynając od kąta ostrego przy wierzchołku \(A\)
+
+\(\angle CBE = \angle DCE = \alpha\) \((\text{bo } |CB| = |CE|)\)
+
+\(\angle AFB = \angle ADF = \beta\) \((\text{bo } |AB| = |AF|)\)
+
+\(3\) z sumy kątów w \(\triangle\) mamy:
+
+\(\angle BCE = 180^\circ - 2\alpha \Rightarrow \angle DCE = 180^\circ - \alpha\)
+
+\(\angle FAB = 180^\circ - 2\beta \Rightarrow \angle DAF = 180^\circ - \beta\)
+
+\(4\) mamy ten sam kąt i dwa takie same boki przy tym kącie, zatem z cechy \(kbk\) \(\triangle DAF \equiv \triangle ECD\)
+
+c.k.d.

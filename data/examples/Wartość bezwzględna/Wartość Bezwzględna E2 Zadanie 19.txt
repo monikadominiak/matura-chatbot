@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Zad.19 Rozwiąż nierówność, jeśli x ∈ <0; 2π>: cosx ⋅ |tgx| ≤ \(\frac{1}{\sqrt{2}}\).
+
+1°) Wyznaczamy dziedzinę nierówności:
+
+x ≠ \(\frac{π}{2}\) + kπ, k∈Z a x∈<0,2π)
+x ∉ {\(\frac{π}{2}, \frac{3π}{2}\)}
+
+Dziedzina wynika z tgx = \(\frac{sinx}{cosx}\),
+gdzie cosx musi być różny zeru.
+
+2°) Rozwiązujemy nierówność na 2 przypadki
+względem wart. bezwgl.:
+
+1° tg x ≥ 0
+⟹
+x∈<0,\(\frac{π}{2}\)) ∪ (\(π,\frac{3π}{2}\)) ∪ {2π}
+
+\(\frac{cosx - \frac{sinx}{cosx}}{sinx}\) = \(\frac{1}{\sqrt{2}}\) ≤ \(\frac{\sqrt{2}}{2}\)
+
+sin x ≤ \(\frac{1}{2}\)
+
+x∈<0,\(\frac{π}{6}\)) ∪ (\(\frac{π}{6},\frac{5π}{6}\)) ∪ (\(\frac{3π}{6}, \frac{11π}{6}\))
+
+2° tg x < 0
+⟹
+x∈(\(\frac{π}{2}, π\)) ∪ (\(\frac{3π}{2},2π\))
+
+\(\frac{cosx - -sinx}{cosx}\) = \(\frac{1}{2}\)
+
+sin x ≥ -\(\frac{\sqrt{2}}{2}\)
+
+x∈(\(\frac{0}, \frac{5π}{4}\)) ∪ (\(\frac{7π}{4}, 2π\)) ∧ x∈(\(\frac{π}{2}, π\)) ∪ (\(\frac{3π}{2}, 2π\))
+
+⇒
+
+x∈(\(\frac{π}{3}, π\)) ∪ (\(\frac{2π}{4}, 2π\))
+
+Odp. x∈<0,\(\frac{π}{6}\)) ∪ (\(\frac{π}{5},\frac{7π}{6}\)) ∪ <\(\frac{7π}{4}, 2π\)>.
+
+3°) Wyznaczamy sumę rozwiązań z obu przypadków:
+
+1° ∪ 2° ⟹ x∈<0,\(\frac{π}{4}\)) ∪ (\(\frac{π}{6},\frac{3π}{2}\)) ∪ (\(\frac{5π}{5},\frac{7π}{6}\))
+
+⟹
+
+x∈(\(\frac{π}{6},π\)) ∪ <\(\frac{7π}{4}, 2π\))

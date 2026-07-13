@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Oblicz wartość pochodnej funkcji f w punkcie x_0, gdy: f(x) = \frac{1-x^2}{x^2+x} i x_0 = -1.
+
+f(x) = \frac{1-x^2}{x^2+x} \hspace{1cm} D_f: \hspace{0.1cm} x^2+x \neq 0 \hspace{0.1cm} \frac{x(x+1) \neq 0}{x \neq -1, 0} \Rightarrow D_f = \mathbb{R} \setminus \{-1, 0\}
+
+1. liczymy pochodną funkcji f korzystając ze wzoru: 
+
+\left[\frac{f(x)}{g(x)}\right]' = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2} 
+
+f'(x) = \frac{-2(x^2+x) - (2x+1)(1-x^2)}{(x^2+x)^2} =
+
+= \frac{-2x^3-2x^2 - (2x-2x^3+1-x^2)}{(x^2+x)^2} = \frac{-x^2-2x-1}{(x^2+x)^2}
+
+D_{f'} = D_f 
+
+2. wyznaczamy wartość f'(-1), 
+
+ale: f'(-1) = \left[\frac{0}{0}\right] , \hspace{0.1cm} \text{bo} \hspace{0.1cm} x=-1 \notin D_{f'}
+
+widzimy, że f(x) i f'(x) nie są określone w punkcie x=-1, 
+
+możemy jednak policzyć wartość pochodnej w tym punkcie jako granicę \lim_{x \to -1} f'(x)
+
+\lim_{x \to -1} \frac{-(x^2+2x+1)}{(x(x+1))^2} = \lim_{x \to -1} \frac{-(x+1)^2}{x^2(x+1)^2} = \frac{-(-1)}{(-1)^2} = -1
+
+f'(-1) = \lim_{x \to -1} f'(x)
+
+odp: f'(-1) = -1

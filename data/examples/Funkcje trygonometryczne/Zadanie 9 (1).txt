@@ -1,0 +1,63 @@
+
+--- STRONA 1 ---
+Zadanie 9
+
+Rozwiąż równanie 2tgx · cos x + 1 = 2 cos x + tgx, gdy x ∈ [-π, 2π].
+
+1️⃣ Wypisujemy założenie.
+
+x ≠ π/2 + kπ  (dziedzina tgx).
+
+k ∈ ℤ
+
+2️⃣ Przenosimy wszystko na jedną stronę.
+
+2tgx cosx + 1 - 2cosx - tgx = 0
+
+3️⃣ Wyłączamy czynnik przed nawias.
+
+2cosx(tgx - 1) - (tgx - 1) = 0
+
+(tgx - 1)(2cosx - 1) = 0
+
+4️⃣ Rozwiązujemy równanie.
+
+tgx - 1 = 0
+tgx = 1
+x = π/4 + kπ
+
+2cosx - 1 = 0
+2cosx = 1
+cosx = 1/2
+x = π/3 + 2kπ
+x = -π/3 + 2kπ
+
+5️⃣ Obliczamy rozwiązanie w przedziale.
+
+Z k podstawiamy liczby całkowite i sprawdzamy, czy należy do przedziału [-π, 2π].
+
+x = π/4 + kπ
+
+k = 0
+x = π/4
+
+k = 1
+x = 5π/4
+
+k = -1
+x = -3π/4
+
+x = π/3 + 2kπ
+
+k = 0
+x = π/3
+
+x = -π/3 + 2kπ
+
+k = 0
+x = -π/3
+
+k = 1
+x = 5π/3
+
+Odp.: x ∈ {-3π/4, -π/3, π/4, π/3, 5π/4, 5π/3}.

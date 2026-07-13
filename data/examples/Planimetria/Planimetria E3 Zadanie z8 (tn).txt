@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Zadanie z8 (tn) Podaj długości przekątnych sześciokąta foremnego o boku 1.
+
+1) Tworzymy rysunek poglądowy:
+
+[Sześciokąt z zaznaczonymi przekątnymi i trójkątami równobocznymi]
+
+Sześciokąt foremny zostanie podzielony na sześć przystających trójkątów równobocznych.
+
+Dłuższa przekątna np. |AD|, stanowi dwukrotność długości boku sześciokąta foremnego.
+
+|AD| = 2 * 1 = 2
+
+Krótsza przekątna stanowi dwukrotność wysokości trójkąta równobocznego powstałego po podziale sześciokąta.
+
+|FD| = 2 * (a * sqrt(3) / 2) = sqrt(3)
+
+Odp. 2 i sqrt(3).

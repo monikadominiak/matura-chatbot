@@ -1,0 +1,85 @@
+
+--- STRONA 1 ---
+Zad. 1.1 Napisz równanie okręgu przechodzącego przez punkty A, B, C, jeśli:
+A(1, 5), B(8, -2), C(9, 1).
+
+Rysunek poglądowy
+
+1) Wyznaczamy równanie okręgu:
+
+I sposób: Podstawiamy punkty A, B i C pod równanie okręgu:
+
+(x - a)^2 + (y - b)^2 = r^2
+
+(1 - a)^2 + (5 - b)^2 = r^2
+(8 - a)^2 + (-2 - b)^2 = r^2
+(9 - a)^2 + (1 - b)^2 = r^2
+
+64 - 16a + a^2 + 4 - 4b + b^2 - 1 + 2ab - 4 + b^2 + b^2 = 0
+
+65 - 16a + 27 - 16b + a^2 + b^2 = 0
+
+(-4, 7) / (-3, -4)
+
+(-8a - 15) + (-9b - 8) = 0
+
+a = a (1, 5) + b^2 = r^2
+
+r^2 = -94
+
+(8, -2) - (8 - 9)^2 + (8 - b) = 0
+
+(1 - a)^2 + (5 - b)^2 = r^2
+
+r^2 = 85
+
+O: (x - (-6))^2 + (y - 9)^2 = 25
+
+II sposób: symetralne
+
+p = AB: y = -x + 4
+A(1, 5) i B(8, -2)
+
+1 - 4 = -b - a
+y = x - 5 - a
+x = 1/2
+
+p = y= x - (a+b-2.5)
+
+A = (-(9*i + 6.8))
+
+p = AC: y - x+4
+A(6.8 9 - (a))
+x_1 = 5a/b + 2
+A/2 - a - b
+x = -4
+
+Jak symetralne odcinków dwóch dowolnych punktów przecinających się z punktu A,B,C
+
+To to punktem przecięcia będzie środek okręgu.
+
+p = (8, -2)
+
+x = (x_1 + x_2 / 2)
+
+y = (y_1 + y_2 / 2)
+
+S_AB (1/2 (-14),3/3)
+
+k = 4/7
+
+S_AC (5 , 3)
+
+k = 5
+
+S_BC (2, 1)
+
+S_xy : (x * 5.91x 5)
+
+y = -04
+
+k = (2 2) 
+
+O:(-4, 6)+/4^2 -3 5a/b
+
+O: (x - 6 - a)^2 + (y +4)^2 = 25

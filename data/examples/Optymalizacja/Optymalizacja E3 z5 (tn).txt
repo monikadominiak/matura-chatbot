@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Dla jakich wartości parametru m równanie x^3 - 3x - m = 0 ma trzy pierwiastki?
+
+x^3 - 3x - m = 0
+
+① rozwiążemy zadanie graficznie, przenosimy stałą m na prawą stronę
+
+x^3 - 3x = m
+
+f(x)
+
+f(x) = x(x^2 - 3) = 0
+
+x = 0 ∨ x = sqrt(3) ∨ x = -sqrt(3)
+
+② m_1 i m_2 to wartości dwóch ekstremów, które należy znaleźć
+
+liczymy pochodną funkcji f
+
+f'(x) = 3x^2 - 3
+
+③ szukamy miejsca zerowe pochodnej i badamy monotoniczność i ekstrema funkcji
+
+f'(x) = 0 ⇔ 3x^2 - 3 = 0
+
+x^2 = 1
+
+x = 1 ∨ x = -1
+
+f(x) 
+     monotoniczność
+
+f_max = f(-1) = (-1)^3 - 3(-1) = -1 + 3 = 2
+
+f_min = f(1) = 1^3 - 3·1 = 1 - 3 = -2
+
+m_1 = -2 , m_2 = 2
+
+Odp: m ∈ (-2, 2)

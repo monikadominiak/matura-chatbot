@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Zadanie z2 (9.2) Wyznacz równanie prostej równoległej do prostej k i przechodzącej przez punkt P = (2, 4), jeśli prosta k ma równanie 2x + 3y + 7 = 0.
+
+Rysunek poglądowy:
+
+Do analizy równoległości lub prostopadłości wygodniejsza jest postać kierunkowa.
+
+Prosta k jest podana w postaci ogólnej, więc zamieniamy na kierunkową:
+
+k: 2x + 3y - 7 = 0 => k: y = -2/3 x - 7/3
+
+Szukana prosta, oznaczmy jako l: y = ax + b.
+
+1) Wyznaczamy współczynnik kierunkowy szukanej prostej z warunku równoległości:
+
+l: y = ax + b
+l || k <=> al = ak
+a = -2/3
+l: y = -2/3 x + b
+
+Równoległość prostych y = a1 x + b1 i y = a2 x + b2 zachodzi, gdy a1 = a2.
+
+2) Podstawiamy punkt P do równania szukanej prostej i wyznaczamy jej wyraz wolny:
+
+P(2, 4) ε l => 4 = -2/3 * 2 + b => 4 = -4/3 + b 
+b = 16/3
+
+Odp. y = -2/3 x + 16/3.

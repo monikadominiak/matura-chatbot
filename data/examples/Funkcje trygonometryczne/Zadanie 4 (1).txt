@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+Zadanie 4
+
+Wiedząc, że tgα = 3, oblicz wartość wyrażenia \(\frac{\sin^2{\alpha} + \sin{(\pi-\alpha)}\cos{\alpha} + 8 \cos^2{(\pi+\alpha)}}{2\sin^2{\alpha} + \sin{\alpha} \cdot \cos{(\pi+\alpha)} + \cos^2{\alpha}}\).
+
+1️⃣ Korzystamy ze wzorów redukcyjnych.
+
+\[
+\begin{align*}
+&\sin{(180^\circ + \alpha)} = -\sin{\alpha} \\
+&\cos{(180^\circ + \alpha)} = -\cos{\alpha} \\
+&\sin{(180^\circ - \alpha)} = \sin{\alpha} \\
+&\cos{(180^\circ - \alpha)} = -\cos{\alpha}
+\end{align*}
+\]
+
+\[
+\cos{(\pi-\alpha)} = \cos{\alpha}
+\]
+
+\[
+\cos^2{(\pi+\alpha)} = (\cos{(\pi+\alpha)})^2 = (-\cos{\alpha})^2 = \cos^2{\alpha}
+\]
+
+\[
+\cos{(\pi+\alpha)} = -\cos{\alpha}
+\]
+
+2️⃣ Przekształcamy wyrażenie.
+
+\[
+\frac{\sin^2{\alpha} + \sin{\alpha}\cos{\alpha} + 8 \cos^2{\alpha}}{2\sin^2{\alpha} - \sin{\alpha}\cos{\alpha} + \cos^2{\alpha}}
+\]
+
+3️⃣ Rozpisujemy tgα = 3.
+
+\[
+\begin{align*}
+&tg\alpha = 3 \\
+&\frac{\sin{\alpha}}{\cos{\alpha}} = 3 \\
+&\sin{\alpha} = 3 \cos{\alpha}
+\end{align*}
+\]
+
+4️⃣ Obliczamy wartość wyrażenia.
+
+\[
+\frac{8 \cos^2{\alpha} + 3\cos{\alpha} \cdot \cos{\alpha} + 8 \cos^2{\alpha}}{2 \cdot 9 \cos^2{\alpha} - 3\cos{\alpha} \cdot \cos{\alpha} + \cos^2{\alpha}} = \frac{20 \cos^2{\alpha}}{16 \cos^2{\alpha}} = \frac{20}{16} = \frac{5}{4}
+\]
+
+Odp.: Wartość wyrażenia wynosi: \(\frac{5}{4}\).

@@ -1,0 +1,24 @@
+=== ARKUSZ: 2024p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0–1)
+Dana jest nierówność
+
+|x − 1| ≥ 3
+
+Na którym rysunku poprawnie zaznaczono na osi liczbowej zbiór wszystkich liczb rzeczywistych spełniających powyższą nierówność? Wybierz właściwą odpowiedź spośród podanych.
+
+A.
+B.
+C.
+D.
+
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1) Wymagania egzaminacyjne 2024: Wymaganie ogólne: II. Wykorzystanie i tworzenie informacji. 1. Interpretowanie i operowanie informacjami przedstawionymi w tekście, zarówno matematycznym, jak i popularnonaukowym, a także w formie wykresów, diagramów, tabel. Wymaganie szczegółowe: Zdający: 1.7) stosuje interpretację geometryczną i algebraiczną wartości bezwzględnej, rozwiązuje równania i nierówności typu: [...] (|x+3| ge 4). Zasady oceniania: 1 pkt – odpowiedź poprawna. 0 pkt – odpowiedź niepoprawna albo brak odpowiedzi. Rozwiązanie: Wersja A: B Wersja B: B Strona 2 z 41 ---
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

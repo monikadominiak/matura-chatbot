@@ -1,0 +1,23 @@
+=== ARKUSZ: 2025p | ZADANIE 22 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 22. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) dany jest kwadrat ABCD, w którym
+A = (4, −1). Przekątne tego kwadratu przecinają się w punkcie S = (1, 3).
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Przekątna kwadratu ABCD ma długość
+
+A. 5
+B. 7
+C. 10
+D. 14
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

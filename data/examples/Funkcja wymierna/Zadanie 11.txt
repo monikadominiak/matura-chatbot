@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Zadanie 11
+
+Wyznacz wartości parametru \( m \), dla których dziedziną funkcji \( f(x) = \frac{\sqrt{mx^2-6x+m-8}}{x^2+4x+m+1} \) jest zbiór liczb rzeczywistych.
+
+\(\large \textcircled{1} \) Wyznaczamy dziedzinę funkcji \( f(x) \). 
+
+Mianownik musi być różny od zera. 
+
+\( x^2 + 4x + m + 1 \neq 0 \)
+
+Inaczej, równanie kwadratowe nie może mieć rozwiązań.
+
+\( x^2 + 4x + m + 1 = 0 \)
+
+\(\Delta < 0 \)
+
+\( 16 - 4(m+1)<0 \)
+
+\( 16 - 4m - 4 < 0 \)
+
+\(-4m < -12\)
+
+\( m > 3 \)
+
+Wyrażenie pod pierwiastkiem musi być \(\geq 0\).
+
+\( \frac{mx^2 - 6x + m - 8}{x^2 + 4x + m + 1} \geq 0\)
+
+Mianownik jest zawsze dodatni zatem
+
+\( mx^2 - 6x + m - 8 \ge 0\)
+
+\( m \neq 0\) (otrzymujemy \(-6x + m - 8 \ge 0\), jest to funkcja liniowa malejąca).
+
+\(\Delta \leq 0\)
+
+\( 36 - 4m(m-8)\le 0\)
+
+\( 36 - 4m^2 + 32m\le 0\)
+
+\( m^2 - 8m - 9 \ge 0\)
+
+\(\Delta_m = 64 + 36 = 100\)
+
+\( m_1 = \frac{8-10}{2}= -1\)
+
+\( m_2 = \frac{8+10}{2} = 9\)
+
+\( m \in (-\infty, -1 ] \cup [9, +\infty)\)
+
+\(\large \textcircled{2} \) Wyznaczamy część wspólną rozwiązań
+
+\( \diamondsuit \)
+
+\[---------( \dot{-1} \ \dot{3}\ ]===========[ \ \dot{9} \ -------->>
+
+Odp: \( m \in [9, +\infty)\).

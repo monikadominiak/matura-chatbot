@@ -1,0 +1,11 @@
+=== ARKUSZ: 2022p | ZADANIE 33 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 33. (0–2)
+Dany jest trójkąt równoramienny 𝐴𝐵𝐶, w którym |𝐴𝐶| = |𝐵𝐶|. Dwusieczna kąta 𝐵𝐴𝐶 przecina bok 𝐵𝐶 w takim punkcie 𝐷, że trójkąty 𝐴𝐵𝐶 i 𝐵𝐷𝐴 są podobne (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Oblicz miarę kąta 𝐵𝐴𝐶.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+W trójkącie równobocznym \( \triangle ABC \) poprowadzono odcinek \( DF \), który przecina wysokość \( CE \) oraz tworzy kąt prosty z ramieniem \( BC \). Wiedząc, że \( 6DE = CE \), wykaż, że \( CF = \frac{5}{8} CB \).
+
+1️⃣ Tworzymy rysunek poglądowy
+
+Dane: \( 6DE = CE \) 🟡
+
+Teza: \( CF = \frac{5}{8}CB \)
+
+Uwaga: W zadaniach, w których występuje stosunek np. boków, jedna niewiadoma nie jest problemem
+
+2️⃣ Wprowadzamy niewiadomą
+   niech bok \( \triangle ABC = a \), \( |CB|=a \)
+
+3️⃣ \( |CE| \) jest wysokością \(\triangle\) równobocznego,
+   zatem \( |CE| = \frac{a \sqrt{3}}{2} \)
+
+   2 🟡 wyznaczamy \( |DE| \): \( 6|DE| = \frac{a \sqrt{3}}{2} \)
+
+   \(\implies |DE| = \frac{a\sqrt{3}}{12} \implies |DC| = |CE|-|DE| = \frac{a\sqrt{3}}{2} - \frac{a\sqrt{3}}{12} = \frac{5a\sqrt{3}}{12} \)
+
+4️⃣ Korzystamy z podobieństwa
+
+\( \triangle DFC \sim \triangle EBC \) z cechy kkk
+
+\( \alpha \)- wspólny
+
+Zapisujemy zależności z wykorzystaniem \( CF \) i \( CB \)
+
+\[ \frac{|CF|}{|CE|} = \frac{|DC|}{|CB|} \]
+
+\[ \frac{|CF|}{\frac{a \sqrt{3}}{2}} = \frac{\frac{5a\sqrt{3}}{12}}{a} \]
+
+\[ |CF| = \frac{a \sqrt{3}}{2} \cdot \frac{5a\sqrt{3}}{12a} = \frac{5}{8} a \implies \frac{5}{8} |CB| \]
+
+c.k.d.

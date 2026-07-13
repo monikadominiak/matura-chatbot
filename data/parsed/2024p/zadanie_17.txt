@@ -1,0 +1,15 @@
+=== ARKUSZ: 2024p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0–2)
+Ciąg arytmetyczny (a_n) jest określony dla każdej liczby naturalnej n ≥ 1. Trzeci wyraz tego ciągu jest równy (−1), a suma piętnastu początkowych kolejnych wyrazów tego ciągu jest równa (−165).
+
+Oblicz różnicę tego ciągu. Zapisz obliczenia.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

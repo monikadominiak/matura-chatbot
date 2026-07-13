@@ -1,0 +1,16 @@
+=== ARKUSZ: 2021p | ZADANIE 20 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 20. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+W trójkącie ABC bok BC ma długość 13, a wysokość CD tego trójkąta dzieli bok AB na odcinki
+o długościach $|AD|=3$ i $|BD|=12$ (zobacz rysunek obok).
+Długość boku AC jest równa
+A. $sqrt{34}$
+B. $frac{13}{4}$
+C. $2sqrt{14}$
+D. $3sqrt{45}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+z1 (1.2)
+
+Liczbę \(\sqrt{22} - 12\sqrt{2}\) zapisz w postaci \(a + b\sqrt{c}\), gdzie a, b, c są liczbami całkowitymi:
+
+1️⃣ Zapisanie liczby spod pierwiastka jako wyrażenie podniesione do kwadratu
+
+\[
+\frac{22 - 12 \sqrt{2}}{\sqrt{2}}
+\]
+\[
+(a-b)^2 = a^2 + b^2 - 2ab
+\]
+\[
+\begin{cases} 
+a^2 + b^2 = 22 \\
+-2ab = -12\sqrt{2} \Rightarrow ab = 6\sqrt{2}
+\end{cases}
+\]
+
+Potencjalne pary liczb to:
+
+\[\mathbb{I} \ a=1\]
+\[b=6\sqrt{2}\]
+
+\[\mathbb{II} \ a=6\]
+\[b=\sqrt{2}\]
+
+\[\mathbb{III} \ a=2\]
+\[b=3\sqrt{2}\]
+
+Musimy sprawdzić, która z par spełnia drugie równanie: \(a^2 + b^2 = 22\)
+
+\[
+\mathbb{I} \ 1^2 + (6\sqrt{2})^2 = 1 + 72 = 73 \neq 22
+\]
+
+\[
+\mathbb{II} \ 6^2 + (\sqrt{2})^2 = 36 + 2 = 38 \neq 22
+\]
+
+\[
+\mathbb{III} \ 2^2 + (3\sqrt{2})^2 = 4 + 18 = 22
+\]
+
+Zatem \((a-b)^2 = (2 - 3\sqrt{2})^2\)
+
+2️⃣ Pozbycie się pierwiastka - korzystamy ze wzoru:
+
+\[
+\sqrt{a^2} = |a|
+\]
+
+\[
+\sqrt{22-12\sqrt{2}} = \sqrt{(2-3\sqrt{2})^2} = |2 - 3\sqrt{2}|
+\]
+
+\[
+= -(2 - 3\sqrt{2}) = -2 + 3\sqrt{2}
+\]
+
+\[
+<0, \text{zatem zmieniamy znaki}
+\]
+
+Odp: \(-2 + 3\sqrt{2}\).

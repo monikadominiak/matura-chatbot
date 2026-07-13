@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+3. Postać kanoniczna i pojęcie wektora 3
+
+Wykres funkcji g powstał w wyniku przesunięcia wykresu funkcji f o wektor 'u'. Wyznacz wzór funkcji f(x) jeżeli:
+a) g(x) = 5(x + 1)^2 + 2, u = [-1,5]
+b) g(x) = 4(x + 2)^2 + 3, u = [-2,3]
+c) g(x) = 2,5(x - 7)^2 - 13, u = [7,-3]
+
+Można używać wektorów o przeciwnych współrzędnych
+
+a) g(x) = 5(x + 1)^2 + 2, \quad u = [-1,5]
+
+      f(x) \overset{[-1,5]}{\longrightarrow} g(x)
+
+      g(x) \overset{[1,-5]}{\longrightarrow} f(x)
+
+zatem: f(x) = g(x - 1) - 5
+
+f(x) = 5[(x-1)+1]^2 + 2 - 5
+
+f(x) = 5x^2 - 3
+
+Odp: f(x) = 5x^2 - 3
+
+b) g(x) = 4(x + 2)^2 + 3, \quad u = [-2,3]
+
+      f(x) \overset{[-2,3]}{\longrightarrow} g(x)
+
+      g(x) \overset{[2,-3]}{\longrightarrow} f(x)
+
+zatem: f(x) = g(x - 2) - 3
+
+f(x) = 4[(x-2)+2]^2 + 3 - 3
+
+f(x) = 4x^2
+
+Odp: f(x) = 4x^2
+
+c) g(x) = 2,5(x - 7)^2 - 13, \quad u = [7,-3]
+
+      f(x) \overset{[7,-3]}{\longrightarrow} g(x)
+
+      g(x) \overset{[-7,3]}{\longrightarrow} f(x) 
+
+zatem: f(x) = g(x + 7) + 3
+
+f(x) = 2,5[(x+7)-7]^2 - 13 + 3
+
+f(x) = 2,5x^2 - 10
+
+Odp: f(x) = 2,5x^2 - 10

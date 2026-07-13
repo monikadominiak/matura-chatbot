@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Ze zbioru {1,2,3,5,7} wylosowano ze zwracaniem trzy razy po jednej cyfrze i zapisano je obok siebie w kolejności losowania, tworząc liczbę trzycyfrową. Oblicz prawdopodobieństwo zdarzenia A, że otrzymana liczba jest wielokrotnością liczby 65.
+
+➊ analizujemy polecenie
+zbiór: {1,2,3,5,7} - *5 elementów
+
+trzy razy losowanie ze zwracaniem
+
+A - otrzymana liczba jest wielokrotnością 65
+
+➋ wypiszemy 3-cyfrowe wielokrotności 65
+
+130, 195, 260, 325, 390, 455, 520, 585, 650, 715, 780, 845, 910, 975
+
+wykreślamy te, które nie spełniają war. zadania
+
+więc mamy 325 lub 715
+\(\bar{A} = 2\)
+
+➌ liczymy moc \(\Omega\)
+
+\(\bar{\Omega} = 5^3 = 125\)
+
+➍ \(P(A) = \frac{2}{125}\)
+
+Odp: \(\frac{2}{125}\)

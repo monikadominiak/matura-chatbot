@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+```
+z1 (4.1)
+
+Jednym z miejsc zerowych funkcji f(x) = (x^3 + bx^2 - 13x - 10) / (x + 1) jest 5. Znajdź pozostałe miejsca zerowe funkcji f.
+
+1️⃣ Wyznaczamy b wykorzystując podane miejsce zerowe.
+
+f(5)=
+(5^3 + b*5^2 - 13*5 - 10) / (5 + 1) = 0
+
+(125 + 25b - 65 - 10) / 6 = 0 / * 6
+
+50 + 25b = 0
+
+b = -2
+
+zatem   f(x)= (x^3 - 2x^2 - 13x - 10) / (x + 1)
+
+2️⃣ Wyznaczamy pozostałe miejsca zerowe.
+
+Aby wyznaczyć miejsca zerowe przyrównujemy wzór funkcji do zera i rozwiązujemy powstałe równanie.
+
+(x^3 - 2x^2 - 13x - 10) / (x + 1) = 0 / * (x + 1) ; x ≠ -1
+
+x^3 - 2x^2 - 13x - 10 = 0
+
+Z treści zadania wiemy, iż 5 jest rozwiązaniem tego równania. Nie musimy dzięki temu szukać pierwszego pierwiastka z trójmianu. O pierwiastkach wymiernych.
+
+      x^2 + 3x + 2
+(x^3 - 2x^2 - 13x - 10) : (x - 5)
+   -x^3 + 5x^2
+   -------------
+       3x^2 - 13x - 10
+      -3x^2 + 15x
+      -------------
+             2x - 10
+          -2x + 10
+          -------------
+               =
+```
+
+--- STRONA 2 ---
+(x-5)(x^2+3x+2)=0
+
+x-5=0
+
+x=5
+
+x^2+3x+2=0
+
+Δ=9-8=1
+
+x_1=\frac{-3-1}{2}=-2
+
+x_2=\frac{-3+1}{2}=-1 \notin D
+
+Odp.: Pozostałe miejsca zerowe (oprócz 5) to -2.

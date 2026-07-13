@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+1️⃣ DANE:
+
+P(A ∩ B), P(A), P(B), P(A ∪ B) - ciąg geo. 
+
+niech P(A ∩ B) = a
+
+wtedy: P(A) = aq, P(B) = aq^2, P(A ∪ B) = aq^3
+
+DO OBLICZENIA:
+
+P(A - B) = ?
+
+2️⃣
+
+narysujemy diagram Venna:
+
+[Diagram Venna z zaznaczonymi częściami A, B, A ∩ B i ich wartościami]
+
+aq - a + a + aq^2 - a = aq^3
+
+P(A \ B)   P(A ∩ B)   P(B \ A)   P(A ∪ B)
+
+-a + aq + aq^2 = aq^3   /: a ≠ 0
+
+3️⃣ rozwiązujemy równanie zmiennej q
+
+-a + q + q^2 - q^3 = 0
+
+-(1-q) + q^2(1-q) = 0
+
+(1-q)(q^2-1) = 0
+
+-(q-1)^2(q+1) = 0
+
+q = 1 ∨ q = -1  
+
+sprzeczne ➔ prawd. nie może być ujemne
+
+4️⃣ q = 1 oznacza, że P(A ∩ B) = P(A) = P(B) = P(A ∪ B)
+
+czyli A ⊂ B i B ⊂ A, więc
+
+P(A - B) = 0
+
+Odp: P(A - B) = 0

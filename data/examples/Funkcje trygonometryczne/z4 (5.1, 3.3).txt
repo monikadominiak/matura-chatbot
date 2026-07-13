@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+z4 (5.1, 3.3)
+
+Rozwiąż równanie tg^4x - 2tg^3x - 2tg^2x + 6tgx - 3 = 0.
+
+Tangens ma ograniczoną dziedzinę, w takim razie równanie także ma ograniczoną dziedzinę.
+
+① Wyznaczamy dziedzinę równania.
+
+D: x ≠ π/2 + kπ, k ∈ Z.
+
+Równanie można sprowadzić do prostszej postaci podstawiając zmienną pomocniczą, t = tgx, uwzględniając zbiór wartości funkcji tangens, którym są liczby rzeczywiste.
+
+② Podstawiamy pomocniczą zmienną,
+
+t = tgx , t ∈ ℝ
+t^4 - 2t^3 - 2t^2 + 6t - 3 = 0
+
+Uzyskaliśmy równanie wielomianowe zmiennej t. 
+Równanie wielomianowe można próbować rozwiązywać grupowaniem wyrazów i zmienną pomocniczą (to byłaby już druga w tym zadaniu) lub twierdzeniem o pierwiastkach wymiernych i dzieleniem wielomianów.
+
+③ Rozwiązujemy równanie wielomianowe.
+
+t^4 - 2t^3 - 2t^2 + 6t - 3 = 0
+w(t)
+
+Z twierdzenia o pierwiastkach wymiernych jedynymi potencjalnymi pierwiastkami wymiernymi równania są liczby ze zbioru {±1, ±3}
+
+Szukamy ręcznie pierwiastka w tym gronie aż do skutku.
+
+w(-1) = 1 + 2 - 2 - 6 - 3 ≠ 0
+
+w(1) = 1 - 2 - 2 + 6 - 3 = 0
+
+--- STRONA 2 ---
+Wiedząc, że pierwiastkiem jest liczba 1, dzielimy w(t) przez dwumian (t-1). Można to zrobić pisemnie lub schematem Hornera.
+
+```
+   1 | 1  -2  -2  6  -3
+     |    1  -1  -3  3
+     -----------------
+     | 1  -1  -3  3  0
+```
+
+Można wobec tego nasze równanie z zmiennej t zapisać jako:
+
+(t-1)(t^3 - t^2 - 3t + 3) = 0
+
+t - 1 = 0
+
+t = 1
+
+t^3 - t^2 - 3t + 3 = 0
+
+t^2(t-1) - 3(t-1) = 0
+
+(t^2 - 3)(t-1) = 0
+
+t^2 - 3 = 0       t-1 = 0
+
+\( t = \sqrt{3} \) v t = -\sqrt{3} 
+
+t = 1
+
+Równanie wielomianowe rozwiązano metodą grupowania wyrazów. Dochodzimy do wniosku, że rozwiązaniami zmiennej t są następujące liczby:
+
+t = 1, t = -\sqrt{3}, t = \sqrt{3}
+
+4) Cofamy podstawienie
+
+\( x \neq \frac{\pi}{2} + k\pi, \quad k \in \mathbb{Z} \)
+
+t = 1     v     t = -\sqrt{3}     v     t = \sqrt{3}
+
+tgx = 1        v        tgx = -\sqrt{3}       v        tgx = \sqrt{3}
+
+\( x = \frac{\pi}{4} + k\pi \)       \( x = -\frac{\pi}{3} + k\pi \)       \( x = \frac{\pi}{3} + k\pi \)
+
+Odp.: \( x = \frac{\pi}{4} + k\pi, \quad x = \frac{\pi}{3} + k\pi, \quad x = -\frac{\pi}{3} + k\pi, \quad k \in \mathbb{Z} \)

@@ -1,0 +1,90 @@
+
+--- STRONA 1 ---
+z1 (2.6)
+
+Znajdź wszystkie wartości m, dla których funkcja  
+f(x) = (m^2 - 1)x^2 + 2(m - 1)x + 2 przyjmuje wartość dodatnią dla każdej liczby rzeczywistej x.
+
+f(x) = (m^2 - 1)x^2 + 2(m - 1)x + 2
+
+a = m^2 - 1  
+b = 2(m - 1)  
+c = 2
+
+➀ Zbadanie kiedy i jak zachowa się ta funkcja gdy będzie ona liniowa
+
+a = 0 - f. liniowa
+
+m^2 - 1 = 0 / +1  
+m^2 = 1  
+m = 1 ∨ m = -1
+
+dla m = 1 : f(x) = 2 ← funkcja przyjmuje wartość dodatnią dla każdej liczby rzeczywistej
+
+dla m = -1 : f(x) = -4x + 2 ← funkcja nie dla każdej liczby rzeczywistej przyjmuje wartość dodatnią
+
+Zatem m = 1 będzie należeć do zbioru rozwiązań
+
+a ≠ 0 - f. kwadratowa  
+m^2 - 1 ≠ 0  
+m ∈ R \{-1, 1}
+
+② Dla funkcji kwadratowej: wyznaczenie warunków wynikających z treści zadania
+
+1° a > 0 ← ramiona paraboli skierowane ku górze
+
+2° Δ < 0 ← brak miejsc zerowych
+
+③ Rozwiązanie pierwszego z warunków
+
+1° a > 0
+
+a^2 - b^2 = (a - b)(a + b)  
+m^2 - 1 > 0  
+(m - 1)(m + 1) > 0
+
+m = 1  m = -1
+
+④ Rozwiązanie drugiego z warunków
+
+2° Δ < 0
+
+Δ = b^2 - 4·a·c
+
+a^2 - b^2 = (a - b)(a + b)
+
+[2(m - 1)]^2 - 4·(m^2 - 1)·2 < 0  
+4(m - 1)^2 - 8(m^2 - 1) < 0  
+4(m - 1) [(m - 1) - 2(m + 1)] < 0 | :4  
+(m - 1)[m - 1 - 2m - 2] < 0  
+(m - 1)(-m - 3) < 0
+
+---
+  
+m ∈ (-∞, -1) ∪ (1, ∞)
+
+--- STRONA 2 ---
+\[
+(m-1)(-m-3)<0
+\]
+\[
+m-1=0 \; \vert \; +1 \quad \quad -m-3=0 \; \vert \; +m
+\]
+\[
+m=1 \quad \quad m=-3
+\]
+\[
+m \in (-\infty;-3) \cup (1;\infty)
+\]
+
+\(5^\circ \) Wyznaczenie części wspólnej rozwiązań wszystkich warunków, uwzględniając dodatkowe rozwiązanie z przypadku funkcji liniowej
+
+z f. liniowej: \( m=1 \)
+
+\( 1^\circ \) \( m \in (-\infty;-1) \cup (1,+\infty) \)
+
+\( 2^\circ \) \( m \in (-\infty;-3) \cup (1,+\infty) \)
+
+Zatem \( m \in (-\infty;-3) \cup \langle 1,\infty) \)
+
+Odp: \( m \in (-\infty;-3) \cup \langle 1,\infty) \)

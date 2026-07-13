@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+**Zadanie z3 (9.5)** Dany jest trójkąt ABC, w którym A = (-2, -1), \(\overrightarrow{AB} = [8, 4]\), a punkt przecięcia środkowych ma współrzędne (1, 4). Znajdź współrzędne pozostałych wierzchołków trójkąta.
+
+*Rysunek poglądowy*
+
+1) Wyznaczamy wierzchołek B z definicji wektora:
+
+\[ A(-2,-1) \quad B(x_B,y_B) \]
+
+\[
+\overrightarrow{AB} = [x_B - x_A, y_B - y_A]
+\]
+
+\[
+[8,4] = [x_B - (-2), y_B - (-1)]
+\]
+
+\[
+x_B + 2 = 8 \quad \Rightarrow \quad x_B = 6 \quad \Rightarrow \quad B(6,y_B)
+\]
+\[
+y_B + 1 = 4 \quad \Rightarrow \quad y_B = 3
+\]
+
+\[
+B(6,3)
+\]
+
+2) Wyznaczamy wierzchołek C ze wzoru na środek ciężkości trójkąta:
+
+*Środek ciężkości trójkąta ABC, czyli punkt przecięcia jego środkowych ma współrzędne:*
+
+\[
+\left( \frac{x_A+x_B+x_C}{3}, \frac{y_A+y_B+y_C}{3} \right)
+\]
+
+\[ C(x_C,y_C) \]
+
+\[
+\frac{-2+6+x_C}{3} = 1 \quad \Rightarrow \quad x_C = -1
+\]
+\[
+\frac{-1+3+y_C}{3} = 4 \quad \Rightarrow \quad y_C = 10
+\]
+
+\[ C(-1,10) \]
+
+**Odp.** B(6,3), \ C(-1,10).

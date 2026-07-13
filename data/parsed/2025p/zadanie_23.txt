@@ -1,0 +1,25 @@
+=== ARKUSZ: 2025p | ZADANIE 23 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 23. (0–1)
+W kartezjańskim układzie współrzędnych (x, y) proste k oraz l są określone równaniami
+
+k: y = (m − 2)x + 5
+l: y = −4x + (m + 3)
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Proste k oraz l są równoległe, gdy liczba m jest równa
+
+A. (−4)
+B. (−2)
+C. 2
+D. 5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

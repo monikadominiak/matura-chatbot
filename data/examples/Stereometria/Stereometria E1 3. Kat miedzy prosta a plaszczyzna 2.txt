@@ -1,0 +1,40 @@
+
+--- STRONA 1 ---
+Dany jest ostrosłup prawidłowy trójkątny o krawędzi podstawy a i objętości równej \( \frac{a^3 \sqrt{3}}{12} \). 
+Oblicz cosinus kąta, który z podstawą ostrosłupa tworzy wysokość ściany bocznej.
+
+1) **spoglądamy rysunki pomocnicze**
+
+\( \rho = \frac{a \sqrt{3}}{2} \) z własności \(\Delta\) równobocznego
+
+\( x = \frac{1}{3} h_p = \frac{1}{3} \cdot \frac{a \sqrt{3}}{2} = \frac{a \sqrt{3}}{6} \)
+
+2) **wykorzystujemy informację o objętości**
+
+\( V = \frac{1}{3} \rho \cdot H = \frac{a^3 \sqrt{3}}{12} \)
+
+\( \frac{a^3 \sqrt{3}}{12} = \frac{1}{3} \cdot \frac{a^2 \sqrt{3}}{4} \cdot H / \cdot 12 \)
+
+\( a^3 \sqrt{3} = a^2 \sqrt{3} \cdot H / : a^2 \sqrt{3} \neq 0 \)
+
+\( a = H \)
+
+3) **wyznaczamy \( h \) w zależności od \( a \)**
+
+\( \cos \alpha = \frac{x}{h} \)
+
+w zielonym \(\Delta\): 
+
+\( h^2 = H^2 + x^2 \) (tw. Pitagorasa)
+
+\( h^2 = a^2 + \left(\frac{a \sqrt{3}}{6}\right)^2 \)
+
+\( h^2 = a^2 + \frac{3a^2}{36} \)
+
+\( h^2 = \frac{39a^2}{36} \Rightarrow h = \frac{a \sqrt{39}}{6} \)
+
+4) **liczymy wartość cosinusa**
+
+\( \cos \alpha = \frac{x}{h} = \frac{a \sqrt{3}}{6} \cdot \frac{6}{a \sqrt{39}} = \frac{1}{\sqrt{13}} = \frac{\sqrt{13}}{13} \)
+
+Odp: \(\cos \alpha = \frac{\sqrt{13}}{13}\)

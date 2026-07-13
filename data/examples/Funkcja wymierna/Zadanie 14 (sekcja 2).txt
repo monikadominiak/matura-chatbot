@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zadanie 14
+
+Rozwiąż nierówność: \(-2 \log_4^2 x + 3 \log_4 x - 1 > 0\).
+
+\( \circled{1} \) Wprowadzamy pomocniczą zmienną \( t \).
+
+\[
+\log_4 x = t, \ t \in \mathbb{R}.
+\]
+
+\( = \) zbiór wartości wyrażenia \( \log_4 x \).
+
+\[
+-2t^2 + 3t - 1 > 0
+\]
+
+\[
+2t^2 - 3t + 1 < 0
+\]
+
+\[
+2(t - \frac{1}{2})(t - 1) < 0
+\]
+
+\[
+t \in \left(\frac{1}{2}, 1\right)
+\]
+
+\( \circled{2} \) Cofamy podstawienie.
+
+\[
+\log_4 x > \frac{1}{2}
+\]
+
+\[
+\log_4 x < 1
+\]
+
+\[
+\log_4 x > \log_4 2
+\]
+
+\[
+\log_4 x < \log_4 4
+\]
+
+\[
+x > 2 \quad \quad \quad x < 4
+\]
+
+\( \circled{4} \) Wyznaczamy część wspólną.
+
+Odp.: \( x \in (2, 4) \).

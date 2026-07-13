@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Uzasadnij, że jeśli reszta z dzielenia liczby naturalnej n przez 5 jest równa jest równa 4, to liczba n^2 - 1 jest podzielna przez 5.
+
+założenie: n dzielone przez 5 daje resztę 4 
+
+teza: liczba n^2 -1 jest podzielna przez 5 
+
+① zapisujemy liczbę n zgodnie z warunkiem z zadania 
+
+n = 5k + 4 , k ∈ Z 
+
+② podstawiamy nasze n do wyrażenia n^2-1 
+
+(5k+4)^2 -1 = 25k^2 + 40k +16 -1 =
+
+= 25k^2 + 40k +15 = 5(5k^2 +8k +3) 
+
+③ komentarz: 5(5k^2 +8k +3) to iloczyn liczby 5 i liczby całkowitej, zatem jest podzielne przez 5, co równoważnie dowodzi, że n^2-1 jest podzielne przez 5 
+
+c. k. d.

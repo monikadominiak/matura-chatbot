@@ -1,0 +1,18 @@
+=== ARKUSZ: 2018p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0-1)
+Dany jest ciąg geometryczny (a_n), określony dla n &gt;= 1, w którym a_1 = sqrt{2}, a_2 = 2sqrt{2}, a_3 = 4sqrt{2}. Wzór na n-ty wyraz tego ciągu ma postać A. a_n = (sqrt{2})^n B. a_n = (2^n) / sqrt{2} C. a_n = (sqrt{2}/2)^n D. a_n = ((sqrt{2})^n) / 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 13. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu geometrycznego (5.4).
+Poprawna odp. (1 p.):
+Wersja I: B
+Wersja II: A
+
+Strona 3 z 25
+
+---

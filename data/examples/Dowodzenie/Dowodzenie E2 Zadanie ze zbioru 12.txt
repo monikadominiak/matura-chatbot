@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Wykaż, że dla każdej liczby naturalnej n prawdziwe są nierówności:
+2(\sqrt{n+2} - \sqrt{n+1}) < \frac{1}{\sqrt{n+1}} \ \ \ i \ \ \ \frac{1}{\sqrt{n+1}} < 2(\sqrt{n+1} - \sqrt{n})
+
+n \in \mathbb{N}
+
+① \ \ \ 2(\sqrt{n+2} - \sqrt{n+1}) < \frac{1}{\sqrt{n+1}}
+
+2\sqrt{n+2} - 2\sqrt{n+1} < \frac{1}{\sqrt{n+1}}
+
+② \ \ \przenosimy \ ① \ na \ drugą \ stronę, \ aby \ mieć \ pewność \ znaku \ po \ obu \ stronach
+
+2\sqrt{n+2} < \frac{1}{\sqrt{n+1}} + 2\sqrt{n+1} \ \ /(\cdot)^2
+
+4(n+2) < \frac{1}{n+1} + 2\cdot\frac{1}{\sqrt{n+1}}\cdot2\sqrt{n+1} + 4(n+1)
+
+4n+8 < \frac{1}{n+1} + 4 + 4n+4
+
+0 < \frac{1}{n+1} 
+
+więc \ \ n+1 > 0
+
+n > -1 \ \ \ prawda \ dla \ n \in \mathbb{N}
+
+\frac{1}{\sqrt{n+1}} < 2(\sqrt{n+1} - \sqrt{n})
+
+\frac{1}{\sqrt{n+1}} < 2\sqrt{n+1} - 2\sqrt{n}
+
+przenosimy \ ② \ na \ drugą \ stronę, \ aby \ mieć \ pewność \ znaku \ po \ obu \ stronach 
+
+\frac{1}{\sqrt{n+1}} + 2\sqrt{n} < 2\sqrt{n+1} \ \ /(\cdot)^2
+
+\frac{1}{n+1} + \frac{4\sqrt{n}}{\sqrt{n+1}} + \underbrace{4n}_{< \ 4n+4} < 4 \ \ /(n+1)>0, \ n \in \mathbb{N}
+
+\frac{1}{n+1} + \frac{4\sqrt{n} \cdot \sqrt{n+1}}{n+1} < 4
+
+4\sqrt{n(n+1)} < 4n+3 \ \ /(\cdot)^2
+
+16n^2 + 16n < 16n^2 + 24n + 9
+
+-8n < 9 \ \ /: (-8)
+
+n > -\frac{9}{8} \ \ \ prawda \ dla \ n \in \mathbb{N}
+
+c.k.d.

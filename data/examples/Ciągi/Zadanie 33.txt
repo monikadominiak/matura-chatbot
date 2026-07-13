@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+Zadanie 33
+
+Wyznacz wartość parametru \( p \), dla którego granica ciągu 
+\( a_n = \sqrt{4n^2 + 3n + 5} - (pn + 1) \) jest równa
+
+a) \(\infty\)  
+b) \(-\infty\)  
+c) \( x, x \in \mathbb{R} \).
+
+① Obliczamy granicę  
+\[
+\lim_{n \to \infty} \left( \sqrt{4n^2 + 3n + 5} - (pn + 1) \right) = \lim_{n \to \infty} \left( n \sqrt{1 + \frac{3n}{4n^2} + \frac{5}{4n^2}} \right) - n \left( p + \frac{1}{n} \right) = \lim_{n \to \infty} n(2 - p)
+\]
+
+a) ② Określamy kiedy \(\lim_{n \to \infty} a_n = \infty\).
+
+Jeśli \( 2 - p > 0 \)  
+\( p < 2 \)
+
+\[
+\lim_{n \to \infty} n(2 - p) = \infty
+\]
+
+b) ③ Określamy kiedy \(\lim_{n \to \infty} a_n = -\infty\).
+
+Jeśli \( 2 - p < 0 \)  
+\( p > 2 \)
+
+\[
+\lim_{n \to \infty} n(2 - p) = -\infty
+\]
+
+c) ④ Określamy kiedy \(\lim_{n \to \infty} a_n = x, x \in \mathbb{R}\).
+
+Jeśli \( 2 - p = 0 \)  
+\( p = 2 \)
+
+Wtedy 
+\[
+a_n = \sqrt{4n^2 + 3n + 5} - (2n + 1)
+\]
+
+\[
+\lim_{n \to \infty} \left( \sqrt{4n^2 + 3n + 5} - (2n + 1) \right) = \lim_{n \to \infty} \left( \frac{4n^2 + 3n + 5 + (2n+1)}{\sqrt{4n^2 + 3n + 5} + (2n+1)} \right) \times 
+\]
+
+\[
+= \lim_{n \to \infty} \frac{4n^2 + 3n + 5 - 4n^2 - 4n - 1}{\sqrt{4n^2 + 3n + 5} + (2n+1)} = \lim_{n \to \infty} \frac{-n + 4}{n \sqrt{1 + \frac{3n}{4n^2} + \frac{5}{4n^2}} + 2n \left( 1 + \frac{1}{2n} \right)} =
+\]
+
+\[
+= \lim_{n \to \infty} \frac{n \left(-1 + \frac{4}{n}\right)}{n(2 + 2)} = -\frac{1}{4}
+\]
+
+Odp.: a) \( p \in (-\infty, 2) \), b) \( p \in (2, +\infty) \), c) dla \( p = 2 \) \(\lim_{n \to \infty} a_n = -\frac{1}{4}\).

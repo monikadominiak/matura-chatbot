@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+z1 (6.7)
+
+Jednym z pierwiastków trójmianu kwadratowego y = ax^2 + bx + c jest -0.2. Liczby a, b, c tworzą ciąg arytmetyczny, a ich suma wynosi 24. Oblicz drugi pierwiastek tego trójmianu.
+
+*Jeśli przez niewiadome rozumiemy a, b, c, to mamy 3 niewiadome. W treści są 3 informacje, z których będzie można ułożyć 3 równania. Jeśli równań jest tyle samo, co niewiadomych, to taki układ równań da się rozwiązać.*
+
+**1** Tworzymy układ równań.
+
+f(-0.2) = 0 => a*(-0.2)^2 + b*(-0.2) + c = 0 /.25
+
+b = \frac{a+c}{2}
+
+a + b + c = 24
+
+\begin{cases} 
+a - 5b + 25c = 0 \quad (1) \\
+b = \frac{a+c}{2} \quad (2) \\
+a + b + c = 24 \quad (3)
+\end{cases}
+
+**2** Rozwiązujemy układ równań.
+
+Z (2): \quad 2b = a + c
+
+Do (3): \quad b + 2b = 24 \quad => b = 8
+
+Do (1) i (3):
+
+\begin{cases} 
+a - 40 + 25c = 0 \\
+a + c = 16 \quad => a = 16 - c
+\end{cases}
+
+(16 - c) - 40 + 25c = 0
+
+24c = 24
+
+c = 1
+
+a = 16 - 1 = 15
+
+--- STRONA 2 ---
+3️⃣ Wyznaczamy drugi pierwiastek trójmianu.
+
+f(x) = 15x^2 + 8x + 1 = 0
+
+Δ = 8^2 - 4∙15∙1 = 4
+
+sqrt(Δ) = sqrt(4) = 2
+
+x_1 = \frac{-8 - 2}{2∙15} = \frac{-1}{3}
+
+x_2 = \frac{-8 + 2}{2∙15} = \frac{-1}{5} = -0,2
+
+Drugi pierwiastek trójmianu to \frac{-1}{3}.
+
+Odp.: Drugi pierwiastek trójmianu to \frac{-1}{3}.

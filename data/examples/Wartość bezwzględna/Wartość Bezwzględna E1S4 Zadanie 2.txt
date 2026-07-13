@@ -1,0 +1,9 @@
+
+--- STRONA 1 ---
+Zad.2 Narysuj wykresy funkcji y = f(x) i y = |f(x)|, jeśli wiadomo, że f(x) = -2|x| + 2.
+
+1) Wykonujemy etapowo przekształcenia funkcji i rysujemy ich wykres w układzie współrzędnych:
+
+• y = -2x + 2  
+• y = -2|x| + 2  
+• y = |-2|x| + 2|  

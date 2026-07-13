@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+z2 (6.8)
+
+Dla jakich wartości parametru p ciąg (a_n) określony wzorem a_n=\frac{4n-1}{(p-1)n+5} ma granicę równą 2?
+
+Najwyższa potęga n u licznika i w mianowniku musi być taka sama. Wynikiem takiej granicy jest iloraz współczynników stojących przy najwyższych potęgach n.
+
+① Obliczamy p.
+
+\frac{4}{p-1} = 2  /:(p-1)
+
+4 = 2p - 2
+
+p = 3
+
+Odp.: p = 3.

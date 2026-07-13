@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+Kubek mający kształt walca o średnicy podstawy 8 cm i wysokości 10 cm jest w 90% wypełniony wodą. Wkładamy do niego cztery sześcienne metalowe kostki, każda o krawędzi 2 cm. Czy woda z kubka się wyleje? (pomiń grubość ścianek kubka)
+
+1) sporządzamy rysunek pomocniczy
+
+         (rysunek walca)
+     
+         2r = 8 (średnica)
+         r = 4
+         H = 10
+
+2) liczymy objętości walca, a następnie wody
+
+         V = πr^2H = 16·10π = 160π [cm^3]
+
+         V_W = 0,9·V = 144π [cm^3]
+
+3) liczymy objętości kostek i sprawdzamy czy V_W + V_K < V
+
+         V_K = 4·2^3 = 4·8 = 32 [cm^3]
+         
+         V_K + V_W = 32 + 144π < 160π
+
+                   32 < 16π ≈ 50,24
+                   PRAWDA
+
+         odp: nie wyleje się

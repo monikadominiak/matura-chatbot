@@ -1,0 +1,24 @@
+
+--- STRONA 1 ---
+z6 (6.8)  
+Oblicz granicę  
+
+lim(n→∞) (2 + 5 + 8 + … + (3n + 5)) / 3n^2  
+
+1️⃣ Zapisujemy licznik jako sumę ciągu arytmetycznego  
+
+a_1 = 2, r = 3  
+
+a_k = 2 + (k - 1) * 3 = 3k - 1  
+
+3k - 1 = 3n + 5  
+3k = 3n + 6  
+k = n + 2  (liczba wyrazów)  
+
+S_n+2 = a_1 + a_n+2 / 2 * (n + 2) = (2 + 3n + 5) / 2 * (n + 2) = (3n + 7)(n + 2) / 2 = (3n^2 + 13n + 14) / 2  
+
+2️⃣ Obliczamy granicę  
+
+lim(n→∞) S_n / 3n^2 = lim(n→∞) (3n^2 + 13n + 14) / 2 * 3n^2 = lim(n→∞) (1 / 2 + 13 / 6n + 14 / 6n^2) = 1 / 2  
+
+Odp.: lim(n→∞) (2 + 5 + 8 + … + (3n + 5)) / 3n^2 = 1 / 2.

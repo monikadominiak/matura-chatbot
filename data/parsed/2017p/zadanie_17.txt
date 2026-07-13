@@ -1,0 +1,14 @@
+=== ARKUSZ: 2017p | ZADANIE 17 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 17. (0-1)
+Obwód trójkąta ABC, przedstawionego na rysunku, jest równy
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $(3+frac{sqrt{3}}{2})a$
+B. $2(2+frac{sqrt{2}}{2})a$
+C. $(3+sqrt{3})a$
+D. $(2+sqrt{2})a$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 17. $0-1$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności funkcji trygonometrycznych w łatwych obliczeniach geometrycznych, w tym ze wzoru na pole trójkąta ostrokątnego o danych dwóch bokach i kącie między nimi (7.4).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D

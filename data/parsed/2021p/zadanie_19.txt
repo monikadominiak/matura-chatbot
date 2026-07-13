@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 19 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 19. (0-1)
+Pole pewnego trójkąta równobocznego jest równe $frac{4sqrt{3}}{9}$. Obwód tego trójkąta jest równy
+A. 4
+B. 2
+C. $frac{4}{3}$
+D. 1
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

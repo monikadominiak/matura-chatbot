@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+Ze zbioru A = {1, 2, 3, ..., 102} losujemy ze zwracaniem dwie liczby. Oblicz prawdopodobieństwo tego, że suma wylosowanych liczb jest podzielna przez 3.
+
+➊ analizujemy polecenie
+
+A = {1, 2, 3, ..., 102} → 102 elementy zbioru A
+
+losujemy ze zwracaniem 2 liczby  
+sż. A - suma wylosowanych liczb jest podzielna przez 3
+
+➋ liczymy moc Ω
+
+|Ω| = 102^2 (ze zwracaniem)
+
+➌ jakie mogą być te dwie liczby, aby suma była podzielna?
+
+1. dwie podzielne  
+2. pierwsza z resztą =1, druga =2  
+3. pierwsza z resztą =2, druga =1
+
+➍ określamy ile jest w zbiorze A liczb każdego typu
+
+102 : 3 = 34 → 102 jest podzielne, więc mamy po równo:
+{ liczba podzielnych przez 3  
+{ liczb z resztą = 1  
+{ liczb z resztą = 2  
+} po 34 liczby  
+
+➎ prawdopodobieństwa wylosowania każdego z typów są sobie równe i wynoszą:  
+34/102 = 1/3
+
+➏ P(A) = 1/3 * 1/3 + 1/3 * 1/3 + 1/3 * 1/3 = 3 * 1/9 = 1/3
+
+Odp: 1/3

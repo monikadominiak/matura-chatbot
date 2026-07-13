@@ -1,0 +1,146 @@
+
+--- STRONA 1 ---
+4. Równania wymierne 3
+
+Rozwiąż graficznie i algebraicznie układ równań:
+
+a) 
+\[
+\begin{cases} 
+y = \frac{-4}{x-2} \\
+y = -x-1 
+\end{cases} 
+\]
+
+b) 
+\[
+\begin{cases} 
+y = \frac{-x-1}{x+3} \\
+y = 2x+5 
+\end{cases} 
+\]
+
+a) 1️⃣ Szkicujemy obie funkcje w jednym układzie współrzędnych.
+
+2️⃣ Rozwiązujemy układ równań algebraicznie.
+
+\[
+\begin{cases} 
+y = \frac{-4}{x-2} \\
+y = -x-1
+\end{cases} 
+\]
+
+\[
+\frac{-4}{x-2} = -x-1
+\]
+
+\[
+-4 = (-x-1)(x-2)
+\]
+
+\[
+-4 = -x^2 + 2x - x + 2
+\]
+
+\[
+x^2 - 3x - 6 = 0
+\]
+
+\[
+\Delta = (-3)^2 - 4 \cdot 1 \cdot (-6) = 1 + 24 = 25
+\]
+
+\[
+x_1 = \frac{-(-3) - 5}{2} = -1 \notin D 
+\]
+
+\[
+x_2 = \frac{-(-3) + 5}{2} = 3 \in D 
+\]
+
+\[
+y_1 = -(-2) - 1 = 1
+\]
+
+\[
+y_2 = -3 - 1 = -4
+\]
+
+Odp.: 
+\[
+\begin{cases} 
+x = -2 \\
+y = 1 
+\end{cases},
+\begin{cases} 
+x = 3 \\
+y = -4 
+\end{cases}.
+\]
+
+--- STRONA 2 ---
+b) 1️⃣ Szkicujemy obie funkcje w jednym układzie współrzędnych.
+
+\( y = \frac{-x-1}{x+3} = \frac{-(x+3)+2}{x+3} = \frac{2}{x+3} - 1 \)
+
+\( y = \frac{2}{x+3} - 1 \)
+
+\( P_1(-4,-3) \)
+
+\( P_2(-2,1) \)
+
+2️⃣ Rozwiązujemy układ równań algebraicznie.
+
+\[
+\begin{cases}
+\frac{-x-1}{x+3} \\
+y = 2x+5
+\end{cases}
+\]
+
+\[
+\frac{-x-1}{x+3} = 2x+5
+\]
+
+\( D: \ x+3 \neq 0 \) 
+
+\( x \neq -3 \)
+
+\( D = \mathbb{R} \setminus \{-3\} \)
+
+\[
+-x-1 = (2x+5)(x+3)
+\]
+
+\[
+-x-1 = 2x^2+6x+5x+15
+\]
+
+\[
+2x^2+12x+16 = 0
+\]
+
+\[
+x^2+6x+8 = 0
+\]
+
+\[
+\Delta = 6^2-4 \cdot 8 = 36-32 =4
+\]
+
+\[
+x_1 = \frac{-6-2}{2} = -4 \in D \Rightarrow y_1 = 2 \cdot (-4) + 5 = -3 
+\]
+
+\[
+x_2 = \frac{-6+2}{2} = -2 \in D \Rightarrow y_2 = 2 \cdot (-2) + 5 = 1 
+\]
+
+Odp.: \(\begin{cases}
+x = -4 \\
+y = -3
+\end{cases}, \begin{cases}
+x = -2 \\
+y = 1
+\end{cases}.\)

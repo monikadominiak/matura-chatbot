@@ -1,0 +1,22 @@
+
+--- STRONA 1 ---
+Zadanie 23
+
+Podaj, dla jakich wartości parametru m równanie ma rozwiązanie: m \cos x = 3m - 2.
+
+Wiemy, że \cos x ma zbiór wartości [-1, 1].    
+Zatem m \cos x ma zbiór wartości [-m, m].
+
+1️⃣ Rozwiązujemy nierówności.
+
+3m - 2 \le m \quad \land \quad 3m - 2 \ge -m
+
+2m \le 2 \quad \quad \quad \quad \quad 4m \ge 2
+
+m \le 1 \quad \quad \quad \quad \quad \quad m \ge \frac{1}{2}
+
+2️⃣ Wyznaczamy część wspólną rozwiązań.
+
+m \in [\frac{1}{2}, 1]
+
+Odp.: \ m \in [\frac{1}{2}, 1].

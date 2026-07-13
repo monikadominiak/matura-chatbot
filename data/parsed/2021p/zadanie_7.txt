@@ -1,0 +1,16 @@
+=== ARKUSZ: 2021p | ZADANIE 7 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 7. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Na poniższym rysunku przedstawiono wykres funkcji f określonej w zbiorze (-6,5).
+Funkcja g jest określona wzorem $g(x)=f(x)-2$ dla $xinlangle-6,5rangle$. Wskaż zdanie
+prawdziwe.
+A. Liczba $f(2)+g(2)$ jest równa (-2).
+B. Zbiory wartości funkcji f i g są równe.
+C. Funkcje f i g mają te same miejsca zerowe.
+D. Punkt $P=(0,-2)$ należy do wykresów funkcji f i g.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Ile osób przyszło na spotkanie, jeśli wiadomo, że wszyscy przywitali się ze sobą i powitań było 435?
+
+1️⃣ analizujemy sytuację
+
+powitania: 435
+
+n - osób
+
+Łączna liczba powitań to tak naprawdę, to samo co: na ile sposobów można wybrać 2 osoby (do powitania) spośród n osób
+
+2️⃣ kolejność nie ma znaczenia ⇒ używamy kombinacji
+
+(n nad 2) = 435, n ∈ N+ i n ≥ 2
+
+3️⃣ rozwiązujemy równanie
+
+(n(n-1)n) / (2!(n-2)!) = 435 /.2
+
+n(n-1) = 870 → iloczyn kolejnych liczb naturalnych
+
+iloczyn kolejnych liczb naturalnych = 870 ⇒ 29∙30=870
+
+Odp: n = 30

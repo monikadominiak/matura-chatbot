@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Zadanie z3 (8.6) Długości boków czworokąta opisanego na okręgu są równe: |AB| = 3, |BC| = 6, |CD| = 5. Na czworokącie ABCD opisano okrąg. Oblicz długość przekątnej BD tego czworokąta.
+
+1) Tworzymy rysunek poglądowy:
+
+2) Wyznaczamy x z własności czworokąta opisanego na okręgu:
+
+x + 6 = 3 + 5
+
+x + 6 = 8
+
+x = 2
+
+3) Tworzymy układ równań z tw. cosinusów:
+
+Z Δ ABD: 
+\[
+\begin{cases} 
+y^2 = x^2 + 3^2 - 2 \cdot 2 \cdot 3 \cdot \cos (180^\circ - \alpha) 
+\end{cases}
+\]
+
+Z Δ BCD:
+\[
+\begin{cases} 
+y^2 = 5^2 + 6^2 - 2 \cdot 5 \cdot 6 \cdot \cos \alpha 
+\end{cases}
+\]
+
+\[
+\begin{cases} 
+y^2 = 13 - 12 \cdot (- \cos \alpha) \\ 
+y^2 = 61 - 60 \cdot \cos \alpha 
+\end{cases}
+\]
+
+13 + 12 \cdot \cos \alpha = 61 - 60 \cdot \cos \alpha
+
+72 \cdot \cos \alpha = 48
+
+\cos \alpha = \frac{2}{3} \Rightarrow y^2 = 61 - 60 \cdot \frac{2}{3} = 61 - 40 = 21
+
+y = \sqrt{21}
+
+Odp. |BD| = \sqrt{21}.

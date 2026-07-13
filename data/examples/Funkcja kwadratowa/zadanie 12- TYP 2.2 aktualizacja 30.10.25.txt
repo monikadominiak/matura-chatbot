@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Zadanie 12 [5 pkt]. TYP 2.2  
+Równanie x^2 + 7x + c = 0 ma dwa różne od zera pierwiastki. Oblicz c, jeśli wiadomo, że \( \left( \frac{10}{x_1} - x_2 \right) \left( \frac{10}{x_2} - x_1 \right) = 5 \).
+
+\[ x^2 + 7x + c = 0 \]
+\[ a = 1 \]
+\[ b = 7 \]
+\[ c = c \]
+
+① Zapisanie warunków wynikających z treści zadania.
+
+\( 1^\circ \ \Delta > 0 \) <dwa rozwiązania traktujemy tak, jak dwa różne rozwiązania>
+
+\[ x_1 \neq 0 \]
+\[ x_2 \neq 0 \]
+
+\( 2^\circ \ \left( \frac{10}{x_1} - x_2 \right) \left( \frac{10}{x_2} - x_1 \right) = 5 \)
+
+② Rozwiązanie pierwszego z warunków:
+
+\( 1^\circ \ \Delta > 0 \)  
+\[ \Delta = b^2 - 4ac \]
+
+\[ 7^2 - 4 \cdot 1 \cdot c > 0 \]
+\[ 49 - 4c > 0 \ | \ + 4c \]
+\[ 4c < 49 \ | \ : 4 \]
+\[ c < 12,25 \]
+
+② Rozwiązanie drugiego z warunków
+
+\( 2^\circ \ \left( \frac{10}{x_1} - x_2 \right) \left( \frac{10}{x_2} - x_1 \right) = 5 \)  
+\[ x_1 \cdot x_2 = \frac{c}{a} \]
+
+\[  \frac{100}{x_1 \cdot x_2} - 10 - 10 + x_1 \cdot x_2 = 5 \ | \ -5 \]
+
+\[ \frac{100}{x_1 \cdot x_2} - 25 + x_1 \cdot x_2 = 0 \ | \ (x_1 \cdot x_2) \]
+
+\[ 100 - 25x_1 \cdot x_2 + (x_1 \cdot x_2)^2 = 0 \]
+
+Korzystamy ze wzorów Viete'a  
+\[ x_1 + x_2 = -\frac{b}{a} \]
+\[ x_1 \cdot x_2 = \frac{c}{a} \]
+
+\[ 100 - 25c + c^2 = 0 \]
+
+\[ \Delta_c = (-25)^2 - 4 \cdot 1 \cdot 100 = 625 - 400 = 225 \]
+\[ \Delta_c = 15 \]
+
+\[ c_1 = \frac{-b - \sqrt{\Delta_c}}{2a} \]
+\[ c_2 = \frac{-b + \sqrt{\Delta_c}}{2a} \]
+
+\[ c_1 = \frac{(-25) - 15}{2} = 5 \]
+\[ c_2 = \frac{(-25) + 15}{2} = 20 \]
+
+\[ c \in \lbrace 5, 20 \rbrace \]
+
+③ Wyznaczenie części wspólnej wyników warunków
+
+\( 1^\circ \ \ c < 12,25 \)  
+\( 2^\circ \ \ c \in \lbrace 5, 20 \rbrace \)  
+
+Ostatecznie c = 5
+
+Odp: c = 5.

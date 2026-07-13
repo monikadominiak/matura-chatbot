@@ -1,0 +1,16 @@
+=== ARKUSZ: 2020p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Suma wszystkich rozwiązań równania $x(x-3)(x+2)=0$ jest równa
+A. 0
+B. 1
+C. 2
+D. 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 6. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C

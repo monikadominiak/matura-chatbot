@@ -1,0 +1,14 @@
+=== ARKUSZ: 2022p | ZADANIE 23 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 23. (0–1)
+Punkty 𝐾 = (4, −10) i 𝐿 = (𝑏, 2) są końcami odcinka 𝐾𝐿. Pierwsza współrzędna środka odcinka 𝐾𝐿 jest równa (−12).
+Wynika stąd, że
+A. 𝑏 = −28
+B. 𝑏 = −14
+C. 𝑏 = −24
+D. 𝑏 = −10
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

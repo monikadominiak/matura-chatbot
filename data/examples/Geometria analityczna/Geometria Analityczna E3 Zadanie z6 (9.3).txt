@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Zadanie z6 (O.3) Okrąg przechodzi przez punkt A(4, 1), zaś jego środek należy do prostej k: x=y-0. Wiedząc, że okrąg ten jest styczny do prostej l: y-5=0, wyznacz jego równanie. 
+
+1) Tworzymy rysunek roboczy:
+
+![Rysunek roboczy z okręgiem i prostymi]
+
+Środek okręgu leży na prostą x=y, można wtedy jego współrzędne opisać jako S(a,a). 
+
+Jednocześnie okrąg jest styczny do prostej l, więc jego promień r jest równy odległości środka okręgu od tej prostej.
+
+2) Wyliczamy promień okręgu w zależności od środka okręgu:
+
+S=(a,a) \ l: y-5=0
+A(0, B=1), C=-5
+
+d(S; l) = r = |Aa + Ba + C|/sqrt(A^2 + B^2) = |0a+1a-5|/sqrt(0^2+1^2) = |a-5|
+
+3) Podstawiamy punkt A pod równanie okręgu i je wyznaczamy:
+
+Skoro S(a,a): r=|a-5|, to znaczy, że uwzględnia współrzędne środka i promień okręgu w jednej niewiadomej, a.
+
+Wyrażone teraz podstawiamy punkt A pod równanie okręgu i go wyznaczamy:
+
+r^2 = |a-5|^2 = (x-a)^2 + (y-a)^2
+
+Równanie okręgu o środku w punkcie S(a,a) i promieniu r=|a-5|: 
+
+(x-a)^2 + (y-a)^2 = (a-5)^2
+
+Otrzymujemy dwa rozwiązania równania, czyli istnieją dwa okręgi spełniające warunki zadania.
+
+Przypadek 1: 
+
+a=-2.6 
+S(-2.6, -2.6) 
+r=|-2.6-5| = 2.4-5= -6.5=r
+
+(x+2.6)^2+(y+2.6)^2=(-6.5)^2
+
+(-a)^2=(-6.5)^2
+
+Przypadek 2: 
+
+a=7.6 
+S(7.6, 7.6)
+r=|7.6-5|= a-5=2.6=r
+
+(x-7.6)^2 + (y-7.6)^2 = 2.6^2
+(a-5)^2 = (2.6)^2 =5^2
+
+Mieliby teraz wypisać gotowy wynik i sprawdzić, czy pokrywają się z rysunkiem. 
+
+Odp: (x-7.6)^2+(y-7.6)^2=2.6^2 i (x+2.6)^2+(y+2.6)^2=6.5^2.

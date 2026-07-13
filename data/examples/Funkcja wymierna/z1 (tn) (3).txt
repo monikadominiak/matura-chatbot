@@ -1,0 +1,204 @@
+
+--- STRONA 1 ---
+z1 (tn)
+
+Sporządź wykres funkcji g: m → g(m), gdzie g(m) jest liczbą dodatnich pierwiastków równania mx = \frac{2x-2m-3}{x-3} w zależności od parametru m.
+
+Uwaga 1:
+Sprowadzając początkowe równanie wymierne z parametrem do równania kwadratowego lub wielomianowego należy sprawdzić, dla jakiego m rozwiązaniem równania kwadratowego / wielomianowego jest liczba wykluczona z dziedziny (tutaj x=3), a potem dla tej wartości m zbadać liczbę rozwiązań początkowego równania wymiernego.
+
+Uwaga 2:
+Zapis g: m → g(m) oznacza po prostu, że funkcja g dla argumentów m osiąga wartości g(m). To, co przed strzałką, to argumenty. To, co przed strzałką, to wartości. Zapis rzadko stosowany.
+
+Analogicznie można by napisać f: x → f(x), i to oznacza po prostu funkcję f(x), której argument to x, a wartości to f(x) = y. Zapis ten nic nie wnosi.
+
+1️⃣ Przekształcamy równanie.
+
+Należy sprowadzić równanie do równania kwadratowego (w pewnym przypadku liniowego).
+
+mx = \frac{2x-2m-3}{x-3} ; \quad x-3 \neq 0 \quad x \neq 3
+
+Dla x = 3 równanie jest sprzeczne.
+Przemnożymy równanie obustronnie przez (x-3):
+
+mx = \frac{2x-2m-3}{x-3} /. (x-3)
+
+mx (x-3) = 2x-2m-3
+
+2x-3mx = 2x-2m-3
+
+x^2 + (-2-3m)x + 2m + 3 = 0
+
+--- STRONA 2 ---
+2️⃣ Sprawdzamy dla jakiego rozwiązaniem równania kwadratowego jest x = 3.
+
+Podstawiamy x = 3.
+
+m * 3^2 + (-2 - 3m) * 3 + 2m + 3 = 0
+
+9m - 6 - 9m + 2m + 3 = 0
+
+2m = 3
+
+m = 3/2
+
+3️⃣ Sprawdzamy osobno, ile rozwiązań dodatnich ma początkowe.
+
+równanie wymierne dla m = 3/2
+
+\[
+\frac{3}{2} x = \frac{2x - 3 - 3}{x - 3}
+\]
+
+\[
+\frac{3}{2} x = \frac{2(x - 3)}{x - 3}
+\]
+
+\[
+\frac{3}{2} x = 2
+\]
+
+x = \frac{4}{3}
+
+Równanie ma 1 dodatni pierwiastek. Wiemy już, że funkcja g(m) przyjmuje wartość 1 dla argumentu m = \frac{3}{2}.
+
+--- STRONA 3 ---
+Mając już omówiony newralgiczny przypadek \( m = \frac{3}{2} \), resztę rozwiązania można oprzeć o analizę liczby rozwiązań równania kwadratowego:
+
+\[ mx^2 + (-2-3m)x + 2m + 3 = 0 \]
+
+w zależności od wartości \( m \).
+
+\((4)\) Sprawdzamy przypadek liniowy \( m = 0 \).
+
+\[ mx^2 + (-3m-2)x + 2m + 3 = 0 \]
+
+\[ -2x + 3 = 0 \]
+
+\[ x = \frac{3}{2} \]
+
+Równanie ma 1 dodatni pierwiastek. Wiemy już, że funkcja \( g(m) \) przyjmuje wartość 1 dla argumentu \( m = 0 \).
+
+Równanie kwadratowe istnieje dla \( m \in \mathbb{R} \setminus \{0, \frac{3}{2}\} \).
+
+\((5)\) Sprawdzamy co się dzieje dla równania kwadratowego.
+
+\[ mx^2 + (-3m-2)x + 2m + 3 = 0 \]
+
+\[ \Delta = (-3m-2)^2 - 4 \cdot m \cdot (2m+3) = \]
+
+\[ = 9m^2 + 12m + 4 - 8m^2 - 12m = \]
+
+\[ = m^2 + 4 > 0 \quad \text{(zawsze)} \]
+
+\[ \uparrow \]
+
+\( m \in \mathbb{R} \)
+
+czyli \( m \in \mathbb{R} \setminus \{0, \frac{3}{2}\} \)
+
+To równanie kwadratowe ma zawsze dwa różne rozwiązania.
+
+Teraz przeanalizujmy ile ma rozwiązań dodatnich.
+
+--- STRONA 4 ---
+Liczba rozwiązań dodatnich równania w zależności od sumy i iloczynu ze wzorów Viete'a.
+
+x_1 + x_2 = -\frac{b}{a} = \frac{3m+2}{m} \quad \text{ i } \quad x_1 \cdot x_2 = \frac{c}{a} = \frac{2m+3}{m}
+
+a) 2 rozwiązania dodatnie:
+\[
+\begin{cases}
+x_1 + x_2 > 0 \\
+x_1 \cdot x_2 > 0
+\end{cases}
+\]
+
+b) rozwiązania różnych znaków (1 dodatnie, 1 ujemne).
+x_1 \cdot x_2 < 0
+
+c) 2 rozwiązania ujemne (0 dodatnich),
+\[
+\begin{cases}
+x_1 + x_2 < 0 \\
+x_1 \cdot x_2 > 0
+\end{cases}
+\]
+
+d) jedno z rozwiązań równe zeru (sprawdzamy, ile jest wtedy rozwiązań dodatnich badając znak sumy i jeśli wyjdzie dodatnio, oznacza to 1 rozwiązanie dodatnie).
+x_1 \cdot x_2 = 0
+
+⑤ Sprawdzamy po kolei każdy podpunkt a-d.
+
+a)
+\[
+\begin{cases}
+\frac{3m+2}{m} > 0 \quad \longrightarrow \quad m \in (-\infty,-\frac{2}{3}) \cup (0,+\infty) \\
+\frac{2m+3}{m} > 0 \quad \longrightarrow \quad m \in (-\infty,-\frac{3}{2}) \cup (0,+\infty)
+\end{cases}
+\]
+część wspólna: m \in (-\infty,-\frac{3}{2}) \cup (0,+\infty) \setminus \left\{ \frac{3}{2} \right\} \quad \rightarrow \quad 2 rozwiązania
+
+--- STRONA 5 ---
+b)
+
+\(\frac{2m+3}{m} < 0 \rightarrow m \in \left( -\frac{3}{2}, 0 \right)\)
+
+(jedno rozwiązanie dodatnie, jedno ujemne).
+
+c)
+
+\[
+\begin{cases}
+\frac{3m+2}{m} < 0 \rightarrow m \in \left( -\frac{2}{3}, 0 \right) \\
+\frac{2m+3}{m} > 0 \rightarrow m \in \left( -\infty, -\frac{3}{2} \right) \cup \left( 0, +\infty \right)
+\end{cases}
+\]
+
+część wspólna: \(\emptyset\)
+
+Nie istnieje przypadek, gdy równanie ma 2 rozwiązania ujemne (czyli ani jednego dodatniego).
+
+d)
+
+\(\frac{2m+3}{m} = 0\)
+
+\(m = -\frac{3}{2}\)
+
+Wtedy:
+
+\(\frac{3m+2}{m} = \frac{-9/2 + 2}{-3/2} = \frac{5}{3}\)
+
+Gdy iloczyn \(=0\), to suma jest dodatnia, a to oznacza jedno rozwiązanie dodatnie.
+
+Podsumowując, równanie posiada następującą liczbę rozwiązań dodatnich:
+
+- 2 dla \(m \in \left( -\infty, -\frac{3}{2} \right) \cup (0, \frac{3}{2}) \cup (\frac{3}{2}, +\infty)\)
+- 1 dla \(m \in \left[-\frac{3}{2}, 0 \right] \cup \{\frac{3}{2}\}\)
+
+4) Szkicujemy wykres \(g(m)\).
+
+--- STRONA 6 ---
+z3 (4.2)
+
+Wyznacz dziedzinę funkcji f(x) = \(\frac{x-2}{x^3-3x^2-4x+12}\).
+
+① Wyznaczamy dziedzinę f(x).
+
+Mianownik funkcji musi być różny od zera.
+
+D: x^3 - 3x^2 - 4x + 12 ≠ 0
+
+x^2(x-3) - 4(x-3) ≠ 0
+
+(x^2-4)(x-3) ≠ 0
+
+x^2-4 ≠ 0    x-3 ≠ 0
+
+x^2 ≠ 4    x ≠ 3
+
+x ≠ 2    x ≠ -2
+
+D = ℝ \ {-2, 2, 3}
+
+Odp.: D = ℝ \ {-2, 2, 3}.

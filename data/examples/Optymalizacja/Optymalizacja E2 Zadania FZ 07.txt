@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+F27
+
+\( f(x) = x(x+3)^5 \), \( x_0 = -2 \)
+
+wzór na styczną: \( y = f'(x_0)(x-x_0) + f(x_0) \)
+
+① wyznaczamy wzór na \( f'(x) \), korzystając z pochodnej iloczynu
+
+\[
+[f(x) \cdot g(x)]' = f'(x) \cdot g(x) + f(x) \cdot g'(x)
+\]
+
+\[
+f'(x) = 1 \cdot (x+3)^5 + x \cdot 5(x+3)^4 \cdot 1 =
+\]
+\[
+= (x+3)^4(x+3+5x) = (x+3)^4(6x+3)
+\]
+
+② liczymy kolejno \( f'(x_0) \) i \( f(x_0) \)
+
+\[
+f'(-2) = (-2+3)^4(6 \cdot (-2)+3) = 1^4 \cdot (-12+3) = -9
+\]
+
+\[
+f(-2) = -2(-2+3)^5 = -2 \cdot 1^5 = -2
+\]
+
+③ wstawiamy wyliczone wartości do wzoru na styczną
+
+\[
+y = -9(x+2)-2 = -9x-18-2 = -9x-20
+\]
+
+odp: \( y = -9x-20 \)

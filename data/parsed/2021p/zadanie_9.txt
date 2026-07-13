@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9. (0-1)
+Proste o równaniach $y=3x-5$ oraz $y=frac{m-3}{2}x+frac{9}{2}$ są równoległe, gdy
+A. $m=1$
+B. $m=3$
+C. $m=6$
+D. $m=9$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

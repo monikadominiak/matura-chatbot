@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Zad.11 W trójkącie prostokątnym wysokość poprowadzona na przeciwprostokątną jest równa 4 cm. Spodek tej wysokości leży w odległości \(1\frac{1}{6}\) cm od środka okręgu opisanego na trójkącie. Oblicz:
+
+a) promień okręgu opisanego na tym trójkącie  
+b) długości boków tego trójkąta.
+
+1) Tworzymy rysunek poglądowy:
+
+dzięki poprowadzonej promieniowi okręgu od jego środka do wierzchołka kąta prostego w trójkącie, możemy go łatwo wyznaczyć z tw. Pitagorasa:
+
+2) Korzystamy z tw. Pitagorasa:
+
+\(4^2 + \left(\frac{7}{6}\right)^2 = R^2\)
+
+\(R^2 = \frac{49}{6} + \frac{16 \cdot 36}{36} = \frac{625}{36}\) \( \sqrt{} \)
+
+\(R = \frac{25}{6}\)
+
+3) Wyznaczamy boki trójkąta:
+
+\(|AB| = 2R = 2 \cdot \frac{25}{6} = \frac{25}{3}\)
+
+z tw. Pitagorasa:
+
+\(4^2 + \left(4 \frac{1}{6} + R\right)^2 = |AC|^2\)
+
+\(|AC|^2 = 16 + \frac{25}{6}^2\)
+
+\(|AC|^2 = \frac{576}{36} + \frac{1024}{36} = \frac{1600}{36}\) \( \sqrt{} \)
+
+\(|AC| = \frac{40}{6} = \frac{20}{3}\)
+
+oraz:
+
+\(4^2 + (R - \frac{7}{6})^2 = |BC|^2\)
+
+\(4^2 + 3^2 = |BC|^2\)
+
+\(BC^2 = 25\) \( \sqrt{} \)
+
+\(|BC| = 5\)
+
+Odp. \(R = \frac{25}{6}, |AB| = \frac{25}{3}, |AC| = \frac{20}{3}, |BC| = 5\)

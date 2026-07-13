@@ -1,0 +1,79 @@
+
+--- STRONA 1 ---
+Zadanie 15 [5pkt] - TYP 3.5
+
+Dla jakich wartości parametru m równanie
+
+m^2x^3 + (m^2 + 6m)x^2 + (m + 6)x = 0 ma trzy pierwiastki rzeczywiste?
+
+Aby równanie miało 3 rozwiązania, współczynnik przy x^3 nie może się zerować:
+
+m ≠ 0
+
+m ≠ 0
+
+Wracając do wyrażenia:
+
+x^2 (m^2 + 6m)x + (m + 6)x = 0
+
+x^2 [m^2 + 6m)x + (m + 6)] = 0
+
+x_1 = 0
+
+pierwsze miejsce zerowe
+
+Δ = b^2 - 4ac
+
+Δ > 0
+
+Δ = (m^2 + 6m)^2 - 4 * m * (m + 6) > 0
+
+(a + b)^2 = a^2 + 2ab + b^2
+
+Δ = (m^2 + 6m)^2 - 4m * m * (m + 6) > 0
+
+m^4 + 12m^3 + 36m^2 - 4m^3 - 24m > 0
+
+m^4 + 8m^3 + 12m > 0
+
+m (m^3 + 8m + 12) > 0
+
+m_2 ≠ 0
+
+m_3 = -8
+
+podstawę miejsc zerowych Δ = 0
+
+Δm = 64 - 48 - 16
+
+m_2 = -b / 2a
+
+m_3 = -b / 4m / 2a
+
+m_2 = -8/2 - 6
+
+m_2 = -8/42
+
+m ∈ (-∞, -6) ∪ (-2, ∞)
+
+Część wspólna wszystkich warunków:
+
+1) m ≠ 0
+
+2) m ∈ (-∞, -6) ∪ (-2, ∞)
+
+3) m ≠ -6
+
+Aby zagwarantować sobie, że miejsca zerowe drugiego nawiasu są inne od 0 (tak, by wszystkie 3 miejsca zerowe były różne od siebie), trzeba jeszcze wprowadzić warunek f(0) ≠ 0
+
+m^2x^3 + (m^2 + 6m)x^2 + (m + 6)x
+
+f^2(x)
+
+f(0) = m^2.0^2 + (m^2 + 6m).0 + m + 6 ≠ 0
+
+m + 6 ≠ 0
+
+m ≠ -6
+
+Odp: m ∈ (-∞, -6) ∪ (-2, 0) ∪ (0, ∞)

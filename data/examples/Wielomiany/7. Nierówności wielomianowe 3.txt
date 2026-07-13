@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+7. Nierówności wielomianowe 3  
+Pierwiastkami wielomianu w(x) = 2x^3 + ax^2 + bx + c są liczby: -1, 2 i 3.  
+Oblicz współczynniki a, b, c oraz rozwiąż nierówność w(x) ≥ x + 1.
+
+① Wyznaczenie współczynników a, b i c.  
+
+Znamy wszystkie pierwiastki wielomianu, zatem możemy stworzyć postać iloczynową  
+
+w(x) = a(x - x₁)(x - x₂)(x - x₃)  
+
+w(x) = 2(x + 1)(x - 2)(x - 3) = 2(x^2 - x - 2)(x - 3) =  
+
+= 2(x^3 - 4x^2 + x - 6) = 2x^3 - 8x^2 + 2x + 12  
+
+Zatem: a = -8  
+b = 2  
+c = 12  
+
+② Rozwiązanie nierówności w(x) ≥ x + 1  
+
+2x^3 - 8x^2 + 2x + 12 ≥ x + 1  
+
+2(x + 1)(x - 2)(x - 3) ≥ (x+1) |-(x+1)  
+
+2(x + 1)(x - 2)(x - 3) - (x + 1) ≥ 0 ← wyciągamy czynnik przed nawias  
+
+(x + 1)[2(x - 2)(x - 3) - 1] ≥ 0  
+
+(x + 1)[2(x - 2)(x - 3) - 1] ≥ 0  
+
+(x + 1)[2(x^2 - 3x - 2x + 6) - 1] ≥ 0  
+
+(x + 1)(2x^2 - 10x + 11) ≥ 0  
+
+x + 1 = 0  
+x₁ = -1  
+
+2x^2 - 10x + 11 = 0  
+Δ = b^2 - 4·a·c  
+x₁ = -b - sqrt(Δ) / 2a  
+x₂ = -b + sqrt(Δ) / 2a  
+
+Δ = 100 - 88 = 12  
+sqrt(Δ) = 2sqrt(3)  
+
+x₂ = (5 - sqrt(3)) / 2  
+x₃ = (5 + sqrt(3)) / 2  
+
+x ∈ <-1, (5 - sqrt(3)) / 2> ∪ <(5 + sqrt(3)) / 2, ∞)  
+
+Odp: a = -8, b = 2, c = 12  
+x ∈ <-1, (5 - sqrt(3)) / 2> ∪ <(5 + sqrt(3)) / 2, ∞).

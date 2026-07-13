@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zad.5 Rozwiąż nierówność |3 - |x - 2|| ≥ 2.
+
+1) Rozwiązujemy nierówność korzystając z własności wart. bezwgl.:
+
+|3-|x-2||≥2
+
+3-|x-2|≥2    ∨    3-|x-2|≤-2
+
+|x-2|≤1   ∧   |x-2|≥5
+
+x-2≤1   ∧   x-2≥-1       ∨      x-2≥5    ∨    x-2≤-5
+
+x≤3   ∧   x≥1      ∨      x≥7     ∨     x≤-3
+
+x∈⟨1,3⟩      ∨      x∈(-∞,-3⟩ ∪ ⟨7,+∞)
+
+      ⟹
+
+x∈(-∞,-3⟩ ∪ ⟨1,3⟩ ∪ ⟨7,+∞)
+
+Odp. x∈(-∞,-3⟩ ∪ ⟨1,3⟩ ∪ ⟨7,+∞).
+
+Dla nierówności, w których występuje jedna wartość bezwzględna i niewiadoma znajduje się tylko w niej, możemy korzystać z własności :
+
+|x|<p  ⟺  x>-p   ^   x<p
+|x|>p  ⟺  x<-p   ∨   x>p
+(zal. p>0)
+
+W naszym zadaniu są co prawda dwie wartości bezwzględne, jednak jedna z nich jest odwrot. wewnątrz drugiej. W takiej sytuacji również możemy użyć tej własności (ponieważ od strony najbardziej zewnętrznej warunki do użycia tej własności są spełnione).

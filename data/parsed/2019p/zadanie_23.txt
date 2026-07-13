@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 23 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 23. (0–1)
+Mediana zestawu sześciu danych liczb: 4, 8, 21, a, 16, 25, jest równa 14. Zatem A. a = 7 B. a = 12 C. a = 14 D. a = 20
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

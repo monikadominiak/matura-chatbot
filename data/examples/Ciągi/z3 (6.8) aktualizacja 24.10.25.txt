@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+z1 (6.8)
+
+Oblicz granicę ciągu \( (a_n) \) o wyrazie ogólnym \( a_n = \frac{5n+3}{2n^2-3} \).
+
+Można przykładowo wyłączyć przed nawias zarówno w liczniku, jak 
+i w mianowniku największą potęgę n z mianownika.
+
+\((1)\) Obliczamy granicę ciągu \( a_n \).
+
+\[
+\lim_{n \to \infty} \frac{5n+3}{2n^2-3} = \lim_{n \to \infty} \frac{n \left( \frac{5}{n} + \frac{3}{n^2} \right)}{n^2 \left( 2 - \frac{3}{n^2} \right)} = \frac{1 \cdot 0}{1 \cdot (2 - 0)} = 0
+\]
+
+Odp.: \(\lim_{n \to \infty} a_n = 0\).

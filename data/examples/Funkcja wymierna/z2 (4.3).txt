@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+z2 (4.3)
+
+Dane są funkcje \( f(x) = \frac{3x}{x-2} \) oraz \( g(x) = \frac{2x+2}{x+3} \).
+
+a) Określ dziedzinę obu funkcji i znajdź miejsca zerowe każdej z nich.
+
+b) Narysuj wykres funkcji \( f \) i funkcji \( g \).
+
+c) Podaj zbiór wartości i przedziały monotoniczności funkcji \( f \) i \( g \).
+
+a) \( \textcircled{1} \) Wyznaczamy dziedziny obu funkcji.
+
+\textit{Wyznaczając dziedzinę mianownik musi być różny od zera.}
+
+\[
+\begin{aligned}
+&f(x) = \frac{3x}{x-2} & &g(x) = \frac{2x+2}{x+3} \\
+&D_f: \quad x-2 \neq 0 & &D_g: \quad x+3 \neq 0 \\
+&\quad \; \; \, x \neq 2 & &\quad \; \; \, x \neq -3 \\
+&D_f = \mathbb{R} \setminus \{ 2 \} & &D_g = \mathbb{R} \setminus \{ -3 \}
+\end{aligned}
+\]
+
+\(\textcircled{2}\) Obliczamy miejsca zerowe.
+
+\textit{Licząc miejsca zerowe, podstawiamy 0 za \( y \) i wyliczamy \( x \), który jest właśnie miejscem zerowym.}
+
+\[
+\begin{aligned}
+&\frac{3x}{x-2} = 0 & &\frac{2x+2}{x+3} = 0 \\
+&3x = 0 & &2x+2 = 0 \\
+&x = 0 & &x = -1
+\end{aligned}
+\]
+
+--- STRONA 2 ---
+b) ③ Przekształcamy wzory \( f(x) \) i \( g(x) \) do postaci kanonicznej.
+
+\( f(x) = \frac{3x}{x-2} = \frac{3(x-2) + 6}{x-2} = \frac{6}{x-2} + 3 \)
+
+\( g(x) = \frac{2x+2}{x+3} = \frac{2(x+3) - 4}{x+3} = \frac{-4}{x+3} + 2 \)
+
+④ Szkicujemy wykresy funkcji na jednym wykresie.
+
+c) ⑤ Odczytujemy zbiory wartości i przedziały monotoniczności.
+
+Zbiory wartości oraz przedziały monotoniczności odczytujemy z wykresów wykonanych w podpunkcie b.
+
+\(ZW_{f(x)} = \mathbb{R} \backslash \{3\} \)
+
+\( f(x) \searrow w \ (-\infty, 2) \ i \ f(x) \nearrow w \ (2, +\infty) \)
+
+\(ZW_{g(x)} = \mathbb{R} \backslash \{2\} \)
+
+\( g(x) \nearrow w \ (-\infty, -3) \ i \ g(x) \searrow w \ (-3, +\infty) \)
+
+Uwaga: podając przedziały monotoniczności zawsze podajemy przedziały osobno bez użycia symbolu sumy \(\cup\).
+
+Odp.: i) \(D_f = \mathbb{R} \backslash \{2\} \), \(D_g = \mathbb{R} \backslash \{-3\} \), miejsca zerowe \(f(x): x=0 \),
+
+miejsca zerowe \(g(x): x = -1\), c) \(ZW_{f} = \mathbb{R} \backslash \{3\} \), \(ZW_{g} = \mathbb{R} \backslash \{2\} \), \(f(x) \searrow w\)
+
+\((- \infty, 2) \ i \ (2, +\infty), \ g(x) \nearrow w \ (-\infty, -3) \ i \ (-3, +\infty) \).

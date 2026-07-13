@@ -1,0 +1,46 @@
+
+--- STRONA 1 ---
+Wyznacz a, b tak, aby funkcja f(x) była ciągła w przedziale <-2, 2>.
+
+\[
+f(x) = 
+\begin{cases} 
+a, \text{ jeśli } x = -2 \\ 
+\frac{4-x^2}{3-\sqrt{x+7}}, \text{ jeśli } x \in (-2, 2) \\ 
+b, \text{ jeśli } x = 2 
+\end{cases}
+\]
+
+1️⃣ aby funkcja była ciągła w punkcie \( x_0 \) to:
+   1. istnieje właściwa granica \(\lim_{x \to x_0} f(x)\)
+   2. prawdziwa jest równość: \(\lim_{x \to x_0} f(x) = f(x_0)\)
+
+nasze punkty \( x_0 \) to punkt, w którym zmienia się wzór funkcji f: \( x_0 = -2, \ x_0 = 2 \)
+
+2️⃣ liczymy \( f(-2) \) i \( f(2) \)
+
+\( f(-2) = a \) 
+\[ = \lim_{x \to -2^+} f(x) \]
+
+\( f(2) = b \) 
+\[ = \lim_{x \to 2^-} f(x) \]
+
+3️⃣ musimy, więc jeszcze wyznaczyć \(\lim_{x \to -2^+}\) i \(\lim_{x \to 2^-}\)
+
+\[
+\lim_{x \to -2^+} f(x) = \lim_{x \to -2^+} \frac{4-x^2}{3-\sqrt{x+7}} = \frac{0^+}{3-\sqrt{5}} = 0 \Rightarrow a = 0 
+\]
+
+\[
+\lim_{x \to 2^-} f(x) = \lim_{x \to 2^-} \frac{4-x^2}{3-\sqrt{x+7}} = \left[\frac{0}{0}\right]
+\]
+
+\[
+\lim_{x \to 2^-} \frac{4-x^2}{3-\sqrt{x+7}} \cdot \frac{(3+\sqrt{x+7})}{(3+\sqrt{x+7})} = \lim_{x \to 2^-} \frac{(4-x^2)(3+\sqrt{x+7})}{9-x-7} =
+\]
+
+\[
+= \lim_{x \to 2^-} (2+x)(3+\sqrt{x+7}) = 4 \cdot (3+3) = 24
+\]
+
+odp: \( a = 0, b = 24 \)

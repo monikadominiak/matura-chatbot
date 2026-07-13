@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12. (0-1)
+Dla ciągu arytmetycznego (a_n), określonego dla n &gt;= 1, jest spełniony warunek a_4 + a_5 + a_6 = 12. Wtedy A. a_5 = 4 B. a_5 = 3 C. a_5 = 6 D. a_5 = 5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 12. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).
+Poprawna odp. (1 p.):
+Wersja I: A
+Wersja II: C

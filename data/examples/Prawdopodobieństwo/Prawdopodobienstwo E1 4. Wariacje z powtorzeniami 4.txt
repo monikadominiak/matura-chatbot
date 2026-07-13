@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Na ile sposobów 6 osób może wysiąść z windy, która zatrzymuje się na dziesięciu piętrach?
+
+① wypisujemy dane z polecenia
+
+10 pięter , 6 osób
+
+② zapisujemy schematycznie piętra (6 wybranych przez dane 6 osób)
+
+__ · __ · __ · __ · __ · __ korzystamy z reguły mnożenia
+
+③ zapisujemy kolejno ile jest możliwości wyboru dla każdej kolejnej osoby ⇒ przydzielamy piętra do osób
+
+10 · 10 · 10 · 10 · 10 · 10 = 10^6
+
+(piętra mogą się powtarzać, każda z osób ma taki sam wybór)
+
+Odp. 10^6

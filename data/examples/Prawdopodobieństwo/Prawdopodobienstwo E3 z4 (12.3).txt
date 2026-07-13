@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Ile jest liczb ośmiocyfrowych o niepowtarzających się cyfrach ze zbioru {0,1,3,5,6,7,8,9} jeśli wiadomo, że spośród pięciu początkowych cyfr dokładnie cztery są nieparzyste?
+
+➊ analizujemy polecenie
+
+8-cyfrowa liczba, cyfry: {0,1,3,5,6,7,8,9} → 8 cyfr
+
+nie powtarzają się
+
+wśród pięciu początkowych są dokładnie 4 nieparzyste
+
+_ _ _ _ _ | _ _ _
+
+5 nieparzystych
+
+➋ mamy dwa warianty ze względu na „0”
+
+• „0” nie ma w początkowych 5 cyfrach
+
+\(\binom{5}{4}\).4!. \(\binom{5}{1}\).2 . 3! = 7200
+
+• „0” jest w początkowych 5 cyfrach
+
+\(\binom{4}{1}\) . \(\binom{5}{4}\) . 4! . 3! = 2880
+
+➌ sumujemy możliwości: 2880 + 7200 = 10080
+
+Odp: 10080

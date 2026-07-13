@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+z2 (4.4)
+
+W czasie doświadczenia chemicznego masa m związku A (w gramach) zmienia się zgodnie z zależnością
+
+\[ m(t) = a \cdot 2^{-0,05t} + b \quad (t \geq 0) \]
+
+gdzie a, b są stałymi.
+
+W chwili rozpoczęcia obserwacji (t = 0) masa wynosiła m₀ gramów. Po 20 sekundach masa była równa \(\frac{3}{4}m₀\).
+
+a) Wyznacz a i b w zależności od m₀.
+
+b) Oblicz m(60) w funkcji m₀.
+
+a) ❶ Wyznaczamy a i b.
+
+\[ m(0) = a+b = m₀ \]
+
+\[ m(20) = a \cdot 2^{-1} + b = \frac{1}{2}a + b = \frac{3}{4}m₀ \]
+
+\[ m(20) - m(0) = \frac{1}{2}a + b - a - b = \frac{3}{4}m₀ - m₀ \]
+
+\[ -\frac{1}{2}a = -\frac{1}{4}m₀ \]
+
+\[ a = \frac{1}{2}m₀ \]
+
+\[ b = m₀ - a = m₀ - \frac{1}{2}m₀ = \frac{1}{2}m₀ \]
+
+b) ❷ Obliczamy m(60).
+
+\[ m(60) = a \cdot 2^{-0,05 \cdot 60} + b = a \cdot 2^{-3} + b = \frac{1}{8}a + b = \frac{1}{8} \cdot \frac{1}{2}m₀ + \frac{1}{2}m₀ = \]
+
+\[ = \frac{1}{16}m₀ + \frac{8}{16}m₀ = \frac{9}{16}m₀ \]
+
+Odp.: a) \(a = b = \frac{1}{2}m₀\), b) \(m(60) = \frac{9}{16}m₀\).

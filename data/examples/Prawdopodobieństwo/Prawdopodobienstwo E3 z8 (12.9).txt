@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+Niech \( A, B \subseteq \Omega \). Wiedząc, że \( P(A' \cup B') = 0{,}7 \) oraz \( P(A' \cap B') = 0{,}1 \), oblicz \( P(A) + P(B) \).
+
+\(\text{1} \quad \ \ \textbf{DANE:} \)
+
+\[
+\begin{cases}
+P(A' \cup B') = 0{,}7 \quad = 1 - P(A \cap B) \quad \rightarrow \quad P(A \cap B) = 0{,}3 \\
+P(A' \cap B') = 0{,}1 \quad = 1 - P(A \cup B) \quad \rightarrow \quad P(A \cup B) = 0{,}9
+\end{cases}
+\]
+
+\ \ \ \ \ \ \textit{DO OBLICZENIA:}
+
+\( P(A) + P(B) = ? \)
+
+\(\text{2} \quad \ \ \text{wiemy, iż:} \quad P(A \cup B) = P(A) + P(B) - P(A \cap B) \)
+
+\ \ \ \ \ \ \text{zatem} \quad P(A) + P(B) = P(A \cup B) + P(A \cap B) \)
+
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \( P(A) + P(B) = 0{,}9 + 0{,}3 = 1{,}2 \)
+
+odp: \( P(A) + P(B) = 1{,}2 \)
+
+\(\color{green}\text{w} \underline{\text{p}}\overline{\text{r}}\text{owadzenie} \ \star\)
+
+\( P(A' \cup B') = P(A') + P(B') - P(A' \cap B') = \)
+
+\( \overset{2}{=} \ \ P(A') + P(B') - (1 - P(A \cup B)) = \)
+
+\ \ \ \ \ \ = \( P(A') + P(B') - 1 + P(A \cup B) = \)
+
+\ \ \ \ \ \ = \( 1 - P(A) + 1 - P(B) - 1 + P(A \cup B) = \)
+
+\ \ \ \ \ \ = \( 1 - \underline{[} \ P(A) + P(B) - P(A \cup B) \underline{]} \ = 1 - P(A \cap B) \)

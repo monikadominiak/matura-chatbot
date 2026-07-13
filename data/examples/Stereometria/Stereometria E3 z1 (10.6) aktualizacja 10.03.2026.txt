@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+Stosunek pola powierzchni bocznej stożka do pola powierzchni kuli opisanej na tym stożku wynosi 3 : 8. Wyznacz miarę kąta rozwartego stożka.
+
+1️⃣ rysujemy przekrój osiowy stożka i opisanej na nim kuli i wprowadzamy oznaczenia
+
+niech 2d -> kąt rozwarty stożka
+
+wtedy |∡AOB| = 4α (kąt środkowy)
+
+ponadto: |∡ACS| = |∡SCB| = α i |∡AOS| = |∡SOB| = 2α
+
+2️⃣ wyznaczamy r i l za pomocą kąta α i R
+
+z polecenia: \(\frac{3}{8} = \frac{\pi rl}{4\pi R^2}\) 
+
+w ΔAOS: sin2α = \(\frac{r}{R}\) => r = R*sin2α
+
+w ΔACS: sinα = \(\frac{r}{l}\) => r = l*sinα
+
+więc R*sin2α = l*sinα => l = \(\frac{R*sin2α}{sinα} = 2Rcosα\) 
+
+(sin2α = 2sinαcosα)
+
+3️⃣ podstawiamy wyliczone l i r do 1️⃣
+
+\(\frac{\pi Rsin2α * 2Rcosα}{4\pi R^2} = \frac{2sinαcos^2α}{1}\) = sinα(1-sin^2α) 
+
+cos2d ≈ "1" trygonometrycznej
+
+sinα(1-sin^2α) = \(\frac{3}{8}\)
+
+sinα(1-sin^2α) = \(\frac{3}{8}\)
+
+8sinα - 8sin^3α = 3
+
+8sin^3α - 8sinα + 3 = 0
+
+niech sinα = t, t ∈ <-1, 1> (zbiór wartości funkcji sinus)
+
+8t^3 - 8t + 3 = 0
+
+W(t) = 8t^3 - 8t + 3, znajdujemy pierwiastek w(\(\frac{1}{2}\)) = 0
+
+|8|0|-8|3
+|4| -6|0
+1/2| 8 | 4 |
+
+(schemat Hornera)
+
+W(t) = (t-\(\frac{1}{2}\))(8t^2+4t-6)
+
+Δ = 208 b^2-4ac 
+√Δ = 4√13
+
+t_1 = \(\frac{1}{2}\), t_2 = \(\frac{-1-√13}{4}\) ≮ 0f, t_3 = \(\frac{-1+√13}{4}\) ≈ 0,654
+
+sinα = \(\frac{1}{2}\) => α = 30° 
+
+v sinα ≈ 0.654 => α ≈ 40,5° 
+
+(odczytujemy z tablic)
+
+Odp: 2α = 60° lub 2α ≈ 81°

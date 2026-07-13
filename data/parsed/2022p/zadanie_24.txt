@@ -1,0 +1,14 @@
+=== ARKUSZ: 2022p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0–1)
+Punkty 𝐴 = (−4, 4) i 𝐵 = (4, 0) są sąsiednimi wierzchołkami kwadratu 𝐴𝐵𝐶𝐷.
+Przekątna tego kwadratu ma długość
+A. 4√10
+B. 4√2
+C. 4√5
+D. 4√7
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

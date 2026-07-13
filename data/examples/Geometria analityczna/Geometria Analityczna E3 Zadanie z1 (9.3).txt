@@ -1,0 +1,92 @@
+
+--- STRONA 1 ---
+Zadanie z1 (9.3) Znajdź równanie prostej równoległej do prostej o równaniu 3x + 4y + 1 = 0 i stycznej do okręgu o równaniu x^2 + y^2 - 4x - 2y + 4 = 0.
+
+1) Wyznaczamy współczynniki kierunkowy szukanej prostej z wzorów równoległości.
+
+-------------------------------
+
+Oznaczamy prostą 3x + 4y + 1 = 0 jako k i zapisujemy w postaci kierunkowej:
+
+k: 3x + 4y + 1 = 0  => k: 4y = 3x - 1 => y = 3/4 * x - 1/4
+
+-------------------------------
+
+Szukana prosta oznaczamy m:
+
+m: y = ax + b
+m || k => a = ak
+ak = 3/4 => am = ak = 3/4
+m: 3x - 4y + 4b = 0
+
+2) Wyznaczamy środek i promień okręgu.
+
+I sposób - podstawienie
+
+-------------------------------
+
+x^2 + y^2 - 4x - 2y + c = 0
+x^2 + y^2 - 4x - 2y + c = x^2 - 2ax + a^2 + y^2 - 2by + b^2
+
+-------------------------------
+
+-2ax = -4x  ,  -2by = -2y   c = 4
+
+a = 2      b = 1
+
+-------------------------------
+
+r^2 = 2^2 + 1^2 + 4
+r^2 = 9
+
+r = 3    w = (2, 1)  dl bo r ≠ 0
+
+-------------------------------
+
+O: (x - x1)^2 + (y - y1)^2 = r2   S(2, 1) , r = 4
+
+II sposób: znianie do wzoru skróconego mnozenia.
+
+x^2 + y^2 - 4x - 2y + 4 = 0
+(x^2 - 4x + 4) + (y^2 - 2y + 1) = 4 + 4 + 1
+(x-2)^2 + (y-1)^2 = 3
+
+S(2, 1)  ,  r = 3
+
+3) Tworzymy rysunek poglądowy:
+
+[Wykres, okrąg, prosta styczna do okręgu]
+
+Jak widać na rysunku istnieją dwa przypadki potrostej spełniającej zawarte zadania. Należy rozpatrzyć obie.
+
+Będziemy chcieć aby szukana prosta miała dokładnie jeden punkt wspólny z okręgiem. Chcemy więc, aby odległość szukanej prostej od środka okręgu była równa promieniowi okręgu. Możemy skorzystać ze wzoru na odległość punktu od prostej:
+
+4) Wyznaczamy równania szukanych prostych ze wzoru na odległość punktu od prostej:
+
+-------------------------------
+
+m: y = 3/4 x + b   |  S(2, 1) , r = 4 
+         | 3x - 4y - 4b |
+
+-------------------------------
+
+|(2 * 3 + 4 * 1 - 4b) / (3^2 + 4^2)| = 1
+
+|10 - 4b| = 5
+
+-------------------------------
+
+4)|60 - 4b = 5        40 - 4b = -60 -4|
+45 - 4b = 60          40 - 4b = -45
+4b = 45                 4b = 105
+b = 45/4               b = -15
+
+-------------------------------
+    
+M1: y = 3/4 x + 45/4
+M2: y = 3/4 x - 15
+
+y: 3x - 4y = 57
+y: 3x - 4y = + 60
+
+Odp: 3x - 4y + 57 = 0  oraz 3x - 4 y + 45 = 0.

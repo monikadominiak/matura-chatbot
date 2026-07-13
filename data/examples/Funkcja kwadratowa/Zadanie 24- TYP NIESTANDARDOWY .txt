@@ -1,0 +1,108 @@
+
+--- STRONA 1 ---
+Zadanie 24 [6 pkt]- TYP NIESTANDARDOWY  
+Wyznacz wszystkie wartości parametru m, dla których zbiór rozwiązań  
+nierówności (m - x)(x + 2m - 3) ≥ 0 zawiera się w przedziale (-2; 3>
+
+(m-x)(x + 2m - 3) ≥ 0
+
+Narysujmy, to jak wygląda  
+szukamy:
+
+f(-2) < 0
+
+f(3) ≤ 0
+
+(m+2)(-2+2m-3) < 0  
+(m+2)(2m-5) < 0
+
+m+2 = 0  
+m = -2
+
+2m-5 = 0  
+m = 5/2
+
+-2  
+\x  
+m  
+-2  
+-2
+
+(m-3)(3+2m-3) ≤ 0  
+(m-3)·2m ≤ 0
+
+m-3 = 0  
+m = 3
+
+2m = 0  
+m = 0
+
+0  
+m  
+3  
+
+Musimy uwzględnić także warunki wynikające  
+z obecności wierzchołka:  
+
+p > -2  
+p ≤ 3  
+
+-b  
+p = ----  
+  2a
+
+(m-x)(x + 2m - 3) = 0  
+mx + 2m^2 - 3m - x^2 - 2mx + 3x = 0  
+-x^2 + 3x - mx + 2m^2 - 3m = 0  
+-x^2 + (3-m)x + 2m^2 - 3m = 0  
+
+a = -1  
+b = 3 - m  
+c = 2m^2 - 3m
+
+p > -2
+
+-(3-m)  
+-------------------- > -2  
+ 2·(-1)
+
+m-3  
+-------- > -2  |·(-2)  
+  -2
+
+p ≤ 3
+
+-(3-m)  
+-------------------- ≤ 3  
+ 2·(-1)
+
+m-3  
+-------- ≤ 3  |·(-2)  
+  -2
+
+m-3 < 4 | +3
+
+m < 7
+
+m-3 ≥ -6 | +3
+
+m ≥ -3
+
+"0  
+m  
+3"
+
+-2  
+0  
+5/2
+
+(-2,5/2)
+
+"0  
+m  
+3"
+
+"Wynaczamy  
+część wspólną:"
+
+Odp: m ε <0, 5/2>

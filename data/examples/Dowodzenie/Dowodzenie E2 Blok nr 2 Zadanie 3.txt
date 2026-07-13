@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Pole trapezu równoramiennego opisanego na okręgu jest równe \( P \), a kąt ostry przy podstawie ma miarę \( \alpha \). Wykaż, że ramię tego trapezu ma długość \( \sqrt{\frac{P}{\sin \alpha}} \).
+
+⟦1⟧ tworzymy rysunek poglądowy
+
+\( P_{\triangle} = P \)
+
+teza: ramię = \( \sqrt{\frac{P}{\sin \alpha}} \)
+
+⟦2⟧ skoro w trapez można wpisać okrąg to znany jest wzór {\( a+b=2c \)} *
+
+\( P = \frac{(a+b)}{2} \cdot h \overset{*}{=} \frac{2c}{2} \cdot h = c \cdot h \)
+
+⟦3⟧ w tezie mamy sinusa a we wzorze na \( P \) niewiadome \( h \) i \( c \), wykorzystamy \(\triangle\) prostokątny 
+
+\(\sin \alpha = \frac{h}{c} \Rightarrow h = \sin \alpha \cdot c \)
+
+⟦4⟧ wstawiamy wyznaczone \( h \) do wzoru na pole
+
+\( P = c \cdot c \cdot \sin \alpha \)
+
+\(\Rightarrow c^2 = \frac{P}{\sin \alpha} / \sqrt{} \)
+
+\( c = \sqrt{\frac{P}{\sin \alpha}} \)
+
+c.k.d.

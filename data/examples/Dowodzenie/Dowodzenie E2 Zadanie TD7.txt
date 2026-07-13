@@ -1,0 +1,30 @@
+
+--- STRONA 1 ---
+Wykaż, korzystając z twierdzenia Darboux, że funkcja
+\(f(x) = x^4 - 5x^3 - 7x^2 + 3, \, x \in \mathbb{R},\) przyjmuje wartość \(-160.\)
+
+\(f(x) = x^4 - 5x^3 - 7x^2 + 3\)
+
+niech \(g(x) = -160\)
+
+teza: równanie \(f(x) = g(x)\) ma rozwiązanie
+
+\(\Large \text{\textcircled{1}}\) tworzymy nową funkcję \(h(x),\)
+
+gdzie \(h(x) = f(x) - g(x)\)
+
+\(\text{(łatwo policzyć)} \hspace{1cm} h(x) \text{ jest różnicą funkcji ciągłych, więc sama również jest ciągła}\)
+
+\(\Large \text{\textcircled{2}}\) musimy znaleźć taki przedział, w którym \(h(x)\) przyjmuje wartości dodatnie i ujemne
+
+\(h(0) = 163 \, > \, 0 \hspace{1cm} , \text{szukamy takiego} \, x, \, \text{że} \, h(x)<0\)
+
+\(h(4) = 256 - 320 - 112 + 163 = -13 \, < \, 0\)
+
+\(x \in \langle 0, 4 \rangle \)
+
+\(c \in (0, 4) \, , \, h(c) \in \langle -13, 163 \rangle \, , \text{zatem istnieje takie} \, c, \, \text{że} \, h(c) = 0\)
+
+zatem na mocy tw. Darboux teza jest prawdziwa
+
+\hspace{12cm} \text{c.k.d.}

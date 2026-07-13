@@ -1,0 +1,13 @@
+=== ARKUSZ: 2023p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3.
+1 pkt - zastosowanie wzoru skróconego mnożenia na kwadrat sumy do wyrażenia $(2n+1)^2$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

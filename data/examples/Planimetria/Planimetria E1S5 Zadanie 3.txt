@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Zad.3 Oblicz pole trapezu równoramiennego o ramieniu o długości 10 cm opisanego na okręgu o promieniu 4 cm.
+
+1) Tworzymy rysunek poglądowy:
+
+Z ΔAED: x^2 + 8^2 = 10^2 => x = 6
+
+Do trapezu wpisano okrąg, więc sumy długości przeciwległych boków trapezu muszą być sobie równe.
+
+10 + 10 = |AB| + |CD|
+
+20 = 2x + 4y
+
+20 = 12 + 4y
+
+4y = 8 => y = 2
+
+|AB| = 2x + 2y = 2 ⋅ 6 + 2 ⋅ 2 = 16
+
+|CD| = 2y = 2 ⋅ 2 = 4
+
+P_{TRAPEZU} = \frac{16+4}{2} ⋅ 8 = 80 cm^2
+
+Odp. P_{TRAPEZU} = 80 cm^2.

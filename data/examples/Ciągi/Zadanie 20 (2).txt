@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Zadanie 20
+
+Liczby \(x_1\) i \(x_2\) są miejscami zerowymi funkcji \(f(x) = x^2 + x - k\), a liczby \(x_3\) i \(x_4\) są miejscami zerowymi funkcji \(g(x) = x^2 + 2x + 4m\). Wiadomo, że ciąg \((x_1, x_2, x_3, x_4)\) jest monotonicznym ciągiem geometrycznym. Oblicz wartość wyrażenia \(k - m\).
+
+1️⃣ Korzystamy z postaci iloczynowej funkcji kwadratowej.
+
+\((x-x_1)(x-x_2) = x^2 + x - k \quad (x-x_3)(x-x_4) = x^2 + 2x + 4m\)
+
+\(x^2 - xx_1 - xx_2 + x_1x_2 = x^2 + x - k\)
+
+\(x^2 - (x_1 + x_2)x + x_1x_2 = x^2 + x - k\)
+
+\(-(x_1 + x_2) = 1 \quad ; \quad x_1x_2 = -k \quad \quad -(x_3 + x_4) = 2 \quad ; \quad x_3x_4 = 4m\)
+
+\((x_1, x_2, x_3, x_4) = (x_1, x_1q, x_1q^2, x_1q^3) \quad , \quad q > 0\)
+
+2️⃣ Tworzymy układ równań z \(x_1\) i \(q\).
+
+\[
+\begin{cases}
+x_1 + x_1q = -1 \\
+x_1 q^2 + x_1q^3 = -2 
+\end{cases}
+\]
+
+\(x_1 + x_1q = -1\)
+
+\(q^2(x_1 + x_1q) = -2\)
+
+\(q^2 \cdot (-1) = -2\)
+
+\(q^2 = 2\)
+
+\(q = \sqrt{2} \quad \lor \quad q = -\sqrt{2} \notin \mathbb{D}\)
+
+\(x_1(1+q) = -1\)
+
+\[
+x_1 = \frac{-1}{1+q} = \frac{-1}{1+\sqrt{2}} = \frac{1-\sqrt{2}}{-1} = \frac{\sqrt{2}-1}{1-2} = 1-\sqrt{2}
+\]
+
+\(x_2 = x_1 \cdot q = (1-\sqrt{2}) \cdot \sqrt{2} = \sqrt{2} - 2\)
+
+\(x_3 = x_1 \cdot q^2 = (1-\sqrt{2}) \cdot \frac{2}{\sqrt{2}} = 2 - 2\sqrt{2}\)
+
+\(x_4 = x_1 \cdot q^3 = (1-\sqrt{2}) \cdot \sqrt{2^3} = 2\sqrt{2} - 4\)
+
+--- STRONA 2 ---
+3️⃣ Obliczamy k-m.
+
+{ 
+x₁,x₂ = k 
+x₃,x₄ = 4m 
+⇒ 
+{ 
+k = -x₁x₂ 
+m = 1/4 ⋅ x₃x₄ 
+
+k-m = -x₁x₂ - 1/4 x₃x₄ = 
+
+= - (1 – 2√2)(2 - 2) - 1/4 (2 - 2√2)(2√2 - 4) =
+
+= -((2 - 2 + 2√2) - 1/4 (4√2 - 8 - 8 + 8√2)) =
+
+= 4 - 3√2 - 1/4 (12√2 - 16) =
+
+= 4 - 3√2 - 3√2 + 4 = 8 - 6√2
+
+Odp.: k-m = 8 - 6√2.

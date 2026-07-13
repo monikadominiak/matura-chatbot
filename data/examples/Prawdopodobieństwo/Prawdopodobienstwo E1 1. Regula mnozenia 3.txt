@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+Na ile sposobów może się ubrać pani, która ma 3 różne kapelusze, 6 sukni i 4 pary butów?
+
+① zapisujemy liczbę elementów poszczególnych zbiorów
+
+kapelusze → 3 możliwości
+
+suknie → 6 możliwości
+
+buty → 4 możliwości
+
+② zapisujemy schematycznie możliwe zestawy
+
+___ ⋅ ___ ⋅ ___ będziemy korzystać z reguły mnożenia
+
+③ zapisujemy kolejno ile jest możliwości na dane miejsce
+
+\[\begin{array}{c}
+3 \\
+\text{kapelusz}
+\end{array}
+\] ⋅ \[\begin{array}{c}
+6 \\
+\text{suknia}
+\end{array}
+\] ⋅ \[\begin{array}{c}
+4 \\
+\text{buty}
+\end{array}
+\] = 72
+
+odp: 72

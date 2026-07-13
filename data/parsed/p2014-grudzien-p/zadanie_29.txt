@@ -1,0 +1,13 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0–2)
+Wartość prędkości średniej obliczamy jako iloraz drogi i czasu, w którym ta droga została przebyta. Samochód przejechał z miejscowości A do miejscowości C przez miejscowość B, która znajduje się w połowie drogi z A do C. Wartość prędkości średniej samochodu na trasie z A do B była równa 40 km/h, a na trasie z B do C – 60 km/h. Oblicz wartość prędkości średniej samochodu na całej trasie z A do C.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) określona jest wzorem \( f(x) = -2x^3 + 15x^2 \).
+
+a) Wyznacz ekstrema lokalne funkcji \( f \).
+b) Który wyraz ciągu \( (a_n) \) o wyrazie ogólnym \( a_n = -2n^3 + 15n^2 \) jest największy?
+
+\[ f'(x) = -2x^3 + 15x^2 \]
+
+a) ① wyznaczamy pochodną funkcji \( f \)
+
+\[ f'(x) = -6x^2 + 30x = -6x(x-5) \]
+
+② szukamy miejsca zerowe pochodnej i badamy monotoniczność i ekstrema funkcji
+
+\[ f'(x) = 0 \Leftrightarrow -6x(x-5) = 0 \]
+\[ x = 0 \lor x = 5 \]
+
+(rysunek wykresu pochodnej \( f'(x) \) z zaznaczonymi punktami: \(-\) dla \( x < 0 \), \(+\) dla \( 0 < x < 5 \), \(-\) dla \( x > 5 \))
+
+③ wyznaczamy ekstrema
+Funkcja \( f(x) \) osiąga w swojej dziedzinie wartość największą dla argumentu \( x=5 \), \( f_{max} = f(5) \) i wartość najmniejszą dla argumentu \( x=0 \), \( f_{min} = f(0) \)
+
+\[ f(5) = -2 \cdot 5^3 + 15 \cdot 5^2 = 125 \]
+\[ f(0) = 0 \]
+
+b) \( \text{ciąg} (a_n) \quad a_n = -2n^3 + 15n^2 \)
+\[ f_{max} \Rightarrow \text{dla argumentu} \quad x = 5 \in \mathbb{N}_+ \]
+
+więc \( a_5 = 125 \) jest największym wyrazem
+
+Odp: a) \( f_{min} = f(0) = 0 \)
+\[ f_{max} = f(5) = 125 \]
+b) wyraz \( a_5 \)

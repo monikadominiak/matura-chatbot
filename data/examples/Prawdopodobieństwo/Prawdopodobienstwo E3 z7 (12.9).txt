@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+O zdarzeniach \(A, B \subseteq \Omega\) wiadomo, że \(P(A) = \frac{1}{4}, P(B) = \frac{1}{3}, P(A \cap B) = \frac{1}{5}\).
+Oblicz \(P(A' \cap B')\).
+
+\( \circled{1} \quad \text{DANE:} \)
+\[
+\begin{cases}
+P(A) = \frac{1}{4} \\
+P(B) = \frac{1}{3} \\
+P(A \cap B) = \frac{1}{5}
+\end{cases}
+\]
+DO OBLICZENIA:
+\[
+P(A' \cap B') = ?
+\]
+
+\( \circled{2} \quad \text{wiemy, że: } P(A' \cap B') = 1 - P(A \cup B) \)
+\[
+i \quad P(A \cup B) = P(A) + P(B) - P(A \cap B)
+\]
+\[
+zatem: \quad P(A \cup B) = \frac{1}{4} + \frac{1}{3} - \frac{1}{5} = \frac{15}{60} + \frac{20}{60} - \frac{12}{60} = \frac{23}{60}
+\]
+\[
+więc: \quad P(A' \cap B') = 1 - \frac{23}{60} = \frac{37}{60}
+\]
+\[
+\text{odp: } \frac{37}{60}
+\]
+
+II sposób rozwiązania przy pomocy diagramu Venna
+
+P(A' \cap B') = ?
+
+P(A \cup B) = \frac{1}{4} + \frac{1}{3} - \frac{1}{5} = \frac{23}{60}
+
+P(A' \cap B') = 1 - P(A \cup B) = 1 - \frac{23}{60} = \frac{37}{60}

@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+Rozpatrujemy wszystkie graniastosłupy prawidłowe czworokątne, których suma długości wszystkich krawędzi jest równa 48 cm. Wyznacz wymiary tego graniastosłupa, który ma największą objętość. Oblicz objętość tego graniastosłupa.
+
+① uzależniamy od siebie zmienne
+
+8a + 4h = 48
+
+2a + h = 12
+
+h = 12 - 2a
+
+② zapisujemy wzór funkcji
+
+V(a) = a^2(12 - 2a) = 12a^2 - 2a^3
+
+③ wyznaczamy dziedzinę funkcji
+
+a > 0, h > 0 => 12 - 2a > 0
+
+a < 6 => a ∈ (0, 6)
+
+④ wyznaczamy pochodną funkcji
+
+V'(a) = -6a^2 + 24a = -6a(a - 4)
+
+⑤ wyznaczamy miejsca zerowe pochodnej
+
+V'(a) = 0 <=> -6a(a - 4) = 0
+
+a = 0 ∨ a = 4
+
+⑥ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+(min) o—>—(max) o<——
+
+II sposób:
+
+|   (0, 4)  |  4   |  (4, 6)   |
+|  V'(a)  |    +   |  0   |    -    |
+|  V(a)    |   ↗  |  max. lok. |   ↘  |
+
+Funkcja V(a) osiąga w swojej dziedzinie wartość największą dla argumentu a = 4
+
+⑦ obliczamy objętość
+
+V(4) = 12 * 16 - 2 * 64 = 192 - 128 = 64  [cm^3]
+
+Odp: a = 4 cm, h = 4 cm, V = 64 cm^3

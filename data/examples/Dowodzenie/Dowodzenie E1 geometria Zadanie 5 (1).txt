@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Na bokach AB, BC i CA trójkąta ABC zbudowano (na zewnątrz trójkąta) trzy trójkąty równoboczne: AFB, BDC i CEA. Udowodnij, że AD = BE = CF.
+
+1️⃣ tworzymy rysunek poglądowy
+
+$$
+\tikz {
+\coordinate (A) at (0,0);
+\coordinate (B) at (2,0);
+\coordinate (C) at (1,1.732);
+\coordinate (D) at (1,2.732);
+\coordinate (E) at (-1,1.732);
+\coordinate (F) at (3,1.732);
+
+\draw (A) -- (B) -- (C) -- cycle;
+\draw (A) -- (D) -- (B) -- (C) -- (E) -- (A) -- (F) -- cycle;
+}
+$$
+
+trójkąty AFB, BDC, CEA
+
+- równoboczne ⟹ o kątach = 60°
+
+teza: AD = BE = CF
+
+2️⃣ równości boków można wykazać
+
+np: poprzez wykazanie przystawania trójkątów
+
+$$
+\tikz {
+\coordinate (A) at (0,0);
+\coordinate (B) at (2,0);
+\coordinate (C) at (1,1.732);
+\coordinate (D) at (1,2.732);
+\coordinate (F) at (3,1.732);
+
+\draw (A) -- (B) -- (D) -- cycle;
+\draw (F) -- (B) -- (C) -- cycle;
+}
+$$
+
+w ∆ DAB, w ∆ CFB
+- z cechy bkb $$∆DAB ≡ ∆CFB$$
+1️⃣ więc AD = FC
+
+3️⃣ analogicznie szukamy kolejnych dwóch takich trójkątów
+
+$$
+\tikz {
+\coordinate (E) at (0,0);
+\coordinate (A) at (2,0);
+\coordinate (B) at (1,1.732);
+\coordinate (C) at (3,-1.732);
+\coordinate (F) at (5,0);
+
+\draw (E) -- (A) -- (B) -- cycle;
+\draw (C) -- (A) -- (F) -- cycle;
+}
+$$
+
+w ∆ EBA, w ∆ CAF
+- z cechy bkb $$∆EBA ≡ ∆CAF$$
+2️⃣ więc FC = EB
+
+4️⃣ Tożsamość
+
+wnioski 1️⃣ i 2️⃣ mamy
+AD = FC = EB
+
+c.k.d.

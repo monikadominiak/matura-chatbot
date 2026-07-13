@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Zadanie z11 (9.2) Prosta k przechodzi przez punkt A=(3,2) i przecina dodatnie półosie układu współrzędnych w takich punktach, że iloczyn ich odległości punktu (0,0) jest równy 25. Wyznacz równanie prostej k.
+
+1) Tworzymy rysunek poglądowy.
+
+\(B(0,b)\)
+
+\(k\cdot x+a\cdot y+a\cdot b=0\)
+
+\(C(c,0)\)
+
+\(D(0,0)\)
+
+Aby prosta l spełniała warunki zadania, musi zachodzić:
+
+\(a>0\), \(b>0\)
+
+Dla prostej oznaczonej j rysunk można wyznaczyć punkty przecięcia z osiami a i b:
+
+\(A(0,b)\) \(b=\) z osią OY
+
+\(C(c,0)\) \(c=\) z osią OX
+
+2) Wyznaczamy odległości punktu B,C od D(0,0):
+
+Długość odcinka pomiędzy 2-ma pensowymi można zapisać jako model z różnicy współr. końca być przyjęci początk. końcowych zgodnie ze wzorem na odległość odcinka,
+
+Stos. M(0,0), x B(0,b), o wypowiedzi:
+
+\(|AB|=\sqrt{(x-x_1)^2+(y-y_1)^2}=\sqrt{(c-0)^2+(0-0)^2}=1\cdot(b+1+k)\)
+
+czyli:
+
+\(b(0,1-1)=|1+k|\)
+
+\(|0c|+|1+k|=0\Rightarrow|x-1|=|a-\sqrt{k-c}|\)
+
+\(-c\cdot\frac{b}{a}=25\)
+
+\(-b\cdot2k=0\)
+
+(prosta przecina dodatnie półosię układu, więc te znaki muszą być dodatnie)
+
+3) Podstawiamy punkt A pod równanie prostej i rozwiazujemy układ równań:
+
+\(A(3,2)\) \(k \cdot 2=3\cdot b\)
+
+\(c=\)
+
+\[ \begin{cases} 
+k\cdot2a & =0 \\ 
+4\cdot1=5k\cdot5a & =0 \\
+9a\cdot1&a+4\cdot9=0\\
+\end{cases} \]
+
+9a\cdot1=4a\cdot1\cdot9-\cdot(9a)=0
+
+\[-a\cdot1-3\] \(-1\cdot(4-a)=(4-a)=0\)
+
+\[\begin{cases} 
+4\cdot(1a^-1)=(4\cdot=1) \\ 
+3a\cdot(1-4)\cdot(9a)=0 \\
+\end{cases} \]
+
+\(4a-7=1-\cdot c=a\cdot c\)
+
+\(b+2\cdot5=6a=5\)
+\(\Rightarrow b_1=2\cdot5\Rightarrow \Rightarrow b=-3\)
+
+Odp.k:\(y=x-5\) lub \(k: y=-\frac{3}{2}+1\cdot y\)

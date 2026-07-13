@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Wykaż, że jeśli w dowolnym czworokącie \(ABCD\) dwusieczne kątów wewnętrznych wyznaczają czworokąt, to można na nim opisać okrąg.
+
+① tworzymy rysunek poglądowy
+
+② na 4-kącie można opisać okrąg
+\( \Leftrightarrow \) sumy miar jego przeciwległych kątów wewnętrznych są równe \(180^\circ\)
+
+③ z sumy miar kątów w trójkącie: 
+
+w \(\triangle AEB\): \(|\angle AEB| = 180^\circ - (\alpha + \beta)\) \(= |\angle HEF|\)
+
+w \(\triangle OGC\): \(|\angle DGC| = 180^\circ - (\gamma + \delta)\) \(= |\angle HGF|\)
+
+\(|\angle HEF| + |\angle HGF| = 180^\circ - (\alpha + \beta) + 180^\circ - (\gamma + \delta) =\)
+\(= 360^\circ - (\alpha + \beta + \gamma + \delta)\)
+
+④ Wiemy, że \(2\alpha + 2\beta + 2\gamma + 2\delta = 360^\circ\) /:2
+
+\(\alpha + \beta + \gamma + \delta = 180^\circ\) \(*\)
+
+⑤ zatem z \(*\):
+
+\(|\angle HEF| + |\angle HGF| = 360^\circ - 180^\circ = 180^\circ\) c.k.d.

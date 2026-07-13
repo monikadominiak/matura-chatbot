@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+W trójkącie równoramiennym \( ABC \) podstawa \( AB \) ma długość \( 2a \), zaś promień okręgu wpisanego w ten trójkąt jest równy \( r \). Wykaż, że długość wysokości trójkąta \( ABC \) opuszczonej na podstawę \( AB \) wynosi \( \frac{2a^2r}{a^2-r^2} \).
+
+\( \large{\circled{1}} \) tworzymy rysunek poglądowy
+
+teza: \( |CD| = h = \frac{2a^2r}{a^2-r^2} \;\;\; a, r \; - \text{dane} \)
+
+\( \large{\circled{2}} \) z tw. Pitagorasa w \( \triangle BDC \) wyznaczymy bok \( |BC| \)
+
+\( |BC| = \sqrt{a^2+h^2} \)
+
+\( \large{\circled{3}} \) korzystamy z podobieństwa
+
+\( \triangle CFO \sim \triangle CDB \) z cechy kkk
+
+\[
+\frac{|OF|}{|BD|} = \frac{|CO|}{|BC|}
+\]
+
+\[
+\Rightarrow \frac{r}{a} = \frac{h-r}{\sqrt{a^2 + h^2}}
+\]
+
+\( \large{\circled{4}} \) wyznaczamy \( h \) :
+
+\[
+r \sqrt{a^2 + h^2} = a(h-r) / (1)^2
+\]
+
+\[
+r^2a^2 + r^2h^2 = a^2(h^2 - 2hr + r^2)
+\]
+
+\[
+r^2a^2 + r^2h^2 = a^2h^2 - 2a^2hr + a^2r^2 \;\;\; /: h \neq 0
+\]
+
+\[
+a^2h - r^2h = 2a^2r \;\;\; \Rightarrow \;\;\; h(a^2-r^2) = 2a^2r \;\;\; \Rightarrow \;\;\; h = \frac{2a^2r}{a^2-r^2} \;\;\; \text{c.k.d.}
+\]

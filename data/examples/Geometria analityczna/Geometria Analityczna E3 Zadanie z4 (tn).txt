@@ -1,0 +1,83 @@
+
+--- STRONA 1 ---
+**Zadanie z4 (tn)** Napisz równanie okręgu symetrycznego do okręgu o równaniu
+
+x^2 + y^2 - 2x - 4y + 4 = 0 względem prostej o równaniu x-y-3=0.
+
+1) Wyznaczamy środek i promień okręgu:
+
+  I sposób: podstawienie
+
+  x^2 + y^2 - 2x - 4y + 4 = 0
+  
+  x^2 + y^2 - 2x - 4y - 4 = 0 , r^2 = a^2 + b^2 - c
+
+  -2x = 2 * x    -2y = 2 * y     c = 4
+   
+  a = 1 b = 2
+
+  r^2 = 4 - 1^2 - 2^2
+
+  r^2 = 4
+
+  r = 2 √r = 4 (bo r > 0)
+
+  o1 : (x-1)^2 + (y-2)^2 = 1 => S(1,2) ; r = 1
+
+  II sposób: zniemie do wzoru skróconego mnożenia
+
+  x^2 + y^2 - 2x - 4y + 4 = 0
+
+  (x-1)^2 + (y-2)^2 + r^2 - 4 = 4 + 4
+
+  o2: (x-0 + 1)^2 + (y-2)^2 = 4
+
+2) Tworzymy rysunek poglądowy:
+
+[Rysunek]
+
+3) Wyznaczamy równanie prostej prostopadłej do danej, przechodzącej przez środek danego okręgu:
+
+  n: y=x m=1 k <-a
+
+  y = x +b  k: y = ax+c a = m
+
+  y = ax+b  A(1,2) a < a A k = 2m -x -b
+
+  S1(4,2) = k c = 0 2 * 4 + 4 * 6 = b c = 12
+
+  k : y = -x + 3
+
+4) Wyznaczamy punkt przecięcia prostych m i k:
+
+  y = x-3
+  { 
+    y = x+3 
+  
+  x-3 = x-3
+
+  2x=6
+
+  x = 3 => y = 0
+
+  P(3,0)
+
+5) Wyznaczamy jednakowo odległy od punktu o1 do punktu S2, środek szukanego okręgu:
+
+  S2(x,y)
+
+  =>
+
+  SP=[3-1,0-2] [x-2]
+
+  =>
+
+  PSP=[x-3, y-0]
+
+  {
+    x-3=2 => x=5
+    y=0-2 => y=-2
+    
+  S2(5, -2)
+
+Odp. (x-5)^2 + (y-2)^2 = 1.

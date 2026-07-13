@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Zadanie 5
+
+W jednym układzie współrzędnych narysuj wykresy funkcji \( f \) i \( g \) określonych wzorami 
+\[ f(x) = \frac{3x+1}{x} \quad i \quad g(x) = \frac{-2}{x} \].
+
+a) Odczytaj współrzędne punktu \( P \) przecięcia się wykresów funkcji \( f \) i \( g \) oraz sprawdź rachunkiem poprawność odczytu. 
+
+b) Podaj rozwiązanie nierówności \( f(x) \geq g(x) \)
+
+① Przekształcamy wzór funkcji \( f \) do postaci kanonicznej. 
+\[ f(x) = 3x+1 = 3 + \frac{1}{x} \]
+
+② Szkicujemy obie funkcje w jednym układzie współrzędnych.
+
+a) ③ Odczytujemy punkt \( P \) przecięcia się wykresów.
+\[ P(-1,2) \]
+
+④ Obliczamy punkt przecięcie się funkcji. 
+\[ 3 + \frac{1}{x} = \frac{-2}{x} \]
+\[ , \ x \neq 0 \]
+\[ \frac{1}{x} + \frac{2}{x} = -3 \]
+\[ \frac{3}{x} = -3 \]
+\[ x = -1 \]
+\[ y = \frac{-2}{-1} = 2 \]
+\[\Rightarrow P(-1,2) \]
+
+b) ⑤ Rozwiązujemy nierówność \( f(x) \geq g(x) \).
+\[ \frac{3x+1}{x} \geq \frac{-2}{x} \cdot x \cdot , \ D= \mathbb{R}\backslash \{0\} \]
+
+\[ (3x+1)x \geq -2x \cdot x \]
+\[ 3x^2 + x \geq -2x \]
+\[ 3x^2 + 3x \geq 0 \]
+\[ 3x(x+1) \geq 0 \]
+
+\[ x \in (-\infty,-1] \cup (0,+\infty) \]
+
+Odp: Punkt przecięcia się wykresów: \( P=(-1,2) \), rozwiązanie nierówności: \( x \in (-\infty,-1] \cup (0,+\infty) \).

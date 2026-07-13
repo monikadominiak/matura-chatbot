@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+3. Postać kanoniczna i pojęcie wektora 1
+Przesuń wykres funkcji f o dany wektor ‘u’. następnie podaj wzór otrzymanej funkcji oraz jej przedziały monotoniczności:
+a) f(x)=-x^2, u=[1, -3]     b) f(x)=0,5x^2, u=[-2, 0,5]
+
+a) \[f(x)=-x^2\], \[u=\begin{bmatrix}x \\ y\end{bmatrix}=\begin{bmatrix}1 \\ -3\end{bmatrix}\]
+
+Wektor \(u\), czytamy w taki sposób, że pierwsza liczba \(x\) informuje nas ile jednostek przesuwamy i w którą stronę kolejno: na osi \(x\) i \(y\).
+
+W tym przypadku mamy jedną jednostkę w prawo i 3 w dół.
+
+\[y=-x^2\]
+
+\[y=-(x-1)^2-3\]
+
+Odp: funkcja rośnie w przedziale \((-∞, 1\rangle\)
+
+funkcja maleje w przedziale \(\langle1, +∞)\)
+
+b) \[f(x)=0,5x^2\]
+
+\[u=\begin{bmatrix}-2 \\ -0,5\end{bmatrix}\]
+
+W tym przypadku wykres funkcji przesuwamy o dwie jednostki w lewo i pół jednostki w dół.
+
+\[y=0,5(x+2)^2-\frac{1}{2}\]
+
+Odp: funkcja rośnie w przedziale \((-2, +∞)\)
+
+funkcja maleje w przedziale \((-∞, -2\rangle\)

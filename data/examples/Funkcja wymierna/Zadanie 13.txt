@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Zadanie 13
+
+Ustal dziedzinę i rozwiąż równanie: \(\frac{x-4}{x+5} = \frac{x^2+6x+5}{x^2-3x-4}\)
+
+\[
+\begin{array}{ll}
+\text{❶ Wyznaczamy dziedzinę równania.} & \\
+D: & x+5 \neq 0 \quad \land \quad x^2-3x-4 \neq 0 \\
+& x \neq -5 \\
+& \Delta = 9+16=25 \\
+& x_0 = \frac{3-5}{2} \neq -1 \\
+& x_2 = \frac{3+5}{2} \neq 4 \\
+D= \mathbb{R}\backslash \{-5,-1,4\} & \\
+& \\
+\text{❷ Rozwiązujemy równanie.} & \\
+& \frac{x-4}{x+5} = \frac{x^2+6x+5}{x^2-3x-4} \\
+& (x-4)(x^2-3x-4)= (x+5)(x^2+6x+5) \\
+& (x-4)(x+1)(x-4)= (x+5)(x+5)(x+1) \\
+& (x+1)(x-4)^2= (x+1)(x+5)^2 \\
+& (x+1)\left[(x-4)^2- (x+5)^2\right] = 0 \\
+& x=-1 \notin D \quad (x-4)^2- (x+5)^2 = 0 \\
+& (x-4)^2 = (x+5)^2 \\
+& \\
+& x-4 = x+5 \quad \lor \quad x-4 = -x-5 \\
+& -4 = 5 \quad \text{sprzeczność} \quad 2x = -1 \\
+& \hspace{30pt} x = -\frac{1}{2} \in D \\
+& \\
+\text{Odp.: } x = -\frac{1}{2}.
+\end{array}
+\]

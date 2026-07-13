@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+Zad.15 Rozwiąż nierówność \(\frac{4}{|x+4|} \leq \frac{5}{|x-3|}\).
+
+\((1)\) Wyznaczamy dziedzinę:
+
+\[ x \neq 4 \equiv x \neq -4 \]
+\[ x \neq 3 \equiv x \neq 3 \]
+
+\(x \in \mathbb{R} \setminus \{-4,3\}\)
+
+(Mianowniki nie mogą być równe zeru).
+
+\((2)\) Wyrażamy obustronnie przez mianowniki, by sprowadzić do klasycznej nierówności z dwiema modułami:
+
+\[
+\frac{4}{|x+4|} \leq \frac{5}{|x-3|} \equiv |x+4||x-3|
+\]
+
+\[ 4|x-3| \leq 5|x+4| \]
+\[ 4|x-3| - 5|x+4| < 0 \]
+
+Ponieważ wartość bezwzględna na pewno będzie nieujemna, przemnożenie obustronnie przez oba mianowniki mamy pewność, że nie zmieni się nam znak wyjściowej nierówności.
+
+\((3)\) Tworzymy siatkę znaków:
+
+\[
+\otimes \quad \oplus \quad \otimes
+\]
+\[ x \]
+\[ -4 \quad 3 \]
+\[ | \]
+
+\((1^o)\ x \in (-\infty, -4) \)
+\((2^o)\ x \in (-4, 3) \)
+\((3^o)\ x \in (3, \infty) \)
+
+\((4)\) Rozwiązujemy wyznaczone przypadki:
+
+\((1^o)\ x \in (-\infty, -4) \)
+
+\[ 4(x+4) - 5(x+3) < 0 \]
+\[ -4x +12 -5x -20 <0 \]
+\[ -9x < 8 \]
+\[ x > -\frac{8}{9} \quad \text{a}\ x \in (-4,3) \]
+\[ x \in \left(-\frac{8}{9}, 3\right) \]
+
+\((2^o)\ x \in (-4, 3) \)
+
+\[ x = -32 \quad \text{a}\ x \in (-\infty, -4) \]
+\[ x \in (-\infty, -32) \]
+
+\((3^o)\ x \in (3, \infty) \)
+
+\[ 4x -12 - 5x -20 < 0 \]
+\[ -x < 32 \]
+\[ x > -32 \quad \text{a}\ x \in (3, \infty) \]
+\[ x \in (3, \infty) \]
+
+\((5)\) Wyznaczamy sumę rozwiązań ze wszystkich przypadków:
+
+\[ 1^o \cup 2^o \cup 3^o \Rightarrow x \in (-\infty, -32) \cup \left(-\frac{8}{9}, 3\right) \]
+
+Odp. \(x \in (-\infty, -32) \cup \left(-\frac{8}{9}, 3\right)\).

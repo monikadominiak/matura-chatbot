@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Zadanie 10
+
+Rozwiąż równanie: cos x · tg^2x - 3 cos x - sin x · tg^2x + 3 sin x = 0, gdy x ∈ (-π, 0).
+
+1️⃣ Wyznaczamy dziedzinę.
+   
+   x ≠ kπ + π/2   (dziedzina tgx)
+
+   k ∈ ℤ
+
+2️⃣ Wyłączamy czynnik przed nawias.
+
+   tg^2 x (cosx - sinx) - 3(cosx - sinx) = 0
+
+   (cosx - sinx)(tg^2 x - 3) = 0
+
+   (cosx - sinx)(tgx - √3)(tgx + √3) = 0
+
+3️⃣ Rozwiązujemy równania.
+
+   cosx - sinx = 0                   tgx = √3                     tgx = -√3
+
+   cosx = sinx                       x = π/3 + kπ                x = -π/3 + kπ
+
+   x = π/4 + kπ
+
+4️⃣ Obliczamy rozwiązania w przedziale x ∈ (-π, 0).
+
+   Za k podstawiamy liczby całkowite i sprawdzamy, czy należy do przedziału (-π, 0).
+
+   x = π/4 + kπ                    x = π/3 + kπ                   x = -π/3 + kπ 
+
+   k = -1                           k = -1                          k = 0
+
+   x = -3π/4                      x = -2π/3                     x = -π/3
+
+Odp.: x ∈ {-3π/4, -2π/3, -π/3}.

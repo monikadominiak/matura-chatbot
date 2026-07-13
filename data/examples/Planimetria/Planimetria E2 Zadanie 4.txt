@@ -1,0 +1,77 @@
+
+--- STRONA 1 ---
+Zad.4 W trójkącie ABC dane są: |BC|=7, |AB|+|AC|=13, |AB|*|AC|*cos<|BAC|=20. Oblicz pole tego trójkąta.
+
+1) Tworzymy rysunek pomocniczy i przyjmujemy oznaczenia:
+
+          C
+         / \
+        /   \
+    7 c /     \ b
+      /_______\
+    A     a     B
+
+b + c = 13
+b c * cosα = 20 
+
+b*c * cosα mocno sugeruje tw. cosinusów
+
+2) Korzystamy z tw. cosinusów: 
+
+7^2 = a^2 + b^2 - 2 a b cos α 
+49 = a^2 - 2c a (podstawiamy za całą liczymy, że b=c=20)
+a^2 + 80 a - 83    
+a(a+12) - 80 - 2a^2 - 20 a ciągu naszej szukanej
+20 = 83   
+
+3a^2 - 2ab = 20 + 20 a=b+c=180
+2ab - 80
+ab = 40
+
+3) Obliczamy pole trójkąta:
+
+sposób I:
+Tworzymy układ równań i wyznaczamy a, b:
+
+{ ab = 40 
+{ a + b = 13 
+
+mamy iloczyn i sumę 2 tych samych niewiadomych, więc możemy wykonać wzór z wzorem Vielle’a 
+
+        1         1    
+x^2 - 13x + 40 = 0
+Δ = 13^2 - 4 * 40 = 169 - 40 => x1,2 = -20,
+x1 = 8, x2 = 5
+
+{ a = 8
+{ b = 5
+
+lub obliczamy klasyczną metoda podstawienia:
+
+{ ab + 40 => a(13-a) = 40 
+{ b = 13-a 
+13a - a^2 = 40 
+a^2 - 13a + 40 
+a1 = (-13 + √9 (169) - √ 160)/2, a2 = 3
+b2 = 13 - a = 8
+
+dla a=8 b=5                   
+
+P_o = √(p(p-a)(p-b)(p-c)),     p = 3/2* 8 + 7 }
+                               p = 10
+P_o = √(40(10-8)(10-5)(10-8)) = √ 100 = 10√5
+
+sposób II:    
+
+Wyliczymy cos α i sin α:
+
+b c * cos α = 20 
+40 cos α = 20  
+cos α = 1/2
+cos α = 1/2                
+sinα = √(1-(1/2)^2) = √(3)/2 = sin = √3/2
+cos α = 1/2 b=5, b=5)==x=0      
+
+P_o = 1/2 * a * b * sin α = 1/2 * 40 *  (√3/2) = 10√5
+
+Odp. P_o = 10√5.

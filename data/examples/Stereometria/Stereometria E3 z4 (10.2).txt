@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Pole przekroju ostrosłupa prawidłowego czworokątnego płaszczyzną przechodzącą przez przekątną podstawy i równoległą do krawędzi bocznej rozłącznej z tą przekątną jest równe \( P \). Oblicz pole przekroju tego ostrosłupa płaszczyzną zawierającą środki dwóch sąsiednich krawędzi podstawy i środek wysokości ostrosłupa.
+
+1) sporządzamy rysunek pomocniczy
+
+\(\triangle ACF\) - pierwszy przekrój, równoległy do \( BE \), o polu = \( P \)  (to nasza dana)
+
+2) uzależniamy kluczowe długości od \( P \) i \( a \)
+
+niech bok podstawy = \( a \) i \( P = \frac{1}{2} \cdot a \sqrt{2} \cdot |FS| \)
+
+wtedy \( P = \frac{1}{2} \cdot a \sqrt{2} \cdot |FS| \Rightarrow |FS| = \frac{2P}{a \sqrt{2}} = \frac{\sqrt{2}P}{a} \)
+
+wyznaczamy długości krawędzi bocznej:
+
+\(\triangle DFS \sim \triangle DEB \)  z cech kkk  (\(\angle\) i wspólny kąt przy wierzchołku \( D \))
+
+\(\frac{|DS|}{|DB|} = \frac{|FS|}{|EB|} \)
+
+podstawiamy wartości \(|DS|\) i \(|DB|\)
+
+\(\frac{a \sqrt{2}}{2 \cdot \sqrt{2}} = \frac{|FS|}{|EB|} \)
+
+\(2 \cdot (*) \ \ 2|FS| = |EB| \Rightarrow |EB| = \frac{\sqrt{2}P}{a} \)
+
+3) sporządzamy rysunek drugiego przekroju  (kolor zielony)
+
+\(S'\) - środek wysokości \( ES \) ostrosłupa  (należy do płaszczyzny przekroju)
+
+punkty \( I \) i \( J \) - środki krawędzi podstawy
+
+4) liczymy pole 4-kąta \( IJIK \)
+
+\(\triangle IJB\) jest \(\triangle\) o kątach \(90^\circ,45^\circ,45^\circ\)
+
+zatem \(|IJ| = \frac{a \sqrt{2}}{2} \ \ \ (1: \sqrt{2})\)
+
+w \(\triangle SBE\)
+
+\(|EB| = 2|S'B'| \ \ (**) \)
+
+z tw. o odcinku łączącym środki boków trójkąta
+
+\(S'B' || LI || KJ\) oraz \(LK || IJ\)  \(\Rightarrow 4\)-kąt \( IJK \) jest prostokątem \(|S'B'| = |LI| = |KJ| = 1/2 \cdot |EB| \), więc \(P_{IJK} = \frac{\sqrt{2}}{2} \cdot \frac{|EB|}{2} = \frac{\sqrt{2}}{2} \cdot \frac{\sqrt{2}P}{a} \cdot \frac{a}{2} = P \)
+
+5) liczymy pole \(\triangle LKM\)
+
+na rysunku poniżej: niech \( N \) i \( O \) => środki krawędzi
+
+\(\triangle DBE \sim \triangle NEO \sim \triangle HNS'\)
+
+\(\frac{|MS'|}{1} = \frac{|EO|}{|EB|} = \frac{1}{2} \)
+
+\((punkt \ O \ z \ założenia \ jest \ środkiem \ EB)\)
+
+stąd \(|MS'| = \frac{|EO|}{2} = \frac{|EB|}{2} = \frac{\sqrt{2}P}{2a} = \frac{P}{\sqrt{2}a} \)
+
+\(P_{LKM} = \frac{1}{2} \cdot \frac{a \sqrt{2}}{2} \cdot \frac{\sqrt{2}P}{2a} = \frac{P}{4} \)
+
+6) liczymy pole całego przekroju
+
+\(P_{IJKML} = P_{IJK} + P_{KLM} = P + \frac{P}{4} = \frac{5P}{4} \)
+
+Odp: \(P_{IJKML} = \frac{5P}{4} \)

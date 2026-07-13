@@ -1,0 +1,124 @@
+
+--- STRONA 1 ---
+1. wykres funkcji \( f(x) = ax^2 \)
+
+Punkty \( P(x_1, y_1) i Q(x_2, y_2) \) należą do paraboli opisywanej równaniem \( y = ax^2 \). Oblicz odległość punktu Q od osi OX jeśli:
+
+a) \( x_1 = 3, y_1 = -\frac{3}{2}, x_2 = -2 \)
+
+b) \( x_1 = -2\sqrt{2}, y_1 = 20, x_2 = 2 \)
+
+a) 
+
+\[
+P(x_1, y_1) \ \ \ Q(x_2, y_2) 
+\]
+\[
+y = ax^2
+\]
+
+\[
+x_1 = 3, \quad y_1 = -\frac{3}{2}
+\]
+\[
+P(3, -\frac{3}{2}) \quad Q(x_2, y_2)
+\]
+
+1. Podstawienie współrzędnych pierwszego punktu do wzoru \( y = ax^2 \)
+
+\[
+-\frac{3}{2} = a \cdot 3^2
+\]
+
+\[
+-\frac{3}{2} = 9a \ /\ :9
+\]
+
+\[
+a = -\frac{1}{6}
+\]
+
+Skoro oba punkty należą do paraboli opisanej tym równaniem to współczynnik kierunkowy dla każdego punktu należącego do tego wykresu będzie równy -\(\frac{1}{6}\)
+
+2. Obliczamy \( y_2 \)
+
+\[
+y_2 = -\frac{1}{6} \cdot (x_2)^2
+\]
+
+\[
+y_2 = -\frac{1}{6} \cdot (-2)^2 
+\]
+
+\[
+y_2 = -\frac{2}{3} 
+\]
+
+\( Q = (-2, -\frac{2}{3}) \)
+
+3. Odczytujemy odległość od osi OX 
+
+\[
+\begin{array}{c}
+\\ 
+y \\ 
+\ \ \ \ \ \ \  a \\
+ \middle
+\end{array}
+\]
+
+Odp: odległość wynosi \(-\frac{2}{3}\)
+
+---
+
+b) 
+
+\( P = (-2\sqrt{2}, 20) \)
+
+1. Podstawienie współrzędnych pierwszego punktu do wzoru \( y = ax^2 \)
+
+\[
+20 = a \cdot (-2\sqrt{2})^2
+\]
+
+\[
+20 = a \cdot 8\ /\ :8
+\]
+
+\[
+a = \frac{5}{2}
+\]
+
+2. Obliczamy \( y_2 \)
+
+\[
+y_2 = \frac{5}{2} \cdot (x_2)^2
+\]
+
+\[
+y_2 = \frac{5}{2} \cdot 2^2
+\]
+
+\[
+y_2 = \frac{5}{2} \cdot 4
+\]
+
+\[
+y_2 = 10
+\]
+
+\( Q = (2, 10) \)
+
+3. Szkicujemy wykres i odczytujemy odległość od osi OX 
+
+\[
+\begin{array}{c}
+\\ 
+y \\ 
+10 \\
+ \ \ \ \ \  Q(2,10) 
+\ middle
+\end{array}
+\]
+
+Odp: Odległość wynosi 10

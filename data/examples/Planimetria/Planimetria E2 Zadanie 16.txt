@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Zad.16 Przeciwprostokątne trójkąta prostokątnego mają długość a i b. W ten trójkąt wpisano kwadrat, jak na rysunku poniżej. Uzależnij długość boku kwadratu od a i b.
+
+1) Oznaczamy sobie boki kwadratu i wierzchołki:
+
+(bok AF kwadratu zawiera się w boku AB trójkąta, więc:)
+
+AB || DE > | ∠FBE | = | ∠DEC |
+ΔABC ~ ΔEFB ~ ΔCDE (kkk)
+
+2) Korzystamy z własności trójkątów podobnych:
+
+|EF| / |AC| = |FB| / |AB|
+
+x/a = (b-x)/b
+
+xb = ab - ax
+xb + ax = ab
+x(a+b) = ab
+x = ab/(a+b)
+
+Odp. x = ab/(a+b)

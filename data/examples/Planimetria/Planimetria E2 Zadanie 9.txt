@@ -1,0 +1,69 @@
+
+--- STRONA 1 ---
+Zad.9 W trójkącie równoramiennym wysokość opuszczona na podstawę jest równa odcinkowi, który łączy środek podstawy ze środkiem ramienia. Podstawa trójkąta jest równa a. Wyznacz wysokość opuszczoną na podstawę.
+
+1) Tworzymy rysunek poglądowy:
+
+\[
+\begin{array}{c}
+   \Delta ABC \\
+   A B C \\
+   \frac{b}{2} \\
+   h \\
+   \frac{a}{2} \\ 
+   A \quad a \quad B
+\end{array}
+\]
+
+Narysujmy sobie trójkąt ADC wpisany w okrąg:
+
+\[
+\begin{array}{c}
+  \circ
+\end{array}
+\]
+  
+\[
+\begin{array}{c}
+   \Delta ABC \\
+   A B C \\
+   A \quad \frac{b}{2} \quad C
+\end{array}
+\]
+
+dzięki temu, że trójkąt ADC jest prostokątny, wiemy że przeciwprostokątna AC jest średnicą tego okręgu. Więc:
+
+\[
+b = 2R \\
+R = \frac{b}{2} \\
+h = R \Rightarrow h = \frac{b}{2} / 2 \\
+b = 2h
+\]
+
+2) Wyznaczamy \(h\) z tw. Pitagorasa:
+
+\[
+\left(\frac{a}{2}\right)^2 + h^2 = b^2
+\]
+
+\[
+\left(\frac{a}{2}\right)^2 + h^2 = (2h)^2
+\]
+
+\[
+\frac{a^2}{4} + h^2 = 4h^2
+\]
+
+\[
+\frac{a^2}{4} = 3h^2
+\]
+
+\[
+a^2 = 12h^2 \sqrt{}
+\]
+
+\[
+a = 2\sqrt{3}h \Rightarrow h = \frac{1}{2\sqrt{3}} a = \frac{\sqrt{3}}{6} a
+\]
+
+Odp. \(h = \frac{\sqrt{3}}{6} a\).

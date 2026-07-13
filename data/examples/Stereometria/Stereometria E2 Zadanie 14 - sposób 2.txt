@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+W ostrosłupie prawidłowym czworokątnym wysokość ma długość H, a kąt między sąsiednimi ścianami bocznymi ma miarę α. Wyznacz objętość tego ostrosłupa.
+
+1) sporządzamy rysunek pomocniczy
+
+2) najpierw wykorzystujemy kąt α
+
+tg(α/2) = |OC|/|OE| = a√2/2|OE|
+
+|OE| = a√2/2tg(α/2)
+
+3) wykorzystujemy trójkąty podobne
+
+△OCE ~ △OES z cechy kkk
+
+|OE|/H = |EC|/|OC| - nie znamy tylko |EC|
+
+z tw. Pitagorasa w △EOC
+
+|EC|^2 + |EO|^2 = |OC|^2
+
+|EC| = sqrt(2a^2/4 - 2a^2/4tg^2(α/2)) = a√(2tg^2(α/2) - 2)/2tg(α/2)
+
+4) podstawiamy do |OE|/H = |EC|/|OC|
+
+a√2/2tg(α/2) / H = a√(2tg^2(α/2) - 2)/2tg(α/2) / a√2/2
+
+a√2/2tg(α/2) * a√2/a = H * a√(2tg^2(α/2) - 2)/2tg(α/2) / 2tg(α/2) ≠ 0
+
+a = 2H√(tg^2(α/2) - 1)
+
+5) wyznaczamy objętość
+
+V = 1/3 * H * 2H^2(tg^2(α/2) - 1) = 2/3 H^3(tg^2(α/2) - 1)
+
+odp: V = 2/3 H^3(tg^2(α/2) - 1)

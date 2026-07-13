@@ -1,0 +1,50 @@
+
+--- STRONA 1 ---
+W urnie jest 5 kul białych, 4 czarne i 6 zielonych. Losujemy jednocześnie 3 kule. Jakie jest prawdopodobieństwo, że wśród wylosowanych kul:  
+a) każda będzie innego koloru  
+b) każda będzie tego samego koloru  
+c) wśród trzech kul będą dwie tego samego koloru  
+
+1️⃣ analizujemy polecenie  
+
+[obrazek 5B 4C 6Z]
+
+jednocześnie 3 kule  
+
+2️⃣ liczymy moc Ω (będzie ona taka sama dla wszystkich podpunktów)  
+
+\[
+\bar{\Omega} = \binom{15}{3} = \frac{15!}{3! \cdot 12!} = \frac{13 \cdot 14 \cdot 15}{1 \cdot 2 \cdot 3} = 455
+\]
+
+3️⃣ A - każda innego koloru  
+
+\[
+\bar{A} = \binom{5}{1} \cdot \binom{4}{1} \cdot \binom{6}{1} = 120
+\]
+
+\[
+P(A) = \frac{120}{455} = \frac{24}{91}
+\]
+
+4️⃣ B - każda tego samego koloru  
+
+\[
+\bar{B} = \binom{5}{3} + \binom{4}{3} + \binom{6}{3} = 10 + 4 + 20 = 34
+\]
+
+\[
+P(B) = \frac{34}{455}
+\]
+
+5️⃣ C - dwie tego samego koloru  
+
+\[
+\bar{C} = \left(\binom{5}{2} \cdot \binom{10}{1}\right) + \left(\binom{4}{2} \cdot \binom{11}{1}\right) + \left(\binom{6}{2} \cdot \binom{9}{1}\right) = 100 + 135 + 66 = 301
+\]
+
+\[
+P(C) = \frac{301}{455}
+\]
+
+odp: a) \(\frac{24}{91}\) , b) \(\frac{34}{455}\) , c) \(\frac{301}{455}\)

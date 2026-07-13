@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Zadanie 16
+
+Suma \(1 + \tg x + \tg^2 x + \tg^3 x + \ldots\) jest szeregiem geometrycznym. Wyznacz w przedziale \(\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]\) takie wartości \(x\), dla których szereg ma sumę równą 4.
+
+① Wyznaczamy dziedzinę.
+
+\(D: x \neq \frac{\pi}{2} + k\pi, \, k \in \mathbb{Z}\)
+
+② Badamy zbieżność szeregu geometrycznego.
+
+\( |q| < 1 \Leftrightarrow -1 < q < 1 \)
+
+\( q = \frac{a_2}{a_1} = \frac{\tg x}{1} = \tg x \)
+
+\( | \tg x | < 1 \)
+
+\( \tg x < 1 \quad \land \quad \tg x > -1 \)
+
+\( x \in \left(-\frac{\pi}{4}, \frac{\pi}{4}\right) \)
+
+③ Przekształcamy lewą stronę równania.
+
+\( S = \frac{a_1}{1-q} \)
+
+\( S = \frac{1}{1-\tg x} \)
+
+④ Rozwiązujemy równanie.
+
+\[
+\frac{1}{1-\tg x} = 4
+\]
+
+\( 1 = 4 - 4 \tg x \)
+
+\( 4 \tg x = 3 \)
+
+\( \tg x = \frac{3}{4} \)
+
+\( \tg 37^\circ \approx 0{,}7536 \)
+
+\( x \approx 37^\circ \)
+
+Odp.: \( x \approx 37^\circ \)

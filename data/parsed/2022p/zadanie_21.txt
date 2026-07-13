@@ -1,0 +1,14 @@
+=== ARKUSZ: 2022p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0–1)
+Punkty 𝐴 = (−2, 6) oraz 𝐵 = (3, 𝑏) leżą na prostej, która przechodzi przez początek układu współrzędnych.
+Wtedy 𝑏 jest równe
+A. 9
+B. (-9)
+C. (-4)
+D. 4
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

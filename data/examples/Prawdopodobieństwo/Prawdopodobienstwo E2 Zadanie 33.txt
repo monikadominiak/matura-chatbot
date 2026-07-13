@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Kod ANSI stosowany w oprogramowaniu komputerowym przyporządkowuje znakom graficznym ośmiocyfrowe ciągi złożone z cyfr 0 lub 1. Ile różnych znaków graficznych można zakodować stosując ten kod?
+
+1️⃣ analizujemy polecenie
+
+8-cyfrowe ciągi, cyfry 0 lub 1
+
+ciąg, a nie liczba, więc "0" może być na początku
+
+2️⃣ 2/0,1 · 2/0,1 · 2/0,1 · 2 · 2 · 2 · 2 · 2 =
+
+= 2^8 = 256
+
+Odp: 256

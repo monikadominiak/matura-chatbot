@@ -1,0 +1,92 @@
+
+--- STRONA 1 ---
+Zadanie 216 (tn) Obwód trójkąta prostokątnego o polu 0,5 jest równy \(\sqrt{3} + \sqrt{5}\). Oblicz długość przeciwprostokątnej trójkąta.
+
+1) Tworzymy układ 3 równań z 3 niewiadomymi (zauważ hipotęzę):
+
+Co prawda do wyznaczenia jest jedynie długość przeciwprostokątnej, ale będąc na 3 latach, wraz można próbować to obliczyć za pomocą 3 niewiadomych.
+Pisząc układ 3 równań.
+
+Równania, które możemy utworzyć, są następujące:
+
+1) Równanie na temat pola.
+2) Równanie na temat obwodu.
+3) Równanie wynikające z tw. Pitagorasa.
+
+\[
+\begin{align*}
+1) & \quad \frac{1}{2} ab = 0,5 \\
+2) & \quad a+b+c = \sqrt{3}+\sqrt{5} \\
+3) & \quad a^2+b^2 = c^2 \\
+\end{align*}
+\]
+
+2) Rozwiązujemy ten układ równań:
+
+Trudniejsze układy równań najlepiej zazwyczaj rozwiązywać metodą podstawiania.
+
+Z prostego równania (z wzoru na pole) można wyznaczyć a lub b lub c.
+
+Docelowo chcemy wyznaczyć c, więc pozbędziemy się najpierw zmiennych a lub b.
+
+\[
+\begin{cases}
+\frac{1}{4} ab = 0,5  & \quad \Rightarrow \quad ab = \frac{1}{2}  \quad (4) \\
+a+b+c = \sqrt{3}+\sqrt{5} & \\
+a^2+b^2 = c^2 & \\
+\end{cases}
+\]
+
+Z (4) do (2) i (3):
+
+\[
+\begin{cases}
+\frac{1}{4} c = \frac{5\sqrt{5}}{8} \\
+\frac{1}{2} c < c^2 \\
+\end{cases}
+\]
+
+Widać, że wyrażenie a_b_c jest sobie zależne i można łatwo zapisać jedno za pomocą drugiego. Wykorzystujemy to i wyznaczamy z obu równań c wymienne.
+
+\[
+\begin{cases}
+\frac{4}{16} c + \frac{12\sqrt{5} \pm \sqrt{15\sqrt{5} \cdot 3 \sqrt{3}}}{1} = \frac{9}{4} \\
+c + \frac{8}{5\sqrt{5}} - 2bc \\
+\end{cases}
+\]
+
+(4)  \(\frac{1}{16} \cdot (b+c)^2=\sqrt{4}\)
+
+(5) \(\cdot (c)^2-\frac{8}{10}c^2\)
+
+\(16(b+c)^2\cdot b=\sqrt{25}\cdot(\sqrt{3}+\sqrt{5})-c^5\)
+
+ Uwaga: jedno z równań zostało podniesioną do kwadratu. Rozumując i interweniując można podwoić do potęgi zostające tylko wyrazy, gdyż po obu stronach są wyrażne analogowe. Tak jest w tym przypadku, ponieważ:
+
+\(b^{2}=0\), lub \(b=0\) (ilożność może być dodatnia)
+\(\sqrt{5}\sqrt{5}<c^{0}\), lub \(c<\sqrt{3}\) (c musi być mniejsze niż obwód trójkąta).
+
+Niezn. teraz przyporządkować obie wzory do siebie, przez co utworzy się równanie z niewiadomą c.
+
+\[
+\begin{cases}
+(\sqrt{3}\sqrt{5}-c)^2+c^2=1 \\
+c>0 \\
+c<\sqrt{5} \\
+\end{cases}
+\]
+
+Lewą stronę można zapisać za wzoru skróconego mnożenia:
+
+\[
+(a+b)^2+b^2+c^2+2ab+2bc \\
+\]
+
+\[
+(\sqrt{3}\sqrt{5})c^2=3+5-c=2\sqrt{8}-16=8-2\sqrt{8}=2-2\cdot \frac{4}{15}(5\sqrt{5}c)^2 \\
+8\cdot2/\sqrt{5}=2^{2}\cdot (\sqrt{3}{\sqrt{5}}=1=2+4=2(1\sqrt{5}) \\
+6\cdot\sqrt{18}=(1\cdot(\sqrt{5}\sqrt{5})/4)=2\cdot(5\sqrt{5})
+\]
+\(c-=\frac{6\cdot 15}{2(\sqrt{5})} = \frac{3+5}{\sqrt{3}}-3\sqrt{5}=\sqrt{5}\cdot(5\cdot \sqrt{5}+ 2 \cdot \frac{25}{2} -\sqrt{5}\cdot 0\)
+
+Odp. \(\sqrt{3}\).

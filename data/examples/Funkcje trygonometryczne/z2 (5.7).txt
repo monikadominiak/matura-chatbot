@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+**Zadanie E2**
+
+Rozwiąż równanie 2sin⁡4x cos⁡x = sin⁡5x + 1/2 w przedziale [0,π].
+
+① Korzystamy ze wzoru na sin⁡α⋅cos⁡β
+
+sin⁡α⋅cos⁡β = 1/2 [sin⁡(α+β) + sin⁡(α−β)] 
+
+2⋅1/2 [sin⁡(4x+x) + sin⁡(4x−x)] = sin⁡5x + 1/2
+
+sin⁡5x + sin⁡3x = sin⁡5x + 1/2
+
+sin⁡3x = 1/2
+
+② Rozwiązujemy równanie
+
+3x = π/6 + 2kπ v 3x = 5π/6 + 2kπ , k ∈ ℤ
+
+x = π/18 + 2kπ/3          x = 5π/18 + 2kπ/3
+
+③ Obliczamy rozwiązania z przedziału [0,π].
+
+x = π/18 + 2kπ/3
+
+k = 0      x = π/18
+
+k = 1      x = 13π/18
+
+x = 5π/18 + 2kπ/3
+
+k = 0      x = 5π/18
+
+k = 1      x = 17π/18
+
+Odp.: x ∈ { π/18, 5π/18, 13π/18, 17π/18 }.

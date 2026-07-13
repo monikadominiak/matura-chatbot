@@ -1,0 +1,51 @@
+
+--- STRONA 1 ---
+z1 (2.1)  
+Dla jakich wartości parametru k równanie (k + 1)x^2 + 2x + 1 = 0 ma dwa rozwiązania przeciwnych znaków?  
+
+(k + 1)x^2 + 2x + 1 = 0  
+a = k + 1  
+b = 2  
+c = 1  
+
+① Zbadanie możliwości, że funkcja może być liniowa  
+a = 0 ⇐ f. liniowa  
+k + 1 = 0 | -1  
+k = -1  
+⇐ żadne równanie liniowe nie może mieć 2 rozwiązań, ten przypadek nie spełnia warunków zadania  
+
+a ≠ 0 ⇐ f. kwadratowa  
+k ≠ -1  
+
+② Zapisanie warunków wynikających z treści zadania dla f. kwadratowej  
+1° Δ > 0  
+⇐ dla rozwiązania przeciwnych znaków - dwa różne, nie bierzemy pod uwagę podwójnych miejsc zerowych  
+
+2° x_1 * x_2 < 0 ⇐ dwa rozwiązania przeciwnych znaków, ich iloczyn musi być ujemny  
+
+③ Rozwiązanie pierwszego z warunków  
+1° Δ > 0  
+Δ = b^2 - 4ac  
+
+2^2 - 4(k + 1) * 1 > 0  
+4 - 4k - 4 > 0  
+-4k > 0 | : 4  
+-k > 0 | (-1)  
+k < 0  
+
+④ Rozwiązanie drugiego z warunków  
+2° x_1 * x_2 < 0  
+Korzystamy ze wzoru Viete’a:  
+1/(k + 1) < 0 | * (k + 1)^2  
+
+k + 1 < 0  
+k < -1  
+mnożymy przez kwadrat mianownika, aby uniknąć zmiany znaku nierówności  
+
+⑤ Wyznaczenie części wspólnej rozwiązań obu warunków:  
+1° k < 0  
+2° k < -1  
+
+Zatem: k < -1  
+
+Odp: k < -1.

@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) określona jest wzorem \( f(x) = \frac{m-2}{3} x^3 + (2m - 3)x^2 + (5m - 6)x + m^2 - 5 \).
+Wyznacz te wartości parametru \( m \), dla których funkcja \( f \) jest malejąca w zbiorze liczb rzeczywistych.
+
+\( f(x) = \frac{m-2}{3} x^3 + (2m-3)x^2 + (5m-6)x + m^2 - 5 \)
+
+\(\large{\circled{1}}\) wyznaczamy pochodną funkcji \( f \)
+
+\( f'(x) = (m-2)x^2 + 2(2m-3)x + 5m-6 \)
+
+\(\large{\circled{2}}\) musimy rozważyć dwie możliwości
+
+1. funkcja liniowa
+
+\( m-2 = 0 \)
+
+\( m = 2 \)
+
+\( f'(x) = 2(4-3)x + 5 \cdot 2 - 6 = 2x + 4 \)
+
+nie spełnia warunków zadania
+
+2. funkcja kwadratowa
+
+\( m \neq 2 \)
+
+parabola musi być niedodatnia
+
+\[
+\begin{cases}
+1^\circ \ a < 0 \\
+2^\circ \ \Delta \leq 0 \\
+\end{cases}
+\]
+
+1° \( a < 0 \ \Leftrightarrow \ m-2 < 0 \ \Rightarrow \ m < 2 \)
+
+2° \((4m-6)^2 - 4(m-2)(5m-6) \leq 0 \)
+
+\( 16m^2 - 48m + 36 - 4(5m^2 - 16m + 12) \leq 0 \)
+
+\( 16m^2 - 48m + 36 - 20m^2 + 64m - 48 \leq 0 \)
+
+\(-4m^2 + 16m - 12 \leq 0 \ /\ :4 \)
+
+\(-m^2 + 4m - 3 \leq 0 \)
+
+\(\Delta = 16 - 12 = 4 \qquad \sqrt{\Delta} = 2 \)
+
+\( m_1 = \frac{-4 + 2}{-2} = 1 \)
+
+\( m_2 = \frac{-4 - 2}{-2} = 3 \)
+
+\( m \in (-\infty, 1 \rangle \cup \langle 3, +\infty) \)
+
+\(\underline{m \in (-\infty, 1 \rangle \cup \langle 3, +\infty)}\)
+
+Odp: \( m \in (-\infty, 1 \rangle \)

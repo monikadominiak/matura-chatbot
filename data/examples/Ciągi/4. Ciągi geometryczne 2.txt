@@ -1,0 +1,95 @@
+
+--- STRONA 1 ---
+4. Ciągi geometryczne 2
+
+Wyznacz wzór ogólny monotonicznego ciągu geometrycznego \( a_n \)
+
+\[ 
+\begin{cases}
+a_2 \cdot a_4 = 1 \\
+a_2^2 + a_3^2 = 5 
+\end{cases}
+\]
+
+\((1) \quad \textcolor{cyan}{\text{Rozwiązujemy układ równań.}}\)
+
+\[
+\begin{cases}
+\phantom{a_2 \cdot} a_2 \cdot a_4 = 1 \\
+\phantom{a_2^2 +} a_2^2 + a_3^2 = 5 
+\end{cases}
+\]
+
+\[
+\begin{aligned}
+a_2, q : a_2q = 1 \\
+a_2^2q^2 + a_2^2q^4 = 5 
+\end{aligned}
+\]
+
+\[
+\begin{cases}
+a_2^2q^4 = 1 \quad \Rightarrow \quad a_1^2 = \frac{1}{q^4}, \quad \text{dla} \quad q^4 \neq 0 \quad \Rightarrow \quad q \neq 0 \\
+a_2^2(q^2 + q^4) = 5 \quad \Rightarrow \quad a_1^2 = \frac{5}{q^2 + q^4}, \quad \text{dla} \quad q^2 + q^4 \neq 0
+\end{cases}
+\]
+
+\[
+q^2 (1 + q^2) \neq 0 
+\]
+\[
+q \neq 0 \quad \land \quad q^2 \neq -1 \quad q \in \mathbb{R}
+\]
+
+\[
+\frac{1}{q^4} = \frac{5}{q^2 + q^4}
+\]
+
+\[
+5q^4 = q^2 + q^4
+\]
+
+\[
+4q^4 - q^2 = 0
+\]
+
+\[
+q^2(4q^2 - 1) = 0
+\]
+
+\[
+q = 0 \cancel{D} \quad \lor \quad 4q^2 = 1
+\]
+
+\[
+q^2 = \frac{1}{4}
+\]
+
+\[
+q = \frac{1}{2} \quad \lor \quad q = -\frac{1}{2}
+\]
+
+\(\textcolor{green}{\text{Aby ciąg geometryczny był monotoniczny, }} q > 0.\)
+
+\[
+a_2^2 = \frac{1}{q^4}
+\]
+
+\[
+a_n^2 = \frac{1}{16} = 16
+\]
+
+\[
+a_n = \frac{1}{4}
+\]
+
+--- STRONA 2 ---
+2️⃣ Korzystamy ze wzoru na n-ty wyraz ciągu geometrycznego.
+
+\[ a_n = a_1 \cdot q^{n-1} \]
+
+Dla \( a_1 = 4 \) : \( a_n = 4 \cdot \left( \frac{1}{2} \right)^{n-1} \)
+
+Dla \( a_1 = -4 \) : \( a_n = -4 \cdot \left( \frac{1}{2} \right)^{n-1} \)
+
+Odp.: \( a_n = 4 \cdot \left( \frac{1}{2} \right)^{n-1} \) lub \( a_n = -4 \cdot \left( \frac{1}{2} \right)^{n-1} \).

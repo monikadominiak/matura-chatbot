@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+Zadanie 21 (6.0) Odcinek AB o końcach A(-8,-2) i B(-8,6) jest przeciwprostokątną trójkąta prostokątnego ABC. Środek D wysokości poprowadzonej z wierzchołka C dzieli przeciwprostokątną AB na takie odcinki AD i DB, że |AD|:|DB| = 5 : 3. Wyznacz współrzędne wierzchołka C.
+
+1) Tworzymy rysunek poglądowy:
+
+2) Wyznaczamy punkt D z definicji odcinka:
+
+\[\overline{AB}=[-8,-8,-2,6]=[\overline{E_k,E_g}]\]
+
+\[D(x_0,y_0)\]
+
+\[\overline{AD}=\frac{5}{8}\cdot \overline{AB}=[E_O,5]\]
+
+\[x_0=x_1\]
+
+\[\overline{AD}=[x_1,x_1,y_0,x_2]\]
+
+\[E_O,[0,5]:[-E_{x_2},y_0+x_2]\]
+
+\[x_0=x_1,y_0=x_5\]
+
+\[D(2,4)\]
+
+3) Wyznaczamy równanie prostej AB, a następnie prostopadłej jej prostej DC.
+
+pr. \[AB: y=a(x-x_0)\]
+
+A(-8,-2) ∉ pr. \[AB → x_1 → x_2 → x_1^{-1}\]
+
+B(-8,6) ∉ pr. \[AB → x_2 → 6=x_0\]
+
+-2=8+x
+
+6=x-8+x
+
+\[\frac{x}{2} + b = 8-x → x = -\frac{1}{2}\]
+
+pr. \[AB: y=-\frac{1}{2}x=2\]
+
+4) Wyznaczamy punkt C z tw. Pitagorasa.
+
+\[C(x_E,y_T)\]
+
+\[|ac^2|:|bc^2|:|AB^2|\]
+
+\[\left|ac\right|=\sqrt{(x-b)^2+(x-c)^2}\]
+
+\[\sqrt{(x-b)^2+(z_c^2)+x^2}\]
+
+(x-b)^2:-(z_c)=2x(x_0^2)(y_0)+320
+
+(x-6)+[(x)+(x*x)+b(x_1-x0)^2]:[\left(x-6\right)^2+(b_y-x_1)^2]200
+
+x(x):04x^2-210=320
+
+x(x)+x(x)-x_1=ALD
+
+b^2=x-M-10=0
+
+AD-10(10+f_6)-10 : (x=201)
+
+x=-6=(x-6)=0
+
+x_a=10+6(x-9(x_1):[<a^0^5]\[
+
+x_a=-\frac{-aR}{-2} : ∃
+
+x_a-2=2-(x=7-w(m)b=1=3_2(200+8 (x-7)=3-2\sqrt{5}
+
+Odp. \[C=(x-2\sqrt{5},3-2\sqrt{5})\] lub \[C=(-2\sqrt{15},3-2\sqrt{5})\]

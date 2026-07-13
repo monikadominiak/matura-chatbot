@@ -1,0 +1,13 @@
+=== ARKUSZ: 2019p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Para liczb x = 2 i y = 2 jest rozwiązaniem układu równań { ax + y = 4 { -2x + 3y = 2a dla A. a = -1 B. a = 1 C. a = -2 D. a = 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

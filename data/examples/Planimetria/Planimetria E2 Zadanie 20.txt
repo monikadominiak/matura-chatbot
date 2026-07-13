@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+Zad. 20 Na trapezie o podstawach długości 16 cm i 8 cm oraz wysokości 8 cm opisano  
+okrąg; jego środek leży wewnątrz trapezu. Oblicz odległość środka okręgu od  
+wszystkich boków trapezu.
+
+1) Tworzymy rysunek poglądowy:
+
+h = e + g = 8  
+e = 8 - g
+
+2) Korzystamy z tw. Pitagorasa:
+
+e^2 + g^2 = R^2 => (8 - g)^2 + 64 = R^2 => g^2 - 16g + g^2 + 64 = R^2  
+g^2 + 4^2 = R^2
+
+g^2 + 16 = 64 - 16g + g^2 + 64  
+16g = 112 / :16  
+g = 112/16 = 56/8 = 7 => e = 8 - 7 = 1
+
+R^2 = 16 + 7^2 = 65  
+R = sqrt(65)
+
+y = (|AB| + |CD|)/2 = (16 + 8)/2 = 4
+
+y^2 + h^2 = 4x^2  
+16 + 64 = 4x^2  
+x^2 = 20  
+x = 2sqrt(5)
+
+f^2 + x^2 = R^2  
+f^2 + 20 = 65  
+f^2 = 45  
+f = sqrt(45) = 3sqrt(5)
+
+Odp. e = 1 cm, g = 7 cm, f = 3sqrt(5) cm  

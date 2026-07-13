@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+z6 (tn)  
+Funkcja f jest określona wzorem f(x) = cos x ⋅ tgx dla x ∈ ⟨−π, 2π⟩:  
+a) Naszkicuj wykres funkcji f  
+b) Podaj miejsca zerowe funkcji f  
+c) Podaj zbiór wartości funkcji f  
+d) Podaj zbiór argumentów, dla których f(x) > 0  
+
+Tangens we wzorze ma znaczenie dla dziedziny funkcji f(x).  
+
+① Wyznaczamy dziedzinę f(x).  
+D: x ≠ π/2 + kπ, k ∈ ℤ  
+D: x ∈ ⟨−π, 2π⟩ \ {−π/2, π/2, 3π/2}  
+
+Wzór funkcji f(x) można przekształcić korzystając ze wzoru tgx = sinx/cosx  
+
+② Przekształcamy wzór funkcji f(x).  
+f(x) = cosx ⋅ tgx = cosx ⋅ sinx/cosx = sinx  
+czyli f(x) = sinx ; x ∈ ⟨−π, 2π⟩ \ {−π/2, π/2, 3π/2}  
+
+a) ③ Szkicujemy wykres f(x).  
+
+b) ④ Odczytujemy miejsca zerowe.  
+x = −π , x = 0, x = π, x = 2π  
+
+c) ⑤ Odczytujemy zbiór wartości  
+2W = ⟨−1, 1⟩  
+
+d) ⑥ Odczytujemy argumenty, dla których f(x)>0.  
+f(x)>0 : x ∈ (0, π/2) ∪ (π/2, π)  
+
+Odp.: Miejsca zerowe : x∈{−π,0,π,2π}, 2W=⟨−1,1⟩, f(x)>0 : x ∈ (0,π/2) ∪ (π/2,π).

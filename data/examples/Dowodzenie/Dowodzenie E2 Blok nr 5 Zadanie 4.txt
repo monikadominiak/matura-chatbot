@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Wykaż, że dla dowolnego kąta α prawdziwa jest równość: 
+
+4(sin^6α + cos^6α) = 1 + 3cos^22α
+
+teza: 4(sin^6α + cos^6α) = L + 3cos^22α
+
+1️⃣ przekształcamy lewą stronę równania
+
+L = 4(sin^6α + cos^6α) = 4[(sin^2α)^3 + (cos^2α)^3] = 4(sin^2α + cos^2α)(sin^4α - sin^2αcos^2α + cos^4α) =
+= 4 * 1[(sin^2α + cos^2α)^2 - 3sin^2αcos^2α] = 4 - 12sin^2αcos^2α = 𝜌
+
+2️⃣ przekształcamy prawą stronę równania
+
+𝜌 = L + 3cos^22α = L + 3(cos^2α - sin^2α)^2
+= L + 3(1 - 4cos^2αsin^2α) = 4 - 12sin^2αcos^2α = 𝐋 
+
+zatem L = 𝜌  c.k.d.

@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0-1)
+Funkcja liniowa f określona wzorem f(x) = 2x + b ma takie samo miejsce zerowe, jakie ma funkcja liniowa g(x) = -3x + 4. Stąd wynika, że
+A. b = 4
+B. b = -3/2
+C. b = -8/3
+D. b = 4/3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 10. (0-1) Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji liniowej (4.7).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A

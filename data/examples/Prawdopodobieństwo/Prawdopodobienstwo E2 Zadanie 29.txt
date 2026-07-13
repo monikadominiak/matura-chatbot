@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Ze zbioru {1, 2, 3, 4, 5, 6, 7, 8, 9} losujemy kolejno, bez zwracania dwie liczby. Oblicz prawdopodobieństwo, że druga z wylosowanych liczb będzie nieparzysta, jeśli wiadomo, że pierwsza z wylosowanych liczb jest parzysta.
+
+1️⃣ analizujemy polecenie
+
+zbiór: {1, 2, 3, 4, 5, 6, 7, 8, 9} - 9 elementów
+
+dwie liczby, bez zwracania 
+
+wiadomo, że pierwsza parzysta - B
+
+A - druga nieparzysta
+
+P(A|B) = P(A ∩ B) / P(B) = |A ∩ B| / |B|
+
+A ∩ B - druga nieparzysta i pierwsza parzysta
+
+2️⃣ obliczamy moce zdarzeń A ∩ B i B
+
+|B| = 4 ∙ 8 = 32  
+P  P
+
+|A ∩ B| = 4 ∙ 5 = 20  
+P  NP
+
+3️⃣ liczymy P(A|B)
+
+P(A|B) = 20 / 32 = 5 / 8
+
+Odp: 5 / 8

@@ -1,0 +1,66 @@
+
+--- STRONA 1 ---
+z4 (4.1, 2.1)
+
+Wyznacz te wartości parametru m, dla których równanie \(\frac{x^2+8x+m}{x+3} = 0\) ma jedno rozwiązanie.
+
+Uwaga:
+
+Podstawiając do równania liczbę wykluczoną z dziedziny otrzymamy pewną wartość m. Trzeba dla tej wartości m osobno określić ilość rozwiązań. Równanie wcale nie musi być wtedy sprzeczne Aby móc ocenić liczbę rozwiązań równania docelowego sprowadzimy je do postaci równania kwadratowego.
+
+① Sprawdzamy ile rozwiązań ma równanie gdy za x podstawimy liczbę wykluczoną z dziedziny.
+
+D: \(x+3 \neq 0\)
+\(x \neq -3\)
+D = R\{-3\}
+
+\(\frac{x^2+8x+m}{x+3} = 0 \ \vert \cdot (x+3)\)
+\[x^2+8x+m = 0\]
+
+W przypadku \(x=-3\) mamy:
+\[(-3)^2+8 \cdot (-3)+m = 0\]
+\[m = 15\]
+
+Wstawiając \(m=15\) do początkowego równania mamy:
+\(\frac{x^2+8x+15}{x+3} = 0 \ \vert (x+3), \ x \neq -3\)
+
+\[x^2+8x+15=0\]
+
+\(\Delta = 64-60=4\)
+\[x_1 = \frac{-8-2}{2} = -5\]
+\[x_2 = \frac{-8+2}{2} = -3 \notin D\]
+
+Czyli równanie dla \(m=15\) ma 1 rozwiązanie \((-5)\)
+
+--- STRONA 2 ---
+Wyjaśnienie:
+
+Dla m=15 równanie nie jest sprzeczne sprowadza się do postaci:
+
+(x^2+8x+15)/(x+3) = 0 , x≠-3
+
+(x+5)(x+3)/(x+3) = 0
+
+x+5=0 -> x=-5
+
+m=15 jest przyjmowane dla x=-3, czyli argumentu dla którego równanie jest sprzeczne. Mimo tego po podstawieniu m=15 otrzymujemy równanie liniowe z 1 rozwiązaniem, a nie sprzeczne, ponieważ skrócił się czynnik odpowiedzialny za zerowanie się mianownika.
+
+2️⃣ Sprawdzamy liczbę rozwiązań równania kwadratowego.
+
+x^2+8x+m=0 , x≠-3 , m=15
+
+Dla m=15 uzyskaliśmy równanie liniowe z jednym rozwiązaniem, więc teraz już nie bierzemy pod uwagę tej wartości m.
+
+Aby równanie kwadratowe miało 1 rozwiązanie musi zajść Δ=0.
+
+Δ=0: 64-4⋅1⋅m=0
+
+m=16
+
+3️⃣ Łączymy oba rozwiązania.
+
+\{m=15 ⟶ m ∈⟨15,16⟩
+
+m=16
+
+Odp.: m ∈⟨15,16⟩.

@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Powierzchnia kulistego balonu po dopompowaniu zwiększyła się o 44%. O ile procent wzrosła objętość balonu?
+
+1️⃣ Liczymy pole powierzchni i objętość dla wyjściowego balonu (balon nr 1)
+
+\( r, P_1, V_1 \)
+
+\( P_1 = 4\pi r^2 \)
+
+\( V_1 = \frac{4}{3} \pi r^3 \)
+
+2️⃣ Liczymy objętość balonu po dopompowaniu (balon nr 2)
+
+\( R, P_2, V_2 \)
+
+\( P_2 = 1,44 P_1 \)
+
+(144% \( P_1 \))
+
+3️⃣ Wyznaczamy \( R \) i \( V_2 \) z użyciem \( r \)
+
+\( 4\pi R^2 = 1,44 \cdot 4\pi r^2 \quad /:4\pi \)
+
+\( R^2 = 1,44 r^2 \)
+
+\( R = 1,2 r \)
+
+\( V_2 = \frac{4}{3} \pi (1,2 r)^3 \)
+
+4️⃣ Liczymy stosunek \( \frac{V_2}{V_1} \)
+
+\[
+\frac{V_2}{V_1} = \frac{\frac{4}{3} \pi \cdot 1,728 r^3}{\frac{4}{3} \pi \cdot r^3} = 1,728 \Rightarrow 72,8%
+\]
+
+Odp: o 72,8%

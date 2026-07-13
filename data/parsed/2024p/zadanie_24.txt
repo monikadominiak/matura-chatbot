@@ -1,0 +1,15 @@
+=== ARKUSZ: 2024p | ZADANIE 24 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 24. (0–2)
+W kartezjańskim układzie współrzędnych (x, y) dany jest równoległobok ABCD, w którym A = (−2, 6) oraz B = (10, 2). Przekątne AC oraz BD tego równoległoboku przecinają się w punkcie P = (6, 7).
+
+Oblicz długość boku BC tego równoległoboku. Zapisz obliczenia.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+**W czworościanie, którego krawędzie mają taką samą długość a, umieszczono kulę tak, że ma ona dokładnie jeden punkt wspólny z każdą ścianą czworościanu. Płaszczyzna π, równoległa do podstawy tego czworościanu, dzieli go na dwie bryły: ostrosłup o objętości równej \(\frac{27}{125}\) objętości dzielonego czworościanu i ostrosłup ścięty. Oblicz odległość środka \(S\) kuli od płaszczyzny π, tj. długość najkrótszego spośród odcinków \(SP\), gdzie \(P\) jest punktem płaszczyzny π.**
+
+1. sporządzamy rysunek pomocniczy
+
+\( |SP| = ? \)
+
+\( S \) – środek kuli
+
+\( |SG| \) – promień kuli
+
+2. zaczynamy od policzenia wysokości \( |DG| \) z tw. Pitagorasa
+
+\[ |DG|^2 = |AO|^2 - |AG|^2 \]
+
+\[ a^2 \; ? \]
+
+\[ |AG| = \frac{2}{3} h_{\Delta ABC} = \frac{2}{3} \cdot \frac{a\sqrt{3}}{2} = a\frac{\sqrt{3}}{3}\]
+
+\(\uparrow \Delta \) równoboczny
+
+zatem: 
+\[ |DG|^2 = a^2 - \frac{3a^2}{9} = \frac{9a^2}{9} - \frac{3a^2}{9} = \frac{6a^2}{9} \]
+
+\[ |DG| = \frac{a\sqrt{6}}{3} \]
+
+3. liczymy odcinek \(|DS|,\) korzystając z podobieństwa
+
+\(\Delta DGE \sim \Delta DFS\) z cechy kkk
+
+więc: 
+\[\frac{|DG|}{|DF|} = \frac{|DF|}{|DS|},\] gdzie \(|DG| = \frac{a\sqrt{6}}{3}, \; |DE| = \frac{a\sqrt{3}}{2}, \; |DF| = |AG| = \frac{a\sqrt{3}}{3}\]
+
+\[ |DS| = \frac{|DE| \cdot |DF|}{|DG|} = \frac{\frac{a\sqrt{3}}{2} \cdot \frac{a\sqrt{3}}{3}}{\frac{a\sqrt{6}}{3}} = \frac{3a^2}{2\sqrt{6}} = \frac{3a}{2\sqrt{6}} = \frac{a\sqrt{6}}{4}\]
+
+4. wykorzystujemy informację o objętości
+
+\[ V_n = \frac{27}{125} V, \]
+
+\( V_n \) – objętość małego ostrosłupa
+
+\( V \) – objętość ostrosłupa \( ABCD \)
+
+mały czworościan jest podobny do czworościanu \( ABCD \) w skali równej \( k, \) gdzie \( k^3 = \frac{27}{125}\Rightarrow  k = \frac{3}{5} \)
+
+zatem 
+\[ |DP| = \frac{3}{5} |DG| \Rightarrow \frac{3}{5} \cdot \frac{a\sqrt{6}}{3} = \frac{a\sqrt{6}}{5} \]
+
+5. liczymy szukaną długość:
+
+\[ |SP| = |DS| - |DP| = \frac{a\sqrt{6}}{4} - \frac{a\sqrt{6}}{5} = \frac{5a\sqrt{6} - 4a\sqrt{6}}{20} = \frac{a\sqrt{6}}{20} \]
+
+Odp: \(|SP| = \frac{a\sqrt{6}}{20}\)

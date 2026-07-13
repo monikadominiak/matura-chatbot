@@ -1,0 +1,17 @@
+=== ARKUSZ: 2024p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0–2)
+Wykaż, że dla każdej liczby naturalnej n ≥ 1 liczba
+
+n^2 + (n + 1)^2 + (n + 2)^2
+
+przy dzieleniu przez 3 daje resztę 2.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

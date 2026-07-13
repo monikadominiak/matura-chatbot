@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Zadanie z1 (8.6) Boki AB i AD czworokąta ABCD, który wpisany jest w okrąg, mają długość równą długości przekątnej BD. Oblicz miarę kąta BCD tego czworokąta.
+
+1) Tworzymy rysunek poglądowy:
+
+[Obrazek z trójkątem w okręgu]
+
+1∢BAD| + |∢BCD| = 180°
+
+60° + |∢BCD| = 180°
+
+|∢BCD| = 120°
+
+Trójkąt który tworzą boki AB, AD i BD jest równoboczny.
+
+Aby czworokąt można było wpisać w okrąg, jego sumy kątów przeciwnych muszą być równe 180 stopni.
+
+Odp. |∢BCD| = 120°.

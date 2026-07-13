@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Zadanie 9 [3pkt] – TYP NIESTANDARDOWY  
+Oblicz wartość parametru m tak, aby w wielomianie  
+\( W(x) = (x^2 - 2x + m)(x^2 + mx + 3) \) współczynnik liczbowy przy \( x^3 \) był równy 5.
+
+\( W(x) = (x^2 - 2x + m)(x^2 + mx + 3) = \)  
+\(\ \ \ \ \ = x^4 + mx^3 + 3x^2 - 2x^3 - 2mx^2 - 6x +\)  
+\(\ \ \ \ \ \ \ \ \ + mx^2 + mx + 3m =\)  
+\(\ \ \ \ \ = x^4 + mx^3 - 2x^3 + 3x^2 - mx^2 - 6x + mx^2 + 3m =\)  
+\(\ \ \ \ \ = x^4 + (m-2)x^3 + (3-m)x^2 + (m^2-6)x + 3m\)  
+
+Współczynnik przy \( x^3 \) ma być równy 5, zatem:
+
+\(\ \ \ \ \ m - 2 = 5 \ \ \ \ |+2\)  
+\(\ \ \ \ \ m = 7 \)  
+
+Odp: \( m = 7. \)

@@ -1,0 +1,93 @@
+
+--- STRONA 1 ---
+Zad. 5 Wyznacz równania prostych przechodzących przez punkt A(-2, 4), które tworzą z prostą k: -3x + 2y + 1 = 0 kąt o mierze 45 stopni.
+
+a) Wyznaczamy postać kierunkową prostej k, a na jej podstawie współczynniki kierunkowy szukanej prostej:
+
+k: -3x + 2y + 1 = 0
+
+k: 2y = 3x - 1
+
+k: y = (3/2)x - 1/2 , m₁ = 3/2
+
+I sposób: Wzór na kąt między prostymi:
+
+tg 45° = |(a₁-a₂) / (1+a₁a₂)|
+
+tg α = |(a₁-a₂) / (1+a₁a₂)|
+
+|1/2 - a / 1 + (3/2)a| = 1
+
+| (1/2-a) / (1+(3/2)a)| = 1
+
+|1/2-a| = |1+(3/2)a|
+
+1/2 - a = 1 + (3/2)a ∨ 1/2 - a = -1 - (3/2)a
+
+1/2 - a = 1 + (3/2)a
+
+1/2 - 1 = (3/2)a + a
+
+-1/2 = (5/2)a
+
+a = -1/5
+
+1/2 - a = -1 - (3/2)a
+
+1/2 + 1 = a - (3/2)a
+
+3/2 = -1/2a
+
+a = -3
+
+a = -5
+
+II sposób: ze wzoru na różnicę kątów w tangensie:
+
+tg (α-β) = (tg α-tg β)/(1+tg α tg β)
+
+tg α = a₁, tg β = a₂
+
+tg (α-β) = (a₁-a₂)/(1+a₁a₂)
+
+1/5 = (3/2-a)/1+(3/2)a
+
+∧ 1/5 = (a-3/2)/(1+3/2a)
+
+m₁y = y = ax + b
+
+m₁ = 1/5 ℓ
+
+1/2 - a = 1 + (3/2)a
+
+Uwaga: Tego wzoru nie ma w karcie wzorów na formatę 2023.
+
+3/2 = -1/2a
+
+a = -3
+
+1/2 - a = -1 - (3/2)a
+
+3/2 = 1/2a
+
+a = -5
+
+b) Podstawiamy punkt A i wyznaczamy oba przykłady szukanej prostej (prosta m):
+
+A (-2, 4) ∈ m₁: y = 5x + b
+
+4 = -2 * 5 + b
+
+b = 14
+
+A (-2, 4) ∈ m₂: y = -5x + b
+
+4 = -5 * -2 + b
+
+b = -6
+
+m₁: y = 5x + 14
+
+m₂: y = -5x - 6
+
+Odp. m₁: y = 5x + 14 lub m₂: y = -5x - 6.

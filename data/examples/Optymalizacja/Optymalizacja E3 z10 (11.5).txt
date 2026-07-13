@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+Odcinek łączący środki dwóch skośnych krawędzi podstaw graniastosłupa prawidłowego czworokątnego ma długość d. Jaką wysokość powinien mieć ten graniastosłup, aby pole jego powierzchni bocznej było maksymalne?
+
+1) uzależniamy od siebie zmienne
+
+2x = a√2  
+x = a√2/2
+
+H^2 + (a√2/2)^2 = d^2  
+H^2 = d^2 - a^2/2  
+H = √(d^2 - a^2/2)
+
+2) zapisujemy wzór funkcji
+
+P(a) = 4a√(d^2 - a^2/2) = 4√2ad^2 - 2a^4
+
+3) wyznaczamy dziedzinę funkcji
+
+0 < H < d,  x < d  
+√2/2 a < d  ⇒  a ∈ (0, d√2)
+
+4) wyznaczamy pochodną funkcji
+
+funkcja f(a)=a jest rosnąca w przedziale (0;+∞),  
+więc funkcja g(a)=a będzie osiągąć wartość największą dla tego samego argumentu co d(g(a))
+
+niech k(a) = a^2d^2 - 1/2a^4  
+k'(a) = 2d^2a - 2a^3
+
+5) wyznaczamy miejsca zerowe pochodnej
+
+k'(a) = 0  ⇔  2d^2a - 2a^3 = 0  
+-2a(a^2 - d^2) = 0  
+a = 0  ∨  a = d  ∨  a = -d
+
+6) badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+              +           0                 -
+ ----->   ( --------------o---------------o------------> a
+          -d          0   max      d     monoton  
+
+II sposób:
+
+a           (0, d)    d    (d, √2d)  
+k'(a)          +      0     -  
+k(a)  ↗  max.lok.  ↘  
+
+Funkcja K(a), a więc również P(a) osiąga w swojej dziedzinie wartość największą dla argumentu a = d
+
+7) obliczamy wartość H
+
+H = √(d^2 - d^2/2) = d/√2 = d√2/2
+
+Odp: H = (d√2)/2

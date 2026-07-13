@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+z1 (5.1)
+
+Podane miary stopniowe kątów wyraź w radianach, bądź odwrotnie.
+
+a) 18°   b) 5°   c) 0,75π   d) \(\frac{5\pi}{6}\)
+
+a) ① Zamieniamy stopnie na radiany
+
+\(180^\circ = \pi\)
+
+\(18^\circ = x\)
+
+\(x = \frac{18^\circ \cdot \pi}{180^\circ} = \frac{1}{10} \pi\)
+
+Odp.: \(18^\circ = \frac{1}{10} \pi\).
+
+b) ① Zamieniamy stopnie na radiany
+
+\(180^\circ = \pi\)
+
+\(5^\circ = x\)
+
+\(x = \frac{5^\circ \cdot \pi}{180^\circ} = \frac{1}{36} \pi\)
+
+Odp.: \(5^\circ = \frac{1}{36} \pi\).
+
+c) ① Zamieniamy radiany na stopnie.
+
+\(180^\circ = \pi\)
+
+\(x = 0,75\pi\)
+
+\(x = \frac{180^\circ \cdot 0,75\pi}{\pi} = 135^\circ\)
+
+Odp.: \(0,75\pi = 135^\circ\).
+
+d) ① Zamieniamy radiany na stopnie.
+
+\(180^\circ = \pi\)
+
+\(x = \frac{5}{6}\pi\)
+
+\(x = \frac{180^\circ \cdot \frac{5}{6}\pi}{\pi} = 150^\circ\)
+
+Odp.: \(\frac{5}{6} \pi = 150^\circ\).

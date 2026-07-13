@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12. (0-1)
+Wykresem funkcji kwadratowej $f(x)=3x^{2}+bx+c$ jest parabola o wierzchołku w punkcie $W=(-3,2)$ Wzór tej funkcji w postaci kanonicznej to
+A. $f(x)=3(x-3)^{2}+2$
+B. $f(x)=3(x+3)^{2}+2$
+C. $f(x)=(x-3)^{2}+2$
+D. $f(x)=(x+3)^{2}+2$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

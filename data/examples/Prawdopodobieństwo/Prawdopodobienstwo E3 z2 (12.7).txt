@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+W urnie są dwie kule białe i sześć kul czarnych. Losujemy dwie kule bez zwracania. Które ze zdarzeń jest bardziej prawdopodobne: wyciągnięcie kul o różnych kolorach czy wyciągnięcie kul tego samego koloru? Ile należy dołożyć kul białych, aby te zdarzenia były jednakowo prawdopodobne?
+
+1️⃣ analizujemy polecenie
+
+2B 6C
+
+losujemy 2 bez zwracania
+A - kule różnych kolorów
+B - kule tego samego koloru
+
+2️⃣ liczymy moc Ω (taka sama dla A i B)
+
+\overline{\Omega} = \binom{8}{2} = \frac{8!.7!}{2!.6!} = 28
+
+3️⃣ liczymy moce zdarzeń A i B
+
+\overline{A} = \binom{6}{1} \binom{2}{1} = 12
+
+\overline{B} = \binom{2}{2} + \binom{6}{2} = 16
+
+4️⃣ liczymy i porównujemy P(A) i P(B)
+
+P(A) = \frac{12}{28} = \frac{3}{7}
+
+P(B) = \frac{16}{28} = \frac{4}{7}
+
+Odp: bardziej prawdopodobne jest zd. B
+
+5️⃣ dokładamy n kul białych, n ∈ ℕ+
+aby P(A) = P(B)
+
+\overline{A}_n \to różne kolory
+\overline{B}_n \to takie same
+
+\overline{A}_n = \binom{6}{1} \binom{2+n}{1} = 6n + 12
+
+\overline{B}_n = \binom{n+2}{2} + \binom{6}{2} = \frac{n+2)(n+2)}{2} + 15
+
+chcemy: \frac{\overline{A}_n}{\overline{\Omega}} = \frac{\overline{B}_n}{\overline{\Omega}}, \overline{\Omega} można pominąć
+
+6n + 12 = \frac{n^2 + 3n + 2}{2} + 15 / \cdot 2
+
+12n + 24 = n^2 + 3n + 2 + 30
+
+n^2 - 9n + 8 = 0
+
+(n-1)(n-8) = 0
+
+n = 1 ∨ n = 8
+
+Odp: 1 lub 8

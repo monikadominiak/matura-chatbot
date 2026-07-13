@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 6 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 6. (0-1)
+Zbiorem wszystkich rozwiązań nierówności $frac{2-x}{2}-2xge1$ jest przedział
+A. $langle0,+infty)$
+B. $(-infty,0)$
+C. $(-infty,5)$
+D. $(-infty,frac{1}{3})$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+**Zadanie z4 (8.5)** Krótszy bok równoległoboku ma długość 3. Dwa okręgi o promieniu 1 wpisano w równoległobok w taki sposób, że oba okręgi są styczne zewnętrznie i każdy z nich jest styczny do trzech boków równoległoboku. Oblicz długość dłuższego boku równoległoboku.
+
+1) Opisujemy i analizujemy rysunek:
+
+Z tw. o stycznych wiemy, że:
+
+|NE|=|AJ|, |JD|=|DI|, |FB|=|BG|, |GC|=|CH|
+
+Jednocześnie można łatwo zauważyć, że trapezy AED i BCHF są przystające. Czyli:
+
+|AE|=|AJ|=|GC|=|CH| i |JD|=|DI|=|FB|=|BG|
+
+To prowadzi do wniosku, że:
+
+|AB|=(3-x)+2+x=5
+
+Odp. |AB|=5.

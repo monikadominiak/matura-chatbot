@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+Przekrój ostrosłupa prawidłowego czworokątnego płaszczyzną przechodzącą przez jego wierzchołek i przekątną podstawy jest trójkątem równobocznym o polu P. Wyznacz objętość tego ostrosłupa.
+
+1) sporządzamy rysunki pomocnicze
+
+2) wyznaczamy x korzystając z pola P
+
+p_przekroju = P = \frac{x^2 \sqrt{3}}{4}
+
+x^2 = \frac{4}{\sqrt{3}} P
+
+x = \frac{2 \sqrt{P}}{\sqrt{3}} = 2 \frac{\sqrt{P}}{\sqrt{3}}
+
+3) wyznaczamy wysokość ostrosłupa (równą wysokości przekroju)
+
+h_p = x \frac{\sqrt{P}}{\sqrt{3}} \cdot \frac{\sqrt{3}}{2} = \frac{\sqrt{3P}}{\sqrt{3}}
+
+i pole podstawy
+
+\begin{align*}
+p_p &= \left(\frac{x \sqrt{2}}{2}\right)^2 = \frac{x^2}{4} 2 
+= \frac{x^2}{2} = \frac{1}{2} \left(2 \frac{\sqrt{P}}{\sqrt{3}}\right)^2
+\end{align*}
+
+4) wyznaczamy objętość ostrosłupa
+
+\begin{align*}
+V &= \frac{1}{3} p_p \cdot H \\
+V &= \frac{1}{3} \cdot \frac{1}{2} \left(2 \frac{\sqrt{P}}{\sqrt{3}}\right)^2 \cdot \frac{\sqrt{3P}}{\sqrt{3}} \\
+&= \frac{1}{3} \cdot \frac{4P}{3} \cdot \frac{\sqrt{3 P}}{\sqrt{3}} \\
+&= \frac{2}{3} P \cdot \frac{\sqrt{P}}{\sqrt{3}} = \frac{2}{3} P \cdot \sqrt{\frac{P}{3}} \\
+\\
+\text{[j}^3\text{]}
+\end{align*}
+
+odp: V = \frac{2}{3} P \cdot \sqrt{\frac{3P}{3}}

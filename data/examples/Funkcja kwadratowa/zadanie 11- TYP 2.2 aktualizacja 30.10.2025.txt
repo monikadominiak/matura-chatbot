@@ -1,0 +1,81 @@
+
+--- STRONA 1 ---
+```
+Zadanie 11 [5 pkt]- TYP 2.2
+Wyznacz wszystkie wartości parametru m, dla których rozwiązania 
+równania x^2 + mx + m + 2 = 0 spełniają warunek 
+x1^2x2 + x1x2^2 > 10x1 + 10x2.
+
+x^2 + mx + m + 2 = 0
+
+a = 1
+b = m
+c = m + 2
+
+❶ Zapisanie warunków wynikających z treści
+  zadania.
+
+1° Δ > 0 < dwa rozwiązania traktujemy
+  tak, jak dwa różne rozwiązania
+
+2° x1^2x2 + x1x2^2 > 10x1 + 10x2
+
+❷ Rozwiązanie pierwszego z warunków
+
+1° Δ > 0
+   Δ = b^2 - 4ac
+
+m^2 - 4·1·(m + 2) > 0
+m^2 - 4m - 8 > 0
+
+    2
+Δm = (-4)^2 - 4·1·(-8)
+    Δm = 16 + 32 = 48
+sqrt(Δm) = sqrt(48) = sqrt(16·3) = 4√3
+
+am = 1
+bm = -4
+cm = -8
+
+m1 = (-b - √Δ) / 2a
+m2 = (-b + √Δ) / 2a
+
+m1 = (-(-4) - 4√3) / 2 = 2 - 2√3 ≈1,5
+m2 = (-(-4) + 4√3) / 2 = 2 + 2√3 ≈5,5
+
+m ∈ (-∞, 2 - 2√3) ∪ (2 + 2√3; ∞)
+
+❸ Rozwiązanie drugiego z warunków
+
+2° x1^2x2 + x1x2^2 > 10x1 + 10x2
+
+x1·x2 (x1 + x2) > 10(x1 + x2)
+
+Korzystamy ze wzorów Viete'a
+
+x1 + x2 = -b/a
+x1 · x2 = c/a
+
+(m+2)/1 ·(-m)/1 > 10·(-m/1)
+
+(m + 2)(-m) > -10m |+10m
+-m^2 - 2m + 10m > 0
+-m^2 + 8m
+m(-m + 8) > 0
+
+m=0    -m + 8 = 0
+m = 8
+
+m ∈ (0, 8)
+```
+
+--- STRONA 2 ---
+4) Wyznaczenie części wspólnej obu przedziałów
+
+1° m ∈ (-∞;2-2√3) ∪ (2+2√3;∞)
+
+2° m ∈ (0,8)
+
+Ostatecznie: m ∈ (2+2√3;∞)
+
+Odp: m ∈ (2+2√3;∞).

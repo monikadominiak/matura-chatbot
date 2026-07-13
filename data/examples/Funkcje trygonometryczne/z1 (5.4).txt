@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+z1 (5.4)
+
+Uprość wyrażenie:
+
+a) cos( \frac{3\pi}{2} + \alpha ) \quad \text{b) sin} \left( \alpha - \frac{\pi}{2} \right)
+
+Należy zastosować wzory redukcyjne oraz niekiedy skorzystać z tego, czy dana funkcja trygonometryczna jest parzysta lub nieparzysta.
+
+a) ➊ Korzystamy ze wzorów redukcyjnych i obliczamy wyrażenie
+
+\cos \left( \frac{3\pi}{2} + \alpha \right) = \cos( 270^\circ + \alpha ) = \sin \alpha
+
+\text{Odp.:} \; \cos \left( \frac{3\pi}{2} + \alpha \right) = \sin \alpha.
+
+b) ➊ Korzystamy ze wzorów redukcyjnych i obliczamy wyrażenie
+
+\sin \left( \alpha - \frac{\pi}{2} \right) = \sin ( \alpha - 90^\circ ) = - \sin ( 90^\circ - \alpha ) = - \cos \alpha
+
+\text{Odp.:} \; \sin \left( \alpha - \frac{\pi}{2} \right) = - \cos \alpha.

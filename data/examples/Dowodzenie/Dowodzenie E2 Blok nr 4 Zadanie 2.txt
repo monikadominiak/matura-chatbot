@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+W trójkącie boki mają długości a, b, c, natomiast miary kątów są odpowiednio równe α, β, γ. Wykaż, że jeśli a⋅cosβ = b⋅cosα, to trójkąt ten jest równoramienny.
+
+1️⃣ tworzymy rysunek poglądowy
+
+założenie:
+a⋅cosβ = b⋅cosα
+
+teza:
+△ABC - równoramienny
+
+(UWAGA: na rysunku są domyślne oznaczenia dla △ABC, gdy nie mamy danych)
+
+2️⃣ zapiszmy dwa razy tw. cosinusów
+
+z cosα : a^2 = b^2 + c^2 - 2bc⋅cosα
+
+z cosβ : b^2 = a^2 + c^2 - 2ac⋅cosβ
+
+3️⃣ wyznaczamy cosα i cosβ
+
+cosα = (b^2 + c^2 - a^2) / (2bc)
+
+cosβ = (a^2 + c^2 - b^2) / (2ac)
+
+4️⃣ podstawiamy cosα i cosβ do założenia
+
+(a^2 + c^2 - b^2) / (2ac) = (b^2 + c^2 - a^2) / (2bc) |⋅2c
+
+a^2 + c^2 - b^2 = b^2 + c^2 - a^2
+
+2a^2 = 2b^2
+
+a^2 = b^2 ⟹ a = b (a, b > 0)
+
+c.k.d.

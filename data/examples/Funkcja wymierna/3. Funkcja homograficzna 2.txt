@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+3. Funkcja homograficzna 2
+
+Naszkicuj wykres funkcji \( f \). Podaj jej przedziały monotoniczności.
+
+a) \( f(x) = \frac{-4x+6}{x-2} \)  
+b) \( f(x) = \frac{7x-2}{-3x+8} \)  
+c) \( f(x) = \frac{-x+2}{8x-1} \)  
+
+a) 
+1️⃣ Przekształcamy wzór funkcji do postaci kanonicznej.  
+\( f(x)=\frac{-4x+6}{x-2}=\frac{-4(x-2)+2}{x-2}=\frac{-2}{x-2}-4 \)  
+
+2️⃣ Szkicujemy wykres \( f(x) \).
+
+\[ \text{(Wykres homograficzny z asymptotami i przebiegiem funkcji)} \]  
+\[ f(x)=\frac{-2}{x-2}-4 \]  
+
+3️⃣ Odczytujemy przedziały monotoniczności.  
+Funkcja homograficzna jest przedziałami malejąca lub przedziałami rosnąca.  
+Podając jej przedziały monotoniczności nie można użyć znaku sumy między przedziałami. Trzeba zapisać je osobno.
+
+Odp: Funkcja rośnie w \( \mathbb{R} \setminus \{ 2 \} \)  przedziałach \((-∞,2)\) i \( (2,∞) \).
+
+--- STRONA 2 ---
+b) ① Przekształcamy wzór funkcji do postaci kanonicznej.
+\( f(x) = \frac{-3x+8}{x-2} = \frac{3(-x+2)+2}{-x+2} = \frac{-2}{-x+2} + 3 = \frac{-2}{x-2} + 3 \)
+
+② Szkicujemy wykres \( f(x) \).
+
+③ Odczytujemy przedziały monotoniczności.
+Odp: Funkcja rośnie w \(( f' \uparrow )\) przedziałach \((- \infty, 2)\) i \((2, +\infty)\).
+
+c) ① Przekształcamy wzór funkcji do postaci kanonicznej.
+\( f(x) = \frac{-8x+6}{2x-4} = \frac{-4x+3}{x-2} = -4(x-\frac{3}{4}) + \frac{1}{2} = \frac{1}{x-\frac{1}{2}} - 4 \)
+
+② Szkicujemy wykres \( f(x) \).
+
+③ Odczytujemy przedziały monotoniczności.
+Odp: Funkcja maleje w \(( f' \downarrow )\) przedziałach \((- \infty, \frac{1}{2})\) i \((\frac{1}{2}, +\infty)\).

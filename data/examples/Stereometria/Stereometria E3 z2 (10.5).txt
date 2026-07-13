@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+W graniastosłupie prawidłowym trójkątnym pole powierzchni bocznej równe jest sumie pól obu podstaw. Oblicz cosinus kąta nachylenia przekątnej ściany bocznej do sąsiedniej ściany bocznej.
+
+1) sporządzamy rysunek pomocniczy i zapisujemy warunek z polami
+
+Pb = 2Pp
+
+3·ab = 2 * \frac{a^2\sqrt{3}}{4} /:2
+
+6ab = a^2\sqrt{3} /:a
+
+bok trójkąta, więc a ≠ 0
+
+6b = a\sqrt{3}
+
+b = \frac{a\sqrt{3}}{6}
+
+2) wyznaczamy długość przekątnej
+
+a^2 + b^2 = c^2 (tw. Pitagorasa)
+
+a^2 + \frac{3a^2}{36} = c^2
+
+c^2 = \frac{13}{12} a^2 \Rightarrow c = \sqrt{\frac{13}{12}} a
+
+3) wyznaczamy długość k
+
+k^2 + hp^2 = c^2 (tw. Pitagorasa)
+
+hp = \frac{a\sqrt{3}}{2} (wzór na wysokość \Delta równobocznego)
+
+k^2 + (\frac{a\sqrt{3}}{2})^2 = \frac{13}{12} a^2
+
+k^2 = \frac{13}{12} a^2 - \frac{3}{4} a^2
+
+k^2 = \frac{13}{12} a^2 - \frac{9}{12} a^2 = \frac{4}{12} a^2 = \frac{a^2}{3} \Rightarrow k = \frac{a}{\sqrt{3}}
+
+4) wyznaczamy wartości cosinusa
+
+cos\alpha = \frac{k}{c} = \frac{\frac{a}{\sqrt{3}}}{\frac{a\sqrt{13}}{\sqrt{12}}} = \frac{1}{\sqrt{3}} \cdot \frac{\sqrt{12}}{\sqrt{13}} 
+
+\sqrt{12} = \sqrt{3} \cdot \sqrt{4}
+
+= \frac{1}{\sqrt{3}} \cdot \frac{2\sqrt{3}}{\sqrt{13}} = \frac{2}{\sqrt{13}} 
+
+\cdot \frac{\sqrt{13}}{\sqrt{13}} = \frac{2\sqrt{13}}{13}
+
+Odp: cos\alpha = \frac{2\sqrt{13}}{13}

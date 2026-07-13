@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Uzasadnij, że dla każdej liczby naturalnej n > 0, liczba 3^{n+1} + 3^n + 3^{n-1} jest podzielna przez 13. 
+
+3^{n+1} + 3^n + 3^{n-1}, \ n > 0, \ n \in N_+
+
+ ① korzystając z własności potęg wyłączamy przed nawias największy wspólny składnik sumy
+
+a^r \cdot a^s = a^{r+s}
+
+3^{n+1} + 3^n + 3^{n-1} = 3^{n-1} (3^2 + 3^1 + 1) = 
+
+= 3^{n-1} (9 + 3 + 1) = 13 \cdot 3^{n-1}
+
+② komentarz: liczbę 3^{n+1} + 3^n + 3^{n-1} da się zapisać jako iloczyn 13 i 3^{n-1} \in Z, zatem liczba ta jest podzielna przez 13 c.k.d.

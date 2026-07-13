@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Oblicz granicę:
+
+a) \(\lim_{x \to 2} \frac{x^3+x^2+3}{x^2-1}\) 
+
+b) \(\lim_{x \to -1} \frac{x^4-3x+8}{4x-x^3}\) 
+
+c) \(\lim_{x \to 2} \frac{x^2-4}{x^2-5x+6}\)
+
+1️⃣ licząc granicę w punkcie podstawiamy ten punkt do wzoru
+
+a) \(\lim_{x \to 2} \frac{x^3+x^2+3}{x^2-1} = \frac{2^3+2^2+3}{2^2-1} = \frac{8+4+3}{4-1} =\)
+
+\[
+= \frac{15}{3} = 5
+\]
+
+\((symbol \ lim_{x \to} \ stosujemy \ do \ momentu, \ kiedy \ w \ wyrażeniu \ występuje \ niewiadoma \ (x))\)
+
+b) \(\lim_{x \to -1} \frac{x^4-3x+8}{4x-x^3} = \frac{(-1)^4-3(-1)+8}{4(-1)-(-1)^3} = \frac{1+3+8}{-4+1} =\)
+
+\[
+= \frac{12}{-3} = -4
+\]
+
+c) \(\lim_{x \to 2} \frac{x^2-4}{x^2-5x+6} = [\frac{0}{0}] \ (symbol \ nieoznaczony \ uzyskany \ po \ podstawieniu \ 2)\)
+
+2️⃣ po uzyskaniu symbolu \([\frac{0}{0}]\) musimy skrócić zerujące czynniki z licznika i mianownika
+
+\[
+\Delta_m = (5)^2-4 \cdot 6 = 1 \quad \sqrt{\Delta_m} = 1
+\]
+
+\[
+x_1 = \frac{5-1}{2} = 2 \quad \vee \quad x_2 = \frac{5+1}{2} = 3
+\]
+
+\((z \ różnicy \ kwadratów)\)
+
+\[
+\lim_{x \to 2} \frac{(x-2)(x+2)}{(x-2)(x-3)} = \lim_{x \to 2} \frac{x+2}{x-3} = \frac{2+2}{2-3} = -4
+\]
+
+Odp: a) 5, b) -4, c) -4

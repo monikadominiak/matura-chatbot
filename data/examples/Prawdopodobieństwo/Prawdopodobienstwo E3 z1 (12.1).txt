@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Używając cyfr ze zbioru {0, 1, 2, 3, 4, 5}, zapisujemy liczby czterocyfrowe (w których cyfry mogą się powtarzać). Oblicz, ile możemy zapisać liczb, których iloczyn cyfr równy jest 10.
+
+1️⃣ analizujemy polecenie
+
+{0, 1, 2, 3, 4, 5}, cyfry mogą się powtarzać
+
+iloczyn równy 10
+
+2️⃣ rozbijamy 10 na czynniki pierwsze
+
+$\left\{\begin{array}{l}{\text{10}} \\ {\text{5}} \end{array}\right|2 \\ 1\right\}$
+
+10 = 2•5
+
+zatem: dla 4-cyfrowej liczby możemy
+
+mieć kombinację 2 cyfr: 1,1,2,5
+
+3️⃣ liczymy ile jest takich liczb
+
+I sposób - kombinacja
+
+\[
+\binom{4}{2} \cdot 2 \cdot 1 = \frac{4!}{2! \cdot 1!} \cdot 2 \cdot 1 = 6 \cdot 2 = 12
+\]
+
+II sposób - reguła mnożenia
+
+_ _ _ _ - 4 miejsca
+
+kolejno: "5" - ma 4 możliwości
+
+"2" - już 3 możliwości
+
+pozostaje dwa miejsca dla jedynek
+
+więc: 4 \cdot 3 \cdot 1 = 12
+
+Odp: 12

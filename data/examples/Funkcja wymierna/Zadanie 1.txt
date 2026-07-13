@@ -1,0 +1,14 @@
+
+--- STRONA 1 ---
+Zadanie 1
+
+Wykres funkcji \( f \) określonej wzorem \( f(x) = \frac{3}{x} \) przesunięto o wektor \(\vec{w} = [-3, 1]\) i otrzymano wykres funkcji \( g \). Napisz wzór funkcji \( g \) i naszkicuj jej wykres.
+
+1️⃣ Przesuwamy wykres funkcji \( f(x) \) o wektor \(\vec{w} = [-3, 1]\).
+
+\[ \text{Przesuwając funkcję } f(x) = \frac{a}{x} \text{ o wektor } \vec{u}=[p,q] \text{ otrzymujemy } g(x) = \frac{a}{x-\rho} + q. \]
+\[ f(x) = \frac{3}{x} \overset{\vec{w} = [-3, 1]}{\longrightarrow} g(x) = \frac{3}{x + 3} + 1 \]
+
+2️⃣ Szkicujemy wykres funkcji \( g \).
+
+Odp.: Wzór funkcji \( g(x) = \frac{3}{x+3} + 1 \).

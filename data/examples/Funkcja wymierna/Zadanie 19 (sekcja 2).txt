@@ -1,0 +1,19 @@
+
+--- STRONA 1 ---
+Zadanie 19
+
+Wyznacz dziedzinę funkcji \( f(x) = \log_x (3-x) \).
+
+1️⃣ Wyznaczamy dziedzinę funkcji.
+
+\(\log_a b \quad \text{D: } a\neq 1, \; a>0, \; b>0.\)
+
+Dziedziną danej funkcji jest zawsze część wspólna wszystkich warunków.
+
+D: \( x\neq 1, \quad x>0 \quad , \quad 3-x>0 \) 
+
+\(x<3\)
+
+D= \( (0,1) \cup (1,3) \)
+
+Odp.: D= \( (0,1) \cup (1,3) \).

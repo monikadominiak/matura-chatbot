@@ -1,0 +1,34 @@
+
+--- STRONA 1 ---
+Ze środka ściany sześcianu o krawędzi a poprowadzono prostą prostopadłą do przekątnej sześcianu. Oblicz długości odcinków, na jakie ta prostopadła podzieliła przekątną sześcianu.
+
+1️⃣ sporządzamy rysunek pomocniczy sześcianu
+
+|HM|= ? , |MB|= ?
+
+2️⃣ sporządzamy rysunek pomocniczy △DBH
+
+3️⃣ zauważamy podobieństwo △DBH i △OMB
+
+△DBH ~ △OMB z cechy kkk (kąt prosty i wspólny kąt α)
+
+4️⃣ zapisujemy zależności wynikające z podobieństwa
+
+|MB| / |DB| = |OB| / |HB|
+
+gdzie |DB| - przekątna podstawy
+|OB| - połowa |DB|
+|HB| - przekątna sześcianu
+
+|MB| / (a√2/2) = a√2 / a√3
+                      ---------------
+                      można policzyć
+                      z tw. Pitagorasa w △DBH
+
+|MB| = (a√2 * a√2) / a√3 = a^2√2 / a√3 = a√3/3
+
+5️⃣ obliczamy |HM|
+
+|HM| = |HB| - |MB| = a√3 - a√3/3 = 2a√3/3
+
+Odp: |HM| = 2a√3/3 i |MB| = a√3/3

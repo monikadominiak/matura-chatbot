@@ -1,0 +1,16 @@
+=== ARKUSZ: 2020p | ZADANIE 1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 1. (0-1)
+Wartość wyrażenia $x^{2}-6x+9$ dla $x=sqrt{3}+3$ jest równa
+A. 1
+B. 3
+C. $1+2sqrt{3}$
+D. $1-2sqrt{3}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 1. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia $(apm b)^2$ oraz $a^2-b^2$ (2.1).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C

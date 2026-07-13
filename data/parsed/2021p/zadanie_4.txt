@@ -1,0 +1,13 @@
+=== ARKUSZ: 2021p | ZADANIE 4 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 4. (0-1)
+Suma $2 cdot logsqrt{10} + log 10^{3}$ jest równa
+A. 2
+B. 3
+C. 4
+D. 5
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

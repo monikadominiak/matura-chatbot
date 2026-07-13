@@ -1,0 +1,80 @@
+
+--- STRONA 1 ---
+**Zadanie 19**
+
+Suma wyrazów nieskończonego ciągu geometrycznego jest równa 5, zaś suma wyrazów o wskaźnikach nieparzystych jest równa \(\frac{10}{3}\). Oblicz sumę siedmiu początkowych wyrazów tego ciągu.
+
+① Zapisujemy informacje podane w zadaniu.
+
+\[
+\frac{a_1}{1-q} = 5
+\]
+
+\[
+\frac{a_1}{1-q^2} = \frac{10}{3}
+\]
+
+② Wyznaczamy dziedzinę.
+
+\[
+\mathbb{D} : 1-q \neq 0 \quad \land \quad 1-q^2 \neq 0 \\
+q \neq 1 \\
+q^2 \neq 1 \\
+q \neq 1 \quad \lor \quad q \neq -1
+\]
+
+\[
+\mathbb{D} : q \in \mathbb{R}\setminus\{1,-1\}
+\]
+
+③ Rozwiązujemy układ równań.
+
+\[
+\begin{cases} 
+\frac{a_1}{1-q} = 5 \quad (1) \\ 
+\frac{a_1}{1-q^2} = \frac{10}{3} \quad (2) 
+\end{cases}
+\]
+
+Z (1): \quad \(a_1 = 5(1-q)\)
+
+\[ 
+a_1 = 5-5q
+\]
+
+Do (2): \quad \(3a_1 = 10-10q^2\)
+
+\[
+3(5-5q) = 10-10q^2
+\]
+
+\[
+15-15q = 10-10q^2
+\]
+
+\[
+10q^2-15q+5=0 \quad /:5
+\]
+
+\[
+2q^2-3q+1=0
+\]
+
+\[
+\Delta = 9-8=1
+\]
+
+\[
+q_1 = \frac{3-1}{4} = \frac{1}{2} \in \mathbb{D}, \quad q_2 = \frac{3+1}{4} = 1 \notin \mathbb{D}
+\]
+
+\[
+a_1 = 5(1-\frac{1}{2}) = \frac{5}{2}
+\]
+
+--- STRONA 2 ---
+4️⃣ Obliczamy S_7
+
+S_7 = a_1 \frac{1-q^7}{1-q} = \frac{5}{2} \cdot \frac{1-(\frac{1}{2})^7}{1-\frac{1}{2}} = \frac{5}{2} \cdot \frac{127}{128} \cdot \frac{1}{\frac{1}{2}} = \frac{635}{128}
+
+Odp.: \ S_7 = \frac{635}{128}.

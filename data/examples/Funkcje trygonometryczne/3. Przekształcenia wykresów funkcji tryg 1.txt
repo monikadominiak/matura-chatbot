@@ -1,0 +1,81 @@
+
+--- STRONA 1 ---
+3. Przekształcenia wykresów funkcji tryg 1
+
+Naszkicuj wykres funkcji f i podaj jej miejsca zerowe.
+
+a) f(x) = sin(x - \(\frac{\pi}{6}\))   b) f(x) = cos(x + \(\pi\))   c) f(x) = -cos(x + \(\frac{\pi}{2}\))
+
+a)
+
+\u2460 Przesuwamy wykres funkcji g(x) = sinx o wektor \(\vec{v}=[\frac{\pi}{6}, 0]\).
+
+g(x) = sinx  \(\underline{\vec{v}=[\frac{\pi}{6}, 0]}\)  f(x) = sin(x - \(\frac{\pi}{6}\))
+
+\u2461 Szkicujemy wykresy
+
+\(y\) 
+
+1
+
+0
+
+-1
+
+\(\frac{\pi}{2}\)  \(\pi\)  \(\frac{3\pi}{2}\)  \(2\pi\)  \(x\)
+
+g(x) = sinx   f(x) = sin(x - \(\frac{\pi}{6}\))
+
+\u2462 Odczytujemy miejsca zerowe f(x),
+
+x = \(\frac{\pi}{6}\) + k\(\pi\),  k \(\in\) \(\mathbb{Z}\)
+
+Odp.: Miejsca zerowe: x = \(\frac{\pi}{6}\) + k\(\pi\),  k \(\in\) \(\mathbb{Z}\).
+
+b)
+
+\u2460 Przesuwamy wykres funkcji g(x) = cosx o wektor \(\vec{v}=[-\pi, 0]\).
+
+g(x) = cosx  \(\underline{\vec{v}=[-\pi, 0]}\)  f(x) = cos(x + \(\pi\))
+
+\u2461 Szkicujemy wykresy.
+
+\(y\)
+
+1
+
+0
+
+-1
+
+\(-\frac{\pi}{2}\)  0  \(\frac{\pi}{2}\)  \(\pi\)  \(x\)
+
+g(x) = cosx   f(x) = cos(x + \(\pi\))
+
+\u2462 Odczytujemy miejsca zerowe f(x),
+
+x = \(\frac{\pi}{2}\) + k\(\pi\),  k \(\in\) \(\mathbb{Z}\)
+
+Odp.: Miejsca zerowe: x = \(\frac{\pi}{2}\) + k\(\pi\),  k \(\in\) \(\mathbb{Z}\).
+
+--- STRONA 2 ---
+c) ① Przesuwamy wykres funkcji \( g(x) = \cos x \) o wektor \( \vec{v} = [-\frac{\pi}{2}, 0] \) oraz odbijamy względem osi OX.
+\[ 
+g(x) = \cos x \quad \xrightarrow{Sox} \quad y = -\cos x \quad \xrightarrow{\vec{v} = [-\frac{\pi}{2}, 0]} \quad f(x) = -\cos (x + \frac{\pi}{2})
+\]
+
+② Szkicujemy wykresy.
+\[ 
+\begin{align*}
+  & \\
+  & \quad \quad \quad \quad \quad \quad \quad f(x) = -\cos (x+\frac{\pi}{2}) \\
+  & \quad \quad \quad \quad \quad \quad \quad g(x) = \cos x
+\end{align*}
+\]
+
+③ Odczytujemy miejsca zerowe \( f(x) \).
+\[ 
+x = k\pi , \quad k \in \mathbb{Z}
+\]
+
+Odp.: Miejsca zerowe : \( x = k\pi , \quad k \in \mathbb{Z} \).

@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Z talii 24 kart wybrano jednego asa, jednego króla, jedną damę oraz jednego waleta. Wiadomo, że nie wybrano czterech kierów. Na ile sposobów można dokonać takiego wyboru?
+
+① wypisujemy dane z polecenia
+
+talia 24 kart
+
+wybrano:
+1 asa, 1 króla, 1 damę, 1 waleta
+nie były to cztery kiery
+
+② jak można wybrać 4 karty po jednej z każdego rodzaju?
+
+korzystamy z reguły mnożenia
+
+4 ─ 4 ─ 4 ─ 4
+
+4 możliwe asy
+4 możliwych król
+4 możliwe damy
+4 możliwe walety
+
+③ uwzględniamy informacje o kierach
+
+4 kiery => as kier, król kier, dama kier, walet kier
+
+zauważmy, że to jest dokładnie jedna sytuacja, którą należy odrzucić,
+
+więc: 4 ∙ 4 ∙ 4 ∙ 4 - 1 = 256 - 1 = 255
+
+Odp: 255

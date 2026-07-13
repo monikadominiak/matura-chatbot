@@ -1,0 +1,33 @@
+
+--- STRONA 1 ---
+**z1 (4.4)**
+
+W hodowli drożdży liczebność komórek rośnie wykładniczo:
+
+\( N(t) = N_0 \cdot k^t \) (t w godzinach, \( k > 1 \)).
+
+Na początku było \( N_0 = 20 \, 000 \) komórek, a po trzech godzinach
+
+\( N(3) = 26 \, 620 \).
+
+O ile procent rosła liczebność w każdej godzinie?
+
+---
+
+\( \huge \textcircled{1} \) Obliczamy \( k \).
+
+\[
+k^3 = \frac{N(3)}{N_0} = \frac{26620}{20000} = 1,331 = \frac{1331}{1000} = \left(\frac{11}{10}\right)^3
+\]
+
+\[
+k = \frac{11}{10}
+\]
+
+\( \huge \textcircled{2} \) Obliczamy godzinny przyrost.
+
+\[
+(k-1)\cdot 100\% = (1,1-1)\cdot 100\% = 0,1\cdot 100\% = 10\%
+\]
+
+Odp.: Liczebność w każdej godzinie rosła o \( 10\% \).

@@ -1,0 +1,35 @@
+
+--- STRONA 1 ---
+**Zadanie z1 (8.2)** W trójkącie ABC długości boków AB i AC są odpowiednio równe 4 i 6, a długość środkowej AA' jest równa sqrt(10). Oblicz długość boku BC.
+
+1) Analizujemy i oznaczamy rysunek:
+
+Rozważając osobno trójkąty A'B i A'C widać że znamy w nich 2 boki i nic więcej. Żeby móc efektywnie zastosować tw. cosinusów lub sinusów potrzeb 3 informacji.
+
+W związku z tym zapiszemy tw. cosinusów 2 razy dla 2 różnych trójkątów korzystając z tych samych niewiadomych, co utworzy układ 2 równań z 2 niewiadomymi.
+
+2) Korzystamy z tw. cosinusów:
+
+w trójkącie A'AC:
+
+{ 10 = x^2 + 36 - 4x * cos α / (*2)  
+  4 AG = 36 + x^2 - 2x * cos α
+
+w trójkącie AB'C:
+
+{ -20 = -2x^2 - 72 + 24x * cos α  
+  4 AG = 4x^2 + 36 - 24x * cos α 
+
+skorzystamy z metody przeciwnych współczynników, dzięki temu skróci się składnik z cosinusem.
+
+-4 = 2x^2 - 36
+
+2x^2 = 32
+
+x^2 = 16 /  
+
+x = 4, x > 0
+
+|BC| = 2x = 2 * 4 = 8
+
+Odp. |BC| = 8.

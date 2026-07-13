@@ -1,0 +1,27 @@
+=== ARKUSZ: 2017p | ZADANIE 30 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 30. (0-2)
+Przeciwprostokątna trójkąta prostokątnego ma długość 26 cm, a jedna z przyprostokątnych jest o 14 cm dłuższa od drugiej. Oblicz obwód tego trójkąta.
+Odpowiedź: ................................................................................................................................... .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 30. $0-2$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: G10. Figury płaskie. Zdający stosuje twierdzenie Pitagorasa (G10.7). 3. Równania i nierówności. Zdający rozwiązuje równania kwadratowe z jedną niewiadomą (3.4).
+Przykładowe rozwiązanie  Oznaczmy długość krótszej przyprostokątnej przez x. Wtedy dłuższa przyprostokątna ma długość $x+14$. Z twierdzenia Pitagorasa otrzymujemy
+
+$$x^2+(x+14)^2=26^2,$$
+
+
+$$x^2+x^2+28x+196=676,$$
+
+
+$$x^2+14x-240=0$$
+Stąd $x=10$ lub $x=-24$. Drugie z rozwiązań odrzucamy, zatem długości boków trójkąta są równe: 10, 24, i 26, więc obwód jest równy 60 cm.
+Schemat punktowania Zdający otrzymuje 1 p., gdy: zapisze równanie kwadratowe z jedną niewiadomą, np.: $x^2+(x+14)^2=26^2$, gdzie x jest długością krótszej przyprostokątnej albo zapisze układ równań, np.: $a^2+b^2=26^2$ i $b=a+14$, gdzie a jest długością krótszej oraz b długością dłuższej przyprostokątnej i na tym poprzestanie lub dalej popełnia błędy.
+Zdający otrzymuje 2 p., gdy obliczy obwód trójkąta: 60 cm.
+Uwagi
+Jeżeli zdający jedynie poda długości boków trójkąta: 10, 24, 26 i jego obwód: 60, to otrzymuje 1 punkt.
+Jeżeli zdający poda długości boków trójkąta: 10, 24, 26 i jego obwód: 60 oraz uzasadni, że rozważany trójkąt jest prostokątny, to otrzymuje 2 punkty.
+Jeśli zdający podaje w rozwiązaniu tylko liczby 10, 24, 26, to otrzymuje 0 punktów.
+Strona 15 z 24

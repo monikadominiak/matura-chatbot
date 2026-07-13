@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+FZ5
+
+wzór na pochodną funkcji złożonej:
+
+[g(f(x))]' = g'(f(x)) \cdot f'(x)
+
+f(x) = \sqrt{x^4 - 1}
+
+wzór na pochodną funkcji \sqrt{x}:
+
+h(x) = \sqrt{x} \Rightarrow h'(x) = \frac{1}{2\sqrt{x}}
+
+Df: x^4 - 1 \geq 0
+
+(x^2 + 1)(x - 1)(x + 1) \geq 0
+
+x \in (-\infty, -1\rangle \cup \langle1, +\infty)
+
+f'(x) = \frac{2x^3}{2\sqrt{x^4 - 1}} = \frac{x^3}{\sqrt{x^4 - 1}}
+
+Df': x \in (-\infty, -1) \cup (1, +\infty)
+
+\quad \quad \  \ \ \ \ \  ! \ \text{mianownik} \neq 0

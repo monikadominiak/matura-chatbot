@@ -1,0 +1,12 @@
+=== ARKUSZ: 2016p | ZADANIE 5 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 5. (0-1)
+Jedną z liczb, które spełniają nierówność -x^5 + x^3 - x 
+B. 
+C.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 5. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający sprawdza, czy dana liczba rzeczywista jest rozwiązaniem równania lub nierówności (3.1).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Strona 2 z 20

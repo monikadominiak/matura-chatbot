@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+Zad.4 Dany jest okrąg x^2 + y^2 = 121. Jego cięciwa AB jest równoległa do osi OX i ma długość 20. Wyznacz współrzędne punktu P należącego do tej cięciwy, jeśli jego odległość od środka okręgu jest równa 5.
+
+1) Tworzymy rysunek poglądowy:
+
+(rysunek okręgu)
+
+W zadaniach z geometrii analitycznej często nie mamy danych na początku, więc punktu prostych itp.
+
+W takiej sytuacji warto w celach poglądowych (w miarę możliwości na daną chwilę rozwiązywania) rozsmarzać je "na oko", w sposób możliwie jak najlepiej warunkom zadania. Wówczas, na podstawie takiego rysunku, możemy śmiało kolejnych etapów rozwiązania.
+
+Zauważ, że konkretnymi liczbami oznaczone są tylko dane inne niż informacyjne. Cała reszta obiektów na rysunku jest zaznaczona poglądowo.
+
+Już na etapie rysunku możemy zauważyć, że istnieją 4 punkty spełniające warunki zadania, w zależności od ćwiartki układu współrzędnych.
+
+2) Korzystamy z tw. Pitagorasa w ΔSOB i wyznaczamy punkt P.
+
+(trójkąt)
+
+P(x,y) M
+
+O (-10,0) A B
+
+X Y 10- x
+
+S M
+
+x^2 + y^2 = 25 = 2^2 = 25 = 21/4
+
+4y^2 = 21 4y = √21
+
+x^2 = 4 2
+
+x = 2
+
+P(2,√21)
+
+Środkiem okręgu jest punkt (0,0), więc pozostałymi rozwiązaniami będą punkty (x,y), (-x,y) oraz (x,-y).
+
+Odp. P(2,√21) lub P(-2,√21) lub P(2,-√21) lub P(-2,-√21).

@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Dana jest funkcja f(x) = x + sqrt(x^2 + 3). Wyznacz równanie stycznej do wykresu y = f(x), która jest równoległa do prostej y = (3/2)x + 7.
+
+j(x) = x + sqrt(x^2 + 3)
+
+1️⃣ liczymy pochodną funkcji j (funkcji złożonej)
+
+j'(x) = 1 + 1/(2sqrt(x^2 + 3)) * 2x = 1 + x/sqrt(x^2 + 3)
+
+2️⃣ zauważamy, że współczynnik kierunkowy stycznej musi być równy 3/2, ponieważ styczna jest || do y = (3/2)x + 7
+
+więc j'(x_0) = 3/2 => 1 + x_0/sqrt(x_0^2 + 3) = 3/2
+
+3️⃣ wyznaczamy x_0 z powyższego równania
+
+x_0/sqrt(x_0^2 + 3) = 1/2 /:sqrt(x_0^2 + 3)
+
+2x_0 = sqrt(x_0^2 + 3)
+/()*2
+
+>0 -> więc 2x_0 > 0 => x_0 > 0
+
+3️⃣ c.d.
+
+4x_0^2 = x_0^2 + 3 => 3x_0^2 = 3
+x_0^2 = 1 => x_0 = 1 >0
+
+4️⃣ liczymy drugą współrzędną punktu styczności
+
+j(1) = y_0 = 1 + sqrt(1 + 3) = 3 P(1, 3)
+
+5️⃣ podstawiamy wartości do wzoru na styczną;
+
+y = j'(x_0)(x - x_0) + j(x_0), x_0 = 1
+
+y = (3/2)(x - 1) + 3 = (3/2)x - 3/2 + 3
+
+odp: y = (3/2)x + 3/2

@@ -1,0 +1,60 @@
+
+--- STRONA 1 ---
+z9 (4.1)
+
+Wiadomo, że
+
+\(a^3 - 4a^2b + ab^2 = -6b^3\).
+
+Oblicz \(\frac{a}{b}\) wiedząc, że \(a \neq 0\) i \(b \neq 0\).
+
+1️⃣ Dzielimy przez \(b^3\)
+
+\[
+\frac{a^3}{b^3} - 4 \frac{a^2}{b^2} + \frac{a}{b} + 6 = 0
+\]
+
+2️⃣ Korzystamy z pomocniczej zmiennej.
+
+\[ t = \frac{a}{b} \]
+
+\[
+t^3 - 4t^2 + t + 6 = 0
+\]
+
+\[
+w(x)
+\]
+
+\[
+w(2) = 8 - 16 + 2 + 6 = 0
+\]
+
+\( | 1 | -4 | 1 | 6 \)    
+\( 2 | 1 | -2 | -3 | 0 \)    
+
+\[
+(t - 2)(t^2 - 2t - 3) = 0
+\] 
+
+\[
+\Delta = 4 + 12 = 16, \quad \sqrt{\Delta} = 4
+\]
+
+\[ t = 2 \]
+
+\[
+t_1 = \frac{2 + 4}{2} = 3
+\]
+
+\[
+t_2 = \frac{2 - 4}{2} = -1
+\]
+
+3️⃣ Cofamy podstawienie.
+
+\[
+\frac{a}{b} = 2, \quad \frac{a}{b} = -1, \quad \frac{a}{b} = 3
+\]
+
+Odp: \( \frac{a}{b} \in \{ 2, -1, 3 \} \).

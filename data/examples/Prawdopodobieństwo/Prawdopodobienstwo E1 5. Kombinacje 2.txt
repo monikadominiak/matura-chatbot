@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Klasa liczy 18 osób, w tym 10 dziewcząt. Na ile sposobów można wybrać czteroosobową delegację, w której skład wejdą 1 chłopiec i 3 dziewczyny?
+
+1️⃣ wypisujemy dane z polecenia
+
+18 osób, 10 dziewczyn, 4-osobowa delegacja
+
+1 chłopiec
+3 dziewczyny
+
+w zadaniach, w których mamy wybrać ze zbioru elementy, których kolejność nie ma znaczenia, używamy
+dwumianu Newtona
+
+2️⃣ zapisujemy ile jest możliwości wyboru chłopca i 3 dziewczyn:
+
+\[
+\binom{8}{1} \cdot \binom{10}{3} = \frac{8!}{1!(8-1)!} \cdot \frac{10!}{3!(10-3)!} = \frac{8 \cdot 7!}{1 \cdot 7!} \cdot \frac{10 \cdot 9 \cdot 8}{3 \cdot 2 \cdot 1} = 8 \cdot 4 \cdot 3 \cdot 10 = 8 \cdot 120 = 960
+\]
+
+reguła mnożenia
+
+Odp: 960

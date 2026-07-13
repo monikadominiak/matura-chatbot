@@ -1,0 +1,67 @@
+
+--- STRONA 1 ---
+Wyznacz równanie stycznej do wykresu funkcji f w punkcie P, jeśli:
+
+a) f(x) = -2x^2 + x + 3, P(-2, -7)
+
+b) f(x) = \frac{x^2}{2-x}, P(x_0, -8)
+
+równoanie stycznej
+y = a(x-x_0) + f(x_0)
+gdzie a = f'(x_0)
+
+1️⃣ wyznaczamy pochodną f(x)=-2x^2+x+3
+
+f'(x)=-4x+1
+
+2️⃣ wyznaczamy f'(-2) [f(-2)=7] punkt P
+
+f'(-2)=-4*(-2)+1=8+1=9
+
+3️⃣ wyznaczamy równanie stycznej
+
+I sposób 
+y=ax+b \quad \quad a=f'(x_0)=9
+y=a(x-x_0)+f(x_0)=ax-ax_0+f(x_0)
+b=-f'(x_0) \cdot x_0+f(x_0)
+
+b=-9 \cdot (-2)-7=11 \quad \quad y=9x+11
+
+odp: y=9x+11
+
+II sposób
+y-f(x_0)=f'(x_0)(x-x_0)
+y-(-7)=9(x-(-2))
+y+7=9x+18
+y=9x+11
+
+4️⃣ szukamy współrzędnej x_0
+
+f(x)=\frac{x^2}{2-x} \quad \Rightarrow \quad 8=\frac{x^2}{2-x}
+
+x^2=-16+8x
+(x-4)^2=0
+x=4 \quad \Rightarrow \quad P(4,-8)
+f(4)=-8
+
+5️⃣ wyznaczamy pochodną
+
+f'(x)=\frac{2x(2-x)-x^2(-1)}{(2-x)^2}=\frac{4x-x^2}{(2-x)^2}
+
+6️⃣ wyznaczamy f'(4)
+
+f'(4)=\frac{4 \cdot 4-4^2}{(2-4)^2}=\frac{16-16}{(-2)^2}=0
+
+7️⃣ wyznaczamy równanie stycznej
+
+I sposób 
+y=ax+b \quad \quad a=f'(x_0)=0
+b=-0 \cdot 4-8=-8
+y=0 \cdot x-8=-8
+
+II sposób 
+y-f(x_0)=f'(x_0)(x-x_0)
+y+8=0(x-x_0)
+y=-8
+
+odp: y=-8

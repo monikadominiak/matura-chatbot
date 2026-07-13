@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Dane są dwie kule o promieniach 3 cm i 5 cm oraz wspólnym środku. Oblicz pole przekroju utworzonego przez przecięcie większej kuli płaszczyzną styczną do mniejszej kuli.
+
+1️⃣ tworzymy poglądowy rysunek przekroju
+
+przekrój, którego pole mamy policzyć będzie kołem o promieniu x
+
+2️⃣ liczymy wartość x z tw. Pitagorasa
+
+x^2 + 3^2 = 5^2
+
+x^2 = 25 - 9
+
+x^2 = 16 => x = 4
+
+3️⃣ liczymy pole przekroju
+
+P_p = πx^2 = 4^2π = 16π [cm^2]
+
+Odp: P_p = 16π cm^2

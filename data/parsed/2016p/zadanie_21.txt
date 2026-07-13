@@ -1,0 +1,13 @@
+=== ARKUSZ: 2016p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0-1)
+W układzie współrzędnych dane są punkty A=(a, 6) oraz B=(7, b). Środkiem odcinka AB jest punkt M=(3, 4). Wynika stąd, że
+A. a=5 i b=5
+B. a=-1 i b=2
+C. a=4 i b=10
+D. a=-4 i b=-2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 21. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza współrzędne środka odcinka (8.6).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C

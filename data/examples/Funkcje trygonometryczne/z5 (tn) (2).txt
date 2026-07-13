@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+z5 (tn)
+
+Naszicuj wykres funkcji f, gdy x ∈ [−π, 2π]. Podaj, ile punktów wspólnych ma wykres funkcji f z prostą o równaniu y = 0.5, gdy f(x) = 2 cos(x−π/3).
+
+Funkcję y = cos x należy rozciągnąć dwukrotnie wzdłuż osi y i przesunąć o π/3 w prawo.
+
+1️⃣ Szkicujemy wykres funkcji f(x) = 2 cos(x−π/3) w zadanym przedziale oraz prostą y = 1/2.
+
+(rysunek wykresu)
+Oś y, y = cos x, y = 1/2
+-2, 0, 2
+-π, 0, π, 2π
+Oś x
+π/2, 3π/2
+
+Najłatwiej jest skorzystać z narysowanego wykresu funkcji trygonometrycznej i w tym samym układzie współrzędnych narysowanej prostej.
+
+2️⃣ Odczytujemy ilość punktów wspólnych.
+3 punkty wspólne
+
+Odp: 3 punkty wspólne.

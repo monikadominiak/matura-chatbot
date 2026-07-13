@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Egzamin składa się z 10 pytań zamkniętych. Do każdego zadania podano cztery odpowiedzi, z czego jedna jest poprawna. Jakie jest prawdopodobieństwo, że uczeń zaliczy egzamin wybierając odpowiedzi w sposób losowy, jeśli trzeba odpowiedzieć poprawnie na co najmniej 8 pytań?
+
+\( P_n(k) = \binom{n}{k} \cdot p^k \cdot q^{n-k} \)
+
+① analizujemy polecenie
+
+\( 10 \) pytań zamkniętych \( \rightarrow n = 10 \)
+
+poprawna odpowiedź lub nie
+
+schemat Bernoulliego
+
+② określamy prawdopodobieństwa w pojedynczym zdarzeniu
+
+\( p \) - poprawna odpowiedź - \( p = \frac{1}{4} \)
+
+\( q \) - błędna odpowiedź - \( q = \frac{3}{4} \)
+
+③ co najmniej 8 poprawnych \( \Rightarrow k = 8 \) lub \( k = 9 \) lub \( k = 10 \)
+
+\[
+P_{10}(8) + P_{10}(9) + P_{10}(10) = \binom{10}{8} \cdot \left( \frac{1}{4} \right)^8 \cdot \left( \frac{3}{4} \right)^2 + \binom{10}{9} \cdot \left( \frac{1}{4} \right)^9 \cdot \left( \frac{3}{4} \right)^1 + \binom{10}{10} \cdot \left( \frac{1}{4} \right)^{10} \cdot \left( \frac{3}{4} \right)^0 =
+\]
+
+\[
+= 45 \cdot \frac{3^2}{4^{10}} + 10 \cdot \frac{3}{4^{10}} + \frac{1}{4^{10}} = \frac{1}{4^{10}} (405 + 30 + 1) = \frac{436}{4^{10}} = \frac{109}{1024}
+\]
+
+Odp: \(\frac{109}{262144}\)

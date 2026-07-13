@@ -1,0 +1,44 @@
+=== ARKUSZ: 2024p | ZADANIE 10 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 10. (0–1)
+W październiku 2022 roku założono dwa sady, w których posadzono łącznie 1960 drzew.
+Po roku stwierdzono, że uschło 5% drzew w pierwszym sadzie i 10% drzew w drugim sadzie. Uschnięte drzewa usunięto, a nowych nie dosadzano.
+Liczba drzew, które pozostały w drugim sadzie, stanowiła 60% liczby drzew, które pozostały w pierwszym sadzie.
+Niech x oraz y oznaczają liczby drzew posadzonych – odpowiednio – w pierwszym i drugim sadzie.
+
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+
+Układem równań, którego poprawne rozwiązanie prowadzi do obliczenia liczby x drzew posadzonych w pierwszym sadzie oraz liczby y drzew posadzonych w drugim sadzie, jest
+
+A.
+{
+  x + y = 1960
+  0,6 · 0,95x = 0,9y
+}
+
+B.
+{
+  x + y = 1960
+  0,95x = 0,6 · 0,9y
+}
+
+C.
+{
+  x + y = 1960
+  0,05x = 0,6 · 0,1y
+}
+
+D.
+{
+  x + y = 1960
+  0,4 · 0,95x = 0,9y
+}
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+4. Postać ogólna funkcji kwadratowej 1
+Przedstaw funkcję f(x) w postaci ogólnej i oblicz wyróżnik tego trójmianu:
+
+a) \( f(x) = (x - 0,5)^2 - 3 \)
+b) \( f(x) = 2(x - 3)^2 - 14 \)
+c) \( f(x) = \frac{2}{3}(x - 3)^2 - 9 \)
+
+W tym zadaniu mamy za zadanie postać kanoniczną funkcji kwadratowej przekształcić w postać ogólną oraz obliczyć wyróżnik tego trójmianu.
+
+\[ (a-b)^2 = a^2 - 2ab + b^2 \]
+
+q) \( f(x) = (x - 0,5)^2 - 3 = x^2 - 2 \cdot x \cdot 0,5 + (0,5)^2 - 3 = \)
+
+\[ = x^2 - x + \frac{1}{4} - 3 = x^2 - x + \frac{1}{4} - \frac{12}{4} = \]
+
+\[ = x^2 - x - \frac{11}{4} \]
+
+Wyróżnik trójmianu obliczamy ze wzoru 
+\[ \Delta = b^2 - 4ac \]
+
+q = 1
+b = -1
+c = -\(\frac{11}{4}\)
+
+\[ \Delta = (-1)^2 - 4 \cdot 1 \cdot \left(-\frac{11}{4}\right) = 1 + 11 = 12 \]
+
+Odp: postać ogólna: \( f(x) = x^2 - x - \frac{11}{4}\),
+\( \Delta = 12 \)
+
+b) \( f(x) = 2(x - 3)^2 - 14 = 2(x^2 - 2 \cdot x \cdot 3 + 3^2) - 14 = \)
+
+\[ = 2(x^2 - 6x + 9) - 14 = 2x^2 - 12x + 18 - 14 = \]
+
+\[ = 2x^2 - 12x + 4 \]
+
+a = 2 
+b = -12 
+c = 4 
+\[ \Delta = (-12)^2 - 4 \cdot 2 \cdot 4 = 144 - 32 = 112 \]
+
+Odp: postać ogólna: \( f(x) = 2x^2 - 12x + 4 \),
+\( \Delta = 112 \)
+
+c) \( f(x) = \frac{2}{3}(x - 3)^2 - 9 = \frac{2}{3}(x^2 - 2 \cdot x \cdot 3 + 3^2) - 9 = \)
+
+\[ = \frac{2}{3}(x^2 - 6x + 9) - 9 = \]
+\[ = \frac{2}{3}x^2 - 4x + 6 - 9 = \]
+
+\[ = \frac{2}{3}x^2 - 4x - 3 \]
+
+a = \(\frac{2}{3}\)
+b = -4
+c = -3
+\[ \Delta = (-4)^2 - 4 \cdot \frac{2}{3} \cdot (-3) = 16 + 8 = 24 \]
+
+Odp: postać ogólna: \( f(x) = \frac{2}{3}x^2 - 4x - 3 \),
+\( \Delta = 24 \)

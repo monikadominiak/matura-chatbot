@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Zadanie z4 (8.4) Punkty A,B,C należą do okręgu o środku S i promieniu 3. Kąt ACB ma miarę 44°. Oblicz pole wycinka koła zaznaczonego na rysunku.
+
+1) Oznaczamy i analizujemy kąty na rysunku:
+
+Pole wycinka koła liczy się ze wzoru:
+
+P = \pi r^2 \cdot \frac{\alpha}{360^\circ}, gdzie r to promień koła,
+a kąt \alpha jest kątem środkowym.
+
+Promień jest podany (równy 3), potrzebujemy
+wobec tego miary kąta środkowego.
+
+Kąt wpisany ACB jest oparty na tym samym łuku,
+co kąt środkowy ASB. W takiej sytuacji kąt
+środkowy ma 2 razy większą miarę niż kąt wpisany.
+
+\alpha = 2 \cdot 44^\circ = 88^\circ
+
+P_{WYCINKA} = \pi \cdot 3^2 \cdot \frac{88^\circ}{360^\circ} = 2,2\pi
+
+Odp. P_{WYCINKA} = 2,2\pi.

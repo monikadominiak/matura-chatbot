@@ -1,0 +1,44 @@
+
+--- STRONA 1 ---
+Uzasadnij, że jeśli liczby a, b, c tworzą jednocześnie ciąg arytmetyczny i ciąg geometryczny, to jest to ciąg stały.
+
+ciąg: (a, b, c)
+
+1️⃣ zapiszemy warunek ciągu arytmetycznego i ciągu geometrycznego
+
+\( a_n = \frac{a_{n-1} + a_{n+1}}{2} \) dla \( n \geq 2 \)
+
+\( (a_n)^2 = a_{n-1} \cdot a_{n+1} \) dla \( n \geq 2 \)
+
+1️⃣ \[ 
+\begin{cases} 
+b = \frac{a+c}{2} \\
+b^2 = a \cdot c 
+\end{cases} 
+\Rightarrow \) mamy układ równań
+
+2️⃣ chcemy uzależnić wszystkie niewiadome od jednej
+
+podstawiamy 1️⃣ do 2️⃣ 
+
+\( \left( \frac{a+c}{2} \right)^2 = ac \)
+
+\( \frac{1}{4}(a^2 + 2ac + c^2) = ac \; / \cdot 4 \)
+
+\( a^2 + 2ac + c^2 = 4ac \)
+
+\( \begin{cases} 
+a^2 - 2ac + c^2 = 0 \\
+(a-c)^2 = 0 
+\end{cases} 
+\)
+
+więc \( a = c \, * \)
+
+podstawiamy \( * \) do 1️⃣ 
+
+\( b = \frac{2a}{2} = a \)
+
+zatem \( a = b = c \Rightarrow \) ciąg stały
+
+c.k.d.

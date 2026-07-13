@@ -1,0 +1,48 @@
+
+--- STRONA 1 ---
+Zad.19 Na trapezie opisano okrąg o promieniu długości 25 cm. Dłuższa podstawa trapezu jest średnicą tego okręgu. Wiedząc, że przekątna trapezu ma długość 40 cm, oblicz obwód tego trapezu.
+
+1) Tworzymy rysunek poglądowy:
+[obszar z rysunkiem]
+
+UWAGA: Każdy trapez wpisany w okrąg jest równoramienny
+
+∠ACB| jest kątem prostym, ponieważ bok AB trójkąta ABC jest średnicą okręgu opisanego na trójkącie, tym samym jest to trójkąt prostokątny
+
+2) Korzystamy z tw. Pitagorasa:
+
+c^2 + 40^2 = 50^2
+
+c^2 = 2500 - 1600 = 900 /\n
+
+c = 30
+
+3) Wyznaczamy wysokość trapezu z pola trójkąta ABC:
+
+P_{a} = \frac{40 \cdot 30}{2} = 600
+
+600 = \frac{50 \cdot h}{2}
+
+50h = 1200
+
+h = 24
+
+jeśli poprowadzimy wysokość h dwukrotnie z wierzchołka C i D, podstawa podzieli nam się na długości x, b oraz x. Znamy długość tej podstawy, więc wyznaczenie x pozwoli nam zakończyć zadanie
+
+4) Wyznaczamy x z tw. Pitagorasa i wyznaczamy obwód:
+
+x^2 + h^2 = c^2
+
+x^2 + 24^2 = 30^2 = 900 - 576 = 324 /\n
+
+x = 18
+
+x + b + x = 50
+
+b + 36 = 50
+
+b = 14
+
+Ob = 50 + 14 + 30 + 30 = 124
+
+Odp. Ob = 124 cm

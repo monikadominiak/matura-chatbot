@@ -1,0 +1,37 @@
+
+--- STRONA 1 ---
+z3 (3.3)  
+Liczby pierwsze p i q (p ≠ q) są pierwiastkami wielomianu  
+W(x) = 2x^3 + bx^2 + cx - 10, gdzie b, c są liczbami całkowitymi. Zapisz wielomian W(x) jako iloczyn trzech wielomianów stopnia pierwszego.
+
+W(x) = 2x^3 + bx^2 + cx -10
+
+Potencjalne pierwiastki wielomianu w(x).
+
+Korzystamy z twierdzeń:
+
+1) twierdzenie o pierwiastkach całkowitych - jeżeli wielomian o współczynnikach całkowitych ma pierwiastek całkowity to jest on dzielnikiem wyrazu wolnego
+
+2) twierdzenie o pierwiastkach wymiernych - jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, to ten pierwiastek musi być w postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze zmiennej.
+
+{-1, ±2, ±5, ±10, ±1/2, ±5/2}
+
+2 i 5 to jedyne liczby pierwsze, z treści zadania wiemy że są one pierwiastkami wielomianu. Zapiszmy wielomian w postaci iloczynowej:
+
+w(x) = a(x-x_1)(x-x_2)(x-x_3)
+
+w(x) = 2(x-2)(x-5)(x-x_3)
+
+Aby wyznaczyć ostatni, trzeci pierwiastek porównamy wyrazy wolne w postaci ogólnej oraz iloczynowej wielomianu:
+
+2x^3 + bx^2 + cx -10 = 2(x-2)(x-5)(x-x_3)
+
+-10 = 2(-2)(-5)(-x_3)
+
+-10 = -20 x_3 |:(-20)
+
+x_3 = 1/2
+
+w(x) = 2(x-2)(x-5)(x-1/2)
+
+Odp: w(x) = 2(x-2)(x-5)(x-1/2).

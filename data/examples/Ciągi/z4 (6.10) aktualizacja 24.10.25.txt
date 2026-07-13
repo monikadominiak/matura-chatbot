@@ -1,0 +1,52 @@
+
+--- STRONA 1 ---
+z4 (6.11)
+
+W nieskończonym malejącym ciągu geometrycznym (a_n), określonym dla n ≥ 1, spełnione są warunki
+
+\[\frac{a_5+a_3}{a_3} = \frac{13}{9}\]
+
+oraz 
+
+\[a_2 + a_4 + a_6 + \ldots = 12.\]
+
+Wyznacz:
+a) wzór na n-ty wyraz a_n
+b) sumę \(S_{20} = a_1 + \cdots + a_{20}\)
+c) sumę wszystkich wyrazów S_∞
+
+a)
+
+① Wyznaczamy iloraz q.
+
+\[\frac{a_5 + a_3}{a_3} = \frac{a_3 q^4 + a_3}{a_3} = 1 + q^2 = \frac{13}{9}\]
+
+\[q^2 = \frac{4}{9}\]
+
+\[q = \frac{2}{3} \quad \lor \quad q = -\frac{2}{3}\]
+
+Odrzucamy \(q = \frac{2}{3}\) ponieważ ciąg byłby niemono... \[a_1 (1 - q^{20})\]
+
+② Wyznaczamy a_1.
+
+\[a_2 + a_4 + a_6 + \ldots = \frac{a_2}{1 - q^2} = \frac{a_1 q}{1 - q^2} = 12\]
+
+\[a_1 = 12 \cdot \frac{1 - q^2}{q} = 12 \cdot \frac{1 - \frac{4}{9}}{\frac{2}{3}} = 12 \cdot \frac{\frac{5}{9}}{\frac{2}{3}} = 10\]
+
+③ Zapisujemy wzór na a_n.
+
+\[a_n = a_1 q^{n-1} = 10 \cdot \left( -\frac{2}{3} \right)^{n-1}\]
+
+b)
+
+④ Obliczamy \(S_{20}\).
+
+\[S_{20} = a_1 \cdot \frac{1 - q^{20}}{1 - q} = 10 \cdot \frac{1 - \left( -\frac{2}{3} \right)^{20}}{1 + \frac{2}{3}} = 30 \cdot \left( 1 - \left( -\frac{2}{3} \right)^{20} \right)\]
+
+c) Obliczamy sumę wszystkich wyrazów.
+
+\[\left| q \right| < 1 \quad \text{jest spełnione}\]
+
+\[S = \frac{a_1}{1 - q} = \frac{10}{1 + \frac{2}{3}} = 30\]
+
+Odp.: a) \(a_n = 10 \cdot \left( -\frac{2}{3} \right)^{n-1}\), b) \(S_{20} = 30 \left( 1 - \left( -\frac{2}{3} \right)^{20} \right)\), c) \(S = 30.\)

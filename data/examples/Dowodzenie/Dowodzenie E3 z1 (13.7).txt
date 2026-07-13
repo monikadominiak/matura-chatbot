@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Uzasadnij, że liczby \(2^{\log_3 5}\) i \(5^{\log_3 2}\) są równe.
+
+teza: \(2^{\log_3 5} \stackrel{?}{=} 5^{\log_3 2}\) 
+
+\[
+\begin{array}{cl}
+\text{\((\textcolor{blue}{1}\))} & 2^{\log_3 5} \stackrel{?}{=} 5^{\log_3 2} / \text{do obu stron równania} \\
+& \text{stosujemy logarytm o podstawie \(\textcolor{green}{3}\)} \\
+& \log_3 2^{\log_3 5} = \log_3 5^{\log_3 2} \\
+\\
+\text{\((\textcolor{blue}{2}\))} & \text{z własności } \log_a x^r = r \cdot \log_a x \text{ mamy:} \\
+& \log_3 5 \cdot \log_3 2 = \log_3 2 \cdot \log_3 5 \\
+& L = P \\
+\end{array}
+\]
+
+zatem podane liczby są równe
+
+c.k.d.

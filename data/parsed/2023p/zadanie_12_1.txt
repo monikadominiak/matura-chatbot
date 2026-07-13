@@ -1,0 +1,18 @@
+=== ARKUSZ: 2023p | ZADANIE 12.1 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Dziedziną funkcji $f$ jest zbiór
+A. $[-6, 5]$
+B. $(-6, 5)$
+C. $(-3, 5]$
+D. $[-3, 5]$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

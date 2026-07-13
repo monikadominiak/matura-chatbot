@@ -1,0 +1,17 @@
+=== ARKUSZ: 2016p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-2)
+Dany jest trójkąt prostokątny ABC. Na przyprostokątnych AC i AB tego trójkąta obrano odpowiednio punkty D i G. Na przeciwprostokątnej BC wyznaczono punkty E i F takie, że kąty DEC = BGF = 90° (zobacz rysunek). Wykaż, że trójkąt CDE jest podobny do trójkąta FBG. Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 29. $(0-2)$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów (7.3).
+Przykładowe rozwiązania I sposób Niech $|\sphericalangle ACB|=\alpha$. Ponieważ $|\sphericalangle CAB|=90^{\circ}$, więc $|\sphericalangle ABC|=90^{\circ}-\alpha$. W $\Delta CDE$: $|\sphericalangle DEC|=90^{\circ}$, więc $|\sphericalangle CDE|=90^{\circ}-\alpha$. Trójkąt CDE jest prostokątny oraz $|\sphericalangle DEC|=90^{\circ}$, więc $|\sphericalangle CDE|=90^{\circ}-\alpha$. Podobnie trójkąt BFG jest prostokątny i $|\sphericalangle FGB|=90^{\circ}$, więc $|\sphericalangle BFG|=\alpha$ Ponieważ trójkąty CDE i BFG mają równe kąty, więc na podstawie cechy podobieństwa kkk są podobne.
+II sposób Niech $|\sphericalangle ACB|=|\sphericalangle DCE|=\alpha$ i $|\sphericalangle ABC|=|\sphericalangle FBG|=\beta$. Trójkąt CED jest podobny do trójkąta ABC (cecha kkk), bo $|\sphericalangle ACB|=|\sphericalangle DCE|=\alpha$ oraz $|\sphericalangle CAB|=|\sphericalangle DEC|=90^{\circ}$ Podobnie trójkąt GBF jest podobny do trójkąta ABC, (cecha kkk), bo $|\sphericalangle ABC|=|\sphericalangle FBG|=\beta$ oraz $|\sphericalangle CAB|=|\sphericalangle FGB|=90^{\circ}$. Stąd trójkąt CED jest podobny do trójkąta FBG (z przechodniości relacji podobieństwa).
+Schemat punktowania Zdający otrzymuje 1 p. gdy wskaże w dwóch trójkątach spośród trójkątów CBA, CDE i FBG jedną parę równych kątów ostrych i na tym zakończy lub dalej popełni błędy, przy czym kąt przy wierzchołku B musi być wskazany dwukrotnie, jako kąt w obu trójkątach CBA i FBG, np. zdający zapisze $|\sphericalangle FBG|=|\sphericalangle CBA|$ lub stwierdzi, że jest to wspólny kąt trójkątów CBA i FBG (analogicznie z kątem przy wierzchołku C w trójkątach CBA i CDE) albo zapisze, że trójkąt CBA jest podobny do trójkąta FBG i do trójkąta CDE i stąd wywnioskuje, że trójkąt CDE jest podobny do trójkąta FBG, ale nie wskaże żadnej pary równych kątów ostrych w tych trójkątach i na tym zakończy lub dalej popełnia błędy.
+Strona 10 z 20
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie.
+Uwagi:
+Jeżeli zdający przyjmie konkretne miary kątów, to otrzymuje 0 punktów.
+Jeżeli zdający przyjmie błędne zależności między kątami, to otrzymuje 0 punktów.

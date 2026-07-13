@@ -1,0 +1,83 @@
+
+--- STRONA 1 ---
+5. Funkcje wymierne 2
+
+Funkcja h jest dana za pomocą wzoru h(x) = f(x) + g(x). Określ dziedzinę funkcji h, podaj jej miejsca zerowe i wyznacz zbiór argumentów, dla których przyjmuje ona wartości nieujemne.
+
+a) f(x) = x/(2x-1), g(x) = x-4/(3x+6)
+b) f(x) = x^2+x/(x^2-4), g(x) = 3x-3/x+2
+
+Uwaga 1: zamiast osobno wyznaczać miejsca zerowe wyznaczamy najpierw przy pomocy odpowiedniej nierówności argumenty , dla których funkcja przyjmuje wartości nieujemne, i końce punktów krańcowe przedziału - o ile należą do dziedziny - będą miejscami zerowymi.
+
+Uwaga 2: rozwiązując nierówność nigdy nie wolno mnożyć jej przez mianownik, bo nie wiedzielibyśmy czy należy zostawić znak nierówności czy odwrócić. Zamiast tego mnoży się przez kwadrat mianownika.
+
+a) h(x) = x/(2x-1) + x-4/(3x+6)
+
+1️⃣ Wyznaczamy dziedzinę funkcji f(x).
+
+D: 2x-1 ≠ 0      ∧    3x+6 ≠ 0  
+   x ≠ 1/2            3x ≠ -6
+                         x ≠ -2
+
+2️⃣ Obliczamy h(x) ≥ 0.
+
+x/(2x-1) + x-4/(3x+6) ≥ 0 / ⋅ (2x-1)^2 (3x+6)^2
+
+x(2x-1)(3x+6)^2 + (x-4)(2x-1)^2(3x+6) ≥ 0
+
+(2x-1)(3x+6) [ x(3x+6) + (x-4)(2x-1) ] ≥ 0
+
+(2x-1)(3x+6) [ 3x^2 + 6x + 2x^2 - x - 2x + 4 ] ≥ 0
+
+(2x-1)(3x+6) (5x^2 + 3x + 4) ≥ 0
+
+2x-1 ≠ 0            3x+6 ≠ 0          5x^2+3x+4 = 0
+x ≠ 1/2             x ≠ -2                Δ = 3^2 - 4⋅5⋅1 < 0
+
+x ∈ (-∞,-2) ∪ (1/2,+∞)
+
+Odp.: Funkcja h(x) przyjmuje wartości nieujemne dla x ∈ (-∞,-2) ∪ (1/2,+∞). Funkcja nie ma miejsc zerowych.
+
+--- STRONA 2 ---
+
+b) \( h(x) = \frac{x^2+x}{x^2-4} + \frac{3-x}{x+2} \)
+
+\( \ \)
+
+① Wyznaczamy dziedzinę funkcji \( f(x) \).
+
+D: \ \ \ \( x^2-4 \neq 0 \ \ \ \land \ \ \ x+2 \neq 0 \)
+
+\(\ \ \ \ \ \ \ \ \ \ \ \ \ \ x^2 \neq 4 \)
+
+\(\ \ \ \ \ \ \ \ \ \ x \neq \pm 2 \)
+
+D=\(\mathbb{R}\backslash\{-2, 2\}\)
+
+\( \ \)
+
+② Obliczamy \( h(x) \geq 0 \).
+
+\(\frac{x^2+x}{x^2-4} + \frac{3-x}{x+2} \geq 0 \)
+
+\(\frac{x^2+x}{(x-2)(x+2)} + \frac{3-x}{x+2} \geq 0 \ \ /\cdot(x-2)^2(x+2)^2\)
+
+\((x^2+x)(x-2)(x+2) + (3-x)(x+2)(x-2)^2 \geq 0\)
+
+\((x-2)(x+2) \left[x^2+x + (3-x)(x-2) \right] \geq 0\)
+
+\((x-2)(x+2) \left[ x^2+x + 3x-6-x^2+2x \right] \geq 0\)
+
+\((x-2)(x+2)(x+2)(6x-6) \geq 0\)
+
+\( \ \ \ \ \ \ \ \ \ x=2 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ x=-2 \ \ \ \ \ \ x=1\)
+
+\(\ \ \ \ \ \ \ \ \ \ \ \ \ \notin D \ \ \ \ \ \ \ \ \ \ \notin D\ \)
+
+\(x \in (-\infty,-2) \cup [1,2)\)
+
+\( \ \)
+
+\(\text{Odp.: Funkcja } h(x) \text{ przyjmuje wartości nieujemne  dla  }  x \in (-\infty,-2) \cup [1,2). \text{ Miejsce zerowe}\)
+
+\(\text{funkcji: } x=1.\)

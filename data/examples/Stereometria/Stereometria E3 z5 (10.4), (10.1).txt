@@ -1,0 +1,55 @@
+
+--- STRONA 1 ---
+Podstawą ostrosłupa jest trapez równoramienny o kącie ostrym α, w którym ramię i krótsza podstawa ma długość a. Każda krawędź boczna ostrosłupa tworzy kąt β z płaszczyzną podstawy. Oblicz objętość tego ostrosłupa.
+
+1) sporządzamy rysunek pomocniczy samej podstawy
+
+(A) ∠DAB = ∠CBA = α
+
+(B) ∠ADC = ∠BCD = 180° - α (z własności trapezu)
+
+2) wyznaczamy długość ρ w zależności od danych (z tw. sinusów w ΔACO)
+
+(A) ρ^2 = 2a^2 - 2a^2cos(180° - α)
+
+(B) ρ^2 = 2a^2(1 - cos(180° - α))
+
+(C) ρ = a√2(1 - cos(180° - α))
+
+3) wyznaczamy długość h i |AB| w zależności od danych
+
+w ΔCBB' sindα = h/a ⇒ h = a·sinα
+
+(A) cosα = x/a ⇒ x = a·cosα
+
+więc: |AB| = 2acosα + a = a(2cosα + 1)
+
+4) wyznaczamy długość H
+
+skoro wiemy, że ρ to na trapezie opisujemy okrąg, a spodek wysokości ostrosłupa będzie jego środkiem
+
+z tw. sinusów w ΔACO mamy: (trójkąt ten jest wpisany w ten sam okrąg co trapez)
+
+(A) ρ/sin(180° - α) = 2R
+
+(B) R = a√2(1 - cos(180° - α))/2sin(180° - α)
+
+tqβ = H/R ⇒ H = tqβ·R
+
+H = a√2(1 - cos(180° - α))/2sin(180° - α) · tqβ
+
+5) liczymy pole podstawy
+
+(A) pp = (a + a(2cosα + 1))·sinα/2
+
+(B) = a^2sinα + a^2sinα(2cosα + 1)/2
+
+(C) = 2a^2sinα(cosα + 1)/2
+
+6) liczymy objętość ostrosłupa
+
+(A) V = 1/3·a^2sinα(cosα + 1)·a√2(1 - cos(180° - α))/2sin(180° - α) · tqβ 
+
+(B) = √2/6 · a^3√(1 + cosα)^3 · tqβ
+
+Odp: √2/6 a^3√(1 + cosα)^3 · tqβ

@@ -1,0 +1,36 @@
+
+--- STRONA 1 ---
+z3 (5.1)
+
+Rozwiąż równanie cos x ∙ tgx + sin x = 2.
+
+1️⃣ Wyznaczamy dziedzinę równania
+
+Tanges ma ograniczoną dziedzinę, i w takim razie równanie także ma ograniczoną dziedzinę
+
+x ≠ π/2 + kπ, k ∈ ℤ.
+
+2️⃣ Zamienimy tgx na sinx i cosx.
+
+Jeśli tangens w równaniu występuje w połączeniu funkcji sinus lub cosinus, zwykle należy użyć wzoru:
+
+tgx = sinx / cosx
+
+cosx ∙ tgx + sinx = 2
+
+cosx ∙ sinx / cosx + sinx = 2
+
+sinx + sinx = 2
+
+sinx = 1
+
+3️⃣ Rozwiązujemy równanie
+
+To proste równanie trygonometryczne trzeba rozwiązać odczytując z wykresu funkcji sinus argumenty, dla których są osiągane poszczególne wartości.
+
+x = π/2 + 2kπ, k ∈ ℤ.
+
+--- STRONA 2 ---
+Rozwiązanie nie należy do uprzednio wyznaczonej dziedziny wynikającej z istnienia funkcji tangens w równaniu.
+
+Odp.: Równanie nie ma rozwiązań

@@ -1,0 +1,18 @@
+
+--- STRONA 1 ---
+Uczniowie klasy matematyczno-informatycznej muszą uczęszczać na fakultety z trzech przedmiotów, w tym z co najmniej dwóch przedmiotów ścisłych. Wyboru dokonują spośród dziesięciu przedmiotów, wśród których są cztery przedmioty ścisłe. Oblicz na ile sposobów może wybrać fakultety każdy uczeń tej klasy.
+
+➊ analizujemy polecenie
+
+10 przedmiotów - w tym 4 ścisłe
+
+wybór: 3 przedmioty (2 lub 3 ścisłe)
+
+➋ przedmioty nie powtarzają się, a kolejność wyboru nie ma znaczenia
+⇒ używamy kombinacji
+
+\(
+\binom{4}{2} \cdot \binom{6}{1} + \binom{4}{3} = \frac{4!}{2! \cdot 2!} \cdot 6 + 4 = 36 + 4 = 40
+\)
+
+Odp: 40

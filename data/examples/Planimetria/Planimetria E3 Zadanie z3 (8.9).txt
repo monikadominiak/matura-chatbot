@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+Zadanie z3 (8.9) W pewnym n-kącie liczba przekątnych jest równa różnicy między sześcianem liczby jego boków a 207. Oblicz ile boków ma ten wielokąt.
+
+1) Korzystamy ze wzoru na liczbę przekątnych 
+w n-kącie i rozwiązujemy równanie:
+
+Wzór na liczbę przekątnych w n-kącie:
+
+\[
+\frac{n(n-3)}{2}
+\]
+
+\[
+\frac{n(n-3)}{2} = n^3 - 207
+\]
+
+\[
+n^2 - 3n = 2n^3 - 414
+\]
+
+\[
+2n^3 - n^2 + 3n - 414 = 0
+\]
+
+\[
+2n^3 - n^2 + 3n - 414n - 86n + 69n - 414 = 0
+\]
+
+\[
+2n^2 (n-6) + 41n (n-6) + 69 (n-6) = 0
+\]
+
+\[
+(n-6) (2n^2 + 41n + 69) = 0
+\]
+
+\[
+n = 6 \quad \Delta = 41^2 - 4 \cdot 2 \cdot 65 < 0
+\]
+
+Odp. 6 boków.

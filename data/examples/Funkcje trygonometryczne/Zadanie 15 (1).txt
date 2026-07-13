@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+Zadanie 15
+
+Rozwiąż równanie 4 \sin \frac{x}{2} + \cos x = 3, gdy x \in [-\pi, 2\pi].
+
+Będziemy korzystać ze wzoru \cos 2\alpha = 1 - 2\sin^2 \alpha.
+
+1️⃣ Zamieniamy \cos x na \sin^2 \frac{x}{2}.
+
+\cos x = 1 - 2\sin^2 \frac{x}{2}
+
+4 \sin \frac{x}{2} + 1 - 2\sin^2 \frac{x}{2} = 3
+
+2️⃣ Podstawiamy zmienną pomocniczą.
+
+t = \sin \frac{x}{2}, \quad t \in [-1, 1]
+
+4t + 1 - 2t^2 = 3
+
+2t^2 - 4t + 2 = 0
+
+t^2 - 2t + 1 = 0
+
+(t - 1)^2 = 0
+
+t = 1
+
+3️⃣ Cofamy podstawienie.
+
+\sin \frac{x}{2} = 1
+
+4️⃣ Rozwiązujemy równanie,
+
+\frac{x}{2} = \frac{\pi}{2} + 2k\pi \quad \vert \cdot 2
+
+x = \pi + 4k\pi
+
+5️⃣ Obliczamy rozwiązanie w przedziale [-\pi, 2\pi].
+
+k = 0 \quad x = \pi \, , \quad k = 1 \quad x = 5\pi \notin [-\pi,2\pi]
+
+Odp. Jedynym rozwiązaniem w przedziale [-\pi,2\pi] jest \, x = \pi.

@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+**Zadanie z2 (9.5)** Dane są wektory \(\vec{u} = [3, \ 5]\) i \(\vec{v} = [-2, \ 6]\). Wyznacz takie liczby a i b, aby
+
+\[ a \cdot \vec{u} + b \cdot \vec{v} = [10, \ 5]. \]
+
+1) Wyznaczamy wektory i rozwiązujemy równanie:
+
+**Wskazówka**: W zadaniu należy wykorzystać podstawowe właściwości wektorów:
+
+Dla wektorów \(\vec{u} = [u_1, u_2]\), \(\vec{v} = [v_1, v_2]\) oraz liczby a, zachodzi:
+
+\[\vec{u} \cdot \vec{v} = [v_1 \cdot u_1, v_1 \cdot u_2]\]
+
+\[\vec{u} - \vec{v} = [v_1 - u_1, v_2 - u_2]\]
+
+\[a \cdot \vec{u} = [a \cdot u_1, a \cdot u_2]\]
+
+\[a \cdot [3, 5] + b \cdot [-2, 6] = [10, 5]\]
+
+\[[3a - 2b, 5a + 6b] = [10, 5]\]
+
+\[\begin{cases} 
+3a - 2b = 10 \\ 
+5a + 6b = 5 
+\end{cases}\]
+
+\(+\)
+
+\[\begin{cases} 
+9a - 6b = 30 \\ 
+5a + 6b = 5 
+\end{cases}\]
+
+\[14a = 35 \Rightarrow a = \frac{5}{2} \Rightarrow 5 \cdot \frac{5}{2} + 6b = 5\]
+
+\[b = -\frac{5}{6}\]
+
+Odp. \(a = \frac{5}{2}\) i \(b = -\frac{5}{6}\).

@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+2. Przesuwanie wykresu f. wymiernej 2
+
+Wykres funkcji \( g \) otrzymano przez przesunięcie wykresu funkcji \( f(x) = \frac{a}{x} \) o dany wektor.
+Wyznacz wzór funkcji \( g \), jeśli punkt \( P \) należy do jej wykresu:
+
+a) \([3; -0{,}75],\ P(-2; -1)\)
+b) \([- \sqrt{2}; 6],\ P(1; -3\sqrt{2})\)
+
+a) 
+1️⃣ Przesuwamy funkcję \( f(x)=\frac{a}{x} \) o wektor \(\vec{u}=[3; -0{,}75]\).
+
+\( f(x)\ \vec{u}^T=[a,b] \quad g(x)=f(x-a)+b. \)
+
+\( \vec{u}^T=[3; -0{,}75] \quad g(x)=\frac{a}{x-3}-0{,}75 \)
+
+2️⃣ Wyznaczamy współczynnik \( a \) we wzorze funkcji \( g(x). \)
+
+Podstawiamy punkt \( P(-2,-1) \).
+
+\(-1 = \frac{a}{-2-3}-0{,}75\)
+
+\(-0{,}25 = \frac{a}{-5} \, / \cdot(-5)\)
+
+\( a=1{,}25 \)
+
+\( g(x)= \frac{1{,}25}{x-3}-0{,}75=\frac{5}{4}\cdot\frac{1}{x-3}-0{,}75=\frac{5}{4(x-3)}-0{,}75 \)
+
+Odp: Wzór szukanej funkcji: \( g(x)=\frac{5}{4(x-3)}-0{,}75 \).
+
+--- STRONA 2 ---
+b)
+
+1️⃣ Przesuwamy funkcję \( f(x) = \frac{a}{x} \) o wektor \(\vec{u} = [-\sqrt{12}, -6] \).
+
+\[ f(x) \overset{\vec{u} = [a, b]}{\longrightarrow} g(x) = f(x-a) + b. \]
+
+\[ f(x) \overset{\vec{u} = [-\sqrt{12}, -6]}{\longrightarrow} g(x) = \frac{a}{x+\sqrt{12}} - 6 \]
+
+2️⃣ Wyznaczamy współczynnik \( a \) we wzorze funkcji \( g(x). \)
+
+Podstawiamy punkt \( P(1, -3\sqrt{2}). \)
+
+\[-3\sqrt{2} = \frac{a}{1+\sqrt{12}} - 6 \]
+
+\[ 6 - 3\sqrt{2} = \frac{a}{1+\sqrt{12}} \ \ | \cdot (1+\sqrt{12}) \]
+
+\[ a = (6 - 3\sqrt{2})(1+\sqrt{12}) = 6 + 6\sqrt{12} - 3\sqrt{12} - 6 \]
+
+\[ a = 3\sqrt{12} \]
+
+Odp: Wzór szukanej funkcji: \( g(x) = \frac{3\sqrt{12}}{x+\sqrt{12}} - 6 \).

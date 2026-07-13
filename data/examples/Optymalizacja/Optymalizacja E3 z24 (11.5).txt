@@ -1,0 +1,74 @@
+
+--- STRONA 1 ---
+Na osi OX wybieramy punkt \( P = (x, 0) \). Dane są punkty \( A = (0, 4) \) i \( B = (6, 4) \). Znajdź takie \( x \), by suma odległości \( AP + BP \) była minimalna. Podaj tę minimalną wartość.
+
+① zapisujemy wzór funkcji korzystając ze wzoru:
+\( P(x,0) , A(0,4) , B(6,4) \)
+
+\[
+|AB| = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}
+\]
+
+\[
+AP + BP = f(x) = \sqrt{x^2 + 4^2} + \sqrt{(x-6)^2+4^2} = \sqrt{x^2 + 16} + \sqrt{(x-6)^2+16}
+\]
+
+② liczymy pochodną funkcji \( f \) \( \text{(funkcji złożonej)} \)
+
+\[
+f'(x) = \frac{1}{2\sqrt{x^2+16}} \cdot 2x + \frac{1}{2\sqrt{(x-6)^2+16}} \cdot (2x-12) = 
+\]
+
+\[
+= \frac{x}{\sqrt{x^2+16}} + \frac{x-6}{\sqrt{(x-6)^2+16}}
+\]
+
+③ wyznaczamy miejsca zerowe pochodnej
+
+\[
+\frac{x}{\sqrt{x^2+16}} = \frac{6-x}{\sqrt{(6-x)^2+16}}
+\]
+
+\[
+\frac{x^2}{x^2+16} = \frac{(6-x)^2}{(6-x)^2+16} 
+\]
+
+\[
+(1)^2 \implies x^2(6-x)^2 + 16x^2 = x^2(6-x)^2 + 16(6-x)^2 
+\]
+
+\[
+x^2 = (6-x)^2 \Rightarrow 1x| = 16-x|
+\]
+
+\[
+x=3
+\]
+
+④ badamy monotoniczność i ekstrema
+
+\[
+\lim_{x \to -\infty} \left( \frac{x}{\sqrt{x^2+16}} + \frac{x-6}{\sqrt{(x-6)^2+16}} \right) = -2
+\]
+
+\[
+\lim_{x \to +\infty} \left( \frac{x}{\sqrt{x^2+16}} + \frac{x-6}{\sqrt{(x-6)^2+16}} \right) = 2
+\]
+
+- oraz \( x=3 \) jest jedynym miejscem zerowym pochodnej
+
+\[
+\text{zatem: } \Rightarrow \text{dla } x<3 \quad f'(x)<0 \quad \Rightarrow \text{dla } x>3 \quad f'(x)>0
+\]
+
+\( x=3 \) jest minimum globalnym
+
+⑤ liczymy minimalną wartość
+
+\[
+f_{min} = f(3) = \sqrt{9+16} + \sqrt{9+16} = 5 + 5 = 10
+\]
+
+\[
+\text{odp: } f_{min} = f(3) = 10
+\]

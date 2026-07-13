@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+Zad.12 W trójkącie prostokątnym jedna z przyprostokątnych ma długość 65 cm, a wysokość poprowadzona na przeciwprostokątną jest równa 60 cm. Oblicz promień okręgu opisanego na tym trójkącie.
+
+1) Tworzymy rysunek poglądowy:
+
+[Tu jest rysunek trójkąta]
+
+promień okręgu możemy wyznaczyć poprzez wcześniejsze wyznaczenie jego średnicy. Jeśli najpierw wyznaczymy długość y+R, będzie można wówczas wyznaczyć x z własności wysokości poprowadzonej z wierzchołka kąta prostego
+
+2) Korzystamy z tw. Pitagorasa:
+
+(y+R)^2 + 60^2 = 65^2
+
+(y+R) = sqrt(4225 - 3600) = sqrt(625) = 25
+
+3) Korzystamy z własności wysokości poprowadzonej z wierzchołka kąta prostego w trójkącie prostokątnym:
+
+h = sqrt(x * (y+R))
+
+60 = sqrt(25x)
+60 = 5sqrt(x)
+sqrt(x) = 12
+x = 144
+
+4) Wyznaczamy promień okręgu opisanego:
+
+2R = x + (y+R) = 144 + 25 = 169
+R = 169/2 = 84,5
+
+Odp. R = 84,5 cm

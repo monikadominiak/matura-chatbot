@@ -1,0 +1,17 @@
+
+--- STRONA 1 ---
+Zadanie 6
+
+Oblicz dla jakiej wartości parametru \(m\) największa wartość funkcji \(f(x) = m \sin x - 2\) jest równa 3.
+
+1️⃣ Obliczamy wartość parametru \(m\).
+
+Największa wartość funkcji będzie gdy \(\sin x = 1\).
+
+\[m \cdot 1 - 2 = 3\]
+
+\[m - 2 = 3\]
+
+\[m = 5\]
+
+Odp.: \(m = 5\).

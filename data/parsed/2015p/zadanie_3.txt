@@ -1,0 +1,13 @@
+=== ARKUSZ: 2015p | ZADANIE 3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 3. (0-1)
+Kwotę 1000 zł ulokowano w banku na roczną lokatę oprocentowaną w wysokości 4% w stosunku rocznym. Po zakończeniu lokaty od naliczonych odsetek odprowadzany jest podatek w wysokości 19%. Maksymalna kwota, jaką po upływie roku będzie można wypłacić z banku, jest równa
+A. 1000 * (1 - 81/100 * 4/100)
+B. 1000 * (1 + 19/100 * 4/100)
+C. 1000 * (1 + 81/100 * 4/100)
+D. 1000 * (1 - 19/100 * 4/100)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 3. (0-1)  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A

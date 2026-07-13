@@ -1,0 +1,26 @@
+
+--- STRONA 1 ---
+Trójkąty prostokątne równoramienne ABC i CDE są położone tak, jak na rysunku obok. W obu trójkątach kąt przy wierzchołku C jest prosty. Wykaż, że |AD| = |BE|.
+
+teza: |AD| = |BE|
+
+(1) zaznaczamy odcinki AD i BE
+
+(2) równości boków można wykazać np: poprzez wykazanie przystawania trójkątów
+
+wykażemy zatem przystawanie ΔADC i ΔBEC
+
+(3) szukamy odpowiedniej cechy przystawania
+
+z dwóch kątów prostych przy wierzchołku C:
+
+α = 90° - β
+γ = 90° - β { ⇒ α = γ
+(mamy zatem już jeden ten sam kąt w analizowanych trójkątach)
+
+skoro ΔABC - równoramienny, to wiemy, że |AC| = |BC| także ΔCDE - równoramienny, więc |CE| = |CD|
+
+z cechy bkb ΔADC ≡ ΔBEC,
+zatem |AD| = |BE|
+
+c.k.d.

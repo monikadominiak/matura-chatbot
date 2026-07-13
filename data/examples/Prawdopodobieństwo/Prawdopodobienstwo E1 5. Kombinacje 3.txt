@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+W turnieju szachowym rozegrano 55 partii. Ilu było uczestników, jeśli każdy uczestnik rozegrał jedną partię z każdym z pozostałych?
+
+1️⃣ wypisujemy dane z polecenia
+
+55 partii, każdy raz grał z każdym
+
+czyli wybrać 2 osoby, gdzie wybór osoba A, osoba B, to to samo co wybór osoba B, osoba A można na 55 sposobów
+
+2️⃣ zapisujemy dwumian Newtona, gdzie n - liczba uczestników n∈N₊
+
+(n po 2) = 55  =>  n!/(2!(n-2)!) = 55  /⋅2
+
+(n-1)n = 110
+
+n² - n - 110 = 0
+
+Δ = 1 + 440 = 441   sqrt(Δ) = 21
+
+n₁ = (1+21)/2 = 11   n₂ = (1-21)/2 < 0
+
+odp: n = 11

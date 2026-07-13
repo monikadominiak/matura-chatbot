@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+Zad.22 Wyznacz środek S i skalę jednostkoci l, którą okrąg
+\[ o_1: x^2 + y^2 + 12x + 2y + 36 = 0 \text{ przekształca na okrąg } o_2: x^2 + y^2 - 16x - 12y + 96 = 0. \]
+
+1) Wyznaczamy środki i promienie okręgów
+
+I sposób - podstawienie
+
+\[
+\begin{align*}
+x^2+y^2+12x+2y+36=0 & \quad x^2+y^2-16x-12y+96=0\\
+x^2+y^2+12x+2y+c=0 & \quad x^2+y^2-16x-12y+c=0\\
+c=-36 & \quad x^2+y^2-16x-12y+c=96 \\
+2ax=-12 & \quad 2hy=-2y & \quad & 2ax=16 \\
+ac=-c & \quad &  & \\
+x-y & \quad &  & \\
+c=-c & \quad & \\
+a^2 & \quad & \\
+y^2 & \quad & \\
+r^2+c=0 & \quad r^2+c=0 \\
+r^2=-36 & \quad &  \\
+r-6=0 & \quad r-2=0 \\
+r=0 & \quad &  &  \\
+o_1: (x+6)^2+y^2+4=0 & \quad S(-6,0) \quad r=4 \\
+o_2: (x-(-3))^2+(y-1)^2=0 & \quad S(80,0) \quad r=2
+\end{align*}
+\]
+
+2) Wyznaczamy skalę i punkt jednostkoci
+
+\[ |k| = \frac{r_a}{r_2} = \frac{2}{0} = k \cdot 2 \quad k \cdot 2 = 0 \quad \text{ Skala jednostkowości jest podzielona przez o skali } |k| . \]
+
+\[
+\begin{align*}
+k = 0 \\
+x(a-3)+2 = 0 \\
+2[-2]+0x-y+6=7 \\
+x+y-\begin{pmatrix} [2x+y] \end{pmatrix} +6 \\
+3x+2. & \quad 3[7]. \\
+x=k^3 & \quad y=\frac{7}{3}
+\end{align*}
+\]
+
+\[ S(3,3) \]
+
+\[ Odp. Dla \; k=2, \; S(3,3) \; lub \; dla \; k=2, \; S(20,0). \]
+
+II sposób - zmniejsz do wzorów środowego mnożenia
+
+\[
+\begin{align*}
+x^2=y^2+12x+2y+36=0 \\
+(x-(-6))^2-y(2)+4=0 \\
+o_2 \; (x +(-3))^2+\frac{-12y}{2+y}+4=0
+\end{align*}
+\]
+
+S(-6,0) \quad r=4
+
+S(20,0) \quad r=2

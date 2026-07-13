@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Wykaż, że jeżeli \( c > 0 \), to trójmian kwadratowy \( y = x^2 + bx - c \) ma dwa miejsca zerowe.
+
+\( y = x^2 + bx - c \), \( c > 0 \)
+
+① jest to równanie kwadratowe, więc aby określić liczbę rozwiązań wyznaczymy wartość \(\Delta\)
+
+\(\Delta = b^2 - 4ac\)
+
+\(\Delta = b^2 - 4 \cdot 1 \cdot (-c) = b^2 + 4c\)
+
+② komentarz: skoro \( c > 0 \) to iloczyn \( 4c > 0 \), a także \( b^2 \) jako kwadrat liczby rzeczywistej \( b \) jest zawsze \(\geq 0\), więc suma liczby nieujemnej 
+i dodatniej jest dodatnia, mamy zatem \(\Delta > 0\), dla \( b \in \mathbb{R}, c > 0\), więc badany trójmian kwadratowy ma dwa miejsca zerowe
+
+c.k.d.

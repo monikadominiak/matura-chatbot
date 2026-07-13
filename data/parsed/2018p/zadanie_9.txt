@@ -1,0 +1,14 @@
+=== ARKUSZ: 2018p | ZADANIE 9 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 9. (0-1)
+Wykresem funkcji kwadratowej f(x) = x^2 - 6x - 3 jest parabola, której wierzchołkiem jest punkt o współrzędnych A. (-6, -3) B. (-6, 69) C. (3, -12) D. (6, -3)
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 9. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 4. Funkcje. Zdający szkicuje wykresu funkcji kwadratowej, korzystając z jej wzoru (4.8).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D

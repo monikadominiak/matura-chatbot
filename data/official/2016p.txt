@@ -1,0 +1,284 @@
+Matura podstawowa 2016 - arkusz oraz klucz odpowiedzi:
+
+
+Zadanie 1. (0-1)
+Dla każdej dodatniej liczby a iloraz a^(-2,6) / a^(1,3) jest równy
+A. a^(-3,9)
+B. a^(-2)
+C. a^(-1,3)
+D. a^(1,3)
+
+Zadanie 2. (0-1)
+Liczba log_sqrt(2) (2*sqrt(2)) jest równa
+A. 3/2
+B. 2
+C. 5/2
+D. 3
+
+Zadanie 3. (0-1)
+Liczby a i c są dodatnie. Liczba b stanowi 48% liczby a oraz 32% liczby c. Wynika stąd, że
+A. c=1,5a
+B. c=1,6a
+C. c=0,8a
+D. c=0,16a
+
+Zadanie 4. (0-1)
+Równość (2*sqrt(2) - a)^2 = 17 - 12*sqrt(2) jest prawdziwa dla
+A. a=3
+B. a=1
+C. a=-2
+D. a=-3
+
+Zadanie 5. (0-1)
+Jedną z liczb, które spełniają nierówność -x^5 + x^3 - x 
+B. 
+C. 
+
+Zadanie 11. (0-1)
+Najmniejsza wartość funkcji f w przedziale  jest równa
+A. 2
+B. 5
+C. 8
+D. 9
+
+Zadanie 12. (0-1)
+Funkcja f określona jest wzorem f(x) = (2x^3) / (x^6 + 1) dla każdej liczby rzeczywistej x. Wtedy f(-cube_root(3)) jest równa
+A. -(cube_root(9)) / 2
+B. -3/5
+C. 3/5
+D. (cube_root(3)) / 2
+
+Zadanie 13. (0-1)
+W okręgu o środku w punkcie S poprowadzono cięciwę AB, która utworzyła z promieniem AS kąt o mierze 31° (zobacz rysunek). Promień tego okręgu ma długość 10. Odległość punktu S od cięciwy AB jest liczbą z przedziału
+A. 
+B. (11/2, 13/2)
+C. (13/2, 19/2)
+D. (19/2, 37/2&gt;
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 14. (0-1)
+Czternasty wyraz ciągu arytmetycznego jest równy 8, a różnica tego ciągu jest równa -3/2. Siódmy wyraz tego ciągu jest równy
+A. 37/2
+B. -37/2
+C. -5/2
+D. 5/2
+
+Zadanie 15. (0-1)
+Ciąg (x, 2x+3, 4x+3) jest geometryczny. Pierwszy wyraz tego ciągu jest równy
+A. -4
+B. 1
+C. 0
+D. -1
+
+Zadanie 16. (0-1)
+Przedstawione na rysunku trójkąty ABC i PQR są podobne. Bok AB trójkąta ABC ma długość
+A. 8
+B. 8,5
+C. 9,5
+D. 10
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 17. (0-1)
+Kąt alfa jest ostry i tg(alfa) = 2/3. Wtedy
+A. sin(alfa) = (3*sqrt(13)) / 26
+B. sin(alfa) = sqrt(13) / 13
+C. sin(alfa) = (2*sqrt(13)) / 13
+D. sin(alfa) = (3*sqrt(13)) / 13
+
+Zadanie 18. (0-1)
+Z odcinków o długościach: 5, 2a+1, a-1 można zbudować trójkąt równoramienny. Wynika stąd, że
+A. a=6
+B. a=4
+C. a=3
+D. a=2
+
+Zadanie 19. (0-1)
+Okręgi o promieniach 3 i 4 są styczne zewnętrznie. Prosta styczna do okręgu o promieniu 4 w punkcie P przechodzi przez środek okręgu o promieniu 3 (zobacz rysunek). Pole trójkąta, którego wierzchołkami są środki okręgów i punkt styczności P, jest równe
+A. 14
+B. 2*sqrt(33)
+C. 4*sqrt(33)
+D. 12
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 20. (0-1)
+Proste opisane równaniami y = (2 / (m-1)) * x + m - 2 oraz y = m * x + 1 / (m+1) są prostopadłe, gdy
+A. m=2
+B. m=1/2
+C. m=1/3
+D. m=-2
+
+Zadanie 21. (0-1)
+W układzie współrzędnych dane są punkty A=(a, 6) oraz B=(7, b). Środkiem odcinka AB jest punkt M=(3, 4). Wynika stąd, że
+A. a=5 i b=5
+B. a=-1 i b=2
+C. a=4 i b=10
+D. a=-4 i b=-2
+
+Zadanie 22. (0-1)
+Rzucamy trzy razy symetryczną monetą. Niech p oznacza prawdopodobieństwo otrzymania dokładnie dwóch orłów w tych trzech rzutach. Wtedy
+A. 0 &lt;= p &lt; 0,2
+B. 0,2 &lt;= p &lt;= 0,35
+C. 0,35 &lt; p &lt;= 0,5
+D. 0,5 &lt; p  (x^2 - 2x) / 2.
+
+Zadanie 28. (0-2)
+Rozwiąż równanie (2x - 4)(x + 2)(1 - x) = 0.
+
+Zadanie 29. (0-2)
+Dany jest trójkąt prostokątny ABC. Na przyprostokątnych AC i AB tego trójkąta obrano odpowiednio punkty D i G. Na przeciwprostokątnej BC wyznaczono punkty E i F takie, że kąty DEC = BGF = 90° (zobacz rysunek). Wykaż, że trójkąt CDE jest podobny do trójkąta FBG. Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 30. (0-2)
+Ciąg (a_n) jest określony wzorem a_n = n^2 + 2n + 2 dla n &gt;= 1. Wykaż, że suma każdych dwóch kolejnych wyrazów tego ciągu jest kwadratem liczby naturalnej.
+
+Zadanie 31. (0-2)
+Skala Richtera służy do określania siły trzęsień ziemi. Siła ta opisana jest wzorem R = log(A / A_0), gdzie A oznacza amplitudę trzęsienia wyrażoną w centymetrach, a A_0 = 10^(-4) cm jest stałą, nazywaną amplitudą wzorcową. 5 maja 2014 roku w Tajlandii miało miejsce trzęsienie ziemi o sile 6,2 w skali Richtera. Oblicz amplitudę trzęsienia ziemi w Tajlandii i rozstrzygnij, czy jest ona większa, czy mniejsza od 100 cm.
+
+Zadanie 32. (0-4)
+Jeden z kątów trójkąta jest trzy razy większy od mniejszego z dwóch pozostałych kątów, które różnią się o 50°. Oblicz kąty tego trójkąta.
+
+Zadanie 33. (0-5)
+Podstawą ostrosłupa prawidłowego trójkątnego ABCS jest trójkąt równoboczny ABC. Wysokość SO tego ostrosłupa jest równa wysokości jego podstawy. Objętość tego ostrosłupa jest równa 27. Oblicz pole powierzchni bocznej ostrosłupa ABCS oraz cosinus kąta, jaki tworzą wysokość ściany bocznej i płaszczyzna podstawy ostrosłupa.
+
+Zadanie 34. (0-4)
+Ze zbioru wszystkich liczb naturalnych dwucyfrowych losujemy kolejno dwa razy po jednej liczbie bez zwracania. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że suma wylosowanych liczb będzie równa 30. Wynik zapisz w postaci ułamka zwykłego nieskracalnego.
+
+
+ZASADY OCENIANIA:
+
+CK CENTRALNA KOMISJA EGZAMINACYJNA EGZAMIN MATURALNY W ROKU SZKOLNYM 2015/2016 FORMUŁA OD 2015 (,,NOWA MATURA") MATEMATYKA POZIOM PODSTAWOWY ZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ ARKUSZ MMA-P1 MAJ 2016
+Ogólne zasady oceniania Uwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania.
+Zadanie 1. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D
+Zadanie 2. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A
+Zadanie 3. $(0-1)$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Zadanie 4. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia na $(a\pm b)^{2}$ oraz $a^{2}-b^{2}$ (2.1).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: D
+Zadanie 5. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający sprawdza, czy dana liczba rzeczywista jest rozwiązaniem równania lub nierówności (3.1).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Strona 2 z 20
+Zadanie 6. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający oblicza współrzędne punktu przecięcia dwóch prostych (8.4).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: A
+Zadanie 7. $(0-1)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 7. Planimetria. Zdający stosuje zależności między kątem środkowym i kątem wpisanym (7.1).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B
+Zadanie 8. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający posługuje się poznanymi metodami rozwiązywania równań do obliczenia, dla jakiego argumentu funkcja przyjmuje daną wartość (4.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A
+Zadanie 9. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje proste równania wymierne, prowadzące do równań liniowych lub kwadratowych, np. $\frac{x+1}{x+3}=2$, $\frac{x+1}{x}=2x$ (3.8).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: C
+Zadanie 10. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający odczytuje z wykresu własności funkcji - zbiór wartości (4.3).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B
+Zadanie 11. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający odczytuje z wykresu własności funkcji - punkty, w których funkcja przyjmuje w podanym przedziale wartość największą lub najmniejszą (4.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: A
+Zadanie 12. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 4. Funkcje. Zdający oblicza ze wzoru wartość funkcji dla danego argumentu (4.2).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: D
+Strona 3 z 20
+Zadanie 13. $(0-1)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 6. Trygonometria. Zdający korzysta z przybliżonych wartości funkcji trygonometrycznych (6.2).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: C
+Zadanie 14. $(0-1)$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n początkowych wyrazów ciągu arytmetycznego (5.3).  Poprawna odp. (1 p.): Wersja I: A; Wersja II: B
+Zadanie 15. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 5. Ciągi. Zdający bada, czy dany ciąg jest arytmetyczny lub geometryczny (5.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: C
+Zadanie 16. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje cechy podobieństwa trójkątów (7.3).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Zadanie 17. $(0-1)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 6. Trygonometria. Zdający, znając wartość jednej z funkcji: sinus lub cosinus, wyznacza wartości pozostałych funkcji tego samego kąta ostrego (6.5).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: B
+Zadanie 18. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: SP9. Wielokąty, koła, okręgi. Zdający ustala możliwość zbudowania trójkąta (SP9.2).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: A
+Zadanie 19. $(0-1)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności stycznej do okręgu i własności okręgów stycznych (7.2).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Strona 4 z 20
+Zadanie 20. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych (8.2).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Zadanie 21. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza współrzędne środka odcinka (8.6).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Zadanie 22. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: B
+Zadanie 23. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w walcach i stożkach kąty między odcinkami i płaszczyznami (9.3).  Poprawna odp. (1 p.): Wersja I: D; Wersja II: B
+Zadanie 24. $(0-1)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji.  Wymagania szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąty między odcinkami i płaszczyznami (9.2).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: A
+Zadanie 25. $(0-1)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G9. Statystyka opisowa i wprowadzenie do rachunku prawdopodobieństwa. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych (G9.4).  Poprawna odp. (1 p.): Wersja I: C; Wersja II: D
+Strona 5 z 20
+Zadanie 26. $(0-2)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: G9. Statystyka opisowa i wprowadzenie do rachunku prawdopodobieństwa. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych (G9.4). 1. Liczby rzeczywiste. Zdający oblicza błąd bezwzględny i błąd względny przybliżenia (1.7).
+Przykładowe rozwiązanie Obliczamy średni roczny przyrost sosny: $\overline{x}=8\frac{1}{3}$ Obliczamy błąd względny przybliżenia: $\frac{\frac{1}{3}}{\frac{25}{3}}=\frac{1}{25}=0{,}04=4\%$.
+Schemat punktowania Zdający otrzymuje 1 p. gdy obliczy średni roczny przyrost wysokości sosny: $\overline{x}=8\frac{1}{3}$ i na tym zakończy lub dalej popełnia błędy albo gdy otrzyma średni roczny przyrost wysokości sosny będący liczbą spełniającą nierówność $7<x<8$ 8,2(3) lub nierówność $4(3)<\overline{x}<10$ i konsekwentnie obliczy błąd względny otrzymanego przybliżenia. Uwaga: Akceptujemy wynik przybliżony z przedziału $(8{,}2(3); 8{,}4(3))$.
+Zdający otrzymuje 2 p. gdy obliczy błąd względny przybliżenia: $4\%$.
+Zadanie 27. $(0-2)$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą (3.5).
+Przykładowe rozwiązanie  Rozwiązanie nierówności kwadratowej składa się z dwóch etapów. Pierwszy polega na ustaleniu pierwiastków trójmianu kwadratowego. Drugi etap polega na ustaleniu zbioru rozwiązań nierówności.
+Strona 6 z 20
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Realizacja pierwszego etapu I sposób Redukujemy wyrazy podobne i zapisujemy nierówność w postaci równoważnej $-x^{2}+2x>0$. Znajdujemy pierwiastki trójmianu kwadratowego $-x^{2}+2x$ obliczamy wyróżnik tego trójmianu: $\Delta=4-4\cdot(-1)\cdot 0=4$ i stąd $x_{1}=\frac{-2-2}{-2}=2$ oraz $x_{2}=\frac{-2+2}{-2}=0$ albo wykorzystujemy postać iloczynową trójmianu $-x^{2}+2x$: $-x(x-2)=0$, stąd $x_{1}=0$ oraz $x_{2}=2$, albo stosujemy wzory Viète'a: $x_{1}\cdot x_{2}=0$ oraz $x_{1}+x_{2}=2$, stąd $x_{1}=0$ oraz $x_{2}=2$, albo podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu $x_{1}=0$, $x_{2}=2$ lub zaznaczając je na wykresie
+II sposób  Wyznaczamy postać kanoniczną trójmianu kwadratowego $-x^{2}+2x$ i zapisujemy nierówność w postaci równoważnej, np. $-(x-1)^{2}+1>0$. Stąd $-((x-1)^{2}-1)>0$ Następnie przekształcamy nierówność do postaci równoważnej, korzystając z własności wartości bezwzględnej $(x-1)^{2}<1$, $|x-1|<1$.
+Realizacja drugiego etapu Podajemy zbiór rozwiązań nierówności: $(0, 2)$ lub $x\in(0, 2)$.
+Schemat punktowania Zdający otrzymuje 1 p. gdy: zrealizuje pierwszy etap rozwiązania, tzn. ustali pierwiastki trójmianu kwadratowego i na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności, np.:
+Strona 7 z 20
+obliczy lub poda pierwiastki trójmianu kwadratowego $x_{1}=0$, $x_{2}=2$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, albo zaznaczy na wykresie miejsca zerowe funkcji $f(x)=-x^{2}+2x$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, albo zapisze nierówność $|x-1|<1$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności albo przy realizacji pierwszego etapu rozwiązania popełni błąd (ten sam błąd popełniony wielokrotnie traktuje się jak jeden błąd), ale otrzyma dwa różne pierwiastki, i konsekwentnie rozwiąże nierówność, np.: popełni błędy przy wyznaczaniu pierwiastków trójmianu kwadratowego i konsekwentnie rozwiąże nierówność,  błędnie zapisze równania wynikające ze wzorów Viète'a, np. $x_{1}+x_{2}=-2$ i konsekwentnie rozwiąże nierówność,  błędnie zapisze nierówność, np. $|x-1|>1$ i konsekwentnie ją rozwiąże.
+Zdający otrzymuje 2 p. gdy: poda zbiór rozwiązań nierówności: $(0, 2)$ lub $x\in(0, 2)$, lub $x>0$ i $x<2$ albo sporządzi poprawną ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań nierówności w postaci: $x>0$, $x<2$, albo poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki  Akceptujemy zapis przedziału nieuwzględniający porządku liczb na osi liczbowej, np. $(2, 0)$.
+Uwagi:
+Jeżeli zdający dzieli obie strony nierówności przez $x-2$ lub przez $x$, bez stosownego założenia, to otrzymuje 0 punktów.
+Jeżeli zdający dzieli obie strony nierówności przez $x-2$, rozważając przy tym dwa przypadki $x>2$ i $x<2$, rozwiąże nierówność w każdym z tych przypadków oraz wyznaczy poprawny zbiór rozwiązań nierówności, to otrzymuje 2 punkty.
+Strona 8 z 20
+Zadanie 28. $(0-2)$ Wymagania ogólne: I. Wykorzystanie i tworzenie informacji  Wymagania szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).
+Przykładowe rozwiązanie Lewa strona równania jest iloczynem dwóch czynników $4-x$ oraz $x^{2}+2x-15$. Zatem iloczyn ten jest równy 0, gdy co najmniej jeden z tych czynników jest równy 0, czyli $4-x=0$ lub $x^{2}+2x-15=0$. Rozwiązaniem równania $4-x=0$ jest $x=4$. Rozwiązania równania $x^{2}+2x-15=0$ możemy wyznaczyć, korzystając: ze wzorów na pierwiastki trójmianu kwadratowego: $\Delta=2^{2}-4\cdot 1\cdot(-15)=64=8^{2}$, $x_{1}=\frac{-2-8}{2}=-5$, $x_{2}=\frac{-2+8}{2}=3$, albo ze wzorów Viète'a: $x_{1}+x_{2}=-2$ oraz $x_{1}\cdot x_{2}=-15$ i stąd $x_{1}=-5$, $x_{2}=3$, albo z postaci iloczynowej trójmianu $x^{2}+2x-15$: $(x+5)(x-3)=0$, stąd $x_{1}=-5$, $x_{2}=3$, albo z własności wartości bezwzględnej, przekształcając najpierw równanie do postaci równoważnej $|x+1|=4$, skąd $x+1=4$ lub $x+1=-4$, czyli $x=3$ lub $x=-5$. Zatem wszystkie rozwiązania równania to: $x=4$ lub $x=-5$, lub $x=3$.
+Schemat punktowania Zdający otrzymuje 1 p. gdy: zapisze dwa równania: $4-x=0$ i $x^{2}+2x-15=0$ (wystarczy, że z rozwiązania wynika, że zdający wyznacza pierwiastki każdego z wielomianów: $4-x$, $x^{2}+2x-15)$ albo zapisze rozwiązanie $x=4$, albo obliczy co najmniej jeden pierwiastek trójmianu $x^{2}+2x-15$: $x=-5$, $x=3$, albo wyznaczy jeden z pierwiastków wielomianu $-x^{3}+2x^{2}+23x-60$ i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy wyznaczy bezbłędnie wszystkie rozwiązania równania: $x=-5$, $x=3$, $x=4$
+Uwagi:
+Jeżeli zdający obliczy trzy pierwiastki, ale w odpowiedzi końcowej podaje tylko dwa, to otrzymuje 1 punkt.
+Strona 9 z 20
+Jeżeli zdający dzieli obie strony równania bez stosownego założenia przez $x-4$ lub przez drugi czynnik i oblicza pierwiastki (lub pierwiastek) dla pozostałej części, to otrzymuje 0 punktów.
+Zadanie 29. $(0-2)$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów (7.3).
+Przykładowe rozwiązania I sposób Niech $|\sphericalangle ACB|=\alpha$. Ponieważ $|\sphericalangle CAB|=90^{\circ}$, więc $|\sphericalangle ABC|=90^{\circ}-\alpha$. W $\Delta CDE$: $|\sphericalangle DEC|=90^{\circ}$, więc $|\sphericalangle CDE|=90^{\circ}-\alpha$. Trójkąt CDE jest prostokątny oraz $|\sphericalangle DEC|=90^{\circ}$, więc $|\sphericalangle CDE|=90^{\circ}-\alpha$. Podobnie trójkąt BFG jest prostokątny i $|\sphericalangle FGB|=90^{\circ}$, więc $|\sphericalangle BFG|=\alpha$ Ponieważ trójkąty CDE i BFG mają równe kąty, więc na podstawie cechy podobieństwa kkk są podobne.
+II sposób Niech $|\sphericalangle ACB|=|\sphericalangle DCE|=\alpha$ i $|\sphericalangle ABC|=|\sphericalangle FBG|=\beta$. Trójkąt CED jest podobny do trójkąta ABC (cecha kkk), bo $|\sphericalangle ACB|=|\sphericalangle DCE|=\alpha$ oraz $|\sphericalangle CAB|=|\sphericalangle DEC|=90^{\circ}$ Podobnie trójkąt GBF jest podobny do trójkąta ABC, (cecha kkk), bo $|\sphericalangle ABC|=|\sphericalangle FBG|=\beta$ oraz $|\sphericalangle CAB|=|\sphericalangle FGB|=90^{\circ}$. Stąd trójkąt CED jest podobny do trójkąta FBG (z przechodniości relacji podobieństwa).
+Schemat punktowania Zdający otrzymuje 1 p. gdy wskaże w dwóch trójkątach spośród trójkątów CBA, CDE i FBG jedną parę równych kątów ostrych i na tym zakończy lub dalej popełni błędy, przy czym kąt przy wierzchołku B musi być wskazany dwukrotnie, jako kąt w obu trójkątach CBA i FBG, np. zdający zapisze $|\sphericalangle FBG|=|\sphericalangle CBA|$ lub stwierdzi, że jest to wspólny kąt trójkątów CBA i FBG (analogicznie z kątem przy wierzchołku C w trójkątach CBA i CDE) albo zapisze, że trójkąt CBA jest podobny do trójkąta FBG i do trójkąta CDE i stąd wywnioskuje, że trójkąt CDE jest podobny do trójkąta FBG, ale nie wskaże żadnej pary równych kątów ostrych w tych trójkątach i na tym zakończy lub dalej popełnia błędy.
+Strona 10 z 20
+Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie.
+Uwagi:
+Jeżeli zdający przyjmie konkretne miary kątów, to otrzymuje 0 punktów.
+Jeżeli zdający przyjmie błędne zależności między kątami, to otrzymuje 0 punktów.
+Zadanie 30. $(0-2)$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia na $(a\pm b)^{2}$ oraz $a^{2}-b^{2}$ (2.1).
+Przykładowe rozwiązanie Rozważmy wyraz $a_{n}=2n^{2}+2n$. Wyraz $a_{n+1}$ można zapisać, jako $a_{n+1}=2(n+1)^{2}+2(n+1)=2n^{2}+6n+4$. Wtedy $a_{n}+a_{n+1}=2n^{2}+2n+2n^{2}+6n+4=4n^{2}+8n+4$. Zatem $a_{n}+a_{n+1}=(2n+2)^{2}$.  Liczba $2n+2$ jest naturalna. To kończy dowód.
+Schemat punktowania  Zdający otrzymuje 1 p. gdy poprawnie zapisze sumę dwóch kolejnych wyrazów tego ciągu, np. $a_{n}+a_{n+1}=2n^{2}+2n+2(n+1)^{2}+2(n+1)$ i na tym zakończy lub dalej popełnia błędy. Zdający otrzymuje 2 p. gdy przeprowadzi pełne rozumowanie.
+Uwaga: Jeżeli zdający sprawdzi prawdziwość tezy tylko dla konkretnych wartości $n$, to otrzymuje 0 punktów.
+Strona 11 z 20
+Zadanie 31. $(0-2)$  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym oraz wykorzystuje podstawowe własności potęg - również w zagadnieniach związanych z innymi dziedzinami wiedzy, np. fizyką, chemią, informatyką (1.6, 1.5).
+Przykładowe rozwiązania I sposób Zapisujemy równanie $6{,}2=\log\frac{A}{10^{-4}}$ Korzystamy z definicji logarytmu $10^{6{,}2}=\frac{A}{10^{-4}}$ Stąd $A=10^{6{,}2}\cdot 10^{-4}$, $A=10^{2{,}2}$  Stwierdzamy, że $10^{2{,}2}>10^{2}=100$, gdyż funkcja wykładnicza $y=10^{x}$ jest rosnąca. Oznacza to, że $A>100$ cm.
+II sposób Zapisujemy równanie $6{,}2=\log\frac{A}{10^{-4}}$ To równanie jest równoważne kolejno równaniom $6{,}2=\log(10^{4}A)$, $6{,}2=\log 10^{4}+\log A$, $6{,}2=4+\log A$ Zatem $2{,}2=\log A$ Korzystamy z definicji logarytmu i otrzymujemy równość $A=10^{2{,}2}$  Stwierdzamy, że $10^{2{,}2}>10^{2}=100$, gdyż funkcja wykładnicza $y=10^{x}$ jest rosnąca. Oznacza to, że $A>100$ cm.
+Schemat punktowania Zdający otrzymuje 1 p. gdy wykorzysta definicję logarytmu i przekształci równanie $6{,}2=\log\frac{A}{10^{-4}}$ do postaci $10^{6{,}2}=\frac{A}{10^{-4}}$
+Strona 12 z 20
+albo wykorzysta własność logarytmu i przekształci równanie $6{,}2=\log\frac{A}{10^{-4}}$ do postaci $6{,}2=\log A-\log 10^{-4}$ lub $6{,}2=\log A+\log 10^{4}$ i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p. gdy zapisze, że $A=10^{2{,}2}$ i stwierdzi, że amplituda tego trzęsienia ziemi była większa od 100 cm.
+Uwagi:
+Jeżeli zdający błędnie interpretuje treść zadania, w szczególności stosuje niepoprawne podstawienie do wzoru, to otrzymuje 0 punktów.
+Jeżeli zdający nie obliczy amplitudy, ale uzasadni, że amplituda jest większa od 100 cm, to otrzymuje 1 punkt.
+Jeżeli zdający nie obliczy amplitudy tylko zapisze bez uzasadnienia, że amplituda jest większa od 100 cm, to otrzymuje 0 punktów.
+Zadanie 32. $(0-4)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: SP9. Wielokąty, koła, okręgi. Zdający stosuje twierdzenie o sumie kątów trójkąta (SP9.3). G7. Równania. Zdający rozwiązuje równania stopnia pierwszego z jedną niewiadomą (G7.3).
+Przykładowe rozwiązania I sposób  Niech $\alpha$ oznacza najmniejszy kąt trójkąta. Zatem pozostałe dwa kąty tego trójkąta równe są $\alpha+50^{\circ}$ oraz $3\alpha$. Suma kątów trójkąta jest równa $180^{\circ}$, więc $\alpha+3\alpha+\alpha+50^{\circ}=180^{\circ}$, $5\alpha=130^{\circ}$, $\alpha=26^{\circ}$ Stąd $\alpha+50^{\circ}=76^{\circ}$ oraz $3\alpha=78^{\circ}$.
+II sposób  Niech $\alpha$ oznacza największy kąt trójkąta. Zatem pozostałe dwa kąty tego trójkąta równe są $\frac{\alpha}{3}+50^{\circ}$ oraz $\frac{\alpha}{3}$. Suma kątów trójkąta jest równa $180^{\circ}$, więc $\frac{\alpha}{3}+\frac{\alpha}{3}+50^{\circ}+\alpha=180^{\circ}$, $5\alpha=390^{\circ}$, $\alpha=78^{\circ}$ Stąd $\frac{\alpha}{3}=26^{\circ}$ oraz $\frac{\alpha}{3}+50^{\circ}=76^{\circ}$.
+Strona 13 z 20
+III sposób  Niech $\alpha$ oznacza ten kąt trójkąta, który nie jest ani największy, ani najmniejszy. Zatem pozostałe dwa kąty tego trójkąta równe są $\alpha-50^{\circ}$ oraz $3(\alpha-50^{\circ})$. Suma kątów trójkąta jest równa $180^{\circ}$, więc $\alpha-50^{\circ}+\alpha+3(\alpha-50^{\circ})=180^{\circ}$, $5\alpha=380^{\circ}$, $\alpha=76^{\circ}$ Stąd $\alpha-50^{\circ}=26^{\circ}$ oraz $3(\alpha-50^{\circ})=78^{\circ}$.
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania... 1 p. Zdający zapisze: kąty trójkąta w zależności od jednego kąta, np.: $\alpha$, $\alpha+50^{\circ}$, $3\alpha$ lub $\frac{\alpha}{3}$, $\frac{\alpha}{3}+50^{\circ}$, $\alpha$, lub $\alpha-50^{\circ}$, $\alpha$, $3(\alpha-50^{\circ})$ albo  układ dwóch równań, np. $\begin{cases}\alpha+\alpha+50^{\circ}+\beta=180^{\circ}\\ \beta=3\alpha\end{cases}$ albo  układ trzech równań, np. $\begin{cases}\alpha+\beta+\gamma=180^{\circ}\\ \gamma=3\alpha\\ \beta=\alpha+50^{\circ}\end{cases}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp........ 2 p. Zdający zapisze równanie z jedną niewiadomą, np.: $\frac{\alpha}{3}+\frac{\alpha}{3}+50^{\circ}+\alpha=180^{\circ}$ lub $\alpha+3\alpha+\alpha+50^{\circ}=180^{\circ}$, lub $\alpha-50^{\circ}+\alpha+3(\alpha-50^{\circ})=180^{\circ}$ i na tym zakończy lub dalej popełnia błędy.
+Pokonanie zasadniczych trudności zadania... 3 p. Zdający obliczy jeden z kątów trójkąta, np.: $\alpha=26^{\circ}$ lub $\alpha=78^{\circ}$, lub $\alpha=76^{\circ}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie pełne... 4 p. Zdający obliczy wszystkie kąty trójkąta.
+Uwagi:
+Jeżeli zdający tylko poda kąty $(26^{\circ}, 76^{\circ}, 78^{\circ})$, to otrzymuje 1 punkt.
+Jeżeli zdający tylko poda kąty i sprawdzi wszystkie warunki zadania, to otrzymuje 2 punkty.
+Strona 14 z 20
+Zadanie zawiera obrazek ważny dla rozwiązania. Na rysunku oznaczono ostrosłup o wierzchołkach podstawy A, B, C i wierzchołku S.
+Zadanie 33. $(0-5)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 9. Stereometria. Zdający stosuje trygonometrię do obliczeń długości odcinków, miar kątów, pól powierzchni i objętości (9.6). G10. Figury płaskie. Zdający stosuje twierdzenie Pitagorasa (G10.7).
+Przykładowe rozwiązanie Wprowadzamy oznaczenia jak na rysunku. Ponieważ wysokość tego ostrosłupa jest równa wysokości jego podstawy, to $H=\frac{a\sqrt{3}}{2}$. Objętość ostrosłupa jest równa 27, więc otrzymujemy równanie $\frac{1}{3}\cdot\frac{a^{2}\sqrt{3}}{4}\cdot\frac{a\sqrt{3}}{2}=27$, skąd otrzymujemy $a=6$. Wysokość ostrosłupa jest równa $H=\frac{6\sqrt{3}}{2}=3\sqrt{3}$. Punkt O jest środkiem okręgu opisanego na trójkącie równobocznym ABC, zatem długość odcinka PO stanowi $\frac{1}{3}$ wysokości trójkąta ABC, czyli $|OP|=\frac{1}{3}H=\frac{1}{3}\cdot 3\sqrt{3}=\sqrt{3}$. Z twierdzenia Pitagorasa zastosowanego dla trójkąta POS otrzymujemy $h^{2}=|OP|^{2}+H^{2}$, $h^{2}=(\sqrt{3})^{2}+(3\sqrt{3})^{2}$, $h^{2}=30$. Stąd $h=\sqrt{30}$.
+Strona 15 z 20
+Pole powierzchni bocznej ostrosłupa jest zatem równe $P_{b}=3\cdot\frac{1}{2}ah=3\cdot\frac{1}{2}\cdot 6\sqrt{30}=9\sqrt{30}$. Cosinus kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy jest równy $\cos\alpha=\frac{|OP|}{h}=\frac{\sqrt{3}}{\sqrt{30}}=\frac{\sqrt{10}}{10}$.
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania.......... 1 p. Zdający: zapisze równanie, z którego można obliczyć długość krawędzi podstawy ostrosłupa: $\frac{1}{3}\cdot\frac{a^{2}\sqrt{3}}{4}\cdot\frac{a\sqrt{3}}{2}=27$ albo zapisze równanie, z którego można obliczyć wysokość ostrosłupa: $\frac{1}{3}\cdot\frac{\left(\frac{2H}{\sqrt{3}}\right)^{2}\sqrt{3}}{4}\cdot H=27$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie, w którym jest istotny postęp... 2 p. Zdający obliczy długość krawędzi podstawy ostrosłupa $a=6$ lub wysokość ostrosłupa $H=3\sqrt{3}$ i na tym zakończy lub dalej popełnia błędy.
+Uwaga: Zdający może obliczyć od razu tangens kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy ostrosłupa: $\tg\alpha=\frac{H}{\frac{1}{3}H}=3$  a następnie obliczyć szukaną wartość cosinusa tego kąta: $\cos\alpha=\frac{\sqrt{10}}{10}$. Otrzymuje wtedy 2 punkty.
+Pokonanie zasadniczych trudności zadania... 3 p. Zdający obliczy wysokość ściany bocznej ostrosłupa: $\sqrt{30}$ albo długość krawędzi bocznej ostrosłupa: $\sqrt{39}$ i na tym zakończy lub dalej popełnia błędy.
+Strona 16 z 20
+Rozwiązanie prawie pełne.... 4 p. Zdający obliczy: pole powierzchni bocznej ostrosłupa ABCS: $9\sqrt{30}$ albo cosinus kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy: $\cos\alpha=\frac{\sqrt{10}}{10}$ i na tym zakończy lub dalej popełnia błędy.
+Rozwiązanie pełne ........5 p. Zdający obliczy pole powierzchni bocznej ostrosłupa ABCS: $9\sqrt{30}$ i cosinus kąta nachylenia wysokości ściany bocznej do płaszczyzny podstawy: $\cos\alpha=\frac{\sqrt{10}}{10}$
+Uwagi:
+Jeżeli zdający rozważa inną bryłę niż podana w zadaniu, to za całe rozwiązanie otrzymuje 0 punktów.
+Jeżeli zdający popełni błąd merytoryczny np. w zastosowaniu twierdzenia Pitagorasa przy obliczaniu wysokości ściany bocznej lub w interpretacji własności trójkąta równobocznego, to otrzymuje za całe rozwiązanie otrzymuje co najwyżej 2 punkty.
+Akceptujemy poprawne przybliżenia dziesiętne liczb rzeczywistych.
+Zadanie 34.  Wymagania ogólne: III. Modelowanie matematyczne.  Wymagania szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Przykładowe rozwiązania I sposób Zdarzeniem elementarnym jest uporządkowana para $(x, y)$ dwóch różnych liczb ze zbioru $\{10, 11, 12, \dots, 99\}$, który zawiera 90 liczb.  Liczba wszystkich zdarzeń elementarnych jest równa $|\Omega|=90\cdot 89$. Wszystkie zdarzenia elementarne są równo prawdopodobne. Mamy więc do czynienia z modelem klasycznym. Niech A oznacza zdarzenie polegające na tym, że suma wylosowanych liczb jest 30. Zatem zdarzeniu A sprzyjają następujące zdarzenia elementarne: $(10, 20), (11, 19), (12, 18), (13, 17), (14, 16), (16, 14), (17, 13), (18, 12), (19, 11), (20, 10)$. Ich liczba jest równa $|A|=10$. Prawdopodobieństwo zdarzenia A jest równe $P(A)=\frac{|A|}{|\Omega|}=\frac{10}{90\cdot 89}=\frac{1}{9\cdot 89}=\frac{1}{801}$.
+Strona 17 z 20
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy dwie różne liczby dwucyfrowe, których suma jest równa 30 jest równe $\frac{1}{801}$
+II sposób Zdarzeniem elementarnym jest zbiór dwuelementowy $\{x, y\}$ dwóch różnych liczb ze zbioru $\{10, 11, 12, \dots, 99\}$, który zawiera 90 liczb.  Liczba wszystkich zdarzeń elementarnych jest równa $|\Omega|=\binom{90}{2}=\frac{90!}{88!\cdot 2!}=\frac{90\cdot 89}{2}=4005$. Wszystkie zdarzenia elementarne są równo prawdopodobne. Mamy więc do czynienia z modelem klasycznym. Niech A oznacza zdarzenie polegające na tym, że suma wylosowanych liczb jest 30. Zatem zdarzeniu A sprzyjają następujące zdarzenia elementarne: $\{10, 20\}, \{11, 19\}, \{12, 18\}, \{13, 17\}, \{14, 16\}$. Ich liczba jest równa $|A|=5$. Prawdopodobieństwo zdarzenia A jest równe $P(A)=\frac{|A|}{|\Omega|}=\frac{5}{45\cdot 89}=\frac{1}{9\cdot 89}=\frac{1}{801}$.
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy dwie różne liczby dwucyfrowe, których suma jest równa 30 jest równe $\frac{1}{801}$
+III sposób Rysujemy drzewo z uwzględnieniem wszystkich gałęzi, które prowadzą do sytuacji sprzyjających zdarzeniu A (polegającemu na tym, że suma wylosowanych liczb będzie równa 30). Zadanie zawiera obrazek ważny dla rozwiązania.
+Strona 18 z 20
+Prawdopodobieństwo zdarzenia A jest równe $P(A)=10\cdot\frac{1}{90}\cdot\frac{1}{89}=\frac{1}{9\cdot 89}=\frac{1}{801}$
+Odpowiedź: Prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy dwie różne liczby dwucyfrowe, których suma jest równa 30 jest równe $\frac{1}{801}$
+Schemat punktowania Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania 1 p. Zdający zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90 albo wypisze zdarzenia elementarne sprzyjające zdarzeniu A: $(10, 20), (11, 19), (12, 18), (13, 17), (14, 16), (16, 14), (17, 13), (18, 12), (19, 11), (20, 10)$ lub $\{10, 20\}, \{11, 19\}, \{12, 18\}, \{13, 17\}, \{14, 16\}$, albo zapisze, że $|A|=10$ lub $|A|=5$, albo narysuje drzewo ilustrujące przebieg doświadczenia (na rysunku muszą wystąpić wszystkie istotne gałęzie) i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie, w którym jest istotny postęp 2 p. Zdający zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90 oraz wypisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu A: $(10, 20), (11, 19), (12, 18), (13, 17), (14, 16), (16, 14), (17, 13), (18, 12), (19, 11), (20, 10)$ lub $\{10, 20\}, \{11, 19\}, \{12, 18\}, \{13, 17\}, \{14, 16\}$ albo zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90 oraz zapisze, że $|A|=10$ lub $|A|=5$, albo obliczy liczbę wszystkich zdarzeń elementarnych: $|\Omega|=90\cdot 89$ lub $|\Omega|=\frac{90\cdot 89}{2}$, lub $|\Omega|=\binom{90}{2}$ lub $|\Omega|=4005$, albo narysuje drzewo ze wszystkimi istotnymi gałęziami i zapisze prawdopodobieństwa na wszystkich istotnych odcinkach jednego z etapów lub na jednej z istotnych gałęzi i na tym zakończy lub dalej popełni błędy.
+Strona 19 z 20
+Pokonanie zasadniczych trudności zadania.......... 3 p. Zdający obliczy liczbę wszystkich zdarzeń elementarnych: $|\Omega|=90\cdot 89$ oraz zapisze, że $|A|=10$ albo obliczy liczbę wszystkich zdarzeń elementarnych: $|\Omega|=\binom{90}{2}$ lub $|\Omega|=\frac{90\cdot 89}{2}$ lub $|\Omega|=4005$ oraz zapisze, że $|A|=5$, albo obliczy prawdopodobieństwo wzdłuż jednej istotnej gałęzi narysowanego drzewa: $\frac{1}{90}\cdot\frac{1}{89}$ i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie pełne............. 4 p. Zdający obliczy prawdopodobieństwo zdarzenia A: $P(A)=\frac{|A|}{|\Omega|}=\frac{1}{801}$
+Uwagi:
+Jeżeli zdający poprawnie wyznaczy moc zbioru wszystkich zdarzeń elementarnych, ale przy wyznaczaniu liczby zdarzeń sprzyjających zdarzeniu A pominie jedno zdarzenie elementarne lub popełni błąd przy zliczaniu poprawnie wypisanych zdarzeń elementarnych sprzyjających zdarzeniu A i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 3 punkty.
+Jeżeli zdający błędnie zapisze, że wszystkich liczb dwucyfrowych jest 89 i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 3 punkty.
+Jeżeli w rozwiązaniu występuje sprzeczność modeli probabilistycznych, to zdający może otrzymać, co najwyżej 2 punkty.
+Akceptujemy sytuacje, gdy zdający zamiast wypisywania zdarzeń elementarnych sprzyjających zdarzeniu A zapisze następujące sumy $10+20$, $11+19$, $12+18$, $13+17$, $14+16$, $16+14$, $17+13$, $18+12$, $19+11$, $20+10$ (lub tylko $10+20$, $11+19$, $12+18$, $13+17$, $14+16$).
+Jeżeli zdający zapisze, że wszystkich liczb naturalnych dwucyfrowych jest 90, ale przy wypisywaniu zdarzeń elementarnych sprzyjających zdarzeniu A, zapisuje sumę $15+15$ i na tym zakończy to otrzymuje 1 punkt.
+Jeżeli zdający bez żadnych obliczeń poda tylko wynik, np. $\frac{1}{801}$ to otrzymuje za całe rozwiązanie 1 punkt.
+Strona 20 z 20
+

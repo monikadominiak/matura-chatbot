@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0-1)
+Sześciowyrazowy ciąg liczbowy (1, 2, 2x, x+2, 5, 6) jest niemalejący.
+Mediana wyrazów tego ciągu jest równa 4. Wynika stąd, że
+A. x=1
+B. x=$frac{3}{2}$
+C. x=2
+D. x=$frac{8}{3}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

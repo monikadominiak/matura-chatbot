@@ -1,0 +1,64 @@
+
+--- STRONA 1 ---
+Przez przekątną podstawy sześcianu mającego krawędź o długości a poprowadzono płaszczyznę, która tworzy z płaszczyzną podstawy kąt 60°. Oblicz pole otrzymanego przekroju sześcianu.
+
+1️⃣ sporządzamy rysunek pomocniczy
+
+i ustalamy kształt przekroju
+
+gdyby przekrojem był trójkąt:
+
+\[
+\begin{array}{c}
+\ \  \\
+z\ \ \wlasnosci\ \Delta \ \charakterystycznego \\
+ten\ \ odcinek\ \ bylby\ \ rowny: \\
+\end{array} 
+\]
+
+\[
+\frac{a\sqrt{2}}{2} \cdot \sqrt{3} = \frac{a\sqrt{6}}{2} > a = |GC| 
+\]
+
+więc przekrój ten nie będzie trójkątem tylko trapezem
+
+2️⃣ wyznaczamy przydatne długości
+
+\[
+|MC| = \text{połowa przekątnej} = \frac{a\sqrt{2}}{2} \\
+|BO| = a\sqrt{2} \quad |NP| = a \\
+\]
+
+\( 2 \cdot \Delta MPN \quad |MP| = \frac{\sqrt{3}}{3} a, \quad |MN| = \frac{2\sqrt{3}}{3} a \)
+
+(połowa z \( \Delta \) charakterystycznego lub z \( \sin 60^\circ \) i \( \cos 60^\circ \))
+
+3️⃣ obliczamy odcinek |LK| z podobieństwa
+
+\( \triangle HFG \sim \triangle LKG \) z cech kkk
+
+\( |NG| = |PC| \)
+
+\[
+|PC|=|MC|-|MP| = \frac{a\sqrt{2}}{2} - \frac{a\sqrt{3}}{3} = \frac{3a\sqrt{2}-2a\sqrt{3}}{6}
+\]
+
+\[
+\frac{|HF|}{|LK|} = \frac{|MG|}{|NG|} \Rightarrow \frac{a\sqrt{2}}{|LK|} = \frac{a\sqrt{2}}{\frac{3a\sqrt{2}-2a\sqrt{3}}{6}}
+\]
+
+\[
+|LK| = \frac{a\sqrt{2} \cdot \frac{3a\sqrt{2}-2a\sqrt{3}}{6}}{a\sqrt{2}} = \frac{3a\sqrt{2}-2a\sqrt{3}}{3}
+\]
+
+4️⃣ liczymy pole przekroju
+
+\[
+P_{\Delta} = \frac{a\sqrt{2} + \frac{3a\sqrt{2}-2a\sqrt{3}}{3}}{2} \cdot \frac{2\sqrt{3}}{3} a = \frac{a^2\sqrt{6} + a^2\sqrt{6} - 2a^2}{3} = 
+\]
+
+\[
+= \frac{2a^2(\sqrt{6}-1)}{3}
+\]
+
+odp: \( P_{\Delta} = \frac{2a^2(\sqrt{6}-1)}{3} \)

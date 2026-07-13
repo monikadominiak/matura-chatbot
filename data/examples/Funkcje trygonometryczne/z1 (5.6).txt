@@ -1,0 +1,42 @@
+
+--- STRONA 1 ---
+z1 (5.6)
+
+Rozwiąż na [-π, π]:
+
+\(\sqrt{3} \cos^2 x - (1+\sqrt{3}) \sin x \cos x + \sin^2 x = 0.\)
+
+\( \bigcirc \) Sprawdzamy dla \(\cos x = 0\).
+
+\[ 0 + 0 + 1 \neq 0 \]
+
+Brak rozwiązań dla \(\cos x = 0\)
+
+\( \bigcirc \) Dzielimy przez \(\cos^2 x\).
+
+\[\sqrt{3} - (1+\sqrt{3}) \frac{\sin x}{\cos x} + \frac{\sin^2 x}{\cos^2 x} = 0\]
+
+\( \bigcirc \) Korzystamy z pomocniczej zmiennej.
+
+\[ t = \frac{\sin x}{\cos x} = \mathrm{tg} \, x \]
+
+\[\sqrt{3} - (1+\sqrt{3}) t + t^2 = 0\]
+
+\[t^2 - (1+\sqrt{3}) t + \sqrt{3} = 0\]
+
+\[(t-1)(t-\sqrt{3})=0\]
+
+\[ t = 1 \quad t = \sqrt{3} \]
+
+\( \bigcirc \) Cofamy podstawienie.
+
+\[ \mathrm{tg} \, x = 1 \quad \mathrm{tg} \, x = \sqrt{3} \]
+
+\[ x = \frac{\pi}{4} + k \pi \quad x = \frac{\pi}{3} + k \pi \quad , k \in \mathbb{Z} \]
+
+Dla \(k = 0\) \quad \(x = \frac{\pi}{4}\) \quad \( x = \frac{\pi}{3} \)
+
+Dla \(k = -1\) \quad \(x = -\frac{3\pi}{4}\) \quad \(x = -\frac{2\pi}{3}\)
+
+
+Odp.: \( x \in \left\{ -\frac{3\pi}{4}, -\frac{2\pi}{3}, \frac{\pi}{4}, \frac{\pi}{3} \right\}. \)

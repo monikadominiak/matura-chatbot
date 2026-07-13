@@ -1,0 +1,116 @@
+
+--- STRONA 1 ---
+Zadanie 18 [6 pkt]- TYP 2.5  
+Dla jakich wartości parametru m rozwiązania x₁, x₂ równania  
+4x² - 15x + 4m = 0 spełniają warunek x₁ = x₂²?  
+
+4x² - 15x + 4m = 0  
+
+a = 4  
+b = -15  
+c = 4m  
+
+① Zapisanie warunków wynikających z treści zadania  
+
+1⁰ Δ > 0 <--- dwa rozwiązania traktujemy tak, jak dwa różne rozwiązania  
+
+2⁰ x₁ = x₂²  
+
+② Rozwiązanie pierwszego z warunków  
+
+1⁰ Δ > 0  
+Δ = b² - 4ac  
+
+(-15)² - 4 ∙ 4 ∙ 4m² > 0  
+225 - 64m > 0 ⟺ (15 - 8m)(15 + 8m) > 0  
+
+15 - 8m = 0  
+15 = 8m | :8  
+m = 15/8  
+
+15 + 8m = 0 | -15  
+8m = -15 | :8  
+m = -15/8  
+
+m ∈ (-15/8, 15/8)  
+
+③ Rozwiązanie drugiego z warunków  
+
+2⁰ x₁ = x₂²  
+
+Skorzystamy ze wzoru Viete’a:  
+x₁ + x₂ = -b/a  
+x₁ ∙ x₂ = c/a  
+
+Dzięki nim możemy stworzyć układ równań:  
+
+\{  
+x₁ = x₂²  
+x₁ + x₂ = (-15)/4 ⇒ x₁ = 15/4 - x₂  
+x₁ ∙ x₂ = 4m²/4  
+
+15/4 - x₂ = x₂²  
+
+x₂² + x₂ - 15/4 = 0 | ∙4  
+
+4x₂² + 4x₂ - 15 = 0  
+
+Δx₂ = 4² - 4 ∙ 4 ∙ (-15) = 16 + 240 = 256  
+
+√Δx₂ = 16  
+
+x₂₁ = (-4 - 16)/2 ∙ 4 = -20/8 = -5/2  
+x₂₂ = (-4 + 16)/2 ∙ 4 = 12/8 = 3/2  
+
+x₁₁= 15/4 - (-5/2) = 25/4  
+x₁₂ = 15/4 - (3/2) = 9/2  
+
+--- STRONA 2 ---
+Zatem:
+
+\[
+\begin{cases}
+x_1 = \frac{25}{4} \\
+x_2 = -\frac{5}{2}
+\end{cases}
+\]
+
+lub
+
+\[
+\begin{cases}
+x_1 = \frac{9}{4} \\
+x_2 = \frac{3}{2}
+\end{cases}
+\]
+
+x_1 \cdot x_2 = \frac{4m}{4} \\
+x_1 \cdot x_2 = m^2 \\
+
+\frac{25}{4} \cdot \left( -\frac{5}{2} \right) = m^2 \\
+
+-\frac{125}{8} = m^2 \notin \mathbb{D} \\
+
+sprzeczność, liczba \\
+kwadrat m nie może \\
+być ujemny.
+
+x_1 \cdot x_2 = \frac{4m}{4} \\
+x_1 \cdot x_2 = m^2 \\
+
+\frac{9}{4} \cdot \frac{3}{2} = m^2 \\
+
+\frac{27}{8} = m^2 \\
+
+m = \pm \sqrt{\frac{27}{8}} \\
+
+x \in \left\{ -\sqrt{\frac{27}{8}}, \sqrt{\frac{27}{8}} \right\}
+
+4. Wyznaczenie części wspólnej rozwiązań obu warunków:
+
+1^o \ m \in \left( -\frac{15}{8}, \frac{16}{8} \right) \\
+2^o \ m \in \left( -\sqrt{\frac{27}{8}}, \sqrt{\frac{27}{8}} \right)
+
+Zatem \ m \in \left( -\sqrt{\frac{27}{8}}, \frac{16}{8} \right)
+
+Odp: \ m \in \left( -\sqrt{\frac{27}{8}}, \sqrt{\frac{27}{8}} \right).

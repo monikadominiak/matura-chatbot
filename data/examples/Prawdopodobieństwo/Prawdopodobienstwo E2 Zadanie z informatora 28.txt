@@ -1,0 +1,56 @@
+
+--- STRONA 1 ---
+Niech \( n \) będzie ustaloną liczbą naturalną dodatnią. Ze zbioru \( \mathbb{M} = \{1; 2; 3; \ldots ; 3n + 1\} \) losujemy jednocześnie trzy liczby. Zdarzenie \( A \) odpowiada jednoczesnemu wylosowaniu ze zbioru \( \mathbb{M} \) trzech liczb, takich że suma tych liczb przy dzieleniu przez 3 daje resztę 1.
+
+① analizujemy polecenie
+
+\(\mathbb{M} = \{1, 2, 3, \ldots, 3n+1\}\), losujemy jednocześnie 3 liczby
+
+\( A \) - suma trzech liczb przy dzieleniu przez 3 daje resztę 1
+
+- \(0 + 0 + 1 = 1\) \quad 2 podzielne i 1 z resztą, "1"
+
+- \(0 + 2 + 2 = 3+1\) \quad 1 podzielna i 2 z resztą, "2"
+
+- \(1 + 1 + 2 = 3+1\) \quad 2 z resztą, "1" i 1 z resztą, "2"
+
+② analizujemy zbiór \(\mathbb{M}\)
+
+\(3n+1\) elementów w zbiorze
+
+wśród każdych trzech liczb naturalnych jest liczba
+2 z resztą 1, 1 z resztą 2, podzielna przez 3
+
+\[
+\begin{align*}
+&n \text{ liczb podzielnych}\\
+&n \text{ liczb z resztą 2}\\
+&n+1 \text{ liczb z resztą 1}
+\end{align*}
+\}
+n+n+n+1=3n+1 \text{ liczb}
+\]
+
+③ wyznaczamy moc \(\Omega\)
+
+\[
+\binom{3n+1}{3} = \frac{(3n+1) \cdot 3n \cdot (3n-1)}{3!} = \frac{(3n-1) \cdot 3n \cdot (3n+1)}{6} = \frac{(3n-1)(3n+1)n}{2}
+\]
+
+④ wyznaczamy moc \( A \)
+
+\[
+\begin{align*}
+\bar{A} &= \binom{n}{2} (n+1) + \binom{n}{2}(n) + \binom{n+1}{2}(n-1) = \\
+&= \frac{1}{2}n(n-1)(n+1) + \frac{1}{2}n^2(n-1) + \frac{1}{2}n^2(n+1) = \\
+&= \frac{1}{2}n(n^2-1 + n^2-n + n^2+n) = \frac{1}{2}n(3n^2-1)
+\end{align*}
+\]
+
+⑤ obliczamy \( P(A) \)
+
+\[
+P(A) = \frac{\frac{1}{2}n(3n^2-1)}{\frac{1}{2}n(3n-1)(3n+1)} = \frac{3n^2-1}{9n^2-1}
+\]
+
+Odp: \(\frac{3n^2-1}{9n^2-1}\)

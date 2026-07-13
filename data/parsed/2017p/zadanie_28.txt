@@ -1,0 +1,96 @@
+=== ARKUSZ: 2017p | ZADANIE 28 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 28. (0-2)
+Dane są dwa okręgi o środkach w punktach P i R, styczne zewnętrznie w punkcie C. Prosta AB jest styczna do obu okręgów odpowiednio w punktach A i B oraz $angle APC = alpha$ i $angle ABC = beta$ (zobacz rysunek). Wykaż, że $alpha + beta = 180^{circ}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 28. $0-2$ Wymagania ogólne: V. Rozumowanie i argumentacja.  Wymagania szczegółowe: G10. Figury płaskie. Zdający korzysta z faktu, że styczna do okręgu jest prostopadła do promienia poprowadzonego do punktu styczności (G10.3). SP9. Wielokąty, koła, okręgi. Zdający stosuje twierdzenie o sumie kątów trójkąta (SP9.3).
+Przykładowe rozwiązania I sposób Przyjmijmy oznaczenia jak na rysunku.  Prosta AB jest styczna w punkcie B do okręgu o środku R, więc $|measuredangle ABR|=90^circ$. Stąd $delta=|measuredangle CBR|=90^circ-beta$.
+Strona 8 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąt BRC jest równoramienny, więc $|measuredangle BCR|=delta=90^circ-beta$. Zatem $|measuredangle BRC|=gamma=180^circ-2(90^circ-beta)=2beta$. Suma miar kątów czworokąta ABRP jest równa $360^circ$, $|measuredangle PAB|=90^circ$, więc
+
+$$|measuredangle PAB|+|measuredangle ABR|+|measuredangle BRP|+|measuredangle RPA|=360^circ$$
+czyli
+
+$$90^circ+90^circ+2beta+alpha=360^circ,$$
+
+
+$$alpha+2beta=180^circ$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+II sposób Z twierdzenia o kącie między styczną a cięciwą wynika, że $|measuredangle BRC|=gamma=2beta$.  Ponieważ $|measuredangle ABR|=90^circ$ i $|measuredangle PAB|=90^circ$, więc czworokąt ABRP jest trapezem o podstawach AP i BR. Suma miar kątów przy ramieniu trapezu jest równa $180^circ$, więc
+
+$$alpha+gamma=180^circ$$
+
+
+$$alpha+2beta=180^circ$$
+Stąd $alpha=180^circ-2beta$. To kończy dowód.
+Strona 9 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+III sposób  Prosta AB jest styczna w punkcie B do okręgu o środku R, więc $|measuredangle ABR|=90^circ$. Stąd $delta=90^circ-beta$. Trójkąt BRC jest równoramienny, więc $|measuredangle BCR|=delta=90^circ-beta$. Kąty BCR i PCB są przyległe, więc
+
+$$eta=180^circ-|measuredangle BCR|=180^circ-(90^circ-beta)=90^circ+beta.$$
+Suma miar kątów czworokąta ABCP jest równa $360^circ$, $|measuredangle PAB|=90^circ$, więc
+
+$$|measuredangle PAB|+|measuredangle ABR|+|measuredangle BCP|+|measuredangle CPA|=360^circ$$
+czyli
+
+$$90^circ+beta+eta+alpha=360^circ,$$
+
+
+$$90^circ+beta+(90^circ+beta)+alpha=360^circ,$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+IV sposób Prosta AB jest styczna w punkcie B do okręgu o środku R, więc $|measuredangle ABR|=90^circ$.
+Strona 10 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Stąd $delta=90^circ-beta$. Trójkąt BRC jest równoramienny, więc $|measuredangle BCR|=delta=90^circ-beta$. Trójkąt PAC jest równoramienny, więc
+
+$$|measuredangle PAC|=|measuredangle PCA|=varphi=frac{180^circ-alpha}{2}=90^circ-frac{alpha}{2}.$$
+Prosta AB jest styczna w punkcie A do okręgu o środku P, więc $|measuredangle PAB|=90^circ$. Stąd
+
+$$|measuredangle CAB|=psi=90^circ-varphi=90^circ-left(90^circ-frac{alpha}{2}right)=frac{alpha}{2}.$$
+Miara kąta ACB w trójkącie ABC jest równa
+
+$$|measuredangle ACB|=180^circ-beta-psi=180^circ-beta-frac{alpha}{2}.$$
+Suma miar kątów PCA, ACB i BCR jest równa $180^circ$, więc
+
+$$|measuredangle PCA|+|measuredangle ACB|+|measuredangle BCR|=180^circ,$$
+
+
+$$90^circ-frac{alpha}{2}+left(180^circ-beta-frac{alpha}{2}right)+90^circ-beta=180^circ,$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+V sposób  Poprowadźmy przez punkt C wspólną styczną do obu okręgów. Niech S oznacza punkt jej przecięcia z prostą AB. Z twierdzenia o kącie między styczną a cięciwą wynika, że
+
+$$psi=frac{alpha}{2}$$
+
+Strona 11 z 24
+Z twierdzenia o odcinkach stycznych wynika, że $|AS|=|CS|=|BS|$. Stąd wynika, że S jest środkiem okręgu opisanego na trójkącie ABC.  Odcinek AB jest średnicą tego okręgu, więc trójkąt ABC jest prostokątny. Suma miar jego kątów ostrych jest równa $90^circ$, czyli
+
+$$beta+psi=90^circ$$
+
+
+$$beta+frac{alpha}{2}=90^circ$$
+
+
+$$alpha=180^circ-2beta.$$
+To kończy dowód.
+Schemat punktowania Zdający otrzymuje 1 p., gdy zapisze układ warunków wystarczający do udowodnienia równości $alpha=180^circ-2beta$, np.:
+$delta=90^circ-beta$ i $2delta+gamma=180^circ$ i $alpha+gamma+90^circ+90^circ=360^circ$ lub
+$gamma=2beta$ i $alpha+gamma=180^circ$, lub
+$delta=90^circ-beta$ i $eta=180^circ-delta$ i $90^circ+beta+eta+alpha=360^circ$, lub
+$delta=90^circ-beta$ i $varphi=90^circ-frac{alpha}{2}$ i $psi=90^circ-varphi$ i $180^circ-(beta+psi)=180^circ-(varphi+delta)$, lub
+$beta+psi=90^circ$ i $psi=frac{alpha}{2}$ i na tym zakończy lub dalej popełnia błędy.
+Zdający otrzymuje 2 p., gdy przeprowadzi pełne rozumowanie.
+Strona 12 z 24

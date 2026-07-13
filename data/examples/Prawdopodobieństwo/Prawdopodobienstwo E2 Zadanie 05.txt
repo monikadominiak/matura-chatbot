@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+Ile jest liczb czterocyfrowych podzielnych przez:  
+a) 2  
+b) 5  
+c) 10  
+d) 4  
+e) 3  
+f) 11
+
+cyfry: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+➊ a) podzielne przez 2 ⇒ ostatnia parzysta  
+\(\frac{9}{bez \ 0"0"}\cdot 10 \cdot 10 \cdot \frac{5}{0,2,4,6,8} = \underline{4500}\)
+
+➋ b) podzielne przez 5 ⇒ ostatnia 0 lub 5  
+\(\frac{9}{bez \ 0"0"}\cdot 10 \cdot 10 \cdot \frac{2}{0,5} = \underline{1800}\)
+
+➌ c) podzielne przez 10 ⇒ ostatnia 0  
+\(\frac{9}{bez \ 0"0"}\cdot 10 \cdot 10 \cdot \frac{1}{0} = \underline{900}\)
+
+do podpunktów d) i e) policzymy ile jest wszystkich liczb 4-cyfrowych  
+\(\frac{9}{bez \ 0"0"}\cdot 10 \cdot 10 \cdot 10 = 9000\)
+
+➍ d) podzielne przez 4 ⇒ ostatnie 2 tworzą liczbę podzielną przez 4  
+\(\frac{9}{bez \ 0"0"}\cdot 10\cdot \frac{\fbox{25\, możliwości}}{\begin{array}{cc} 
+00 & 01 \\
+02 & \ldots\\
+48 & 49
+\end{array}\cdot 5}
+ = 90 \cdot 25 = \underline{2250}\)
+
+lub II sposób: \(\frac{1}{4}\cdot wszystkie\)
+\(\frac{1}{4}\cdot 9000 = \underline{2250}\)
+
+➎ e) podzielne przez 3  
+analogicznie do ➊ \(\frac{1}{3}\cdot wszystkie = \frac{1}{3}\cdot 9000 = \underline{3000}\)
+
+➏ f) podzielne przez 11
+~\(\frac{M}{2\cdot 9000-818,(18)\,/\,2}\)~, posłużymy się ciągiem arytmetycznym
+
+\(1001,1012,\ldots,9988,9999\)  
+\(a_1\) \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \(a_n\)  
+\(r=11,\ n=?\)
+
+\(a_n = a_1 + (n-1)\cdot r\)
+
+\(9999 = 1001 + (n-1)\cdot 11\)  
+\(8988 = 11n-11\)  
+\(9008 = 11n\)  
+\(n = \underline{819}\)
+
+Odp: a) 4500, b) 1800, c) 900, d) 2250, e) 3000, f) 819

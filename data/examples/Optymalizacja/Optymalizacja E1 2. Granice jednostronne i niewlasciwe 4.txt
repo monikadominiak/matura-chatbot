@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Oblicz granicę
+
+\[
+\lim_{{x \to -3^{+}}} \frac{x+1}{x^2+4x+3}
+\]
+
+1️⃣ podstawiamy -3 do wzoru
+
+\[
+\lim_{{x \to -3^{+}}} \frac{x+1}{x^2+4x+3} = \left[\frac{0}{0}\right]
+\]
+
+2️⃣ rozkładamy mianownik na czynniki
+
+\[
+\Delta_m = 4^2 - 4 \cdot 3 = 4 \quad \sqrt{\Delta_m} = 2
+\]
+
+\[
+x_1 = \frac{-4 + 2}{2} = -1
+\]
+
+\[
+x_2 = \frac{-4 - 2}{2} = -3
+\]
+
+\[
+\lim_{{x \to -3^{+}}} \frac{x+1}{(x+4)(x+3)} = \lim_{{x \to -3^{+}}} \frac{1}{x+3} = \frac{1}{-3^{+}+3}
+\]
+
+4️⃣ liczymy granicę
+
+\[
+\frac{1}{-3^{+} + 3} = \frac{1}{0^{+}} = + \infty
+\]
+
+❗ liczba 0⁺ nie jest 0, ale liczbą minimalnie większą od 0
+
+\[
+-3^{+} + 3 = 0^{+} \quad \text{liczba minimalnie większa od -3}
+\]
+
+Odp: \(+\infty\)

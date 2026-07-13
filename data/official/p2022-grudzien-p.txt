@@ -1,0 +1,784 @@
+Matura próbna podstawowa - grudzień 2022 - arkusz oraz klucz odpowiedzi:
+
+Zadanie 1. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba $(5cdot5^{frac{1}{2}})^{frac{1}{3}}$ jest równa
+A. $sqrt[6]{5}$
+B. $sqrt[3]{25}$
+C. $sqrt{5}$
+D. $sqrt[3]{5}$
+
+Zadanie 2. (0-1)
+Pan Nowak kupił obligacje Skarbu Państwa za 40 000 zł oprocentowane 7% w skali roku. Odsetki są naliczane i kapitalizowane co rok.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość obligacji kupionych przez pana Nowaka będzie po dwóch latach równa
+A. 40 000 $(1,07)^{2}$ zł
+B. 40 000 $(1,7)^{2}$ zł
+C. 40 000 1,14 zł
+D. 40 000 1,49 zł
+
+Zadanie 3. (0-1)
+Właściciel sklepu kupił w hurtowni 50 par identycznych spodni po x zł za parę i 40 identycznych marynarek po y zł za sztukę. Za zakupy w hurtowni zapłacił 8000 zł. Po doliczeniu marży 50% na każdą parę spodni i 20% na każdą marynarkę ceny detaliczne spodni i marynarki były jednakowe.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Cenę pary spodni x oraz cenę marynarki y, jakie trzeba zapłacić w hurtowni, można obliczyć z układu równań
+A. $begin{cases}x+y=8000 0,5x=0,2yend{cases}$
+B. $begin{cases}50x+40y=8000 0,5x=0,2yend{cases}$
+C. $begin{cases}50x+40y=8000 1,5x=1,2yend{cases}$
+D. $begin{cases}x+y=8000 1,5x=1,2yend{cases}$
+
+Zadanie 4. (0-1)
+Liczby rzeczywiste x i y są dodatnie oraz $xne y.$
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wyrażenie $frac{1}{x-y}+frac{1}{x+y}$ można przekształcić do postaci
+A. $frac{2}{x-y}$
+B. $frac{2}{x^{2}-y^{2}}$
+C. $frac{2x}{x^{2}-y^{2}}$
+D. $frac{-2xy}{x+y}$
+
+Zadanie 5. (0-1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wszystkich różnych liczb naturalnych czterocyfrowych, w których zapisie dziesiętnym wszystkie cyfry są różne, jest
+A. 9·8·7·6
+B. 9·9·8·7
+C. 10·9·8·7
+D. 9·10·10·10
+
+Zadanie 6. (0-1)
+Funkcja f jest określona wzorem $f(x)=-log~x$ dla wszystkich liczb rzeczywistych dodatnich x.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość funkcji f dla argumentu $x=sqrt{10}$ jest równa
+A. 2
+B. $(-frac{1}{2})$
+C. $frac{1}{2}$
+D. $(-2)$
+
+Zadanie 7.
+W kartezjańskim układzie współrzędnych $(x,y)$ przedstawiono fragment wykresu funkcji kwadratowej $f(x)=ax^{2}+bx+c.$ Wierzchołek paraboli, która jest wykresem funkcji f, ma współrzędne $(5,-3)$. Jeden z punktów przecięcia paraboli z osią Ox układu współrzędnych ma współrzędne $(4,0)$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 7.1. (0-1)
+Zapisz poniżej zbiór wszystkich wartości funkcji f.
+
+Zadanie 7.2. (0-2)
+Wyznacz wzór funkcji kwadratowej f w postaci kanonicznej. Zapisz obliczenia.
+
+Zadanie 8. (0-1)
+Dana jest nierówność kwadratowa $(3x-9)(x+k)&lt;0$ z niewiadomą x i parametrem $kinmathbb{R}$. Rozwiązaniem tej nierówności jest przedział (-2, 3).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczba k jest równa
+A. (-2)
+B. 2
+C. (-3)
+D. 3
+
+Zadanie 9. (0-1)
+Dana jest funkcja kwadratowa $f(x)=ax^{2}+bx+c$ gdzie a, b i c są liczbami rzeczywistymi takimi, że $ane0$ oraz $c&lt;0$. Funkcja f nie ma miejsc zerowych.
+Dokończ zdanie tak, aby było prawdziwe. Wybierz odpowiedź A albo B oraz jej uzasadnienie 1., 2. albo 3.
+Wykres funkcji f leży w całości:
+A. nad osią Ox, ponieważ 1. $b^{2}-4ac&lt;0$ i $a&lt;0$ lub 2. $b^{2}-4ac0$
+B. pod osią Ox, ponieważ 3. $b^{2}-4ac&lt;0$ i $a&lt;0$
+
+Zadanie 10. (0–1)
+Dany jest układ równań {𝑦 = 𝑥 − 1, 𝑦 = −𝑥 + 1
+Na którym z rysunków A–D przedstawiona jest interpretacja geometryczna tego układu równań?
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 11. (0–1)
+Dany jest wielomian 𝑊 określony wzorem 𝑊(𝑥) = 𝑥³ − 2𝑥² − 3𝑥 + 6 dla każdej liczby rzeczywistej 𝑥.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wielomian 𝑊 przy rozkładzie na czynniki ma postać
+A. 𝑊(𝑥) = (𝑥 + 2)(𝑥² − 3)
+B. 𝑊(𝑥) = (𝑥 − 2)(𝑥² − 3)
+C. 𝑊(𝑥) = (𝑥 + 2)(𝑥² + 3)
+D. 𝑊(𝑥) = (𝑥 − 2)(𝑥² + 3)
+
+Zadanie 12. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Równanie (4−𝑥)(2𝑥−3)(3𝑥−5)(3−2𝑥) = 0 w zbiorze liczb rzeczywistych ma dokładnie
+A. jedno rozwiązanie.
+B. dwa rozwiązania.
+C. trzy rozwiązania.
+D. cztery rozwiązania.
+
+Zadanie 13. (0–1)
+Dana jest nierówność 2 − 𝑥² ≥ 𝑥³ − 3.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Największą liczbą całkowitą, która spełnia tę nierówność, jest
+A. 6
+B. 5
+C. 7
+D. (−6)
+
+Zadanie 14. (0–2)
+Wykaż, że dla każdej liczby naturalnej 𝒏 liczba 𝟓𝒏² + 𝟏𝟓𝒏 jest podzielna przez 𝟏𝟎.
+
+Zadanie 15. (0–1)
+Dany jest ciąg (𝑎𝑛) określony wzorem 𝑎𝑛 = 2𝑛² + 𝑛 dla każdej liczby naturalnej 𝑛 ≥ 1. Oceń prawdziwość poniższych stwierdzeń.
+Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.
+Ciąg (𝑎𝑛) jest malejący. P F
+Ósmy wyraz ciągu (𝑎𝑛) jest równy 136. P F
+
+Zadanie 16. (0–1)
+Pięciowyrazowy ciąg (−3, 12, 𝑥, 𝑦, 11) jest arytmetyczny.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Liczby 𝑥 oraz 𝑦 są równe
+A. 𝑥 = 4 oraz 𝑦 = 15/2
+B. 𝑥 = 15/2 oraz 𝑦 = 4
+C. 𝑥 = −4 oraz 𝑦 = 15/2
+D. 𝑥 = −15/2 oraz 𝑦 = 4
+
+Zadanie 17. (0–2)
+Dany jest ciąg geometryczny (𝑎𝑛), określony dla każdej liczby naturalnej 𝑛 ≥ 1. W tym ciągu 𝑎1 = −5, 𝑎2 = 15, 𝑎3 = −45.
+Dokończ zdanie. Zaznacz dwie odpowiedzi tak, aby dla każdej z nich dokończenie poniższego zdania było prawdziwe.
+Wzór ogólny ciągu (𝑎𝑛) ma postać
+A. 𝑎𝑛 = −5 ∙ (−3)𝑛−1
+B. 𝑎𝑛 = −5 ∙ (−3)𝑛
+C. 𝑎𝑛 = −5 ∙ 3𝑛−1
+D. 𝑎𝑛 = −5 ∙ (−3)ⁿ/³
+E. 𝑎𝑛 = 5 ∙ (−3)ⁿ/³
+F. 𝑎𝑛 = 5 ∙ (−3)ⁿ ∙ 3
+
+Zadanie 18. (0–1)
+Kąt 𝛼 jest ostry oraz 1/|sin²𝛼| + 1/|cos²𝛼| = 64/9.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wartość wyrażenia sin 𝛼 ∙ cos 𝛼 jest równa
+A. 8/3
+B. 3/8
+C. 6/49
+D. 9/64
+
+Zadanie 19. (0–1)
+Punkty 𝐴, 𝐵, 𝐶 leżą na okręgu o środku 𝑂 (zobacz rysunek). Ponadto |∡𝐴𝑂𝐶| = 130° oraz |∡𝐵𝑂𝐴| = 110°.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Miara kąta wewnętrznego 𝐵𝐴𝐶 trójkąta 𝐴𝐵𝐶 jest równa
+A. 60°
+B. 55°
+C. 50°
+D. 65°
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 20. (0–4)
+Do wyznaczenia trzech boków pewnego kąpieliska w kształcie prostokąta należy użyć liny o długości 200 m. Czwarty bok tego kąpieliska będzie pokrywał się z brzegiem plaży, który w tym miejscu jest linią prostą (zobacz rysunek). Oblicz wymiary 𝒂 i 𝒃 kąpieliska tak, aby jego powierzchnia była największa. Zapisz obliczenia.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 21. (0–1)
+Dany jest kwadrat 𝐴𝐵𝐶𝐷 o boku długości 8. Z wierzchołka 𝐴 zakreślono koło o promieniu równym długości boku kwadratu (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole powierzchni części wspólnej koła i kwadratu jest równe
+A. 16𝜋
+B. 8𝜋
+C. 4√2𝜋
+D. 16√2𝜋
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 22. (0–1)
+Odcinki 𝐴𝐶 i 𝐵𝐷 przecinają się w punkcie 𝑂. Ponadto |𝐴𝐷| = 4 i |𝑂𝐷| = |𝐵𝐶| = 6. Kąty 𝑂𝐷𝐴 i 𝐵𝐶𝑂 są proste (zobacz rysunek).
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość odcinka 𝑂𝐶 jest równa
+A. 9
+B. 8
+C. 2√13
+D. 3√13
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 23. (0–2)
+Przekątne równoległoboku 𝐴𝐵𝐶𝐷 mają długości: |𝐴𝐶| = 16 oraz |𝐵𝐷| = 12. Wierzchołki 𝐸, 𝐹, 𝐺 oraz 𝐻 rombu 𝐸𝐹𝐺𝐻 leżą na bokach równoległoboku 𝐴𝐵𝐶𝐷 (zobacz rysunek). Boki tego rombu są równoległe do przekątnych równoległoboku. Oblicz długość boku rombu 𝑬𝑭𝑮𝑯. Zapisz obliczenia.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 24. (0–2)
+Dany jest trójkąt 𝐴𝐵𝐶, w którym |𝐴𝐶| = 4, |𝐴𝐵| = 3, cos ∡𝐵𝐴𝐶 = 4/5. Oblicz pole trójkąta 𝑨𝑩𝑪. Zapisz obliczenia.
+
+Zadanie 25.
+Dany jest sześciokąt foremny 𝐴𝐵𝐶𝐷𝐸𝐹 o polu równym 6√3 (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 25.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Pole trójkąta 𝐴𝐵𝐸 jest równe
+A. 6
+B. 4√3
+C. 2√3
+D. 4
+
+Zadanie 25.2. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Długość odcinka 𝐴𝐸 jest równa
+A. 2
+B. 2√3
+C. 4√3
+D. 4
+
+Zadanie 26. (0–1)
+Dany jest trapez 𝐴𝐵𝐶𝐷, w którym 𝐴𝐵||𝐶𝐷 oraz przekątne 𝐴𝐶 i 𝐵𝐷 przecinają się w punkcie 𝑂 (zobacz rysunek). Wysokość tego trapezu jest równa 12. Obwód trójkąta 𝐴𝐵𝑂 jest równy 39, a obwód trójkąta 𝐶𝐷𝑂 jest równy 13.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Wysokość trójkąta 𝐴𝐵𝑂 poprowadzona z punktu 𝑂 jest równa
+A. 3
+B. 4
+C. 9
+D. 6
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 27. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dany jest okrąg 𝒪 o równaniu (𝑥 − 3)² + (𝑦 − 3)² = 13.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Okrąg 𝒪 przecina oś 𝑂𝑦 w punktach o współrzędnych
+A. (0, 1) i (0, 5)
+B. (0, 1) i (0, −5)
+C. (1, 0) i (5, 0)
+D. (0, −1) i (0, 5)
+
+Zadanie 28. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dane są proste 𝑘 oraz 𝑙 o równaniach: 𝑘: 𝑦 = 1/3𝑥 − 1, 𝑙: 𝑦 = −3𝑥 + 6.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Proste 𝑘 oraz 𝑙
+A. nie mają punktów wspólnych.
+B. są prostopadłe.
+C. przecinają się w punkcie 𝑃 = (0, −1).
+D. się pokrywają.
+
+Zadanie 29. (0–1)
+Na płaszczyźnie, w kartezjańskim układzie współrzędnych (𝑥, 𝑦), dane są punkty 𝐴 = (1, 2) i 𝐵 = (2𝑚, 𝑚), gdzie 𝑚 jest liczbą rzeczywistą, oraz prosta 𝑘 o równaniu 𝑦 = −𝑥 − 1.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prosta przechodząca przez punkty 𝐴 i 𝐵 jest równoległa do prostej 𝑘, gdy
+A. 𝑚 = −1
+B. 𝑚 = 1
+C. 𝑚 = 1/2
+D. 𝑚 = 2
+
+Zadanie 30.
+Dany jest sześcian 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 o krawędzi długości 9. Wierzchołki podstawy 𝐴𝐵𝐶𝐷 sześcianu połączono odcinkami z punktem 𝑊, który jest punktem przecięcia przekątnych podstawy 𝐸𝐹𝐺𝐻. Otrzymano w ten sposób ostrosłup prawidłowy czworokątny 𝐴𝐵𝐶𝐷𝑊 (zobacz rysunek).
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 30.1. (0–1)
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Objętość 𝑉 ostrosłupa 𝐴𝐵𝐶𝐷𝑊 jest równa
+A. 243
+B. 364,5
+C. 489
+D. 729
+
+Zadanie 30.2. (0–2)
+Oblicz cosinus kąta nachylenia krawędzi bocznej ostrosłupa do płaszczyzny podstawy. Zapisz obliczenia.
+
+Zadanie 31. (0–1)
+Dany jest sześcian ℱ o krawędzi długości 𝑎 i objętości 𝑉 oraz sześcian 𝒢 o krawędzi długości 3𝑎.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Objętość sześcianu 𝒢 jest równa
+A. 3𝑉
+B. 9𝑉
+C. 18𝑉
+D. 27𝑉
+
+Zadanie 32. (0–1)
+Na loterii stosunek liczby losów wygrywających do liczby losów przegrywających jest równy 2 ∶ 7. Zakupiono jeden los z tej loterii.
+Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.
+Prawdopodobieństwo zdarzenia polegającego na tym, że zakupiony los jest wygrywający, jest równe
+A. 1/9
+B. 1/2
+C. 2/9
+D. 2/7
+
+Zadanie 33. (0–2)
+W eksperymencie badano kiełkowanie nasion w pięciu donicach. Na koniec eksperymentu policzono wykiełkowane nasiona w każdej z donic:
+• w I donicy – 133 nasiona
+• w II donicy – 140 nasion
+• w III donicy – 119 nasion
+• w IV donicy – 147 nasion
+• w V donicy – 161 nasion.
+Odchylenie standardowe liczby wykiełkowanych nasion jest równe 𝜎 = 14. Podaj numery donic, w których liczba wykiełkowanych nasion mieści się w przedziale określonym przez jedno odchylenie standardowe od średniej. Zapisz obliczenia.
+
+
+
+
+ZASADY OCENIANIA:
+
+Rodzaj dokumentu: Zasady oceniania rozwiązań zadań
+Egzamin: Egzamin maturalny, Test diagnostyczny
+Przedmiot: Matematyka
+Poziom: Poziom podstawowy
+Formy arkusza: MMAP-P0-100-2212, MMAP-P0-200-2212, MMAP-P0-300-2212, MMAP-P0-400-2212, MMAP-P0-700-2212, MMAP-P0-Q00-2212, MMAP-P0-Z00-2212, MMAU-P0-100-2212
+Data publikacji dokumentu: 15 grudnia 2022 r. (wersja 1)
+Uwagi:
+Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+Jeżeli zdający, rozwiązując zadanie otwarte, popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie upraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę i konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może otrzymać co najwyżej $(n-1)$ punktów (gdzie n jest maksymalną możliwą do uzyskania liczbą punktów za dane zadanie).
+Zadanie 1. (0-1)
+Wymagania ogólne: I. Sprawność rachunkowa. Zdający: Wykonywanie obliczeń na liczbach rzeczywistych, także przy użyciu kalkulatora, stosowanie praw działań matematycznych przy przekształcaniu wyrażeń algebraicznych oraz wykorzystywanie tych umiejętności przy rozwiązywaniu problemów w kontekstach rzeczywistych i teoretycznych.
+Wymagania szczegółowe: 1.1) wykonuje działania ([...] mnożenie, [...] potęgowanie, [...]) w zbiorze liczb rzeczywistych; 1.4) stosuje związek pierwiastkowania z potęgowaniem oraz prawa działań na potęgach i pierwiastkach.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: C
+Zadanie 2. (0-1)
+Wymagania ogólne: I. Sprawność rachunkowa. Zdający: Wykonywanie obliczeń na liczbach rzeczywistych... III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych i operowanie nimi, interpretowanie pojęć matematycznych.
+Wymagania szczegółowe: 1.8) wykorzystuje własności potęgowania [...] w sytuacjach praktycznych, w tym do obliczania procentów składanych z kapitalizacją roczną i zysków z lokat.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 3. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych przy rozwiązywaniu problemów praktycznych i teoretycznych.
+Wymagania szczegółowe: Zdający: IV.2) stosuje układy równań liniowych do rozwiązywania zadań tekstowych.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: C
+Zadanie 4. (0-1)
+Wymagania ogólne: I. Sprawność rachunkowa. Zdający: Wykonywanie obliczeń na liczbach rzeczywistych...
+Wymagania szczegółowe: II.1) stosuje wzory skróconego mnożenia na: [...] $a^{2}-b^{2}$; II.6) dodaje i odejmuje wyrażenia wymierne, w przypadkach nie trudniejszych niż: $\frac{1}{x+1}-\frac{1}{x}, \frac{1}{x}+\frac{1}{x^{2}}+\frac{1}{x^{3}}, \frac{x+1}{x+2}+\frac{x-1}{x+1}$.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: C
+Zadanie 5. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych...
+Wymagania szczegółowe: Zdający: XI.1) zlicza obiekty w prostych sytuacjach kombinatorycznych.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 6. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: 1.4) stosuje związek pierwiastkowania z potęgowaniem... 1.9) stosuje związek logarytmowania z potęgowaniem, posługuje się wzorami na [...] logarytm potęgi; V.2) oblicza wartość funkcji zadanej wzorem algebraicznym.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 7.1. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: V.4) odczytuje z wykresu funkcji:[...] zbiór wartości [...].
+Zasady oceniania:
+1 pkt - rozwiązanie poprawne.
+0 pkt - rozwiązanie niepoprawne lub niepełne albo brak rozwiązania.
+Rozwiązanie: $[-3, 8)$
+Zadanie 7.2. (0-2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: V.8) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci ogólnej, kanonicznej i iloczynowej [...]; V.9) wyznacza wzór funkcji kwadratowej na podstawie informacji o tej funkcji lub o jej wykresie.
+Zasady oceniania:
+2 pkt - poprawna metoda wyznaczenia postaci kanonicznej funkcji $f$ oraz zapisanie jej wzoru: $f(x)=3(x-5)^{2}-3$.
+1 pkt - zapisanie wzoru funkcji $f$ w postaci kanonicznej: $f(x)=a(x-5)^{2}-3$ lub w postaci iloczynowej $f(x)=a(x-4)(x-6)$ lub w postaci ogólnej $f(x)=3x^{2}-30x+72$.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania:
+Sposób I
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=a(x-5)^{2}-3$, gdzie $a\ne0$.
+Obliczamy $a$. Wykres funkcji przechodzi przez punkt o współrzędnych $(4,0)$, zatem:
+$$0=a\cdot(4-5)^{2}-3$$
+$$0=a-3$$
+Stąd $a=3$.
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=3(x-5)^{2}-3$.
+Sposób II
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=a(x-5)^{2}-3$, gdzie $a\ne0$.
+Ponieważ wykres funkcji kwadratowej $f$ jest symetryczny względem prostej o równaniu $x=5$, więc miejscami zerowymi funkcji $f$ są liczby $4$ oraz $6$.
+Przyrównujemy postać iloczynową funkcji $f$ do jej postaci kanonicznej:
+$$a(x-4)(x-6)=a(x-5)^{2}-3$$
+$$ax^{2}-10ax+24a=ax^{2}-10ax+25a-3$$
+$$a=3$$
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=3(x-5)^{2}-3$.
+Sposób III
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=a(x-5)^{2}-3$, gdzie $a\ne0$.
+Ponieważ wykres funkcji kwadratowej $f$ jest symetryczny względem prostej o równaniu $x=5$, więc miejscami zerowymi funkcji $f$ są liczby $4$ oraz $6$.
+Zapisujemy wzór funkcji $f$ w postaci iloczynowej: $f(x)=a(x-4)(x-6)$.
+Podstawiając do tego wzoru współrzędne wierzchołka $(5,-3)$, otrzymujemy równanie:
+$$f(5)=a(5-4)(5-6)=-3$$
+Stąd $a=3$.
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=3(x-5)^{2}-3$.
+Sposób IV
+Wzór funkcji $f$ w postaci ogólnej to $f(x)=ax^{2}+bx+c$, gdzie $a\ne0$.
+Ponieważ wykres funkcji kwadratowej $f$ jest symetryczny względem prostej o równaniu $x=5$, więc jej miejscami zerowymi są liczby $4$ oraz $6$.
+Do wykresu funkcji należą punkty $(4,0)$, $(5, -3)$ oraz $(6,0)$.
+Wstawiając ich współrzędne do wzoru funkcji $f$, otrzymujemy:
+$$\begin{cases} 0=a\cdot4^{2}+b\cdot4+c\\ -3=a\cdot5^{2}+b\cdot5+c\\ 0=a\cdot6^{2}+b\cdot6+c \end{cases}$$
+$$\begin{cases} 0=16a+4b+c\\ -3=25a+5b+c\\ 0=36a+6b+c \end{cases}$$
+Stąd $a=3$, $b=-30$, $c=72$.
+Zatem $f(x)=3x^{2}-30x+72$.
+Wzór ten można przekształcić do postaci:
+$$f(x)=3x^{2}-30x+72=3(x^{2}-10x+25)-3=3(x-5)^{2}-3$$
+Wzór funkcji $f$ w postaci kanonicznej to $f(x)=3(x-5)^{2}-3$.
+Zadanie 8. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: V.8) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci [...] iloczynowej (jeśli istnieje). III.4) rozwiązuje równania i nierówności kwadratowe.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 9. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: V.8) interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci ogólnej [...].
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B1
+Zadanie 10. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: IV.1) [...] podaje interpretację geometryczną układów oznaczonych [...].
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 11. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: II.4) rozkłada wielomiany na czynniki metodą wyłączania wspólnego czynnika przed nawias oraz metodą grupowania wyrazów [...].
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 12. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: III.6) rozwiązuje równania wymierne w postaci $\frac{V(x)}{W(x)}=0$, gdzie wielomiany $V(x)$ i $W(x)$ są zapisane w postaci iloczynowej.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 13. (0-1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: III.3) rozwiązuje nierówności liniowe z jedną niewiadomą.
+Zasady oceniania:
+1 pkt - odpowiedź poprawna.
+0 pkt - odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 14. (0-2)
+Wymagania ogólne: IV. Rozumowanie i argumentacja. 1. Przeprowadzanie rozumowań, także kilkuetapowych, podawanie argumentów uzasadniających poprawność rozumowania, odróżnianie dowodu od przykładu.
+Wymagania szczegółowe: Zdający: I.2) przeprowadza proste dowody dotyczące podzielności liczb całkowitych i reszt z dzielenia [...].
+Zasady oceniania:
+2 pkt - przeprowadzenie pełnego dowodu, tj. rozpatrzenie dwóch przypadków: gdy $n=2k$ oraz $n=2k+1$
+ALBO
+przekształcenie wyrażenia $5n^{2}+15n$ do postaci $5n(n+3)$ oraz uzasadnienie, że liczba $5n(n+3)$ dzieli się przez $2$ i przez $5$, czyli jest podzielna przez $10$.
+1 pkt - przekształcenie wyrażenia $5n^{2}+15n$ do postaci $5n(n+3)$
+ALBO
+rozpatrzenie przypadku, gdy $n=2k$ (gdzie $k\in\mathbb{N}$), tj. przekształcenie wyrażenia $5n^{2}+15n$ do postaci $10\cdot(2k^{2}+3k)$ i zapisanie, że liczba $2k^{2}+3k$ jest naturalna,
+ALBO
+rozpatrzenie przypadku, gdy $n=2k+1$ (gdzie $k\in\mathbb{N}$), tj. przekształcenie wyrażenia $5n^{2}+15n$ do postaci $10\cdot(2k^{2}+5k+2)$ i zapisanie, że liczba $2k^{2}+5k+2$ jest naturalna.
+0 pkt - rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania:
+Sposób I
+Przedstawiamy liczbę $5n^{2}+15n$ w postaci iloczynu:
+$$5n^{2}+15n=5n(n+3)$$
+Liczby $n$ oraz $n+3$ różnią się o liczbę nieparzystą. Zatem, jeśli $n$ jest parzysta, wtedy $n+3$ jest nieparzysta.
+Jeśli $n$ jest nieparzysta, wtedy $n+3$ jest parzysta. Wynika stąd, że liczba $5n(n+3)$ dzieli się przez $2$ i przez $5$, czyli jest podzielna przez $10$. To należało wykazać.
+Sposób II
+Rozważamy dwa przypadki: gdy liczba $n$ jest parzysta i gdy liczba $n$ jest nieparzysta.
+Parzystą liczbę $n$ możemy zapisać w postaci $n=2k$, gdzie $k\in\mathbb{N}$.
+Wtedy:
+$$5n^{2}+15n=5(2k)^{2}+15\cdot2k=20k^{2}+30k=10\cdot(2k^{2}+3k)$$
+Ponieważ $k$ jest liczbą naturalną, to liczba $2k^{2}+3k$ również jest naturalna, a iloczyn $10\cdot(2k^{2}+3k)$ jest podzielny przez $10$.
+W przypadku, gdy liczba $n$ jest nieparzysta, możemy ją zapisać w postaci $n=2k+1$, gdzie $k\in\mathbb{N}$.
+Wtedy:
+$$5n^{2}+15n=5(2k+1)^{2}+15\cdot(2k+1)=5(4k^{2}+4k+1)+30k+15=20k^{2}+20k+5+30k+15=20k^{2}+50k+20=10\cdot(2k^{2}+5k+2)$$
+Ponieważ $k$ jest liczbą naturalną, to liczba $2k^{2}+5k+2$ również jest naturalna, a iloczyn $10\cdot(2k^{2}+5k+2)$ jest podzielny przez $10$. To należało wykazać.
+Zadanie 15. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VI.2) w prostych przypadkach bada, czy ciąg jest rosnący, czy malejący; VI.1) oblicza wyrazy ciągu określonego wzorem ogólnym.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.
+Rozwiązanie: FP
+Zadanie 16. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VI.4) stosuje wzór na $n$-ty wyraz […] ciągu arytmetycznego.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 17. (0–2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VI.5) stosuje wzór na $n$-ty wyraz […] ciągu geometrycznego.
+Zasady oceniania:
+2 pkt – wybranie dwóch odpowiedzi, z których obie są poprawne: A i E.
+1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna: A albo E.
+0 pkt – rozwiązanie niepoprawne lub niepełne albo brak rozwiązania.
+Rozwiązanie: AE
+Zadanie 18. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VII.2) korzysta z wzorów $\sin^2\alpha + \cos^2\alpha = 1$ […].
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 19. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.5) stosuje własności kątów wpisanych i środkowych.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 20. (0–4)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych... IV. Rozumowanie i argumentacja. 4. Stosowanie i tworzenie strategii...
+Wymagania szczegółowe: Zdający: XIII. rozwiązuje zadania optymalizacyjne w sytuacjach dających się opisać funkcją kwadratową.
+Zasady oceniania:
+4 pkt – poprawna metoda obliczenia obu wymiarów kąpieliska oraz podanie poprawnych wyników: $a = 50\text{ m}$ oraz $b = 100\text{ m}$.
+3 pkt – poprawne zapisanie wzoru na pole powierzchni kąpieliska w zależności od zmiennej $a$ oraz podanie dziedziny funkcji $a \in (0, 100)$ i prawidłowe obliczenie pierwszej współrzędnej wierzchołka paraboli: $a = 50\text{ m}$
+ALBO
+poprawne zapisanie wzoru na pole powierzchni kąpieliska w zależności od zmiennej $b$ oraz podanie dziedziny funkcji $b \in (0, 200)$ i prawidłowe obliczenie pierwszej współrzędnej wierzchołka paraboli: $b = 100\text{ m}$.
+2 pkt – poprawne zapisanie wzoru na pole powierzchni kąpieliska w zależności od jednej zmiennej: $P(a) = a(200 - 2a)$ lub $P(b) = b(100 - \frac{1}{2}b)$.
+1 pkt – zapisanie związku między wymiarami kąpieliska: $2a + b = 200$.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania:
+Sposób I
+Przyjmijmy oznaczenia jak na rysunku w zadaniu. Długość liny użytej do wytyczenia kąpieliska – po uwzględnieniu warunków zadania – można zapisać równaniem:
+$$2a + b = 200$$
+Stąd wyznaczamy $b$: $b = 200 - 2a$.
+Z warunków zadania wynika, że $a > 0$ i $b > 0$.
+Powierzchnia $P$ kąpieliska jest równa polu prostokąta o bokach długości $a$ oraz $b$.
+Zatem:
+$$P = a \cdot b$$
+Powierzchnię kąpieliska wyrażamy jako funkcję jednej zmiennej $a$. W tym celu podstawiamy $b = 200 - 2a$ i otrzymujemy:
+$$P(a) = a(200 - 2a) = -2a^2 + 200a$$
+Wyznaczamy dziedzinę funkcji $P$. Wykorzystamy związek między wymiarami $a$ i $b$ oraz warunki, jakie te wymiary spełniają:
+$$b = 200 - 2a > 0$$
+oraz
+$$a > 0$$
+Zatem $a < 100$ oraz $a > 0$.
+Zmienna $a$ może przyjmować wartości z przedziału $(0, 100)$.
+Wykresem funkcji $P$ jest fragment paraboli skierowanej ramionami do dołu. Obliczamy pierwszą współrzędną wierzchołka paraboli:
+$$p = -\frac{200}{2 \cdot (-2)} = 50 \in (0, 100)$$
+Zatem funkcja $P$ przyjmuje wartość największą dla argumentu $50$.
+Obliczamy drugi wymiar, dla którego kąpielisko ma największą powierzchnię:
+$$b = 200\text{ m} - 2 \cdot 50\text{ m} = 100\text{ m}$$
+Największą powierzchnię ma kąpielisko o wymiarach: $a = 50\text{ m}$ oraz $b = 100\text{ m}$.
+Sposób II
+Przyjmiemy oznaczenia jak na rysunku w zadaniu. Długość liny użytej do wytyczenia kąpieliska – po uwzględnieniu warunków zadania – można zapisać równaniem:
+$$2a + b = 200$$
+Stąd wyznaczamy $a$: $a = 100 - \frac{1}{2}b$.
+Z warunków zadania wynika, że $a > 0$ i $b > 0$.
+Powierzchnia $P$ kąpieliska jest równa polu prostokąta o bokach długości $a$ oraz $b$.
+Zatem $P = a \cdot b$.
+Powierzchnię kąpieliska wyrażamy jako funkcję jednej zmiennej $b$. W tym celu podstawiamy $a = 100 - \frac{1}{2}b$ i otrzymujemy:
+$$P(b) = b(100 - \frac{1}{2}b)$$
+Wyznaczamy dziedzinę funkcji $P$. Wykorzystamy związek między wymiarami $a$ i $b$ oraz warunki, jakie te wymiary spełniają:
+$$a = 100 - \frac{1}{2}b > 0$$
+oraz
+$$b > 0$$
+Zatem $b < 200$ oraz $b > 0$.
+Zmienna $b$ może przyjmować wartości z przedziału $(0, 200)$.
+Wykresem funkcji $P$ jest fragment paraboli skierowanej ramionami do dołu. Obliczamy pierwszą współrzędną wierzchołka paraboli jako średnią arytmetyczną pierwiastków równania:
+$$b(100 - \frac{1}{2}b) = 0$$
+Pierwiastkami tego równania są liczby $b_1 = 0$ oraz $b_2 = 200$.
+Zatem pierwsza współrzędna wierzchołka paraboli jest równa:
+$$p = \frac{b_1 + b_2}{2} = 100 \in (0, 200)$$
+Zatem funkcja $P$ przyjmuje wartość największą dla argumentu $100$.
+Obliczamy drugi wymiar, dla którego kąpielisko ma największą powierzchnię:
+$$a = 100\text{ m} - \frac{1}{2} \cdot 100\text{ m} = 50\text{ m}$$
+Największą powierzchnię ma kąpielisko o wymiarach: $a = 50\text{ m}$ oraz $b = 100\text{ m}$.
+Zadanie 21. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.6) stosuje wzory na pole wycinka koła […].
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 22. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.8) korzysta z cech podobieństwa trójkątów.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 23. (0–2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych... 3. Tworzenie pomocniczych obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.4) korzysta z własności kątów i przekątnych w […] równoległobokach, rombach […]; VIII.8) korzysta z cech podobieństwa trójkątów.
+Zasady oceniania:
+2 pkt – poprawna metoda obliczenia długości boku rombu oraz poprawny wynik: $a = \frac{48}{7}$.
+1 pkt – zapisanie związku między długościami odcinków wynikającego z podobieństwa odpowiednich trójkątów, np. $\frac{|AF|}{|EF|} = \frac{|AB|}{|BD|}$, $\frac{|BF|}{|FG|} = \frac{|AB|}{|AC|}$, $\frac{|KH|}{|OD|} = \frac{|KC|}{|OC|}$, $\frac{|KG|}{|OB|} = \frac{|KC|}{|OC|}$.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania:
+Sposób I
+Niech $a$ oznacza długość boku rombu.
+Trójkąty $AEF$ i $ADB$ są podobne oraz trójkąty $FBG$ i $ABC$ są podobne (na mocy cechy kkk podobieństwa trójkątów).
+Zatem mamy zależności:
+$$\frac{|AF|}{|EF|} = \frac{|AB|}{|BD|} \quad \text{oraz} \quad \frac{|BF|}{|FG|} = \frac{|AB|}{|AC|}$$
+$$\frac{|AF|}{a} = \frac{|AB|}{12} \quad \text{oraz} \quad \frac{|BF|}{a} = \frac{|AB|}{16}$$
+Zatem
+$$|AF| = |AB| \cdot \frac{a}{12} \quad \text{oraz} \quad |BF| = |AB| \cdot \frac{a}{16}$$
+Wobec tego
+$$|AB| = |AF| + |BF| = |AB| \cdot \frac{a}{12} + |AB| \cdot \frac{a}{16}$$
+Zatem
+$$1 = \frac{a}{12} + \frac{a}{16}$$
+Wynika stąd, że $a = \frac{48}{7}$.
+Długość boku rombu $EFGH$ jest równa $\frac{48}{7}$.
+Sposób II
+Niech $a$ oznacza długość boku rombu.
+Z warunków zadania mamy $|OD| = 6$, $|OC| = 8$.
+Punkt $K$ jest punktem przecięcia przekątnej $AC$ równoległoboku z bokiem $GH$ rombu. Punkt $L$ jest punktem przecięcia przekątnej $BD$ równoległoboku z bokiem $EH$ rombu.
+Trójkąty $HKC$ i $DOC$ są podobne oraz trójkąty $GKC$ i $BOC$ są podobne (na mocy cechy kkk podobieństwa trójkątów), zatem
+$$\frac{|KH|}{|OD|} = \frac{|KC|}{|OC|} \quad \text{oraz} \quad \frac{|KG|}{|OB|} = \frac{|KC|}{|OC|}$$
+Stąd
+$$\frac{|KH|}{6} = \frac{|KG|}{6}$$
+Zatem $|KH| = |KG| = \frac{a}{2}$. Analogicznie $|LH| = |LE| = \frac{a}{2}$.
+Ponieważ boki czworokąta $LOKH$ są równoległe do boków rombu $EFGH$, więc $LOKH$ również jest rombem i każdy z jego boków ma długość $\frac{a}{2}$.
+Możemy zatem obliczyć długość odcinka $|KC| = |OC| - |OK| = 8 - \frac{a}{2}$.
+Korzystając ponownie z podobieństwa trójkątów $HKC$ i $DOC$, mamy
+$$\frac{|KH|}{|OD|} = \frac{|KC|}{|OC|}$$
+$$\frac{\frac{a}{2}}{6} = \frac{8 - \frac{a}{2}}{8}$$
+Stąd
+$$a = \frac{48}{7}$$
+Długość boku rombu $EFGH$ jest równa $\frac{48}{7}$.
+Zadanie 24. (0–2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VII.2) korzysta z wzorów $\sin^2\alpha + \cos^2\alpha = 1$, $\tg\alpha = \frac{\sin\alpha}{\cos\alpha}$; VII.3) stosuje […] wzór na pole trójkąta $P = \frac{1}{2} \cdot a \cdot b \cdot \sin\gamma$; VIII.11) stosuje funkcje trygonometryczne do wyznaczania długości odcinków […].
+Zasady oceniania:
+2 pkt – obliczenie pola trójkąta $ABC$ i zapisanie poprawnego wyniku: $P = \frac{18}{5}$.
+1 pkt – obliczenie sinusa kąta $\alpha$: $\sin\alpha = \frac{3}{5}$
+ALBO
+obliczenie długości wysokości trójkąta $ABC$: $h = \frac{12}{5}$,
+ALBO
+obliczenie kwadratu długości boku $BC$: $|BC|^2 = \frac{29}{5}$.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania:
+Sposób I
+Z warunków zadania mamy: $|AC| = 4$, $|AB| = 3$.
+Oznaczmy przez $\alpha$ miarę kąta $BAC$. Wtedy $\cos\alpha = \frac{4}{5}$.
+Aby obliczyć pole $P$ trójkąta $ABC$, zastosujemy wzór:
+$$P = \frac{1}{2} \cdot |AB| \cdot |AC| \cdot \sin\alpha$$
+Korzystając z tożsamości $\sin^2\alpha + \cos^2\alpha = 1$, obliczamy sinus kąta $\alpha$:
+$$\sin\alpha = \sqrt{1 - \cos^2\alpha} = \sqrt{1 - \left(\frac{4}{5}\right)^2} = \sqrt{\frac{9}{25}} = \frac{3}{5}$$
+Zatem
+$$P = \frac{1}{2} \cdot 3 \cdot 4 \cdot \frac{3}{5} = \frac{18}{5}$$
+Pole trójkąta $ABC$ jest równe $\frac{18}{5}$.
+Sposób II
+Z warunków zadania mamy: $|AC| = 4$, $|AB| = 3$.
+Niech $h$ oznacza wysokość $CD$ trójkąta $ABC$ opuszczoną z wierzchołka $C$, natomiast $\alpha$ – miarę kąta $BAC$. Wtedy $\cos\alpha = \frac{4}{5}$.
+Aby obliczyć pole $P$ trójkąta $ABC$, zastosujemy wzór:
+$$P = \frac{1}{2} \cdot |AB| \cdot |CD|$$
+W tym celu najpierw obliczamy długość odcinka $AD$:
+$$\cos\alpha = \frac{|AD|}{|AC|}$$
+$$\frac{4}{5} = \frac{|AD|}{4}$$
+$$|AD| = \frac{16}{5}$$
+Korzystając z twierdzenia Pitagorasa dla trójkąta $ADC$, obliczamy wysokość $h = |CD|$:
+$$|AD|^2 + |CD|^2 = |AC|^2$$
+$$\left(\frac{16}{5}\right)^2 + h^2 = 4^2$$
+$$h^2 = 16 - \frac{256}{25}$$
+$$h^2 = \frac{144}{25}$$
+$$h = \frac{12}{5}$$
+Obliczamy pole trójkąta $ABC$:
+$$P = \frac{1}{2} \cdot 3 \cdot \frac{12}{5} = \frac{18}{5}$$
+Pole trójkąta $ABC$ jest równe $\frac{18}{5}$.
+Sposób III
+Z warunków zadania mamy: $|AC| = 4$, $|AB| = 3$.
+Z twierdzenia cosinusów mamy:
+$$|BC|^2 = 3^2 + 4^2 - 2 \cdot 3 \cdot 4 \cdot \frac{4}{5} = \frac{29}{5}$$
+$$|BC| = \sqrt{\frac{29}{5}} = \frac{\sqrt{145}}{5}$$
+Obwód $O_{ABC}$ trójkąta $ABC$ jest równy:
+$$O_{ABC} = 4 + 3 + \frac{\sqrt{145}}{5} = \frac{35 + \sqrt{145}}{5}$$
+Stosując wzór Herona, obliczamy pole $P$ trójkąta $ABC$:
+$$P = \sqrt{\frac{35 + \sqrt{145}}{10} \cdot \frac{35 - \sqrt{145}}{10} \cdot \frac{\sqrt{145} - 5}{10} \cdot \frac{\sqrt{145} + 5}{10}} = \sqrt{\frac{1225 - 145}{100} \cdot \frac{145 - 25}{100}} = \sqrt{\frac{1080}{100} \cdot \frac{120}{100}} = \frac{360}{100} = \frac{18}{5}$$
+Pole trójkąta $ABC$ jest równe $\frac{18}{5}$.
+Sposób IV
+Z warunków zadania mamy: $|AC| = 4$, $|AB| = 3$.
+Niech $D$ będzie punktem przecięcia prostej $AB$ z prostą prostopadłą do prostej $AC$ przechodzącą przez punkt $C$. Wtedy trójkąt $ADC$ jest prostokątny, a ponieważ $\cos\alpha = \frac{4}{5}$ oraz $|AC| = 4$, więc jest to trójkąt egipski. Zatem $|AD| = 5$ oraz $|CD| = 3$.
+Pole trójkąta $ADC$ jest równe:
+$$P_{ADC} = \frac{1}{2} \cdot 3 \cdot 4 = 6$$
+Trójkąty $ABC$ i $ADC$ mają wspólną wysokość $h$ poprowadzoną z wierzchołka $C$. Możemy ją wyznaczyć ze wzoru na pole trójkąta $ADC$:
+$$P_{ADC} = \frac{1}{2} \cdot 5 \cdot h = 6$$
+Stąd $h = \frac{12}{5}$.
+Obliczamy pole trójkąta $ABC$:
+$$P = \frac{1}{2} \cdot 3 \cdot \frac{12}{5} = \frac{18}{5}$$
+Pole trójkąta $ABC$ jest równe $\frac{18}{5}$.
+Zadanie 25.1. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.3) rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: C
+Zadanie 25.2. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.3) rozpoznaje wielokąty foremne i korzysta z ich podstawowych własności.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 26. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: VIII.4) korzysta z własności kątów i przekątnych w […] trapezach; VIII.8) korzysta z cech podobieństwa trójkątów; VIII.9) wykorzystuje zależności między obwodami […] figur podobnych.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: C
+Zadanie 27. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: IX.4) posługuje się równaniem okręgu $(x - a)^2 + (y - b)^2 = r^2$.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 28. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: IX.1) rozpoznaje wzajemne położenie prostych na płaszczyźnie na podstawie ich równań […].
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 29. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: IX.2) posługuje się równaniem prostej na płaszczyźnie w postaci kierunkowej...
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: B
+Zadanie 30.1. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: X.1) rozpoznaje wzajemne położenie prostych w przestrzeni […]; X.4) oblicza objętości […] ostrosłupów […].
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: A
+Zadanie 30.2. (0–2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: X.2) posługuje się pojęciem kąta między prostą a płaszczyzną. VII.1) wykorzystuje definicje funkcji sinus, cosinus i tangens dla kątów od $0^\circ$ do $180^\circ$ […].
+Zasady oceniania:
+2 pkt – obliczenie wartości cosinusa kąta $\alpha$: $\cos\alpha = \frac{\sqrt{3}}{3}$.
+1 pkt – obliczenie długości odcinka $AO$: $|AO| = \frac{9\sqrt{2}}{2}$.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązania:
+Sposób I
+Oznaczamy przez $O$ spodek wysokości ostrosłupa $ABCDW$. Wtedy wysokość ostrosłupa jest równa $|OW| = 9$.
+Odcinek $AC$ jest przekątną kwadratu o boku $9$, zatem jego długość jest równa $9\sqrt{2}$. Odcinek $AO$ stanowi jego połowę, więc $|AO| = \frac{9\sqrt{2}}{2}$.
+Z twierdzenia Pitagorasa dla trójkąta $AOW$ mamy:
+$$|AO|^2 + |OW|^2 = |AW|^2$$
+Podstawiamy długości odcinków:
+$$\left(\frac{9\sqrt{2}}{2}\right)^2 + 9^2 = |AW|^2$$
+$$|AW|^2 = 9^2 \left(\frac{2}{4} + 1\right)$$
+$$|AW| = \frac{9\sqrt{6}}{2}$$
+Oznaczamy kąt $WAO$ przez $\alpha$. Obliczamy cosinus kąta $\alpha$:
+$$\cos\alpha = \frac{|AO|}{|AW|} = \frac{\frac{9\sqrt{2}}{2}}{\frac{9\sqrt{6}}{2}} = \frac{\sqrt{2}}{\sqrt{6}} = \frac{\sqrt{3}}{3}$$
+Sposób II
+Oznaczamy przez $O$ spodek wysokości ostrosłupa $ABCDW$. Wtedy wysokość ostrosłupa jest równa $|OW| = 9$.
+Odcinek $AC$ jest przekątną kwadratu o boku $9$, zatem jego długość jest równa $9\sqrt{2}$. Odcinek $AO$ stanowi jego połowę, więc $|AO| = \frac{9\sqrt{2}}{2}$.
+Oznaczamy kąt $WAO$ przez $\alpha$.
+$$\tg\alpha = \frac{|OW|}{|AO|} = \frac{9}{\frac{9\sqrt{2}}{2}} = \sqrt{2}$$
+Korzystając z tożsamości trygonometrycznej $\tg\alpha = \frac{\sin\alpha}{\cos\alpha}$, mamy:
+$$\frac{\sin\alpha}{\cos\alpha} = \sqrt{2}$$
+$$\sin\alpha = \sqrt{2} \cos\alpha$$
+Stąd z tożsamości $\sin^2\alpha + \cos^2\alpha = 1$ mamy:
+$$2 \cos^2\alpha + \cos^2\alpha = 1$$
+$$3 \cos^2\alpha = 1$$
+$$\cos^2\alpha = \frac{1}{3}$$
+Ponieważ kąt $\alpha$ jest ostry, więc:
+$$\cos\alpha = \frac{\sqrt{3}}{3}$$
+Zadanie 31. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: X.5) wykorzystuje zależność między objętościami graniastosłupów […] podobnych.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: D
+Zadanie 32. (0–1)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 2. Dobieranie i tworzenie modeli matematycznych...
+Wymagania szczegółowe: Zdający: XII.1) oblicza prawdopodobieństwo w modelu klasycznym.
+Zasady oceniania:
+1 pkt – odpowiedź poprawna.
+0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.
+Rozwiązanie: C
+Zadanie 33. (0–2)
+Wymagania ogólne: III. Wykorzystanie i interpretowanie reprezentacji. 1. Stosowanie obiektów matematycznych...
+Wymagania szczegółowe: Zdający: XII.2) oblicza średnią arytmetyczną […]; XII.3) oblicza odchylenie standardowe zestawu danych...
+Zasady oceniania:
+2 pkt – wyznaczenie końców przedziału wyznaczonego przez jedno odchylenie standardowe od średniej oraz zapisanie numerów donic, w których liczby wykiełkowanych nasion mieszczą się w tym przedziale: $126, 154$, I, II, IV.
+1 pkt – poprawna metoda obliczenia średniej liczby wykiełkowanych nasion i obliczenie tej średniej: $\bar{x} = 140$.
+0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.
+Przykładowe pełne rozwiązanie:
+Na podstawie wyników eksperymentu obliczamy średnią liczbę wykiełkowanych nasion:
+$$\bar{x} = \frac{133 + 140 + 119 + 147 + 161}{5} = \frac{700}{5} = 140$$
+Ponieważ odchylenie standardowe w tym doświadczeniu jest równe $\sigma = 14$, więc przedział określony przez to odchylenie standardowe od średniej będzie równy:
+$$(\bar{x} - \sigma, \bar{x} + \sigma) = (126, 154)$$
+Numery donic, w których liczby wykiełkowanych nasion mieszczą się w tym przedziale, to: I, II oraz IV.
+

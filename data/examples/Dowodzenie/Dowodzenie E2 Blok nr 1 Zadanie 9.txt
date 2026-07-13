@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Wykaż, że dla każdej liczby rzeczywistej x i dla każdej liczby rzeczywistej y < -4 prawdziwa jest nierówność x^2 + 5y^2 > 4xy + 12 - y.
+
+założenie: x ∈ ℝ, y < -4 => y + 4 < 0 *
+
+teza: x^2 + 5y^2 > 4xy + 12 - y
+
+① przekształcamy równoważnie tezę:
+
+x^2 + 5y^2 > 4xy + 12 - y
+
+x^2 - 4xy + 4y^2 + y^2 + y - 12 > 0
+
+(x - 2y)^2 + y^2 + y - 12 > 0
+
+           y^2
+------ + (y + 4)(y - 3)
+   ︳     szukamy *         ︳         
+-12
+
+② komentarz:
+
+(x - 2y)^2 + (y + 4)(y - 3) > 0
+-----------   <0 dla y < -4
+ >0 y - 3 < -7
+
+kwadrat dowolnej liczby jest zawsze liczbą ≥ 0,
+iloczyn dwóch liczb ujemnych jest liczbą dodatnią
+suma liczby nieujemnej i liczby dodatniej jest liczbą dodatnią
+
+c.k.d.

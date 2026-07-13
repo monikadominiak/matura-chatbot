@@ -1,0 +1,71 @@
+
+--- STRONA 1 ---
+W którym punkcie wykresu funkcji \( y = -x^3 \) należy poprowadzić styczną do tego wykresu, aby pole trójkąta ograniczonego tą styczną i osiami układu współrzędnych było równe 54?
+
+wzór na styczną: \( y = f'(x_0)(x-x_0) + f(x_0) \)
+
+① wyznaczamy równanie stycznej
+
+\( x_0 \) - punkt styczności
+
+\( f(x) = -x^3 \quad \rightarrow \quad f(x_0) = -x_0^3 \)
+
+\( f'(x) = -3x^2 \quad \rightarrow \quad f'(x_0) = -3x_0^2 \)
+
+\( y = -3x_0^2(x-x_0) - x_0^3 \)
+
+② liczymy miejsca przecięcia stycznej z osiami
+
+z OX:
+
+\(-3x_0^2(x-x_0) - x_0^3 = 0 \)
+
+\( 3x_0^2x = 2x_0^3 \quad /:3x_0^2 \neq 0 \)
+
+\( x = \frac{2x_0^3}{3x_0^2} = \frac{2}{3}x_0 \)
+
+\( P_x(\frac{2}{3}x_0,0) \)
+
+z OY:
+
+\( y = -3x_0^2(0-x_0) - x_0^3 \)
+
+\( y = 3x_0^3 - x_0^3 \)
+
+\( y = 2x_0^3 \)
+
+\( P_y(0,2x_0^3) \)
+
+③ zapisujemy pole \(\triangle\)
+
+\( P = \frac{a \cdot h}{2} = 54 \)
+
+\( a = |\frac{2}{3}x_0|, \quad h = |2x_0^3| \)
+
+\( |\frac{2}{3}x_0| \cdot |2x_0^3| = 108 \)
+
+\( |\frac{4}{3}x_0^4| = 108 \)
+
+\( x_0^4 = 108 : \frac{4}{3} = 81 \)
+
+\( x_0 = 3 \quad \vee \quad x_0 = -3 \)
+
+\[
+\left\{
+\begin{array}{l}
+x_0 = 3 \\
+y_0 = -27
+\end{array}
+\right.
+\quad \vee \quad
+\left\{
+\begin{array}{l}
+x_0 = -3 \\
+y_0 = 27
+\end{array}
+\right.
+\]
+
+\( y = -x^3 \)
+
+Odp: \((3,-27)\) lub \((-3,27)\)

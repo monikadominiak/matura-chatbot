@@ -1,0 +1,14 @@
+=== ARKUSZ: 2023p | ZADANIE 12 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12.
+W kartezjańskim układzie współrzędnych (x, y) narysowano wykres funkcji $y = f(x)$ (zobacz rysunek).
+[Zadanie zawiera obrazek ważny dla rozwiązania.]
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

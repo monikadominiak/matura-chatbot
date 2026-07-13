@@ -1,0 +1,21 @@
+
+--- STRONA 1 ---
+Zadanie z2 (tm) Z wierzchołka kąta rozwartego równoległoboku poprowadzono dwie wysokości. Wysokości te tworzą kąt o mierze 50°. Wyznacz miarę kąta ostrego równoległoboku.
+
+1) Tworzymy rysunek poglądowy:
+
+[Rysunek]
+
+2) Wyznaczamy kąt BCD korzystając z własności kątów w równoległoboku:
+
+Z sumy kątów w 4-kącie DEBF:
+
+50°+90°+∠EBF1+90°=360°  
+∠EBF1=130°
+
+Z własności kątów w równoległoboku:
+
+∠EBF1+∠BCD1=180°  
+∠BCD1=50°
+
+Odp. ∠BCD1=50°.

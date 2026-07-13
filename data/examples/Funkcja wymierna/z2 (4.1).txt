@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Rozwiąż nierówność \(\frac{x}{x+1} \geq x\).
+
+**Uwaga:**
+
+Rozwiązując nierówności wymierną, nie wolno mnożyć jej przez mianownik. Należy mnożyć przez kwadrat mianownika.
+
+\(\ \)
+
+1️⃣ Wyznaczamy dziedzinę nierówności.
+
+D: \(x+1 \neq 0\)  
+\(x \neq -1\)  
+
+\(D = \mathbb{R} \setminus \{-1\}\)
+
+\(\ \)
+
+2️⃣ Rozwiązujemy nierówność.
+
+\(\frac{x}{x+1} \geq x \ \big/ \cdot (x+1)^2\)  
+
+\(x(x+1) \geq x(x+1)^2\)
+
+W takiej sytuacji nie wolno dzielić przez powtarzający się czynnik \(x(x+1)\). Nie wolno tego robić nawet gdyby to było równanie. Zamiast tego należy przenieść wszystko na jedną stronę i wyłączyć powtarzający się czynnik przed nawias. 
+
+Alternatywnie możemy na samym początku wszystko przenieść na jedną stronę, dodać ułamki i wtedy pomnożyć przez kwadrat mianownika, kiedy po drugiej stronie będzie już tylko \(0\).
+
+\(x(x+1) - x(x+1)^2 \geq 0\)  
+
+\(x(x+1) \left[ 1 - (x+1) \right] \geq 0\)  
+
+\(x(x+1) \left[ -x \right] \geq 0\)  
+
+\(-x^2(x+1) \geq 0\)
+
+--- STRONA 2 ---
+\(-x^2(x+1) \geq 0\)
+
+\[
+\begin{align*}
+& \quad \quad \quad \quad \uparrow \\
+& \quad \quad \quad \quad x \leq 0 \\
+& \quad \quad \quad \quad (2-kro) \\
+& \swarrow \quad \searrow \\
+x=0 & \quad \quad \quad x=-1 \\
+(2-kro) & \quad \quad \quad (1-kro) \\
+\end{align*}
+\]
+
+\(x \in (-\infty, -1) \cup \langle0\rangle\)
+
+Odp.: \(x \in (-\infty, -1) \cup \langle0\rangle.\)

@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Funkcja \( f \) jest określona wzorem \( f(x) = \frac{2x - 3}{x + 2} + 4 \log_{\frac{1}{2}} x \) dla wszystkich \( x > 0 \).
+
+Wykaż, że funkcja \( f \) ma co najmniej jedno miejsce zerowe, które należy do przedziału \(\langle \frac{1}{2}, 4 \rangle\).
+
+\(f(x) = \frac{2x - 3}{x + 2} + 4 \log_{\frac{1}{2}} x \quad x > 0 \quad \langle \frac{1}{2}, 4 \rangle\)
+
+**teza:** w podanym przedziale funkcja \( f \) ma co najmniej jedno miejsce zerowe
+
+Funkcja \( f(x) \) jest sumą dwóch funkcji ciągłych wymiernej i logarytmicznej, więc \( f \) jest ciągła
+
+\(\circled{1}\) liczymy wartości \( f(x) \) na krańcach podanego przedziału:
+
+\(f(\frac{1}{2}) = \frac{1 - 3}{\frac{1}{2} + 2} + 4 \cdot \log_{\frac{1}{2}} \frac{1}{2} = -\frac{4}{5} + 4 = 3\frac{1}{5} > 0 \)
+
+\(f(4) = \frac{8 - 3}{4 + 2} + 4 \log_{\frac{1}{2}} 4 = \frac{5}{6} + 4 \cdot (-2) = -\frac{7}{6} < 0\)
+
+**zw:** \(\langle -\frac{7}{6}, 3\frac{1}{5} \rangle\)
+
+\(\circled{2}\) zatem z tw. Darboux istnieje takie \( c \in (\frac{1}{2}, 4) \) że \( f(c) = 0 \in \mathbb{R} \), zatem teza jest prawdziwa
+
+c. k. d.
+
+**Twierdzenie Darboux:**
+
+Jeśli funkcja f jest ciągła w przedziale domkniętym \(\langle a, b \rangle\) oraz \( f(a) \neq f(b) \), natomiast \( k \) jest dowolną liczbą pomiędzy liczbami \( f(a) \) i \( f(b) \), to istnieje taka liczba \( c, \, c \in (a, b) \), dla której \( f(c) = k \).

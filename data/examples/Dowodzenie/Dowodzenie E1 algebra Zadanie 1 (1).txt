@@ -1,0 +1,27 @@
+
+--- STRONA 1 ---
+Udowodnij, że dla dowolnych liczb rzeczywistych \(a\) i \(b\) nierówność \(b(2b-a) + 4a^2 \geq ab\) jest prawdziwa.
+
+\(b(2b-a) + 4a^2 \geq ab \quad a,b \in \mathbb{R}\)
+
+\(\textcolor{#bfff00}{W\ dowodzeniu\ nierówności\ często\ dążymy\ do\ wyrażeń\ kwadratowych}\)
+
+\(\circled{1}\) przekształcamy nierówność
+
+\(b(2b-a) + 4a^2 \geq ab\)
+
+\(2b^2-ab+4a^2-ab \geq 0\)
+
+\(4a^2-2ab+2b^2 \geq 0\)
+
+\(\underline{a^2+3a^2\ \underline{-2ab}+b^2+b^2} \geq 0\)
+
+\(\quad \qquad (a-b)^2+3a^2+b^2 \geq 0\)
+
+\(\boxed{(a+b)^2 = a^2+2ab+b^2}\)
+
+\(\circled{2}\ \textcolor{#bfff00}{komentarz:}\ \text{kwadrat\ dowolnej\ liczby\ jest\ zawsze\ liczbą\ nieujemną,}\)
+
+\(\quad \text{a\ także\ suma\ liczb\ nieujemnych\ jest} \geq 0\)
+
+\(\quad \qquad \qquad \qquad \qquad \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \quad \ \ \ \ \ \ \ \ \ \ c.k.d.\)

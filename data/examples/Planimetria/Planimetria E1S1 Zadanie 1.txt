@@ -1,0 +1,38 @@
+
+--- STRONA 1 ---
+Zad.1 Cięciwa łącząca punkty A i B leżące na okręgu o promieniu 5 ma długość 5√3.
+Oblicz długości łuków wyznaczonych przez te punkty oraz pola odpowiednich wycinków.
+
+1) Tworzymy rysunek poglądowy:
+   
+   Promienie poprowadzone do punktów A i B 
+   wraz z odcinkiem AB tworzą nam 
+   trójkąt równoramienny, którego wysokość 
+   dzieli odcinek AB na 2 równe części.
+
+2) Wyznaczamy kąt α z własności funkcji trygonometrycznych w trójkącie prostokątnym:
+
+   sin α = (5/2√3)/2 = (5/2)/5 => α=60° v α=120°
+   ∈(0°;90°)
+
+   2α = 2·60° = 120°
+
+   Trójkąt prostokątny ogranicza 
+   nam pozostałe kąty do kątów 
+   ostrych.
+
+3) Wyznaczamy długości łuków i pola wycinków:
+
+   L_okręgu = 2πr = 2π·5 = 10π
+
+   L_1 = 120°/360° · 2π·5 = 1/3 · 10π = 40/3 π
+
+   L_2 = 360°-120°/360° · 10π = 2/3 · 10π = 20/3 π
+
+   P_koła = π·5^2 = 25π
+
+   P_1 = 4/3 · 25π = 25/3 π
+
+   P_2 = 2/3 · 25π = 50/3 π
+
+   Odp. L_1 = 40/3 π , L_2 = 20/3 π , P_1 = 25/3 π , P_2 = 50/3 π.

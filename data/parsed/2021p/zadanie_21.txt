@@ -1,0 +1,16 @@
+=== ARKUSZ: 2021p | ZADANIE 21 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 21. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Punkty A, B, C i D leżą na okręgu o środku S. Miary kątów SBC, BCD, CDA są równe
+odpowiednio: $|angle SBC|=60^{circ}$, $|angle BCD|=110^{circ}$, $|angle CDA|=90^{circ}$ (zobacz rysunek).
+Wynika stąd, że miara α kąta DAS jest równa
+A. $25^{circ}$
+B. $30^{circ}$
+C. $35^{circ}$
+D. $40^{circ}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

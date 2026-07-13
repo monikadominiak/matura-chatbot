@@ -1,0 +1,61 @@
+
+--- STRONA 1 ---
+Zadanie 19
+
+Dana jest funkcja homograficzna \( f(x) = \frac{mx-1}{m-x} \) gdzie \( m \neq 1 \).
+
+a) Naszkicuj wykres tej funkcji dla \( m = -2 \). Odczytaj z niego, dla jakich argumentów funkcja \( f \) przyjmuje wartości większe od 5.
+
+b) Wyznacz wartość parametru \( m \), dla których funkcja \( f \) jest rosnąca w każdym z przedziałów \((-\infty, m) \) i \( (m, +\infty) \).
+
+a) 
+
+\[
+\begin{array}{ll}
+\text{{\large 1}} \ \ Wyznaczamy \ wzór \ f(x) \ w \ postaci \ kanonicznej & \text{{dla}} \ m = -2. \\
+f(x) = \frac{-2x - 1}{-2-x} = \frac{2x+1}{x+2} = \frac{2(x+2)-3}{x+2} = \frac{-3}{x+2} + 2 \\
+
+\text{{\large 2}} \ \ Szkicujemy \ wykres \ funkcji \ f(x).
+\end{array}
+\]
+
+(rysunek wykresu funkcji)
+
+\[
+\begin{array}{ll}
+\text{{\large 3}} \ \ Obliczamy \ \ f(x) > 5. \\
+5 = \frac{-3}{2+x} + 2 \\
+3 = \frac{-3}{2+x} \\
+3x + 6 = -3 \\
+3x = -9 \\
+x = -3 \\
+x \in (-3, -2) \ \ \ \ (Wykres)
+\end{array}
+\]
+
+--- STRONA 2 ---
+b) 3⃣ Wyznaczamy m.
+
+f(x)= \frac{ax+b}{cx+d}. Aby ta funkcja nie była liniowa: ad \neq cb .
+
+f(x)= \frac{mx-1}{m-x} = \frac{-mx+1}{x-m}
+
+m:m \neq f(-1):(-1)
+
+m \neq 1
+
+m \neq 1 \quad m \neq -1
+
+Aby funkcja f(x)= \frac{a}{x-p} + q była rosnąca to a < 0.
+
+f(x)= \frac{-mx+1}{x-m} = \frac{-m(x-m)-m^2+1}{x-m} = \frac{-m^2+1}{x-m} - m
+
+-m^2+1 < 0
+
+m^2-1 > 0
+
+(m-1)(m+1)>0
+
+m \in (-\infty,-1) \cup (1,+\infty)
+
+Odp.: a) x \in⟨-3,-2⟩; b) m \in (-\infty, -1) \cup (1, +\infty).

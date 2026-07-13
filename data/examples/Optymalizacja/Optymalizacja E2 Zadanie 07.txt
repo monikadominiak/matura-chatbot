@@ -1,0 +1,31 @@
+
+--- STRONA 1 ---
+1. Wyznacz maksymalne przedziały monotoniczności i ekstrema lokalne funkcji
+\[ f(x) = 3x^4 - 4x^3 - 6x^2 + 12x + 4 \]
+
+① liczymy pochodną funkcji \( f \) 
+
+\[ f'(x) = 12x^3 - 12x^2 - 12x + 12 = \]
+\[ = 12(x^3 - x^2 - x + 1) \]
+
+② wyznaczamy miejsca zerowe pochodnej
+
+\[ 12(x^3 - x^2 - x + 1) = 0 \quad /:12 \]
+
+\[ x^2(x-1) - (x-1) = 0 \]
+
+\[ (x-1)(x^2-1) = 0 \]
+
+\[ (x-1)^2(x+1) = 0 \]
+
+\[ x=1 \lor x=-1 \]
+
+③ badamy monotoniczność i ekstrema funkcji 
+
+Funkcja f osiąga ekstremum - minimum lokalne dla argumentu \( x=-1 \) i \( f_{min} = f(-1) = 3 + 4 - 6 - 12 + 4 = -7 \)
+
+Odp: minimum lokalne dla \( x=-1 \) równe \(-7\) 
+
+\( f \) rośnie w przedziale \((-1,1\rangle\)
+
+i \( f \) maleje w przedziale \((-\infty,-1\rangle\)

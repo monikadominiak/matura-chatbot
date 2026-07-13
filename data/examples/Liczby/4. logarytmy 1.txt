@@ -1,0 +1,59 @@
+
+--- STRONA 1 ---
+4 logarytmy 1
+
+Oblicz:
+
+a) log_9(log_8(log_3 9))
+
+b) log_8(log_0,25(log_4 2))
+ 
+Obliczenia logarytmów zaczynamy od tych wewnętrznych
+
+a) log_9 (log_8 (log_3 9)) = log_9 (log_8 2) = log_3 1/3 = -1/2
+
+log_a b = c
+
+a^c = b
+
+log_3 1/3 = x
+
+3^x = 1/3
+
+a^-n = 1/a^n
+
+(3^1)^x = 3^-1
+
+3^2x = 3^-1
+
+2x = -1 / :2
+
+x = -1/2
+
+Odp.: -1/2.
+
+b) log_8 (log_0,25 (log_4 2)) = log_8 (log_0,25 1/2) = 
+
+= log_8 1/2 = -1/3
+
+log_0,25 1/4 = y
+
+4^y = 1/4
+
+2^2y = 2^-2
+
+-2y = -1 / (-2)
+
+y = 1/2
+
+log_8 1/2 = z
+
+8^z = 1/2
+
+2^3z = 2^-1
+
+3z = -1 / :3
+
+z = -1/3
+
+Odp.: -1/3.

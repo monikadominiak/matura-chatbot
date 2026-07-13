@@ -1,0 +1,16 @@
+
+--- STRONA 1 ---
+Zadanie 8 z informatora maturalnego
+
+Oblicz granicę lim_{n \to \infty} \sqrt[n]{6^n + 7^n}.
+
+1️⃣ Korzystamy z tw. o trzech ciągach.
+\sqrt[n]{7^n} \leq \sqrt[n]{6^n + 7^n} \leq \sqrt[n]{7^n + 7^n} = \sqrt[n]{2 \cdot 7^n}
+
+lim_{n \to \infty} \sqrt[n]{7^n} = 7
+
+lim_{n \to \infty} \sqrt[n]{2 \cdot 7^n} = lim_{n \to \infty} 7 \sqrt[n]{2} = 7
+
+Zatem \quad lim_{n \to \infty} \sqrt[n]{6^n + 7^n} = 7
+
+Odp.: \, lim_{n \to \infty} \sqrt[n]{6^n + 7^n} = 7.

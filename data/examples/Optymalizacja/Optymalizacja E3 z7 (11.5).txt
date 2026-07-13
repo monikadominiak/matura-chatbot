@@ -1,0 +1,72 @@
+
+--- STRONA 1 ---
+Przeciwprostokątna AB trójkąta prostokątnego ABC ma długość 5, a przyprostokątna BC długość 4. Prosta l, równoległa do boku AB, przecina boki AC i BC odpowiednio w punktach M i N. Niech S oznacza środek odcinka AB oraz |MC| = x. Zbadaj, jaką największą wartość może przyjmować pole trójkąta MNS.
+
+1) Użależniamy od siebie zmienne
+
+|CA| = 3 (z Pitagorasa)
+
+ΔABC ~ ΔMNC z cechy kkk
+
+x / y = 3 / 4 => y = 4/3 x
+
+w ΔMCN: (4/3 x)^2 + x^2 = |MN|^2
+
+16/9 x^2 + x^2 = |MN|^2
+
+25/9 x^2 = |MN|^2 => |MN| = 5/3 x
+
+|SE| = |DF|
+
+|DF| + |FC| = |DC|
+
+h = |DC| - |FC|
+
+do policzenia |DC| korzystamy z pola ΔABC
+
+1/2 × 3 × 4 = 1/2 × 5 |DC|
+
+|DC| = 12/5
+
+podobnie liczymy |FC| z pola ΔMCN
+
+1/2 × x × 4/3 x = 5/3 x × |FC|
+
+|FC| = 4/3 x^2 × 3/5x = 4/5 x
+
+zatem: h = 12/5 - 4/5 x = (12 - 4x)/5
+
+2) zapisujemy wzór funkcji
+
+P(x) = 1/2 × 5/3 x × 12 - 4x/5 = 12x - 4x^2/6 = 2x - 2/3 x^2
+
+3) wyznaczamy dziedzinę funkcji
+
+Dp: x ∈ (0, 3)
+
+4) wyznaczamy pochodną funkcji
+
+P'(x) = -4/3 x + 2
+
+5) wyznaczamy miejsca zerowe pochodnej
+
+P'(x) = 0 <=> -4/3 x + 2 = 0
+
+x = -2 : (-4/3) = 3/2
+
+6) badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+II sposób:
+
+|   x   | (0, 3/2] | (3/2, 3) |
+|-------|-------------|-------------|
+| P'(x) |      +      |      -      |
+|  P(x)  |     max. lok.    |
+
+Funkcja P(x) osiąga w swojej dziedzinie wartość największą dla argumentu x = 3/2
+
+7) obliczamy pole: P(3/2) = 2 × 3/2 - 2/3 × (3/2)^2 = 3 - 3/2 = 3/2
+
+Odp: P = 1,5

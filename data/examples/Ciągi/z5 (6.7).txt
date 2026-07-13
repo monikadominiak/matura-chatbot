@@ -1,0 +1,41 @@
+
+--- STRONA 1 ---
+z5 (6.7)
+
+Znajdź wszystkie liczby p, aby liczby log_2 49, log_7 3, log_p 3, log_9 4 tworzyły w podanej kolejności ciąg geometryczny.
+
+Wskazówka: aby szybciej zrobić to zadanie, można skorzystać ze wzorów, które są konsekwencją wzoru na zamianę podstawy logarytmu oraz wzoru na logarytm potęgi.
+Wzorów tych nie ma w wybranych wzorach matematycznych. Można ich używać na maturze, ale bezpieczniej byłoby je najpierw wyprowadzić.
+
+1️⃣ Wyprowadzamy potrzebny wzór.
+
+1) log_ac b / log_ac c = log_c b => log_ac ⋅ log_cb = log_ab
+
+2) log_a b = log_b b / log_b a = 1 / log_b a
+
+3) log_a b^n = log_a b / log_a a^n = log_a b / n = 1/n ⋅ log_a b
+
+4) log_a n^b ⋅ n = 1/n ⋅ n ⋅ log_a b = log_a b
+
+Dla wyrażeń tworzących ciąg geometryczny zachodzi zależność, że kwadrat środkowego wyrażenia jest równy iloczynowi sąsiednich. 
+
+2️⃣ Korzystamy ze wzoru na sąsiednie wyrazy ciągu geometrycznego.
+
+(log_p 3)^2 = log_2 49 ⋅ log_7 3 ⋅ log_9 4
+
+Przekształcamy prawą stronę równości:
+
+P = log_2 (7^2) ⋅ log_7 3 ⋅ log_(3^2) 4 = 2 ⋅ log_2 7 ⋅ log_7 3 ⋅ 1/2 ⋅ log_3 4
+= log_2 7 ⋅ log_7 3 ⋅ log_3 4 = log_2 4 = 2
+
+--- STRONA 2 ---
+Czyli:
+
+(log ρ)^2 = 2  
+
+log ρ = sqrt{2}     v     log ρ = -sqrt{2}  
+
+ρ = 10^sqrt{2}               ρ = 10^(-sqrt{2})  
+
+
+Odp.: ρ = 10^sqrt{2}  lub  ρ = 10^(-sqrt{2}).

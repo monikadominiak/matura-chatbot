@@ -1,0 +1,12 @@
+
+--- STRONA 1 ---
+Zad.1 Dwa kąty przy dłuższej podstawie trapezu mają miary α i β. Oblicz miary pozostałych kątów tego trapezu. α = 80°, β = 90°.
+
+1) Tworzymy rysunek poglądowy:
+
+kąty przy jednym ramieniu sumują się do 180 stopni
+
+β + γ = 180° => γ = 180° - β = 180° - 90° = 90°
+α + δ = 180° => δ = 180° - α = δ = 180° - 80° = 100°
+
+Odp. γ = 90°, δ = 100°.

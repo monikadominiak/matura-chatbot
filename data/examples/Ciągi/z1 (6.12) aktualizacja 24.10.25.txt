@@ -1,0 +1,28 @@
+
+--- STRONA 1 ---
+z1 (6.12)
+
+Na płaszczyźnie dany jest kwadrat \(K_1\) o boku \(a\). Kwadrat \(K_2\) powstaje przez połączenie
+środków boków kwadratu \(K_1\) (otrzymujemy mniejszy, obrócony kwadrat). Następnie \(K_3\)
+konstruujemy tak samo jak z \(K_2\), itd. Obwody \(O_1, O_2, O_3, ...\) utworzonych kwadratów
+tworzą nieskończony ciąg geometryczny. Oblicz sumę wszystkich tych obwodów.
+
+1. Rysujemy rysunek pomocniczy.
+
+2. Zapisujemy kolejne obwody.
+
+\(a_1 = a\)
+
+\(O_1 = 4a\)
+
+\(a_2 = \frac{a\sqrt{2}}{2}\)
+
+\(O_2 = 4 \cdot \frac{a\sqrt{2}}{2} = 2a\sqrt{2}\)
+
+\(q = \frac{O_2}{O_1} = \frac{2a\sqrt{2}}{4a} = \frac{\sqrt{2}}{2} = (\frac{-1}{\sqrt{2}},1)\)
+
+3. Obliczamy sumę wszystkich obwodów.
+
+\(S = \frac{O_1}{1-q} = \frac{4a}{1-\frac{\sqrt{2}}{2}} = \frac{4a\cdot2}{2-\sqrt{2}} \cdot \frac{\sqrt{2}+1}{\sqrt{2}+1} = \frac{4a\sqrt{2}(2+\sqrt{2})}{2} = 4a(2+\sqrt{2})\)
+
+Odp.: \(S = 4a (2+\sqrt{2})\).

@@ -1,0 +1,32 @@
+
+--- STRONA 1 ---
+Rzucamy kolejno trzy razy symetryczną monetą. Wypisz wszystkie zdarzenia elementarne. Oblicz prawdopodobieństwo zdarzenia:
+a) orzeł wypadnie co najwyżej raz
+b) reszka wypadnie co najmniej raz
+c) za drugim razem wypadnie orzeł, a za trzecim reszka.
+
+rozwiązemy zadanie metodą drzewka
+
+1) a)
+
+\( \text{A - orzeł wypadł 1 raz lub 0 razy} \)
+
+\( \text{P} = \frac{\bar{A}}{\bar{\Omega}} \quad \bar{A} = 4 \quad \bar{\Omega} = 2^3 = 8 \)
+
+\( \text{P} = \frac{4}{8} = \frac{1}{2} \quad \text{Odp:} \frac{1}{2} \)
+
+2) b)
+
+\( \text{B - wszystko oprócz sytuacji 3x orzeł} \)
+
+\( \text{P} = \frac{\bar{B}}{\bar{\Omega}} \quad \bar{B} = 7 \quad \bar{\Omega} = 2^3 = 8 \)
+
+\( \text{P} = \frac{7}{8} \quad \text{Odp:} \frac{7}{8} \)
+
+3) c)
+
+\( \text{C - drugi rzut - orzeł, trzeci - reszka} \)
+
+\( \text{P} = \frac{\bar{C}}{\bar{\Omega}} \quad \bar{C} = 2 \quad \bar{\Omega} = 2^3 = 8 \)
+
+\( \text{P} = \frac{2}{8} = \frac{1}{4} \quad \text{Odp:} \frac{1}{4} \)

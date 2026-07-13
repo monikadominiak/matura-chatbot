@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+z10 (tn)
+
+Wyznacz taką wartość parametru m, aby największa wartość funkcji f(x) = -x^2 + mx + m była najmniejsza z możliwych.
+
+f(x) = -x^2 + mx + m
+
+a = -1
+
+b = m
+
+c = m
+
+1. Wyznaczenie największej wartości funkcji kwadratowej:
+
+Wyznaczenie współrzędnych wierzchołka W(p,q)
+
+ρ = -b / 2a
+
+q = f(p) = -Δ / 4a
+
+ρ = -m / 2(-1) = -m / -2 = m / 2
+
+q = f(p) = f(1/2 m) = -(1 / 2m)^2 + 1 / 2m + m =
+
+= -1 / 4m^2 + 1 / 2m + m = 1 / 4m^2 + m
+
+2. Zadanie o to aby największa wartość była najmniejsza z możliwych
+
+Ze względu na to, że największa wartość funkcji f(x) jest funkcją kwadratową, zmienną m, wyznaczamy takie m dla którego f(m) osiąga minimalną wartość.
+
+q_{f(x)} = f(m) = 1 / 4m^2 + m
+
+p_{f(x)} = -b / 2a = -1 / 2*(-1/4) = -2
+
+Zatem m = -2
+
+Odp: m = -2.

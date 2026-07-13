@@ -1,0 +1,53 @@
+
+--- STRONA 1 ---
+FZ1
+
+a) j(x) = √x  
+   g(x) = x + 5
+
+(j∘g)(x) = j(g(x)) = j(x+5) = √x+5
+
+(g∘j)(x) = g(j(x)) = g(√x) = √x + 5
+
+b) j(x) = cos x  
+   g(x) = x²
+
+(j∘g)(x) = j(x²) = cos x²
+
+(g∘j)(x) = g(cos x) = cos²x
+
+c) j(x) = log₂(x−5)  
+   g(x) = 7cos3x
+
+(j∘g)(x) = j(7cos3x) = log₂(7cos3x−5)
+
+(g∘j)(x) = g(log₂(x−5)) = 7cos(3log₂(x−5))
+
+j(j(x)) = log₂(log₂(x−5)−5)
+
+d) j(x) = 4/(x³−6)  
+   g(x) = 2³√x+1
+
+(j∘g)(x) = 4/((2³√x+1)³−6) = 4/(8(x+1)−6) = 4/(8x+2)
+
+(g∘j)(x) = 2³√(4/(x³−6) + 1)
+
+e) j(x) = ³√x  
+   g(x) = 1/x  
+   h(x) = x²
+
+j(g(h(x))) = j(g(x²)) = j(1/x²) = ³√(1/x²)
+
+g(j(h(x))) = g(j(x²)) = g(³√x²) = 1/³√x²
+
+h(j(g(x))) = h(j(1/x)) = h(³√1/x) = (³√1/x)²
+
+f) j(x) = log₅x  
+   g(x) = 5ˣ  
+   h(x) = x⁵
+
+j(g(h(x))) = j(g(x⁵)) = j(5ˣ⁵) = log₅5ˣ⁵ = x⁵
+
+h(g(j(x))) = h(g(log₅x)) = h(5ˡᵒᵍ⁵ˣ) = h(x) = x⁵
+
+aˡᵒᵍₐb = b

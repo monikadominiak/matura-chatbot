@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Ile jest liczb piętnastocyfrowych, w których suma cyfr jest równa 3?
+
+① analizujemy polecenie
+liczby 15-cyfrowe , suma cyfr = 3 , 0,1,2,3,4,5,6,7,8,9
+
+② rozważamy poszczególne przypadki
+
+Ⅰ 1 liczba z cyfrą 3
+3 i 14 x "0"
+
+Ⅱ 2, 1 i 13 x "0"
+2 ⋅ (14 po 1) ⋅ 1 = 28
+
+na pierwszym miejscu nie może być "0", więc mamy 2 opcje „1” lub „2”
+
+Ⅲ 1, 1, 1 i 12 x "0"
+1 ⋅ (14 po 2) ⋅ 1
+= \(\frac{14!}{2! \cdot 12!}\)
+= 91
+
+Odp: 1 + 28 + 91 = 120

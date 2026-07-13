@@ -1,0 +1,49 @@
+
+--- STRONA 1 ---
+Zadanie 3 - TYP 3.3  
+Na diagramie obok przedstawiono fragment wykresu wielomianu W określonego wzorem  
+W(x) = 4x^3 - 19x^2 - 12x + 18  
+Dla każdego x ∈ ℝ.  
+Oblicz wszystkie pierwiastki wielomianu W.  
+
+4x^3 - 19x^2 - 12x + 18 = 0
+
+1) Wyznaczamy potencjalne pierwiastki wielomianów  
+
+Korzystamy z twierdzeń:  
+
+1) twierdzenie o pierwiastkach całkowitych - jeżeli wielomian o współczynnikach całkowitych ma pierwiastek całkowity to jest on dzielnikiem wyrazu wolnego  
+2) twierdzenie o pierwiastkach wymiernych - jeśli wielomian o współczynnikach całkowitych ma pierwiastek wymierny, to ten pierwiastek musi być w postaci p/q, gdzie p jest dzielnikiem wyrazu wolnego, a q jest dzielnikiem współczynnika przy najwyższej potędze z zmiennej  
+
+Zatem potencjalne pierwiastki to:  
+{-1, +1, -2, +2, -3, +3, -6, +6, -9, +9, -18, +18, ± 1/2, ± 3/2, ± 1/4, ± 3/4, ± 9/4}
+
+Zauważmy że wykres wskazuje nam że jeden z pierwiastków zawiera się w przedziale (0,6; 0,8). U nas mieści się w tym przedziale 3/4.  
+
+W(3/4) = 0
+
+2) Dzielimy wielomian przez dwumian (x - 3/4).  
+Schemat Hornera (można też dzielić w słupku):  
+
+   x^3    x^2    x^1   R  
+4  | -19  -12    18  
+   | 3     -12   18  
+----------------------  
+   | 4     -16   -24  
+
+(x - 3/4)(4x^2 -16x -24) = 0
+
+x_1 = 3/4  
+
+4x^2 -16x -24 = 0  
+x^2 - 4x - 6 = 0  
+Δ = 16 + 24 = 40  
+√Δ = 2√10  
+
+x_2 = (-b - √Δ) / 2a  
+x_2 = 2 - √10
+
+x_3 = (-b + √Δ) / 2a  
+x_3 = 2 + √10
+
+Odp. x ∈ {2 - √10, 3/4, 2 + √10}

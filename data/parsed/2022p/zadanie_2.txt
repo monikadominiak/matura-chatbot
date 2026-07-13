@@ -1,0 +1,13 @@
+=== ARKUSZ: 2022p | ZADANIE 2 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 2. (0-1)
+Dodatnie liczby x i y spełniają warunek $2x=3y$. Wynika stąd, że wartość wyrażenia $frac{x^{2}+y^{2}}{xcdot y}$ jest równa
+A. $frac{2}{3}$
+B. $frac{13}{6}$
+C. $frac{6}{13}$
+D. $frac{3}{2}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

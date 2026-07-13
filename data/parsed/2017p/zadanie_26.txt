@@ -1,0 +1,29 @@
+=== ARKUSZ: 2017p | ZADANIE 26 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 26. (0-2)
+Rozwiąż nierówność $x^{2}-8x+72 ge 0$.
+Odpowiedź: ................................................................................................................................... .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 26. $0-2$  Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.  Wymagania szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą (3.5).
+Przykładowe rozwiązanie Rozwiązanie nierówności kwadratowej składa się z dwóch etapów. Pierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego $8x^2-72x$. Znajdujemy pierwiastki trójmianu kwadratowego $8x^2-72x$: albo podajemy je bezpośrednio, np. zapisując $x_1=0$, $x_2=9$ lub zaznaczając pierwiastki trójmianu na wykresie albo obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:
+
+$$Delta=72^2, x_1=frac{72-72}{16}=0, x_2=frac{72+72}{16}=9$$
+Drugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności $8x^2-72x le 0$. Podajemy zbiór rozwiązań nierówności: $0 le x le 9$ lub $langle 0, 9 rangle$ lub $x in langle 0, 9 rangle$ np. odczytując go ze szkicu wykresu funkcji $f(x)=8x^2-72x$.
+Schemat punktowania Zdający otrzymuje 1 p., gdy: zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, np.
+obliczy lub poda pierwiastki trójmianu kwadratowego $x_1=0$ i $x_2=9$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności, albo
+zaznaczy na wykresie miejsca zerowe funkcji $f(x)=8x^2-72x$ i na tym zakończy lub błędnie zapisze zbiór rozwiązań nierówności albo
+realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne pierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże nierówność.
+Strona 6 z 24
+Zdający otrzymuje 2 p., gdy: poda zbiór rozwiązań nierówności: $0 le x le 9$ lub $langle 0, 9 rangle$ lub $x in langle 0, 9 rangle$ albo poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.
+Uwagi
+Jeżeli zdający dzieli obie strony nierówności przez x, bez podania stosownych założeń, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+Jeśli zdający wyznacza ujemną deltę trójmianu kwadratowego, to otrzymuje 0 punktów za całe rozwiązanie.
+Kryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki
+Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu $x_1=0$, $x_2=9$ i zapisze, np. $x in langle -9, 0 rangle$, popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $x in langle 9, 0 rangle$, to przyznajemy 2 punkty.
+Strona 7 z 24
+Zadanie zawiera obrazek ważny dla rozwiązania.

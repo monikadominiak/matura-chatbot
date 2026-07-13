@@ -1,0 +1,47 @@
+
+--- STRONA 1 ---
+Oblicz granicę:
+
+a) \(\lim_{x \to -3} \frac{\sqrt{x+4} - 1}{2x+6}\) \quad b) \(\lim_{x \to 1} \frac{x^3 - 1}{\sqrt{x^2 + 3} - 2}\)
+
+a) ① podstawiamy \(-3\)
+
+\[
+\lim_{x \to -3} \frac{\sqrt{x+4} - 1}{2x+6} = \frac{-1 - 1}{-6 + 6} = \left[\frac{0}{0}\right]
+\]
+
+② upraszczamy wyrażenie usuwając niewymierność
+
+(rożnica kwadratów)
+
+\[
+\lim_{x \to -3} \frac{(\sqrt{x+4} - 1)(\sqrt{x+4} + 1)}{2x+6} = \lim_{x \to -3} \frac{(\sqrt{x+4})^2 - 1^2}{2(x+3)}
+\]
+
+\[
+= \lim_{x \to -3} \frac{x+4-1}{2(x+3)(\sqrt{x+4}+1)} = \lim_{x \to -3} \frac{x+3}{2(x+3)(\sqrt{x+4}+1)}
+\]
+
+\[
+= \lim_{x \to -3} \frac{1}{2(\sqrt{x+4} + 1)} = \frac{1}{2(\sqrt{-3+4} + 1)} = \frac{1}{4}
+\]
+
+b) ③ powtarzamy kroki ① i ② dla drugiej granicy
+
+\[
+\lim_{x \to 1} \frac{x^3-1}{\sqrt{x^2+3}-2} = \left[\frac{0}{0}\right] = \lim_{x \to 1} (x^3-1)(\sqrt{x^2+3}+2)
+\]
+
+\[
+= \lim_{x \to 1} \frac{(x-1)(x^2+x+1)(\sqrt{x^2+3}+2)}{(\sqrt{x^2+3})^2-(2)^2} = \lim_{x \to 1} \frac{(x-1)(x^2+x+1)(\sqrt{x^2+3}+2)}{x^2+3-4}
+\]
+
+\[
+= \lim_{x \to 1} \frac{(x-1)(x^2+x+1)(\sqrt{x^2+3}+2)}{x^2-1} = \lim_{x \to 1} \frac{(x-1)(x^2+x+1)(\sqrt{x^2+3}+2)}{(x-1)(x+1)}
+\]
+
+\[
+= \lim_{x \to 1} \frac{(1^2+1+1)(\sqrt{1^2+3}+2)}{1+1} = \frac{3 \cdot 4}{2} = 6
+\]
+
+odp: a) \(\frac{1}{4}\), b) \(6\)

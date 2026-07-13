@@ -1,0 +1,20 @@
+
+--- STRONA 1 ---
+z1 (1.3)  
+Oblicz log_2(log_3 sqrt{5}) - log_2(log_3 5):
+
+1️⃣ Korzystamy ze wzoru na odejmowanie logarytmów o tych samych podstawach  
+log_a(x/y) = log_a x - log_a y  
+
+log_2(log_3 sqrt{5}) - log_2(log_3 5) = log_2(log_3 sqrt{5} / log_3 5)
+
+2️⃣ Wykorzystujemy wzór na zamianę podstawy logarytmu  
+log_b C = log_a C / log_a b  
+
+log_2(log_3 sqrt{5} / log_3 5) = log_2(log_5 sqrt{5})
+
+3️⃣ Obliczamy logarytmy, zaczynamy od tego wewnętrznego  
+log_2(log_5 sqrt{5}) = log_2(5^(1/2)) = -1  
+a^{-n} = 1/a^n
+
+Odp: -1.

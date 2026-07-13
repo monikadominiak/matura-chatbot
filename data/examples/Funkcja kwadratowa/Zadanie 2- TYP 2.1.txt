@@ -1,0 +1,85 @@
+
+--- STRONA 1 ---
+Zadanie 2 [4 pkt]- TYP 2.1  
+Dla jakich wartości parametru m równanie (2-m)^2 + (3-m)x + 1 = 0 ma dwa różne pierwiastki ujemne?
+
+(2-m)x^2 + (3-m)x + 1 = 0  
+
+a = 2-m  
+b = 3-m  
+c = 1  
+
+1️⃣ Zapisanie warunków wynikających z treści zadania.
+
+1° a ≠ 0 ⬅ równanie ma mieć dwa różne rozwiązania, zatem musi być to funkcja kwadratowa - współczynnik przy x^2 nie może być 0  
+
+2° △ > 0 ⬅ dwa różne rozwiązania, nie bierzemy pod uwagę podwójnych miejsc zerowych.
+
+3° x_1 + x_2 < 0 ⬅ oba pierwiastki ujemne  
+
+x_1 * x_2 > 0 ⬅ oba pierwiastki tych samych znaków  
+
+2️⃣ Rozwiązanie pierwszego z warunków  
+
+1° a ≠ 0  
+2-m ≠ 0  |+m  
+2 ≠ m  
+
+3️⃣ Rozwiązanie drugiego z warunków  
+
+2° △ > 0  
+△ = b^2 - 4ac  
+
+(3-m)^2 - 4 ⋅ (2-m) ⋅ 1 > 0  
+
+9 - 6m + m^2 - 8 + 4m > 0  
+
+m^2 - 2m + 1 > 0 ⬅ możemy zauważyć, że jest to wzór skróconego mnożenia: (m-1)^2 > 0  
+m ≠ 1  
+
+△_m = (-2)^2 - 4 ⋅ 1 ⋅ 1  
+△_m = 4 - 4 = 0  
+
+m_0 = -b/2a  
+m_0 = -(-2)/2 = 1  
+
+m ∈ R \{1}  
+
+4️⃣ Rozwiązanie trzeciego z warunków - korzystamy z wzorów Viete'a  
+
+x_1 + x_2 = -b/a  
+x_1 * x_2 = c/a  
+
+x_1 + x_2 < 0  
+
+-(3-m)/(2-m) < 0  |/(2-m)^2  
+(m-3)(2-m) < 0  
+
+mnożymy przez kwadrat mianownika aby mieć pewność, że nie mnożymy przez liczbę ujemną  
+
+--- STRONA 2 ---
+(m-3)(2-m)<0
+
+m=3 \quad m=2
+
+m \in (-\infty ; 2) \cup (3 ; \infty)
+
+x_1, x_2 > 0
+
+\frac{1}{2-m} > 0 \ \vert \cdot (2-m)^2 \quad \text{ponownie mnożymy przez kwadrat mianownika}
+
+1(2-m)>0
+
+2-m>0 \ \vert +m
+
+m<2
+
+Rozwiązanie \ 3^\circ:
+
+m \in (-\infty , 2)
+
+5^\circ Odczytanie \ sumy \ przedziałów \ rozwiązań \ wszystkich \ warunków: 
+
+m \in (-\infty ; 1) \cup (1 ; 2)
+
+\text{Odp: } m \in (-\infty ; 1) \cup (1, 2)

@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+**Ile jest liczb trzycyfrowych , których cyfry należą do zbioru {0; 2; 4; 6; 8} i nie mogą się powtarzać, a ich suma jest większa od 6?**
+
+① wypisujemy dane z polecenia
+cyfry ze zbioru ∈ {0, 2, 4, 6, 8}, nie mogą się powtarzać
+suma > 6
+
+② zapisujemy schematycznie liczbę 3-cyfrową
+_będziemy korzystać z reguły mnożenia_
+_ _ . _ _ . _ _
+
+③ najpierw liczymy ile w ogóle jest liczb 3-cyfrowych złożonych z danych cyfr
+
+→  4  .  4  .  3  =  48
+    _bez 0_
+
+④ liczymy ile jest takich liczb z sumą cyfr ≤ 6
+204  402
+240  420  } _tylko 4 możliwości_
+
+⑤ liczymy ile liczb spełnia warunki polecenia
+48 - 4 = 44
+
+Odp: 44

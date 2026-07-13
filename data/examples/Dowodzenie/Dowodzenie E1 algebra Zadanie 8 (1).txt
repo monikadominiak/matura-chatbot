@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+Wykaż, że \(\frac{1}{3x} + \frac{1}{2y} \geq \frac{1}{2x+y}\) dla dodatnich liczb \(x\) i \(y\).
+
+\[
+\frac{1}{3x} + \frac{1}{2y} \geq \frac{1}{2x+y} , \ x, y > 0 \ \circled{1}
+\]
+
+\circled{1} przekształcamy nierówność
+
+\[
+\frac{1}{3x} + \frac{1}{2y} \geq \frac{1}{2x+y}
+\]
+
+\[
+\frac{2y + 3x}{6xy} \geq \frac{1}{2x+y} \ / \cdot 6xy(2x+y) \ \circled{2} \ \text{wiemy, że} \ x \cdot y > 0 \ \text{i} \ 2x + y > 0
+\]
+
+\[
+(2y + 3x)(2x + y) \geq 6xy
+\]
+
+\[
+2xy + 6x^2 + 2y^2 + 3xy - 6xy \geq 0
+\]
+
+\[
+6x^2 + 2y^2 - xy \geq 0
+\]
+
+\[
+(\frac{1}{2}x - y)^2 + 5\frac{3}{4}x^2 + y^2 \geq 0
+\]
+
+\( (a + b)^2 = a^2 + 2ab + b^2 \)
+
+\circled{2} komentarz:
+
+kwadrat dowolnej liczby jest zawsze liczbą nieujemną, a także suma liczb nieujemnych jest \(\geq 0\) \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ c.k.d.

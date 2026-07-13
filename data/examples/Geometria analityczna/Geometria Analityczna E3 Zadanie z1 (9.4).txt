@@ -1,0 +1,29 @@
+
+--- STRONA 1 ---
+Zadanie z1 (9.4) Wyznacz równanie okręgu o środku S (3, 1), który odcina na prostej k: x - 7y + 29 = 0 cięciwę o długości 5√2.
+
+1) Tworzymy rysunek poglądowy:
+
+2) Wyznaczamy |SP| ze wzoru na odległość punktu od prostej:
+
+d_{Sk} = |SP| = \frac{|3-7\cdot1+29|}{\sqrt{1^2+7^2}} = \frac{25}{\sqrt{50}} = \frac{5\sqrt{2}}{2}
+
+3) Wyznaczamy promień okręgu z tw. Pitagorasa:
+
+Zauważmy, że trójkąt ABS jest równoramienny (ramiona długości r), więc:
+
+|AP|=|PB|=\frac{1}{2}|AB|=\frac{1}{2}\cdot5\sqrt{2}=\frac{5\sqrt{2}}{2}
+
+Wyrażmy teraz zależność z tw. Pitagorasa dla trójkąta BSP.
+
+|SP|^2 + |PB|^2 = r^2
+
+r^2 = \left( \frac{5\sqrt{2}}{2} \right)^2 + \left( \frac{5\sqrt{2}}{2} \right)^2
+
+r^2 = 2 \cdot \frac{25}{4}
+
+r^2 = 25    =>    O: (x-a)^2+(y-b)^2=r^2
+
+O: (x-3)^2+(y-1)^2=25
+
+Odp. (x-3)^2+(y-1)^2=25.

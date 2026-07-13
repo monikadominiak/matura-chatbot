@@ -1,0 +1,14 @@
+=== ARKUSZ: 2021p | ZADANIE 13 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 13. (0-1)
+Trzywyrazowy ciąg $(15, 3x, frac{5}{3})$ jest geometryczny i wszystkie jego wyrazy są dodatnie. Stąd
+wynika, że
+A. $x=frac{3}{5}$
+B. $x=frac{4}{5}$
+C. $x=1$
+D. $x=frac{5}{3}$
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak oficjalnych zasad oceniania w pliku dla tego zadania.

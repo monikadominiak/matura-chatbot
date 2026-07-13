@@ -1,0 +1,15 @@
+=== ARKUSZ: p2014-grudzien-p | ZADANIE 11 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 11. (0-1)
+Wymagania ogólne: III. Modelowanie matematyczne.
+Wymagania szczegółowe: 4.13. Zdający szkicuje wykres funkcji (f(x)=frac{a}{x}) dla danego a, korzysta ze wzoru i wykresu tej funkcji do interpretacji zagadnień związanych z wielkościami odwrotnie proporcjonalnymi.
+Poprawna odpowiedź: A
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

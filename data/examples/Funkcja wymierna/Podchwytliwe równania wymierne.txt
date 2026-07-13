@@ -1,0 +1,128 @@
+
+--- STRONA 1 ---
+TYP 4.1 – równania wymierne
+
+Wiadomo, że 2a^2 - 7ba + 3b^2 = 0. Oblicz \(\frac{a}{b}\).
+
+Równania z dwiema niewiadomymi. Uzależnianie zmiennych.
+
+I sposób
+
+Traktujemy a jako zmienną, a b jako parametr. Powstaje nam wtedy równanie kwadratowe ax^2 + bx + c = 0, gdzie a = 2, b = -7b, c = 3b^2.
+
+1️⃣ Obliczamy Δ oraz rozwiązania równania 2a^2 - 7ba + 3b^2 = 0.
+
+Δ = 49b^2 - 24b^2 = 25b^2
+
+√Δ = √(25b^2) = 5√(b^2) = 5|b|
+
+a_1 = \(\frac{7b - 5|b|}{4}\) = \(\frac{2b}{4}\) = \(\frac{b}{2}\)
+
+a_2 = \(\frac{7b + 5|b|}{4}\) = \(\frac{12b}{4}\) = 3b
+
+ten + i - gwarantuje nam poprawne wyniki pomimo usunięcia wartości bezwzględnej.
+
+2️⃣ Obliczamy stosunek \(\frac{a}{b}\) dla a_1.
+
+a = \(\frac{b}{2}\) / :b
+
+\(\frac{a}{b}\) = \(\frac{1}{2}\)
+
+3️⃣ Obliczamy stosunek \(\frac{a}{b}\) dla a_2.
+
+a = 3b / :b
+
+\(\frac{a}{b}\) = 3
+
+Odp.: \(\frac{a}{b}\) = \(\frac{1}{2}\) lub \(\frac{a}{b}\) = 3.
+
+--- STRONA 2 ---
+II sposób
+
+1️⃣ Dzielimy równanie przez b^2, b^2 ≠ 0.
+
+2. \frac{a^2}{b^2} - 4 \frac{ba}{b^2} + 3 \cdot \frac{b^2}{b^2} = 0
+
+2 \left( \frac{a}{b} \right)^2 - 4 \left( \frac{a}{b} \right) + 3 = 0
+
+Powstało nam równanie kwadratowe.
+
+2️⃣ Podstawiamy zmienną pomocniczą t.
+
+t = \frac{a}{b}
+
+2t^2 - 4t + 3 = 0
+
+3️⃣ Rozwiązujemy równanie kwadratowe.
+
+\Delta = 4^2 - 4 \cdot 2 \cdot 3 = 16 - 24 = 25
+
+\sqrt{\Delta} = 5
+
+t_1 = \frac{7-5}{4} = \frac{1}{2}
+
+t_2 = \frac{7+5}{4} = 3
+
+4️⃣ Cofamy podstawienie.
+
+\frac{a}{b} = \frac{1}{2} \ \ \ \  lub \ \ \ \ \frac{a}{b} = 3
+
+Odp.: \frac{a}{b} = \frac{1}{2} \ \ lub \ \ \frac{a}{b} = 3.
+
+--- STRONA 3 ---
+\(\sqrt{1-5x} = 7+x\)
+
+Podnoszenie równań do potęgi parzystej. Konieczne założenia.
+
+Aby podnieść równanie/nierówności do potęgi parzystej musimy mieć pewność, że obie strony są nieujemne.
+
+1️⃣ Obliczamy dziedzinę równania.
+
+Obie strony muszą być nieujemne, aby później móc podnieść równanie do kwadratu.
+
+D: \(1-5x \geq 0\) \quad \(7+x \geq 0\)
+
+\(5x \leq 1\) \quad \(x \geq -7\)
+
+\(x \leq \frac{1}{5}\)
+
+D: \(\left[-7, \frac{1}{5}\right]\).
+
+2️⃣ Rozwiązujemy równanie podnosząc je do kwadratu.
+
+\(\sqrt{1-5x} = 7+x \quad / |^2\)
+
+\(1-5x = (7+x)^2\)
+
+\(1-5x = 49 + 14x + x^2\)
+
+\(x^2 + 19x + 48 = 0\)
+
+\(\Delta = 361 - 192 = 168\)
+
+\(x_1=\frac{-19-13}{2} = -16 \notin D\)
+
+\(x_2=\frac{-19+13}{2} = -3 \in D\)
+
+Odp.: \(x=-3\).
+
+--- STRONA 4 ---
+\(5 = \frac{|a - 3|}{\sqrt{a^2 + 1}}\)
+
+Obie strony są nieujemne, zatem możemy podnieść to równanie do kwadratu.
+
+1️⃣ Rozwiązujemy równanie.
+
+\[5 = \frac{|a-3|}{\sqrt{a^2 + 1}} \ \ |1^2\]
+
+\[25 = \frac{(a - 3)^2}{a^2 + 1} \ \ | \cdot (a^2 + 1)\]
+
+\[25a^2 + 25 = a^2 - 6a + 9\]
+
+\[24a^2 + 6a + 16 = 0\]
+
+\(\Delta < 0\)
+
+brak rozwiązań
+
+Odp.: brak rozwiązań.

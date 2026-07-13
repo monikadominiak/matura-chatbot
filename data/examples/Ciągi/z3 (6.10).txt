@@ -1,0 +1,43 @@
+
+--- STRONA 1 ---
+z3 (6.10)
+
+Wszystkie wyrazy ciągu geometrycznego \( (a_n) \) są dodatnie, a szereg \( a_1 + a_2 + a_3 + \ldots \) jest zbieżny. Suma wszystkich wyrazów o nieparzystych numerach ciągu \( (a_n) \) jest cztery razy większa od sumy wszystkich wyrazów tego ciągu o numerach parzystych. Oblicz iloraz ciągu \( (a_n) \).
+
+Wskazówka: Suma wyrazów o nieparzystych lub parzystych numerach także tworzy szereg geometryczny zbieżny.
+
+🔵 1️⃣ Zapisujemy informacje podane w zadaniu.
+
+Skoro wszystkie wyrazy ciągu są dodatnie, to \( q > 0 \)
+
+Mowa o szeregu zbieżnym, więc: \(-1 < q < 1\)
+
+Części wspólna założeń odnośnie ilorazu: \( q \in (0,1) \)
+
+Suma wszystkich wyrazów parzystych: \( a_2 + a_4 + a_6 + \ldots + a_n = \frac{a_2q}{1-q^2} \)
+
+Suma wszystkich wyrazów o nieparzystych numerach: \( a_1 + a_3 + a_5 + \ldots + a_n = \frac{a_1}{1-q^2} \)
+
+Z polecenia, wiemy że: \(\frac{a_1}{1-q^2} = 4 \cdot \frac{a_2q}{1-q^2} \)
+
+🔵 2️⃣ Rozwiązujemy równanie.
+
+\[
+\frac{a_1}{1-q^2} = \frac{4a_2q}{1-q^2}
+\]
+
+\[
+\frac{a_1}{1-q^2} = \frac{a_1}{1-q^2} \cdot 4q \ / : \frac{a_1}{1-q^2}
+\]
+
+\[
+1 = 4q
+\]
+
+\[
+q = \frac{1}{4}
+\]
+
+Nie ma obawy, że dzielimy przez zero, ponieważ \( a_2 > 0 \) i \( q \in (0,1) \).
+
+Odp.: \( q = \frac{1}{4} \).

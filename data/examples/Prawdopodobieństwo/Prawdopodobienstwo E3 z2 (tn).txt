@@ -1,0 +1,15 @@
+
+--- STRONA 1 ---
+Dany jest zbiór A = {1, 2, 3, 4, 5, 6}. Znajdź liczbę wszystkich permutacji zbioru A.
+
+\(1\) def. permutacji: Liczba wszystkich sposobów, na które \(n\) różnych elementów można ustawić w ciąg, jest równa \(n!\).
+
+\_\_ \_\_ \_\_ \_\_ \_\_ \_\_  A = \{1,2,3,4,5,6\} - 6 elementów
+
+liczba permutacji: \(6!\) = 720
+
+                                                    odp: 720
+
+elementy nie powtarzają się, więc
+
+\(\frac{6}{\text{można wybrać 1 z 6}}\) \(\cdot\) \(\frac{5}{\text{można wybrać 1 z 5}}\) \(\cdot\) \(\frac{4}{\text{można wybrać 1 z 4}}\) \(\cdot\) \(\frac{3}{\text{można wybrać 1 z 3}}\) \(\cdot\) \(\frac{2}{\text{można wybrać 1 z 2}}\) \(\cdot\) \(\frac{1}{\text{ostatni element}}\)

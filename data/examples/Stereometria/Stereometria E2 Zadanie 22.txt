@@ -1,0 +1,23 @@
+
+--- STRONA 1 ---
+Ostrosłup prawidłowy czworokątny przecięto płaszczyzną prostopadłą do jednej z krawędzi bocznych ostrosłupa i jednocześnie zawierającą przekątną podstawy. Otrzymany przekrój jest trójkątem rozwartokątnym, którego kąt rozwarty ma miarę 2α. Uzależnij cosinus kąta nachylenia płaszczyzny tego przekroju do płaszczyzny podstawy od α.
+
+1) sporządzamy rysunek pomocniczy
+
+cosβ = |FO| / |OC|
+
+2) wykorzystujemy kąt α
+
+w Δ OBF
+
+tgα = (a√2 / 2) / |OF| => |OF| = a√2 / 2tgα
+
+3) wyznaczamy |OC| w zależności od α i liczymy cosinus
+
+|OC| = połowa przekątnej = a√2 / 2
+
+cosβ = (a√2 / 2tgα) / (a√2 / 2) = (zmienna a pojawia się w |FO| i |OC|, więc przy wyznaczaniu cosβ się skróci)
+
+= a√2 / 2tgα · 2 / a√2 = 1 / tgα = ctgα
+
+Odp: cosβ = ctgα

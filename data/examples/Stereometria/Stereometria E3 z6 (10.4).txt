@@ -1,0 +1,45 @@
+
+--- STRONA 1 ---
+Stożek i walec mają równe tworzące, równe objętości i równe pola powierzchni bocznej. Oblicz cosinus kąta nachylenia tworzącej stożka do płaszczyzny podstawy.
+
+1️⃣ wprowadzamy oznaczenia:
+   
+   niech r_S, H_S, l - kolejno promień podstawy, wysokość i tworząca stożka
+
+   niech r_W, H_W - kolejno promień podstawy i wysokość walca
+   wysokość walca jest równa jego tworzącej
+
+   analogicznie oznaczamy V_S i V_W oraz P_bs i P_bw
+
+2️⃣ zapisujemy informacje z polecenia
+
+H_W = l (równość tworzących)
+
+V_W = V_S (podstawiając do wzorów) { 
+                                            
+πr_W^2l = 1/3πr_S^2H_S (1)
+
+2πr_Wl = πr_Sl (2)
+
+   
+   sinus z polecenia to cosα, gdzie α to kąt w Δ prostokątnym o bokach r_S, H_S i l
+   zatem 𝑐𝑜𝑠𝛼= 𝑟𝑆/l
+
+3️⃣ wyznaczamy wartości r_S i l za pomocą jednej, tej samej, zmiennej z ➋ równania układu (✴️)
+
+   r_S = 2r_W (po podzieleniu przez πl)
+
+   podstawiamy do ➊: πr_W^2l = 1/3π(2r_W)^2H_S /:π(2r_W)^2
+                        
+                        4/3l = 1/3H_S => l = 1/4H_S
+
+   w Δ prostokątnym o bokach r_S, H_S i l
+   (tw. Pitagorasa)
+   
+   r_S^2 + H_S^2 = l^2 => r_S^2 + H_S^2 = (4/3H_S)^2
+
+   r_S^2 = 1/9H_S^2 => r_S = √7/3H_S
+   
+4️⃣ obliczamy cosα :  cosα = 𝑟_𝑆/l = √7/3H_S / (4/3H_S) = √7/4
+
+   odp: cosα = √7/4

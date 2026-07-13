@@ -1,0 +1,27 @@
+=== ARKUSZ: 2020p | ZADANIE 27 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 27. (0-2)
+Rozwiąż równanie $(x^{2}-2)(x-2)=0$.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 27. (0-2)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+zapisze dwa równania $x^2-1=0$ i $x^2-2x=0$ lub z zapisu wynika, że rozwiązuje te równania
+albo
+obliczy lub poda rozwiązania jednego z równań: $x^2-1=0$ ($x=1, x=-1$) lub $x^2-2x=0$ ($x=0, x=2$)
+i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+wyznaczy wszystkie rozwiązania równania: $x=0$, $x=2$, $x=1$, $x=-1$, ale nie uzyska ich w wyniku błędnej metody.
+Uwagi
+Jeżeli zdający poda wszystkie rozwiązania równania, bez zapisanych rachunków lub uzasadnienia, to otrzymuje 2 punkty.
+Jeżeli zdający poprawnie zapisze lewą stronę równania w postaci sumy jednomianów i doprowadzając ją do postaci iloczynu popełni błędy, ale skorzysta z własności iloczynu równego zero, to za całe rozwiązanie może otrzymać co najwyżej 1 punkt.
+Przykładowe rozwiązanie
+Iloczyn jest równy zero, jeśli przynajmniej jeden z czynników jest równy zero. Zatem $x^2-1=0$ lub $x^2-2x=0$.
+Równanie $x^2-1=0$ ma dwa rozwiązania: $x=-1$ lub $x=1$.
+Równanie $x^2-2x=0$ ma dwa rozwiązania: $x=0$ lub $x=2$.
+Zatem rozwiązaniami równania $(x^2-1)(x^2-2x)=0$ są liczby: $x=0$, $x=2$, $x=1$, $x=-1$.

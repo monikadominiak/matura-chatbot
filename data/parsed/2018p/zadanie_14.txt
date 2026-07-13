@@ -1,0 +1,15 @@
+=== ARKUSZ: 2018p | ZADANIE 14 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 14. (0-1)
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Przyprostokątna LM trójkąta prostokątnego KLM ma długość 3, a przeciwprostokątna KL ma długość 8 (zobacz rysunek). Wtedy miara alpha kąta ostrego LKM tego trójkąta spełnia warunek A. 27° &lt; alpha &lt;= 30° B. 24° &lt; alpha &lt;= 27° C. 21° &lt; alpha &lt;= 24° D. 18° &lt; alpha  b. Kąt KLM ma miarę 60°. Długość ramienia LM tego trapezu jest równa A. a - b B. 2(a - b) C. a + 0,5b D. (a + b) / 2
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 14. (0-1)
+Wymagania ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymagania szczegółowe: 6. Trygonometria. Zdający korzysta z przybliżonych wartości funkcji trygonometrycznych - odczytanych z tablic (6.2).
+Poprawna odp. (1 p.):
+Wersja I: C
+Wersja II: D

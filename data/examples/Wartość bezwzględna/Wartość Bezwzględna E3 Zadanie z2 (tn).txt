@@ -1,0 +1,75 @@
+
+--- STRONA 1 ---
+**Zadanie z2 (tn)** Wyznacz te wartości parametru m, dla których równanie 
+
+(x^2 - 2x + m - 2)(|x - 1| - m + 1) = 0 ma dokładnie trzy pierwiastki rzeczywiste? Oblicz te pierwiastki.
+
+1) Wyznaczamy warunki istnienia 3 pierwiastków:
+
+(x^2 - 2x + m - 2)(|x - 1| - m + 1) = 0
+
+x^2 - 2x - 1 + |x-1| = m - 1
+
+|x - 1| = m - 1 lub x^2 - 2x + m - 2 = 0
+
+Pierwsze z powyższych równań to równanie kwadratowe z parametrem, którego liczba rozwiązań jest znaleziona w delty.
+
+Drugie z równań to równanie postaci: wyrażenie = liczba. Liczba roz. takiego równania zależy od znaku liczby:
+
+liczba < 0 - 2 równań liczba = 0 - jedno rozwiązanie liczba > 0 - 0 rozwiązań
+
+np. |x| < 2 => -2 < x < 2 |x| < 0 => x=0 |x| <= 0 => x=0
+
+W naszym zadaniu musimy rozważyć 2 możliwości: 1) równanie (2) ma 2 rozw. oraz (3) ma 1 rozw. 2) równanie (2) ma 1 rozw. oraz (3) ma 2 rozw.
+
+Matematycznie możemy to zapisać tak:
+
+1^o \( \begin{cases} \Delta > 0\\ m-1 \leq 0 \end{cases} \) \vee 2^o \( \begin{cases} \Delta \leq 0\\ m-1 < 0 \end{cases} \)
+
+2) Wyznaczamy wartości parametru m spełniające warunki :
+
+1^o \Delta > 0  \land  m-1 \leq 0 
+
+\Delta = 4 - 4(m - 2) = 4 + 4m - 8
+
+-4m + 4 > 0  \land  m - 1 \leq 0
+
+m < 3  \land  m \leq 1 
+m = 1
+
+m = 1
+
+2^o \Delta \leq 0  \land  m - 1 < 0
+
+-4m + 4 \leq 0  \land  m - 1 < 0
+
+m \geq 3  \land  m < 1
+m = 3
+
+m = 3
+
+1^o \vee 2^o => m \epsilon {1, 3}
+
+3) Wyznaczamy pierwiastki dla danych wartości m :
+
+m = 1 \quad \quad \quad \quad m = 3
+
+x^2 - 2x + 1 = 0 \quad \quad x^2 + 3x + 2 = 0
+
+|x-1| = 0 \quad \quad \quad \quad |x-1| = 3 - 1
+
+x - 1 = 0 \quad \quad \quad \quad |x-1| = 2
+
+\Delta = 4 - 4 = 0 \quad \quad \Delta = 9 - 4 \cdot 2 = 1
+
+x = 1 \quad \quad \quad \quad \quad x1 = -2
+
+x1 = -1 \quad x2 = -1 \quad \quad x2 = x = 1
+
+\boxed{x=-2}, \boxed{x = 1} \quad \quad x = 1 
+
+x = 3  \quad \quad \quad \quad x = -4 
+
+Odp: Dla m = 1 pierwiastki: -1, 1, 2, 3
+
+dla m = 3 pierwiastki: -1, 1, 3.

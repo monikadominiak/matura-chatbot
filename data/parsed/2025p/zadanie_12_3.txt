@@ -1,0 +1,19 @@
+=== ARKUSZ: 2025p | ZADANIE 12.3 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 12.3. (0–1)
+Funkcja g jest określona dla każdej liczby rzeczywistej x wzorem g(x) = f(x) − 3.
+Liczby x_1 oraz x_2 są różnymi miejscami zerowymi funkcji g.
+
+Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie
+było prawdziwe.
+
+Suma x_1 + x_2 jest równa ……… .
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

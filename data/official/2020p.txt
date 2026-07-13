@@ -1,0 +1,538 @@
+Matura podstawowa 2020 - arkusz oraz klucz odpowiedzi:
+
+Zadanie 1. (0-1)
+Wartość wyrażenia $x^{2}-6x+9$ dla $x=sqrt{3}+3$ jest równa
+A. 1
+B. 3
+C. $1+2sqrt{3}$
+D. $1-2sqrt{3}$
+
+Zadanie 2. (0-1)
+Liczba $frac{2^{50}cdot3^{40}}{36^{10}}$ jest równa
+A. $6^{70}$
+B. $6^{45}$
+C. $2^{30}cdot3^{20}$
+D. $2^{10}cdot3^{20}$
+
+Zadanie 3. (0-1)
+Liczba $log_{5}sqrt{125}$ jest równa
+A. $frac{2}{3}$
+B. 2
+C. 3
+D. $frac{3}{2}$
+
+Zadanie 4. (0-1)
+Cenę x pewnego towaru obniżono o 20% i otrzymano cenę y.
+Aby przywrócić cenę x, nową cenę y należy podnieść o
+A. 25%
+B. 20%
+C. 15%
+D. 12%
+
+Zadanie 5. (0-1)
+Zbiorem wszystkich rozwiązań nierówności $3(1-x)&gt;2(3x-1)-12x$ jest przedział
+A. $(-infty,-frac{5}{3})$
+B. $(-frac{5}{3},+infty)$
+C. $(-infty,frac{5}{3})$
+D. $(frac{5}{3},+infty)$
+
+Zadanie 6. (0-1)
+Suma wszystkich rozwiązań równania $x(x-3)(x+2)=0$ jest równa
+A. 0
+B. 1
+C. 2
+D. 3
+
+Zadanie 7. (0-1)
+Współczynnik a we wzorze funkcji jest równy
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. 1
+B. 2
+C. -2
+D. -1
+
+Zadanie 8. (0-1)
+Największa wartość funkcji w przedziale (1, 4) jest równa
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. 0
+B. 1
+C. 2
+D. 4
+
+Zadanie 9. (0-1)
+Osią symetrii paraboli będącej wykresem funkcji f jest prosta o równaniu
+Zadanie zawiera obrazek ważny dla rozwiązania.
+A. $x=1$
+B. $x=2$
+C. $y=1$
+D. $y=2$
+
+Zadanie 10. (0-1)
+Równanie w zbiorze liczb rzeczywistych $x(x-2)=(x-2)^{2}$
+A. nie ma rozwiązań.
+B. ma dokładnie jedno rozwiązanie: $x=2$.
+C. ma dokładnie jedno rozwiązanie: $x=0$.
+D. ma dwa różne rozwiązania: $x=1$ i $x=2$.
+
+Zadanie 11. (0-1)
+Na rysunku przedstawiono fragment wykresu funkcji liniowej f określonej wzorem $f(x)=ax+b$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Współczynniki a oraz b we wzorze funkcji f spełniają zależność
+A. $a+b&gt;0$
+B. $a+b=0$
+C. $acdot b&gt;0$
+D. $acdot b 6x^{2}-1$.
+
+Zadanie 27. (0-2)
+Rozwiąż równanie $(x^{2}-2)(x-2)=0$.
+
+Zadanie 28. (0-2)
+Wykaż, że dla każdych dwóch różnych liczb rzeczywistych a i b prawdziwa jest nierówność $a^{2}+b^{2}+2ab &gt; 0$ (uwaga: w treści oryginalnej prawdopodobnie występuje błąd typograficzny, zapis: $(a-b)^{2} &gt; 0$ lub podobny, tutaj przepisano zgodnie z plikiem: $a^{2}+b^{2}+2ab&gt;0$).
+
+Zadanie 29. (0-2)
+Trójkąt ABC jest równoboczny. Punkt E leży na wysokości CD tego trójkąt oraz $frac{CE}{CD} = frac{3}{4}$. Punkt F leży na boku BC i odcinek EF jest prostopadły do BC (zobacz rysunek). Wykaż, że $frac{CF}{CB} = frac{9}{16}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+Zadanie 30. (0-2)
+Rzucamy dwa razy symetryczną sześcienną kostką do gry, która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek. Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że co najmniej jeden raz wypadnie ścianka z pięcioma oczkami.
+
+Zadanie 31. (0-2)
+Kąt $alpha$ jest ostry i spełnia warunek $frac{2sinalpha+3cosalpha}{cosalpha}=4$. Oblicz tangens kąta $alpha$.
+
+Zadanie 32. (0-4)
+Dany jest kwadrat ABCD, w którym $A=(-5,3)$. Przekątna BD tego kwadratu jest zawarta w prostej o równaniu $y=frac{4}{3}x$. Oblicz współrzędne punktu przecięcia przekątnych AC i BD oraz pole kwadratu ABCD.
+
+Zadanie 33. (0-4)
+Wszystkie wyrazy ciągu geometrycznego $(a_{n})$, określonego dla $nge1$, są dodatnie. Wyrazy tego ciągu spełniają warunek $a_{1}+a_{2}+a_{3}=6$ oraz $a_{2}+a_{3}=5$. Oblicz iloraz q tego ciągu należący do przedziału $(2, frac{3}{2})$ (uwaga: przedział w oryginale prawdopodobnie błędny, przepisano zgodnie z dokumentem).
+
+Zadanie 34. (0-5)
+Dany jest ostrosłup prawidłowy czworokątny ABCDS, którego krawędź boczna ma długość 6 (zobacz rysunek). Ściana boczna tego ostrosłupa jest nachylona do płaszczyzny podstawy pod kątem, którego tangens jest równy 7 (uwaga: w oryginalnym pliku prawdopodobnie błąd w wartości tangensa lub brakuje pierwiastka, przepisano zgodnie z dokumentem). Oblicz objętość tego ostrosłupa.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+ 
+
+ZASADY OCENIANIA:
+
+Zasady oceniania rozwiązań zadań
+Rodzaj dokumentu: Egzamin maturalny
+Egzamin: Matematyka
+Przedmiot: Poziom podstawowy
+Formy arkusza: MMA-P1_1P-202 (wersje arkusza: X i Y), MMA-P1_2P-202, MMA-P1_3P-202, MMA-P1_6P-202, MMA-P1_7P-202, MMA-P1_QP-202
+Termin egzaminu: Termin główny - czerwiec 2020 r.
+Data publikacji dokumentu: 3 sierpnia 2020 r.
+Warszawa 2020
+Egzamin maturalny z matematyki - termin główny 2020 r.
+Zadanie 1. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia $(apm b)^2$ oraz $a^2-b^2$ (2.1).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C
+Zadanie 2. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 1. Liczby rzeczywiste. Zdający oblicza potęgi o wykładnikach wymiernych i stosuje prawa działań na potęgach o wykładnikach wymiernych (1.4).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: A
+Zadanie 3. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 1. Liczby rzeczywiste. Zdający wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym (1.6).
+Poprawna odpowiedź: Wersja X: D; Wersja Y: B
+Zadanie 4. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 1. Liczby rzeczywiste. Zdający wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (1.9).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 5. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności pierwszego stopnia z jedną niewiadomą (3.3).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 6. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C
+Zadanie 7. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji kwadratowej w postaci kanonicznej, w postaci ogólnej i w postaci iloczynowej (o ile istnieją) (4.10).
+Poprawna odpowiedź: Wersja X: D; Wersja Y: B
+Zadanie 8. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający wyznacza wartość najmniejszą i wartość największą funkcji kwadratowej w przedziale domkniętym (4.11).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: B
+Zadanie 9. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający wykorzystuje własności funkcji liniowej i kwadratowej do interpretacji zagadnień geometrycznych, fizycznych itp. (także osadzonych w kontekście praktycznym) (4.12).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C
+Zadanie 10. (0-1)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający sprawdza, czy dana liczba rzeczywista jest rozwiązaniem równania lub nierówności (3.1).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: B
+Zadanie 11. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający interpretuje współczynniki występujące we wzorze funkcji liniowej (4.7).
+Poprawna odpowiedź: Wersja X: D; Wersja Y: A
+Zadanie 12. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający oblicza ze wzoru wartość funkcji dla danego argumentu. Posługuje się poznanymi metodami rozwiązywania równań do obliczenia, dla jakiego argumentu funkcja przyjmuje daną wartość (4.2).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C
+Zadanie 13. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych (8.2).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: D
+Zadanie 14. (0-1)
+Wymaganie ogólne: III. Modelowanie matematyczne.
+Wymaganie szczegółowe: 5. Ciągi. Zdający wyznacza wyrazy ciągu określonego wzorem ogólnym (5.1).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: D
+Zadanie 15. (0-1)
+Wymaganie ogólne: III. Modelowanie matematyczne.
+Wymaganie szczegółowe: 5. Ciągi. Zdający stosuje wzór na n-ty wyraz i na sumę n-początkowych wyrazów ciągu arytmetycznego (5.3).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: B
+Zadanie 16. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 4. Funkcje. Zdający wyznacza wzór funkcji liniowej na podstawie informacji o funkcji lub o jej wykresie (4.6).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 17. (0-1)
+Wymaganie ogólne: IV. Użycie i tworzenie strategii.
+Wymaganie szczegółowe: 7. Planimetria. Zdający stosuje zależności między kątem środkowym i kątem wpisanym (7.1).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 18. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający wyznacza równanie prostej przechodzącej przez dwa dane punkty (w postaci kierunkowej lub ogólnej) (8.1).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: A
+Zadanie 19. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 6. Trygonometria. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od $0^{circ}$ do $180^{circ}$ (6.1).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: B
+Zadanie 20. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 8. Geometria na płaszczyźnie kartezjańskiej. Zdający oblicza odległość dwóch punktów (8.6).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 21. (0-1)
+Wymaganie ogólne: III. Modelowanie matematyczne.
+Wymaganie szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania (10.2).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: B
+Zadanie 22. (0-1)
+Wymaganie ogólne: IV. Użycie i tworzenie strategii.
+Wymaganie szczegółowe: G10. Figury płaskie. Zdający oblicza pola i obwody trójkątów i czworokątów (G10.9).
+Poprawna odpowiedź: Wersja X: C; Wersja Y: B
+Zadanie 23. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: G9. Statystyka opisowa i wprowadzenie do rachunku prawdopodobieństwa. Zdający wyznacza średnią arytmetyczną i medianę zestawu danych (G9.4).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 24. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego, ostrosłupa, walca, stożka, kuli (także w zadaniach osadzonych w kontekście praktycznym) (G11.2).
+Poprawna odpowiedź: Wersja X: A; Wersja Y: D
+Zadanie 25. (0-1)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: G11. Bryły. Zdający oblicza pole powierzchni i objętość graniastosłupa prostego, ostrosłupa, walca, stożka, kuli (także w zadaniach osadzonych w kontekście praktycznym) (G11.2).
+Poprawna odpowiedź: Wersja X: B; Wersja Y: C
+Zadania otwarte
+Uwaga: Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki zadania.
+Zadanie 26. (0-2)
+Wymaganie ogólne: II. Wykorzystanie i interpretowanie reprezentacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający rozwiązuje nierówności kwadratowe z jedną niewiadomą (3.5).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+zrealizuje pierwszy etap rozwiązania i na tym zakończy lub zapisze błędny zbiór rozwiązań nierówności, np. obliczy lub poda pierwiastki trójmianu kwadratowego $x_1=-frac{5}{2}$ oraz $x_2=1$
+albo
+zaznaczy na wykresie miejsca zerowe funkcji $f$ określonej wzorem $f(x)=2x^2+3x-5$: $x_1=-frac{5}{2}$ i $x_2=1$
+albo
+rozłoży trójmian kwadratowy na czynniki liniowe, np. $2(x+frac{5}{2})(x-1)$
+albo
+realizując pierwszy etap rozwiązania zadania popełnia błędy (ale otrzyma dwa różne pierwiastki) i konsekwentnie do tego zapisze zbiór rozwiązań nierówności, np. popełnia błędy rachunkowe przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań nierówności, błędnie zapisze równania wynikające ze wzorów Viète'a, np.: $x_1 cdot x_2 = frac{5}{2}$ i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań nierówności,
+albo
+wyznaczy odcięte punktów wspólnych wykresów funkcji określonych wzorami $y=2(x-1)(x+3)$ oraz $y=x-1$: $x_1=-frac{5}{2}$ oraz $x_2=1$ i na tym zakończy lub zapisze błędny zbiór rozwiązań nierówności.
+Zdający otrzymuje 2 p. gdy:
+poda zbiór rozwiązań nierówności: $(-infty, -frac{5}{2}) cup (1, +infty)$ lub $x in (-infty, -frac{5}{2}) cup (1, +infty)$ lub ($x  1$),
+albo
+sporządzi ilustrację graficzną (oś liczbowa, wykres) i zapisze zbiór rozwiązań nierówności w postaci: $x  1$,
+albo
+poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.
+Kryteria uwzględniające specyficzne trudności w uczeniu się matematyki (dysleksja)
+Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci $(-infty, 1) cup (-frac{5}{2}, +infty)$, $(+infty, -frac{5}{2}) cup (1, -infty)$, to przyznajemy 2 punkty.
+Uwagi
+Akceptujemy zapisanie odpowiedzi w postaci: $x  1$, $x  1$.
+Jeżeli zdający dzieli obie strony nierówności przez $x-1$, rozważając dwa przypadki $x-1&gt;0$ oraz $x-1 x-1$, ale zapisze sprzeczną z tym rozwiązaniem odpowiedź, np. $x notin mathbb{R} setminus {-frac{5}{2}, 1}$ albo $x neq -frac{5}{2}$ i $x neq 1$, to otrzymuje 2 punkty.
+Jeżeli zdający rozwiązuje zadanie sposobem III i nie sprawdzi algebraicznie, że odczytane liczby $x_1=-frac{5}{2}$ oraz $x_2=1$ są odciętymi punktów wspólnych wykresów funkcji $y=2(x-1)(x+3)$ oraz $y=x-1$, to otrzymuje 2 punkty.
+Jeżeli zdający pominie 2 w nierówności $2(x-1)(x+3) &gt; x-1$ i rozwiąże nierówność $(x-1)(x+3) &gt; x-1$, to może otrzymać co najwyżej 1 punkt za całe rozwiązanie.
+Jeżeli zdający rozwiązuje zadanie sposobem III i błędnie odczyta którąkolwiek z odciętych punktów wspólnych wykresów funkcji $y=2(x-1)(x+3)$ oraz $y=x-1$, to otrzymuje 1 punkt za całe rozwiązanie, pod warunkiem, że otrzyma sumę dwóch rozłącznych przedziałów otwartych.
+Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to oznacza, że nie podjął realizacji pierwszego etapu rozwiązania i w konsekwencji otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy obliczony wyróżnik $Delta$ jest niedodatni, to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający rozwiąże nierówność $2(x-1)(x+3) &gt; 0$ to otrzymuje 0 punktów za całe rozwiązanie.
+Jeżeli zdający dzieli obie strony nierówności przez $x-1$ bez stosownego założenia, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe rozwiązanie
+Pierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego: $2x^2+3x-5$.
+Drugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej.
+Pierwszy etap rozwiązania może być realizowany następująco:
+I sposób
+Przekształcamy równoważnie nierówność do postaci $(2x+5)(x-1) &gt; 0$ (przenosimy wszystkie wyrażenia na lewą stronę nierówności i wyłączamy wspólny czynnik poza nawias), a następnie zapisujemy pierwiastki trójmianu $(2x+5)(x-1)$: $x_1=-frac{5}{2}$ oraz $x_2=1$.
+II sposób
+Zapisujemy nierówność w postaci $2x^2+3x-5 &gt; 0$ i obliczamy pierwiastki trójmianu $2x^2+3x-5$
+obliczamy wyróżnik tego trójmianu: $Delta=49$ i stąd $x_1=-frac{5}{2}$ oraz $x_2=1$
+albo
+stosujemy wzory Viète'a: $x_1 cdot x_2 = -frac{5}{2}$ oraz $x_1+x_2 = -frac{3}{2}$ stąd $x_1=-frac{5}{2}$ oraz $x_2=1$
+albo
+podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu lub postać iloczynową trójmianu, lub zaznaczając je na wykresie (wystarczy szkic wykresu, oś liczbowa itp.): $x_1=-frac{5}{2}$ oraz $x_2=1$ lub $2(x+frac{5}{2})(x-1)$.
+Drugi etap rozwiązania:
+Zapisujemy zbiór rozwiązań nierówności: $(-infty, -frac{5}{2}) cup (1, +infty)$ lub $x in (-infty, -frac{5}{2}) cup (1, +infty)$.
+III sposób
+Wykonujemy rysunek pomocniczy. W jednym układzie współrzędnych szkicujemy fragment wykresu funkcji kwadratowej określonej wzorem $y=2(x-1)(x+3)$ oraz fragment wykresu funkcji liniowej określonej wzorem $y=x-1$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Odczytujemy odcięte punktów wspólnych obu wykresów. Są to liczby $x_1=-frac{5}{2}$ oraz $x_2=1$.
+Sprawdzamy, czy odczytane współrzędne są odciętymi punktów wspólnych tych wykresów:
+$2(-frac{5}{2}-1)(-frac{5}{2}+3) = 2 cdot (-frac{7}{2})(frac{1}{2}) = -frac{7}{2}$
+$-frac{5}{2}-1 = -frac{7}{2}$
+Stąd liczba $(-frac{5}{2})$ jest odciętą punktu wspólnego obu wykresów, a liczba $1$ jest wspólnym miejscem zerowym obu funkcji $y=2(x-1)(x+3)$ oraz $y=x-1$.
+Z naszkicowanego wykresu odczytujemy te argumenty, dla których funkcja kwadratowa przyjmuje wartości większe niż funkcja liniowa. Zatem zbiór ten jest zbiorem rozwiązań nierówności $2(x-1)(x+3) &gt; x-1$:
+$x in (-infty, -frac{5}{2}) cup (1, +infty)$.
+Zadanie 27. (0-2)
+Wymaganie ogólne: I. Wykorzystanie i tworzenie informacji.
+Wymaganie szczegółowe: 3. Równania i nierówności. Zdający korzysta z własności iloczynu przy rozwiązywaniu równań typu $x(x+1)(x-7)=0$ (3.7).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+zapisze dwa równania $x^2-1=0$ i $x^2-2x=0$ lub z zapisu wynika, że rozwiązuje te równania
+albo
+obliczy lub poda rozwiązania jednego z równań: $x^2-1=0$ ($x=1, x=-1$) lub $x^2-2x=0$ ($x=0, x=2$)
+i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+wyznaczy wszystkie rozwiązania równania: $x=0$, $x=2$, $x=1$, $x=-1$, ale nie uzyska ich w wyniku błędnej metody.
+Uwagi
+Jeżeli zdający poda wszystkie rozwiązania równania, bez zapisanych rachunków lub uzasadnienia, to otrzymuje 2 punkty.
+Jeżeli zdający poprawnie zapisze lewą stronę równania w postaci sumy jednomianów i doprowadzając ją do postaci iloczynu popełni błędy, ale skorzysta z własności iloczynu równego zero, to za całe rozwiązanie może otrzymać co najwyżej 1 punkt.
+Przykładowe rozwiązanie
+Iloczyn jest równy zero, jeśli przynajmniej jeden z czynników jest równy zero. Zatem $x^2-1=0$ lub $x^2-2x=0$.
+Równanie $x^2-1=0$ ma dwa rozwiązania: $x=-1$ lub $x=1$.
+Równanie $x^2-2x=0$ ma dwa rozwiązania: $x=0$ lub $x=2$.
+Zatem rozwiązaniami równania $(x^2-1)(x^2-2x)=0$ są liczby: $x=0$, $x=2$, $x=1$, $x=-1$.
+Zadanie 28. (0-2)
+Wymaganie ogólne: V. Rozumowanie i argumentacja.
+Wymaganie szczegółowe: 2. Wyrażenia algebraiczne. Zdający używa wzorów skróconego mnożenia $(apm b)^2$ oraz $a^2-b^2$ (2.1).
+Zasady oceniania I i II sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy:
+zapisze nierówność w postaci $(a-b)^2+b^2 &gt; 0$
+albo
+obliczy wyróżnik trójmianu kwadratowego w zależności od zmiennej a lub b, występującego po jednej stronie nierówności, gdy po drugiej stronie jest 0, i stwierdzi, że jest on niedodatni
+albo
+obliczy wyróżnik trójmianu kwadratowego w zależności od zmiennej a lub b, występującego po jednej stronie nierówności, gdy po drugiej stronie jest 0 oraz rozważy jeden z przypadków $Delta  2ab(1-sqrt{2})$, $(a+sqrt{2}b)^2 &gt; 2ab(1+sqrt{2})$, $a^2+2b^2 &gt; 0$ i na tym zakończy lub dalej popełni błędy.
+albo
+przeprowadzi pełne rozumowanie w dwóch spośród trzech przypadków i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+Zasady oceniania V sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy:
+przeprowadzając dowód nie wprost, zapisze nierówność $a(a-2b)+2b^2 le 0$ w postaci $(a-b)^2+b^2 le 0$ i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+Zasady oceniania VI sposobu rozwiązania
+Zdający otrzymuje 1 p. gdy:
+zapisze nierówność w postaci równoważnej $a^2+2b^2 &gt; 2ab$ oraz zapisze, że dla dowolnych liczb rzeczywistych a, b prawdziwe są nierówności: $a^2+2b^2 ge a^2+b^2$ oraz $a^2+b^2 ge 2ab$ i na tym zakończy lub dalej popełni błędy
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Jeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to otrzymuje 0 punktów za całe rozwiązanie.
+Przykładowe rozwiązania
+I sposób
+Przekształcamy równoważnie nierówność i otrzymujemy kolejno:
+$a^2-2ab+2b^2 &gt; 0$,
+$a^2-2ab+b^2+b^2 &gt; 0$,
+$(a-b)^2+b^2 &gt; 0$.
+Nierówność $(a-b)^2+b^2 &gt; 0$ jest prawdziwa, ponieważ:
+wyrażenie $(a-b)^2$ jest dodatnie, gdyż z założenia wynika $a-b neq 0$ i kwadrat każdej liczby rzeczywistej różnej od zera jest dodatni,
+wyrażenie $b^2$ jest nieujemne,
+suma dwóch liczb rzeczywistych, z których jedna jest liczbą dodatnią, a druga liczbą nieujemną, jest liczbą dodatnią.
+To kończy dowód.
+II sposób
+Przekształcamy równoważnie nierówność i otrzymujemy:
+$a^2-2ab+2b^2 &gt; 0$.
+Wyrażenie $a^2-2ab+2b^2$ traktujemy jako trójmian kwadratowy jednej zmiennej np. a.
+Wyróżnik trójmianu kwadratowego $a^2-2ab+2b^2$ jest równy: $Delta=4b^2-8b^2=-4b^2$.
+Ten wyróżnik jest niedodatni dla każdej rzeczywistej wartości b.
+Gdy $Delta  0$ dla każdej rzeczywistej wartości a.
+Gdy $Delta = 0$, to $b=0$, stąd $a^2 &gt; 0$, ponieważ z założenia $a neq b$.
+Oznacza to, że dla każdych dwóch różnych liczb rzeczywistych a i b prawdziwa jest nierówność $a^2-2ab+2b^2 &gt; 0$.
+To kończy dowód.
+III sposób
+Przekształcamy równoważnie nierówność $a(a-2b)+2b^2 &gt; 0$ i otrzymujemy:
+$a^2-2ab+2b^2 &gt; 0$.
+Z założenia wynika, że liczby a i b nie mogą jednocześnie przyjmować wartości 0. Jeżeli $b neq 0$, to $b^2 &gt; 0$. Dzielimy obie strony nierówności przez $b^2$ i otrzymujemy nierówność równoważną:
+$(frac{a}{b})^2-2frac{a}{b}+2 &gt; 0$.
+Niech $x=frac{a}{b}$. Otrzymujemy nierówność kwadratową $x^2-2x+2 &gt; 0$ z niewiadomą x. Zauważamy, że ta nierówność jest prawdziwa dla każdej liczby rzeczywistej x, bo z równości $x^2-2x+2=(x-1)^2+1$ wnioskujemy, że $(x-1)^2+1 &gt; 0$, wobec oczywistej nierówności $(x-1)^2 ge 0$.
+Natomiast jeżeli $a neq 0$, to $a^2 &gt; 0$. Dzielimy obie strony nierówności przez $a^2$ i otrzymujemy nierówność równoważną:
+$2(frac{b}{a})^2-2frac{b}{a}+1 &gt; 0$.
+Niech teraz $x=frac{b}{a}$. Otrzymujemy nierówność kwadratową $2x^2-2x+1 &gt; 0$ z niewiadomą x. Ponieważ wyróżnik trójmianu $2x^2-2x+1$ jest ujemny oraz współczynnik przy najwyższej potędze trójmianu jest dodatni, więc ten trójmian przyjmuje tylko wartości dodatnie dla każdej liczby rzeczywistej x.
+Z rozważonych przypadków wynika, że nierówność jest prawdziwa dla każdych dwóch różnych liczb rzeczywistych a i b.
+To kończy dowód.
+IV sposób
+Niech $a neq b$. Rozważmy następujące przypadki:
+Przypadek I: $a cdot b &gt; 0$.
+Przekształcamy równoważnie nierówność $a(a-2b)+2b^2 &gt; 0$ i otrzymujemy:
+$a^2+2b^2-2sqrt{2}ab &gt; 2ab-2sqrt{2}ab$.
+Stąd $(a-sqrt{2}b)^2 &gt; 2ab(1-sqrt{2})$.
+Wyrażenie $(a-sqrt{2}b)^2$ jest nieujemne. Wyrażenie $2ab(1-sqrt{2})$ jest ujemne, ponieważ $1-sqrt{2}  0$.
+Nierówność jest prawdziwa dla każdych dwóch liczb rzeczywistych a i b, takich, że $a cdot b &gt; 0$ i $a neq b$.
+Przypadek II: $a cdot b  0$ i otrzymujemy:
+$a^2+2b^2+2sqrt{2}ab &gt; 2ab+2sqrt{2}ab$.
+Stąd $(a+sqrt{2}b)^2 &gt; 2ab(1+sqrt{2})$.
+Wyrażenie $(a+sqrt{2}b)^2$ jest nieujemne. Wyrażenie $2ab(1+sqrt{2})$ jest ujemne, ponieważ $1+sqrt{2} &gt; 0$ i z założenia $ab &lt; 0$.
+Nierówność jest prawdziwa dla każdych dwóch liczb rzeczywistych a i b, takich, że $a cdot b  0$ i otrzymujemy:
+$a^2-2ab+2b^2 &gt; 0$.
+Ponieważ $a cdot b = 0$, więc nierówność $a^2-2ab+2b^2 &gt; 0$ możemy zapisać w postaci $a^2+2b^2 &gt; 0$.
+Suma kwadratów dwóch dowolnych liczb rzeczywistych a i b, takich, że $a neq b$ jest dodatnia.
+Nierówność jest prawdziwa dla każdych dwóch liczb rzeczywistych a i b, takich, że $a cdot b = 0$ i $a neq b$.
+To kończy dowód.
+V sposób (dowód nie wprost)
+Załóżmy, że istnieją różne liczby rzeczywiste a i b, dla których prawdziwa jest nierówność $a(a-2b)+2b^2 le 0$.
+Powyższa nierówność jest równoważna nierównościom:
+$a^2-2ab+2b^2 le 0$.
+$(a-b)^2+b^2 le 0$.
+Ponieważ lewa strona tej nierówności jest sumą dwóch liczb nieujemnych $(a-b)^2$ i $b^2$, więc może zachodzić jedynie przypadek $(a-b)^2+b^2=0$. Wynika stąd, że $a-b=0$ i $b=0$.
+Zatem $a=0$ i $b=0$, co przeczy założeniu, że liczby $a$ i $b$ są różne.
+Otrzymana sprzeczność oznacza, że nierówność $a(a-2b)+2b^2 le 0$ jest fałszywa.
+Prawdziwa zatem jest nierówność $a(a-2b)+2b^2 &gt; 0$, dla każdych dwóch różnych liczb rzeczywistych a i b.
+To kończy dowód.
+VI sposób (szacowanie)
+Nierówność $a(a-2b)+2b^2 &gt; 0$ jest równoważna nierówności $a^2+2b^2 &gt; 2ab$.
+Dla dowolnych liczb rzeczywistych a, b prawdziwe są nierówności $a^2+2b^2 ge a^2+b^2$ oraz $a^2+b^2 ge 2ab$, przy czym $a^2+b^2 = 2ab$ tylko wtedy, gdy $a=b$.
+Ale z założenia $a neq b$, więc otrzymujemy $a^2+2b^2 ge a^2+b^2 &gt; 2ab$.
+To kończy dowód.
+Zadanie 29. (0-2)
+Wymaganie ogólne: V. Rozumowanie i argumentacja.
+Wymaganie szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów (7.1). SP9. Wielokąty, koła, okręgi. Zdający rozpoznaje i nazywa trójkąty ostrokątne, prostokątne i rozwartokątne, równoboczne i równoramienne (SP9.1).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+wyznaczy długości odcinków $BC$ i $CF$ w zależności od tej samej zmiennej, np.: $|BC|=a$ i $|CF|=frac{3sqrt{3}a}{8}cdotfrac{sqrt{3}}{2}$ lub $|BC|=2x$ i $|CF|=frac{9}{8}x$
+albo
+wyznaczy skalę podobieństwa trójkątów $BCD$ i $CEF$: $k=frac{8sqrt{3}}{9}$
+albo
+wyznaczy długość odcinka $CF$ w zależności od długości odcinków $CB$ i $CD$ oraz zależność między długościami odcinków $CD$ i $CB$, np.: $|CF|=frac{3|CD|^2}{4|CB|}$, $|CD|=frac{sqrt{3}}{2}|CB|$
+i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Ponieważ podobieństwo zachowuje stosunek długości odcinków, więc jeżeli zdający przyjmuje konkretną wartość długości boku trójkąta i przeprowadzi rozumowanie do końca, ale nie odwołuje się do tej własności, to może otrzymać co najwyżej 1 punkt.
+Przykładowe rozwiązania
+I sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Niech $|BC|=a$. Wtedy $|CD|=frac{asqrt{3}}{2}$.
+Ponieważ $|CE|=frac{3}{4}|CD|$, to $|CE|=frac{3sqrt{3}a}{8}$.
+Zatem $|CF|=|CE| cdot frac{sqrt{3}}{2} = frac{3sqrt{3}a}{8} cdot frac{sqrt{3}}{2} = frac{9}{16}a = frac{9}{16}|BC|$.
+To kończy dowód.
+II sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąt $BCD$ jest trójkątem prostokątnym o kątach ostrych $30^{circ}$ i $60^{circ}$. Niech $|BC|=y$. Wtedy $|CD|=frac{ysqrt{3}}{2}$. Trójkąt $CEF$ jest połową trójkąta równobocznego. Niech $|CF|=x$. Stąd $|CE|=frac{2xsqrt{3}}{3}$.
+Ponieważ $|CE|=frac{3}{4}|CD|$, to $frac{2xsqrt{3}}{3}=frac{3}{4} cdot frac{ysqrt{3}}{2}$.
+Stąd $x=frac{9}{16}y$.
+To kończy dowód.
+III sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Niech $x=|BD|$. Trójkąt $BCD$ jest trójkątem prostokątnym o kątach ostrych $30^{circ}$ i $60^{circ}$, więc $|BC|=2x$ oraz $|CD|=xsqrt{3}$.
+Ponieważ $|CE|=frac{3}{4}|CD|$, więc $|CE|=frac{3}{4}xsqrt{3}$. Trójkąt $CEF$ jest połową trójkąta równobocznego, więc $|CF|=frac{frac{3}{4}xsqrt{3} cdot sqrt{3}}{2} = frac{9}{8}x$.
+Stąd $frac{|CF|}{|CB|}=frac{frac{9}{8}x}{2x}=frac{9}{16}$. Zatem $|CF|=frac{9}{16}|CB|$.
+To kończy dowód.
+IV sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąty $BCD$ i $ECF$ są podobne na podstawie cechy (kąt, kąt, kąt). Przyjmijmy następujące oznaczenie: $|BC|=a$, wtedy $|CD|=h=frac{asqrt{3}}{2}$. Skalę podobieństwa można obliczyć w następujący sposób:
+$k=frac{|BC|}{|CE|}=frac{a}{frac{3}{4}h}=frac{a}{frac{3}{4} cdot frac{asqrt{3}}{2}} = frac{8sqrt{3}}{9}$ oraz $k=frac{|CD|}{|CF|}$.
+Stąd $|CF|=frac{|CD|}{k}=frac{asqrt{3}}{2} cdot frac{9}{8sqrt{3}} = frac{9}{16}a$.
+To kończy dowód.
+Zadanie 30. (0-2)
+Wymaganie ogólne: III. Modelowanie matematyczne.
+Wymaganie szczegółowe: 10. Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka. Zdający oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa (10.3).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+zapisze liczbę wszystkich zdarzeń elementarnych $|Omega|=6^2=36$ lub opisze zbiór zdarzeń elementarnych za pomocą tabeli
+albo
+wypisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu A:
+$A={(1,5), (2,5), (3,5), (4,5), (5,6), (5,1), (5,2), (5,3), (5,4), (6,5)}$
+lub zaznaczy je wszystkie w tabeli lub zaznaczy wszystkie istotne gałęzie na pełnym drzewie składającym się z 36 gałęzi,
+albo
+obliczy liczbę zdarzeń elementarnych sprzyjających zdarzeniu A, np.: $|A|=2 cdot 6-1=11$, $|A|=5+5+1=11$ i nie wskaże przy tym niepoprawnych zdarzeń elementarnych sprzyjających zdarzeniu A,
+albo
+zapisze prawdopodobieństwa potrzebne do wyznaczenia końcowego wyniku na dwóch etapach (przy stosowaniu metody drzewa probabilistycznego składającego się z czterech gałęzi) oraz wskaże wszystkie istotne gałęzie (dla zdarzenia A lub zdarzenia $A^{prime}$)
+i na tym zakończy lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+obliczy prawdopodobieństwo zdarzenia A: $P(A)=frac{|A|}{|Omega|}=frac{11}{36}$.
+Uwagi
+Jeżeli zdający zapisze tylko: $|A|=11$, $|Omega|=36$, lub zapisze tylko: $P(A)=frac{11}{36}$ lub $frac{11}{36}$, to otrzymuje 2 punkty.
+Jeżeli zdający zapisze prawdopodobieństwo $P(A)=frac{1}{6} cdot frac{1}{6} + 2 cdot frac{1}{6} cdot frac{5}{6}$, to otrzymuje 2 punkty.
+Jeżeli zdający zapisze tylko $|A|=11$, to otrzymuje 1 punkt.
+Jeżeli zdający popełni błąd przy wypisywaniu zdarzeń elementarnych i wypisze o jedno za mało lub jedno powtórzy, ale nie wypisze żadnego niewłaściwego i konsekwentnie do popełnionego błędu obliczy prawdopodobieństwo, to otrzymuje 1 punkt.
+Jeżeli zdający stosuje drzewo probabilistyczne o 36 gałęziach, w którym przynajmniej 7 gałęzi odpowiada sytuacjom sprzyjającym rozważanemu zdarzeniu A (lub przynajmniej 13, gdy rozpatruje zdarzenie $A^{prime}$), ale nie wskaże gałęzi niewłaściwej, i konsekwentnie do popełnionego błędu obliczy prawdopodobieństwo, to otrzymuje 1 punkt.
+Jeżeli zdający narysuje tylko drzewko i nie zaznaczy oraz nie opisze żadnej gałęzi, to otrzymuje 0 punków.
+Jeżeli zdający zapisze tylko liczby 36 lub 11 lub 25 i z rozwiązania zadania nie wynika znaczenie tych liczb, to otrzymuje 0 punktów.
+Jeśli zdający rozwiąże zadanie do końca i otrzyma $P(A)&gt;1$ lub $P(A) 0$.
+Zatem rozwiązaniami równania są $b_1=frac{5a-a}{2}=2a$ lub $b_2=frac{5a+a}{2}=3a$.
+Obliczamy iloraz q ciągu $(a_n)$: $q=frac{b}{a}=frac{2a}{a}=2$ lub $q=frac{b}{a}=frac{3a}{a}=3$.
+Ponieważ $q in langle2sqrt{2}, 3sqrt{2}rangle$, więc iloraz ciągu $(a_n)$ jest równy: $q=3$.
+Zadanie 34. (0-5)
+Wymaganie ogólne: IV. Użycie i tworzenie strategii.
+Wymaganie szczegółowe: 9. Stereometria. Zdający rozpoznaje w graniastosłupach i ostrosłupach kąt między odcinkami i płaszczyznami (między krawędziami i ścianami, przekątnymi i ścianami), oblicza miary tych kątów (9.2). 6. Trygonometria. Zdający wykorzystuje definicje i wyznacza wartości funkcji sinus, cosinus i tangens kątów o miarach od $0^{circ}$ do $180^{circ}$ (6.1).
+Zasady oceniania
+Rozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego rozwiązania:
+Zdający otrzymuje 1 p. gdy:
+zaznaczy na rysunku kąt $alpha$ nachylenia ściany bocznej do płaszczyzny podstawy
+albo
+zapisze równanie wynikające z definicji tangensa kąta $alpha$: $frac{h}{frac{1}{2}a}=sqrt{7}$
+albo
+zapisze równanie wynikające z twierdzenia Pitagorasa w trójkącie SOE: $h^2+(frac{a}{2})^2=h_b^2$
+albo
+zapisze równanie wynikające z twierdzenia Pitagorasa w trójkącie SEC: $h_b^2+(frac{a}{2})^2=6^2$
+albo
+zapisze równanie wynikające z twierdzenia Pitagorasa w trójkącie SOC: $h^2+(frac{asqrt{2}}{2})^2=6^2$
+albo
+zapisze równanie wynikające z definicji sinusa kąta $alpha$: $frac{h}{h_b}=frac{sqrt{14}}{4}$
+albo
+zapisze równanie wynikające z definicji cosinusa kąta $alpha$: $frac{frac{a}{2}}{h_b}=frac{sqrt{2}}{4}$
+i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie, w którym jest istotny postęp:
+Zdający otrzymuje 2 p. gdy zapisze:
+układ dwóch równań z dwiema niewiadomymi, np.: $frac{h}{frac{1}{2}a}=sqrt{7}$ i $h^2+(frac{asqrt{2}}{2})^2=6^2$
+lub
+układ trzech równań z trzema niewiadomymi, np.: $frac{h}{h_b}=frac{sqrt{14}}{4}$ i $h^2+(frac{a}{2})^2=h_b^2$ i $h^2+(frac{asqrt{2}}{2})^2=6^2$
+i na tym zakończy lub dalej popełni błędy.
+Pokonanie zasadniczych trudności zadania:
+Zdający otrzymuje 3 p. gdy zapisze równanie z jedną niewiadomą, np.:
+$(frac{sqrt{7}}{2}a)^2+(frac{asqrt{2}}{2})^2=6^2$
+lub
+$h^2+(frac{frac{2}{sqrt{7}}h cdot sqrt{2}}{2})^2=6^2$
+lub
+$frac{1}{4}h_b^2+(frac{sqrt{14}}{4}h_b)^2=6^2$
+i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie prawie pełne:
+Zdający otrzymuje 4 p. gdy:
+obliczy długość krawędzi podstawy ostrosłupa lub wysokość ostrosłupa: $a=4$, $h=2sqrt{7}$
+albo
+obliczy wysokość $h_b$ ściany bocznej ostrosłupa oraz wyznaczy objętość ostrosłupa w zależności od tej wysokości: $h_b=4sqrt{2}$, $V=frac{1}{3} cdot frac{1}{2}h_b^2 cdot frac{sqrt{14}}{4}h_b$
+i na tym zakończy lub dalej popełni błędy.
+Rozwiązanie pełne:
+Zdający otrzymuje 5 p. gdy:
+obliczy objętość ostrosłupa: $V=frac{32sqrt{7}}{3}$.
+Przykładowe rozwiązanie
+I sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zaznaczmy na rysunku kąt $alpha$ - kąt nachylenia ściany bocznej do płaszczyzny podstawy i wprowadzamy następujące oznaczenia: $a$ - krawędź podstawy ostrosłupa, $h$ - wysokość ostrosłupa.
+Korzystając z definicji tangensa kąta ostrego w trójkącie prostokątnym SOE otrzymujemy związek:
+$frac{h}{frac{1}{2}a}=sqrt{7}$,
+czyli $h=frac{sqrt{7}}{2}a$.
+Z twierdzenia Pitagorasa w trójkącie SOC wynika równanie:
+$h^2+(frac{asqrt{2}}{2})^2=6^2$.
+Wykorzystując wcześniejszą zależność otrzymujemy:
+$(frac{sqrt{7}}{2}a)^2+(frac{asqrt{2}}{2})^2=6^2$.
+Stąd $frac{7}{4}a^2+frac{2}{4}a^2=36$, $frac{9}{4}a^2=36$, stąd $a^2=16$, czyli $a=4$.
+$h=4 cdot frac{sqrt{7}}{2}=2sqrt{7}$.
+Obliczamy objętość ostrosłupa: $V=frac{1}{3} cdot 4^2 cdot 2sqrt{7}=frac{32sqrt{7}}{3}$.
+II sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Zaznaczmy na rysunku kąt $alpha$ - kąt nachylenia ściany bocznej do płaszczyzny podstawy i wprowadzamy następujące oznaczenia: $a$ - krawędź podstawy ostrosłupa, $h$ - wysokość ostrosłupa, $h_b$ - wysokość ściany bocznej ostrosłupa.
+Korzystając z definicji tangensa kąta ostrego w trójkącie prostokątnym SOE otrzymujemy:
+$frac{h}{frac{1}{2}a}=sqrt{7}$, czyli $h=frac{sqrt{7}}{2}a$.
+Z twierdzenia Pitagorasa w trójkącie prostokątnym SEC otrzymujemy:
+$h_b^2=6^2-(frac{a}{2})^2$, $h_b^2=frac{144-a^2}{4}$.
+Z twierdzenia Pitagorasa w trójkącie prostokątnym SOE otrzymujemy:
+$h^2+(frac{a}{2})^2=h_b^2$.
+Zatem $h^2+frac{a^2}{4}=frac{144-a^2}{4}$.
+$frac{7}{4}a^2+frac{a^2}{4}=frac{144-a^2}{4}$.
+$a^2=16$.
+Stąd $a=4$, więc $h=2sqrt{7}$.
+Uwaga
+Zależności między wielkościami h, a i hb, możemy też otrzymać, wykorzystując definicje funkcji sinus lub cosinus kąta α. Jeżeli tgα = √7, to sinα = √14 / 4 i cosα = √2 / 4.
+Stąd h / hb = √14 / 4 oraz (1/2 * a) / hb = √2 / 4.

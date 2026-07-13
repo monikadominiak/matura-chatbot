@@ -1,0 +1,15 @@
+=== ARKUSZ: 2016p | ZADANIE 19 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 19. (0-1)
+Okręgi o promieniach 3 i 4 są styczne zewnętrznie. Prosta styczna do okręgu o promieniu 4 w punkcie P przechodzi przez środek okręgu o promieniu 3 (zobacz rysunek). Pole trójkąta, którego wierzchołkami są środki okręgów i punkt styczności P, jest równe
+A. 14
+B. 2*sqrt(33)
+C. 4*sqrt(33)
+D. 12
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 19. $(0-1)$  Wymagania ogólne: IV. Użycie i tworzenie strategii.  Wymagania szczegółowe: 7. Planimetria. Zdający korzysta z własności stycznej do okręgu i własności okręgów stycznych (7.2).  Poprawna odp. (1 p.): Wersja I: B; Wersja II: C
+Strona 4 z 20

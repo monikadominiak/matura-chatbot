@@ -1,0 +1,65 @@
+
+--- STRONA 1 ---
+Zadanie z4 (9.4) Wierzchołki A i B trójkąta prostokątnego ABC leżą na prostej y = -4. Okrąg wpisany w ten trójkąt jest styczny do boków AB, BC, i CA odpowiednio w punktach P = (6, -4), Q = (2, 4) i R = (9, 5). Oblicz współrzędne wierzchołków A, B, C tego trójkąta.
+
+1) Tworzymy rysunek poglądowy
+
+Zauważmy, że prostokąt jest naszkicowany na prostej pomocniczej AC. Każdy punkt na tej prostej ma współrzędną z inną zmienną (x, b) postaci
+S(6,y)
+
+2) Wyznaczamy środek okręgu korzystając z środka prostej:
+
+\( p = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2} \)
+
+\( = \sqrt{(6-2)^2 + (-4-4)^2} \)
+
+\( = \sqrt{(9-6)^2 + (5-4)^2} \)
+
+\( \triangle ACS \)
+
+SG(x,y)
+
+3) Wyznaczamy współrzędne kierunkowe prostych SQ i SR:
+
+Jeśli A((x_1;y_1)) B((x_2;y_2)) należą do prostej o współ. l_0
+
+\( l_0 = \frac{y_2-y_1}{x_2-x_1} \)
+
+pr. SQ: y-y_1 = l(x-x_1)
+
+S(6,y) = 0, a = b+4
+
+\( a_{SQ} = \frac{y-4}{x-2} = \frac{5-y}{9-6} \)
+
+a_s = \frac{2}{3}
+
+4) Wyznaczamy pola \(\Delta\ AC\) i \(\Delta\ ABC\) na podstawie wzoru prostopadłości:
+
+pr. AC, y = mx+a
+
+pr. BC, y = mx+a
+
+pr. AC: \Delta\ = \frac{1}{2} (x_2-x_1) (y_2-y_1) = \frac{5-y}{3}
+
+\( a_{AC} = \frac{y-4}{x-2} = \frac{5-y}{9-6} \)
+
+\( b = \frac{y+4}{x-6} \)
+
+5) Obliczamy wierzchołki A, B, C z układów równań:
+
+A(x,y)
+
+\( y=-4 \)
+
+\( x=(x_1-6) + y_1-y \)
+
+\( \left\{
+\begin{array}{l}
+y \\
+x+y
+\end{array}
+\right\kappa_0 \)
+
+A(2,-4), B(6,-4), C(5,8)
+
+Odp: A(2,-4), B(6,-4), C(5,8).

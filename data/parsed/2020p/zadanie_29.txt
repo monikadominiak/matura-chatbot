@@ -1,0 +1,49 @@
+=== ARKUSZ: 2020p | ZADANIE 29 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 29. (0-2)
+Trójkąt ABC jest równoboczny. Punkt E leży na wysokości CD tego trójkąt oraz $frac{CE}{CD} = frac{3}{4}$. Punkt F leży na boku BC i odcinek EF jest prostopadły do BC (zobacz rysunek). Wykaż, że $frac{CF}{CB} = frac{9}{16}$.
+Zadanie zawiera obrazek ważny dla rozwiązania.
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Zadanie 29. (0-2)
+Wymaganie ogólne: V. Rozumowanie i argumentacja.
+Wymaganie szczegółowe: 7. Planimetria. Zdający rozpoznaje trójkąty podobne i wykorzystuje (także w kontekstach praktycznych) cechy podobieństwa trójkątów (7.1). SP9. Wielokąty, koła, okręgi. Zdający rozpoznaje i nazywa trójkąty ostrokątne, prostokątne i rozwartokątne, równoboczne i równoramienne (SP9.1).
+Zasady oceniania
+Zdający otrzymuje 1 p. gdy:
+wyznaczy długości odcinków $BC$ i $CF$ w zależności od tej samej zmiennej, np.: $|BC|=a$ i $|CF|=frac{3sqrt{3}a}{8}cdotfrac{sqrt{3}}{2}$ lub $|BC|=2x$ i $|CF|=frac{9}{8}x$
+albo
+wyznaczy skalę podobieństwa trójkątów $BCD$ i $CEF$: $k=frac{8sqrt{3}}{9}$
+albo
+wyznaczy długość odcinka $CF$ w zależności od długości odcinków $CB$ i $CD$ oraz zależność między długościami odcinków $CD$ i $CB$, np.: $|CF|=frac{3|CD|^2}{4|CB|}$, $|CD|=frac{sqrt{3}}{2}|CB|$
+i na tym poprzestanie lub dalej popełni błędy.
+Zdający otrzymuje 2 p. gdy:
+zapisze pełne rozumowanie.
+Uwaga
+Ponieważ podobieństwo zachowuje stosunek długości odcinków, więc jeżeli zdający przyjmuje konkretną wartość długości boku trójkąta i przeprowadzi rozumowanie do końca, ale nie odwołuje się do tej własności, to może otrzymać co najwyżej 1 punkt.
+Przykładowe rozwiązania
+I sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Niech $|BC|=a$. Wtedy $|CD|=frac{asqrt{3}}{2}$.
+Ponieważ $|CE|=frac{3}{4}|CD|$, to $|CE|=frac{3sqrt{3}a}{8}$.
+Zatem $|CF|=|CE| cdot frac{sqrt{3}}{2} = frac{3sqrt{3}a}{8} cdot frac{sqrt{3}}{2} = frac{9}{16}a = frac{9}{16}|BC|$.
+To kończy dowód.
+II sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąt $BCD$ jest trójkątem prostokątnym o kątach ostrych $30^{circ}$ i $60^{circ}$. Niech $|BC|=y$. Wtedy $|CD|=frac{ysqrt{3}}{2}$. Trójkąt $CEF$ jest połową trójkąta równobocznego. Niech $|CF|=x$. Stąd $|CE|=frac{2xsqrt{3}}{3}$.
+Ponieważ $|CE|=frac{3}{4}|CD|$, to $frac{2xsqrt{3}}{3}=frac{3}{4} cdot frac{ysqrt{3}}{2}$.
+Stąd $x=frac{9}{16}y$.
+To kończy dowód.
+III sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Niech $x=|BD|$. Trójkąt $BCD$ jest trójkątem prostokątnym o kątach ostrych $30^{circ}$ i $60^{circ}$, więc $|BC|=2x$ oraz $|CD|=xsqrt{3}$.
+Ponieważ $|CE|=frac{3}{4}|CD|$, więc $|CE|=frac{3}{4}xsqrt{3}$. Trójkąt $CEF$ jest połową trójkąta równobocznego, więc $|CF|=frac{frac{3}{4}xsqrt{3} cdot sqrt{3}}{2} = frac{9}{8}x$.
+Stąd $frac{|CF|}{|CB|}=frac{frac{9}{8}x}{2x}=frac{9}{16}$. Zatem $|CF|=frac{9}{16}|CB|$.
+To kończy dowód.
+IV sposób
+Zadanie zawiera obrazek ważny dla rozwiązania.
+Trójkąty $BCD$ i $ECF$ są podobne na podstawie cechy (kąt, kąt, kąt). Przyjmijmy następujące oznaczenie: $|BC|=a$, wtedy $|CD|=h=frac{asqrt{3}}{2}$. Skalę podobieństwa można obliczyć w następujący sposób:
+$k=frac{|BC|}{|CE|}=frac{a}{frac{3}{4}h}=frac{a}{frac{3}{4} cdot frac{asqrt{3}}{2}} = frac{8sqrt{3}}{9}$ oraz $k=frac{|CD|}{|CF|}$.
+Stąd $|CF|=frac{|CD|}{k}=frac{asqrt{3}}{2} cdot frac{9}{8sqrt{3}} = frac{9}{16}a$.
+To kończy dowód.

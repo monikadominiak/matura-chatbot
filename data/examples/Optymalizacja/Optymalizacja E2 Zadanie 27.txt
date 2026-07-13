@@ -1,0 +1,54 @@
+
+--- STRONA 1 ---
+Pewna firma sprzedaje towar, którego cena waha się pomiędzy 50 zł a 100 zł. Liczba sprzedanych dziennie sztuk L zależy od ceny c złotych jednej sztuki towaru zgodnie ze wzorem: L(c) = 210c - 2c^2. Oblicz, jaka cena jednej sztuki towaru przynosi największy przychód tej firmie.
+
+1️⃣ wypisujemy z polecenia potrzebne informacje
+
+c - cena za 1 sztukę towaru       c ∈ (50, 100) ⬅ dziedzina
+
+L(c) = 210c - 2c^2 - liczba sprzedanych dziennie sztuk
+
+2️⃣ zapisujemy wzór funkcji
+
+przychód = L(c) · c   ⇒   P(c) = (210c - 2c^2) · c =
+
+= -2c^3 + 210c^2          D_P = D_L
+
+3️⃣ wyznaczamy pochodną funkcji
+
+P'(c) = -6c^2 + 420c = -6c(c-70)          D_P' = D_P
+
+4️⃣ wyznaczamy miejsca zerowe pochodnej
+
+P'(c) = -6c(c-70) = 0
+
+c = 0 ∨ c = 70
+c ∈ D
+
+5️⃣ badamy monotoniczność i ekstrema funkcji
+
+I sposób:
+
+(min) → c → (max)
+
+→ c → 70
+
+P'(c)
+
+P(c)
+
+II sposób:
+
+\[
+\begin{array}{c|c|c|c}
+c & (50, 70) & 70 & (70, 100) \\
+\hline
+P'(c) & + & 0 & - \\
+\hline
+P(c) & \nearrow & \text{max. lok.} & \searrow \\
+\end{array}
+\]
+
+Funkcja P(c) osiąga w swojej dziedzinie wartość największą dla argumentu c = 70.
+
+odp: c = 70 zł

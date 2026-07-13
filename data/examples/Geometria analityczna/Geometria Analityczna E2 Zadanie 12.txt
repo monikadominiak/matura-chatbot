@@ -1,0 +1,157 @@
+
+--- STRONA 1 ---
+
+Zad.12 Napisz równanie okręgu przechodzącego przez punkty A, B, C, jeśli:  
+\( A(-14, -1), B(3, 16), C(11, 4) \).
+
+Rysunek poglądowy  
+ 
+1) Wyznaczamy równanie okręgu.
+
+I sposób: Podstawmy punkty A, B i C pod równanie okręgu: 
+
+\[
+\begin{cases} 
+(x+14)^2 + (y+1)^2 = r^2 \\
+(x-3)^2 + (y-16)^2 = r^2 \\
+(x-11)^2 + (y-4)^2 = r^2 
+\end{cases}
+\]
+
+\[ 
+(x+14)^2 + (y+1)^2 = (x-3)^2 + (y-16)^2 
+\]
+
+\[ 
+(x+14)^2 - (x-3)^2 + (y+1)^2 - (y-16)^2 = 0 
+\]
+
+\[ 
+(x^2+28x+196) - (x^2-6x+9) + (y^2+2y+1) - (y^2-32y+256) = 0 
+\]
+
+\[ 
+34x-30y-528=0 \ \ /:2 
+\]
+
+\[ 
+17x-15y-264=0 
+\]
+
+\[ 
+x= \frac{15}{17}y + \frac{264}{17}
+\]
+
+Druga analogicznie: 
+
+\[ 
+(x+14)^2 - (x-11)^2 + (y+1)^2 - (y-4)^2 = 0 
+\]
+
+\[ 
+(x^2+28x+196) - (x^2-22x+121) + (y^2+2y+1) - (y^2-8y+16) = 0 
+\]
+
+\[ 
+50x-10y-100=0 
+\]
+
+\[ 
+5x-y-10=0 
+\]
+
+II sposób: wyznaczenie
+
+\[ 
+p=AB=|y-y_1| 
+\]
+
+\[ 
+A(-14, -1) \ \ B(3, 16) \ \ p=16-(-1) 
+\]
+
+\[ 
+p=17 
+\]
+
+\[ 
+|q|=x-(-14) 
+\]
+
+\[ 
+q=(x-(-14)) 
+\]
+
+\[ 
+p=\sqrt{289+r^2} 
+\]
+
+\[ 
+|k|=| \frac{3-(-14)}{2} | 
+\]
+
+\[ 
+|k|=| \frac{17}{2} | 
+\]
+
+\[ 
+S_O(( \frac{3 \times \frac{1}{2}}{2}; q ) 
+\]
+
+\[ 
+S_O=( \frac{7}{2}; y ) 
+\]
+
+k.p. wyznacza 
+
+\[
+k_l.m \ \ \text{j.m. dla vs. a.s} 
+\]
+
+przez punkty w 
+
+\[
+B(Cq,(s): AB_k \to) 
+\]
+
+\[ 
+k.p. = |y=1; y=-4| 
+\]
+
+\[ 
+|s|: k: 1= ( \frac{3 \times -14}{2}; y \cdot \frac{x3}{2} ) 
+\]
+
+\[ 
+S_C(( \frac{11}{2}; \frac{8}{2} ) 
+\]
+
+k.p wyznaczenie 
+
+\[
+B \ mA \to c_s)=(x15+ 
+\]
+
+\[ 
+B\ m = Ck^{-16}h(*@( 
+\]
+
+\[ 
+A_O \ m (+ 
+\]
+
+\[
+ \frac{11}{2} \ \ ; $( \ s: \pmC@50 
+\]
+
+\[ 
+S_C(( \frac{17}{2}; \ y \frac{(8 \ ;666 \textit{k}_s=3; y^{-8} : crl-p) 
+\]
+
+Jeśli wyznaczymy wartość kółek obwody w postaci przecinających punkt w 1 środku A,BC to na podane rozwiązanie będem koło środka okręgu.
+
+\( O(x,y),r^2=x^2+y^2\)
+
+\[ 
+O: 6m37(x^2)-9(x^2)-x0 
+\]

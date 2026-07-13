@@ -1,0 +1,26 @@
+=== ARKUSZ: 2024p | ZADANIE 16 ===
+
+[TREŚĆ ZADANIA]
+Zadanie 16. (0–1)
+Trzywyrazowy ciąg (12, 6, 2m − 1) jest geometryczny.
+
+Dokończ zdanie. Wybierz odpowiedź A albo B oraz odpowiedź 1., 2. albo 3.
+
+Ten ciąg jest
+
+A. rosnący
+B. malejący
+
+oraz
+
+1. m = 1/2
+2. m = 2
+3. m = 3
+
+=========================================
+[OFICJALNE ZASADY OCENIANIA CKE]
+Brak standardowych zasad oceniania.
+
+=========================================
+[KRYTERIA DLA OSÓB Z DYSKALKULIĄ]
+Stosuje się standardowe zasady oceniania.

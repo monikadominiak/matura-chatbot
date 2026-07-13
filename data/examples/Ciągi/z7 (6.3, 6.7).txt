@@ -1,0 +1,39 @@
+
+--- STRONA 1 ---
+z7 (6.3, 6.7)
+
+Ciąg o dodatnich wyrazach (a_n) jest geometryczny. Ciąg (b_n) dla każdej liczby całkowitej dodatniej n określony jest następująco: b_n = log_3 a_{n+1} + log_3 a_n. Znajdź iloraz ciągu (a_n) wiedząc, że (b_n) jest ciągiem arytmetycznym o różnicy 8.
+
+1️⃣ Korzystamy z informacji, że różnica jest równa 8.
+
+b_{n+1} - b_n = 8
+
+b_n = log_3 (a_{n+1}) + log_3 (a_n)
+
+b_{n+1} = log_3 (a_{n+2}) + log_3 (a_{n+1})
+
+b_{n+1} - b_n = log_3 (a_{n+2}) + log_3 (a_{n+1}) - log_3 (a_{n+1}) - log_3 (a_n) =
+
+= log_3 (a_{n+2}) - log_3 (a_n) = 8
+
+Z prawa działań na logarytmach log_a b - log_a c = log_a \frac{b}{c}.
+
+log_3 \frac{a_{n+2}}{a_n} = 8
+
+2️⃣ Wyznaczamy q. 
+
+Korzystamy z definicji logarytmu.
+
+3^8 = \frac{a_{n+2}}{a_n} \implies \frac{a_{n+2}}{a_n} = 6561
+
+Ciąg (a_n) jest geometryczny, więc wynika z tego:
+
+\frac{a_{n+1}}{a_n} = \frac{a_{n+2}}{a_{n+1}} \implies a_n q^2 = a_{n+2}
+
+q^2 = \frac{a_{n+2}}{a_n} = 6561 \implies q=\sqrt{6561}
+
+q = 81 \lor q = -81
+
+Mieliśmy powiedziane w treści zadania, że ciąg geometryczny a_n ma wszystkie wyrazy dodatnie, co wyklucza możliwość ujemnego ilorazu.
+
+Odp.: q = 81.

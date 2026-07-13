@@ -1,0 +1,25 @@
+
+--- STRONA 1 ---
+Dany jest czworokąt wypukły \(ABCD\) niebędący równoległobokiem. Punkty \(M, N\) są odpowiednio środkami boków \(AB\) i \(CD\). Punkty \(P, Q\) są odpowiednio środkami przekątnych \(AC\) i \(BD\). Uzasadnij, że jeżeli odcinki \(MN\) i \(PQ\) są prostopadłe, to \(|AD| = |BC|\).
+
+1️⃣ tworzymy rysunek poglądowy
+
+\[ |PQ| \parallel |MN| \]
+
+teza: \(|AD| = |BC|\)
+
+2️⃣ będziemy wielokrotnie korzystać z tw. o odcinku łączącym środki boków w \(\Delta\)
+
+3️⃣ w \(\Delta ADB\): \(MQ \parallel AD\) \(\implies |MQ| = \frac{1}{2} |AD|\) \(\}\) \(\implies |MQ| = |PN|\)
+
+w \(\Delta ADC\): \(PN \parallel AD\) \(\implies |PN| = \frac{1}{2} |AD|\) \(\}\)
+
+4️⃣ w \(\Delta BCD\): \(NQ \parallel BC\) \(\implies |NQ| = \frac{1}{2} |BC|\) \(\}\) \(\implies |NQ| = |PM|\)
+
+w \(\Delta BCA\): \(PM \parallel BC\) \(\implies |PM| = \frac{1}{2} |BC|\) \(\}\)
+
+5️⃣ \(|MQ| = |PN|\) i \(|NQ| = |PM|\) zatem 4-kąt \(MQNP\) jest równoległobokiem
+
+wiemy też, że kąt między przekątnymi jest prosty, więc te 4-kąt jest rombem zatem: \(|NQ| = |PN|\) \(\implies \frac{1}{2} |BC| = \frac{1}{2} |AD|\)
+
+\[\implies |BC| = |AD| \quad \text{c.k.d.}\]

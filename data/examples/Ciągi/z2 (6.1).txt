@@ -1,0 +1,93 @@
+
+--- STRONA 1 ---
+z2 (6.1)
+
+Liczby a, b, c są kolejnymi wyrazami ciągu arytmetycznego, zaś liczby b, c, d są kolejnymi wyrazami niemonotonicznego ciągu geometrycznego. Suma pierwszej trójki liczb wynosi 12, drugiej 19. Wyznacz liczby a, b, c, d.
+
+Należy ułożyć układ 4 równań z 4 niewiadomymi w oparciu o zależności między sąsiednimi wyrazami ciągu arytmetycznego oraz geometrycznego.
+
+Oznaczmy szukane liczby jako a, b, c, d.
+
+1️⃣ Tworzymy układ równań.
+
+\( (a, b, c) \) - ciąg arytmetyczny
+
+\( (b, c, d) \) - ciąg geometryczny
+
+\[
+\begin{cases} 
+b = \frac{a+c}{2} & (1) \\
+c^2 = bd & (2) \\
+a+b+c=12 & (3) \\
+b+c+d=19 & (4) 
+\end{cases}
+\]
+
+Jeśli w zadaniu występuje ciąg arytmetyczny oraz suma jego wyrazów, to można te równania ze sobą powiązać i wyznaczyć metodą podstawienia środkowy wyraz.
+
+2️⃣ Rozwiązujemy układ równań.
+
+\[
+\begin{cases} 
+b= \frac{a+c}{2} \Rightarrow 2b = a+c & (1) \\
+a+b+c=12 & (3) 
+\end{cases}
+\]
+
+2 (1) do (3):
+
+\( 2b + b + c = 12 \)
+
+\( b = 4 \)
+
+Do (1):
+
+\( 8 = a+c \)
+
+Do (2):
+
+\( c^2 = 4d \)
+
+Do (4):
+
+\( 4 + c + d = 19 \)
+
+--- STRONA 2 ---
+Będziemy dalej rozwiązywać go metodą podstawiania. Można zauważyć, że równania (2) i (4) tworzą osobny układ 2 równań z 2 niewiadomymi.
+
+\[
+\begin{cases} 
+8 = a + c  & (1) \\ 
+c^2 = 4d  & (2) \\ 
+4 + c + d = 19 & (4) 
+\end{cases}
+\]
+
+Z (4): \( d = 15 - c \)
+
+Do (2): \( c^2 = 4(15-c) \)
+
+\( c^2 + 4c - 60 = 0 \)
+
+\( \Delta = 4^2 - 4 \cdot 1 \cdot (-60) = 256 \)
+
+\( c_1 = \frac{-4 - 16}{2} = -10 \ ; \ c_2 = \frac{-4 + 16}{2} = 6 \)
+
+Niemonotoniczny ciąg geometryczny ma ujemny iloraz q, a tym samym jego kolejne wyrazy będą na przemian dodatnie i ujemne.
+
+Wiedząc, że b = 4 kolejny wyraz c musi mieć wartość ujemną, czyli c = -10.
+
+\[
+\begin{cases} 
+b = 4 \\ 
+c = -10 
+\end{cases}
+\]
+
+\( 8 = a + c \quad \Rightarrow \quad 8 = a - 10 \quad \Rightarrow \quad a = 18 \)
+
+\( d = 15 - c \quad \Rightarrow \quad d = 15 - (-10) = 25 \)
+
+Zatem \( (a, b, c, d) = (18, 4, -10, 25) \)
+
+Odp.: \( (a, b, c, d) = (18, 4, -10, 25) \).

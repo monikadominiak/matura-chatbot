@@ -1,0 +1,57 @@
+
+--- STRONA 1 ---
+4. Dzielenie wielomianów 3  
+Dla jakich wartości parametrów m i n wielomian w jest podzielny przez wielomian u?  
+a) w(x) = x^3 + 6x^2 + 3x + m, u(x) = x^2 + 2x + n  
+b) w(x) = -9x^3 + 3x^2 + mx + 1, u(x) = 3x^2 - nx + 1  
+
+a)  
+w(x) = x^3 + 6x^2 + 3x + m  
+u(x) = x^2 + 2x + n  
+
+Aby wielomian w był podzielny przez wielomian u reszta musi być równa zero.  
+
+           ________________
+    x + 4 | x^3 + 6x^2 + 3x + m
+          | -x^3 - 2x^2 - nx
+          |__________________
+             4x^2 + (3-n)x + m
+            -4x^2 - 8x - 4n
+          |__________________
+            (-5-n)x + m - 4n
+
+-5 - n = 0 | +n  
+n = -5  
+
+m - 4n = 0  
+m - 4(-5) = 0  
+m = -20  
+
+Zatem: n = -5, m = -20  
+
+Odp: n = -5, m = -20.  
+
+
+b)  
+w(x) = -9x^3 + 3x^2 + mx + 1  
+u(x) = 3x^2 - nx + 1  
+
+           ________________
+     -3x - n + 1 | (-9x^3 + 3x^2 + mx + 1)
+                 |  9x^3 - 3nx^2 + 3x
+                 |_____________________
+                   (-3n + 3)x^2 + (m + 3)x + 1
+                  (3n - 3)x^2 - (n^2 + m)x + n - 1
+                 |_____________________
+                   (m + 3 - n^2 + n)x + n
+                 
+
+m + 3 - n^2 + n = 0  
+n = 0  
+
+m + 3 = 0  
+m = -3  
+
+Zatem m = -3, n = 0.  
+
+Odp: m = -3, n = 0.
