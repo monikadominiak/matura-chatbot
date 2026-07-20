@@ -38,7 +38,6 @@ class SearchEngine:
         )
 
 
-        # LLM opisujący zapytania użytkownika
 
         self.description_generator = (
             DescriptionGenerator()
@@ -73,9 +72,7 @@ class SearchEngine:
 
 
 
-            # Przywracamy oryginalny dokument
 
-            # bo page_content w Chroma to opis LLM
 
             if "full_content" in document.metadata:
 
@@ -148,10 +145,7 @@ class SearchEngine:
     ):
 
 
-        # -----------------------------
-        # Najpierw opisujemy zadanie
-        # -----------------------------
-
+        
 
         description = (
             self.description_generator.generate(
@@ -163,11 +157,6 @@ class SearchEngine:
         print("\nOpis zapytania:")
         print(description)
 
-
-
-        # -----------------------------
-        # Szukamy po opisie
-        # -----------------------------
 
 
         official = self.search_official(

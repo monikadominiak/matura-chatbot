@@ -1,5 +1,3 @@
-# backend/rag/solution_analyzer.py
-
 import os
 
 from dotenv import load_dotenv
@@ -58,17 +56,50 @@ Podobieństwo: {hit.score:.3f}
         task_text: str,
         student_solution: str,
         user_question: str,
-        search_result: SearchResult
+        search_result: SearchResult,
+        history: list[dict] | None = None
+
     ) -> str:
 
-        retrieved_context = self._build_context(search_result)
 
+        has_solution = bool(student_solution.strip())
+        has_task = bool(task_text.strip())
+
+
+        if has_solution:
+
+            mode_instruction = """
+Uczeń przesłał zdjęcie swojego rozwiązania.
+
+Twoim zadaniem jest:
+- sprawdzić tok rozumowania,
+- znaleźć pierwszy błędny krok,
+- porównać z rozwiązaniami CKE,
+- podpowiedzieć kolejny krok.
+
+Nie rozwiązuj całego zadania za ucznia.
+"""
+
+        else:
+
+            mode_instruction = """
+Uczeń nie przesłał rozwiązania.
+Zadał pytanie matematyczne.
+
+Twoim zadaniem jest:
+- odpowiedzieć na pytanie,
+- wyjaśnić metodę,
+- użyć przykładów z bazy wiedzy,
+- prowadzić ucznia pytaniami pomocniczymi.
+
+Nie udawaj, że oceniasz rozwiązanie ucznia.
+"""
         prompt = f"""
 Jesteś egzaminatorem matematyki CKE.
 
 Twoim zadaniem NIE jest rozwiązywanie zadania od początku.
 
-Twoim zadaniem jest przeanalizowanie rozwiązania ucznia
+Twoim zadaniem jest przeanalizowanie rozwiązania ucznia, lub jego pytania
 tak, jak zrobiłby to egzaminator maturalny.
 
 ==================================================
@@ -89,17 +120,25 @@ PYTANIE UCZNIA
 
 {user_question}
 
-==================================================
-PODOBNE OFICJALNE ZADANIA I PRZYKŁADY
-==================================================
-
-{retrieved_context}
 
 ==================================================
 ZASADY ODPOWIEDZI
 ==================================================
+Najpierw przeanalizuj oficjalne rozwiązania.
 
-Najpierw przeanalizuj rozwiązanie ucznia krok po kroku.
+Następnie wskaż, które z nich najbardziej odpowiada zadaniu ucznia.
+
+Dopiero później oceń rozwiązanie ucznia, lub odpowiedz na jego pytanie.
+
+Każde stwierdzenie powinno wynikać z dokumentów.
+
+Jeżeli dokumenty nie zawierają odpowiedniej informacji,
+napisz:
+
+"Nie znalazłem odpowiedniej informacji w bazie wiedzy."
+
+Nie korzystaj z własnej wiedzy matematycznej.
+Przeanalizuj rozwiązanie ucznia krok po kroku.
 
 Porównuj sposób rozwiązania z oficjalnymi rozwiązaniami CKE
 oraz z przykładami.
@@ -150,18 +189,12 @@ Styl odpowiedzi:
 - zgodny ze stylem rozwiązań CKE,
 - bez zbędnych komentarzy.
 """
-        print("=" * 100)
-        print("KONTEKST")
-        print("=" * 100)
-        print(retrieved_context)
-        print("=" * 100)
-        response = self.client.chat.completions.create(
-            model="gpt-4.1",
-            messages=[
-                {
-                    "role": "system",
-                    "content": (
-                        """Jesteś asystentem AI. Twoim zadaniem jest pomagać użytkownikom z problemami i zadaniami  matematycznymi oraz przygotowaniem go do matury. Jeżeli użytkownik wspomni o "maturze", domyślnie zakładamy, że chodzi o maturę z matematyki, chyba, że użytkownik sprecyzuje inaczej. 
+        
+        messages = [
+            {
+                "role": "system",
+                "content": (
+                    """Jesteś asystentem AI. Twoim zadaniem jest pomagać użytkownikom z problemami i zadaniami  matematycznymi oraz przygotowaniem go do matury. Jeżeli użytkownik wspomni o "maturze", domyślnie zakładamy, że chodzi o maturę z matematyki, chyba, że użytkownik sprecyzuje inaczej. 
 Upewnij się, że udzielasz poprawnych i zrozumiałych wypowiedzi. Bądź uprzejmy dla klientów, a jednocześnie profesjonalny.
 
 Korzystaj z arkuszy maturalnych załączonych w twojej bazie wiedzy. Są one ogólnodostępne i udostępniane przez CKE na potrzeby kształcenia, możesz z nich korzystać w celu udzielenia odpowiedzi.
@@ -185,14 +218,21 @@ $$
 Nigdy nie używaj [ ] ani samych nawiasów [].
 
 Unikaj rozmów związanych z wrażliwymi tematami jak polityka i religia."""
-                        
-                    ),
-                },
-                {
-                    "role": "user",
-                    "content": prompt,
-                },
-            ],
+                ),
+            }
+        ]
+
+        if history:
+            messages.extend(history)
+
+        messages.append({
+            "role": "user",
+            "content": prompt,
+        })
+
+        response = self.client.chat.completions.create(
+            model="gpt-4.1",
+            messages=messages,
             temperature=0.1,
         )
 

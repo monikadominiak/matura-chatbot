@@ -1,5 +1,5 @@
 import os
-import fitz  # PyMuPDF
+import fitz  
 import base64
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -28,7 +28,6 @@ def convert_pdf_to_txt():
         for page_num in range(len(doc)):
             page = doc[page_num]
 
-            # 🔥 render strony do obrazu (bez popplera)
             pix = page.get_pixmap(dpi=300)
             img_bytes = pix.tobytes("png")
 
@@ -82,14 +81,13 @@ Zasady:
             except Exception as e:
                 print(f"❌ Błąd na stronie {page_num + 1}: {e}")
 
-        # 💾 zapis całego PDF jako jeden plik TXT
         base_name = os.path.splitext(file_name)[0]
         output_path = os.path.join(output_dir, f"{base_name}.txt")
 
         with open(output_path, "w", encoding="utf-8") as f:
             f.write("\n".join(full_text))
 
-        print(f"📄 Zapisano: {output_path}")
+        print(f"Zapisano: {output_path}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# React
+node_modules/
+dist/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+.env
+.venv/
+node_modules/
+__pycache__/
+*.pyc

@@ -12,27 +12,13 @@ from backend.rag.loader import DataLoader
 
 load_dotenv()
 
-
-# ============================
-# USTAWIENIA
-# ============================
-
 VECTOR_DB = Path("embeddings_test")
 
 DESCRIPTION_FILE = Path("descriptions.json")
 
-
-# TEST
-# ustaw None żeby zrobić całość
-
 MAX_OFFICIAL = None
 MAX_EXAMPLES = None
 
-
-
-# ============================
-# LLM
-# ============================
 
 
 llm = ChatOpenAI(
@@ -41,10 +27,6 @@ llm = ChatOpenAI(
 )
 
 
-
-# ============================
-# CACHE OPISÓW
-# ============================
 
 
 def load_descriptions():
@@ -80,10 +62,6 @@ def save_descriptions(data):
         )
 
 
-
-# ============================
-# GENEROWANIE OPISU
-# ============================
 
 
 def create_description(text):
@@ -155,9 +133,6 @@ Opis matematyczny:
 
 
 
-# ============================
-# PRZYGOTOWANIE DOKUMENTÓW
-# ============================
 
 
 def prepare_documents(
@@ -171,13 +146,12 @@ def prepare_documents(
     for i, doc in enumerate(documents):
 
 
-        # unikalny identyfikator
 
-        key = (
-            doc.metadata.get("exam","")
-            + "_"
-            +
-            doc.metadata.get("task","")
+        metadata = doc.metadata
+
+        key = "_".join(
+            str(metadata[k])
+            for k in sorted(metadata.keys())
         )
 
 
@@ -228,6 +202,8 @@ OPIS MATEMATYCZNY
 """
 
         metadata = dict(doc.metadata)
+        metadata["task_text"] = doc.page_content
+
         metadata["description"] = description
         result.append(
 
@@ -248,10 +224,6 @@ OPIS MATEMATYCZNY
     return result
 
 
-
-# ============================
-# WCZYTANIE
-# ============================
 
 
 loader = DataLoader()
@@ -286,9 +258,6 @@ print(
 
 
 
-# ============================
-# CACHE
-# ============================
 
 
 description_cache = load_descriptions()
@@ -301,10 +270,6 @@ print(
 )
 
 
-
-# ============================
-# GENEROWANIE
-# ============================
 
 
 print("\nOFFICIAL")
@@ -325,10 +290,6 @@ examples = prepare_documents(
 
 
 
-# ============================
-# EMBEDDINGI
-# ============================
-
 
 embeddings = OpenAIEmbeddings(
     model="text-embedding-3-small"
@@ -336,9 +297,6 @@ embeddings = OpenAIEmbeddings(
 
 
 
-# ============================
-# CHROMA
-# ============================
 
 
 import time
